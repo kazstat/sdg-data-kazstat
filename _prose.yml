@@ -72,6 +72,34 @@ prose:
             value: "UN metadata"
             scope: global
       ######### National Metadata #########
+      - name: availability
+        field:
+            element: text
+            label: "Availability"
+            scope: national
+      - name: classification
+        field:
+            element: text
+            label: "Classification"
+            scope: national
+      - name: "customisation"
+        field:
+            element: select
+            label: "Customisation"
+            options:
+              - name: '1'
+                value: 'meta.customisation-1'
+                translation_key: 'meta.customisation-1'
+              - name: '2'
+                value: 'meta.customisation-2'
+                translation_key: 'meta.customisation-2'
+              - name: '3'
+                value: 'meta.customisation-3'
+                translation_key: 'meta.customisation-3'
+              - name: '4'
+                value: 'meta.customisation-4'
+                translation_key: 'meta.customisation-4'
+            scope: national
       - name: "national_indicator_available"
         field:
             element: text
@@ -206,6 +234,21 @@ prose:
             element: text
             label: "Organisation"
             scope: source_1
+      - name: source_compilation_1
+        field:
+            element: text
+            label: "Compilation"
+            scope: source_1
+      - name: source_implementation_1
+        field:
+            element: text
+            label: "Implementation"
+            scope: source_1
+      - name: source_data_1
+        field:
+            element: text
+            label: "Data"
+            scope: source_1
       - name: "source_periodicity_1"
         field:
             element: text
@@ -272,6 +315,21 @@ prose:
         field:
             element: text
             label: "Organisation"
+            scope: source_2
+      - name: source_compilation_2
+        field:
+            element: text
+            label: "Compilation"
+            scope: source_2
+      - name: source_implementation_2
+        field:
+            element: text
+            label: "Implementation"
+            scope: source_2
+      - name: source_data_2
+        field:
+            element: text
+            label: "Data"
             scope: source_2
       - name: "source_periodicity_2"
         field:
@@ -340,6 +398,21 @@ prose:
             element: text
             label: "Organisation"
             scope: source_3
+      - name: source_compilation_3
+        field:
+            element: text
+            label: "Compilation"
+            scope: source_3
+      - name: source_implementation_3
+        field:
+            element: text
+            label: "Implementation"
+            scope: source_3
+      - name: source_data_3
+        field:
+            element: text
+            label: "Data"
+            scope: source_3
       - name: "source_periodicity_3"
         field:
             element: text
@@ -406,6 +479,21 @@ prose:
         field:
             element: text
             label: "Organisation"
+            scope: source_4
+      - name: source_compilation_4
+        field:
+            element: text
+            label: "Compilation"
+            scope: source_4
+      - name: source_implementation_4
+        field:
+            element: text
+            label: "Implementation"
+            scope: source_4
+      - name: source_data_4
+        field:
+            element: text
+            label: "Data"
             scope: source_4
       - name: "source_periodicity_4"
         field:
@@ -474,6 +562,21 @@ prose:
             element: text
             label: "Organisation"
             scope: source_5
+      - name: source_compilation_5
+        field:
+            element: text
+            label: "Compilation"
+            scope: source_5
+      - name: source_implementation_5
+        field:
+            element: text
+            label: "Implementation"
+            scope: source_5
+      - name: source_data_5
+        field:
+            element: text
+            label: "Data"
+            scope: source_5
       - name: "source_periodicity_5"
         field:
             element: text
@@ -540,6 +643,21 @@ prose:
         field:
             element: text
             label: "Organisation"
+            scope: source_6
+      - name: source_compilation_6
+        field:
+            element: text
+            label: "Compilation"
+            scope: source_6
+      - name: source_implementation_6
+        field:
+            element: text
+            label: "Implementation"
+            scope: source_6
+      - name: source_data_6
+        field:
+            element: text
+            label: "Data"
             scope: source_6
       - name: "source_periodicity_6"
         field:
