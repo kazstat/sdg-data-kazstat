@@ -19,9 +19,9 @@
   programmes (as a percentage of GDP)
 1-b-1-title: The proportion of current and capital public expenditures directed to
   sectors that benefit women, poor and vulnerable
-2-4-1-1-title: Area of irrigated land on which water-saving technologies are used (drip irrigation,sprinkling)
 10-1-1-title: Proportion of incomes  the bottom 40 per cent of the population
-10-2-1-title: Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities
+10-2-1-title: Proportion of people living below 50 per cent of median income, by sex,
+  age and persons with disabilities
 10-3-1-title: Treatment of people with disabilities that raise issues of social security,
   health care, education, housing, labor rights, as well as non-execution of court
   decisions, obtaining qualified legal assistance
@@ -74,12 +74,12 @@
 15-b-1-title: Maintenance of specially protected natural territories
 15-c-1-title: Increase in the number of saigas
 16-1-1-title: Number of victims of intentional homicide per 100 000 people
-16-2-2-title: Number of victims of trafficking per 100 000 people
 16-1-4-1-title: Specific gravity of crimes committed on the street
 16-1-4-title: Proportion of people feeling safe or insecure when they walk alone down
   the street in their area
 16-2-1-title: Proportion of children aged 1-14 years who experienced any physical
   punishment and/or psychological aggression by caregivers in the past month
+16-2-2-title: Number of victims of trafficking per 100 000 people
 16-3-2-1-title: The number of people who received free legal assistance guaranteed
   by the state
 16-3-2-title: The number of suspects and accused persons in custody out of the total
@@ -92,18 +92,27 @@
 16-6-2-1-title: The proportion of restated rights for service recipients (on the basis
   of violations found during inspections on appeals from these recipients)
 16-8-1-title: Number of international organizations of which Kazakhstan is a member
-17-4-1-title: The ratio of payments for the repayment and maintenance of external public and publicly guaranteed debt to the export of goods and services
 17-10-1-title: The weighted average level of tariffs in Kazakhstan
-17-11-1-title: Proportion of developing countries and least developed countries in the import of Kazakhstan
-17-12-1-title: Average tariffs applied to developing countries and least developed countries
+17-11-1-title: Proportion of developing countries and least developed countries in
+  the import of Kazakhstan
+17-12-1-title: Average tariffs applied to developing countries and least developed
+  countries
 17-17-1-title: Total amount of grants, government contracts to buy social services
   from Non-government Organizations (NGOs), based on service areas (in millions of
   tenge)
-17-3-1-1-title: 'Ratio of the gross outflow of direct investment abroad from Kazakh direct investors to GDP'
-17-3-1-2-title: Ratio of the gross inflow of direct investment in Kazakhstan from foreign direct investors
-17-6-2-title: The number of fixed (wired) broadband Internet subscribers is broken down by speed
-17-9-1-title: Technical and financial support provided by Kazakhstan to other countries, including within the framework of ODA, million US dollars
+17-3-1-1-title: Ratio of the gross outflow of direct investment abroad from Kazakh
+  direct investors to GDP
+17-3-1-2-title: Ratio of the gross inflow of direct investment in Kazakhstan from
+  foreign direct investors
+17-4-1-title: The ratio of payments for the repayment and maintenance of external
+  public and publicly guaranteed debt to the export of goods and services
+17-6-2-title: The number of fixed (wired) broadband Internet subscribers is broken
+  down by speed
+17-9-1-title: Technical and financial support provided by Kazakhstan to other countries,
+  including within the framework of ODA, million US dollars
 2-3-1-title: Productivity in the agricultural sector
+2-4-1-1-title: Area of irrigated land on which water-saving technologies are used
+  (drip irrigation,sprinkling)
 2-4-1-title: Areas which introduced site-specific management technologies (as a percentage
   of the total sowing area)
 2-5-2-title: Increase in the number of rare and endangered species
@@ -124,7 +133,6 @@
   active population of the same age
 4-3-1-title: The proportion of young people (age 14-24) enrolled and/or graduated
   colleges which offer technical and vocational training
-4-5-1-title: Gender Equality Index by Level of Education
 4-5-1-1-title: The proportion of pre-school organizations that created conditions
   for the education and training of children with special educational needs
 4-5-1-2-title: The proportion of schools that created conditions for inclusive education
@@ -133,6 +141,7 @@
   educational needs
 4-5-1-4-title: The proportion of universities that created equal conditions and barrier-free
   access for students with special educational needs
+4-5-1-title: Gender Equality Index by Level of Education
 4-7-1-1-title: The proportion of university students who participate in socially-beneficial
   activities
 4-7-1-2-title: The proportion of college students (enrolled in technical and vocational
@@ -141,8 +150,8 @@
   renovated training curriculum '
 4-7-1-title: The proportion of university students who participate in socially-beneficial
   activities
-4-c-1-title: Proportion of teachers in pre-school institutions with pedagogical education
 4-a-1-title: Proportion of schools provided with electricity
+4-c-1-title: Proportion of teachers in pre-school institutions with pedagogical education
 5-2-1-1-title: Reductions in reported incidents of domestic violence against women
 5-2-1-2-title: Reductions in reported incidents of domestic violence against children
 5-2-1-title: The prevalence of physical and sexual violence by an intimate partner
@@ -187,8 +196,8 @@
 8-8-1-title: Occupational injury rate
 8-8-2-title: Proportion of enterprises covered by the system of collective bargaining
   relations among large and medium-sized enterprises
-8-9-1-title: The direct contribution of tourism to GDP
 8-9-1-1-title: Growth rate of GVA direct tourism
+8-9-1-title: The direct contribution of tourism to GDP
 8-9-2-title: Proportion of employed in tourism in the total number of employed
 8-b-1-title: Percentage of young people employed in permanent jobs from among those
   who applied to employment centers
