@@ -1,6 +1,7 @@
 availability: Доступность
 classification: Классификация
-customisation: Вид индикатора
+customisation: Сравнение с глобальным индикатором
+indicator_available: Доступный индикатор
 source_compilation_1: Формирование
 source_compilation_2: Формирование
 source_compilation_3: Формирование
