@@ -1,4 +1,4 @@
-ISIC4_A: agriculture, forestry and fishery
+ISIC4_A: "agriculture, forestry and fishery"
 ISIC4_C: manufacturing
 ISIC4_F: Construction
 ISIC4_G: wholesale and retail trade; car and motorcycle repair
@@ -11,7 +11,7 @@ ISIC4_N: management and support activities
 ISIC4_O: government administration and defence
 ISIC4_P: education
 ISIC4_Q: health care and social care
-ISIC4_R: culture, entertainment and leisure
+ISIC4_R: "culture, entertainment and leisure"
 ISIC4_S: provision of other types of services
 _L_ACT_ELWPP: excluding large water-power-plant
 _L_ACT_ENG_COMP: energy companies
