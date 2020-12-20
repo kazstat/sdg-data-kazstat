@@ -1,0 +1,976 @@
+Year,UNIT_MEASURE,Sex,Area,SERIES,Regions,Value
+2011,Percent,,,1.9 US dollars per day (based on PPP),,0.1
+2011,Percent,,,3.2 US dollars per day (based on PPP),,1.2
+2011,Percent,,,5.5 US dollars per day (based on PPP),,15.3
+2011,Percent,Male,,1.9 US dollars per day (based on PPP),,0.1
+2011,Percent,Male,,3.2 US dollars per day (based on PPP),,1.2
+2011,Percent,Male,,5.5 US dollars per day (based on PPP),,15.9
+2011,Percent,Female,,1.9 US dollars per day (based on PPP),,0.1
+2011,Percent,Female,,3.2 US dollars per day (based on PPP),,1.2
+2011,Percent,Female,,5.5 US dollars per day (based on PPP),,14.7
+2011,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),,0.0
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),,0.4
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),,9.0
+2011,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),,0.2
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),,2.1
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),,22.7
+2011,Percent,,,1.9 US dollars per day (based on PPP),Akmola,0.2
+2011,Percent,,,1.9 US dollars per day (based on PPP),Karagandy,0.0
+2011,Percent,,,1.9 US dollars per day (based on PPP),Kostanay,0.1
+2011,Percent,,,1.9 US dollars per day (based on PPP),Ontustik Kazakhstan,0.4
+2011,Percent,,,1.9 US dollars per day (based on PPP),Pavlodar,0.2
+2011,Percent,,,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.2
+2011,Percent,,,1.9 US dollars per day (based on PPP),Shygys Kazakhstan,0.2
+2011,Percent,,,1.9 US dollars per day (based on PPP),Nur-Sultan city,0.0
+2011,Percent,,,3.2 US dollars per day (based on PPP),Akmola,2.1
+2011,Percent,,,3.2 US dollars per day (based on PPP),Aktobe,0.9
+2011,Percent,,,3.2 US dollars per day (based on PPP),Almaty,0.2
+2011,Percent,,,3.2 US dollars per day (based on PPP),Atyrau,0.1
+2011,Percent,,,3.2 US dollars per day (based on PPP),Batys Kazakhstan,0.8
+2011,Percent,,,3.2 US dollars per day (based on PPP),Zhambyl,0.8
+2011,Percent,,,3.2 US dollars per day (based on PPP),Karagandy,0.9
+2011,Percent,,,3.2 US dollars per day (based on PPP),Kostanay,1.3
+2011,Percent,,,3.2 US dollars per day (based on PPP),Kyzylorda,0.7
+2011,Percent,,,3.2 US dollars per day (based on PPP),Mangistau,0.1
+2011,Percent,,,3.2 US dollars per day (based on PPP),Ontustik Kazakhstan,2.6
+2011,Percent,,,3.2 US dollars per day (based on PPP),Pavlodar,1.5
+2011,Percent,,,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,3.3
+2011,Percent,,,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,2.0
+2011,Percent,,,3.2 US dollars per day (based on PPP),Nur-Sultan city,0.1
+2011,Percent,,,3.2 US dollars per day (based on PPP),Almaty city,0.1
+2011,Percent,,,5.5 US dollars per day (based on PPP),Akmola,13.6
+2011,Percent,,,5.5 US dollars per day (based on PPP),Aktobe,13.1
+2011,Percent,,,5.5 US dollars per day (based on PPP),Almaty,6.2
+2011,Percent,,,5.5 US dollars per day (based on PPP),Atyrau,6.2
+2011,Percent,,,5.5 US dollars per day (based on PPP),Batys Kazakhstan,20.5
+2011,Percent,,,5.5 US dollars per day (based on PPP),Zhambyl,24.5
+2011,Percent,,,5.5 US dollars per day (based on PPP),Karagandy,10.8
+2011,Percent,,,5.5 US dollars per day (based on PPP),Kostanay,15.6
+2011,Percent,,,5.5 US dollars per day (based on PPP),Kyzylorda,13.2
+2011,Percent,,,5.5 US dollars per day (based on PPP),Mangistau,4.6
+2011,Percent,,,5.5 US dollars per day (based on PPP),Ontustik Kazakhstan,32.7
+2011,Percent,,,5.5 US dollars per day (based on PPP),Pavlodar,17.0
+2011,Percent,,,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,21.9
+2011,Percent,,,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,17.8
+2011,Percent,,,5.5 US dollars per day (based on PPP),Nur-Sultan city,1.7
+2011,Percent,,,5.5 US dollars per day (based on PPP),Almaty city,2.0
+2011,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),Akmola,0.1
+2011,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),Ontustik Kazakhstan,0.2
+2011,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),Nur-Sultan city,0.0
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Akmola,0.7
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Aktobe,0.2
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Almaty,0.7
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Zhambyl,1.3
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Karagandy,0.3
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kostanay,0.4
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kyzylorda,0.2
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Ontustik Kazakhstan,1.1
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Pavlodar,0.5
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,0.9
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.5
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Nur-Sultan city,0.1
+2011,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Almaty city,0.1
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Akmola,10.6
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Aktobe,8.3
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty,5.3
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Atyrau,1.4
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,11.6
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Zhambyl,20.3
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Karagandy,7.4
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kostanay,9.8
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kyzylorda,7.8
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Mangistau,2.0
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Ontustik Kazakhstan,20.9
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Pavlodar,12.7
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,13.9
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,11.5
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Nur-Sultan city,1.7
+2011,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty city,2.0
+2011,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Akmola,0.3
+2011,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Karagandy,0.2
+2011,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Kostanay,0.1
+2011,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Ontustik Kazakhstan,0.5
+2011,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Pavlodar,0.6
+2011,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.3
+2011,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Shygys Kazakhstan,0.4
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Akmola,3.4
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Aktobe,2.0
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Almaty,0.1
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Atyrau,0.2
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Batys Kazakhstan,1.5
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Zhambyl,0.4
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Karagandy,3.1
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kostanay,2.3
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kyzylorda,1.0
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Mangistau,0.2
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Ontustik Kazakhstan,3.5
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Pavlodar,3.7
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,5.0
+2011,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,4.2
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Akmola,16.2
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Aktobe,20.9
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Almaty,6.4
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Atyrau,10.7
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,28.8
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Zhambyl,27.1
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Karagandy,22.9
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kostanay,21.4
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kyzylorda,16.6
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Mangistau,7.3
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Ontustik Kazakhstan,40.4
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Pavlodar,26.3
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,27.5
+2011,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,26.5
+2012,Percent,,,1.9 US dollars per day (based on PPP),,0.0
+2012,Percent,,,3.2 US dollars per day (based on PPP),,1.0
+2012,Percent,,,5.5 US dollars per day (based on PPP),,17.7
+2012,Percent,Male,,1.9 US dollars per day (based on PPP),,0.0
+2012,Percent,Male,,3.2 US dollars per day (based on PPP),,1.1
+2012,Percent,Male,,5.5 US dollars per day (based on PPP),,18.4
+2012,Percent,Female,,1.9 US dollars per day (based on PPP),,0.0
+2012,Percent,Female,,3.2 US dollars per day (based on PPP),,1.0
+2012,Percent,Female,,5.5 US dollars per day (based on PPP),,17.1
+2012,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),,0.0
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),,0.5
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),,11.6
+2012,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),,0.1
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),,1.7
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),,25.1
+2012,Percent,,,1.9 US dollars per day (based on PPP),Akmola,0.3
+2012,Percent,,,1.9 US dollars per day (based on PPP),Almaty,0.1
+2012,Percent,,,1.9 US dollars per day (based on PPP),Zhambyl,0.1
+2012,Percent,,,1.9 US dollars per day (based on PPP),Kostanay,0.1
+2012,Percent,,,1.9 US dollars per day (based on PPP),Ontustik Kazakhstan,0.0
+2012,Percent,,,1.9 US dollars per day (based on PPP),Pavlodar,0.0
+2012,Percent,,,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.1
+2012,Percent,,,1.9 US dollars per day (based on PPP),Shygys Kazakhstan,0.0
+2012,Percent,,,3.2 US dollars per day (based on PPP),Akmola,1.5
+2012,Percent,,,3.2 US dollars per day (based on PPP),Aktobe,0.7
+2012,Percent,,,3.2 US dollars per day (based on PPP),Almaty,0.4
+2012,Percent,,,3.2 US dollars per day (based on PPP),Batys Kazakhstan,0.4
+2012,Percent,,,3.2 US dollars per day (based on PPP),Zhambyl,2.3
+2012,Percent,,,3.2 US dollars per day (based on PPP),Karagandy,0.7
+2012,Percent,,,3.2 US dollars per day (based on PPP),Kostanay,0.9
+2012,Percent,,,3.2 US dollars per day (based on PPP),Kyzylorda,0.5
+2012,Percent,,,3.2 US dollars per day (based on PPP),Mangistau,0.0
+2012,Percent,,,3.2 US dollars per day (based on PPP),Ontustik Kazakhstan,2.2
+2012,Percent,,,3.2 US dollars per day (based on PPP),Pavlodar,1.3
+2012,Percent,,,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,2.9
+2012,Percent,,,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,1.0
+2012,Percent,,,3.2 US dollars per day (based on PPP),Nur-Sultan city,0.1
+2012,Percent,,,3.2 US dollars per day (based on PPP),Almaty city,0.1
+2012,Percent,,,5.5 US dollars per day (based on PPP),Akmola,17.0
+2012,Percent,,,5.5 US dollars per day (based on PPP),Aktobe,15.2
+2012,Percent,,,5.5 US dollars per day (based on PPP),Almaty,8.8
+2012,Percent,,,5.5 US dollars per day (based on PPP),Atyrau,6.3
+2012,Percent,,,5.5 US dollars per day (based on PPP),Batys Kazakhstan,27.4
+2012,Percent,,,5.5 US dollars per day (based on PPP),Zhambyl,36.4
+2012,Percent,,,5.5 US dollars per day (based on PPP),Karagandy,11.6
+2012,Percent,,,5.5 US dollars per day (based on PPP),Kostanay,17.0
+2012,Percent,,,5.5 US dollars per day (based on PPP),Kyzylorda,12.2
+2012,Percent,,,5.5 US dollars per day (based on PPP),Mangistau,4.0
+2012,Percent,,,5.5 US dollars per day (based on PPP),Ontustik Kazakhstan,40.9
+2012,Percent,,,5.5 US dollars per day (based on PPP),Pavlodar,15.4
+2012,Percent,,,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,20.1
+2012,Percent,,,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,15.0
+2012,Percent,,,5.5 US dollars per day (based on PPP),Nur-Sultan city,1.3
+2012,Percent,,,5.5 US dollars per day (based on PPP),Almaty city,1.1
+2012,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),Akmola,0.3
+2012,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),Kostanay,0.1
+2012,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),Ontustik Kazakhstan,0.1
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Akmola,1.4
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Aktobe,0.3
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Zhambyl,2.6
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Karagandy,0.2
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kostanay,0.3
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kyzylorda,0.3
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Mangistau,0.1
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Ontustik Kazakhstan,1.2
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Pavlodar,0.4
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,1.4
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.7
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Nur-Sultan city,0.1
+2012,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Almaty city,0.1
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Akmola,16.7
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Aktobe,15.0
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty,10.1
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Atyrau,3.9
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,19.7
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Zhambyl,28.7
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Karagandy,7.7
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kostanay,15.1
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kyzylorda,11.2
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Mangistau,1.3
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Ontustik Kazakhstan,28.2
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Pavlodar,11.7
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,15.4
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,12.2
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Nur-Sultan city,1.3
+2012,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty city,1.1
+2012,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Akmola,0.3
+2012,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Almaty,0.1
+2012,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Zhambyl,0.2
+2012,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Kostanay,0.2
+2012,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Pavlodar,0.1
+2012,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.1
+2012,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Shygys Kazakhstan,0.1
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Akmola,1.7
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Aktobe,1.4
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Almaty,0.6
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Batys Kazakhstan,0.8
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Zhambyl,2.1
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Karagandy,2.8
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kostanay,1.4
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kyzylorda,0.5
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Ontustik Kazakhstan,2.9
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Pavlodar,3.2
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,3.9
+2012,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,1.4
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Akmola,17.3
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Aktobe,15.6
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Almaty,8.4
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Atyrau,8.6
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,34.8
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Zhambyl,41.3
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Karagandy,25.6
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kostanay,19.0
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kyzylorda,13.0
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Mangistau,6.7
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Ontustik Kazakhstan,49.0
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Pavlodar,23.7
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,23.4
+2012,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,18.9
+2013,Percent,,,1.9 US dollars per day (based on PPP),,0.0
+2013,Percent,,,3.2 US dollars per day (based on PPP),,0.7
+2013,Percent,,,5.5 US dollars per day (based on PPP),,13.6
+2013,Percent,Male,,1.9 US dollars per day (based on PPP),,0.0
+2013,Percent,Male,,3.2 US dollars per day (based on PPP),,0.7
+2013,Percent,Male,,5.5 US dollars per day (based on PPP),,14.2
+2013,Percent,Female,,1.9 US dollars per day (based on PPP),,0.0
+2013,Percent,Female,,3.2 US dollars per day (based on PPP),,0.6
+2013,Percent,Female,,5.5 US dollars per day (based on PPP),,13.1
+2013,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),,0.0
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),,0.3
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),,8.4
+2013,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),,0.0
+2013,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),,1.1
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),,20.0
+2013,Percent,,,1.9 US dollars per day (based on PPP),Akmola,0.1
+2013,Percent,,,1.9 US dollars per day (based on PPP),Karagandy,0.2
+2013,Percent,,,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.4
+2013,Percent,,,3.2 US dollars per day (based on PPP),Akmola,1.5
+2013,Percent,,,3.2 US dollars per day (based on PPP),Aktobe,0.5
+2013,Percent,,,3.2 US dollars per day (based on PPP),Almaty,0.6
+2013,Percent,,,3.2 US dollars per day (based on PPP),Batys Kazakhstan,0.4
+2013,Percent,,,3.2 US dollars per day (based on PPP),Zhambyl,0.4
+2013,Percent,,,3.2 US dollars per day (based on PPP),Karagandy,0.9
+2013,Percent,,,3.2 US dollars per day (based on PPP),Kostanay,1.3
+2013,Percent,,,3.2 US dollars per day (based on PPP),Kyzylorda,0.3
+2013,Percent,,,3.2 US dollars per day (based on PPP),Pavlodar,0.3
+2013,Percent,,,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,2.2
+2013,Percent,,,3.2 US dollars per day (based on PPP),Turkistan,1.6
+2013,Percent,,,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.1
+2013,Percent,,,3.2 US dollars per day (based on PPP),Nur-Sultan city,0.0
+2013,Percent,,,3.2 US dollars per day (based on PPP),Almaty city,0.0
+2013,Percent,,,3.2 US dollars per day (based on PPP),Shymkent city,0.6
+2013,Percent,,,5.5 US dollars per day (based on PPP),Akmola,16.3
+2013,Percent,,,5.5 US dollars per day (based on PPP),Aktobe,12.8
+2013,Percent,,,5.5 US dollars per day (based on PPP),Almaty,4.3
+2013,Percent,,,5.5 US dollars per day (based on PPP),Atyrau,6.8
+2013,Percent,,,5.5 US dollars per day (based on PPP),Batys Kazakhstan,23.2
+2013,Percent,,,5.5 US dollars per day (based on PPP),Zhambyl,15.1
+2013,Percent,,,5.5 US dollars per day (based on PPP),Karagandy,11.2
+2013,Percent,,,5.5 US dollars per day (based on PPP),Kostanay,15.0
+2013,Percent,,,5.5 US dollars per day (based on PPP),Kyzylorda,11.3
+2013,Percent,,,5.5 US dollars per day (based on PPP),Mangistau,3.1
+2013,Percent,,,5.5 US dollars per day (based on PPP),Pavlodar,7.8
+2013,Percent,,,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,20.0
+2013,Percent,,,5.5 US dollars per day (based on PPP),Turkistan,38.4
+2013,Percent,,,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,11.9
+2013,Percent,,,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.9
+2013,Percent,,,5.5 US dollars per day (based on PPP),Almaty city,1.2
+2013,Percent,,,5.5 US dollars per day (based on PPP),Shymkent city,17.3
+2013,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,1.0
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Akmola,1.3
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Aktobe,0.4
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Almaty,0.1
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Zhambyl,0.2
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Karagandy,0.2
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kostanay,1.4
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kyzylorda,0.8
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,1.9
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.2
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Nur-Sultan city,0.0
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Almaty city,0.0
+2013,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Shymkent city,0.6
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Akmola,16.5
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Aktobe,9.3
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty,5.8
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Atyrau,2.8
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,13.9
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Zhambyl,10.3
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Karagandy,7.8
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kostanay,14.2
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kyzylorda,10.9
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Mangistau,1.1
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Pavlodar,5.5
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,15.5
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Turkistan,23.8
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,9.0
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.9
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty city,1.2
+2013,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shymkent city,17.3
+2013,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Akmola,0.2
+2013,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Karagandy,0.7
+2013,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.1
+2013,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Akmola,1.6
+2013,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Aktobe,0.7
+2013,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Almaty,0.7
+2013,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Batys Kazakhstan,0.8
+2013,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Zhambyl,0.6
+2013,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Karagandy,3.5
+2013,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kostanay,1.3
+2013,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Pavlodar,0.9
+2013,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,2.5
+2013,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Turkistan,2.1
+2013,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.1
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Akmola,16.1
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Aktobe,18.3
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Almaty,3.8
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Atyrau,10.7
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,32.2
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Zhambyl,18.3
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Karagandy,23.5
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kostanay,16.0
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kyzylorda,11.6
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Mangistau,5.1
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Pavlodar,13.1
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,23.2
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Turkistan,42.7
+2013,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,16.1
+2014,Percent,,,1.9 US dollars per day (based on PPP),,0.0
+2014,Percent,,,3.2 US dollars per day (based on PPP),,0.7
+2014,Percent,,,5.5 US dollars per day (based on PPP),,15.0
+2014,Percent,Male,,1.9 US dollars per day (based on PPP),,0.0
+2014,Percent,Male,,3.2 US dollars per day (based on PPP),,0.7
+2014,Percent,Male,,5.5 US dollars per day (based on PPP),,15.7
+2014,Percent,Female,,1.9 US dollars per day (based on PPP),,0.0
+2014,Percent,Female,,3.2 US dollars per day (based on PPP),,0.6
+2014,Percent,Female,,5.5 US dollars per day (based on PPP),,14.5
+2014,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),,0.0
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),,0.3
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),,9.3
+2014,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),,0.0
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),,1.1
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),,22.1
+2014,Percent,,,1.9 US dollars per day (based on PPP),Akmola,0.1
+2014,Percent,,,1.9 US dollars per day (based on PPP),Karagandy,0.0
+2014,Percent,,,1.9 US dollars per day (based on PPP),Turkistan,0.1
+2014,Percent,,,3.2 US dollars per day (based on PPP),Akmola,0.8
+2014,Percent,,,3.2 US dollars per day (based on PPP),Aktobe,0.9
+2014,Percent,,,3.2 US dollars per day (based on PPP),Almaty,0.3
+2014,Percent,,,3.2 US dollars per day (based on PPP),Batys Kazakhstan,1.3
+2014,Percent,,,3.2 US dollars per day (based on PPP),Zhambyl,0.7
+2014,Percent,,,3.2 US dollars per day (based on PPP),Karagandy,0.6
+2014,Percent,,,3.2 US dollars per day (based on PPP),Kostanay,1.2
+2014,Percent,,,3.2 US dollars per day (based on PPP),Kyzylorda,0.6
+2014,Percent,,,3.2 US dollars per day (based on PPP),Mangistau,0.1
+2014,Percent,,,3.2 US dollars per day (based on PPP),Pavlodar,0.2
+2014,Percent,,,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,1.2
+2014,Percent,,,3.2 US dollars per day (based on PPP),Turkistan,1.6
+2014,Percent,,,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.6
+2014,Percent,,,3.2 US dollars per day (based on PPP),Almaty city,0.1
+2014,Percent,,,5.5 US dollars per day (based on PPP),Akmola,15.8
+2014,Percent,,,5.5 US dollars per day (based on PPP),Aktobe,13.0
+2014,Percent,,,5.5 US dollars per day (based on PPP),Almaty,5.8
+2014,Percent,,,5.5 US dollars per day (based on PPP),Atyrau,10.7
+2014,Percent,,,5.5 US dollars per day (based on PPP),Batys Kazakhstan,21.1
+2014,Percent,,,5.5 US dollars per day (based on PPP),Zhambyl,24.7
+2014,Percent,,,5.5 US dollars per day (based on PPP),Karagandy,9.1
+2014,Percent,,,5.5 US dollars per day (based on PPP),Kostanay,15.3
+2014,Percent,,,5.5 US dollars per day (based on PPP),Kyzylorda,15.9
+2014,Percent,,,5.5 US dollars per day (based on PPP),Mangistau,4.2
+2014,Percent,,,5.5 US dollars per day (based on PPP),Pavlodar,9.6
+2014,Percent,,,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,19.1
+2014,Percent,,,5.5 US dollars per day (based on PPP),Turkistan,41.9
+2014,Percent,,,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,13.9
+2014,Percent,,,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.6
+2014,Percent,,,5.5 US dollars per day (based on PPP),Almaty city,1.8
+2014,Percent,,,5.5 US dollars per day (based on PPP),Shymkent city,13.4
+2014,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),Turkistan,0.3
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Akmola,0.3
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Aktobe,0.5
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Almaty,0.5
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Batys Kazakhstan,0.3
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Zhambyl,0.8
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Karagandy,0.1
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kostanay,0.4
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kyzylorda,1.0
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Pavlodar,0.2
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,0.5
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Turkistan,1.1
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.2
+2014,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Almaty city,0.1
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Akmola,15.9
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Aktobe,10.8
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty,6.9
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Atyrau,3.8
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,11.6
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Zhambyl,18.2
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Karagandy,6.2
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kostanay,10.6
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kyzylorda,15.3
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Mangistau,1.0
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Pavlodar,7.9
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,14.1
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Turkistan,32.6
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,12.8
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.6
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty city,1.8
+2014,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shymkent city,13.4
+2014,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Akmola,0.2
+2014,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Karagandy,0.1
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Akmola,1.2
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Aktobe,1.6
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Almaty,0.3
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Batys Kazakhstan,2.4
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Zhambyl,0.6
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Karagandy,2.7
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kostanay,2.0
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kyzylorda,0.4
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Mangistau,0.1
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Pavlodar,0.3
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,1.8
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Turkistan,1.7
+2014,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,1.3
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Akmola,15.8
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Aktobe,16.5
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Almaty,5.5
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Atyrau,17.0
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,30.5
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Zhambyl,29.1
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Karagandy,20.3
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kostanay,20.4
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kyzylorda,16.3
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Mangistau,7.4
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Pavlodar,13.6
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,22.9
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Turkistan,44.7
+2014,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,15.6
+2015,Percent,,,1.9 US dollars per day (based on PPP),,0.0
+2015,Percent,,,3.2 US dollars per day (based on PPP),,0.7
+2015,Percent,,,5.5 US dollars per day (based on PPP),,16.1
+2015,Percent,Male,,1.9 US dollars per day (based on PPP),,0.0
+2015,Percent,Male,,3.2 US dollars per day (based on PPP),,0.7
+2015,Percent,Male,,5.5 US dollars per day (based on PPP),,16.8
+2015,Percent,Female,,1.9 US dollars per day (based on PPP),,0.0
+2015,Percent,Female,,3.2 US dollars per day (based on PPP),,0.7
+2015,Percent,Female,,5.5 US dollars per day (based on PPP),,15.6
+2015,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),,0.3
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),,10.1
+2015,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),,0.1
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),,1.2
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),,24.0
+2015,Percent,,,1.9 US dollars per day (based on PPP),Akmola,0.0
+2015,Percent,,,1.9 US dollars per day (based on PPP),Almaty,0.1
+2015,Percent,,,1.9 US dollars per day (based on PPP),Karagandy,0.0
+2015,Percent,,,1.9 US dollars per day (based on PPP),Kostanay,0.1
+2015,Percent,,,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.3
+2015,Percent,,,1.9 US dollars per day (based on PPP),Shygys Kazakhstan,0.0
+2015,Percent,,,3.2 US dollars per day (based on PPP),Akmola,1.3
+2015,Percent,,,3.2 US dollars per day (based on PPP),Aktobe,0.8
+2015,Percent,,,3.2 US dollars per day (based on PPP),Almaty,0.3
+2015,Percent,,,3.2 US dollars per day (based on PPP),Batys Kazakhstan,1.7
+2015,Percent,,,3.2 US dollars per day (based on PPP),Zhambyl,1.0
+2015,Percent,,,3.2 US dollars per day (based on PPP),Karagandy,0.7
+2015,Percent,,,3.2 US dollars per day (based on PPP),Kostanay,1.0
+2015,Percent,,,3.2 US dollars per day (based on PPP),Kyzylorda,0.8
+2015,Percent,,,3.2 US dollars per day (based on PPP),Mangistau,0.1
+2015,Percent,,,3.2 US dollars per day (based on PPP),Pavlodar,0.9
+2015,Percent,,,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,2.0
+2015,Percent,,,3.2 US dollars per day (based on PPP),Turkistan,0.7
+2015,Percent,,,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,1.1
+2015,Percent,,,3.2 US dollars per day (based on PPP),Nur-Sultan city,0.1
+2015,Percent,,,5.5 US dollars per day (based on PPP),Akmola,16.2
+2015,Percent,,,5.5 US dollars per day (based on PPP),Aktobe,17.8
+2015,Percent,,,5.5 US dollars per day (based on PPP),Almaty,8.7
+2015,Percent,,,5.5 US dollars per day (based on PPP),Atyrau,11.8
+2015,Percent,,,5.5 US dollars per day (based on PPP),Batys Kazakhstan,21.3
+2015,Percent,,,5.5 US dollars per day (based on PPP),Zhambyl,35.8
+2015,Percent,,,5.5 US dollars per day (based on PPP),Karagandy,12.1
+2015,Percent,,,5.5 US dollars per day (based on PPP),Kostanay,16.3
+2015,Percent,,,5.5 US dollars per day (based on PPP),Kyzylorda,26.7
+2015,Percent,,,5.5 US dollars per day (based on PPP),Mangistau,4.8
+2015,Percent,,,5.5 US dollars per day (based on PPP),Pavlodar,10.9
+2015,Percent,,,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,16.1
+2015,Percent,,,5.5 US dollars per day (based on PPP),Turkistan,36.1
+2015,Percent,,,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,13.1
+2015,Percent,,,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.8
+2015,Percent,,,5.5 US dollars per day (based on PPP),Almaty city,2.1
+2015,Percent,,,5.5 US dollars per day (based on PPP),Shymkent city,12.5
+2015,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Akmola,1.2
+2015,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Aktobe,0.2
+2015,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Almaty,0.7
+2015,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Batys Kazakhstan,0.1
+2015,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Zhambyl,1.2
+2015,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kostanay,0.2
+2015,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kyzylorda,0.5
+2015,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Pavlodar,0.6
+2015,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,1.3
+2015,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.4
+2015,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Nur-Sultan city,0.1
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Akmola,16.6
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Aktobe,14.6
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty,9.0
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Atyrau,4.6
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,11.6
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Zhambyl,30.2
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Karagandy,10.0
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kostanay,10.9
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kyzylorda,21.5
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Mangistau,1.5
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Pavlodar,10.9
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,11.7
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Turkistan,25.2
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,7.2
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.8
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty city,2.1
+2015,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shymkent city,12.5
+2015,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Akmola,0.0
+2015,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Almaty,0.1
+2015,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Karagandy,0.1
+2015,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.5
+2015,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Shygys Kazakhstan,0.1
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Akmola,1.5
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Aktobe,1.8
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Almaty,0.2
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Batys Kazakhstan,3.2
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Zhambyl,0.9
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Karagandy,3.3
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kostanay,2.0
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kyzylorda,1.0
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Mangistau,0.1
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Pavlodar,1.4
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,2.6
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Turkistan,1.0
+2015,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,2.3
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Akmola,15.9
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Aktobe,23.2
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Almaty,8.7
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Atyrau,18.4
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,30.9
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Zhambyl,39.7
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Karagandy,20.4
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kostanay,22.3
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kyzylorda,30.3
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Mangistau,7.8
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Pavlodar,10.7
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,19.5
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Turkistan,40.3
+2015,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,21.9
+2016,Percent,,,1.9 US dollars per day (based on PPP),,0.0
+2016,Percent,,,3.2 US dollars per day (based on PPP),,0.5
+2016,Percent,,,5.5 US dollars per day (based on PPP),,13.7
+2016,Percent,Male,,1.9 US dollars per day (based on PPP),,0.0
+2016,Percent,Male,,3.2 US dollars per day (based on PPP),,0.5
+2016,Percent,Male,,5.5 US dollars per day (based on PPP),,14.4
+2016,Percent,Female,,1.9 US dollars per day (based on PPP),,0.0
+2016,Percent,Female,,3.2 US dollars per day (based on PPP),,0.5
+2016,Percent,Female,,5.5 US dollars per day (based on PPP),,13.1
+2016,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),,0.0
+2016,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),,0.2
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),,7.9
+2016,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),,0.0
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),,0.9
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),,21.5
+2016,Percent,,,1.9 US dollars per day (based on PPP),Karagandy,0.0
+2016,Percent,,,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.4
+2016,Percent,,,1.9 US dollars per day (based on PPP),Turkistan,0.1
+2016,Percent,,,3.2 US dollars per day (based on PPP),Akmola,0.8
+2016,Percent,,,3.2 US dollars per day (based on PPP),Aktobe,0.2
+2016,Percent,,,3.2 US dollars per day (based on PPP),Batys Kazakhstan,0.9
+2016,Percent,,,3.2 US dollars per day (based on PPP),Zhambyl,0.8
+2016,Percent,,,3.2 US dollars per day (based on PPP),Karagandy,0.4
+2016,Percent,,,3.2 US dollars per day (based on PPP),Kostanay,0.9
+2016,Percent,,,3.2 US dollars per day (based on PPP),Kyzylorda,0.4
+2016,Percent,,,3.2 US dollars per day (based on PPP),Mangistau,0.1
+2016,Percent,,,3.2 US dollars per day (based on PPP),Pavlodar,0.3
+2016,Percent,,,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,1.4
+2016,Percent,,,3.2 US dollars per day (based on PPP),Turkistan,1.5
+2016,Percent,,,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.3
+2016,Percent,,,3.2 US dollars per day (based on PPP),Almaty city,0.1
+2016,Percent,,,5.5 US dollars per day (based on PPP),Akmola,14.7
+2016,Percent,,,5.5 US dollars per day (based on PPP),Aktobe,13.2
+2016,Percent,,,5.5 US dollars per day (based on PPP),Almaty,5.7
+2016,Percent,,,5.5 US dollars per day (based on PPP),Atyrau,9.4
+2016,Percent,,,5.5 US dollars per day (based on PPP),Batys Kazakhstan,17.9
+2016,Percent,,,5.5 US dollars per day (based on PPP),Zhambyl,33.1
+2016,Percent,,,5.5 US dollars per day (based on PPP),Karagandy,9.5
+2016,Percent,,,5.5 US dollars per day (based on PPP),Kostanay,15.9
+2016,Percent,,,5.5 US dollars per day (based on PPP),Kyzylorda,22.8
+2016,Percent,,,5.5 US dollars per day (based on PPP),Mangistau,3.3
+2016,Percent,,,5.5 US dollars per day (based on PPP),Pavlodar,9.8
+2016,Percent,,,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,13.1
+2016,Percent,,,5.5 US dollars per day (based on PPP),Turkistan,34.5
+2016,Percent,,,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,9.4
+2016,Percent,,,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.8
+2016,Percent,,,5.5 US dollars per day (based on PPP),Almaty city,2.1
+2016,Percent,,,5.5 US dollars per day (based on PPP),Shymkent city,5.1
+2016,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.4
+2016,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Akmola,0.8
+2016,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Zhambyl,0.8
+2016,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Karagandy,0.1
+2016,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kostanay,0.3
+2016,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kyzylorda,0.8
+2016,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,1.0
+2016,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Turkistan,0.4
+2016,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.1
+2016,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Almaty city,0.1
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Akmola,12.8
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Aktobe,11.2
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty,5.6
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Atyrau,2.7
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,10.3
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Zhambyl,26.3
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Karagandy,7.8
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kostanay,11.5
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kyzylorda,20.3
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Mangistau,1.2
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Pavlodar,8.3
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,10.2
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Turkistan,20.3
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,4.3
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.8
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty city,2.1
+2016,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shymkent city,5.1
+2016,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Karagandy,0.1
+2016,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Kostanay,0.1
+2016,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.4
+2016,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Turkistan,0.1
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Akmola,0.9
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Aktobe,0.5
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Batys Kazakhstan,1.7
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Zhambyl,0.8
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Karagandy,1.8
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kostanay,1.7
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kyzylorda,0.1
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Mangistau,0.1
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Pavlodar,1.1
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,1.7
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Turkistan,1.9
+2016,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.6
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Akmola,16.4
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Aktobe,16.4
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Almaty,5.8
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Atyrau,15.5
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,25.7
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Zhambyl,37.7
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Karagandy,16.0
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kostanay,21.0
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kyzylorda,24.5
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Mangistau,5.1
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Pavlodar,13.3
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,15.3
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Turkistan,40.1
+2016,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,17.1
+2017,Percent,,,1.9 US dollars per day (based on PPP),,0.0
+2017,Percent,,,3.2 US dollars per day (based on PPP),,0.5
+2017,Percent,,,5.5 US dollars per day (based on PPP),,11.4
+2017,Percent,Male,,1.9 US dollars per day (based on PPP),,0.0
+2017,Percent,Male,,3.2 US dollars per day (based on PPP),,0.5
+2017,Percent,Male,,5.5 US dollars per day (based on PPP),,11.9
+2017,Percent,Female,,1.9 US dollars per day (based on PPP),,0.0
+2017,Percent,Female,,3.2 US dollars per day (based on PPP),,0.5
+2017,Percent,Female,,5.5 US dollars per day (based on PPP),,11.0
+2017,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),,0.0
+2017,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),,0.2
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),,7.0
+2017,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),,0.1
+2017,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),,0.9
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),,17.3
+2017,Percent,,,1.9 US dollars per day (based on PPP),Karagandy,0.0
+2017,Percent,,,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.1
+2017,Percent,,,1.9 US dollars per day (based on PPP),Shygys Kazakhstan,0.3
+2017,Percent,,,3.2 US dollars per day (based on PPP),Akmola,0.8
+2017,Percent,,,3.2 US dollars per day (based on PPP),Aktobe,0.3
+2017,Percent,,,3.2 US dollars per day (based on PPP),Batys Kazakhstan,0.7
+2017,Percent,,,3.2 US dollars per day (based on PPP),Zhambyl,1.4
+2017,Percent,,,3.2 US dollars per day (based on PPP),Karagandy,0.5
+2017,Percent,,,3.2 US dollars per day (based on PPP),Kostanay,0.7
+2017,Percent,,,3.2 US dollars per day (based on PPP),Kyzylorda,0.1
+2017,Percent,,,3.2 US dollars per day (based on PPP),Pavlodar,0.1
+2017,Percent,,,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,1.1
+2017,Percent,,,3.2 US dollars per day (based on PPP),Turkistan,0.9
+2017,Percent,,,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,1.1
+2017,Percent,,,3.2 US dollars per day (based on PPP),Almaty city,0.1
+2017,Percent,,,5.5 US dollars per day (based on PPP),Akmola,11.5
+2017,Percent,,,5.5 US dollars per day (based on PPP),Aktobe,13.0
+2017,Percent,,,5.5 US dollars per day (based on PPP),Almaty,6.4
+2017,Percent,,,5.5 US dollars per day (based on PPP),Atyrau,6.8
+2017,Percent,,,5.5 US dollars per day (based on PPP),Batys Kazakhstan,17.0
+2017,Percent,,,5.5 US dollars per day (based on PPP),Zhambyl,21.9
+2017,Percent,,,5.5 US dollars per day (based on PPP),Karagandy,8.7
+2017,Percent,,,5.5 US dollars per day (based on PPP),Kostanay,10.4
+2017,Percent,,,5.5 US dollars per day (based on PPP),Kyzylorda,18.7
+2017,Percent,,,5.5 US dollars per day (based on PPP),Mangistau,3.2
+2017,Percent,,,5.5 US dollars per day (based on PPP),Pavlodar,6.6
+2017,Percent,,,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,11.5
+2017,Percent,,,5.5 US dollars per day (based on PPP),Turkistan,29.2
+2017,Percent,,,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,9.0
+2017,Percent,,,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.8
+2017,Percent,,,5.5 US dollars per day (based on PPP),Almaty city,1.5
+2017,Percent,,,5.5 US dollars per day (based on PPP),Shymkent city,6.1
+2017,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.1
+2017,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Akmola,0.6
+2017,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Aktobe,0.2
+2017,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Zhambyl,0.6
+2017,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Karagandy,0.3
+2017,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kostanay,0.3
+2017,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kyzylorda,0.3
+2017,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,1.1
+2017,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.3
+2017,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Almaty city,0.1
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Akmola,10.2
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Aktobe,12.0
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty,4.7
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Atyrau,2.5
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,10.4
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Zhambyl,18.4
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Karagandy,6.8
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kostanay,7.7
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kyzylorda,15.9
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Mangistau,0.8
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Pavlodar,5.0
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,10.3
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Turkistan,22.0
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,5.3
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.8
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty city,1.5
+2017,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shymkent city,6.1
+2017,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Karagandy,0.1
+2017,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Soltustik Kazakhstan,0.1
+2017,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Shygys Kazakhstan,0.7
+2017,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Akmola,0.9
+2017,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Aktobe,0.5
+2017,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Batys Kazakhstan,1.5
+2017,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Zhambyl,1.9
+2017,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Karagandy,1.2
+2017,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kostanay,1.2
+2017,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Pavlodar,0.3
+2017,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,1.0
+2017,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Turkistan,1.3
+2017,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,2.4
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Akmola,12.7
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Aktobe,14.8
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Almaty,6.9
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Atyrau,10.7
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,24.0
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Zhambyl,24.3
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Karagandy,16.0
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kostanay,13.5
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kyzylorda,20.6
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Mangistau,4.9
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Pavlodar,10.6
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,12.4
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Turkistan,32.3
+2017,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,14.7
+2018,Percent,,,1.9 US dollars per day (based on PPP),,0.0
+2018,Percent,,,3.2 US dollars per day (based on PPP),,0.3
+2018,Percent,,,5.5 US dollars per day (based on PPP),,8.5
+2018,Percent,Male,,1.9 US dollars per day (based on PPP),,0.0
+2018,Percent,Male,,3.2 US dollars per day (based on PPP),,0.3
+2018,Percent,Male,,5.5 US dollars per day (based on PPP),,8.9
+2018,Percent,Female,,1.9 US dollars per day (based on PPP),,0.0
+2018,Percent,Female,,3.2 US dollars per day (based on PPP),,0.3
+2018,Percent,Female,,5.5 US dollars per day (based on PPP),,8.2
+2018,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),,0.2
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),,5.0
+2018,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),,0.0
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),,0.4
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),,13.4
+2018,Percent,,,1.9 US dollars per day (based on PPP),Almaty,0.1
+2018,Percent,,,1.9 US dollars per day (based on PPP),Karagandy,0.0
+2018,Percent,,,3.2 US dollars per day (based on PPP),Akmola,0.6
+2018,Percent,,,3.2 US dollars per day (based on PPP),Aktobe,0.2
+2018,Percent,,,3.2 US dollars per day (based on PPP),Almaty,0.1
+2018,Percent,,,3.2 US dollars per day (based on PPP),Batys Kazakhstan,0.1
+2018,Percent,,,3.2 US dollars per day (based on PPP),Zhambyl,0.2
+2018,Percent,,,3.2 US dollars per day (based on PPP),Karagandy,0.5
+2018,Percent,,,3.2 US dollars per day (based on PPP),Kostanay,1.0
+2018,Percent,,,3.2 US dollars per day (based on PPP),Kyzylorda,0.1
+2018,Percent,,,3.2 US dollars per day (based on PPP),Mangistau,0.2
+2018,Percent,,,3.2 US dollars per day (based on PPP),Pavlodar,0.1
+2018,Percent,,,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,0.5
+2018,Percent,,,3.2 US dollars per day (based on PPP),Turkistan,0.5
+2018,Percent,,,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.5
+2018,Percent,,,3.2 US dollars per day (based on PPP),Nur-Sultan city,0.1
+2018,Percent,,,3.2 US dollars per day (based on PPP),Almaty city,0.2
+2018,Percent,,,3.2 US dollars per day (based on PPP),Shymkent city,0.5
+2018,Percent,,,5.5 US dollars per day (based on PPP),Akmola,8.7
+2018,Percent,,,5.5 US dollars per day (based on PPP),Aktobe,12.0
+2018,Percent,,,5.5 US dollars per day (based on PPP),Almaty,4.7
+2018,Percent,,,5.5 US dollars per day (based on PPP),Atyrau,5.2
+2018,Percent,,,5.5 US dollars per day (based on PPP),Batys Kazakhstan,11.8
+2018,Percent,,,5.5 US dollars per day (based on PPP),Zhambyl,13.8
+2018,Percent,,,5.5 US dollars per day (based on PPP),Karagandy,5.1
+2018,Percent,,,5.5 US dollars per day (based on PPP),Kostanay,10.5
+2018,Percent,,,5.5 US dollars per day (based on PPP),Kyzylorda,13.7
+2018,Percent,,,5.5 US dollars per day (based on PPP),Mangistau,4.1
+2018,Percent,,,5.5 US dollars per day (based on PPP),Pavlodar,8.5
+2018,Percent,,,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,8.4
+2018,Percent,,,5.5 US dollars per day (based on PPP),Turkistan,21.7
+2018,Percent,,,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,8.3
+2018,Percent,,,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.8
+2018,Percent,,,5.5 US dollars per day (based on PPP),Almaty city,2.4
+2018,Percent,,,5.5 US dollars per day (based on PPP),Shymkent city,3.8
+2018,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Akmola,0.5
+2018,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Aktobe,0.1
+2018,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Karagandy,0.5
+2018,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kostanay,0.7
+2018,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,0.8
+2018,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Turkistan,0.3
+2018,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.1
+2018,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Nur-Sultan city,0.1
+2018,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Almaty city,0.2
+2018,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Shymkent city,0.5
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Akmola,7.8
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Aktobe,9.9
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty,4.5
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Atyrau,1.6
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,6.5
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Zhambyl,8.7
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Karagandy,4.3
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kostanay,6.4
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kyzylorda,11.5
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Mangistau,1.1
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Pavlodar,6.7
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,5.9
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Turkistan,16.5
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,4.6
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.8
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty city,2.4
+2018,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shymkent city,3.8
+2018,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Almaty,0.1
+2018,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Karagandy,0.2
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Akmola,0.7
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Aktobe,0.4
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Almaty,0.1
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Batys Kazakhstan,0.1
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Zhambyl,0.3
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Karagandy,0.5
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kostanay,1.4
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kyzylorda,0.2
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Mangistau,0.3
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Pavlodar,0.3
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,0.3
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Turkistan,0.6
+2018,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,1.1
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Akmola,9.5
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Aktobe,15.7
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Almaty,4.8
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Atyrau,9.1
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,17.5
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Zhambyl,17.2
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Karagandy,8.4
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kostanay,15.5
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kyzylorda,15.2
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Mangistau,6.1
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Pavlodar,12.9
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,10.5
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Turkistan,22.9
+2018,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,14.1
+2019,Percent,,,1.9 US dollars per day (based on PPP),,0.0
+2019,Percent,,,3.2 US dollars per day (based on PPP),,0.2
+2019,Percent,,,5.5 US dollars per day (based on PPP),,6.2
+2019,Percent,Male,,1.9 US dollars per day (based on PPP),,0.0
+2019,Percent,Male,,3.2 US dollars per day (based on PPP),,0.2
+2019,Percent,Male,,5.5 US dollars per day (based on PPP),,6.4
+2019,Percent,Female,,1.9 US dollars per day (based on PPP),,0.0
+2019,Percent,Female,,3.2 US dollars per day (based on PPP),,0.2
+2019,Percent,Female,,5.5 US dollars per day (based on PPP),,5.9
+2019,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),,0.0
+2019,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),,0.1
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),,3.6
+2019,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),,0.0
+2019,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),,0.4
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),,9.7
+2019,Percent,,,1.9 US dollars per day (based on PPP),Akmola,0.0
+2019,Percent,,,1.9 US dollars per day (based on PPP),Karagandy,0.1
+2019,Percent,,,3.2 US dollars per day (based on PPP),Akmola,0.7
+2019,Percent,,,3.2 US dollars per day (based on PPP),Aktobe,0.2
+2019,Percent,,,3.2 US dollars per day (based on PPP),Almaty,0.2
+2019,Percent,,,3.2 US dollars per day (based on PPP),Zhambyl,0.3
+2019,Percent,,,3.2 US dollars per day (based on PPP),Karagandy,0.4
+2019,Percent,,,3.2 US dollars per day (based on PPP),Kostanay,0.4
+2019,Percent,,,3.2 US dollars per day (based on PPP),Kyzylorda,0.2
+2019,Percent,,,3.2 US dollars per day (based on PPP),Pavlodar,0.2
+2019,Percent,,,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,0.5
+2019,Percent,,,3.2 US dollars per day (based on PPP),Turkistan,0.2
+2019,Percent,,,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,0.6
+2019,Percent,,,3.2 US dollars per day (based on PPP),Almaty city,0.0
+2019,Percent,,,5.5 US dollars per day (based on PPP),Akmola,6.2
+2019,Percent,,,5.5 US dollars per day (based on PPP),Aktobe,4.5
+2019,Percent,,,5.5 US dollars per day (based on PPP),Almaty,3.0
+2019,Percent,,,5.5 US dollars per day (based on PPP),Atyrau,3.2
+2019,Percent,,,5.5 US dollars per day (based on PPP),Batys Kazakhstan,7.3
+2019,Percent,,,5.5 US dollars per day (based on PPP),Zhambyl,9.6
+2019,Percent,,,5.5 US dollars per day (based on PPP),Karagandy,3.9
+2019,Percent,,,5.5 US dollars per day (based on PPP),Kostanay,6.0
+2019,Percent,,,5.5 US dollars per day (based on PPP),Kyzylorda,10.4
+2019,Percent,,,5.5 US dollars per day (based on PPP),Mangistau,4.2
+2019,Percent,,,5.5 US dollars per day (based on PPP),Pavlodar,6.4
+2019,Percent,,,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,8.6
+2019,Percent,,,5.5 US dollars per day (based on PPP),Turkistan,15.3
+2019,Percent,,,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,7.9
+2019,Percent,,,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.6
+2019,Percent,,,5.5 US dollars per day (based on PPP),Almaty city,2.4
+2019,Percent,,,5.5 US dollars per day (based on PPP),Shymkent city,4.3
+2019,Percent,,Population of urban areas,1.9 US dollars per day (based on PPP),Karagandy,0.1
+2019,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Akmola,0.4
+2019,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Karagandy,0.5
+2019,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Kostanay,0.4
+2019,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Turkistan,0.5
+2019,Percent,,Population of urban areas,3.2 US dollars per day (based on PPP),Almaty city,0.0
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Akmola,5.3
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Aktobe,2.8
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty,1.8
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Atyrau,0.8
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,4.4
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Zhambyl,5.0
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Karagandy,3.4
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kostanay,3.6
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Kyzylorda,9.2
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Mangistau,0.4
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Pavlodar,5.7
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,6.6
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Turkistan,11.4
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,3.9
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Nur-Sultan city,0.6
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Almaty city,2.4
+2019,Percent,,Population of urban areas,5.5 US dollars per day (based on PPP),Shymkent city,4.3
+2019,Percent,,Population of rural areas,1.9 US dollars per day (based on PPP),Akmola,0.1
+2019,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Akmola,0.9
+2019,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Aktobe,0.7
+2019,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Almaty,0.2
+2019,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Zhambyl,0.5
+2019,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Karagandy,0.2
+2019,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kostanay,0.4
+2019,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Kyzylorda,0.4
+2019,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Pavlodar,0.5
+2019,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Soltustik Kazakhstan,0.9
+2019,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Turkistan,0.1
+2019,Percent,,Population of rural areas,3.2 US dollars per day (based on PPP),Shygys Kazakhstan,1.5
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Akmola,7.0
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Aktobe,8.6
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Almaty,3.3
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Atyrau,5.9
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Batys Kazakhstan,10.4
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Zhambyl,12.6
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Karagandy,5.9
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kostanay,8.9
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Kyzylorda,11.3
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Mangistau,6.7
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Pavlodar,7.8
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Soltustik Kazakhstan,10.3
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Turkistan,16.2
+2019,Percent,,Population of rural areas,5.5 US dollars per day (based on PPP),Shygys Kazakhstan,14.5

@@ -1,0 +1,6 @@
+Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
+_L_EDU_BS_MS,основное среднее,негізгі орта,basic secondary (middle-school),3,3
+AGG_5T8,высшее,жоғары,Higher education,3,3
+ISCED11_1,начальное/незаконченное среднее,бастауыш/толық емес орта,Elementary education/ High education (incomplete),2,2
+ISCED11_25_35_45,техническое и профессиональное,техникалық және кәсіби,Community College and Vocational type of Education,3,3
+ISCED11_34,среднее общее,орташа жалпы,High Education (General),3,3

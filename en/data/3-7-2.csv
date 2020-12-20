@@ -1,0 +1,989 @@
+Year,Age,Area,Regions,Value
+2010,age: 10-14 years old,,,0.04436450945718248
+2010,age: 10-14 years old,,Akmola,0.1219586560156107
+2010,age: 10-14 years old,,Aktobe,0.0
+2010,age: 10-14 years old,,Almaty,0.04647056089967006
+2010,age: 10-14 years old,,Atyrau,0.0
+2010,age: 10-14 years old,,Batys Kazakhstan,0.0
+2010,age: 10-14 years old,,Zhambyl,0.02418379685610641
+2010,age: 10-14 years old,,Karagandy,0.07157513002815287
+2010,age: 10-14 years old,,Kostanay,0.11716232840600653
+2010,age: 10-14 years old,,Kyzylorda,0.03258390355164549
+2010,age: 10-14 years old,,Mangistau,0.0
+2010,age: 10-14 years old,,Ontustik Kazakhstan,0.008484066922319882
+2010,age: 10-14 years old,,Pavlodar,0.09388349058818007
+2010,age: 10-14 years old,,Soltustik Kazakhstan,0.05752085130859936
+2010,age: 10-14 years old,,Shygys Kazakhstan,0.07491852610286315
+2010,age: 10-14 years old,,Nur-Sultan city,0.11965300628178285
+2010,age: 10-14 years old,,Almaty city,0.05917947655752985
+2010,age: 10-14 years old,Population of urban areas,,0.06078265263093913
+2010,age: 10-14 years old,Population of urban areas,Akmola,0.29804778699518153
+2010,age: 10-14 years old,Population of urban areas,Aktobe,0.0
+2010,age: 10-14 years old,Population of urban areas,Almaty,0.20984890878567436
+2010,age: 10-14 years old,Population of urban areas,Atyrau,0.0
+2010,age: 10-14 years old,Population of urban areas,Batys Kazakhstan,0.0
+2010,age: 10-14 years old,Population of urban areas,Zhambyl,0.06430454633142563
+2010,age: 10-14 years old,Population of urban areas,Karagandy,0.09907693323865982
+2010,age: 10-14 years old,Population of urban areas,Kostanay,0.27879745364992337
+2010,age: 10-14 years old,Population of urban areas,Kyzylorda,0.08592172530824417
+2010,age: 10-14 years old,Population of urban areas,Mangistau,0.0
+2010,age: 10-14 years old,Population of urban areas,Ontustik Kazakhstan,0.0
+2010,age: 10-14 years old,Population of urban areas,Pavlodar,0.0
+2010,age: 10-14 years old,Population of urban areas,Soltustik Kazakhstan,0.0
+2010,age: 10-14 years old,Population of urban areas,Shygys Kazakhstan,0.1009107192411514
+2010,age: 10-14 years old,Population of urban areas,Nur-Sultan city,0.0
+2010,age: 10-14 years old,Population of urban areas,Almaty city,0.0
+2010,age: 10-14 years old,Population of rural areas,,0.029971976202250894
+2010,age: 10-14 years old,Population of rural areas,Akmola,0.0
+2010,age: 10-14 years old,Population of rural areas,Aktobe,0.0
+2010,age: 10-14 years old,Population of rural areas,Almaty,0.0
+2010,age: 10-14 years old,Population of rural areas,Atyrau,0.0
+2010,age: 10-14 years old,Population of rural areas,Batys Kazakhstan,0.0
+2010,age: 10-14 years old,Population of rural areas,Zhambyl,0.0
+2010,age: 10-14 years old,Population of rural areas,Karagandy,0.0
+2010,age: 10-14 years old,Population of rural areas,Kostanay,0.0
+2010,age: 10-14 years old,Population of rural areas,Kyzylorda,0.0
+2010,age: 10-14 years old,Population of rural areas,Mangistau,0.0
+2010,age: 10-14 years old,Population of rural areas,Ontustik Kazakhstan,0.013003224799750338
+2010,age: 10-14 years old,Population of rural areas,Pavlodar,0.2499843759765015
+2010,age: 10-14 years old,Population of rural areas,Soltustik Kazakhstan,0.08231468905626209
+2010,age: 10-14 years old,Population of rural areas,Shygys Kazakhstan,0.04944620253164557
+2010,15-19,,,28.263559874848422
+2010,,,Akmola,33.42636895268473
+2010,,,Aktobe,21.83937167468964
+2010,,,Almaty,30.74913704636627
+2010,,,Atyrau,42.38024950967507
+2010,,,Batys Kazakhstan,26.085191949379233
+2010,,,Zhambyl,36.693411909928926
+2010,,,Karagandy,29.272619751626262
+2010,,,Kostanay,25.81521739130435
+2010,,,Kyzylorda,23.190213616454283
+2010,,,Mangistau,39.68056934789804
+2010,,,Ontustik Kazakhstan,30.066937342258313
+2010,,,Pavlodar,27.558505064617528
+2010,,,Soltustik Kazakhstan,31.21505777115169
+2010,,,Shygys Kazakhstan,24.938870893522573
+2010,,,Nur-Sultan city,22.602739726027398
+2010,,,Almaty city,13.971177977283899
+2010,,Population of urban areas,,25.75986729765332
+2010,,Population of urban areas,Akmola,31.138429828112926
+2010,,Population of urban areas,Aktobe,20.66295368434129
+2010,,Population of urban areas,Almaty,32.142952966113064
+2010,,Population of urban areas,Atyrau,49.518066785436936
+2010,,Population of urban areas,Batys Kazakhstan,30.549045865416804
+2010,,Population of urban areas,Zhambyl,27.976146653905612
+2010,,Population of urban areas,Karagandy,29.81473502800517
+2010,,Population of urban areas,Kostanay,21.052010850336124
+2010,,Population of urban areas,Kyzylorda,29.322548028311427
+2010,,Population of urban areas,Mangistau,35.975267003934796
+2010,,Population of urban areas,Ontustik Kazakhstan,29.42766664092068
+2010,,Population of urban areas,Pavlodar,25.58139534883721
+2010,,Population of urban areas,Soltustik Kazakhstan,25.0826729893305
+2010,,Population of urban areas,Shygys Kazakhstan,22.30483271375465
+2010,,Population of urban areas,Nur-Sultan city,22.602739726027398
+2010,,Population of urban areas,Almaty city,13.971177977283899
+2010,,Population of rural areas,,31.026544706337727
+2010,,Population of rural areas,Akmola,35.308724222511586
+2010,,Population of rural areas,Aktobe,23.693743676772947
+2010,,Population of rural areas,Almaty,30.32854575189857
+2010,,Population of rural areas,Atyrau,36.71189146049481
+2010,,Population of rural areas,Batys Kazakhstan,22.56606512487216
+2010,,Population of rural areas,Zhambyl,42.64299472405996
+2010,,Population of rural areas,Karagandy,27.6408907332617
+2010,,Population of rural areas,Kostanay,30.21230266739249
+2010,,Population of rural areas,Kyzylorda,18.739144262054452
+2010,,Population of rural areas,Mangistau,43.619291506615454
+2010,,Population of rural areas,Ontustik Kazakhstan,30.478964038804985
+2010,,Population of rural areas,Pavlodar,31.16370808678501
+2010,,Population of rural areas,Soltustik Kazakhstan,34.86859224564143
+2010,,Population of rural areas,Shygys Kazakhstan,28.57756768371293
+2011,age: 10-14 years old,,,0.021110054631062213
+2011,age: 10-14 years old,,Akmola,0.0
+2011,age: 10-14 years old,,Aktobe,0.0781188969611749
+2011,age: 10-14 years old,,Almaty,0.0
+2011,age: 10-14 years old,,Atyrau,0.04826487764853516
+2011,age: 10-14 years old,,Batys Kazakhstan,0.0517170045510964
+2011,age: 10-14 years old,,Zhambyl,0.047963931123794906
+2011,age: 10-14 years old,,Karagandy,0.024278916189181314
+2011,age: 10-14 years old,,Kostanay,0.0
+2011,age: 10-14 years old,,Kyzylorda,0.0
+2011,age: 10-14 years old,,Mangistau,0.0
+2011,age: 10-14 years old,,Ontustik Kazakhstan,0.0
+2011,age: 10-14 years old,,Pavlodar,0.0
+2011,age: 10-14 years old,,Soltustik Kazakhstan,0.11716804827323588
+2011,age: 10-14 years old,,Shygys Kazakhstan,0.025402309069894453
+2011,age: 10-14 years old,,Nur-Sultan city,0.05382276164590005
+2011,age: 10-14 years old,,Almaty city,0.02831778215130191
+2011,age: 10-14 years old,Population of urban areas,,0.02243409983174425
+2011,age: 10-14 years old,Population of urban areas,Akmola,0.0
+2011,age: 10-14 years old,Population of urban areas,Aktobe,0.07179008578915251
+2011,age: 10-14 years old,Population of urban areas,Almaty,0.0
+2011,age: 10-14 years old,Population of urban areas,Atyrau,0.10779346771585642
+2011,age: 10-14 years old,Population of urban areas,Batys Kazakhstan,0.0
+2011,age: 10-14 years old,Population of urban areas,Zhambyl,0.13025921583952066
+2011,age: 10-14 years old,Population of urban areas,Karagandy,0.0
+2011,age: 10-14 years old,Population of urban areas,Kostanay,0.0
+2011,age: 10-14 years old,Population of urban areas,Kyzylorda,0.0
+2011,age: 10-14 years old,Population of urban areas,Mangistau,0.0
+2011,age: 10-14 years old,Population of urban areas,Ontustik Kazakhstan,0.0
+2011,age: 10-14 years old,Population of urban areas,Pavlodar,0.0
+2011,age: 10-14 years old,Population of urban areas,Soltustik Kazakhstan,0.0
+2011,age: 10-14 years old,Population of urban areas,Shygys Kazakhstan,0.0
+2011,age: 10-14 years old,Population of urban areas,Nur-Sultan city,0.05382276164590005
+2011,age: 10-14 years old,Population of urban areas,Almaty city,0.02831778215130191
+2011,age: 10-14 years old,Population of rural areas,,0.019933587929548056
+2011,age: 10-14 years old,Population of rural areas,Akmola,0.0
+2011,age: 10-14 years old,Population of rural areas,Aktobe,0.08567144998929106
+2011,age: 10-14 years old,Population of rural areas,Almaty,0.0
+2011,age: 10-14 years old,Population of rural areas,Atyrau,0.0
+2011,age: 10-14 years old,Population of rural areas,Batys Kazakhstan,0.08596234849136078
+2011,age: 10-14 years old,Population of rural areas,Zhambyl,0.0
+2011,age: 10-14 years old,Population of rural areas,Karagandy,0.08908289163066233
+2011,age: 10-14 years old,Population of rural areas,Kostanay,0.0
+2011,age: 10-14 years old,Population of rural areas,Kyzylorda,0.0
+2011,age: 10-14 years old,Population of rural areas,Mangistau,0.0
+2011,age: 10-14 years old,Population of rural areas,Ontustik Kazakhstan,0.0
+2011,age: 10-14 years old,Population of rural areas,Pavlodar,0.0
+2011,age: 10-14 years old,Population of rural areas,Soltustik Kazakhstan,0.1714310204431492
+2011,age: 10-14 years old,Population of rural areas,Shygys Kazakhstan,0.0506701122342986
+2011,15-19,,,31.680974017933693
+2011,,,Akmola,32.29680542468082
+2011,,,Aktobe,26.613500083072786
+2011,,,Almaty,35.26154742823838
+2011,,,Atyrau,49.18951640024213
+2011,,,Batys Kazakhstan,29.708314441781635
+2011,,,Zhambyl,41.57690415003554
+2011,,,Karagandy,31.144693053142728
+2011,,,Kostanay,29.525140135000925
+2011,,,Kyzylorda,26.377580581221604
+2011,,,Mangistau,49.601769911504434
+2011,,,Ontustik Kazakhstan,32.65544544156067
+2011,,,Pavlodar,30.65927595378773
+2011,,,Soltustik Kazakhstan,31.558592239267753
+2011,,,Shygys Kazakhstan,25.40156892043332
+2011,,,Nur-Sultan city,23.458121973053004
+2011,,,Almaty city,16.570703178129392
+2011,,Population of urban areas,,29.92838451785309
+2011,,Population of urban areas,Akmola,31.75839390792661
+2011,,Population of urban areas,Aktobe,26.22163023322625
+2011,,Population of urban areas,Almaty,38.32709879192985
+2011,,Population of urban areas,Atyrau,55.72597137014315
+2011,,Population of urban areas,Batys Kazakhstan,34.83370055608015
+2011,,Population of urban areas,Zhambyl,31.532419268560485
+2011,,Population of urban areas,Karagandy,32.23099352819856
+2011,,Population of urban areas,Kostanay,28.19760884277013
+2011,,Population of urban areas,Kyzylorda,33.40228300007661
+2011,,Population of urban areas,Mangistau,44.577720091303775
+2011,,Population of urban areas,Ontustik Kazakhstan,33.541230502789624
+2011,,Population of urban areas,Pavlodar,29.41741972697558
+2011,,Population of urban areas,Soltustik Kazakhstan,29.085763697822493
+2011,,Population of urban areas,Shygys Kazakhstan,25.789579561456453
+2011,,Population of urban areas,Nur-Sultan city,23.458121973053004
+2011,,Population of urban areas,Almaty city,16.570703178129392
+2011,,Population of rural areas,,33.390982298103474
+2011,,Population of rural areas,Akmola,32.69807487665667
+2011,,Population of rural areas,Aktobe,27.15094204455907
+2011,,Population of rural areas,Almaty,34.364939152893484
+2011,,Population of rural areas,Atyrau,44.08417521862397
+2011,,Population of rural areas,Batys Kazakhstan,26.123647037240872
+2011,,Population of rural areas,Zhambyl,47.956227872545874
+2011,,Population of rural areas,Karagandy,28.11992554160561
+2011,,Population of rural areas,Kostanay,30.601359383096103
+2011,,Population of rural areas,Kyzylorda,21.732522796352587
+2011,,Population of rural areas,Mangistau,54.512840705254405
+2011,,Population of rural areas,Ontustik Kazakhstan,32.1462775341499
+2011,,Population of rural areas,Pavlodar,32.80687170961485
+2011,,Population of rural areas,Soltustik Kazakhstan,32.76550030693677
+2011,,Population of rural areas,Shygys Kazakhstan,24.963055587131976
+2012,age: 10-14 years old,,,0.03010623960670625
+2012,age: 10-14 years old,,Akmola,0.0
+2012,age: 10-14 years old,,Aktobe,0.04039506372321302
+2012,age: 10-14 years old,,Almaty,0.029852751304192068
+2012,age: 10-14 years old,,Atyrau,0.14594279042615296
+2012,age: 10-14 years old,,Batys Kazakhstan,0.05276487969607429
+2012,age: 10-14 years old,,Zhambyl,0.0
+2012,age: 10-14 years old,,Karagandy,0.024758297124323786
+2012,age: 10-14 years old,,Kostanay,0.039874793149510535
+2012,age: 10-14 years old,,Kyzylorda,0.03386157388595422
+2012,age: 10-14 years old,,Mangistau,0.045102947477617665
+2012,age: 10-14 years old,,Ontustik Kazakhstan,0.008294212298657995
+2012,age: 10-14 years old,,Pavlodar,0.09644364074743822
+2012,age: 10-14 years old,,Soltustik Kazakhstan,0.0
+2012,age: 10-14 years old,,Shygys Kazakhstan,0.0780365991650084
+2012,age: 10-14 years old,,Nur-Sultan city,0.0
+2012,age: 10-14 years old,,Almaty city,0.0
+2012,age: 10-14 years old,Population of urban areas,,0.03758091641064667
+2012,age: 10-14 years old,Population of urban areas,Akmola,0.0
+2012,age: 10-14 years old,Population of urban areas,Aktobe,0.07370554634236226
+2012,age: 10-14 years old,Population of urban areas,Almaty,0.0
+2012,age: 10-14 years old,Population of urban areas,Atyrau,0.2160060481693488
+2012,age: 10-14 years old,Population of urban areas,Batys Kazakhstan,0.13100150651732495
+2012,age: 10-14 years old,Population of urban areas,Zhambyl,0.0
+2012,age: 10-14 years old,Population of urban areas,Karagandy,0.033937995282618656
+2012,age: 10-14 years old,Population of urban areas,Kostanay,0.0
+2012,age: 10-14 years old,Population of urban areas,Kyzylorda,0.08964188068665681
+2012,age: 10-14 years old,Population of urban areas,Mangistau,0.0
+2012,age: 10-14 years old,Population of urban areas,Ontustik Kazakhstan,0.02390914524805738
+2012,age: 10-14 years old,Population of urban areas,Pavlodar,0.07596475235490732
+2012,age: 10-14 years old,Population of urban areas,Soltustik Kazakhstan,0.0
+2012,age: 10-14 years old,Population of urban areas,Shygys Kazakhstan,0.10393929944912172
+2012,age: 10-14 years old,Population of urban areas,Nur-Sultan city,0.0
+2012,age: 10-14 years old,Population of urban areas,Almaty city,0.0
+2012,age: 10-14 years old,Population of rural areas,,0.02344473489866013
+2012,age: 10-14 years old,Population of rural areas,Akmola,0.0
+2012,age: 10-14 years old,Population of rural areas,Aktobe,0.0
+2012,age: 10-14 years old,Population of rural areas,Almaty,0.03812283176394343
+2012,age: 10-14 years old,Population of rural areas,Atyrau,0.08851907586084799
+2012,age: 10-14 years old,Population of rural areas,Batys Kazakhstan,0.0
+2012,age: 10-14 years old,Population of rural areas,Zhambyl,0.0
+2012,age: 10-14 years old,Population of rural areas,Karagandy,0.0
+2012,age: 10-14 years old,Population of rural areas,Kostanay,0.06948063227375369
+2012,age: 10-14 years old,Population of rural areas,Kyzylorda,0.0
+2012,age: 10-14 years old,Population of rural areas,Mangistau,0.08562743503018366
+2012,age: 10-14 years old,Population of rural areas,Ontustik Kazakhstan,0.0
+2012,age: 10-14 years old,Population of rural areas,Pavlodar,0.13203934772562226
+2012,age: 10-14 years old,Population of rural areas,Soltustik Kazakhstan,0.0
+2012,age: 10-14 years old,Population of rural areas,Shygys Kazakhstan,0.05207926464078328
+2012,15-19,,,33.82004004720621
+2012,,,Akmola,34.511604381067265
+2012,,,Aktobe,29.61824237765821
+2012,,,Almaty,36.44040368376144
+2012,,,Atyrau,54.24666526009799
+2012,,,Batys Kazakhstan,34.750547298075816
+2012,,,Zhambyl,45.43415498222892
+2012,,,Karagandy,32.02022329892564
+2012,,,Kostanay,30.18575851393189
+2012,,,Kyzylorda,29.28988510077227
+2012,,,Mangistau,54.89684343150269
+2012,,,Ontustik Kazakhstan,34.49343188599587
+2012,,,Pavlodar,31.489864199960643
+2012,,,Soltustik Kazakhstan,28.247507171151486
+2012,,,Shygys Kazakhstan,25.68730423037064
+2012,,,Nur-Sultan city,26.033616692426587
+2012,,,Almaty city,19.094380796508453
+2012,,Population of urban areas,,32.79511883381278
+2012,,Population of urban areas,Akmola,33.93194706994329
+2012,,Population of urban areas,Aktobe,33.32384836700496
+2012,,Population of urban areas,Almaty,40.69087629038185
+2012,,Population of urban areas,Atyrau,59.6115564641954
+2012,,Population of urban areas,Batys Kazakhstan,42.947889144977225
+2012,,Population of urban areas,Zhambyl,35.640307054953084
+2012,,Population of urban areas,Karagandy,33.62265874828689
+2012,,Population of urban areas,Kostanay,31.24866595517609
+2012,,Population of urban areas,Kyzylorda,35.407637582795
+2012,,Population of urban areas,Mangistau,50.36814707123763
+2012,,Population of urban areas,Ontustik Kazakhstan,34.40895815350416
+2012,,Population of urban areas,Pavlodar,32.16171158655182
+2012,,Population of urban areas,Soltustik Kazakhstan,28.88278550544875
+2012,,Population of urban areas,Shygys Kazakhstan,28.342940466154793
+2012,,Population of urban areas,Nur-Sultan city,26.033616692426587
+2012,,Population of urban areas,Almaty city,19.094380796508453
+2012,,Population of rural areas,,34.76437584972138
+2012,,Population of rural areas,Akmola,34.91717091558377
+2012,,Population of rural areas,Aktobe,25.2637836231238
+2012,,Population of rural areas,Almaty,35.2402961845022
+2012,,Population of rural areas,Atyrau,50.10386373078521
+2012,,Population of rural areas,Batys Kazakhstan,29.055690072639226
+2012,,Population of rural areas,Zhambyl,51.3758755151448
+2012,,Population of rural areas,Karagandy,27.72907066835216
+2012,,Population of rural areas,Kostanay,29.37838451311651
+2012,,Population of rural areas,Kyzylorda,25.477707006369428
+2012,,Population of rural areas,Mangistau,59.07282477080089
+2012,,Population of rural areas,Ontustik Kazakhstan,34.538722929451744
+2012,,Population of rural areas,Pavlodar,30.347759343449248
+2012,,Population of rural areas,Soltustik Kazakhstan,27.964294178055138
+2012,,Population of rural areas,Shygys Kazakhstan,22.911307992759838
+2013,age: 10-14 years old,,,0.0379838532448611
+2013,age: 10-14 years old,,Akmola,0.0876577840112202
+2013,age: 10-14 years old,,Aktobe,0.08223515141547254
+2013,age: 10-14 years old,,Almaty,0.03063279700411245
+2013,age: 10-14 years old,,Atyrau,0.049633949621541135
+2013,age: 10-14 years old,,Batys Kazakhstan,0.05410230746341332
+2013,age: 10-14 years old,,Zhambyl,0.0
+2013,age: 10-14 years old,,Karagandy,0.025284769718959783
+2013,age: 10-14 years old,,Kostanay,0.12152883271556175
+2013,age: 10-14 years old,,Kyzylorda,0.0343554066821266
+2013,age: 10-14 years old,,Mangistau,0.04595799439312469
+2013,age: 10-14 years old,,Ontustik Kazakhstan,0.008469157445871497
+2013,age: 10-14 years old,,Pavlodar,0.09851974089308144
+2013,age: 10-14 years old,,Soltustik Kazakhstan,0.060560181680545035
+2013,age: 10-14 years old,,Shygys Kazakhstan,0.05335609860207022
+2013,age: 10-14 years old,,Nur-Sultan city,0.0
+2013,age: 10-14 years old,,Almaty city,0.028897140627934862
+2013,age: 10-14 years old,Population of urban areas,,0.0307675740537048
+2013,age: 10-14 years old,Population of urban areas,Akmola,0.1066098081023454
+2013,age: 10-14 years old,Population of urban areas,Aktobe,0.07558293337364423
+2013,age: 10-14 years old,Population of urban areas,Almaty,0.0
+2013,age: 10-14 years old,Population of urban areas,Atyrau,0.11289867344058707
+2013,age: 10-14 years old,Population of urban areas,Batys Kazakhstan,0.0
+2013,age: 10-14 years old,Population of urban areas,Zhambyl,0.0
+2013,age: 10-14 years old,Population of urban areas,Karagandy,0.03467646854844302
+2013,age: 10-14 years old,Population of urban areas,Kostanay,0.0950344499881207
+2013,age: 10-14 years old,Population of urban areas,Kyzylorda,0.0
+2013,age: 10-14 years old,Population of urban areas,Mangistau,0.0
+2013,age: 10-14 years old,Population of urban areas,Ontustik Kazakhstan,0.0
+2013,age: 10-14 years old,Population of urban areas,Pavlodar,0.07756748371082843
+2013,age: 10-14 years old,Population of urban areas,Soltustik Kazakhstan,0.0
+2013,age: 10-14 years old,Population of urban areas,Shygys Kazakhstan,0.05319856363878176
+2013,age: 10-14 years old,Population of urban areas,Nur-Sultan city,0.0
+2013,age: 10-14 years old,Population of urban areas,Almaty city,0.028897140627934862
+2013,age: 10-14 years old,Population of rural areas,,0.044390947661365365
+2013,age: 10-14 years old,Population of rural areas,Akmola,0.07442691277165824
+2013,age: 10-14 years old,Population of rural areas,Aktobe,0.09017132551848513
+2013,age: 10-14 years old,Population of rural areas,Almaty,0.03911712645589055
+2013,age: 10-14 years old,Population of rural areas,Atyrau,0.0
+2013,age: 10-14 years old,Population of rural areas,Batys Kazakhstan,0.08987148377819719
+2013,age: 10-14 years old,Population of rural areas,Zhambyl,0.0
+2013,age: 10-14 years old,Population of rural areas,Karagandy,0.0
+2013,age: 10-14 years old,Population of rural areas,Kostanay,0.1412130198404293
+2013,age: 10-14 years old,Population of rural areas,Kyzylorda,0.05502668794365268
+2013,age: 10-14 years old,Population of rural areas,Mangistau,0.0862849993528625
+2013,age: 10-14 years old,Population of rural areas,Ontustik Kazakhstan,0.012949593706497458
+2013,age: 10-14 years old,Population of rural areas,Pavlodar,0.1349800904366606
+2013,age: 10-14 years old,Population of rural areas,Soltustik Kazakhstan,0.08893236693494598
+2013,age: 10-14 years old,Population of rural areas,Shygys Kazakhstan,0.053514569341503226
+2013,15-19,,,33.61561193920943
+2013,,,Akmola,31.21202916160389
+2013,,,Aktobe,30.866878236178387
+2013,,,Almaty,37.16566489998043
+2013,,,Atyrau,51.923882194202754
+2013,,,Batys Kazakhstan,31.559062118013117
+2013,,,Zhambyl,46.20394407250535
+2013,,,Karagandy,30.561409196520234
+2013,,,Kostanay,29.647305529945587
+2013,,,Kyzylorda,28.17602239154097
+2013,,,Mangistau,53.41390261115032
+2013,,,Ontustik Kazakhstan,37.755856966707775
+2013,,,Pavlodar,30.001714383679065
+2013,,,Soltustik Kazakhstan,27.34794756071352
+2013,,,Shygys Kazakhstan,26.450015404452454
+2013,,,Nur-Sultan city,26.40558442427351
+2013,,,Almaty city,14.738082270953974
+2013,,Population of urban areas,,30.784273157448627
+2013,,Population of urban areas,Akmola,31.363531846401468
+2013,,Population of urban areas,Aktobe,32.718822618125486
+2013,,Population of urban areas,Almaty,37.698214819986035
+2013,,Population of urban areas,Atyrau,55.261289794135315
+2013,,Population of urban areas,Batys Kazakhstan,34.77985094349596
+2013,,Population of urban areas,Zhambyl,35.296937735962125
+2013,,Population of urban areas,Karagandy,31.342688919385537
+2013,,Population of urban areas,Kostanay,28.22847682119205
+2013,,Population of urban areas,Kyzylorda,30.1990391214825
+2013,,Population of urban areas,Mangistau,45.243834600407936
+2013,,Population of urban areas,Ontustik Kazakhstan,38.465173424062
+2013,,Population of urban areas,Pavlodar,27.793744716821642
+2013,,Population of urban areas,Soltustik Kazakhstan,25.823001282599396
+2013,,Population of urban areas,Shygys Kazakhstan,28.709811742532164
+2013,,Population of urban areas,Nur-Sultan city,26.40558442427351
+2013,,Population of urban areas,Almaty city,14.738082270953974
+2013,,Population of rural areas,,36.291778836524564
+2013,,Population of rural areas,Akmola,31.105506515342583
+2013,,Population of rural areas,Aktobe,28.700851603551367
+2013,,Population of rural areas,Almaty,37.017117635058696
+2013,,Population of rural areas,Atyrau,49.446763668787746
+2013,,Population of rural areas,Batys Kazakhstan,29.222273354809015
+2013,,Population of rural areas,Zhambyl,52.888676681235545
+2013,,Population of rural areas,Karagandy,28.42377260981912
+2013,,Population of rural areas,Kostanay,30.747504573611067
+2013,,Population of rural areas,Kyzylorda,26.90877823019145
+2013,,Population of rural areas,Mangistau,60.82786471479051
+2013,,Population of rural areas,Ontustik Kazakhstan,37.377404634041795
+2013,,Population of rural areas,Pavlodar,33.82292702908304
+2013,,Population of rural areas,Soltustik Kazakhstan,28.04653531278154
+2013,,Population of rural areas,Shygys Kazakhstan,23.995429442011048
+2014,age: 10-14 years old,,,0.03691051923433522
+2014,age: 10-14 years old,,Akmola,0.08646965995806223
+2014,age: 10-14 years old,,Aktobe,0.08087179798224864
+2014,age: 10-14 years old,,Almaty,0.04518140333438756
+2014,age: 10-14 years old,,Atyrau,0.0
+2014,age: 10-14 years old,,Batys Kazakhstan,0.0
+2014,age: 10-14 years old,,Zhambyl,0.0719165767709457
+2014,age: 10-14 years old,,Karagandy,0.07431536965703457
+2014,age: 10-14 years old,,Kostanay,0.1195266743694968
+2014,age: 10-14 years old,,Kyzylorda,0.033963930306015015
+2014,age: 10-14 years old,,Mangistau,0.0
+2014,age: 10-14 years old,,Ontustik Kazakhstan,0.0
+2014,age: 10-14 years old,,Pavlodar,0.0
+2014,age: 10-14 years old,,Soltustik Kazakhstan,0.0
+2014,age: 10-14 years old,,Shygys Kazakhstan,0.05210300764611637
+2014,age: 10-14 years old,,Nur-Sultan city,0.09537434430138292
+2014,age: 10-14 years old,,Almaty city,0.0
+2014,age: 10-14 years old,Population of urban areas,,0.03652907988727126
+2014,age: 10-14 years old,Population of urban areas,Akmola,0.20838760093774425
+2014,age: 10-14 years old,Population of urban areas,Aktobe,0.07313149041977475
+2014,age: 10-14 years old,Population of urban areas,Almaty,0.06840179212695373
+2014,age: 10-14 years old,Population of urban areas,Atyrau,0.0
+2014,age: 10-14 years old,Population of urban areas,Batys Kazakhstan,0.0
+2014,age: 10-14 years old,Population of urban areas,Zhambyl,0.0
+2014,age: 10-14 years old,Population of urban areas,Karagandy,0.10137532524583516
+2014,age: 10-14 years old,Population of urban areas,Kostanay,0.09228923446080016
+2014,age: 10-14 years old,Population of urban areas,Kyzylorda,0.0
+2014,age: 10-14 years old,Population of urban areas,Mangistau,0.0
+2014,age: 10-14 years old,Population of urban areas,Ontustik Kazakhstan,0.0
+2014,age: 10-14 years old,Population of urban areas,Pavlodar,0.0
+2014,age: 10-14 years old,Population of urban areas,Soltustik Kazakhstan,0.0
+2014,age: 10-14 years old,Population of urban areas,Shygys Kazakhstan,0.0
+2014,age: 10-14 years old,Population of urban areas,Nur-Sultan city,0.09537434430138292
+2014,age: 10-14 years old,Population of urban areas,Almaty city,0.0
+2014,age: 10-14 years old,Population of rural areas,,0.03726426120214506
+2014,age: 10-14 years old,Population of rural areas,Akmola,0.0
+2014,age: 10-14 years old,Population of rural areas,Aktobe,0.09044453488897933
+2014,age: 10-14 years old,Population of rural areas,Almaty,0.03862532469413571
+2014,age: 10-14 years old,Population of rural areas,Atyrau,0.0
+2014,age: 10-14 years old,Population of rural areas,Batys Kazakhstan,0.0
+2014,age: 10-14 years old,Population of rural areas,Zhambyl,0.1136988118474162
+2014,age: 10-14 years old,Population of rural areas,Karagandy,0.0
+2014,age: 10-14 years old,Population of rural areas,Kostanay,0.14021803905072386
+2014,age: 10-14 years old,Population of rural areas,Kyzylorda,0.054869684499314134
+2014,age: 10-14 years old,Population of rural areas,Mangistau,0.0
+2014,age: 10-14 years old,Population of rural areas,Ontustik Kazakhstan,0.0
+2014,age: 10-14 years old,Population of rural areas,Pavlodar,0.0
+2014,age: 10-14 years old,Population of rural areas,Soltustik Kazakhstan,0.0
+2014,age: 10-14 years old,Population of rural areas,Shygys Kazakhstan,0.10547410610695074
+2014,15-19,,,34.4240799755831
+2014,,,Akmola,33.03104918623506
+2014,,,Aktobe,31.705998919113675
+2014,,,Almaty,39.74978719416481
+2014,,,Atyrau,45.463357890655296
+2014,,,Batys Kazakhstan,32.38808461923728
+2014,,,Zhambyl,50.15628582807352
+2014,,,Karagandy,32.00235544583607
+2014,,,Kostanay,28.951187838973347
+2014,,,Kyzylorda,28.207179118852125
+2014,,,Mangistau,53.81555484431439
+2014,,,Ontustik Kazakhstan,37.42960681899382
+2014,,,Pavlodar,30.044383748719696
+2014,,,Soltustik Kazakhstan,29.489927132447487
+2014,,,Shygys Kazakhstan,28.74603618161274
+2014,,,Nur-Sultan city,26.615519405176286
+2014,,,Almaty city,15.95225541557757
+2014,,Population of urban areas,,31.917575529974666
+2014,,Population of urban areas,Akmola,32.71187265735287
+2014,,Population of urban areas,Aktobe,33.80794925433565
+2014,,Population of urban areas,Almaty,41.212545996145096
+2014,,Population of urban areas,Atyrau,52.583025830258315
+2014,,Population of urban areas,Batys Kazakhstan,34.0
+2014,,Population of urban areas,Zhambyl,37.45222929936306
+2014,,Population of urban areas,Karagandy,33.071301357243755
+2014,,Population of urban areas,Kostanay,28.646288209606986
+2014,,Population of urban areas,Kyzylorda,30.126668948990073
+2014,,Population of urban areas,Mangistau,52.08333333333334
+2014,,Population of urban areas,Ontustik Kazakhstan,40.73333714089897
+2014,,Population of urban areas,Pavlodar,26.812136770421077
+2014,,Population of urban areas,Soltustik Kazakhstan,24.84472049689441
+2014,,Population of urban areas,Shygys Kazakhstan,28.569424637037386
+2014,,Population of urban areas,Nur-Sultan city,26.615519405176286
+2014,,Population of urban areas,Almaty city,15.95225541557757
+2014,,Population of rural areas,,36.83573970079744
+2014,,Population of rural areas,Akmola,33.25399523971439
+2014,,Population of rural areas,Aktobe,29.298082869511447
+2014,,Population of rural areas,Almaty,39.33035893725632
+2014,,Population of rural areas,Atyrau,40.301003344481614
+2014,,Population of rural areas,Batys Kazakhstan,31.288860363432146
+2014,,Population of rural areas,Zhambyl,57.90793027729736
+2014,,Population of rural areas,Karagandy,28.99801501682921
+2014,,Population of rural areas,Kostanay,29.188161824599515
+2014,,Population of rural areas,Kyzylorda,27.02346079750877
+2014,,Population of rural areas,Mangistau,55.099928338243494
+2014,,Population of rural areas,Ontustik Kazakhstan,35.46959603694693
+2014,,Population of rural areas,Pavlodar,35.75025176233635
+2014,,Population of rural areas,Soltustik Kazakhstan,31.604773984280786
+2014,,Population of rural areas,Shygys Kazakhstan,28.937117417918753
+2015,age: 10-14 years old,,,0.0321787648943224
+2015,age: 10-14 years old,,Akmola,0.04215851602023609
+2015,age: 10-14 years old,,Aktobe,0.0
+2015,age: 10-14 years old,,Almaty,0.059039283263101185
+2015,age: 10-14 years old,,Atyrau,0.09280527133941208
+2015,age: 10-14 years old,,Batys Kazakhstan,0.0
+2015,age: 10-14 years old,,Zhambyl,0.023064858381769537
+2015,age: 10-14 years old,,Karagandy,0.0
+2015,age: 10-14 years old,,Kostanay,0.07862716961846165
+2015,age: 10-14 years old,,Kyzylorda,0.0
+2015,age: 10-14 years old,,Mangistau,0.04186991018904265
+2015,age: 10-14 years old,,Ontustik Kazakhstan,0.023944448878601643
+2015,age: 10-14 years old,,Pavlodar,0.0
+2015,age: 10-14 years old,,Soltustik Kazakhstan,0.1784651992861392
+2015,age: 10-14 years old,,Shygys Kazakhstan,0.025135101168782203
+2015,age: 10-14 years old,,Nur-Sultan city,0.04416668506945212
+2015,age: 10-14 years old,,Almaty city,0.0
+2015,age: 10-14 years old,Population of urban areas,,0.03775858192496683
+2015,age: 10-14 years old,Population of urban areas,Akmola,0.10084203095850353
+2015,age: 10-14 years old,Population of urban areas,Aktobe,0.0
+2015,age: 10-14 years old,Population of urban areas,Almaty,0.0660022440762986
+2015,age: 10-14 years old,Population of urban areas,Atyrau,0.0
+2015,age: 10-14 years old,Population of urban areas,Batys Kazakhstan,0.0
+2015,age: 10-14 years old,Population of urban areas,Zhambyl,0.0
+2015,age: 10-14 years old,Population of urban areas,Karagandy,0.0
+2015,age: 10-14 years old,Population of urban areas,Kostanay,0.08875477056891808
+2015,age: 10-14 years old,Population of urban areas,Kyzylorda,0.0
+2015,age: 10-14 years old,Population of urban areas,Mangistau,0.1065019436604718
+2015,age: 10-14 years old,Population of urban areas,Ontustik Kazakhstan,0.05875555729646095
+2015,age: 10-14 years old,Population of urban areas,Pavlodar,0.0
+2015,age: 10-14 years old,Population of urban areas,Soltustik Kazakhstan,0.3501400560224089
+2015,age: 10-14 years old,Population of urban areas,Shygys Kazakhstan,0.04906771344455348
+2015,age: 10-14 years old,Population of urban areas,Nur-Sultan city,0.04416668506945212
+2015,age: 10-14 years old,Population of urban areas,Almaty city,0.0
+2015,age: 10-14 years old,Population of rural areas,,0.02674449314170904
+2015,age: 10-14 years old,Population of rural areas,Akmola,0.0
+2015,age: 10-14 years old,Population of rural areas,Aktobe,0.0
+2015,age: 10-14 years old,Population of rural areas,Almaty,0.057033678387087575
+2015,age: 10-14 years old,Population of rural areas,Atyrau,0.16600954554886904
+2015,age: 10-14 years old,Population of rural areas,Batys Kazakhstan,0.0
+2015,age: 10-14 years old,Population of rural areas,Zhambyl,0.03644049267546097
+2015,age: 10-14 years old,Population of rural areas,Karagandy,0.0
+2015,age: 10-14 years old,Population of rural areas,Kostanay,0.07057412047002364
+2015,age: 10-14 years old,Population of rural areas,Kyzylorda,0.0
+2015,age: 10-14 years old,Population of rural areas,Mangistau,0.0
+2015,age: 10-14 years old,Population of rural areas,Ontustik Kazakhstan,0.0
+2015,age: 10-14 years old,Population of rural areas,Pavlodar,0.0
+2015,age: 10-14 years old,Population of rural areas,Soltustik Kazakhstan,0.09010632546404758
+2015,age: 10-14 years old,Population of rural areas,Shygys Kazakhstan,0.0
+2015,15-19,,,30.947651865577136
+2015,,,Akmola,30.374421539755996
+2015,,,Aktobe,30.162059103908486
+2015,,,Almaty,36.08312184335503
+2015,,,Atyrau,39.80300542997853
+2015,,,Batys Kazakhstan,25.955840064014406
+2015,,,Zhambyl,46.00266277816522
+2015,,,Karagandy,28.304355065052448
+2015,,,Kostanay,26.603476771739782
+2015,,,Kyzylorda,24.46757185195396
+2015,,,Mangistau,48.40312278211497
+2015,,,Ontustik Kazakhstan,35.01186581720037
+2015,,,Pavlodar,29.561355333221908
+2015,,,Soltustik Kazakhstan,26.515948651654988
+2015,,,Shygys Kazakhstan,24.06940225505843
+2015,,,Nur-Sultan city,23.00221079563802
+2015,,,Almaty city,12.937644441564613
+2015,,Population of urban areas,,27.559829643033737
+2015,,Population of urban areas,Akmola,29.029949913114585
+2015,,Population of urban areas,Aktobe,34.56196769975615
+2015,,Population of urban areas,Almaty,36.72985781990521
+2015,,Population of urban areas,Atyrau,38.98264796767293
+2015,,Population of urban areas,Batys Kazakhstan,25.035260930888576
+2015,,Population of urban areas,Zhambyl,35.83486545211433
+2015,,Population of urban areas,Karagandy,29.108356657337065
+2015,,Population of urban areas,Kostanay,25.71133186497056
+2015,,Population of urban areas,Kyzylorda,26.1820144855819
+2015,,Population of urban areas,Mangistau,41.90067520666372
+2015,,Population of urban areas,Ontustik Kazakhstan,34.447062969407305
+2015,,Population of urban areas,Pavlodar,25.684804394625488
+2015,,Population of urban areas,Soltustik Kazakhstan,23.75212072506474
+2015,,Population of urban areas,Shygys Kazakhstan,24.66603169951401
+2015,,Population of urban areas,Nur-Sultan city,23.00221079563802
+2015,,Population of urban areas,Almaty city,12.937644441564613
+2015,,Population of rural areas,,34.3547915612055
+2015,,Population of rural areas,Akmola,31.31479230714235
+2015,,Population of rural areas,Aktobe,25.00724547675237
+2015,,Population of rural areas,Almaty,35.89404977106177
+2015,,Population of rural areas,Atyrau,40.409364430974655
+2015,,Population of rural areas,Batys Kazakhstan,26.637649619151247
+2015,,Population of rural areas,Zhambyl,52.21654749744636
+2015,,Population of rural areas,Karagandy,25.972821297713466
+2015,,Population of rural areas,Kostanay,27.31302731302731
+2015,,Population of rural areas,Kyzylorda,23.403245175524336
+2015,,Population of rural areas,Mangistau,52.30291791242478
+2015,,Population of rural areas,Ontustik Kazakhstan,35.38810273113405
+2015,,Population of rural areas,Pavlodar,36.55352480417755
+2015,,Population of rural areas,Soltustik Kazakhstan,27.91878172588833
+2015,,Population of rural areas,Shygys Kazakhstan,23.40454483603212
+2016,age: 10-14 years old,,,0.016224850467721878
+2016,age: 10-14 years old,,Akmola,0.041443905673670685
+2016,age: 10-14 years old,,Aktobe,0.0
+2016,age: 10-14 years old,,Almaty,0.0141013889868152
+2016,age: 10-14 years old,,Atyrau,0.0
+2016,age: 10-14 years old,,Batys Kazakhstan,0.0
+2016,age: 10-14 years old,,Zhambyl,0.044069365180794566
+2016,age: 10-14 years old,,Karagandy,0.02293919965132416
+2016,age: 10-14 years old,,Kostanay,0.03892413685726519
+2016,age: 10-14 years old,,Kyzylorda,0.09556879360326208
+2016,age: 10-14 years old,,Mangistau,0.0
+2016,age: 10-14 years old,,Ontustik Kazakhstan,0.007710219124427517
+2016,age: 10-14 years old,,Pavlodar,0.0
+2016,age: 10-14 years old,,Soltustik Kazakhstan,0.0
+2016,age: 10-14 years old,,Shygys Kazakhstan,0.0
+2016,age: 10-14 years old,,Nur-Sultan city,0.0
+2016,age: 10-14 years old,,Almaty city,0.0
+2016,age: 10-14 years old,Population of urban areas,,0.012974838544352864
+2016,age: 10-14 years old,Population of urban areas,Akmola,0.09801999607920016
+2016,age: 10-14 years old,Population of urban areas,Aktobe,0.0
+2016,age: 10-14 years old,Population of urban areas,Almaty,0.0
+2016,age: 10-14 years old,Population of urban areas,Atyrau,0.0
+2016,age: 10-14 years old,Population of urban areas,Batys Kazakhstan,0.0
+2016,age: 10-14 years old,Population of urban areas,Zhambyl,0.0599970001499925
+2016,age: 10-14 years old,Population of urban areas,Karagandy,0.03084753605305776
+2016,age: 10-14 years old,Population of urban areas,Kostanay,0.0
+2016,age: 10-14 years old,Population of urban areas,Kyzylorda,0.0
+2016,age: 10-14 years old,Population of urban areas,Mangistau,0.0
+2016,age: 10-14 years old,Population of urban areas,Ontustik Kazakhstan,0.01865984960161221
+2016,age: 10-14 years old,Population of urban areas,Pavlodar,0.0
+2016,age: 10-14 years old,Population of urban areas,Soltustik Kazakhstan,0.0
+2016,age: 10-14 years old,Population of urban areas,Shygys Kazakhstan,0.0
+2016,age: 10-14 years old,Population of urban areas,Nur-Sultan city,0.0
+2016,age: 10-14 years old,Population of urban areas,Almaty city,0.0
+2016,age: 10-14 years old,Population of rural areas,,0.019477389185828902
+2016,age: 10-14 years old,Population of rural areas,Akmola,0.0
+2016,age: 10-14 years old,Population of rural areas,Aktobe,0.0
+2016,age: 10-14 years old,Population of rural areas,Almaty,0.018143551781696785
+2016,age: 10-14 years old,Population of rural areas,Atyrau,0.0
+2016,age: 10-14 years old,Population of rural areas,Batys Kazakhstan,0.0
+2016,age: 10-14 years old,Population of rural areas,Zhambyl,0.03482439797322004
+2016,age: 10-14 years old,Population of rural areas,Karagandy,0.0
+2016,age: 10-14 years old,Population of rural areas,Kostanay,0.07180039490217198
+2016,age: 10-14 years old,Population of rural areas,Kyzylorda,0.15927371187385522
+2016,age: 10-14 years old,Population of rural areas,Mangistau,0.0
+2016,age: 10-14 years old,Population of rural areas,Ontustik Kazakhstan,0.0
+2016,age: 10-14 years old,Population of rural areas,Pavlodar,0.0
+2016,age: 10-14 years old,Population of rural areas,Soltustik Kazakhstan,0.0
+2016,age: 10-14 years old,Population of rural areas,Shygys Kazakhstan,0.0
+2016,15-19,,,28.104587089004852
+2016,,,Akmola,26.02881120136427
+2016,,,Aktobe,25.86516584840139
+2016,,,Almaty,35.017560050244825
+2016,,,Atyrau,35.11327281712487
+2016,,,Batys Kazakhstan,26.18286774559324
+2016,,,Zhambyl,41.08942065491184
+2016,,,Karagandy,24.049562792575674
+2016,,,Kostanay,24.556225146558443
+2016,,,Kyzylorda,21.58428663932657
+2016,,,Mangistau,42.24941724941725
+2016,,,Ontustik Kazakhstan,31.771182664043828
+2016,,,Pavlodar,25.180846537007838
+2016,,,Soltustik Kazakhstan,26.133217185701394
+2016,,,Shygys Kazakhstan,22.96335318987992
+2016,,,Nur-Sultan city,18.71146076972145
+2016,,,Almaty city,13.499080609110226
+2016,,Population of urban areas,,25.18400379322608
+2016,,Population of urban areas,Akmola,25.88373709824055
+2016,,Population of urban areas,Aktobe,30.060483140777226
+2016,,Population of urban areas,Almaty,37.002987818892215
+2016,,Population of urban areas,Atyrau,40.145542753183754
+2016,,Population of urban areas,Batys Kazakhstan,25.696418419556565
+2016,,Population of urban areas,Zhambyl,31.936825186065196
+2016,,Population of urban areas,Karagandy,23.858675420488
+2016,,Population of urban areas,Kostanay,22.08927749654855
+2016,,Population of urban areas,Kyzylorda,22.544580984939486
+2016,,Population of urban areas,Mangistau,40.101252331468146
+2016,,Population of urban areas,Ontustik Kazakhstan,31.73533672472459
+2016,,Population of urban areas,Pavlodar,23.254912600286808
+2016,,Population of urban areas,Soltustik Kazakhstan,21.914550242079333
+2016,,Population of urban areas,Shygys Kazakhstan,23.7741456166419
+2016,,Population of urban areas,Nur-Sultan city,18.71146076972145
+2016,,Population of urban areas,Almaty city,13.499080609110226
+2016,,Population of rural areas,,31.119631844965497
+2016,,Population of rural areas,Akmola,26.13368384428036
+2016,,Population of rural areas,Aktobe,20.715714603245164
+2016,,Population of rural areas,Almaty,34.44748737915333
+2016,,Population of rural areas,Atyrau,31.333970943207174
+2016,,Population of rural areas,Batys Kazakhstan,26.586216649382486
+2016,,Population of rural areas,Zhambyl,46.59174456464657
+2016,,Population of rural areas,Karagandy,24.609278094765568
+2016,,Population of rural areas,Kostanay,26.537551744529864
+2016,,Population of rural areas,Kyzylorda,20.9720176730486
+2016,,Population of rural areas,Mangistau,43.48158337154211
+2016,,Population of rural areas,Ontustik Kazakhstan,31.795164610599393
+2016,,Population of rural areas,Pavlodar,28.69257950530035
+2016,,Population of rural areas,Soltustik Kazakhstan,28.57142857142857
+2016,,Population of rural areas,Shygys Kazakhstan,22.025404964456357
+2017,age: 10-14 years old,,,0.020045070570212868
+2017,age: 10-14 years old,,Akmola,0.0
+2017,age: 10-14 years old,,Aktobe,0.0
+2017,age: 10-14 years old,,Almaty,0.040006934535319456
+2017,age: 10-14 years old,,Atyrau,0.0
+2017,age: 10-14 years old,,Batys Kazakhstan,0.09436187780136823
+2017,age: 10-14 years old,,Zhambyl,0.0
+2017,age: 10-14 years old,,Karagandy,0.02205801257306717
+2017,age: 10-14 years old,,Kostanay,0.03843419105636374
+2017,age: 10-14 years old,,Kyzylorda,0.0
+2017,age: 10-14 years old,,Mangistau,0.0
+2017,age: 10-14 years old,,Ontustik Kazakhstan,0.014745184775596719
+2017,age: 10-14 years old,,Pavlodar,0.0
+2017,age: 10-14 years old,,Soltustik Kazakhstan,0.0
+2017,age: 10-14 years old,,Shygys Kazakhstan,0.06900676266274096
+2017,age: 10-14 years old,,Nur-Sultan city,0.0
+2017,age: 10-14 years old,,Almaty city,0.02093057328840237
+2017,age: 10-14 years old,Population of urban areas,,0.018259003971333364
+2017,age: 10-14 years old,Population of urban areas,Akmola,0.0
+2017,age: 10-14 years old,Population of urban areas,Aktobe,0.0
+2017,age: 10-14 years old,Population of urban areas,Almaty,0.1217952621643018
+2017,age: 10-14 years old,Population of urban areas,Atyrau,0.0
+2017,age: 10-14 years old,Population of urban areas,Batys Kazakhstan,0.10813148788927336
+2017,age: 10-14 years old,Population of urban areas,Zhambyl,0.0
+2017,age: 10-14 years old,Population of urban areas,Karagandy,0.0
+2017,age: 10-14 years old,Population of urban areas,Kostanay,0.08145975887911372
+2017,age: 10-14 years old,Population of urban areas,Kyzylorda,0.0
+2017,age: 10-14 years old,Population of urban areas,Mangistau,0.0
+2017,age: 10-14 years old,Population of urban areas,Ontustik Kazakhstan,0.0
+2017,age: 10-14 years old,Population of urban areas,Pavlodar,0.0
+2017,age: 10-14 years old,Population of urban areas,Soltustik Kazakhstan,0.0
+2017,age: 10-14 years old,Population of urban areas,Shygys Kazakhstan,0.04350947418800444
+2017,age: 10-14 years old,Population of urban areas,Nur-Sultan city,0.0
+2017,age: 10-14 years old,Population of urban areas,Almaty city,0.02093057328840237
+2017,age: 10-14 years old,Population of rural areas,,0.021879546843328383
+2017,age: 10-14 years old,Population of rural areas,Akmola,0.0
+2017,age: 10-14 years old,Population of rural areas,Aktobe,0.0
+2017,age: 10-14 years old,Population of rural areas,Almaty,0.01707475326981525
+2017,age: 10-14 years old,Population of rural areas,Atyrau,0.0
+2017,age: 10-14 years old,Population of rural areas,Batys Kazakhstan,0.08370302167908261
+2017,age: 10-14 years old,Population of rural areas,Zhambyl,0.0
+2017,age: 10-14 years old,Population of rural areas,Karagandy,0.08867606632969761
+2017,age: 10-14 years old,Population of rural areas,Kostanay,0.0
+2017,age: 10-14 years old,Population of rural areas,Kyzylorda,0.0
+2017,age: 10-14 years old,Population of rural areas,Mangistau,0.0
+2017,age: 10-14 years old,Population of rural areas,Ontustik Kazakhstan,0.02542249000578362
+2017,age: 10-14 years old,Population of rural areas,Pavlodar,0.0
+2017,age: 10-14 years old,Population of rural areas,Soltustik Kazakhstan,0.0
+2017,age: 10-14 years old,Population of rural areas,Shygys Kazakhstan,0.09991257649556637
+2017,15-19,,,24.904794458158783
+2017,,,Akmola,24.911032028469748
+2017,,,Aktobe,21.329961867085377
+2017,,,Almaty,29.718658867555586
+2017,,,Atyrau,30.98702320094377
+2017,,,Batys Kazakhstan,20.482343264970414
+2017,,,Zhambyl,35.465970943860995
+2017,,,Karagandy,20.458821070234112
+2017,,,Kostanay,20.098612736085574
+2017,,,Kyzylorda,19.796525507768024
+2017,,,Mangistau,39.810426540284354
+2017,,,Ontustik Kazakhstan,30.00188521720396
+2017,,,Pavlodar,22.077554486272287
+2017,,,Soltustik Kazakhstan,20.537024044900825
+2017,,,Shygys Kazakhstan,20.390304882283488
+2017,,,Nur-Sultan city,14.987845223081283
+2017,,,Almaty city,12.750264661059342
+2017,,Population of urban areas,,22.376501618855627
+2017,,Population of urban areas,Akmola,23.27127659574468
+2017,,Population of urban areas,Aktobe,25.458576179068192
+2017,,Population of urban areas,Almaty,33.22412796299865
+2017,,Population of urban areas,Atyrau,33.21614741180749
+2017,,Population of urban areas,Batys Kazakhstan,19.05504791620236
+2017,,Population of urban areas,Zhambyl,26.831193055455913
+2017,,Population of urban areas,Karagandy,20.31712841958529
+2017,,Population of urban areas,Kostanay,16.93425253319761
+2017,,Population of urban areas,Kyzylorda,21.29845866417562
+2017,,Population of urban areas,Mangistau,41.15170446828738
+2017,,Population of urban areas,Ontustik Kazakhstan,31.088540516670342
+2017,,Population of urban areas,Pavlodar,19.342819770898572
+2017,,Population of urban areas,Soltustik Kazakhstan,17.260918838810912
+2017,,Population of urban areas,Shygys Kazakhstan,20.179874934602253
+2017,,Population of urban areas,Nur-Sultan city,14.987845223081283
+2017,,Population of urban areas,Almaty city,12.750264661059342
+2017,,Population of rural areas,,27.558349817930843
+2017,,Population of rural areas,Akmola,26.138909634055267
+2017,,Population of rural areas,Aktobe,15.850417615793472
+2017,,Population of rural areas,Almaty,28.737554071692863
+2017,,Population of rural areas,Atyrau,29.28812306555181
+2017,,Population of rural areas,Batys Kazakhstan,21.779871346806463
+2017,,Population of rural areas,Zhambyl,40.519829522789784
+2017,,Population of rural areas,Karagandy,20.883366398663465
+2017,,Population of rural areas,Kostanay,22.70389699440021
+2017,,Population of rural areas,Kyzylorda,18.823386999152643
+2017,,Population of rural areas,Mangistau,39.06279571520497
+2017,,Population of rural areas,Ontustik Kazakhstan,29.25737107241729
+2017,,Population of rural areas,Pavlodar,27.138037259791695
+2017,,Population of rural areas,Soltustik Kazakhstan,22.42671091667924
+2017,,Population of rural areas,Shygys Kazakhstan,20.059752454118648
+2018,age: 10-14 years old,,,0.0217718829195224
+2018,age: 10-14 years old,,Akmola,0.07781041492403758
+2018,age: 10-14 years old,,Aktobe,0.06464437513130887
+2018,age: 10-14 years old,,Almaty,0.025023929132232697
+2018,age: 10-14 years old,,Atyrau,0.03865854837150865
+2018,age: 10-14 years old,,Batys Kazakhstan,0.045242727231597515
+2018,age: 10-14 years old,,Zhambyl,0.01956468574223526
+2018,age: 10-14 years old,,Karagandy,0.0
+2018,age: 10-14 years old,,Kostanay,0.0
+2018,age: 10-14 years old,,Kyzylorda,0.028483130865744763
+2018,age: 10-14 years old,,Mangistau,0.0
+2018,age: 10-14 years old,,Pavlodar,0.0
+2018,age: 10-14 years old,,Soltustik Kazakhstan,0.05700116852395474
+2018,age: 10-14 years old,,Turkistan,0.0
+2018,age: 10-14 years old,,Shygys Kazakhstan,0.0
+2018,age: 10-14 years old,,Nur-Sultan city,0.06269592476489029
+2018,age: 10-14 years old,,Almaty city,0.01900002850004275
+2018,age: 10-14 years old,,Shymkent city,0.02
+2018,age: 10-14 years old,Population of urban areas,,0.028134420634909472
+2018,age: 10-14 years old,Population of urban areas,Akmola,0.1840434342504831
+2018,age: 10-14 years old,Population of urban areas,Aktobe,0.04959702417854928
+2018,age: 10-14 years old,Population of urban areas,Almaty,0.0
+2018,age: 10-14 years old,Population of urban areas,Atyrau,0.0
+2018,age: 10-14 years old,Population of urban areas,Batys Kazakhstan,0.10083186286866652
+2018,age: 10-14 years old,Population of urban areas,Zhambyl,0.05373310765428118
+2018,age: 10-14 years old,Population of urban areas,Karagandy,0.0
+2018,age: 10-14 years old,Population of urban areas,Kostanay,0.0
+2018,age: 10-14 years old,Population of urban areas,Kyzylorda,0.0
+2018,age: 10-14 years old,Population of urban areas,Mangistau,0.0
+2018,age: 10-14 years old,Population of urban areas,Pavlodar,0.0
+2018,age: 10-14 years old,Population of urban areas,Soltustik Kazakhstan,0.15579964166082416
+2018,age: 10-14 years old,Population of urban areas,Turkistan,0.0
+2018,age: 10-14 years old,Population of urban areas,Shygys Kazakhstan,0.0
+2018,age: 10-14 years old,Population of urban areas,Nur-Sultan city,0.06269592476489029
+2018,age: 10-14 years old,Population of urban areas,Almaty city,0.01900002850004275
+2018,age: 10-14 years old,Population of urban areas,Shymkent city,0.02
+2018,age: 10-14 years old,Population of rural areas,,0.01499135748241139
+2018,age: 10-14 years old,Population of rural areas,Akmola,0.0
+2018,age: 10-14 years old,Population of rural areas,Aktobe,0.09279881217520417
+2018,age: 10-14 years old,Population of rural areas,Almaty,0.03177276121181311
+2018,age: 10-14 years old,Population of rural areas,Atyrau,0.0759762953958365
+2018,age: 10-14 years old,Population of rural areas,Batys Kazakhstan,0.0
+2018,age: 10-14 years old,Population of rural areas,Zhambyl,0.0
+2018,age: 10-14 years old,Population of rural areas,Karagandy,0.0
+2018,age: 10-14 years old,Population of rural areas,Kostanay,0.0
+2018,age: 10-14 years old,Population of rural areas,Kyzylorda,0.048344210780759005
+2018,age: 10-14 years old,Population of rural areas,Mangistau,0.0
+2018,age: 10-14 years old,Population of rural areas,Pavlodar,0.0
+2018,age: 10-14 years old,Population of rural areas,Soltustik Kazakhstan,0.0
+2018,age: 10-14 years old,Population of rural areas,Turkistan,0.0
+2018,age: 10-14 years old,Population of rural areas,Shygys Kazakhstan,0.0
+2018,15-19,,,23.93
+2018,,,Akmola,21.61
+2018,,,Aktobe,17.74
+2018,,,Almaty,28.76
+2018,,,Atyrau,28.21
+2018,,,Batys Kazakhstan,20.94
+2018,,,Zhambyl,36.64
+2018,,,Karagandy,20.41
+2018,,,Kostanay,18.63
+2018,,,Kyzylorda,20.65
+2018,,,Mangistau,35.04
+2018,,,Pavlodar,18.47
+2018,,,Soltustik Kazakhstan,19.55
+2018,,,Turkistan,30.92
+2018,,,Shygys Kazakhstan,19.52
+2018,,,Nur-Sultan city,15.07
+2018,,,Almaty city,12.31
+2018,,,Shymkent city,24.34
+2018,,Population of urban areas,,21.09
+2018,,Population of urban areas,Akmola,20.1
+2018,,Population of urban areas,Aktobe,18.9
+2018,,Population of urban areas,Almaty,31.06
+2018,,Population of urban areas,Atyrau,28.76
+2018,,Population of urban areas,Batys Kazakhstan,20.77
+2018,,Population of urban areas,Zhambyl,29.45
+2018,,Population of urban areas,Karagandy,20.1
+2018,,Population of urban areas,Kostanay,14.14
+2018,,Population of urban areas,Kyzylorda,20.81
+2018,,Population of urban areas,Mangistau,36.41
+2018,,Population of urban areas,Pavlodar,16.43
+2018,,Population of urban areas,Soltustik Kazakhstan,16.84
+2018,,Population of urban areas,Turkistan,38.55
+2018,,Population of urban areas,Shygys Kazakhstan,19.48
+2018,,Population of urban areas,Nur-Sultan city,15.07
+2018,,Population of urban areas,Almaty city,12.31
+2018,,Population of urban areas,Shymkent city,24.34
+2018,,Population of rural areas,,27.01
+2018,,Population of rural areas,Akmola,22.74
+2018,,Population of rural areas,Aktobe,15.65
+2018,,Population of rural areas,Almaty,28.14
+2018,,Population of rural areas,Atyrau,27.68
+2018,,Population of rural areas,Batys Kazakhstan,21.1
+2018,,Population of rural areas,Zhambyl,40.8
+2018,,Population of rural areas,Karagandy,21.36
+2018,,Population of rural areas,Kostanay,22.51
+2018,,Population of rural areas,Kyzylorda,20.54
+2018,,Population of rural areas,Mangistau,34.27
+2018,,Population of rural areas,Pavlodar,22.26
+2018,,Population of rural areas,Soltustik Kazakhstan,21.07
+2018,,Population of rural areas,Turkistan,29.23
+2018,,Population of rural areas,Shygys Kazakhstan,19.57
+2019,age: 10-14 years old,,,0.024606669227583
+2019,age: 10-14 years old,,Akmola,0.03750093752343808
+2019,age: 10-14 years old,,Aktobe,0.030241173357526276
+2019,age: 10-14 years old,,Almaty,0.046981994150741724
+2019,age: 10-14 years old,,Atyrau,0.03604058169498856
+2019,age: 10-14 years old,,Batys Kazakhstan,0.0
+2019,age: 10-14 years old,,Zhambyl,0.05513439007580979
+2019,age: 10-14 years old,,Karagandy,0.041271151465125874
+2019,age: 10-14 years old,,Kostanay,0.0
+2019,age: 10-14 years old,,Kyzylorda,0.0
+2019,age: 10-14 years old,,Mangistau,0.0
+2019,age: 10-14 years old,,Pavlodar,0.0
+2019,age: 10-14 years old,,Soltustik Kazakhstan,0.0
+2019,age: 10-14 years old,,Turkistan,0.0
+2019,age: 10-14 years old,,Shygys Kazakhstan,0.04194982800570518
+2019,age: 10-14 years old,,Nur-Sultan city,0.02776119817331316
+2019,age: 10-14 years old,,Almaty city,0.0
+2019,age: 10-14 years old,,Shymkent city,0.06613465014770073
+2019,age: 10-14 years old,Population of urban areas,,0.01821818356902024
+2019,age: 10-14 years old,Population of urban areas,Akmola,0.0
+2019,age: 10-14 years old,Population of urban areas,Aktobe,0.0456266824839166
+2019,age: 10-14 years old,Population of urban areas,Almaty,0.0
+2019,age: 10-14 years old,Population of urban areas,Atyrau,0.06922810661128419
+2019,age: 10-14 years old,Population of urban areas,Batys Kazakhstan,0.0
+2019,age: 10-14 years old,Population of urban areas,Zhambyl,0.0
+2019,age: 10-14 years old,Population of urban areas,Karagandy,0.02702447065818098
+2019,age: 10-14 years old,Population of urban areas,Kostanay,0.0
+2019,age: 10-14 years old,Population of urban areas,Kyzylorda,0.0
+2019,age: 10-14 years old,Population of urban areas,Mangistau,0.0
+2019,age: 10-14 years old,Population of urban areas,Pavlodar,0.0
+2019,age: 10-14 years old,Population of urban areas,Soltustik Kazakhstan,0.0
+2019,age: 10-14 years old,Population of urban areas,Turkistan,0.0
+2019,age: 10-14 years old,Population of urban areas,Shygys Kazakhstan,0.0
+2019,age: 10-14 years old,Population of urban areas,Nur-Sultan city,0.02776119817331316
+2019,age: 10-14 years old,Population of urban areas,Almaty city,0.0
+2019,age: 10-14 years old,Population of urban areas,Shymkent city,0.06613465014770073
+2019,age: 10-14 years old,Population of rural areas,,0.031674957346790385
+2019,age: 10-14 years old,Population of rural areas,Akmola,0.06602185323342026
+2019,age: 10-14 years old,Population of rural areas,Aktobe,0.0
+2019,age: 10-14 years old,Population of rural areas,Almaty,0.059401823635985625
+2019,age: 10-14 years old,Population of rural areas,Atyrau,0.0
+2019,age: 10-14 years old,Population of rural areas,Batys Kazakhstan,0.0
+2019,age: 10-14 years old,Population of rural areas,Zhambyl,0.08695904229108091
+2019,age: 10-14 years old,Population of rural areas,Karagandy,0.08728669314363025
+2019,age: 10-14 years old,Population of rural areas,Kostanay,0.0
+2019,age: 10-14 years old,Population of rural areas,Kyzylorda,0.0
+2019,age: 10-14 years old,Population of rural areas,Mangistau,0.0
+2019,age: 10-14 years old,Population of rural areas,Pavlodar,0.0
+2019,age: 10-14 years old,Population of rural areas,Soltustik Kazakhstan,0.0
+2019,age: 10-14 years old,Population of rural areas,Turkistan,0.0
+2019,age: 10-14 years old,Population of rural areas,Shygys Kazakhstan,0.0920683146894996
+2019,15-19,,,23.2
+2019,,,Akmola,21.6
+2019,,,Aktobe,18.06
+2019,,,Almaty,27.35
+2019,,,Atyrau,25.96
+2019,,,Batys Kazakhstan,18.71
+2019,,,Zhambyl,33.73
+2019,,,Karagandy,19.91
+2019,,,Kostanay,18.48
+2019,,,Kyzylorda,18.95
+2019,,,Mangistau,33.98
+2019,,,Pavlodar,18.24
+2019,,,Soltustik Kazakhstan,19.15
+2019,,,Turkistan,31.97
+2019,,,Shygys Kazakhstan,17.23
+2019,,,Nur-Sultan city,11.69
+2019,,,Almaty city,12.39
+2019,,,Shymkent city,25.44
+2019,,Population of urban areas,,20.61
+2019,,Population of urban areas,Akmola,19.76
+2019,,Population of urban areas,Aktobe,20.01
+2019,,Population of urban areas,Almaty,30.27
+2019,,Population of urban areas,Atyrau,24.43
+2019,,Population of urban areas,Batys Kazakhstan,19.1
+2019,,Population of urban areas,Zhambyl,27.77
+2019,,Population of urban areas,Karagandy,19.23
+2019,,Population of urban areas,Kostanay,15.33
+2019,,Population of urban areas,Kyzylorda,19.44
+2019,,Population of urban areas,Mangistau,29.86
+2019,,Population of urban areas,Pavlodar,16.52
+2019,,Population of urban areas,Soltustik Kazakhstan,16.43
+2019,,Population of urban areas,Turkistan,45.85
+2019,,Population of urban areas,Shygys Kazakhstan,16.49
+2019,,Population of urban areas,Nur-Sultan city,11.69
+2019,,Population of urban areas,Almaty city,12.39
+2019,,Population of urban areas,Shymkent city,20.61
+2019,,Population of rural areas,,26.04
+2019,,Population of rural areas,Akmola,22.95
+2019,,Population of rural areas,Aktobe,14.49
+2019,,Population of rural areas,Almaty,26.57
+2019,,Population of rural areas,Atyrau,27.53
+2019,,Population of rural areas,Batys Kazakhstan,18.36
+2019,,Population of rural areas,Zhambyl,37.14
+2019,,Population of rural areas,Karagandy,21.96
+2019,,Population of rural areas,Kostanay,21.61
+2019,,Population of rural areas,Kyzylorda,18.64
+2019,,Population of rural areas,Mangistau,36.34
+2019,,Population of rural areas,Pavlodar,21.43
+2019,,Population of rural areas,Soltustik Kazakhstan,20.7
+2019,,Population of rural areas,Turkistan,28.85
+2019,,Population of rural areas,Shygys Kazakhstan,18.16

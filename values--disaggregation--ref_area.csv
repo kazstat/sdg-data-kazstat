@@ -1,0 +1,66 @@
+Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
+KZAKM,Акмолинская,Ақмола,Akmola,276,76
+KZAKS,г.Аксай,Ақсай,city Aksay,1,1
+KZAKSU,г.Аксу,Ақсу,city Aksu,1,1
+KZAKT,Актюбинская,Ақтөбе,Aktobe,270,74
+KZAKY,п.Акай,Ақай кенті,village Akay,1,1
+KZALA,г.Алматы,Алматы қаласы,Almaty city,212,68
+KZALM,Алматинская,Алматы,Almaty,278,76
+KZARK,г.Аркалык,Арқалық,city Arkalık,1,1
+KZATB,г.Актобе,Ақтөбе,city Aktobe,2,1
+KZATR,г.Атырау,Атырау,city Atyrau,2,1
+KZATY,Атырауская,Атырау,Atyrau,270,74
+KZBEI,п.Бейнеу,Бейнеу кенті,village Beineu,2,1
+KZBER,п.Березовка,Березовка кенті,village Berezovka,2,1
+KZBLH,г.Балхаш,Балқаш,city Balkhash,2,1
+KZBOR,СКФМ «Боровое»,«Бурабай» МКҚК,SKFM «Borovoe»,2,1
+KZEBT,г.Экибастуз,Екібастұз,city Ekibastuz,2,1
+KZGLU,п.Глубокое,Глубокое кенті,village Glubokoye,2,1
+KZKAR,Карагандинская,Қарағанды,Karagandy,278,76
+KZKAT,г.Каратау,Қаратау,city Karatau,2,1
+KZKBL,п.Карабалык,Қарабалық кенті,Karabalyk,2,1
+KZKET,г.Кентау,Кентау,city Kentau,2,1
+KZKLS,г.Кульсары,Көлсары кенті,Kulsary,1,1
+KZKOR,п.Кордай,Қордай кенті,village Kordai,2,1
+KZKOS,г.Костанай,Қостанай,city Kostanay,2,1
+KZKRG,г.Караганда,Қарағанды,city Karagandy,2,1
+KZKSH,г.Кокшетау,Көкшетау,City Kokshetau,2,1
+KZKUS,Костанайская,Қостанай,Kostanay,273,73
+KZKZL,г.Кызылорда,Қызылорда,city Kyzylorda,2,1
+KZKZY,Кызылординская,Қызылорда,Kyzylorda,272,74
+KZMAN,Мангистауская,Маңғыстау,Mangistau,272,74
+KZNS,г.Нур-Султан,Нұр-Сұлтан қаласы,Nur-Sultan city,212,67
+KZONT,Южно-Казахстанская,Оңтүстік Қазақстан,Ontustik Kazakhstan,217,55
+KZPAV,Павлодарская,Павлодар,Pavlodar,279,76
+KZPVL,г.Павлодар,Павлодар,city Pavlodar,2,1
+KZRDD,г.Риддер,Риддер,city Ridder,1,1
+KZRDN,г.Рудный,Рудный,city Rudny,1,1
+KZSEM,г.Семей,Семей,city Semey,2,1
+KZSEV,Северо-Казахстанская,Солтүстік Қазақстан,Soltustik Kazakhstan,276,76
+KZSHB,ЩБКЗ,ЩБКЗ,SHBKZ,2,1
+KZSHU,г.Чу,Шу,city Shu,2,1
+KZSHY,г.Шымкент,Шымкент қаласы,Shymkent city,187,57
+KZSRB,п.Сарыбулак,Сарыбұлақ кенті,village Sarıbulak,2,1
+KZSRN,г.Сарань,Саран,city Saran,2,1
+KZSTG,г.Степногорск,Степногорск,City Stepnogorsk,2,1
+KZTDK,г.Талдыкорган,Талдықорған,city Taldıkorgan,1,1
+KZTMT,г.Темиртау,Теміртау,city Temirtau,2,1
+KZTRT,п.Торетам,Төретам кенті,village Toretam,1,1
+KZTRZ,г.Тараз,Тараз,city Taraz,1,1
+KZTUR,г.Туркестан,Түркістан,city Turkistan,2,1
+KZURL,г.Уральск,Орал,city Uralsk,2,1
+KZUSK,г.Усть-Каменогорск,Өскемен,city Ust-Kamenogorsk,1,1
+KZVOS,Восточно-Казахстанская,Шығыс Қазақстан,Shygys Kazakhstan,277,76
+KZYAN,п.Январцево,Январцев кенті,village Yanvartsevo,2,1
+KZYUZ,Туркестанская,Түркістан,Turkistan,253,65
+KZZAP,Западно-Казахстанская,Батыс Қазақстан,Batys Kazakhstan,271,73
+KZZHA,Жымбылская,Жамбыл,Zhambyl,276,76
+KZZHK,г.Жезказган,Жезқазған,city Zhezkazgan,2,1
+KZZHO,г.Жанаозен,Жаңаөзен,city Zhanaozen,1,1
+KZZHR,г.Житикара,Жетіқара,city Zhitikara,1,1
+KZZHT,г.Жанатас,Жаңатас,city Zhanatas,2,1
+KZZRV,г.Зыряновск,Зыряновск,city Zyryanovsk,2,1
+г_Алматы,г_Алматы,г_Алматы,г_Алматы,2,1
+г_Лисаковск,г_Лисаковск,г_Лисаковск,г_Лисаковск,1,1
+г_Нур-Султан,г_Нур-Султан,г_Нур-Султан,г_Нур-Султан,2,1
+г_Шымкент,г_Шымкент,г_Шымкент,г_Шымкент,2,1
