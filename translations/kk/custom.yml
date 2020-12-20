@@ -9,3 +9,25 @@ frontpage_intro_description: >-
   <p class="lead-copy">Ұлттық деңгейде ТДМ мақсаттары мен міндеттерін іске асырудағы прогрестің мониторингін жүзеге асыруға жәрдемдесу мақсатында әрбір мемлекет БҰҰ-мүшесі жаһандық индикаторларға қосымша ұлттық индикаторларды әзірлей алады.</p>
 
   <p class="lead-copy">Қазақстан ТДМ-ның жаһандық индикаторларын ұлттық меншігіне алды және бүгінгі күні мониторинг жүйесі 280 индикаторды қамтиды, оның ішінде 205 жаһандық және 75 ұлттық индикатор бар. Әрбір ТДМ бойынша барлық қолда бар деректер төменде келтірілген.</p>
+frontpage_intro_sidebar: >-
+  <p>
+    <a href='http://sdgs.kz/' class='btn btn-primary btn-download'>
+      Қазақстанда Тұрақты даму мақсаттарын іске асыру туралы
+    </a>
+  </p> <p>
+    <a href='https://sustainabledevelopment.un.org/' class='btn btn-primary btn-download'>
+      БҰҰ ТДМ Білім платформасы
+    </a>
+  </p> <p>
+    <a href='https://unstats.un.org/home/' class='btn btn-primary btn-download'>
+      БҰҰ Статистикалық бөлімі
+    </a>
+  </p> <p>
+    <a href='https://www.unece.org/unece-and-the-sdgs/unece-and-the-sdgs.html' class='btn btn-primary btn-download'>
+      БҰҰ ЕЭК және ТДМ
+    </a>
+  </p> <p>
+    <a href='https://datatopics.worldbank.org/sdgs/index.html' class='btn btn-primary btn-download'>
+      Дүниежүзілік Даму Көрсеткіштері Тұрақты Даму Мақсаттары
+    </a>
+  </p>
