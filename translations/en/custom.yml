@@ -1,11 +1,49 @@
-frontpage_heading: "Kazakhstan data for Sustainable Development Goal indicators"
+frontpage_heading: Kazakhstan data for Sustainable Development Goal indicators
 frontpage_instructions: Click on each goal to view statistics for Sustainable Development Goal global indicators.
 frontpage_intro_title: 17 goals will transform our world
 frontpage_intro_description: >-
-  <p class="lead-copy">The <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/"> Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"> 2030 Agenda for Sustainable Development</a>.</p>
+  <p class="lead-copy">The <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">
+  Sustainable Development Goals (SDGs)</a> are a universal call to action to
+  end poverty, protect the planet and improve the lives and prospects of
+  everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015,
+  as part of the <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E">
+  2030 Agenda for Sustainable Development</a>.</p>
 
-  <p class="lead-copy">To monitor and review the implementation of the 17 sustainable development goals (SDGs) and 169 targets of the new agenda, a system of global indicators developed by the inter-Agency and expert group on indicators of achievement of the sustainable development Goals (IAEG-SDGs) is used.</p>
+  <p class="lead-copy">To monitor and review the implementation of the 17 sustainable development
+  goals (SDGs) and 169 targets of the new agenda, a system of global indicators
+  developed by the inter-Agency and expert group on indicators of achievement
+  of the sustainable development Goals (IAEG-SDGs) is used.</p>
 
-  <p class="lead-copy">Each UN member state can develop national indicators in addition to global indicators to help monitor progress in achieving the goals and targets of the SDGs at the national level.</p>
+  <p class="lead-copy">Each UN member state can develop national indicators in addition to global
+  indicators to help monitor progress in achieving the goals and targets of
+  the SDGs at the national level.</p>
 
-  <p class="lead-copy">Kazakhstan has nationalized the global SDG indicators and today the monitoring system includes 280 indicators, including 205 global and 75 national indicators. All available data for each SDG is presented below.</p>
+  <p class="lead-copy">Kazakhstan has nationalized the global SDG indicators and today the
+  monitoring system includes 280 indicators, including 205 global and 75
+  national indicators. All available data for each SDG is presented below.</p>
+frontpage_intro_sidebar: >-
+  <p>
+    <a href='http://sdgs.kz/' class='btn btn-primary btn-download'>
+      About implementation of the Sustainable Development Goals in Kazakhstan
+    </a>
+  </p>
+  <p>
+    <a href='https://sustainabledevelopment.un.org/' class='btn btn-primary btn-download'>
+      UN SDG Knowledge platform
+    </a>
+  </p>
+  <p>
+    <a href='https://unstats.un.org/home/' class='btn btn-primary btn-download'>
+      UN Statistics Division
+    </a>
+  </p>
+  <p>
+    <a href='https://www.unece.org/unece-and-the-sdgs/unece-and-the-sdgs.html' class='btn btn-primary btn-download'>
+      UNECE and the SDGs
+    </a>
+  </p>
+  <p>
+    <a href='https://datatopics.worldbank.org/sdgs/index.html' class='btn btn-primary btn-download'>
+      World Development Indicators Sustainable Development Goals
+    </a>
+  </p>

@@ -1,0 +1,22 @@
+ISIC4_A: agriculture, forestry and fishery
+ISIC4_C: manufacturing
+ISIC4_F: Construction
+ISIC4_G: wholesale and retail trade; car and motorcycle repair
+ISIC4_H: transport and storage
+ISIC4_I: services (food and dwelling)
+ISIC4_J: information and communication
+ISIC4_K: finance and insurance
+ISIC4_L: real estate transactions
+ISIC4_N: management and support activities
+ISIC4_O: government administration and defence
+ISIC4_P: education
+ISIC4_Q: health care and social care
+ISIC4_R: culture, entertainment and leisure
+ISIC4_S: provision of other types of services
+_L_ACT_ELWPP: excluding large water-power-plant
+_L_ACT_ENG_COMP: energy companies
+_L_ACT_ILWPP: including large water-power-plant
+_L_ACT_IND: Industry
+_L_ACT_OTH_TA: other types of activity
+_L_ACT_TO: technical operations
+ACTIVITY: Type of economic activity

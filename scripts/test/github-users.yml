@@ -5,6 +5,4 @@ ASholpan: administrator
 AigulZiff: administrator
 ainurchik: administrator
 # Each user can edit their assigned files or folders.
-transifex-integration[bot]:
-    - translations/*
 

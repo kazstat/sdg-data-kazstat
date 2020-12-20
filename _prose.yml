@@ -30,12 +30,12 @@ prose:
             element: text
             label: "Indicator name"
             scope: global
-      - name: "indicator"
+      - name: "indicator_number"
         field:
             element: hidden
             label: "Indicator number"
             scope: global
-      - name: "target"
+      - name: "target_name"
         field:
             element: text
             label: "Target name"
@@ -76,16 +76,17 @@ prose:
         field:
             element: text
             label: "Availability"
-            scope: national
+            scope: data
       - name: classification
         field:
             element: text
             label: "Classification"
-            scope: national
+            scope: data
       - name: "customisation"
         field:
             element: select
             label: "Customisation"
+            translation_key: "metadata_fields.customisation"
             options:
               - name: '1'
                 value: 'meta.customisation-1'
@@ -100,12 +101,7 @@ prose:
                 value: 'meta.customisation-4'
                 translation_key: 'meta.customisation-4'
             scope: national
-      - name: "indicator_name_national"
-        field:
-            element: text
-            label: "National indicator name"
-            scope: national
-      - name: "national_indicator_available"
+      - name: "indicator_available"
         field:
             element: text
             label: "Indicator available"
@@ -168,10 +164,13 @@ prose:
             options:
               - name: 'complete'
                 value: 'complete'
-              - name: 'inprogress'
-                value: 'inprogress'
+                translation_key: status.reported_online
               - name: 'notstarted'
                 value: 'notstarted'
+                translation_key: status.exploring_data_sources
+              - name: 'notapplicable'
+                value: 'notapplicable'
+                translation_key: status.not_applicable
             scope: data
       - name: data_non_statistical
         field:
