@@ -70,6 +70,9 @@ docs_intro: This is a summary of the resources available on this data service.
   Kazakhstan SDG national reporting platform</a>.
 docs_indicator_url: http://kazstat.github.io/sdg-site-kazstat/[id]/
 docs_translate_disaggregations: true
+docs_extra_disaggregations:
+  - UNIT_MEASURE
+  - SERIES
 
 indicator_options:
   non_disaggregation_columns:
