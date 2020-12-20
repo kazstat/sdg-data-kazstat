@@ -6,7 +6,9 @@ cумма ущерба от ЧС,cумма ущерба от ЧС,cумма ущ
 EDUCATION_LEV,образование матери,ана білімі,Mother's education,3,5
 INCOME_WEALTH_QUANTILE,квинтиль индекса благосостояния,Квинтильді әл-ауқат индексі,Wealth index quintile,3,5
 REF_AREA,Регионы,Өңірлер,Regions,77,65
+SERIES,SERIES,SERIES,SDG Series,17,63
 SEX,Пол,Жынысы,Sex,32,3
+UNIT_MEASURE,UNIT_MEASURE,UNIT_MEASURE,Unit of measure,186,28
 URBANISATION,Местность,Аймақ,Area,37,3
 Вид грамотности,Вид грамотности,Вид грамотности,Вид грамотности,1,2
 Виды жертв,Виды жертв,Виды жертв,Виды жертв,1,4
