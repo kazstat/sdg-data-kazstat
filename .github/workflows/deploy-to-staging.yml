@@ -30,3 +30,12 @@ jobs:
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
+    - name: Waiting 4 minutes for staging data deployment
+      run: |
+        sleep 240
+    - name: Rebuild staging
+      run: |
+        curl -X POST https://api.github.com/repos/kazstat/sdg-data-kazstat/dispatches \
+        -H "Accept: application/vnd.github.everest-preview+json" \
+        -H "Authorization: token ${{secrets.token}}" \
+        --data '{"event_type": "rebuild-staging"}'
