@@ -1,7 +1,7 @@
 Year,UNIT_MEASURE,Sex,Regions,Value
 2015,Percent,,,99.81213409838932
 2015,Percent,Male,,100.0
-2015,Percent,Female,,95.54547647768395
+2015,Percent,Female,,95.54547647768396
 2015,Percent,,Akmola,100.0
 2015,Percent,,Aktobe,100.0
 2015,Percent,,Almaty,97.8
@@ -23,7 +23,7 @@ Year,UNIT_MEASURE,Sex,Regions,Value
 2015,Percent,Male,Aktobe,100.0
 2015,Percent,Female,Aktobe,100.0
 2015,Percent,Male,Almaty,97.94669047315394
-2015,Percent,Female,Almaty,97.69844146429865
+2015,Percent,Female,Almaty,97.69844146429864
 2015,Percent,Male,Atyrau,100.0
 2015,Percent,Female,Atyrau,100.0
 2015,Percent,Male,Batys Kazakhstan,100.0
@@ -47,10 +47,10 @@ Year,UNIT_MEASURE,Sex,Regions,Value
 2015,Percent,Male,Shygys Kazakhstan,100.0
 2015,Percent,Female,Shygys Kazakhstan,100.0
 2015,Percent,Male,Nur-Sultan city,100.0
-2015,Percent,Female,Nur-Sultan city,82.83477036776353
+2015,Percent,Female,Nur-Sultan city,82.83477036776351
 2015,Percent,Male,Almaty city,100.0
 2015,Percent,Female,Almaty city,93.84175167952226
-2016,Percent,,,95.85777639042871
+2016,Percent,,,95.85777639042873
 2016,Percent,Male,,98.77800407331976
 2016,Percent,Female,,92.88182559087204
 2016,Percent,,Akmola,100.0
@@ -89,7 +89,7 @@ Year,UNIT_MEASURE,Sex,Regions,Value
 2016,Percent,Female,Kyzylorda,100.0
 2016,Percent,Male,Mangistau,100.0
 2016,Percent,Female,Mangistau,100.0
-2016,Percent,Male,Ontustik Kazakhstan,85.98361780991169
+2016,Percent,Male,Ontustik Kazakhstan,85.98361780991168
 2016,Percent,Female,Ontustik Kazakhstan,90.45462462985545
 2016,Percent,Male,Pavlodar,100.0
 2016,Percent,Female,Pavlodar,100.0
@@ -97,13 +97,13 @@ Year,UNIT_MEASURE,Sex,Regions,Value
 2016,Percent,Female,Soltustik Kazakhstan,100.0
 2016,Percent,Male,Shygys Kazakhstan,100.0
 2016,Percent,Female,Shygys Kazakhstan,100.0
-2016,Percent,Male,Nur-Sultan city,92.79301438937401
+2016,Percent,Male,Nur-Sultan city,92.793014389374
 2016,Percent,Female,Nur-Sultan city,77.94717629375134
-2016,Percent,Male,Almaty city,97.80531260123095
+2016,Percent,Male,Almaty city,97.80531260123097
 2016,Percent,Female,Almaty city,81.96733372572102
 2017,Percent,,,99.19755003760682
-2017,Percent,Male,,99.7766105174183
-2017,Percent,Female,,98.59434698979565
+2017,Percent,Male,,99.77661051741832
+2017,Percent,Female,,98.59434698979564
 2017,Percent,,Akmola,100.0
 2017,Percent,,Aktobe,100.0
 2017,Percent,,Almaty,100.0
@@ -145,13 +145,13 @@ Year,UNIT_MEASURE,Sex,Regions,Value
 2017,Percent,Male,Pavlodar,100.0
 2017,Percent,Female,Pavlodar,100.0
 2017,Percent,Male,Soltustik Kazakhstan,93.96976090014064
-2017,Percent,Female,Soltustik Kazakhstan,98.4793917567027
+2017,Percent,Female,Soltustik Kazakhstan,98.47939175670268
 2017,Percent,Male,Shygys Kazakhstan,100.0
 2017,Percent,Female,Shygys Kazakhstan,100.0
 2017,Percent,Male,Nur-Sultan city,88.93717182690567
-2017,Percent,Female,Nur-Sultan city,89.72860538827257
+2017,Percent,Female,Nur-Sultan city,89.72860538827258
 2017,Percent,Male,Almaty city,100.0
-2017,Percent,Female,Almaty city,86.65784156622308
+2017,Percent,Female,Almaty city,86.6578415662231
 2018,Percent,,,93.83096929119436
 2018,Percent,Male,,91.65236639043032
 2018,Percent,Female,,96.26536706438978
@@ -183,7 +183,7 @@ Year,UNIT_MEASURE,Sex,Regions,Value
 2018,Percent,Male,Batys Kazakhstan,100.0
 2018,Percent,Female,Batys Kazakhstan,100.0
 2018,Percent,Male,Zhambyl,100.0
-2018,Percent,Female,Zhambyl,82.1553362349047
+2018,Percent,Female,Zhambyl,82.15533623490468
 2018,Percent,Male,Karagandy,100.0
 2018,Percent,Female,Karagandy,100.0
 2018,Percent,Male,Kostanay,100.0
@@ -192,7 +192,7 @@ Year,UNIT_MEASURE,Sex,Regions,Value
 2018,Percent,Female,Kyzylorda,100.0
 2018,Percent,Male,Mangistau,100.0
 2018,Percent,Female,Mangistau,100.0
-2018,Percent,Male,Turkistan,88.08910636106104
+2018,Percent,Male,Turkistan,88.08910636106103
 2018,Percent,Female,Turkistan,92.53446387960804
 2018,Percent,Male,Pavlodar,100.0
 2018,Percent,Female,Pavlodar,100.0
@@ -202,10 +202,10 @@ Year,UNIT_MEASURE,Sex,Regions,Value
 2018,Percent,Female,Shygys Kazakhstan,100.0
 2018,Percent,Male,Nur-Sultan city,67.87322480083131
 2018,Percent,Female,Nur-Sultan city,65.53822521564457
-2018,Percent,Male,Almaty city,78.37239759743484
+2018,Percent,Male,Almaty city,78.37239759743485
 2018,Percent,Female,Almaty city,82.22153273347813
-2018,Percent,Male,Shymkent city,88.21177032350485
-2018,Percent,Female,Shymkent city,90.77813589423141
+2018,Percent,Male,Shymkent city,88.21177032350484
+2018,Percent,Female,Shymkent city,90.7781358942314
 2019,Percent,,,98.3
 2019,Percent,Male,,98.3
 2019,Percent,Female,,98.7

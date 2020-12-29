@@ -17,11 +17,11 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2010,millions tonnes,,Kyzylorda,66.32430000000001
 2010,millions tonnes,,Mangistau,141.5499
 2010,millions tonnes,,Ontustik Kazakhstan,77.4695
-2010,millions tonnes,,Pavlodar,78.54469999999998
+2010,millions tonnes,,Pavlodar,78.54469999999999
 2010,millions tonnes,,Soltustik Kazakhstan,40.0789
 2010,millions tonnes,,Shygys Kazakhstan,327.3275
 2010,millions tonnes,,Nur-Sultan city,66.7086
-2010,millions tonnes,,Almaty city,142.44289999999995
+2010,millions tonnes,,Almaty city,142.44289999999998
 2010,mln.people,Passengers transported by all means of transport,,13186.4941
 2010,mln.people,Railway transport,,19.6
 2010,mln.people,Automobile,,13083.9
@@ -34,8 +34,8 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2010,mln.people,,Atyrau,95.3865
 2010,mln.people,,Batys Kazakhstan,270.428
 2010,mln.people,,Zhambyl,570.5845
-2010,mln.people,,Karagandy,1440.6618999999996
-2010,mln.people,,Kostanay,1153.3571000000004
+2010,mln.people,,Karagandy,1440.6618999999998
+2010,mln.people,,Kostanay,1153.3571000000002
 2010,mln.people,,Kyzylorda,139.7043
 2010,mln.people,,Mangistau,60.2485
 2010,mln.people,,Ontustik Kazakhstan,1337.6321
@@ -44,18 +44,18 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2010,mln.people,,Shygys Kazakhstan,1272.7242
 2010,mln.people,,Nur-Sultan city,1408.8999
 2010,mln.people,,Almaty city,2595.527
-2010,millions tonnes,_L_KZ_090102_1J,,1971.7708100000002
+2010,millions tonnes,_L_KZ_090102_1J,,1971.77081
 2010,millions tonnes,_L_KZ_090102_1J,Akmola,95.84779
-2010,millions tonnes,_L_KZ_090102_1J,Aktobe,40.972570000000005
+2010,millions tonnes,_L_KZ_090102_1J,Aktobe,40.97257
 2010,millions tonnes,_L_KZ_090102_1J,Almaty,116.61975
 2010,millions tonnes,_L_KZ_090102_1J,Atyrau,52.14737
 2010,millions tonnes,_L_KZ_090102_1J,Batys Kazakhstan,30.02608
 2010,millions tonnes,_L_KZ_090102_1J,Zhambyl,55.95452
-2010,millions tonnes,_L_KZ_090102_1J,Karagandy,443.96474000000006
-2010,millions tonnes,_L_KZ_090102_1J,Kostanay,221.50981000000002
+2010,millions tonnes,_L_KZ_090102_1J,Karagandy,443.96474
+2010,millions tonnes,_L_KZ_090102_1J,Kostanay,221.50981
 2010,millions tonnes,_L_KZ_090102_1J,Kyzylorda,66.32433999999999
 2010,millions tonnes,_L_KZ_090102_1J,Mangistau,136.89491
-2010,millions tonnes,_L_KZ_090102_1J,Ontustik Kazakhstan,77.46876999999999
+2010,millions tonnes,_L_KZ_090102_1J,Ontustik Kazakhstan,77.46877
 2010,millions tonnes,_L_KZ_090102_1J,Pavlodar,57.84632
 2010,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,39.99885
 2010,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,327.07152
@@ -64,10 +64,10 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2010,mln.people,Passengers transported by all means of transport,,13163.44535
 2010,mln.people,Passengers transported by all means of transport,Akmola,1057.89889
 2010,mln.people,Passengers transported by all means of transport,Aktobe,163.50942
-2010,mln.people,Passengers transported by all means of transport,Almaty,436.59054000000003
-2010,mln.people,Passengers transported by all means of transport,Atyrau,95.38183000000001
+2010,mln.people,Passengers transported by all means of transport,Almaty,436.59054
+2010,mln.people,Passengers transported by all means of transport,Atyrau,95.38183
 2010,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,270.39652
-2010,mln.people,Passengers transported by all means of transport,Zhambyl,570.5844900000001
+2010,mln.people,Passengers transported by all means of transport,Zhambyl,570.58449
 2010,mln.people,Passengers transported by all means of transport,Karagandy,1440.6431
 2010,mln.people,Passengers transported by all means of transport,Kostanay,1153.35712
 2010,mln.people,Passengers transported by all means of transport,Kyzylorda,139.70432
@@ -103,7 +103,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2011,millions tonnes,Automobile,,2475.5
 2011,millions tonnes,Air,,0.316
 2011,millions tonnes,Inland water еransport,,1.082
-2011,millions tonnes,nautical,,4.5569999999999995
+2011,millions tonnes,nautical,,4.557
 2011,millions tonnes,,Akmola,112.3756
 2011,millions tonnes,,Aktobe,54.524800000000006
 2011,millions tonnes,,Almaty,142.6943
@@ -112,7 +112,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2011,millions tonnes,,Zhambyl,70.458
 2011,millions tonnes,,Karagandy,551.1137
 2011,millions tonnes,,Kostanay,268.028
-2011,millions tonnes,,Kyzylorda,95.51799999999999
+2011,millions tonnes,,Kyzylorda,95.518
 2011,millions tonnes,,Mangistau,186.5845
 2011,millions tonnes,,Ontustik Kazakhstan,106.5048
 2011,millions tonnes,,Pavlodar,97.0415
@@ -126,16 +126,16 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2011,mln.people,Inland water еransport,,0.1
 2011,mln.people,Air,,4.1
 2011,mln.people,City electric transport,,77.0
-2011,mln.people,,Akmola,1385.7958999999996
+2011,mln.people,,Akmola,1385.7958999999998
 2011,mln.people,,Aktobe,199.3162
 2011,mln.people,,Almaty,550.8759
 2011,mln.people,,Atyrau,126.935
-2011,mln.people,,Batys Kazakhstan,364.76800000000003
+2011,mln.people,,Batys Kazakhstan,364.768
 2011,mln.people,,Zhambyl,745.8124
 2011,mln.people,,Karagandy,1993.3222
 2011,mln.people,,Kostanay,1436.4622
 2011,mln.people,,Kyzylorda,193.2167
-2011,mln.people,,Mangistau,73.79469999999998
+2011,mln.people,,Mangistau,73.79469999999999
 2011,mln.people,,Ontustik Kazakhstan,1800.5132
 2011,mln.people,,Pavlodar,1044.0959
 2011,mln.people,,Soltustik Kazakhstan,453.9025
@@ -144,11 +144,11 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2011,mln.people,,Almaty city,3190.5865
 2011,millions tonnes,_L_KZ_090102_1J,,2475.46041
 2011,millions tonnes,_L_KZ_090102_1J,Akmola,112.3756
-2011,millions tonnes,_L_KZ_090102_1J,Aktobe,54.52478000000001
-2011,millions tonnes,_L_KZ_090102_1J,Almaty,142.69432999999995
+2011,millions tonnes,_L_KZ_090102_1J,Aktobe,54.52478
+2011,millions tonnes,_L_KZ_090102_1J,Almaty,142.69432999999998
 2011,millions tonnes,_L_KZ_090102_1J,Atyrau,71.46303
 2011,millions tonnes,_L_KZ_090102_1J,Batys Kazakhstan,33.808519999999994
-2011,millions tonnes,_L_KZ_090102_1J,Zhambyl,70.45801999999999
+2011,millions tonnes,_L_KZ_090102_1J,Zhambyl,70.45802
 2011,millions tonnes,_L_KZ_090102_1J,Karagandy,551.1137
 2011,millions tonnes,_L_KZ_090102_1J,Kostanay,268.02796
 2011,millions tonnes,_L_KZ_090102_1J,Kyzylorda,95.51799
@@ -160,16 +160,16 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2011,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,97.22507
 2011,millions tonnes,_L_KZ_090102_1J,Almaty city,155.5539
 2011,mln.people,Passengers transported by all means of transport,,16622.40527
-2011,mln.people,Passengers transported by all means of transport,Akmola,1385.7958800000001
+2011,mln.people,Passengers transported by all means of transport,Akmola,1385.79588
 2011,mln.people,Passengers transported by all means of transport,Aktobe,199.31616
-2011,mln.people,Passengers transported by all means of transport,Almaty,550.8481099999999
+2011,mln.people,Passengers transported by all means of transport,Almaty,550.84811
 2011,mln.people,Passengers transported by all means of transport,Atyrau,126.93418
 2011,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,364.73008
 2011,mln.people,Passengers transported by all means of transport,Zhambyl,745.81239
-2011,mln.people,Passengers transported by all means of transport,Karagandy,1993.3100100000001
+2011,mln.people,Passengers transported by all means of transport,Karagandy,1993.31001
 2011,mln.people,Passengers transported by all means of transport,Kostanay,1436.46222
 2011,mln.people,Passengers transported by all means of transport,Kyzylorda,193.21672
-2011,mln.people,Passengers transported by all means of transport,Mangistau,73.77098000000001
+2011,mln.people,Passengers transported by all means of transport,Mangistau,73.77098
 2011,mln.people,Passengers transported by all means of transport,Ontustik Kazakhstan,1799.61302
 2011,mln.people,Passengers transported by all means of transport,Pavlodar,1044.05276
 2011,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,453.90255
@@ -194,8 +194,8 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2011,millions tonnes,performance indicators of pipeline transport,,214.079
 2011,millions tonnes,performance indicators of pipeline transport,Atyrau,68.1127
 2011,millions tonnes,performance indicators of pipeline transport,Pavlodar,26.2849
-2011,millions tonnes,Перевезено грузов с морским транспортом,,4.5569999999999995
-2011,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,4.5569999999999995
+2011,millions tonnes,Перевезено грузов с морским транспортом,,4.557
+2011,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,4.557
 2012,millions tonnes,Cargo transported by all means of transport,,3231.8419
 2012,millions tonnes,Pipeline,,213.2
 2012,millions tonnes,Railway,,294.8
@@ -208,8 +208,8 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2012,millions tonnes,,Almaty,158.0661
 2012,millions tonnes,,Atyrau,140.597
 2012,millions tonnes,,Batys Kazakhstan,35.81
-2012,millions tonnes,,Zhambyl,80.38889999999998
-2012,millions tonnes,,Karagandy,619.6886999999998
+2012,millions tonnes,,Zhambyl,80.38889999999999
+2012,millions tonnes,,Karagandy,619.6886999999999
 2012,millions tonnes,,Kostanay,275.5625
 2012,millions tonnes,,Kyzylorda,98.3855
 2012,millions tonnes,,Mangistau,207.734
@@ -226,8 +226,8 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2012,mln.people,Air,,4.5
 2012,mln.people,City electric transport,,69.6
 2012,mln.people,,Akmola,1482.0797
-2012,mln.people,,Aktobe,220.08700000000002
-2012,mln.people,,Almaty,597.1945999999998
+2012,mln.people,,Aktobe,220.087
+2012,mln.people,,Almaty,597.1945999999999
 2012,mln.people,,Atyrau,155.4183
 2012,mln.people,,Batys Kazakhstan,402.3381
 2012,mln.people,,Zhambyl,802.7956999999999
@@ -236,7 +236,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2012,mln.people,,Kyzylorda,232.3686
 2012,mln.people,,Mangistau,81.469
 2012,mln.people,,Ontustik Kazakhstan,2149.8955
-2012,mln.people,,Pavlodar,1166.3121999999996
+2012,mln.people,,Pavlodar,1166.3121999999998
 2012,mln.people,,Soltustik Kazakhstan,470.6909
 2012,mln.people,,Shygys Kazakhstan,1459.8789
 2012,mln.people,,Nur-Sultan city,1750.0521
@@ -244,9 +244,9 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2012,millions tonnes,_L_KZ_090102_1J,,2718.43909
 2012,millions tonnes,_L_KZ_090102_1J,Akmola,112.59376
 2012,millions tonnes,_L_KZ_090102_1J,Aktobe,58.05049
-2012,millions tonnes,_L_KZ_090102_1J,Almaty,158.06611999999996
+2012,millions tonnes,_L_KZ_090102_1J,Almaty,158.06611999999998
 2012,millions tonnes,_L_KZ_090102_1J,Atyrau,72.35414
-2012,millions tonnes,_L_KZ_090102_1J,Batys Kazakhstan,35.67865000000001
+2012,millions tonnes,_L_KZ_090102_1J,Batys Kazakhstan,35.678650000000005
 2012,millions tonnes,_L_KZ_090102_1J,Zhambyl,80.38894
 2012,millions tonnes,_L_KZ_090102_1J,Karagandy,619.68872
 2012,millions tonnes,_L_KZ_090102_1J,Kostanay,275.56246000000004
@@ -257,7 +257,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2012,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,46.09193
 2012,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,476.57967
 2012,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,112.58867
-2012,millions tonnes,_L_KZ_090102_1J,Almaty city,168.28551000000004
+2012,millions tonnes,_L_KZ_090102_1J,Almaty city,168.28551000000002
 2012,mln.people,Passengers transported by all means of transport,,18455.68435
 2012,mln.people,Passengers transported by all means of transport,Akmola,1482.0797
 2012,mln.people,Passengers transported by all means of transport,Aktobe,220.08693
@@ -302,7 +302,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2013,millions tonnes,Inland water еransport,,1.1065
 2013,millions tonnes,nautical,,3.9845
 2013,millions tonnes,,Akmola,121.5251
-2013,millions tonnes,,Aktobe,62.17330000000001
+2013,millions tonnes,,Aktobe,62.173300000000005
 2013,millions tonnes,,Almaty,159.01
 2013,millions tonnes,,Atyrau,151.34429999999998
 2013,millions tonnes,,Batys Kazakhstan,38.868
@@ -328,33 +328,33 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2013,mln.people,,Almaty,628.9567
 2013,mln.people,,Atyrau,167.9207
 2013,mln.people,,Batys Kazakhstan,425.7576
-2013,mln.people,,Zhambyl,864.5943000000002
+2013,mln.people,,Zhambyl,864.5943000000001
 2013,mln.people,,Karagandy,2299.8505
-2013,mln.people,,Kostanay,1657.3538999999996
+2013,mln.people,,Kostanay,1657.3538999999998
 2013,mln.people,,Kyzylorda,251.3166
 2013,mln.people,,Mangistau,85.4807
 2013,mln.people,,Ontustik Kazakhstan,2257.6409
 2013,mln.people,,Pavlodar,1194.5999
 2013,mln.people,,Soltustik Kazakhstan,492.8016
-2013,mln.people,,Shygys Kazakhstan,1606.7478999999996
+2013,mln.people,,Shygys Kazakhstan,1606.7478999999998
 2013,mln.people,,Nur-Sultan city,1961.0055
-2013,mln.people,,Almaty city,4238.8247999999985
+2013,mln.people,,Almaty city,4238.824799999999
 2013,millions tonnes,_L_KZ_090102_1J,,2983.35009
 2013,millions tonnes,_L_KZ_090102_1J,Akmola,121.52507
-2013,millions tonnes,_L_KZ_090102_1J,Aktobe,62.17330000000001
+2013,millions tonnes,_L_KZ_090102_1J,Aktobe,62.173300000000005
 2013,millions tonnes,_L_KZ_090102_1J,Almaty,159.00998
-2013,millions tonnes,_L_KZ_090102_1J,Atyrau,82.59600999999998
-2013,millions tonnes,_L_KZ_090102_1J,Batys Kazakhstan,38.78666000000001
+2013,millions tonnes,_L_KZ_090102_1J,Atyrau,82.59600999999999
+2013,millions tonnes,_L_KZ_090102_1J,Batys Kazakhstan,38.786660000000005
 2013,millions tonnes,_L_KZ_090102_1J,Zhambyl,88.36992
-2013,millions tonnes,_L_KZ_090102_1J,Karagandy,676.6548799999999
+2013,millions tonnes,_L_KZ_090102_1J,Karagandy,676.65488
 2013,millions tonnes,_L_KZ_090102_1J,Kostanay,299.65301
 2013,millions tonnes,_L_KZ_090102_1J,Kyzylorda,106.13531
 2013,millions tonnes,_L_KZ_090102_1J,Mangistau,211.08514
-2013,millions tonnes,_L_KZ_090102_1J,Ontustik Kazakhstan,133.03631000000001
+2013,millions tonnes,_L_KZ_090102_1J,Ontustik Kazakhstan,133.03631
 2013,millions tonnes,_L_KZ_090102_1J,Pavlodar,83.25099
 2013,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,49.26606
 2013,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,553.30106
-2013,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,124.11701000000001
+2013,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,124.11701
 2013,millions tonnes,_L_KZ_090102_1J,Almaty city,194.38938
 2013,mln.people,Passengers transported by all means of transport,,19970.638
 2013,mln.people,Passengers transported by all means of transport,Akmola,1604.4809
@@ -398,7 +398,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2014,millions tonnes,nautical,,3.6302
 2014,millions tonnes,,Akmola,121.2567
 2014,millions tonnes,,Aktobe,63.6389
-2014,millions tonnes,,Almaty,159.91299999999998
+2014,millions tonnes,,Almaty,159.913
 2014,millions tonnes,,Atyrau,151.15679999999998
 2014,millions tonnes,,Batys Kazakhstan,39.9878
 2014,millions tonnes,,Zhambyl,88.9071
@@ -408,7 +408,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2014,millions tonnes,,Mangistau,217.6252
 2014,millions tonnes,,Ontustik Kazakhstan,145.4088
 2014,millions tonnes,,Pavlodar,128.0527
-2014,millions tonnes,,Soltustik Kazakhstan,49.89440000000001
+2014,millions tonnes,,Soltustik Kazakhstan,49.894400000000005
 2014,millions tonnes,,Shygys Kazakhstan,595.4762
 2014,millions tonnes,,Nur-Sultan city,136.6535
 2014,millions tonnes,,Almaty city,216.8484
@@ -423,7 +423,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2014,mln.people,,Almaty,654.3485
 2014,mln.people,,Atyrau,172.0829
 2014,mln.people,,Batys Kazakhstan,428.3103
-2014,mln.people,,Zhambyl,882.5405999999998
+2014,mln.people,,Zhambyl,882.5405999999999
 2014,mln.people,,Karagandy,2428.7441
 2014,mln.people,,Kostanay,1752.0465
 2014,mln.people,,Kyzylorda,282.066
@@ -437,7 +437,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2014,millions tonnes,_L_KZ_090102_1J,,3129.1097
 2014,millions tonnes,_L_KZ_090102_1J,Akmola,121.2567
 2014,millions tonnes,_L_KZ_090102_1J,Aktobe,63.6389
-2014,millions tonnes,_L_KZ_090102_1J,Almaty,159.91299999999998
+2014,millions tonnes,_L_KZ_090102_1J,Almaty,159.913
 2014,millions tonnes,_L_KZ_090102_1J,Atyrau,82.1336
 2014,millions tonnes,_L_KZ_090102_1J,Batys Kazakhstan,39.8651
 2014,millions tonnes,_L_KZ_090102_1J,Zhambyl,88.9071
@@ -445,9 +445,9 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2014,millions tonnes,_L_KZ_090102_1J,Kostanay,297.3363
 2014,millions tonnes,_L_KZ_090102_1J,Kyzylorda,107.1732
 2014,millions tonnes,_L_KZ_090102_1J,Mangistau,213.995
-2014,millions tonnes,_L_KZ_090102_1J,Ontustik Kazakhstan,145.40779999999995
+2014,millions tonnes,_L_KZ_090102_1J,Ontustik Kazakhstan,145.40779999999998
 2014,millions tonnes,_L_KZ_090102_1J,Pavlodar,91.8034
-2014,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,49.89440000000001
+2014,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,49.894400000000005
 2014,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,595.1364
 2014,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,136.6535
 2014,millions tonnes,_L_KZ_090102_1J,Almaty city,216.8306
@@ -481,14 +481,14 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2014,thousand people,passengers transported by air,Shymkent city,3786.8
 2014,millions tonnes,performance indicators of pipeline transport,,225.0191
 2014,millions tonnes,performance indicators of pipeline transport,Atyrau,69.0231
-2014,millions tonnes,performance indicators of pipeline transport,Pavlodar,35.39080000000001
+2014,millions tonnes,performance indicators of pipeline transport,Pavlodar,35.390800000000006
 2014,millions tonnes,Перевезено грузов с морским транспортом,,3.6302
 2014,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,3.6302
 2015,millions tonnes,Cargo transported by all means of transport,,3733.7548
 2015,millions tonnes,Pipeline,,214.643
 2015,millions tonnes,Railway,,341.37
-2015,millions tonnes,Automobile,,3174.0209999999997
-2015,millions tonnes,Air,,0.17178000000000002
+2015,millions tonnes,Automobile,,3174.021
+2015,millions tonnes,Air,,0.17178
 2015,millions tonnes,Inland water еransport,,1.2189
 2015,millions tonnes,nautical,,2.4766
 2015,millions tonnes,,Akmola,120.29
@@ -509,20 +509,20 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2015,millions tonnes,,Almaty city,232.0866
 2015,mln.people,Passengers transported by all means of transport,,21839.1375
 2015,mln.people,Railway transport,,22.497
-2015,mln.people,Automobile,,21744.732000000004
+2015,mln.people,Automobile,,21744.732
 2015,mln.people,Inland water еransport,,0.0485
-2015,mln.people,Air,,5.922000000000001
+2015,mln.people,Air,,5.922
 2015,mln.people,City electric transport,,65.9
 2015,mln.people,,Akmola,1729.4592
 2015,mln.people,,Aktobe,264.71320000000003
-2015,mln.people,,Almaty,706.7371999999998
-2015,mln.people,,Atyrau,171.99110000000005
+2015,mln.people,,Almaty,706.7371999999999
+2015,mln.people,,Atyrau,171.99110000000002
 2015,mln.people,,Batys Kazakhstan,436.3374
 2015,mln.people,,Zhambyl,929.4778
 2015,mln.people,,Karagandy,2421.1873
-2015,mln.people,,Kostanay,1745.1796000000004
+2015,mln.people,,Kostanay,1745.1796000000002
 2015,mln.people,,Kyzylorda,298.0711
-2015,mln.people,,Mangistau,85.31269999999998
+2015,mln.people,,Mangistau,85.31269999999999
 2015,mln.people,,Ontustik Kazakhstan,2347.3653
 2015,mln.people,,Pavlodar,1240.8
 2015,mln.people,,Soltustik Kazakhstan,495.21
@@ -558,7 +558,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2015,mln.people,Passengers transported by all means of transport,Kyzylorda,298.0712
 2015,mln.people,Passengers transported by all means of transport,Mangistau,85.3127
 2015,mln.people,Passengers transported by all means of transport,Ontustik Kazakhstan,2346.1406
-2015,mln.people,Passengers transported by all means of transport,Pavlodar,1240.7930000000001
+2015,mln.people,Passengers transported by all means of transport,Pavlodar,1240.793
 2015,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,495.21
 2015,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,1680.9916
 2015,mln.people,Passengers transported by all means of transport,Nur-Sultan city,2279.0198
@@ -581,7 +581,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2016,millions tonnes,Pipeline,,205.8276
 2016,millions tonnes,Railway,,338.9286
 2016,millions tonnes,Automobile,,3180.6557
-2016,millions tonnes,Air,,0.180159
+2016,millions tonnes,Air,,0.1801589999999999
 2016,millions tonnes,Inland water еransport,,1.1886
 2016,millions tonnes,nautical,,2.5655
 2016,millions tonnes,,Akmola,113.1055
@@ -594,11 +594,11 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2016,millions tonnes,,Kostanay,277.25890000000004
 2016,millions tonnes,,Kyzylorda,104.2945
 2016,millions tonnes,,Mangistau,218.917
-2016,millions tonnes,,Ontustik Kazakhstan,158.74720000000005
+2016,millions tonnes,,Ontustik Kazakhstan,158.74720000000002
 2016,millions tonnes,,Pavlodar,131.4623
 2016,millions tonnes,,Soltustik Kazakhstan,48.1812
 2016,millions tonnes,,Shygys Kazakhstan,582.4344
-2016,millions tonnes,,Nur-Sultan city,142.55360000000005
+2016,millions tonnes,,Nur-Sultan city,142.55360000000002
 2016,millions tonnes,,Almaty city,252.2656
 2016,mln.people,Passengers transported by all means of transport,,22332.7906
 2016,mln.people,Railway transport,,23.0732
@@ -613,31 +613,31 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2016,mln.people,,Batys Kazakhstan,434.3315
 2016,mln.people,,Zhambyl,957.2865
 2016,mln.people,,Karagandy,2418.1113
-2016,mln.people,,Kostanay,1751.7320000000002
+2016,mln.people,,Kostanay,1751.732
 2016,mln.people,,Kyzylorda,335.4689
 2016,mln.people,,Mangistau,84.8014
-2016,mln.people,,Ontustik Kazakhstan,2478.4727000000007
+2016,mln.people,,Ontustik Kazakhstan,2478.4727000000003
 2016,mln.people,,Pavlodar,1244.4928
 2016,mln.people,,Soltustik Kazakhstan,506.7977
 2016,mln.people,,Shygys Kazakhstan,1705.1507
 2016,mln.people,,Nur-Sultan city,2441.0568
 2016,mln.people,,Almaty city,4984.2147
-2016,millions tonnes,_L_KZ_090102_1J,,3180.6557000000007
+2016,millions tonnes,_L_KZ_090102_1J,,3180.6557000000003
 2016,millions tonnes,_L_KZ_090102_1J,Akmola,113.1055
 2016,millions tonnes,_L_KZ_090102_1J,Aktobe,76.3227
 2016,millions tonnes,_L_KZ_090102_1J,Almaty,178.9613
-2016,millions tonnes,_L_KZ_090102_1J,Atyrau,74.95530000000002
+2016,millions tonnes,_L_KZ_090102_1J,Atyrau,74.95530000000001
 2016,millions tonnes,_L_KZ_090102_1J,Batys Kazakhstan,39.4086
 2016,millions tonnes,_L_KZ_090102_1J,Zhambyl,91.2506
 2016,millions tonnes,_L_KZ_090102_1J,Karagandy,727.4763
 2016,millions tonnes,_L_KZ_090102_1J,Kostanay,277.25890000000004
 2016,millions tonnes,_L_KZ_090102_1J,Kyzylorda,104.2945
 2016,millions tonnes,_L_KZ_090102_1J,Mangistau,216.3514
-2016,millions tonnes,_L_KZ_090102_1J,Ontustik Kazakhstan,158.74620000000004
+2016,millions tonnes,_L_KZ_090102_1J,Ontustik Kazakhstan,158.74620000000002
 2016,millions tonnes,_L_KZ_090102_1J,Pavlodar,97.68
 2016,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,48.1812
 2016,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,581.861
-2016,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,142.55360000000005
+2016,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,142.55360000000002
 2016,millions tonnes,_L_KZ_090102_1J,Almaty city,252.2488
 2016,mln.people,Passengers transported by all means of transport,,22303.6054
 2016,mln.people,Passengers transported by all means of transport,Akmola,1700.0769
@@ -647,7 +647,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2016,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,433.5816
 2016,mln.people,Passengers transported by all means of transport,Zhambyl,957.2865
 2016,mln.people,Passengers transported by all means of transport,Karagandy,2418.1048
-2016,mln.people,Passengers transported by all means of transport,Kostanay,1751.7320000000002
+2016,mln.people,Passengers transported by all means of transport,Kostanay,1751.732
 2016,mln.people,Passengers transported by all means of transport,Kyzylorda,335.4689
 2016,mln.people,Passengers transported by all means of transport,Mangistau,84.8014
 2016,mln.people,Passengers transported by all means of transport,Ontustik Kazakhstan,2477.1838
@@ -676,9 +676,9 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2017,millions tonnes,Inland water еransport,,1.6494
 2017,millions tonnes,nautical,,2.1026
 2017,millions tonnes,,Akmola,116.1388
-2017,millions tonnes,,Aktobe,76.82260000000002
+2017,millions tonnes,,Aktobe,76.82260000000001
 2017,millions tonnes,,Almaty,181.0825
-2017,millions tonnes,,Atyrau,154.22220000000004
+2017,millions tonnes,,Atyrau,154.22220000000002
 2017,millions tonnes,,Batys Kazakhstan,39.2652
 2017,millions tonnes,,Zhambyl,100.1437
 2017,millions tonnes,,Karagandy,795.5184
@@ -690,29 +690,29 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2017,millions tonnes,,Shygys Kazakhstan,600.835
 2017,millions tonnes,,Almaty city,256.0017
 2017,mln.people,Passengers transported by all means of transport,,22744.7
-2017,mln.people,Railway transport,,22.914279999999998
+2017,mln.people,Railway transport,,22.91428
 2017,mln.people,Automobile,,22643.55407
-2017,mln.people,Inland water еransport,,0.058710000000000005
+2017,mln.people,Inland water еransport,,0.05871
 2017,mln.people,Air,,7.36373
 2017,mln.people,City electric transport,,70.6
 2017,mln.people,,Akmola,1643.88891
 2017,mln.people,,Aktobe,294.68461
 2017,mln.people,,Almaty,872.9694300000001
-2017,mln.people,,Batys Kazakhstan,451.51745999999997
+2017,mln.people,,Batys Kazakhstan,451.51746
 2017,mln.people,,Zhambyl,957.34209
 2017,mln.people,,Kostanay,1796.55025
 2017,mln.people,,Kyzylorda,367.48218
-2017,mln.people,,Mangistau,88.77477999999998
+2017,mln.people,,Mangistau,88.77477999999999
 2017,mln.people,,Ontustik Kazakhstan,2607.55932
 2017,mln.people,,Pavlodar,1225.04715
 2017,mln.people,,Soltustik Kazakhstan,501.64852
-2017,mln.people,,Shygys Kazakhstan,1709.1577100000002
+2017,mln.people,,Shygys Kazakhstan,1709.15771
 2017,mln.people,,Almaty city,5097.16986
 2017,millions tonnes,_L_KZ_090102_1J,,3322.3
 2017,millions tonnes,_L_KZ_090102_1J,Akmola,116.1388
-2017,millions tonnes,_L_KZ_090102_1J,Aktobe,76.82260000000002
+2017,millions tonnes,_L_KZ_090102_1J,Aktobe,76.82260000000001
 2017,millions tonnes,_L_KZ_090102_1J,Almaty,181.0825
-2017,millions tonnes,_L_KZ_090102_1J,Atyrau,75.89789999999998
+2017,millions tonnes,_L_KZ_090102_1J,Atyrau,75.89789999999999
 2017,millions tonnes,_L_KZ_090102_1J,Batys Kazakhstan,39.257
 2017,millions tonnes,_L_KZ_090102_1J,Zhambyl,100.1437
 2017,millions tonnes,_L_KZ_090102_1J,Karagandy,795.5184
@@ -728,10 +728,10 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2017,mln.people,Passengers transported by all means of transport,Aktobe,294.68426
 2017,mln.people,Passengers transported by all means of transport,Almaty,872.62324
 2017,mln.people,Passengers transported by all means of transport,Atyrau,180.9716
-2017,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,421.65929000000006
-2017,mln.people,Passengers transported by all means of transport,Zhambyl,957.9231699999999
+2017,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,421.65929
+2017,mln.people,Passengers transported by all means of transport,Zhambyl,957.92317
 2017,mln.people,Passengers transported by all means of transport,Karagandy,2397.66763
-2017,mln.people,Passengers transported by all means of transport,Kostanay,1796.4853600000001
+2017,mln.people,Passengers transported by all means of transport,Kostanay,1796.48536
 2017,mln.people,Passengers transported by all means of transport,Kyzylorda,367.4792
 2017,mln.people,Passengers transported by all means of transport,Mangistau,88.77478
 2017,mln.people,Passengers transported by all means of transport,Ontustik Kazakhstan,2605.59028
@@ -739,7 +739,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2017,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,501.62569
 2017,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,1708.7702
 2017,mln.people,Passengers transported by all means of transport,Nur-Sultan city,2528.43612
-2017,mln.people,Passengers transported by all means of transport,Almaty city,5098.649170000001
+2017,mln.people,Passengers transported by all means of transport,Almaty city,5098.64917
 2017,tons,transported by air,,22449.9
 2017,tons,transported by air,Almaty city,20345.2
 2017,thousand people,passengers transported by air,,7363.73
@@ -749,7 +749,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2017,thousand people,passengers transported by air,Almaty city,33.15
 2017,thousand people,passengers transported by air,Shymkent city,4467.04
 2017,millions tonnes,performance indicators of pipeline transport,,232.81463
-2017,millions tonnes,performance indicators of pipeline transport,Atyrau,78.26332000000002
+2017,millions tonnes,performance indicators of pipeline transport,Atyrau,78.26332000000001
 2017,millions tonnes,performance indicators of pipeline transport,Pavlodar,43.46839
 2017,millions tonnes,Перевезено грузов с морским транспортом,,2.10262
 2017,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,2.10262
@@ -762,18 +762,18 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2018,millions tonnes,,Almaty,184.551
 2018,millions tonnes,,Atyrau,174.3429
 2018,millions tonnes,,Zhambyl,103.934
-2018,millions tonnes,,Karagandy,821.1701999999998
-2018,millions tonnes,,Kostanay,297.0569000000001
+2018,millions tonnes,,Karagandy,821.1701999999999
+2018,millions tonnes,,Kostanay,297.05690000000004
 2018,millions tonnes,,Kyzylorda,104.6846
 2018,millions tonnes,,Mangistau,238.4913
 2018,millions tonnes,,Pavlodar,142.2399
 2018,millions tonnes,,Soltustik Kazakhstan,51.457
-2018,millions tonnes,,Turkistan,71.02069999999998
-2018,millions tonnes,,Shygys Kazakhstan,631.5006999999998
+2018,millions tonnes,,Turkistan,71.02069999999999
+2018,millions tonnes,,Shygys Kazakhstan,631.5006999999999
 2018,millions tonnes,,Nur-Sultan city,154.173
 2018,millions tonnes,,Almaty city,247.0462
-2018,mln.people,Passengers transported by all means of transport,,23021.597670000006
-2018,mln.people,Railway transport,,23.091379999999997
+2018,mln.people,Passengers transported by all means of transport,,23021.597670000003
+2018,mln.people,Railway transport,,23.09138
 2018,mln.people,Automobile,,22911.47359
 2018,mln.people,Air,,7.55559
 2018,mln.people,City electric transport,,69.7
@@ -817,7 +817,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2019,millions tonnes,Pipeline,,273.031
 2019,millions tonnes,Railway,,397.026
 2019,millions tonnes,Automobile,,3550.4713
-2019,millions tonnes,Air,,0.0267
+2019,millions tonnes,Air,,0.0266999999999999
 2019,millions tonnes,Inland water еransport,,1.3193
 2019,millions tonnes,nautical,,0.8281000000000001
 2019,millions tonnes,,Akmola,129.9579
@@ -839,11 +839,11 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2019,millions tonnes,,Shymkent city,111.1811
 2019,mln.people,Passengers transported by all means of transport,,23835.78756
 2019,mln.people,Railway transport,,22.35073
-2019,mln.people,Automobile,,23719.168999999998
+2019,mln.people,Automobile,,23719.169
 2019,mln.people,Inland water еransport,,0.03638
-2019,mln.people,nautical,,0.06217999999999999
+2019,mln.people,nautical,,0.06218
 2019,mln.people,Air,,8.644860000000001
-2019,mln.people,City electric transport,,85.52392999999971
+2019,mln.people,City electric transport,,85.5239299999997
 2019,mln.people,,Akmola,1744.94877
 2019,mln.people,,Aktobe,319.45884
 2019,mln.people,,Almaty,937.85592
@@ -860,7 +860,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2019,mln.people,,Shygys Kazakhstan,1716.28657
 2019,mln.people,,Nur-Sultan city,2574.16292
 2019,mln.people,,Almaty city,5588.94337
-2019,mln.people,,Shymkent city,1667.5981800000002
+2019,mln.people,,Shymkent city,1667.59818
 2019,millions tonnes,_L_KZ_090102_1J,,3550.4713
 2019,millions tonnes,_L_KZ_090102_1J,Akmola,129.9579
 2019,millions tonnes,_L_KZ_090102_1J,Aktobe,83.0015
@@ -875,7 +875,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2019,millions tonnes,_L_KZ_090102_1J,Pavlodar,88.7057
 2019,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,52.3177
 2019,millions tonnes,_L_KZ_090102_1J,Turkistan,85.9932
-2019,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,660.8879000000002
+2019,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,660.8879000000001
 2019,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,155.0832
 2019,millions tonnes,_L_KZ_090102_1J,Almaty city,257.4451
 2019,millions tonnes,_L_KZ_090102_1J,Shymkent city,111.1777
@@ -889,11 +889,11 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2019,mln.people,Passengers transported by all means of transport,Karagandy,2474.0225
 2019,mln.people,Passengers transported by all means of transport,Kostanay,1868.63867
 2019,mln.people,Passengers transported by all means of transport,Kyzylorda,405.7613
-2019,mln.people,Passengers transported by all means of transport,Mangistau,90.36081999999999
+2019,mln.people,Passengers transported by all means of transport,Mangistau,90.36082
 2019,mln.people,Passengers transported by all means of transport,Pavlodar,1237.74897
 2019,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,508.72275
-2019,mln.people,Passengers transported by all means of transport,Turkistan,997.9455199999999
-2019,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,1716.2788400000004
+2019,mln.people,Passengers transported by all means of transport,Turkistan,997.94552
+2019,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,1716.2788400000002
 2019,mln.people,Passengers transported by all means of transport,Nur-Sultan city,2574.14433
 2019,mln.people,Passengers transported by all means of transport,Almaty city,5583.40504
 2019,mln.people,Passengers transported by all means of transport,Shymkent city,1665.21993
@@ -908,5 +908,5 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2019,millions tonnes,performance indicators of pipeline transport,Atyrau,114.2332
 2019,millions tonnes,Перевезено грузов с морским транспортом,,0.8281000000000001
 2019,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,0.8281000000000001
-2019,millions tonnes,Перевезено пассажиров с морским транспортом,,0.06217999999999999
-2019,millions tonnes,Перевезено пассажиров с морским транспортом,Mangistau,0.06217999999999999
+2019,millions tonnes,Перевезено пассажиров с морским транспортом,,0.06218
+2019,millions tonnes,Перевезено пассажиров с морским транспортом,Mangistau,0.06218

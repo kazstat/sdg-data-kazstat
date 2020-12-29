@@ -12,7 +12,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2010,0.1,Inland water еransport,mln.people
 2010,3.4,Air,mln.people
 2010,79.53,City electric transport,mln.people
-2010,1971.7708100000002,_L_KZ_090102_1J,millions tonnes
+2010,1971.77081,_L_KZ_090102_1J,millions tonnes
 2010,13163.44535,Passengers transported by all means of transport,mln.people
 2010,28869.7,transported by air,tons
 2010,3379.2,passengers transported by air,thousand people
@@ -24,7 +24,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2011,2475.5,Automobile,millions tonnes
 2011,0.316,Air,millions tonnes
 2011,1.082,Inland water еransport,millions tonnes
-2011,4.5569999999999995,nautical,millions tonnes
+2011,4.557,nautical,millions tonnes
 2011,16647.1626,Passengers transported by all means of transport,mln.people
 2011,20.5,Railway transport,mln.people
 2011,16544.7,Automobile,mln.people
@@ -36,7 +36,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2011,31554.9,transported by air,tons
 2011,4131.3,passengers transported by air,thousand people
 2011,214.079,performance indicators of pipeline transport,millions tonnes
-2011,4.5569999999999995,Перевезено грузов с морским транспортом,millions tonnes
+2011,4.557,Перевезено грузов с морским транспортом,millions tonnes
 2012,3231.8419,Cargo transported by all means of transport,millions tonnes
 2012,213.2,Pipeline,millions tonnes
 2012,294.8,Railway,millions tonnes
@@ -97,15 +97,15 @@ Year,Value,SERIES,UNIT_MEASURE
 2015,3733.7548,Cargo transported by all means of transport,millions tonnes
 2015,214.643,Pipeline,millions tonnes
 2015,341.37,Railway,millions tonnes
-2015,3174.0209999999997,Automobile,millions tonnes
-2015,0.17178000000000002,Air,millions tonnes
+2015,3174.021,Automobile,millions tonnes
+2015,0.17178,Air,millions tonnes
 2015,1.2189,Inland water еransport,millions tonnes
 2015,2.4766,nautical,millions tonnes
 2015,21839.1375,Passengers transported by all means of transport,mln.people
 2015,22.497,Railway transport,mln.people
-2015,21744.732000000004,Automobile,mln.people
+2015,21744.732,Automobile,mln.people
 2015,0.0485,Inland water еransport,mln.people
-2015,5.922000000000001,Air,mln.people
+2015,5.922,Air,mln.people
 2015,65.9,City electric transport,mln.people
 2015,3174.0218,_L_KZ_090102_1J,millions tonnes
 2015,21810.6683,Passengers transported by all means of transport,mln.people
@@ -117,7 +117,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2016,205.8276,Pipeline,millions tonnes
 2016,338.9286,Railway,millions tonnes
 2016,3180.6557,Automobile,millions tonnes
-2016,0.180159,Air,millions tonnes
+2016,0.1801589999999999,Air,millions tonnes
 2016,1.1886,Inland water еransport,millions tonnes
 2016,2.5655,nautical,millions tonnes
 2016,22332.7906,Passengers transported by all means of transport,mln.people
@@ -126,7 +126,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2016,0.0904,Inland water еransport,mln.people
 2016,6.0217,Air,mln.people
 2016,64.2,City electric transport,mln.people
-2016,3180.6557000000007,_L_KZ_090102_1J,millions tonnes
+2016,3180.6557000000003,_L_KZ_090102_1J,millions tonnes
 2016,22303.6054,Passengers transported by all means of transport,mln.people
 2016,18015.9,transported by air,tons
 2016,6021.7,passengers transported by air,thousand people
@@ -140,9 +140,9 @@ Year,Value,SERIES,UNIT_MEASURE
 2017,1.6494,Inland water еransport,millions tonnes
 2017,2.1026,nautical,millions tonnes
 2017,22744.7,Passengers transported by all means of transport,mln.people
-2017,22.914279999999998,Railway transport,mln.people
+2017,22.91428,Railway transport,mln.people
 2017,22643.55407,Automobile,mln.people
-2017,0.058710000000000005,Inland water еransport,mln.people
+2017,0.05871,Inland water еransport,mln.people
 2017,7.36373,Air,mln.people
 2017,70.6,City electric transport,mln.people
 2017,3322.3,_L_KZ_090102_1J,millions tonnes
@@ -155,8 +155,8 @@ Year,Value,SERIES,UNIT_MEASURE
 2018,281.4156,Pipeline,millions tonnes
 2018,397.8848,Railway,millions tonnes
 2018,0.0441,Air,millions tonnes
-2018,23021.597670000006,Passengers transported by all means of transport,mln.people
-2018,23.091379999999997,Railway transport,mln.people
+2018,23021.597670000003,Passengers transported by all means of transport,mln.people
+2018,23.09138,Railway transport,mln.people
 2018,22911.47359,Automobile,mln.people
 2018,7.55559,Air,mln.people
 2018,69.7,City electric transport,mln.people
@@ -168,20 +168,20 @@ Year,Value,SERIES,UNIT_MEASURE
 2019,273.031,Pipeline,millions tonnes
 2019,397.026,Railway,millions tonnes
 2019,3550.4713,Automobile,millions tonnes
-2019,0.0267,Air,millions tonnes
+2019,0.0266999999999999,Air,millions tonnes
 2019,1.3193,Inland water еransport,millions tonnes
 2019,0.8281000000000001,nautical,millions tonnes
 2019,23835.78756,Passengers transported by all means of transport,mln.people
 2019,22.35073,Railway transport,mln.people
-2019,23719.168999999998,Automobile,mln.people
+2019,23719.169,Automobile,mln.people
 2019,0.03638,Inland water еransport,mln.people
-2019,0.06217999999999999,nautical,mln.people
+2019,0.06218,nautical,mln.people
 2019,8.644860000000001,Air,mln.people
-2019,85.52392999999971,City electric transport,mln.people
+2019,85.5239299999997,City electric transport,mln.people
 2019,3550.4713,_L_KZ_090102_1J,millions tonnes
 2019,23804.69341,Passengers transported by all means of transport,mln.people
 2019,267211.0,transported by air,tons
 2019,8644.86,passengers transported by air,thousand people
 2019,273.031,performance indicators of pipeline transport,millions tonnes
 2019,0.8281000000000001,Перевезено грузов с морским транспортом,millions tonnes
-2019,0.06217999999999999,Перевезено пассажиров с морским транспортом,millions tonnes
+2019,0.06218,Перевезено пассажиров с морским транспортом,millions tonnes

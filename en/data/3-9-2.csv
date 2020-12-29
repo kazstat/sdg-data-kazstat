@@ -1330,7 +1330,7 @@ Year,UNIT_MEASURE,Regions,Area,Sex,Value
 2018,per 100000 population,Shygys Kazakhstan,Population of rural areas,Female,4.49
 2019,per 100000 population,,,,1.2801349575527234
 2019,per 100000 population,Akmola,,,1.0845090088807732
-2019,per 100000 population,Aktobe,,,0.11420166186258345
+2019,per 100000 population,Aktobe,,,0.1142016618625834
 2019,per 100000 population,Almaty,,,0.1953764648045173
 2019,per 100000 population,Atyrau,,,0.0
 2019,per 100000 population,Batys Kazakhstan,,,3.208141958753989
@@ -1339,12 +1339,12 @@ Year,UNIT_MEASURE,Regions,Area,Sex,Value
 2019,per 100000 population,Kostanay,,,1.0336843265891174
 2019,per 100000 population,Kyzylorda,,,0.2503338828162061
 2019,per 100000 population,Mangistau,,,0.4357314296711317
-2019,per 100000 population,Pavlodar,,,9.827213679481444
+2019,per 100000 population,Pavlodar,,,9.827213679481442
 2019,per 100000 population,Soltustik Kazakhstan,,,0.5438368779412511
 2019,per 100000 population,Turkistan,,,2.8499957250064125
 2019,per 100000 population,Shygys Kazakhstan,,,0.8005461180063199
-2019,per 100000 population,Nur-Sultan city,,,0.18062441861515255
-2019,per 100000 population,Almaty city,,,0.21211843208418554
+2019,per 100000 population,Nur-Sultan city,,,0.1806244186151525
+2019,per 100000 population,Almaty city,,,0.2121184320841855
 2019,per 100000 population,Shymkent city,,,2.246930863402723
 2019,per 100000 population,,Population of urban areas,,1.4022829073476164
 2019,per 100000 population,Akmola,Population of urban areas,,1.4359852150962251
@@ -1352,22 +1352,22 @@ Year,UNIT_MEASURE,Regions,Area,Sex,Value
 2019,per 100000 population,Almaty,Population of urban areas,,0.0
 2019,per 100000 population,Atyrau,Population of urban areas,,0.0
 2019,per 100000 population,Batys Kazakhstan,Population of urban areas,,4.388165410432424
-2019,per 100000 population,Zhambyl,Population of urban areas,,0.22342898700648728
+2019,per 100000 population,Zhambyl,Population of urban areas,,0.2234289870064872
 2019,per 100000 population,Karagandy,Population of urban areas,,0.9109919837260392
 2019,per 100000 population,Kostanay,Population of urban areas,,1.1955525445343322
 2019,per 100000 population,Kyzylorda,Population of urban areas,,0.2816369868222054
 2019,per 100000 population,Mangistau,Population of urban areas,,0.0
-2019,per 100000 population,Pavlodar,Population of urban areas,,12.796495265767211
+2019,per 100000 population,Pavlodar,Population of urban areas,,12.796495265767213
 2019,per 100000 population,Soltustik Kazakhstan,Population of urban areas,,1.1869459682412824
 2019,per 100000 population,Turkistan,Population of urban areas,,1.7611259129550938
 2019,per 100000 population,Shygys Kazakhstan,Population of urban areas,,0.8240713598707855
-2019,per 100000 population,Nur-Sultan city,Population of urban areas,,0.18062441861515255
-2019,per 100000 population,Almaty city,Population of urban areas,,0.21211843208418554
+2019,per 100000 population,Nur-Sultan city,Population of urban areas,,0.1806244186151525
+2019,per 100000 population,Almaty city,Population of urban areas,,0.2121184320841855
 2019,per 100000 population,Shymkent city,Population of urban areas,,2.246930863402723
 2019,per 100000 population,,Population of rural areas,,1.1076065137948157
 2019,per 100000 population,Akmola,Population of rural areas,,0.7702815122166649
 2019,per 100000 population,Aktobe,Population of rural areas,,0.393097985569373
-2019,per 100000 population,Almaty,Population of rural areas,,0.2511224388257892
+2019,per 100000 population,Almaty,Population of rural areas,,0.2511224388257891
 2019,per 100000 population,Atyrau,Population of rural areas,,0.0
 2019,per 100000 population,Batys Kazakhstan,Population of rural areas,,1.9184284234355216
 2019,per 100000 population,Zhambyl,Population of rural areas,,0.2940311673037342
@@ -1377,7 +1377,7 @@ Year,UNIT_MEASURE,Regions,Area,Sex,Value
 2019,per 100000 population,Mangistau,Population of rural areas,,0.723507855486541
 2019,per 100000 population,Pavlodar,Population of rural areas,,2.707391856616528
 2019,per 100000 population,Soltustik Kazakhstan,Population of rural areas,,0.0
-2019,per 100000 population,Turkistan,Population of rural areas,,3.1200663950128864
+2019,per 100000 population,Turkistan,Population of rural areas,,3.120066395012886
 2019,per 100000 population,Shygys Kazakhstan,Population of rural areas,,0.7624551819313371
 2019,per 100000 population,,,Male,1.0586532927181926
 2019,per 100000 population,Akmola,,Male,0.8377922498631606
@@ -1387,15 +1387,15 @@ Year,UNIT_MEASURE,Regions,Area,Sex,Value
 2019,per 100000 population,Batys Kazakhstan,,Male,2.5193835068558723
 2019,per 100000 population,Zhambyl,,Male,0.0
 2019,per 100000 population,Karagandy,,Male,0.7644020999654491
-2019,per 100000 population,Kostanay,,Male,1.4511980244357559
+2019,per 100000 population,Kostanay,,Male,1.451198024435756
 2019,per 100000 population,Kyzylorda,,Male,0.4989939035419835
 2019,per 100000 population,Mangistau,,Male,0.2914806048805513
-2019,per 100000 population,Pavlodar,,Male,7.291460717956483
+2019,per 100000 population,Pavlodar,,Male,7.291460717956484
 2019,per 100000 population,Soltustik Kazakhstan,,Male,0.0
 2019,per 100000 population,Turkistan,,Male,2.4649873201052253
 2019,per 100000 population,Shygys Kazakhstan,,Male,1.0673066440600956
-2019,per 100000 population,Nur-Sultan city,,Male,0.18818924310286425
-2019,per 100000 population,Almaty city,,Male,0.11581124619849585
+2019,per 100000 population,Nur-Sultan city,,Male,0.1881892431028642
+2019,per 100000 population,Almaty city,,Male,0.1158112461984958
 2019,per 100000 population,Shymkent city,,Male,1.4213039245247008
 2019,per 100000 population,,Population of urban areas,Male,1.0950161123799391
 2019,per 100000 population,Akmola,Population of urban areas,Male,1.2188173206129431
@@ -1412,8 +1412,8 @@ Year,UNIT_MEASURE,Regions,Area,Sex,Value
 2019,per 100000 population,Soltustik Kazakhstan,Population of urban areas,Male,0.0
 2019,per 100000 population,Turkistan,Population of urban areas,Male,1.997727584872208
 2019,per 100000 population,Shygys Kazakhstan,Population of urban areas,Male,1.0179723009736903
-2019,per 100000 population,Nur-Sultan city,Population of urban areas,Male,0.18818924310286425
-2019,per 100000 population,Almaty city,Population of urban areas,Male,0.11581124619849585
+2019,per 100000 population,Nur-Sultan city,Population of urban areas,Male,0.1881892431028642
+2019,per 100000 population,Almaty city,Population of urban areas,Male,0.1158112461984958
 2019,per 100000 population,Shymkent city,Population of urban areas,Male,1.4213039245247008
 2019,per 100000 population,,Population of rural areas,Male,1.0104713330578288
 2019,per 100000 population,Akmola,Population of rural areas,Male,0.5154891605516765
@@ -1425,7 +1425,7 @@ Year,UNIT_MEASURE,Regions,Area,Sex,Value
 2019,per 100000 population,Karagandy,Population of rural areas,Male,0.70553456590222
 2019,per 100000 population,Kostanay,Population of rural areas,Male,1.64432666193466
 2019,per 100000 population,Kyzylorda,Population of rural areas,Male,0.4415478902841802
-2019,per 100000 population,Mangistau,Population of rural areas,Male,0.4845419019723278
+2019,per 100000 population,Mangistau,Population of rural areas,Male,0.4845419019723277
 2019,per 100000 population,Pavlodar,Population of rural areas,Male,3.5931801440865234
 2019,per 100000 population,Soltustik Kazakhstan,Population of rural areas,Male,0.0
 2019,per 100000 population,Turkistan,Population of rural areas,Male,2.579927061776353
@@ -1441,12 +1441,12 @@ Year,UNIT_MEASURE,Regions,Area,Sex,Value
 2019,per 100000 population,Kostanay,,Female,0.6561385589666255
 2019,per 100000 population,Kyzylorda,,Female,0.0
 2019,per 100000 population,Mangistau,,Female,0.579002754605605
-2019,per 100000 population,Pavlodar,,Female,12.10807974684023
+2019,per 100000 population,Pavlodar,,Female,12.108079746840232
 2019,per 100000 population,Soltustik Kazakhstan,,Female,1.0425589958071753
-2019,per 100000 population,Turkistan,,Female,3.2460978353599463
+2019,per 100000 population,Turkistan,,Female,3.246097835359947
 2019,per 100000 population,Shygys Kazakhstan,,Female,0.5569436602755061
-2019,per 100000 population,Nur-Sultan city,,Female,0.17364427234367674
-2019,per 100000 population,Almaty city,,Female,0.29346597995627355
+2019,per 100000 population,Nur-Sultan city,,Female,0.1736442723436767
+2019,per 100000 population,Almaty city,,Female,0.2934659799562735
 2019,per 100000 population,Shymkent city,,Female,3.012541587195192
 2019,per 100000 population,,Population of urban areas,Female,1.6767424038984262
 2019,per 100000 population,Akmola,Population of urban areas,Female,1.6295535837957191
@@ -1454,24 +1454,24 @@ Year,UNIT_MEASURE,Regions,Area,Sex,Value
 2019,per 100000 population,Almaty,Population of urban areas,Female,0.0
 2019,per 100000 population,Atyrau,Population of urban areas,Female,0.0
 2019,per 100000 population,Batys Kazakhstan,Population of urban areas,Female,4.385363848156777
-2019,per 100000 population,Zhambyl,Population of urban areas,Female,0.42580461103813294
+2019,per 100000 population,Zhambyl,Population of urban areas,Female,0.4258046110381329
 2019,per 100000 population,Karagandy,Population of urban areas,Female,1.0250540288894394
-2019,per 100000 population,Kostanay,Population of urban areas,Female,1.1076077886979698
+2019,per 100000 population,Kostanay,Population of urban areas,Female,1.10760778869797
 2019,per 100000 population,Kyzylorda,Population of urban areas,Female,0.0
 2019,per 100000 population,Mangistau,Population of urban areas,Female,0.0
 2019,per 100000 population,Pavlodar,Population of urban areas,Female,16.076271423379094
 2019,per 100000 population,Soltustik Kazakhstan,Population of urban areas,Female,2.177716156476165
 2019,per 100000 population,Turkistan,Population of urban areas,Female,1.5209472459447744
 2019,per 100000 population,Shygys Kazakhstan,Population of urban areas,Female,0.6571698323997871
-2019,per 100000 population,Nur-Sultan city,Population of urban areas,Female,0.17364427234367674
-2019,per 100000 population,Almaty city,Population of urban areas,Female,0.29346597995627355
+2019,per 100000 population,Nur-Sultan city,Population of urban areas,Female,0.1736442723436767
+2019,per 100000 population,Almaty city,Population of urban areas,Female,0.2934659799562735
 2019,per 100000 population,Shymkent city,Population of urban areas,Female,3.012541587195192
 2019,per 100000 population,,Population of rural areas,Female,1.2058866668388115
 2019,per 100000 population,Akmola,Population of rural areas,Female,1.0231356549986572
 2019,per 100000 population,Aktobe,Population of rural areas,Female,0.0
 2019,per 100000 population,Almaty,Population of rural areas,Female,0.2510087413794185
 2019,per 100000 population,Atyrau,Population of rural areas,Female,0.0
-2019,per 100000 population,Batys Kazakhstan,Population of rural areas,Female,3.2337029455800135
+2019,per 100000 population,Batys Kazakhstan,Population of rural areas,Female,3.233702945580013
 2019,per 100000 population,Zhambyl,Population of rural areas,Female,0.5930925476438658
 2019,per 100000 population,Karagandy,Population of rural areas,Female,0.7232436029103323
 2019,per 100000 population,Kostanay,Population of rural areas,Female,0.0
