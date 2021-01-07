@@ -1,4 +1,9 @@
-# Open SDG - Data starter
+# Kazakhstan - SDG data
 
-This is a starter repository to help in implementing the [Open SDG](https://github.com/open-sdg/open-sdg) platform. [See here for documentation](https://open-sdg.readthedocs.io).
+This [web service](https://kazstat.github.io/sdg-data-kazstat/) provides the data for the [Kazakhstan national reporting platform for the SDGs](https://kazstat.github.io/sdg-site-kazstat/).
 
+Translations are performed at hosted.weblate.org/projects/sdgs-kazakhstan.
+
+<a href="https://hosted.weblate.org/engage/sdgs-kazakhstan/">
+<img src="https://hosted.weblate.org/widgets/sdgs-kazakhstan/-/open-graph.png" alt="Translation status" />
+</a>
