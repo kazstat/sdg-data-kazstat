@@ -1,28 +1,28 @@
-Year,UNIT_MEASURE,Виды экономической деятельности,Value
-2010,METER3_TH_TNG,"сельское, лесное и рыбное хозяйство",11.893354325312052
-2010,METER3_TH_TNG,промышленность,0.7808139575873115
-2010,METER3_TH_TNG,прочими видами деятельности,0.3334457196031435
-2011,METER3_TH_TNG,"сельское, лесное и рыбное хозяйство",6.65205339300144
-2011,METER3_TH_TNG,промышленность,0.6795683291945654
-2011,METER3_TH_TNG,прочими видами деятельности,0.2707771431452279
-2012,METER3_TH_TNG,"сельское, лесное и рыбное хозяйство",6.872758703238775
-2012,METER3_TH_TNG,промышленность,0.6405381676466579
-2012,METER3_TH_TNG,прочими видами деятельности,0.2171920164481903
-2013,METER3_TH_TNG,"сельское, лесное и рыбное хозяйство",6.028746647997742
-2013,METER3_TH_TNG,промышленность,0.6230725133633632
-2013,METER3_TH_TNG,прочими видами деятельности,0.207077822395694
-2014,METER3_TH_TNG,"сельское, лесное и рыбное хозяйство",7.071311560345701
-2014,METER3_TH_TNG,промышленность,0.5857763211684839
-2014,METER3_TH_TNG,прочими видами деятельности,0.0767503980224793
-2015,METER3_TH_TNG,"сельское, лесное и рыбное хозяйство",6.7927865197302095
-2015,METER3_TH_TNG,промышленность,0.5790315397997776
-2015,METER3_TH_TNG,прочими видами деятельности,0.0583162463084713
-2016,METER3_TH_TNG,"сельское, лесное и рыбное хозяйство",5.656054679431979
-2016,METER3_TH_TNG,промышленность,0.3405500449177843
-2016,METER3_TH_TNG,прочими видами деятельности,0.0984382900384733
-2017,METER3_TH_TNG,"сельское, лесное и рыбное хозяйство",5.3829267178567175
-2017,METER3_TH_TNG,промышленность,0.2762144857464662
-2017,METER3_TH_TNG,прочими видами деятельности,0.0670657186783982
-2018,METER3_TH_TNG,"сельское, лесное и рыбное хозяйство",4.77939440715914
-2018,METER3_TH_TNG,промышленность,0.2762713044825538
-2018,METER3_TH_TNG,прочими видами деятельности,0.0823329588135785
+Year,UNIT_MEASURE,Type of economic activity,Value
+2010,METER3_TH_TNG,"agriculture, forestry and fishery",11.893354325312052
+2010,METER3_TH_TNG,Industry,0.7808139575873115
+2010,METER3_TH_TNG,provision of other types of services,0.3334457196031435
+2011,METER3_TH_TNG,"agriculture, forestry and fishery",6.65205339300144
+2011,METER3_TH_TNG,Industry,0.6795683291945654
+2011,METER3_TH_TNG,provision of other types of services,0.2707771431452279
+2012,METER3_TH_TNG,"agriculture, forestry and fishery",6.872758703238775
+2012,METER3_TH_TNG,Industry,0.6405381676466579
+2012,METER3_TH_TNG,provision of other types of services,0.2171920164481903
+2013,METER3_TH_TNG,"agriculture, forestry and fishery",6.028746647997742
+2013,METER3_TH_TNG,Industry,0.6230725133633632
+2013,METER3_TH_TNG,provision of other types of services,0.207077822395694
+2014,METER3_TH_TNG,"agriculture, forestry and fishery",7.071311560345701
+2014,METER3_TH_TNG,Industry,0.5857763211684839
+2014,METER3_TH_TNG,provision of other types of services,0.0767503980224793
+2015,METER3_TH_TNG,"agriculture, forestry and fishery",6.7927865197302095
+2015,METER3_TH_TNG,Industry,0.5790315397997776
+2015,METER3_TH_TNG,provision of other types of services,0.0583162463084713
+2016,METER3_TH_TNG,"agriculture, forestry and fishery",5.656054679431979
+2016,METER3_TH_TNG,Industry,0.3405500449177843
+2016,METER3_TH_TNG,provision of other types of services,0.0984382900384733
+2017,METER3_TH_TNG,"agriculture, forestry and fishery",5.3829267178567175
+2017,METER3_TH_TNG,Industry,0.2762144857464662
+2017,METER3_TH_TNG,provision of other types of services,0.0670657186783982
+2018,METER3_TH_TNG,"agriculture, forestry and fishery",4.77939440715914
+2018,METER3_TH_TNG,Industry,0.2762713044825538
+2018,METER3_TH_TNG,provision of other types of services,0.0823329588135785

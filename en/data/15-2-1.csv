@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
+Year,UNIT_MEASURE,SERIES,Regions,Value
 2010,thousands hectares,"Площадь территории, покрытой лесом",,12317.8
 2010,thousands hectares,"Площадь территории, покрытой лесом",Akmola,373.7
 2010,thousands hectares,"Площадь территории, покрытой лесом",Aktobe,47.3
@@ -14,21 +14,21 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2010,thousands hectares,"Площадь территории, покрытой лесом",Soltustik Kazakhstan,530.2
 2010,thousands hectares,"Площадь территории, покрытой лесом",Turkistan,1603.4
 2010,thousands hectares,"Площадь территории, покрытой лесом",Shygys Kazakhstan,1800.8
-2010,M_METER3,Запасы наземной биомассы в лесах,,380.7
-2010,M_METER3,Запасы наземной биомассы в лесах,Akmola,42.7
-2010,M_METER3,Запасы наземной биомассы в лесах,Aktobe,1.0
-2010,M_METER3,Запасы наземной биомассы в лесах,Almaty,38.7
-2010,M_METER3,Запасы наземной биомассы в лесах,Atyrau,0.5
-2010,M_METER3,Запасы наземной биомассы в лесах,Batys Kazakhstan,8.0
-2010,M_METER3,Запасы наземной биомассы в лесах,Zhambyl,3.4
-2010,M_METER3,Запасы наземной биомассы в лесах,Karagandy,4.6
-2010,M_METER3,Запасы наземной биомассы в лесах,Kostanay,16.5
-2010,M_METER3,Запасы наземной биомассы в лесах,Kyzylorda,6.0
-2010,M_METER3,Запасы наземной биомассы в лесах,Mangistau,0.1
-2010,M_METER3,Запасы наземной биомассы в лесах,Pavlodar,26.6
-2010,M_METER3,Запасы наземной биомассы в лесах,Soltustik Kazakhstan,54.4
-2010,M_METER3,Запасы наземной биомассы в лесах,Turkistan,3.1
-2010,M_METER3,Запасы наземной биомассы в лесах,Shygys Kazakhstan,175.1
+2010,M_METER3,Above-ground biomass in forest (tonnes),,380.7
+2010,M_METER3,Above-ground biomass in forest (tonnes),Akmola,42.7
+2010,M_METER3,Above-ground biomass in forest (tonnes),Aktobe,1.0
+2010,M_METER3,Above-ground biomass in forest (tonnes),Almaty,38.7
+2010,M_METER3,Above-ground biomass in forest (tonnes),Atyrau,0.5
+2010,M_METER3,Above-ground biomass in forest (tonnes),Batys Kazakhstan,8.0
+2010,M_METER3,Above-ground biomass in forest (tonnes),Zhambyl,3.4
+2010,M_METER3,Above-ground biomass in forest (tonnes),Karagandy,4.6
+2010,M_METER3,Above-ground biomass in forest (tonnes),Kostanay,16.5
+2010,M_METER3,Above-ground biomass in forest (tonnes),Kyzylorda,6.0
+2010,M_METER3,Above-ground biomass in forest (tonnes),Mangistau,0.1
+2010,M_METER3,Above-ground biomass in forest (tonnes),Pavlodar,26.6
+2010,M_METER3,Above-ground biomass in forest (tonnes),Soltustik Kazakhstan,54.4
+2010,M_METER3,Above-ground biomass in forest (tonnes),Turkistan,3.1
+2010,M_METER3,Above-ground biomass in forest (tonnes),Shygys Kazakhstan,175.1
 2010,Percent,Изменение чистой площади лесов,,24.0
 2010,Percent,Изменение чистой площади лесов,Akmola,-6.4
 2010,Percent,Изменение чистой площади лесов,Aktobe,-0.2
@@ -44,36 +44,36 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2010,Percent,Изменение чистой площади лесов,Soltustik Kazakhstan,-0.2
 2010,Percent,Изменение чистой площади лесов,Turkistan,4.2
 2010,Percent,Изменение чистой площади лесов,Shygys Kazakhstan,0.3
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",,12317.8
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Akmola,373.7
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Aktobe,47.3
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Almaty,1797.6
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Atyrau,15.8
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Batys Kazakhstan,103.3
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Zhambyl,2213.6
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Karagandy,155.4
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kostanay,222.4
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kyzylorda,3094.7
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Mangistau,122.7
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Pavlodar,247.0
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Soltustik Kazakhstan,530.2
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Turkistan,1603.4
-2010,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Shygys Kazakhstan,1800.8
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",,12317.8
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Akmola,373.7
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Aktobe,47.3
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Almaty,1797.6
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Atyrau,15.8
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Batys Kazakhstan,103.3
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Zhambyl,2213.6
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Karagandy,155.4
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kostanay,222.4
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kyzylorda,3094.7
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Mangistau,122.7
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Pavlodar,247.0
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Soltustik Kazakhstan,530.2
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Turkistan,1603.4
-2010,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Shygys Kazakhstan,1800.8
+2010,thousands hectares,Proportion of forest area within legally established protected areas,,12317.8
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Akmola,373.7
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Aktobe,47.3
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Almaty,1797.6
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Atyrau,15.8
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Batys Kazakhstan,103.3
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Zhambyl,2213.6
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Karagandy,155.4
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Kostanay,222.4
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Kyzylorda,3094.7
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Mangistau,122.7
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Pavlodar,247.0
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Soltustik Kazakhstan,530.2
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Turkistan,1603.4
+2010,thousands hectares,Proportion of forest area within legally established protected areas,Shygys Kazakhstan,1800.8
+2010,thousands hectares,Proportion of forest area with a long-term management plan,,12317.8
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Akmola,373.7
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Aktobe,47.3
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Almaty,1797.6
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Atyrau,15.8
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Batys Kazakhstan,103.3
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Zhambyl,2213.6
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Karagandy,155.4
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Kostanay,222.4
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Kyzylorda,3094.7
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Mangistau,122.7
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Pavlodar,247.0
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Soltustik Kazakhstan,530.2
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Turkistan,1603.4
+2010,thousands hectares,Proportion of forest area with a long-term management plan,Shygys Kazakhstan,1800.8
 2011,thousands hectares,"Площадь территории, покрытой лесом",,12452.0
 2011,thousands hectares,"Площадь территории, покрытой лесом",Akmola,378.6
 2011,thousands hectares,"Площадь территории, покрытой лесом",Aktobe,47.2
@@ -89,21 +89,21 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2011,thousands hectares,"Площадь территории, покрытой лесом",Soltustik Kazakhstan,529.4
 2011,thousands hectares,"Площадь территории, покрытой лесом",Turkistan,1603.4
 2011,thousands hectares,"Площадь территории, покрытой лесом",Shygys Kazakhstan,1862.5
-2011,M_METER3,Запасы наземной биомассы в лесах,,380.7
-2011,M_METER3,Запасы наземной биомассы в лесах,Akmola,42.7
-2011,M_METER3,Запасы наземной биомассы в лесах,Aktobe,1.0
-2011,M_METER3,Запасы наземной биомассы в лесах,Almaty,38.7
-2011,M_METER3,Запасы наземной биомассы в лесах,Atyrau,0.5
-2011,M_METER3,Запасы наземной биомассы в лесах,Batys Kazakhstan,8.0
-2011,M_METER3,Запасы наземной биомассы в лесах,Zhambyl,3.4
-2011,M_METER3,Запасы наземной биомассы в лесах,Karagandy,4.6
-2011,M_METER3,Запасы наземной биомассы в лесах,Kostanay,16.5
-2011,M_METER3,Запасы наземной биомассы в лесах,Kyzylorda,6.0
-2011,M_METER3,Запасы наземной биомассы в лесах,Mangistau,0.1
-2011,M_METER3,Запасы наземной биомассы в лесах,Pavlodar,26.6
-2011,M_METER3,Запасы наземной биомассы в лесах,Soltustik Kazakhstan,54.4
-2011,M_METER3,Запасы наземной биомассы в лесах,Turkistan,3.1
-2011,M_METER3,Запасы наземной биомассы в лесах,Shygys Kazakhstan,175.1
+2011,M_METER3,Above-ground biomass in forest (tonnes),,380.7
+2011,M_METER3,Above-ground biomass in forest (tonnes),Akmola,42.7
+2011,M_METER3,Above-ground biomass in forest (tonnes),Aktobe,1.0
+2011,M_METER3,Above-ground biomass in forest (tonnes),Almaty,38.7
+2011,M_METER3,Above-ground biomass in forest (tonnes),Atyrau,0.5
+2011,M_METER3,Above-ground biomass in forest (tonnes),Batys Kazakhstan,8.0
+2011,M_METER3,Above-ground biomass in forest (tonnes),Zhambyl,3.4
+2011,M_METER3,Above-ground biomass in forest (tonnes),Karagandy,4.6
+2011,M_METER3,Above-ground biomass in forest (tonnes),Kostanay,16.5
+2011,M_METER3,Above-ground biomass in forest (tonnes),Kyzylorda,6.0
+2011,M_METER3,Above-ground biomass in forest (tonnes),Mangistau,0.1
+2011,M_METER3,Above-ground biomass in forest (tonnes),Pavlodar,26.6
+2011,M_METER3,Above-ground biomass in forest (tonnes),Soltustik Kazakhstan,54.4
+2011,M_METER3,Above-ground biomass in forest (tonnes),Turkistan,3.1
+2011,M_METER3,Above-ground biomass in forest (tonnes),Shygys Kazakhstan,175.1
 2011,Percent,Изменение чистой площади лесов,,134.20000000000073
 2011,Percent,Изменение чистой площади лесов,Akmola,4.900000000000034
 2011,Percent,Изменение чистой площади лесов,Aktobe,-0.0999999999999943
@@ -119,36 +119,36 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2011,Percent,Изменение чистой площади лесов,Soltustik Kazakhstan,-0.8
 2011,Percent,Изменение чистой площади лесов,Turkistan,0.0
 2011,Percent,Изменение чистой площади лесов,Shygys Kazakhstan,61.700000000000045
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",,12452.0
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Akmola,378.6
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Aktobe,47.2
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Almaty,1850.9
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Atyrau,15.8
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Batys Kazakhstan,104.6
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Zhambyl,2219.6
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Karagandy,155.4
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kostanay,223.7
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kyzylorda,3088.2
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Mangistau,122.8
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Pavlodar,249.9
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Soltustik Kazakhstan,529.4
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Turkistan,1603.4
-2011,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Shygys Kazakhstan,1862.5
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",,12452.0
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Akmola,378.6
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Aktobe,47.2
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Almaty,1850.9
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Atyrau,15.8
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Batys Kazakhstan,104.6
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Zhambyl,2219.6
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Karagandy,155.4
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kostanay,223.7
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kyzylorda,3088.2
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Mangistau,122.8
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Pavlodar,249.9
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Soltustik Kazakhstan,529.4
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Turkistan,1603.4
-2011,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Shygys Kazakhstan,1862.5
+2011,thousands hectares,Proportion of forest area within legally established protected areas,,12452.0
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Akmola,378.6
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Aktobe,47.2
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Almaty,1850.9
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Atyrau,15.8
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Batys Kazakhstan,104.6
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Zhambyl,2219.6
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Karagandy,155.4
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Kostanay,223.7
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Kyzylorda,3088.2
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Mangistau,122.8
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Pavlodar,249.9
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Soltustik Kazakhstan,529.4
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Turkistan,1603.4
+2011,thousands hectares,Proportion of forest area within legally established protected areas,Shygys Kazakhstan,1862.5
+2011,thousands hectares,Proportion of forest area with a long-term management plan,,12452.0
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Akmola,378.6
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Aktobe,47.2
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Almaty,1850.9
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Atyrau,15.8
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Batys Kazakhstan,104.6
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Zhambyl,2219.6
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Karagandy,155.4
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Kostanay,223.7
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Kyzylorda,3088.2
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Mangistau,122.8
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Pavlodar,249.9
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Soltustik Kazakhstan,529.4
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Turkistan,1603.4
+2011,thousands hectares,Proportion of forest area with a long-term management plan,Shygys Kazakhstan,1862.5
 2012,thousands hectares,"Площадь территории, покрытой лесом",,12548.6
 2012,thousands hectares,"Площадь территории, покрытой лесом",Akmola,378.0
 2012,thousands hectares,"Площадь территории, покрытой лесом",Aktobe,47.9
@@ -164,21 +164,21 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2012,thousands hectares,"Площадь территории, покрытой лесом",Soltustik Kazakhstan,529.7
 2012,thousands hectares,"Площадь территории, покрытой лесом",Turkistan,1614.1
 2012,thousands hectares,"Площадь территории, покрытой лесом",Shygys Kazakhstan,1974.1
-2012,M_METER3,Запасы наземной биомассы в лесах,,412.2
-2012,M_METER3,Запасы наземной биомассы в лесах,Akmola,45.4
-2012,M_METER3,Запасы наземной биомассы в лесах,Aktobe,1.1
-2012,M_METER3,Запасы наземной биомассы в лесах,Almaty,40.7
-2012,M_METER3,Запасы наземной биомассы в лесах,Atyrau,0.5
-2012,M_METER3,Запасы наземной биомассы в лесах,Batys Kazakhstan,8.3
-2012,M_METER3,Запасы наземной биомассы в лесах,Zhambyl,3.4
-2012,M_METER3,Запасы наземной биомассы в лесах,Karagandy,4.6
-2012,M_METER3,Запасы наземной биомассы в лесах,Kostanay,15.5
-2012,M_METER3,Запасы наземной биомассы в лесах,Kyzylorda,5.9
-2012,M_METER3,Запасы наземной биомассы в лесах,Mangistau,0.1
-2012,M_METER3,Запасы наземной биомассы в лесах,Pavlodar,27.0
-2012,M_METER3,Запасы наземной биомассы в лесах,Soltustik Kazakhstan,52.0
-2012,M_METER3,Запасы наземной биомассы в лесах,Turkistan,3.1
-2012,M_METER3,Запасы наземной биомассы в лесах,Shygys Kazakhstan,204.6
+2012,M_METER3,Above-ground biomass in forest (tonnes),,412.2
+2012,M_METER3,Above-ground biomass in forest (tonnes),Akmola,45.4
+2012,M_METER3,Above-ground biomass in forest (tonnes),Aktobe,1.1
+2012,M_METER3,Above-ground biomass in forest (tonnes),Almaty,40.7
+2012,M_METER3,Above-ground biomass in forest (tonnes),Atyrau,0.5
+2012,M_METER3,Above-ground biomass in forest (tonnes),Batys Kazakhstan,8.3
+2012,M_METER3,Above-ground biomass in forest (tonnes),Zhambyl,3.4
+2012,M_METER3,Above-ground biomass in forest (tonnes),Karagandy,4.6
+2012,M_METER3,Above-ground biomass in forest (tonnes),Kostanay,15.5
+2012,M_METER3,Above-ground biomass in forest (tonnes),Kyzylorda,5.9
+2012,M_METER3,Above-ground biomass in forest (tonnes),Mangistau,0.1
+2012,M_METER3,Above-ground biomass in forest (tonnes),Pavlodar,27.0
+2012,M_METER3,Above-ground biomass in forest (tonnes),Soltustik Kazakhstan,52.0
+2012,M_METER3,Above-ground biomass in forest (tonnes),Turkistan,3.1
+2012,M_METER3,Above-ground biomass in forest (tonnes),Shygys Kazakhstan,204.6
 2012,Percent,Изменение чистой площади лесов,,96.60000000000036
 2012,Percent,Изменение чистой площади лесов,Akmola,-0.6000000000000227
 2012,Percent,Изменение чистой площади лесов,Aktobe,0.6999999999999957
@@ -194,36 +194,36 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2012,Percent,Изменение чистой площади лесов,Soltustik Kazakhstan,0.3
 2012,Percent,Изменение чистой площади лесов,Turkistan,10.699999999999818
 2012,Percent,Изменение чистой площади лесов,Shygys Kazakhstan,111.59999999999992
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",,12548.6
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Akmola,378.0
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Aktobe,47.9
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Almaty,1851.7
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Atyrau,15.8
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Batys Kazakhstan,106.1
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Zhambyl,2222.3
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Karagandy,156.0
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kostanay,224.1
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kyzylorda,3056.8
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Mangistau,122.8
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Pavlodar,249.3
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Soltustik Kazakhstan,529.7
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Turkistan,1614.1
-2012,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Shygys Kazakhstan,1974.1
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",,12548.6
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Akmola,378.0
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Aktobe,47.9
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Almaty,1851.7
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Atyrau,15.8
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Batys Kazakhstan,106.1
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Zhambyl,2222.3
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Karagandy,156.0
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kostanay,224.1
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kyzylorda,3056.8
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Mangistau,122.8
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Pavlodar,249.3
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Soltustik Kazakhstan,529.7
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Turkistan,1614.1
-2012,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Shygys Kazakhstan,1974.1
+2012,thousands hectares,Proportion of forest area within legally established protected areas,,12548.6
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Akmola,378.0
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Aktobe,47.9
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Almaty,1851.7
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Atyrau,15.8
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Batys Kazakhstan,106.1
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Zhambyl,2222.3
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Karagandy,156.0
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Kostanay,224.1
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Kyzylorda,3056.8
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Mangistau,122.8
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Pavlodar,249.3
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Soltustik Kazakhstan,529.7
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Turkistan,1614.1
+2012,thousands hectares,Proportion of forest area within legally established protected areas,Shygys Kazakhstan,1974.1
+2012,thousands hectares,Proportion of forest area with a long-term management plan,,12548.6
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Akmola,378.0
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Aktobe,47.9
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Almaty,1851.7
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Atyrau,15.8
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Batys Kazakhstan,106.1
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Zhambyl,2222.3
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Karagandy,156.0
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Kostanay,224.1
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Kyzylorda,3056.8
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Mangistau,122.8
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Pavlodar,249.3
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Soltustik Kazakhstan,529.7
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Turkistan,1614.1
+2012,thousands hectares,Proportion of forest area with a long-term management plan,Shygys Kazakhstan,1974.1
 2013,thousands hectares,"Площадь территории, покрытой лесом",,12593.9
 2013,thousands hectares,"Площадь территории, покрытой лесом",Akmola,379.3
 2013,thousands hectares,"Площадь территории, покрытой лесом",Aktobe,49.8
@@ -239,21 +239,21 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2013,thousands hectares,"Площадь территории, покрытой лесом",Soltustik Kazakhstan,529.3
 2013,thousands hectares,"Площадь территории, покрытой лесом",Turkistan,1614.2
 2013,thousands hectares,"Площадь территории, покрытой лесом",Shygys Kazakhstan,2000.8
-2013,M_METER3,Запасы наземной биомассы в лесах,,412.2
-2013,M_METER3,Запасы наземной биомассы в лесах,Akmola,45.4
-2013,M_METER3,Запасы наземной биомассы в лесах,Aktobe,1.1
-2013,M_METER3,Запасы наземной биомассы в лесах,Almaty,40.7
-2013,M_METER3,Запасы наземной биомассы в лесах,Atyrau,0.5
-2013,M_METER3,Запасы наземной биомассы в лесах,Batys Kazakhstan,8.3
-2013,M_METER3,Запасы наземной биомассы в лесах,Zhambyl,3.4
-2013,M_METER3,Запасы наземной биомассы в лесах,Karagandy,4.6
-2013,M_METER3,Запасы наземной биомассы в лесах,Kostanay,15.5
-2013,M_METER3,Запасы наземной биомассы в лесах,Kyzylorda,5.9
-2013,M_METER3,Запасы наземной биомассы в лесах,Mangistau,0.1
-2013,M_METER3,Запасы наземной биомассы в лесах,Pavlodar,27.0
-2013,M_METER3,Запасы наземной биомассы в лесах,Soltustik Kazakhstan,52.0
-2013,M_METER3,Запасы наземной биомассы в лесах,Turkistan,3.1
-2013,M_METER3,Запасы наземной биомассы в лесах,Shygys Kazakhstan,204.6
+2013,M_METER3,Above-ground biomass in forest (tonnes),,412.2
+2013,M_METER3,Above-ground biomass in forest (tonnes),Akmola,45.4
+2013,M_METER3,Above-ground biomass in forest (tonnes),Aktobe,1.1
+2013,M_METER3,Above-ground biomass in forest (tonnes),Almaty,40.7
+2013,M_METER3,Above-ground biomass in forest (tonnes),Atyrau,0.5
+2013,M_METER3,Above-ground biomass in forest (tonnes),Batys Kazakhstan,8.3
+2013,M_METER3,Above-ground biomass in forest (tonnes),Zhambyl,3.4
+2013,M_METER3,Above-ground biomass in forest (tonnes),Karagandy,4.6
+2013,M_METER3,Above-ground biomass in forest (tonnes),Kostanay,15.5
+2013,M_METER3,Above-ground biomass in forest (tonnes),Kyzylorda,5.9
+2013,M_METER3,Above-ground biomass in forest (tonnes),Mangistau,0.1
+2013,M_METER3,Above-ground biomass in forest (tonnes),Pavlodar,27.0
+2013,M_METER3,Above-ground biomass in forest (tonnes),Soltustik Kazakhstan,52.0
+2013,M_METER3,Above-ground biomass in forest (tonnes),Turkistan,3.1
+2013,M_METER3,Above-ground biomass in forest (tonnes),Shygys Kazakhstan,204.6
 2013,Percent,Изменение чистой площади лесов,,45.29999999999927
 2013,Percent,Изменение чистой площади лесов,Akmola,1.3000000000000114
 2013,Percent,Изменение чистой площади лесов,Aktobe,1.8999999999999984
@@ -269,36 +269,36 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2013,Percent,Изменение чистой площади лесов,Soltustik Kazakhstan,-0.4000000000000909
 2013,Percent,Изменение чистой площади лесов,Turkistan,0.1000000000001364
 2013,Percent,Изменение чистой площади лесов,Shygys Kazakhstan,26.700000000000045
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",,12593.9
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Akmola,379.3
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Aktobe,49.8
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Almaty,1854.4
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Atyrau,16.4
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Batys Kazakhstan,106.1
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Zhambyl,2231.0
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Karagandy,155.6
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kostanay,229.0
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kyzylorda,3055.0
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Mangistau,122.4
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Pavlodar,250.5
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Soltustik Kazakhstan,529.3
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Turkistan,1614.2
-2013,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Shygys Kazakhstan,2000.8
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",,12593.9
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Akmola,379.3
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Aktobe,49.8
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Almaty,1854.4
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Atyrau,16.4
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Batys Kazakhstan,106.1
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Zhambyl,2231.0
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Karagandy,155.6
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kostanay,229.0
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kyzylorda,3055.0
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Mangistau,122.4
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Pavlodar,250.5
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Soltustik Kazakhstan,529.3
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Turkistan,1614.2
-2013,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Shygys Kazakhstan,2000.8
+2013,thousands hectares,Proportion of forest area within legally established protected areas,,12593.9
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Akmola,379.3
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Aktobe,49.8
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Almaty,1854.4
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Atyrau,16.4
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Batys Kazakhstan,106.1
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Zhambyl,2231.0
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Karagandy,155.6
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Kostanay,229.0
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Kyzylorda,3055.0
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Mangistau,122.4
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Pavlodar,250.5
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Soltustik Kazakhstan,529.3
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Turkistan,1614.2
+2013,thousands hectares,Proportion of forest area within legally established protected areas,Shygys Kazakhstan,2000.8
+2013,thousands hectares,Proportion of forest area with a long-term management plan,,12593.9
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Akmola,379.3
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Aktobe,49.8
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Almaty,1854.4
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Atyrau,16.4
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Batys Kazakhstan,106.1
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Zhambyl,2231.0
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Karagandy,155.6
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Kostanay,229.0
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Kyzylorda,3055.0
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Mangistau,122.4
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Pavlodar,250.5
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Soltustik Kazakhstan,529.3
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Turkistan,1614.2
+2013,thousands hectares,Proportion of forest area with a long-term management plan,Shygys Kazakhstan,2000.8
 2014,thousands hectares,"Площадь территории, покрытой лесом",,12627.0
 2014,thousands hectares,"Площадь территории, покрытой лесом",Akmola,379.4
 2014,thousands hectares,"Площадь территории, покрытой лесом",Aktobe,50.3
@@ -314,21 +314,21 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2014,thousands hectares,"Площадь территории, покрытой лесом",Soltustik Kazakhstan,531.9
 2014,thousands hectares,"Площадь территории, покрытой лесом",Turkistan,1616.8
 2014,thousands hectares,"Площадь территории, покрытой лесом",Shygys Kazakhstan,2004.7
-2014,M_METER3,Запасы наземной биомассы в лесах,,412.2
-2014,M_METER3,Запасы наземной биомассы в лесах,Akmola,45.4
-2014,M_METER3,Запасы наземной биомассы в лесах,Aktobe,1.1
-2014,M_METER3,Запасы наземной биомассы в лесах,Almaty,40.7
-2014,M_METER3,Запасы наземной биомассы в лесах,Atyrau,0.5
-2014,M_METER3,Запасы наземной биомассы в лесах,Batys Kazakhstan,8.3
-2014,M_METER3,Запасы наземной биомассы в лесах,Zhambyl,3.4
-2014,M_METER3,Запасы наземной биомассы в лесах,Karagandy,4.6
-2014,M_METER3,Запасы наземной биомассы в лесах,Kostanay,15.5
-2014,M_METER3,Запасы наземной биомассы в лесах,Kyzylorda,5.9
-2014,M_METER3,Запасы наземной биомассы в лесах,Mangistau,0.1
-2014,M_METER3,Запасы наземной биомассы в лесах,Pavlodar,27.0
-2014,M_METER3,Запасы наземной биомассы в лесах,Soltustik Kazakhstan,52.0
-2014,M_METER3,Запасы наземной биомассы в лесах,Turkistan,3.1
-2014,M_METER3,Запасы наземной биомассы в лесах,Shygys Kazakhstan,204.6
+2014,M_METER3,Above-ground biomass in forest (tonnes),,412.2
+2014,M_METER3,Above-ground biomass in forest (tonnes),Akmola,45.4
+2014,M_METER3,Above-ground biomass in forest (tonnes),Aktobe,1.1
+2014,M_METER3,Above-ground biomass in forest (tonnes),Almaty,40.7
+2014,M_METER3,Above-ground biomass in forest (tonnes),Atyrau,0.5
+2014,M_METER3,Above-ground biomass in forest (tonnes),Batys Kazakhstan,8.3
+2014,M_METER3,Above-ground biomass in forest (tonnes),Zhambyl,3.4
+2014,M_METER3,Above-ground biomass in forest (tonnes),Karagandy,4.6
+2014,M_METER3,Above-ground biomass in forest (tonnes),Kostanay,15.5
+2014,M_METER3,Above-ground biomass in forest (tonnes),Kyzylorda,5.9
+2014,M_METER3,Above-ground biomass in forest (tonnes),Mangistau,0.1
+2014,M_METER3,Above-ground biomass in forest (tonnes),Pavlodar,27.0
+2014,M_METER3,Above-ground biomass in forest (tonnes),Soltustik Kazakhstan,52.0
+2014,M_METER3,Above-ground biomass in forest (tonnes),Turkistan,3.1
+2014,M_METER3,Above-ground biomass in forest (tonnes),Shygys Kazakhstan,204.6
 2014,Percent,Изменение чистой площади лесов,,33.100000000000364
 2014,Percent,Изменение чистой площади лесов,Akmola,0.0999999999999659
 2014,Percent,Изменение чистой площади лесов,Aktobe,0.5
@@ -344,36 +344,36 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2014,Percent,Изменение чистой площади лесов,Soltustik Kazakhstan,2.6000000000000227
 2014,Percent,Изменение чистой площади лесов,Turkistan,2.599999999999909
 2014,Percent,Изменение чистой площади лесов,Shygys Kazakhstan,3.900000000000091
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",,12627.0
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Akmola,379.4
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Aktobe,50.3
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Almaty,1856.2
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Atyrau,16.4
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Batys Kazakhstan,106.0
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Zhambyl,2236.1
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Karagandy,155.8
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kostanay,234.9
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kyzylorda,3063.0
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Mangistau,122.4
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Pavlodar,253.1
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Soltustik Kazakhstan,531.9
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Turkistan,1616.8
-2014,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Shygys Kazakhstan,2004.7
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",,12627.0
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Akmola,379.4
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Aktobe,50.3
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Almaty,1856.2
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Atyrau,16.4
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Batys Kazakhstan,106.0
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Zhambyl,2236.1
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Karagandy,155.8
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kostanay,234.9
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kyzylorda,3063.0
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Mangistau,122.4
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Pavlodar,253.1
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Soltustik Kazakhstan,531.9
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Turkistan,1616.8
-2014,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Shygys Kazakhstan,2004.7
+2014,thousands hectares,Proportion of forest area within legally established protected areas,,12627.0
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Akmola,379.4
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Aktobe,50.3
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Almaty,1856.2
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Atyrau,16.4
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Batys Kazakhstan,106.0
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Zhambyl,2236.1
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Karagandy,155.8
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Kostanay,234.9
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Kyzylorda,3063.0
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Mangistau,122.4
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Pavlodar,253.1
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Soltustik Kazakhstan,531.9
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Turkistan,1616.8
+2014,thousands hectares,Proportion of forest area within legally established protected areas,Shygys Kazakhstan,2004.7
+2014,thousands hectares,Proportion of forest area with a long-term management plan,,12627.0
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Akmola,379.4
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Aktobe,50.3
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Almaty,1856.2
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Atyrau,16.4
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Batys Kazakhstan,106.0
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Zhambyl,2236.1
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Karagandy,155.8
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Kostanay,234.9
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Kyzylorda,3063.0
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Mangistau,122.4
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Pavlodar,253.1
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Soltustik Kazakhstan,531.9
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Turkistan,1616.8
+2014,thousands hectares,Proportion of forest area with a long-term management plan,Shygys Kazakhstan,2004.7
 2015,thousands hectares,"Площадь территории, покрытой лесом",,12652.4
 2015,thousands hectares,"Площадь территории, покрытой лесом",Akmola,380.3
 2015,thousands hectares,"Площадь территории, покрытой лесом",Aktobe,51.6
@@ -389,21 +389,21 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2015,thousands hectares,"Площадь территории, покрытой лесом",Soltustik Kazakhstan,534.0
 2015,thousands hectares,"Площадь территории, покрытой лесом",Turkistan,1623.7
 2015,thousands hectares,"Площадь территории, покрытой лесом",Shygys Kazakhstan,2005.3
-2015,M_METER3,Запасы наземной биомассы в лесах,,412.2
-2015,M_METER3,Запасы наземной биомассы в лесах,Akmola,45.4
-2015,M_METER3,Запасы наземной биомассы в лесах,Aktobe,1.1
-2015,M_METER3,Запасы наземной биомассы в лесах,Almaty,40.7
-2015,M_METER3,Запасы наземной биомассы в лесах,Atyrau,0.5
-2015,M_METER3,Запасы наземной биомассы в лесах,Batys Kazakhstan,8.3
-2015,M_METER3,Запасы наземной биомассы в лесах,Zhambyl,3.4
-2015,M_METER3,Запасы наземной биомассы в лесах,Karagandy,4.6
-2015,M_METER3,Запасы наземной биомассы в лесах,Kostanay,15.5
-2015,M_METER3,Запасы наземной биомассы в лесах,Kyzylorda,5.9
-2015,M_METER3,Запасы наземной биомассы в лесах,Mangistau,0.1
-2015,M_METER3,Запасы наземной биомассы в лесах,Pavlodar,27.0
-2015,M_METER3,Запасы наземной биомассы в лесах,Soltustik Kazakhstan,52.0
-2015,M_METER3,Запасы наземной биомассы в лесах,Turkistan,3.1
-2015,M_METER3,Запасы наземной биомассы в лесах,Shygys Kazakhstan,204.6
+2015,M_METER3,Above-ground biomass in forest (tonnes),,412.2
+2015,M_METER3,Above-ground biomass in forest (tonnes),Akmola,45.4
+2015,M_METER3,Above-ground biomass in forest (tonnes),Aktobe,1.1
+2015,M_METER3,Above-ground biomass in forest (tonnes),Almaty,40.7
+2015,M_METER3,Above-ground biomass in forest (tonnes),Atyrau,0.5
+2015,M_METER3,Above-ground biomass in forest (tonnes),Batys Kazakhstan,8.3
+2015,M_METER3,Above-ground biomass in forest (tonnes),Zhambyl,3.4
+2015,M_METER3,Above-ground biomass in forest (tonnes),Karagandy,4.6
+2015,M_METER3,Above-ground biomass in forest (tonnes),Kostanay,15.5
+2015,M_METER3,Above-ground biomass in forest (tonnes),Kyzylorda,5.9
+2015,M_METER3,Above-ground biomass in forest (tonnes),Mangistau,0.1
+2015,M_METER3,Above-ground biomass in forest (tonnes),Pavlodar,27.0
+2015,M_METER3,Above-ground biomass in forest (tonnes),Soltustik Kazakhstan,52.0
+2015,M_METER3,Above-ground biomass in forest (tonnes),Turkistan,3.1
+2015,M_METER3,Above-ground biomass in forest (tonnes),Shygys Kazakhstan,204.6
 2015,Percent,Изменение чистой площади лесов,,25.39999999999964
 2015,Percent,Изменение чистой площади лесов,Akmola,0.9000000000000341
 2015,Percent,Изменение чистой площади лесов,Aktobe,1.3000000000000045
@@ -419,36 +419,36 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2015,Percent,Изменение чистой площади лесов,Soltustik Kazakhstan,2.1000000000000227
 2015,Percent,Изменение чистой площади лесов,Turkistan,6.900000000000091
 2015,Percent,Изменение чистой площади лесов,Shygys Kazakhstan,0.599999999999909
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",,12652.4
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Akmola,380.3
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Aktobe,51.6
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Almaty,1870.6
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Atyrau,16.5
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Batys Kazakhstan,103.9
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Zhambyl,2240.6
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Karagandy,153.3
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kostanay,236.4
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kyzylorda,3059.1
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Mangistau,122.4
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Pavlodar,254.5
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Soltustik Kazakhstan,534.0
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Turkistan,1623.7
-2015,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Shygys Kazakhstan,2005.3
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",,12652.4
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Akmola,380.3
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Aktobe,51.6
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Almaty,1870.6
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Atyrau,16.5
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Batys Kazakhstan,103.9
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Zhambyl,2240.6
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Karagandy,153.3
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kostanay,236.4
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kyzylorda,3059.1
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Mangistau,122.4
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Pavlodar,254.5
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Soltustik Kazakhstan,534.0
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Turkistan,1623.7
-2015,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Shygys Kazakhstan,2005.3
+2015,thousands hectares,Proportion of forest area within legally established protected areas,,12652.4
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Akmola,380.3
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Aktobe,51.6
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Almaty,1870.6
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Atyrau,16.5
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Batys Kazakhstan,103.9
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Zhambyl,2240.6
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Karagandy,153.3
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Kostanay,236.4
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Kyzylorda,3059.1
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Mangistau,122.4
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Pavlodar,254.5
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Soltustik Kazakhstan,534.0
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Turkistan,1623.7
+2015,thousands hectares,Proportion of forest area within legally established protected areas,Shygys Kazakhstan,2005.3
+2015,thousands hectares,Proportion of forest area with a long-term management plan,,12652.4
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Akmola,380.3
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Aktobe,51.6
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Almaty,1870.6
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Atyrau,16.5
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Batys Kazakhstan,103.9
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Zhambyl,2240.6
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Karagandy,153.3
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Kostanay,236.4
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Kyzylorda,3059.1
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Mangistau,122.4
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Pavlodar,254.5
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Soltustik Kazakhstan,534.0
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Turkistan,1623.7
+2015,thousands hectares,Proportion of forest area with a long-term management plan,Shygys Kazakhstan,2005.3
 2016,thousands hectares,"Площадь территории, покрытой лесом",,12706.8
 2016,thousands hectares,"Площадь территории, покрытой лесом",Akmola,382.1
 2016,thousands hectares,"Площадь территории, покрытой лесом",Aktobe,51.7
@@ -464,21 +464,21 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2016,thousands hectares,"Площадь территории, покрытой лесом",Soltustik Kazakhstan,535.6
 2016,thousands hectares,"Площадь территории, покрытой лесом",Turkistan,1630.1
 2016,thousands hectares,"Площадь территории, покрытой лесом",Shygys Kazakhstan,2010.3
-2016,M_METER3,Запасы наземной биомассы в лесах,,412.2
-2016,M_METER3,Запасы наземной биомассы в лесах,Akmola,45.4
-2016,M_METER3,Запасы наземной биомассы в лесах,Aktobe,1.1
-2016,M_METER3,Запасы наземной биомассы в лесах,Almaty,40.7
-2016,M_METER3,Запасы наземной биомассы в лесах,Atyrau,0.5
-2016,M_METER3,Запасы наземной биомассы в лесах,Batys Kazakhstan,8.3
-2016,M_METER3,Запасы наземной биомассы в лесах,Zhambyl,3.4
-2016,M_METER3,Запасы наземной биомассы в лесах,Karagandy,4.6
-2016,M_METER3,Запасы наземной биомассы в лесах,Kostanay,15.5
-2016,M_METER3,Запасы наземной биомассы в лесах,Kyzylorda,5.9
-2016,M_METER3,Запасы наземной биомассы в лесах,Mangistau,0.1
-2016,M_METER3,Запасы наземной биомассы в лесах,Pavlodar,27.0
-2016,M_METER3,Запасы наземной биомассы в лесах,Soltustik Kazakhstan,52.0
-2016,M_METER3,Запасы наземной биомассы в лесах,Turkistan,3.1
-2016,M_METER3,Запасы наземной биомассы в лесах,Shygys Kazakhstan,204.6
+2016,M_METER3,Above-ground biomass in forest (tonnes),,412.2
+2016,M_METER3,Above-ground biomass in forest (tonnes),Akmola,45.4
+2016,M_METER3,Above-ground biomass in forest (tonnes),Aktobe,1.1
+2016,M_METER3,Above-ground biomass in forest (tonnes),Almaty,40.7
+2016,M_METER3,Above-ground biomass in forest (tonnes),Atyrau,0.5
+2016,M_METER3,Above-ground biomass in forest (tonnes),Batys Kazakhstan,8.3
+2016,M_METER3,Above-ground biomass in forest (tonnes),Zhambyl,3.4
+2016,M_METER3,Above-ground biomass in forest (tonnes),Karagandy,4.6
+2016,M_METER3,Above-ground biomass in forest (tonnes),Kostanay,15.5
+2016,M_METER3,Above-ground biomass in forest (tonnes),Kyzylorda,5.9
+2016,M_METER3,Above-ground biomass in forest (tonnes),Mangistau,0.1
+2016,M_METER3,Above-ground biomass in forest (tonnes),Pavlodar,27.0
+2016,M_METER3,Above-ground biomass in forest (tonnes),Soltustik Kazakhstan,52.0
+2016,M_METER3,Above-ground biomass in forest (tonnes),Turkistan,3.1
+2016,M_METER3,Above-ground biomass in forest (tonnes),Shygys Kazakhstan,204.6
 2016,Percent,Изменение чистой площади лесов,,54.39999999999964
 2016,Percent,Изменение чистой площади лесов,Akmola,1.8000000000000114
 2016,Percent,Изменение чистой площади лесов,Aktobe,0.1000000000000014
@@ -494,36 +494,36 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2016,Percent,Изменение чистой площади лесов,Soltustik Kazakhstan,1.6000000000000227
 2016,Percent,Изменение чистой площади лесов,Turkistan,6.399999999999864
 2016,Percent,Изменение чистой площади лесов,Shygys Kazakhstan,5.0
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",,12706.8
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Akmola,382.1
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Aktobe,51.7
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Almaty,1882.3
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Atyrau,16.5
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Batys Kazakhstan,106.0
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Zhambyl,2240.7
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Karagandy,153.3
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kostanay,238.2
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kyzylorda,3080.3
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Mangistau,122.4
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Pavlodar,257.1
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Soltustik Kazakhstan,535.6
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Turkistan,1630.1
-2016,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Shygys Kazakhstan,2010.3
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",,12706.8
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Akmola,382.1
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Aktobe,51.7
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Almaty,1882.3
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Atyrau,16.5
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Batys Kazakhstan,106.0
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Zhambyl,2240.7
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Karagandy,153.3
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kostanay,238.2
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kyzylorda,3080.3
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Mangistau,122.4
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Pavlodar,257.1
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Soltustik Kazakhstan,535.6
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Turkistan,1630.1
-2016,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Shygys Kazakhstan,2010.3
+2016,thousands hectares,Proportion of forest area within legally established protected areas,,12706.8
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Akmola,382.1
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Aktobe,51.7
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Almaty,1882.3
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Atyrau,16.5
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Batys Kazakhstan,106.0
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Zhambyl,2240.7
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Karagandy,153.3
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Kostanay,238.2
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Kyzylorda,3080.3
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Mangistau,122.4
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Pavlodar,257.1
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Soltustik Kazakhstan,535.6
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Turkistan,1630.1
+2016,thousands hectares,Proportion of forest area within legally established protected areas,Shygys Kazakhstan,2010.3
+2016,thousands hectares,Proportion of forest area with a long-term management plan,,12706.8
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Akmola,382.1
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Aktobe,51.7
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Almaty,1882.3
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Atyrau,16.5
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Batys Kazakhstan,106.0
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Zhambyl,2240.7
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Karagandy,153.3
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Kostanay,238.2
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Kyzylorda,3080.3
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Mangistau,122.4
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Pavlodar,257.1
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Soltustik Kazakhstan,535.6
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Turkistan,1630.1
+2016,thousands hectares,Proportion of forest area with a long-term management plan,Shygys Kazakhstan,2010.3
 2017,thousands hectares,"Площадь территории, покрытой лесом",,12903.5
 2017,thousands hectares,"Площадь территории, покрытой лесом",Akmola,382.1
 2017,thousands hectares,"Площадь территории, покрытой лесом",Aktobe,51.9
@@ -539,21 +539,21 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2017,thousands hectares,"Площадь территории, покрытой лесом",Soltustik Kazakhstan,537.2
 2017,thousands hectares,"Площадь территории, покрытой лесом",Turkistan,1639.2
 2017,thousands hectares,"Площадь территории, покрытой лесом",Shygys Kazakhstan,2015.3
-2017,M_METER3,Запасы наземной биомассы в лесах,,421.8
-2017,M_METER3,Запасы наземной биомассы в лесах,Akmola,44.7
-2017,M_METER3,Запасы наземной биомассы в лесах,Aktobe,1.1
-2017,M_METER3,Запасы наземной биомассы в лесах,Almaty,49.4
-2017,M_METER3,Запасы наземной биомассы в лесах,Atyrau,0.5
-2017,M_METER3,Запасы наземной биомассы в лесах,Batys Kazakhstan,7.7
-2017,M_METER3,Запасы наземной биомассы в лесах,Zhambyl,3.4
-2017,M_METER3,Запасы наземной биомассы в лесах,Karagandy,5.5
-2017,M_METER3,Запасы наземной биомассы в лесах,Kostanay,17.3
-2017,M_METER3,Запасы наземной биомассы в лесах,Kyzylorda,5.9
-2017,M_METER3,Запасы наземной биомассы в лесах,Mangistau,0.1
-2017,M_METER3,Запасы наземной биомассы в лесах,Pavlodar,26.9
-2017,M_METER3,Запасы наземной биомассы в лесах,Soltustik Kazakhstan,49.6
-2017,M_METER3,Запасы наземной биомассы в лесах,Turkistan,3.2
-2017,M_METER3,Запасы наземной биомассы в лесах,Shygys Kazakhstan,206.5
+2017,M_METER3,Above-ground biomass in forest (tonnes),,421.8
+2017,M_METER3,Above-ground biomass in forest (tonnes),Akmola,44.7
+2017,M_METER3,Above-ground biomass in forest (tonnes),Aktobe,1.1
+2017,M_METER3,Above-ground biomass in forest (tonnes),Almaty,49.4
+2017,M_METER3,Above-ground biomass in forest (tonnes),Atyrau,0.5
+2017,M_METER3,Above-ground biomass in forest (tonnes),Batys Kazakhstan,7.7
+2017,M_METER3,Above-ground biomass in forest (tonnes),Zhambyl,3.4
+2017,M_METER3,Above-ground biomass in forest (tonnes),Karagandy,5.5
+2017,M_METER3,Above-ground biomass in forest (tonnes),Kostanay,17.3
+2017,M_METER3,Above-ground biomass in forest (tonnes),Kyzylorda,5.9
+2017,M_METER3,Above-ground biomass in forest (tonnes),Mangistau,0.1
+2017,M_METER3,Above-ground biomass in forest (tonnes),Pavlodar,26.9
+2017,M_METER3,Above-ground biomass in forest (tonnes),Soltustik Kazakhstan,49.6
+2017,M_METER3,Above-ground biomass in forest (tonnes),Turkistan,3.2
+2017,M_METER3,Above-ground biomass in forest (tonnes),Shygys Kazakhstan,206.5
 2017,Percent,Изменение чистой площади лесов,,196.70000000000076
 2017,Percent,Изменение чистой площади лесов,Akmola,0.0
 2017,Percent,Изменение чистой площади лесов,Aktobe,0.1999999999999957
@@ -569,36 +569,36 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2017,Percent,Изменение чистой площади лесов,Soltustik Kazakhstan,1.6000000000000227
 2017,Percent,Изменение чистой площади лесов,Turkistan,9.100000000000136
 2017,Percent,Изменение чистой площади лесов,Shygys Kazakhstan,5.0
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",,12903.5
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Akmola,382.1
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Aktobe,51.9
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Almaty,1928.7
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Atyrau,16.6
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Batys Kazakhstan,91.2
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Zhambyl,2361.3
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Karagandy,153.5
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kostanay,240.0
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kyzylorda,3103.2
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Mangistau,125.1
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Pavlodar,258.4
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Soltustik Kazakhstan,537.2
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Turkistan,1639.2
-2017,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Shygys Kazakhstan,2015.3
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",,12903.5
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Akmola,382.1
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Aktobe,51.9
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Almaty,1928.7
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Atyrau,16.6
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Batys Kazakhstan,91.2
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Zhambyl,2361.3
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Karagandy,153.5
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kostanay,240.0
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kyzylorda,3103.2
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Mangistau,125.1
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Pavlodar,258.4
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Soltustik Kazakhstan,537.2
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Turkistan,1639.2
-2017,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Shygys Kazakhstan,2015.3
+2017,thousands hectares,Proportion of forest area within legally established protected areas,,12903.5
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Akmola,382.1
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Aktobe,51.9
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Almaty,1928.7
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Atyrau,16.6
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Batys Kazakhstan,91.2
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Zhambyl,2361.3
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Karagandy,153.5
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Kostanay,240.0
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Kyzylorda,3103.2
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Mangistau,125.1
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Pavlodar,258.4
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Soltustik Kazakhstan,537.2
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Turkistan,1639.2
+2017,thousands hectares,Proportion of forest area within legally established protected areas,Shygys Kazakhstan,2015.3
+2017,thousands hectares,Proportion of forest area with a long-term management plan,,12903.5
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Akmola,382.1
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Aktobe,51.9
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Almaty,1928.7
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Atyrau,16.6
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Batys Kazakhstan,91.2
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Zhambyl,2361.3
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Karagandy,153.5
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Kostanay,240.0
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Kyzylorda,3103.2
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Mangistau,125.1
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Pavlodar,258.4
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Soltustik Kazakhstan,537.2
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Turkistan,1639.2
+2017,thousands hectares,Proportion of forest area with a long-term management plan,Shygys Kazakhstan,2015.3
 2018,thousands hectares,"Площадь территории, покрытой лесом",,12933.1
 2018,thousands hectares,"Площадь территории, покрытой лесом",Akmola,383.8
 2018,thousands hectares,"Площадь территории, покрытой лесом",Aktobe,52.5
@@ -614,21 +614,21 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2018,thousands hectares,"Площадь территории, покрытой лесом",Soltustik Kazakhstan,538.5
 2018,thousands hectares,"Площадь территории, покрытой лесом",Turkistan,1654.4
 2018,thousands hectares,"Площадь территории, покрытой лесом",Shygys Kazakhstan,2020.9
-2018,M_METER3,Запасы наземной биомассы в лесах,,428.6
-2018,M_METER3,Запасы наземной биомассы в лесах,Akmola,45.5
-2018,M_METER3,Запасы наземной биомассы в лесах,Aktobe,1.2
-2018,M_METER3,Запасы наземной биомассы в лесах,Almaty,50.6
-2018,M_METER3,Запасы наземной биомассы в лесах,Atyrau,0.4
-2018,M_METER3,Запасы наземной биомассы в лесах,Batys Kazakhstan,7.9
-2018,M_METER3,Запасы наземной биомассы в лесах,Zhambyl,3.6
-2018,M_METER3,Запасы наземной биомассы в лесах,Karagandy,5.6
-2018,M_METER3,Запасы наземной биомассы в лесах,Kostanay,17.5
-2018,M_METER3,Запасы наземной биомассы в лесах,Kyzylorda,6.2
-2018,M_METER3,Запасы наземной биомассы в лесах,Mangistau,0.1
-2018,M_METER3,Запасы наземной биомассы в лесах,Pavlodar,27.4
-2018,M_METER3,Запасы наземной биомассы в лесах,Soltustik Kazakhstan,50.2
-2018,M_METER3,Запасы наземной биомассы в лесах,Turkistan,3.3
-2018,M_METER3,Запасы наземной биомассы в лесах,Shygys Kazakhstan,209.3
+2018,M_METER3,Above-ground biomass in forest (tonnes),,428.6
+2018,M_METER3,Above-ground biomass in forest (tonnes),Akmola,45.5
+2018,M_METER3,Above-ground biomass in forest (tonnes),Aktobe,1.2
+2018,M_METER3,Above-ground biomass in forest (tonnes),Almaty,50.6
+2018,M_METER3,Above-ground biomass in forest (tonnes),Atyrau,0.4
+2018,M_METER3,Above-ground biomass in forest (tonnes),Batys Kazakhstan,7.9
+2018,M_METER3,Above-ground biomass in forest (tonnes),Zhambyl,3.6
+2018,M_METER3,Above-ground biomass in forest (tonnes),Karagandy,5.6
+2018,M_METER3,Above-ground biomass in forest (tonnes),Kostanay,17.5
+2018,M_METER3,Above-ground biomass in forest (tonnes),Kyzylorda,6.2
+2018,M_METER3,Above-ground biomass in forest (tonnes),Mangistau,0.1
+2018,M_METER3,Above-ground biomass in forest (tonnes),Pavlodar,27.4
+2018,M_METER3,Above-ground biomass in forest (tonnes),Soltustik Kazakhstan,50.2
+2018,M_METER3,Above-ground biomass in forest (tonnes),Turkistan,3.3
+2018,M_METER3,Above-ground biomass in forest (tonnes),Shygys Kazakhstan,209.3
 2018,Percent,Изменение чистой площади лесов,,29.600000000000364
 2018,Percent,Изменение чистой площади лесов,Akmola,1.6999999999999886
 2018,Percent,Изменение чистой площади лесов,Aktobe,0.6000000000000014
@@ -644,36 +644,36 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2018,Percent,Изменение чистой площади лесов,Soltustik Kazakhstan,1.2999999999999543
 2018,Percent,Изменение чистой площади лесов,Turkistan,15.200000000000044
 2018,Percent,Изменение чистой площади лесов,Shygys Kazakhstan,5.600000000000136
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",,12933.1
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Akmola,383.8
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Aktobe,52.5
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Almaty,1949.5
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Atyrau,18.7
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Batys Kazakhstan,91.1
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Zhambyl,2323.1
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Karagandy,153.6
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kostanay,241.3
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kyzylorda,3118.9
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Mangistau,125.2
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Pavlodar,261.6
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Soltustik Kazakhstan,538.5
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Turkistan,1654.4
-2018,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Shygys Kazakhstan,2020.9
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",,12933.1
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Akmola,383.8
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Aktobe,52.5
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Almaty,1949.5
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Atyrau,18.7
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Batys Kazakhstan,91.1
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Zhambyl,2323.1
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Karagandy,153.6
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kostanay,241.3
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kyzylorda,3118.9
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Mangistau,125.2
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Pavlodar,261.6
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Soltustik Kazakhstan,538.5
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Turkistan,1654.4
-2018,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Shygys Kazakhstan,2020.9
+2018,thousands hectares,Proportion of forest area within legally established protected areas,,12933.1
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Akmola,383.8
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Aktobe,52.5
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Almaty,1949.5
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Atyrau,18.7
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Batys Kazakhstan,91.1
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Zhambyl,2323.1
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Karagandy,153.6
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Kostanay,241.3
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Kyzylorda,3118.9
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Mangistau,125.2
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Pavlodar,261.6
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Soltustik Kazakhstan,538.5
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Turkistan,1654.4
+2018,thousands hectares,Proportion of forest area within legally established protected areas,Shygys Kazakhstan,2020.9
+2018,thousands hectares,Proportion of forest area with a long-term management plan,,12933.1
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Akmola,383.8
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Aktobe,52.5
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Almaty,1949.5
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Atyrau,18.7
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Batys Kazakhstan,91.1
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Zhambyl,2323.1
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Karagandy,153.6
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Kostanay,241.3
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Kyzylorda,3118.9
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Mangistau,125.2
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Pavlodar,261.6
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Soltustik Kazakhstan,538.5
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Turkistan,1654.4
+2018,thousands hectares,Proportion of forest area with a long-term management plan,Shygys Kazakhstan,2020.9
 2019,thousands hectares,"Площадь территории, покрытой лесом",,13121.8
 2019,thousands hectares,"Площадь территории, покрытой лесом",Akmola,384.2
 2019,thousands hectares,"Площадь территории, покрытой лесом",Aktobe,56.3
@@ -689,21 +689,21 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2019,thousands hectares,"Площадь территории, покрытой лесом",Soltustik Kazakhstan,540.4
 2019,thousands hectares,"Площадь территории, покрытой лесом",Turkistan,1665.6
 2019,thousands hectares,"Площадь территории, покрытой лесом",Shygys Kazakhstan,2029.1
-2019,M_METER3,Запасы наземной биомассы в лесах,,435.8
-2019,M_METER3,Запасы наземной биомассы в лесах,Akmola,46.0
-2019,M_METER3,Запасы наземной биомассы в лесах,Aktobe,1.2
-2019,M_METER3,Запасы наземной биомассы в лесах,Almaty,51.9
-2019,M_METER3,Запасы наземной биомассы в лесах,Atyrau,0.4
-2019,M_METER3,Запасы наземной биомассы в лесах,Batys Kazakhstan,7.9
-2019,M_METER3,Запасы наземной биомассы в лесах,Zhambyl,3.7
-2019,M_METER3,Запасы наземной биомассы в лесах,Karagandy,5.7
-2019,M_METER3,Запасы наземной биомассы в лесах,Kostanay,17.7
-2019,M_METER3,Запасы наземной биомассы в лесах,Kyzylorda,6.5
-2019,M_METER3,Запасы наземной биомассы в лесах,Mangistau,0.1
-2019,M_METER3,Запасы наземной биомассы в лесах,Pavlodar,28.0
-2019,M_METER3,Запасы наземной биомассы в лесах,Soltustik Kazakhstan,51.0
-2019,M_METER3,Запасы наземной биомассы в лесах,Turkistan,3.4
-2019,M_METER3,Запасы наземной биомассы в лесах,Shygys Kazakhstan,212.3
+2019,M_METER3,Above-ground biomass in forest (tonnes),,435.8
+2019,M_METER3,Above-ground biomass in forest (tonnes),Akmola,46.0
+2019,M_METER3,Above-ground biomass in forest (tonnes),Aktobe,1.2
+2019,M_METER3,Above-ground biomass in forest (tonnes),Almaty,51.9
+2019,M_METER3,Above-ground biomass in forest (tonnes),Atyrau,0.4
+2019,M_METER3,Above-ground biomass in forest (tonnes),Batys Kazakhstan,7.9
+2019,M_METER3,Above-ground biomass in forest (tonnes),Zhambyl,3.7
+2019,M_METER3,Above-ground biomass in forest (tonnes),Karagandy,5.7
+2019,M_METER3,Above-ground biomass in forest (tonnes),Kostanay,17.7
+2019,M_METER3,Above-ground biomass in forest (tonnes),Kyzylorda,6.5
+2019,M_METER3,Above-ground biomass in forest (tonnes),Mangistau,0.1
+2019,M_METER3,Above-ground biomass in forest (tonnes),Pavlodar,28.0
+2019,M_METER3,Above-ground biomass in forest (tonnes),Soltustik Kazakhstan,51.0
+2019,M_METER3,Above-ground biomass in forest (tonnes),Turkistan,3.4
+2019,M_METER3,Above-ground biomass in forest (tonnes),Shygys Kazakhstan,212.3
 2019,Percent,Изменение чистой площади лесов,,188.6999999999989
 2019,Percent,Изменение чистой площади лесов,Akmola,0.4
 2019,Percent,Изменение чистой площади лесов,Aktobe,3.8
@@ -719,33 +719,33 @@ Year,UNIT_MEASURE,Виды подпоказателей,Regions,Value
 2019,Percent,Изменение чистой площади лесов,Soltustik Kazakhstan,1.9
 2019,Percent,Изменение чистой площади лесов,Turkistan,11.2
 2019,Percent,Изменение чистой площади лесов,Shygys Kazakhstan,8.2
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",,13121.8
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Akmola,384.2
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Aktobe,56.3
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Almaty,2104.2
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Atyrau,18.7
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Batys Kazakhstan,91.2
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Zhambyl,2297.9
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Karagandy,152.3
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kostanay,242.2
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Kyzylorda,3146.7
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Mangistau,125.4
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Pavlodar,267.5
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Soltustik Kazakhstan,540.4
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Turkistan,1665.6
-2019,thousands hectares,"Доля лесной площади, находящейся в охраняемых законом зонах",Shygys Kazakhstan,2029.1
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",,13121.8
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Akmola,384.2
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Aktobe,56.3
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Almaty,2104.2
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Atyrau,18.7
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Batys Kazakhstan,91.2
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Zhambyl,2297.9
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Karagandy,152.3
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kostanay,242.2
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Kyzylorda,3146.7
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Mangistau,125.4
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Pavlodar,267.5
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Soltustik Kazakhstan,540.4
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Turkistan,1665.6
-2019,thousands hectares,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",Shygys Kazakhstan,2029.1
+2019,thousands hectares,Proportion of forest area within legally established protected areas,,13121.8
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Akmola,384.2
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Aktobe,56.3
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Almaty,2104.2
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Atyrau,18.7
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Batys Kazakhstan,91.2
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Zhambyl,2297.9
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Karagandy,152.3
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Kostanay,242.2
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Kyzylorda,3146.7
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Mangistau,125.4
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Pavlodar,267.5
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Soltustik Kazakhstan,540.4
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Turkistan,1665.6
+2019,thousands hectares,Proportion of forest area within legally established protected areas,Shygys Kazakhstan,2029.1
+2019,thousands hectares,Proportion of forest area with a long-term management plan,,13121.8
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Akmola,384.2
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Aktobe,56.3
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Almaty,2104.2
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Atyrau,18.7
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Batys Kazakhstan,91.2
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Zhambyl,2297.9
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Karagandy,152.3
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Kostanay,242.2
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Kyzylorda,3146.7
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Mangistau,125.4
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Pavlodar,267.5
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Soltustik Kazakhstan,540.4
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Turkistan,1665.6
+2019,thousands hectares,Proportion of forest area with a long-term management plan,Shygys Kazakhstan,2029.1

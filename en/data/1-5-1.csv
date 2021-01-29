@@ -1,41 +1,41 @@
-Year,UNIT_MEASURE,Виды жертв,Value
-2010,Number of individuals,пострадало,148.0
-2010,Number of individuals,пострадало на 100 000 человек,0.906
-2010,Number of individuals,в т.ч. погибло,54.0
-2010,Number of individuals,погибло на 100 000 человек,0.33
-2011,Number of individuals,пострадало,12.0
-2011,Number of individuals,пострадало на 100 000 человек,0.07
-2011,Number of individuals,в т.ч. погибло,5.0
-2011,Number of individuals,погибло на 100 000 человек,0.03
-2012,Number of individuals,пострадало,20.0
-2012,Number of individuals,пострадало на 100 000 человек,0.119
-2012,Number of individuals,в т.ч. погибло,15.0
-2012,Number of individuals,погибло на 100 000 человек,0.089
-2013,Number of individuals,пострадало,12.0
-2013,Number of individuals,пострадало на 100 000 человек,0.07
-2013,Number of individuals,в т.ч. погибло,3.0
-2013,Number of individuals,погибло на 100 000 человек,0.0176
-2014,Number of individuals,пострадало,19.0
-2014,Number of individuals,пострадало на 100 000 человек,0.109
-2014,Number of individuals,в т.ч. погибло,9.0
-2014,Number of individuals,погибло на 100 000 человек,0.52
-2015,Number of individuals,пострадало,8.0
-2015,Number of individuals,пострадало на 100 000 человек,0.045
-2015,Number of individuals,в т.ч. погибло,0.0
-2015,Number of individuals,погибло на 100 000 человек,0.0
-2016,Number of individuals,пострадало,8.0
-2016,Number of individuals,пострадало на 100 000 человек,0.045
-2016,Number of individuals,в т.ч. погибло,1.0
-2016,Number of individuals,погибло на 100 000 человек,0.005
-2017,Number of individuals,пострадало,35.0
-2017,Number of individuals,пострадало на 100 000 человек,0.194
-2017,Number of individuals,в т.ч. погибло,11.0
-2017,Number of individuals,погибло на 100 000 человек,0.061
-2018,Number of individuals,пострадало,8.0
-2018,Number of individuals,пострадало на 100 000 человек,0.044
-2018,Number of individuals,в т.ч. погибло,1.0
-2018,Number of individuals,погибло на 100 000 человек,0.005
-2019,Number of individuals,пострадало,9.0
-2019,Number of individuals,пострадало на 100 000 человек,0.048
-2019,Number of individuals,в т.ч. погибло,2.0
-2019,Number of individuals,погибло на 100 000 человек,0.011
+Year,UNIT_MEASURE,SERIES,Value
+2010,Number of individuals,Number of injured or ill people attributed to disasters,148.0
+2010,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population",0.906
+2010,Number of individuals,Number of deaths due to disaster,54.0
+2010,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population",0.33
+2011,Number of individuals,Number of injured or ill people attributed to disasters,12.0
+2011,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population",0.07
+2011,Number of individuals,Number of deaths due to disaster,5.0
+2011,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population",0.03
+2012,Number of individuals,Number of injured or ill people attributed to disasters,20.0
+2012,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population",0.119
+2012,Number of individuals,Number of deaths due to disaster,15.0
+2012,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population",0.089
+2013,Number of individuals,Number of injured or ill people attributed to disasters,12.0
+2013,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population",0.07
+2013,Number of individuals,Number of deaths due to disaster,3.0
+2013,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population",0.0176
+2014,Number of individuals,Number of injured or ill people attributed to disasters,19.0
+2014,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population",0.109
+2014,Number of individuals,Number of deaths due to disaster,9.0
+2014,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population",0.52
+2015,Number of individuals,Number of injured or ill people attributed to disasters,8.0
+2015,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population",0.045
+2015,Number of individuals,Number of deaths due to disaster,0.0
+2015,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population",0.0
+2016,Number of individuals,Number of injured or ill people attributed to disasters,8.0
+2016,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population",0.045
+2016,Number of individuals,Number of deaths due to disaster,1.0
+2016,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population",0.005
+2017,Number of individuals,Number of injured or ill people attributed to disasters,35.0
+2017,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population",0.194
+2017,Number of individuals,Number of deaths due to disaster,11.0
+2017,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population",0.061
+2018,Number of individuals,Number of injured or ill people attributed to disasters,8.0
+2018,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population",0.044
+2018,Number of individuals,Number of deaths due to disaster,1.0
+2018,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population",0.005
+2019,Number of individuals,Number of injured or ill people attributed to disasters,9.0
+2019,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population",0.048
+2019,Number of individuals,Number of deaths due to disaster,2.0
+2019,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population",0.011

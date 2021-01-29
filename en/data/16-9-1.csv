@@ -1,14 +1,14 @@
-Year,UNIT_MEASURE,Sex,Area,возраст,Regions,Value
+Year,UNIT_MEASURE,Sex,Area,Age,Regions,Value
 2010,Percent,,,,,99.7
 2010,Percent,,Population of urban areas,,,99.9
 2010,Percent,,Population of rural areas,,,99.6
 2010,Percent,Male,,,,99.8
 2010,Percent,Female,,,,99.7
-2010,Percent,,,0-11 месяцев,,99.1
-2010,Percent,,,12-23 месяцев,,99.9
-2010,Percent,,,24-35 месяцев,,99.9
-2010,Percent,,,36-47 месяцев,,99.9
-2010,Percent,,,48-59 месяцев,,100.0
+2010,Percent,,,under 1 year old,,99.1
+2010,Percent,,,M12T23,,99.9
+2010,Percent,,,M24T35,,99.9
+2010,Percent,,,36-47 months,,99.9
+2010,Percent,,,48-59 months,,100.0
 2010,Percent,,,,Akmola,98.8
 2010,Percent,,,,Aktobe,99.6
 2010,Percent,,,,Almaty,100.0
@@ -30,11 +30,11 @@ Year,UNIT_MEASURE,Sex,Area,возраст,Regions,Value
 2015,Percent,,Population of rural areas,,,99.5
 2015,Percent,Male,,,,99.7
 2015,Percent,Female,,,,99.7
-2015,Percent,,,0-11 месяцев,,98.7
-2015,Percent,,,12-23 месяцев,,100.0
-2015,Percent,,,24-35 месяцев,,100.0
-2015,Percent,,,36-47 месяцев,,99.8
-2015,Percent,,,48-59 месяцев,,100.0
+2015,Percent,,,under 1 year old,,98.7
+2015,Percent,,,M12T23,,100.0
+2015,Percent,,,M24T35,,100.0
+2015,Percent,,,36-47 months,,99.8
+2015,Percent,,,48-59 months,,100.0
 2015,Percent,,,,Akmola,100.0
 2015,Percent,,,,Aktobe,100.0
 2015,Percent,,,,Almaty,99.1

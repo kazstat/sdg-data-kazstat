@@ -1,12 +1,12 @@
-Year,UNIT_MEASURE,Area,Sex,возраст,Regions,Value
+Year,UNIT_MEASURE,Area,Sex,Age,Regions,Value
 2010,Percent,,,,,49.4
 2010,Percent,Population of urban areas,,,,48.9
 2010,Percent,Population of rural areas,,,,49.9
 2010,Percent,,Male,,,53.7
 2010,Percent,,Female,,,45.1
-2010,Percent,,,2-4,,47.6
-2010,Percent,,,5-9,,52.7
-2010,Percent,,,10-14,,47.4
+2010,Percent,,,Y2T4,,47.6
+2010,Percent,,,5 to 9 years old,,52.7
+2010,Percent,,,age: 10-14 years old,,47.4
 2010,Percent,,,,Akmola,59.7
 2010,Percent,,,,Aktobe,58.3
 2010,Percent,,,,Almaty,49.8
@@ -28,10 +28,10 @@ Year,UNIT_MEASURE,Area,Sex,возраст,Regions,Value
 2015,Percent,Population of rural areas,,,,53.5
 2015,Percent,,Male,,,55.2
 2015,Percent,,Female,,,49.9
-2015,Percent,,,1-2,,38.3
-2015,Percent,,,3-4,,53.2
-2015,Percent,,,5-9,,57.8
-2015,Percent,,,10-14,,53.9
+2015,Percent,,,Y1T2,,38.3
+2015,Percent,,,Y3T4,,53.2
+2015,Percent,,,5 to 9 years old,,57.8
+2015,Percent,,,age: 10-14 years old,,53.9
 2015,Percent,,,,Akmola,38.6
 2015,Percent,,,,Aktobe,30.2
 2015,Percent,,,,Almaty,65.0

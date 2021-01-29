@@ -10,7 +10,7 @@ Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2010,Percent,"Culture, sport, tourism, informational space",180.0928776818431
 2010,Percent,Fuel and energy systems based on subsurface resources,111.96780454237404
 2010,Percent,"Rural services, water services, forestry, fisheries, specially protected natural areas, environmental protection and wildlife, land relations",118.70395526157972
-2010,Percent,"Промышленность, архитектураная, градостраительная и строительная деятельность",94.5508959413938
+2010,Percent,_L_IND_BUILD,94.5508959413938
 2010,Percent,Transportion and communication,118.21332360945348
 2010,Percent,Other,201.5462431242597
 2010,Percent,Debt service,78.16694076545454
@@ -26,7 +26,7 @@ Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2011,Percent,"Culture, sport, tourism, informational space",157.55274872170807
 2011,Percent,Fuel and energy systems based on subsurface resources,129.27669897143582
 2011,Percent,"Rural services, water services, forestry, fisheries, specially protected natural areas, environmental protection and wildlife, land relations",119.30751267681528
-2011,Percent,"Промышленность, архитектураная, градостраительная и строительная деятельность",94.68650585534716
+2011,Percent,_L_IND_BUILD,94.68650585534716
 2011,Percent,Transportion and communication,105.79830038464532
 2011,Percent,Other,164.21777306981426
 2011,Percent,Debt service,91.7658194989178
@@ -42,7 +42,7 @@ Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2012,Percent,"Culture, sport, tourism, informational space",102.23244610591074
 2012,Percent,Fuel and energy systems based on subsurface resources,110.30472044892356
 2012,Percent,"Rural services, water services, forestry, fisheries, specially protected natural areas, environmental protection and wildlife, land relations",95.35995804132122
-2012,Percent,"Промышленность, архитектураная, градостраительная и строительная деятельность",101.764733260948
+2012,Percent,_L_IND_BUILD,101.764733260948
 2012,Percent,Transportion and communication,96.77354277080964
 2012,Percent,Other,234.28456065333452
 2012,Percent,Debt service,73.5689202408592
@@ -58,7 +58,7 @@ Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2013,Percent,"Culture, sport, tourism, informational space",106.68859926057884
 2013,Percent,Fuel and energy systems based on subsurface resources,101.94133903343776
 2013,Percent,"Rural services, water services, forestry, fisheries, specially protected natural areas, environmental protection and wildlife, land relations",96.53643048921876
-2013,Percent,"Промышленность, архитектураная, градостраительная и строительная деятельность",96.27237997216162
+2013,Percent,_L_IND_BUILD,96.27237997216162
 2013,Percent,Transportion and communication,102.42075941094213
 2013,Percent,Other,68.22846072436299
 2013,Percent,Debt service,82.7343493196303
@@ -74,7 +74,7 @@ Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2014,Percent,"Culture, sport, tourism, informational space",92.86933742183278
 2014,Percent,Fuel and energy systems based on subsurface resources,98.2532702759156
 2014,Percent,"Rural services, water services, forestry, fisheries, specially protected natural areas, environmental protection and wildlife, land relations",111.58569174176267
-2014,Percent,"Промышленность, архитектураная, градостраительная и строительная деятельность",120.78114879842626
+2014,Percent,_L_IND_BUILD,120.78114879842626
 2014,Percent,Transportion and communication,97.4296041766556
 2014,Percent,Other,164.62325817743871
 2014,Percent,Debt service,97.43988150637732
@@ -90,7 +90,7 @@ Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2015,Percent,"Culture, sport, tourism, informational space",88.09293120660637
 2015,Percent,Fuel and energy systems based on subsurface resources,104.62699947370464
 2015,Percent,"Rural services, water services, forestry, fisheries, specially protected natural areas, environmental protection and wildlife, land relations",105.45905297434504
-2015,Percent,"Промышленность, архитектураная, градостраительная и строительная деятельность",87.14829624052425
+2015,Percent,_L_IND_BUILD,87.14829624052425
 2015,Percent,Transportion and communication,88.25998177248557
 2015,Percent,Other,51.17522628141029
 2015,Percent,Debt service,97.9440750035439
@@ -106,7 +106,7 @@ Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2016,Percent,"Culture, sport, tourism, informational space",125.9603926458934
 2016,Percent,Fuel and energy systems based on subsurface resources,136.44927531720586
 2016,Percent,"Rural services, water services, forestry, fisheries, specially protected natural areas, environmental protection and wildlife, land relations",157.82245884830505
-2016,Percent,"Промышленность, архитектураная, градостраительная и строительная деятельность",106.77483890240448
+2016,Percent,_L_IND_BUILD,106.77483890240448
 2016,Percent,Transportion and communication,121.63578611086866
 2016,Percent,Other,99.65626329985886
 2016,Percent,Debt service,115.89086100184456
@@ -122,7 +122,7 @@ Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2017,Percent,"Culture, sport, tourism, informational space",139.95004979670492
 2017,Percent,Fuel and energy systems based on subsurface resources,179.43435814574283
 2017,Percent,"Rural services, water services, forestry, fisheries, specially protected natural areas, environmental protection and wildlife, land relations",134.19851782833072
-2017,Percent,"Промышленность, архитектураная, градостраительная и строительная деятельность",418.5977615951045
+2017,Percent,_L_IND_BUILD,418.5977615951045
 2017,Percent,Transportion and communication,116.94862367744145
 2017,Percent,Other,651.2480788074346
 2017,Percent,Debt service,87.73460401606549
@@ -138,7 +138,7 @@ Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2018,Percent,"Culture, sport, tourism, informational space",124.71816700927153
 2018,Percent,Fuel and energy systems based on subsurface resources,111.65499091321766
 2018,Percent,"Rural services, water services, forestry, fisheries, specially protected natural areas, environmental protection and wildlife, land relations",139.04173829785043
-2018,Percent,"Промышленность, архитектураная, градостраительная и строительная деятельность",245.26065399643596
+2018,Percent,_L_IND_BUILD,245.26065399643596
 2018,Percent,Transportion and communication,99.31347097709924
 2018,Percent,Other,98.20907504437623
 2018,Percent,Debt service,97.60866206263896
@@ -154,7 +154,7 @@ Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
 2019,Percent,"Culture, sport, tourism, informational space",110.9
 2019,Percent,Fuel and energy systems based on subsurface resources,139.8
 2019,Percent,"Rural services, water services, forestry, fisheries, specially protected natural areas, environmental protection and wildlife, land relations",99.9
-2019,Percent,"Промышленность, архитектураная, градостраительная и строительная деятельность",121.8
+2019,Percent,_L_IND_BUILD,121.8
 2019,Percent,Transportion and communication,104.5
 2019,Percent,Other,169.9
 2019,Percent,Debt service,101.1
