@@ -47,7 +47,7 @@ def get_value_by_label(dimension, label):
         row_value = row[dimension]
         row_label = row[dimension + ' Name']
         if row_label == label:
-            return row_value
+            return row_value.strip()
 
     raise Exception('Could not find ' + str(dimension) + '/' + str(label) + ' in codes list.')
 
