@@ -66,7 +66,7 @@ map_layers:
 
 docs_branding: Kazstat SDG data repository
 docs_intro: This is a summary of the resources available on this data service.
-  This data is used by <a href="http://brock.tips/sdg-site-kazstat-upgrade">the
+  This data is used by <a href="http://kazstat.github.io/sdg-site-kazstat">the
   Kazakhstan SDG national reporting platform</a>.
 docs_indicator_url: http://kazstat.github.io/sdg-site-kazstat/[id]/
 docs_translate_disaggregations: true
