@@ -81,3 +81,10 @@ indicator_options:
     - GeoCode
     - SERIES
     - UNIT_MEASURE
+
+sdmx_output:
+  extend_dsd: true
+  dsd_languages:
+    - ru
+    - en
+    - kk
