@@ -1,9 +1,9 @@
 Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
-M_METER3,млн.м3,M_METER3,M_METER3,30,2
+M_METER3,млн.м3,млн.м3,M_METER3,30,2
 M_T,млн.тонн,млн.тонна,millions tonnes,51,1
 M_TNG,млн.тенге,млн.теңге,million tenge,1,1
-M_USD,млн.долл.США,M_USD,M_USD,38,10
-METER3_TH_TNG,м³/тыс.тенге,METER3_TH_TNG,METER3_TH_TNG,3,1
+M_USD,млн.долл.США,млн АҚШ доллары,M_USD,38,10
+METER3_TH_TNG,м³/тыс.тенге,м3 / мың теңге,METER3_TH_TNG,3,1
 MG_CUB_METER,мг/метр куб,мг/текше метр,mg per cube meters,84,1
 million USD,млн.долларов США,млн.АҚШ доллар,millions of US dollars,1,1
 NUM_ATM_PER_100000_ADL,число банкоматов на 100 000 взрослых,100 000 ересекке шаққандағы банкоматтар саны,number of ATMs per 100 000 adults,1,1
@@ -20,10 +20,11 @@ PT_BY_2005,в процентах к 2005 году,2005 жылға пайызбе
 PT_IN_2010_PRICE,"процент, в ценах 2010 года",2010 жылғы бағаларда пайызбен,"percent, base year 2010",18,1
 PT_PREV_Y,в процентах к предыдущему году,өткен жылға пайызбен,PT_PREV_Y,43,5
 SQ_METER,кв.м.,шаршы метр,square meters,54,1
-T,тонн,T,tons,6,1
+T,тонн,тонна,tons,6,1
 TH_HA,тыс.гектар,мың.гектар,thousands hectares,72,4
 TH_PEOPLE,тыс.человек,мың.адам,thousand people,37,3
-TH_TNG,тыс.тенге,мың теңге,thousand of tenge,55,2
+TH_TNG,тыс.тенге,мың теңге,thousand of tenge,36,1
 TH_UNITS,тыс.единиц,мың бірлік,thousands,57,1
 UNITS,единиц,бірлік,units,5,4
 USD_IN_2010_PRICE,"в долларах США, в ценах 2010 года","2010 жылғы бағаларда, АҚШ доллар",tenge per US dollars in 2010 prices,17,1
+тыс.тенге,тыс.тенге,тыс.тенге,тыс.тенге,19,1

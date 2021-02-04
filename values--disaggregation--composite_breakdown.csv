@@ -14,7 +14,7 @@ _L_BI_SST,Социальный налог,Әлеуметтік салық,Social
 _L_BI_VAT,Налог на добавленную стоимость,Қосылған құн салығы,Value added tax,1,1
 _L_BI_VT,Hалог на транспортные средства,Көлiк құралдарына салынатын салық,Vehicle Tax,1,1
 _L_BUD_EXP_CSTIS,"Культура, спорт, туризм и информационное пространство","Мәдениет, спорт, туризм және ақпараттық кеңістiк","Culture, sport, tourism, informational space",1,1
-_L_BUD_EXP_DBS,Обслуживание долга,Борышқа  қызмет көрсету,Debt service,1,1
+_L_BUD_EXP_DBS,Обслуживание долга,Борышқа қызмет көрсету,Debt service,1,1
 _L_BUD_EXP_DEF,Оборона,Қорғаныс,Defence,1,1
 _L_BUD_EXP_EDU,Образование,Білім беру,Education,1,1
 _L_BUD_EXP_FES_SR,Топливно-энергетический комплекс недропользования,Отын-энергетика кешенi және жер қойнауын пайдалану,Fuel and energy systems based on subsurface resources,1,1
@@ -67,8 +67,8 @@ _L_TVL_RPATT_OTHSEXVL,попытка изнасилования или иное 
 _L_TVL_SEX_HARSS,сексуальное насилие,сексуалдық зорлық,Sexual harassment,4,1
 SKILL_ICTATCH,"Отправка элекронной почты с вложенными файлами (документ, фотография, видео)",SKILL_ICTATCH,Skill: ICT Skill: Sending e-mails with attached files,36,1
 SKILL_ICTCDV,"Подключение и установка новых устройств (принтер, модем и другие)","Жаңа құрылғыларды қосу және орнату (принтер, модем және басқалар)","Connecting and installing new devices (printer, modem, and others)",36,1
-SKILL_ICTCMFL,Копирование или перенос файла или папки,Файлды немесе  папканы көшіру немесе жіберу,Copying or transferring a file or folder,36,1
-SKILL_ICTCPT,Использование инструментов копирования и вставки информации или части информации для получения копий или перемещения информации в документе,Құжаттың көшірмесін алу немесе құжаттағы  ақпараттың орнын ауыстыру үшін ақпаратты көшіру және кірістіру құралдарын немесе ақпараттың бір бөлігін пайдалану,Using the copy and paste tools for information or part of information to get copies or move information in a document,36,1
+SKILL_ICTCMFL,Копирование или перенос файла или папки,Файлды немесе папканы көшіру немесе жіберу,Copying or transferring a file or folder,36,1
+SKILL_ICTCPT,Использование инструментов копирования и вставки информации или части информации для получения копий или перемещения информации в документе,Құжаттың көшірмесін алу немесе құжаттағы ақпараттың орнын ауыстыру үшін ақпаратты көшіру және кірістіру құралдарын немесе ақпараттың бір бөлігін пайдалану,Using the copy and paste tools for information or part of information to get copies or move information in a document,36,1
 SKILL_ICTPRGM,Разработка компьютерных программ с использованием специального программного языка,Арнайы бағдарламалық тілді пайдалану арқылы компьютерлік бағдарламаларды әзірлеу,Development of computer programs using a special software language,36,1
 SKILL_ICTPST,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",SKILL_ICTPST,Skill: ICT Skill: Creating electronic presentations with presentation software,36,1
 SKILL_ICTSFWR,"Поиск, загрузка и установка  программного обеспечения","Іздеу, бағдарламалық қамтамасыз етуді жүктеу және орнату","Skill: ICT Skill: Finding, downloading, installing and configuring software",36,1
