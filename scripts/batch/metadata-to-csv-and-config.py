@@ -74,11 +74,16 @@ def convert_metadata(metadata_file, config_file):
         if is_indicator_config(key):
             indicator_config[key] = meta[key]
         else:
-            indicator_metadata[key] = meta[key]
-            # Translate the key for the metadata mapping.
-            if key not in metadata_mapping:
+            translated_key = None
+            if key in metadata_mapping:
+                translated_key = metadata_mapping[key]
+            else:
                 translated_key = translation_helper.translate(key, language, ['metadata_fields', 'data'])
-                metadata_mapping[key] = translated_key
+                if translated_key != key:
+                    metadata_mapping[key] = translated_key
+
+            indicator_metadata[translated_key] = meta[key]
+
     # Write the metadata.
     if not indicator_metadata:
         indicator_metadata[''] = ''
