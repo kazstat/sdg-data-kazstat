@@ -80,6 +80,8 @@ def convert_metadata(metadata_file, config_file):
                 translated_key = translation_helper.translate(key, language, ['metadata_fields', 'data'])
                 metadata_mapping[key] = translated_key
     # Write the metadata.
+    if not indicator_metadata:
+        indicator_metadata[''] = ''
     df = pd.DataFrame({'field': indicator_metadata.keys(), 'value': indicator_metadata.values()})
     csv_metadata_file = metadata_file.replace('.md', '.csv')
     df.to_csv(csv_metadata_file, index=False, header=False, encoding='utf-8')
@@ -103,22 +105,20 @@ convert_folder(meta_path_folder, meta_path_folder_parent)
 df = pd.DataFrame({'field': metadata_mapping.values(), 'value': metadata_mapping.keys()})
 df.to_csv('metadata-mapping.csv', index=False, header=False, encoding='utf-8')
 
-# Update the data config.
-with open(config_file, 'w') as file:
-    data_config = yaml.load(file, Loader=yaml.FullLoader)
-    input_config = sdg.open_sdg.open_sdg_input_defaults()
-    if 'inputs' in data_config:
-        input_config = data_config['inputs']
-    for input_item in input_config:
-        if input_item['class'] != 'InputYamlMdMeta':
-            new_input_config.append(input_item)
-    new_input_config.append({
-        'class': 'InputCsvMeta',
-        'path_pattern': os.path.join(meta_path_folder, '*.csv')
-    })
-    new_input_config.append({
-        'class': 'InputYamlMeta',
-        'path_pattern': os.path.join(meta_path_folder_parent, 'indicator-config', '*.yml')
-    })
-    data_config['inputs'] = new_input_config
-    yaml.dump(data_config, file, allow_unicode=True)
+print("""
+Conversion complete!
+IMPORTANT: Please update your data configuration "inputs" section!
+If you do not have an "inputs" section, please add one.
+
+Here is an example:
+
+inputs:
+  - class: InputCsvData
+    path_pattern: data/*.csv
+  - class: InputYamlMeta
+    git: false
+    path_pattern: indicator-config/*.yml
+  - class: InputCsvMeta
+    git: false
+    path_pattern: meta/*.csv
+""")
