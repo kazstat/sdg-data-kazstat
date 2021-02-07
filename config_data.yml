@@ -20,7 +20,7 @@ translations:
     source: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: master
+    tag: 1.3.0-dev
   - class: TranslationInputYaml
     source: translations
 
@@ -88,3 +88,14 @@ sdmx_output:
     - ru
     - en
     - kk
+
+inputs:
+  - class: InputYamlMeta
+    git: false
+    path_pattern: indicator-config/*.yml
+  - class: InputCsvMeta
+    git: true
+    path_pattern: meta/*.csv
+    metadata_mapping: metadata-mapping.csv
+  - class: InputCsvData
+    path_pattern: data/*.csv
