@@ -1,0 +1,16 @@
+availability: '1'
+classification: '1'
+comments_limitations: comments_limitations.13-1-2
+computation_calculations: computation_calculations.13-1-2
+computation_definitions: computation_definitions.13-1-2
+customisation: meta.customisation-1
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-03.pdf
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (pdf 759kB)
+national_indicator_description: national_indicator_description.13-1-2
+source_active_1: true
+source_compilation_1: sources.13-1-2-source_compilation_1
+source_data_1: sources.13-1-2-source_data_1
+source_implementation_1: sources.13-1-2-source_implementation_1
+source_url_text_1: Link to source
+un_custodian_agency: UNISDR
+un_designated_tier: '2'

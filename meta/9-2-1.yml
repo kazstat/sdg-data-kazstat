@@ -1,0 +1,23 @@
+availability: 1
+classification: 2
+comments_limitations: comments_limitations.9-2-1
+computation_calculations: computation_calculations.9-2-1
+computation_definitions: computation_definitions.9-2-1
+customisation: meta.customisation-1
+goal_meta_link: 'https://unstats.un.org/sdgs/metadata/files/Metadata-09-02-01.pdf '
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 217
+  KB)
+indicator_available: national_indicators.9-2-1-title
+indicator_definition: Manufacturing value added (MVA) is the total value of goods
+  and services net of intermediate consumption. It is generally compiled as the sum
+  of the value added of all manufacturing activity units in operation in the reference
+  period. It can be presented in percentage to gross domestic product (GDP) as well
+  as per capita for any reference year. MVA growth rates are given at constant prices
+  (in Chained Volume Measures [CVM]).
+national_indicator_description: national_indicator_description.9-2-1
+source_active_1: true
+source_compilation_1: sources.9-2-1-source_compilation_1
+source_data_1: sources.9-2-1-source_data_1
+source_implementation_1: sources.9-2-1-source_implementation_1
+un_custodian_agency: United Nations Industrial Development Organization (UNIDO)
+un_designated_tier: '1'

@@ -1,0 +1,22 @@
+availability: null
+classification: 1
+comments_limitations: comments_limitations.14-5-1
+computation_calculations: computation_calculations.14-5-1
+computation_definitions: computation_definitions.14-5-1
+customisation: meta.customisation-3
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-14-05-01.pdf
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 293
+  KB)
+indicator_available: national_indicators.14-5-1-title
+indicator_definition: The indicator Coverage of protected areas in relation to marine
+  areas shows temporal trends in the mean percentage of each important site for marine
+  biodiversity (i.e., those that contribute significantly to the global persistence
+  of biodiversity) that is covered by designated protected areas.
+national_indicator_description: national_indicator_description.14-5-1
+source_active_1: true
+source_compilation_1: sources.14-5-1-source_compilation_1
+source_data_1: null
+source_implementation_1: sources.14-5-1-source_implementation_1
+un_custodian_agency: UN Environment World Conservation Monitoring Centre (UNEP-WCMC)
+  BirdLife International (BLI) International Union for Conservation of Nature (IUCN)
+un_designated_tier: '1'

@@ -4,25 +4,10 @@ prose:
   metadata:
     meta:
     ############ Page Data ############
-      - name: "title"
-        field:
-            element: text
-            label: "Page Title"
-            scope: page
-      - name: "sdg_goal"
+      - name: "goal_number"
         field:
             element: hidden
             label: "SDG Goal"
-            scope: page
-      - name: "permalink"
-        field:
-            element: hidden
-            label: "Permalink"
-            scope: page
-      - name: "layout"
-        field:
-            element: hidden
-            label: "Layout"
             scope: page
     ######### Global Metadata #########
       - name: "indicator_name"
@@ -30,17 +15,17 @@ prose:
             element: text
             label: "Indicator name"
             scope: global
-      - name: "indicator"
+      - name: "indicator_number"
         field:
             element: hidden
             label: "Indicator number"
             scope: global
-      - name: "target"
+      - name: "target_name"
         field:
             element: text
             label: "Target name"
             scope: global
-      - name: "target_id"
+      - name: "target_number"
         field:
             element: text
             label: "Target number"
@@ -76,16 +61,17 @@ prose:
         field:
             element: text
             label: "Availability"
-            scope: national
+            scope: data
       - name: classification
         field:
             element: text
             label: "Classification"
-            scope: national
+            scope: data
       - name: "customisation"
         field:
             element: select
             label: "Customisation"
+            translation_key: "metadata_fields.customisation"
             options:
               - name: '1'
                 value: 'meta.customisation-1'
@@ -100,7 +86,7 @@ prose:
                 value: 'meta.customisation-4'
                 translation_key: 'meta.customisation-4'
             scope: national
-      - name: "national_indicator_available"
+      - name: "indicator_available"
         field:
             element: text
             label: "Indicator available"
@@ -163,10 +149,13 @@ prose:
             options:
               - name: 'complete'
                 value: 'complete'
-              - name: 'inprogress'
-                value: 'inprogress'
+                translation_key: status.reported_online
               - name: 'notstarted'
                 value: 'notstarted'
+                translation_key: status.exploring_data_sources
+              - name: 'notapplicable'
+                value: 'notapplicable'
+                translation_key: status.not_applicable
             scope: data
       - name: data_non_statistical
         field:
@@ -181,12 +170,6 @@ prose:
             label: Footnote
             help: Footnotes appear under the chart and by data tables
             scope: data
-      - name: data_geocode_regex
-        field:
-            element: text
-            label: GeoCode Regular Expression
-            help: A regex on which geocodes to include
-            scope: data
       - name: data_keywords
         field:
             element: text
@@ -199,11 +182,6 @@ prose:
             label: Show the map when GeoCodes are present?
             help: If this box is checked then the prescence of a GeoCode field will trigger a map
             value: false
-            scope: data
-      - name: "indicator_sort_order"
-        field:
-            element: text
-            label: "Indicator display order (within Goal page)"
             scope: data
       ######### Chart Info #########
       - name: "graph_type"

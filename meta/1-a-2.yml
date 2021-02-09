@@ -1,0 +1,19 @@
+availability: 2
+classification: 2
+comments_limitations: comments_limitations.1-a-2
+computation_calculations: computation_calculations.1-a-2
+computation_definitions: computation_definitions.1-a-2
+customisation: meta.customisation-1
+goal_meta_link: https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-1.pdf
+goal_meta_link_text: TIER III - NO WORK PLAN
+indicator_available: national_indicators.1-a-2-title
+national_indicator_description: national_indicator_description.1-a-2
+source_active_1: true
+source_compilation_1: sources.1-a-2-source_compilation_1
+source_data_1: null
+source_implementation_1: sources.1-a-2-source_implementation_1
+un_custodian_agency: Discussions are occurring between the following organisations
+  International Labour Organization (ILO) United Nations Educational Scientific and
+  Cultural Organization - Institute for Statistics (UNESCO-UIS) and World Health Organization
+  (WHO)
+un_designated_tier: '3'

@@ -1,7 +1,8 @@
 # Administrators can edit any file.
 kz-userstat: administrator
 brockfanning: administrator
+ASholpan: administrator
+AigulZiff: administrator
+ainurchik: administrator
 # Each user can edit their assigned files or folders.
-ainurchik:
-  - data/*
-  - meta/*
+

@@ -1,0 +1,58 @@
+SE_ACS_CMPTR: PC's for education purposes
+SE_ACS_ELECT: electricity
+SE_ACS_H2O: sources of drinking water
+SE_ACS_INTNT: access to the internet for education purposes
+SE_ACS_SANIT: separate restrooms which meet minimum standards
+SG_GEN_LOCG: Local Representative Bodies (Maslikhats)
+SG_GEN_PARL: National Parliament (Mazhilis)
+SI_COV_MATNL: 'Number of Beneficiaries: (social benefits related to newborns and child
+  care of infants less than 1 year old)'
+SI_COV_UEMP: 'Number of Beneficiaries: (unemployment benefits)'
+SKILL_MATH: math skills
+SL_EMP_FTLINJUR: Fatal occupational injuries
+SL_EMP_INJUR: Work injury rate
+_L_KZ_010101_1A: 1.9 US dollars per day (based on PPP)
+_L_KZ_010101_1B: 3.2 US dollars per day (based on PPP)
+_L_KZ_010101_1C: 5.5 US dollars per day (based on PPP)
+_L_KZ_010301_1A: 'Number of Beneficiaries: (low-income individuals and households)'
+_L_KZ_020102_1A: Extreme food insecurity
+_L_KZ_020102_1B: Food insecurity (moderate and extreme)
+_L_KZ_030b01_1A: DTP Coverage (3 doses)
+_L_KZ_030b01_1B: Measles vaccine coverage (2 doses)
+_L_KZ_030b01_1C: Pneumococcal Conjugate Vaccine Coverage (3 doses)
+_L_KZ_040101_1A: i) literacy (based on gender)
+_L_KZ_040101_1B: ii) basic math skills (based on gender and 2nd grade)
+_L_KZ_040101_1C: ii) basic math skills (based on gender and 3rd grade)
+_L_KZ_040101_1D: math skills (based on gender and PISA)
+_L_KZ_040101_1E: math skills (based on gender and TIMSS)
+_L_KZ_050201_1A: During lifetime
+_L_KZ_050201_1B: In the last 12 months
+_L_KZ_070b01_1A: State-owned enterprises and organizations
+_L_KZ_070b01_1B: Companies and organizations owned by foreigners
+_L_KZ_070b01_1C: Private companies and organizations
+_L_KZ_090102_1A: Automobile
+_L_KZ_090102_1B: Inland water еransport
+_L_KZ_090102_1C: Water
+_L_KZ_090102_1D: Air
+_L_KZ_090102_1F: City electric transport
+_L_KZ_090102_1G: Railway
+_L_KZ_090102_1H: Railway transport
+_L_KZ_090102_1I: nautical
+_L_KZ_090102_1K: transported by air
+_L_KZ_090102_1L: Cargo transported by all means of transport
+_L_KZ_090102_1M: passengers transported by air
+_L_KZ_090102_1N: Passengers transported by all means of transport
+_L_KZ_090102_1O: indicators of maritime and coastal transport
+_L_KZ_090102_1P: performance indicators of pipeline transport
+_L_KZ_090102_1Q: Pipeline
+_L_KZ_090c01_1A: GSM standard (percentage of coverage by cellular network)
+_L_KZ_090c01_1B: UMTS standard (percentage of coverage by 3G mobile network)
+_L_KZ_110602_1A: suspended particles PM-10
+_L_KZ_110602_1B: PM2.5
+_L_KZ_160104_1A: Total security
+_L_KZ_160104_1B: Relatively safe
+_L_KZ_160104_1C: Not safe
+_L_KZ_171201_1A: developed countries
+_L_KZ_171201_1B: developing countries
+_L_KZ_DD_MSD: Rate of deviation from the norm (moderate and strong)
+_L_KZ_DD_SDD: Strong deviation from the norm

@@ -1,0 +1,21 @@
+availability: 1
+classification: 2
+comments_limitations: comments_limitations.2-a-1
+computation_calculations: computation_calculations.2-a-1
+computation_definitions: computation_definitions.2-a-1
+customisation: meta.customisation-1
+goal_meta_link: 'https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-01.pdf '
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 223
+  KB)
+indicator_definition: An Agriculture Orientation Index (AOI) greater than 1 reflects
+  a higher orientation towards the agriculture sector, which receives a higher share
+  of government spending relative to its contribution to economic value-added. An
+  AOI less than 1 reflects a lower orientation to agriculture, while an AOI equal
+  to 1 reflects neutrality in a government’s orientation to the agriculture sector.
+national_indicator_description: national_indicator_description.2-a-1
+source_active_1: true
+source_compilation_1: sources.2-a-1-source_compilation_1
+source_data_1: null
+source_implementation_1: sources.2-a-1-source_implementation_1
+un_custodian_agency: Food and Agricultural Organization (FAO)
+un_designated_tier: '2'

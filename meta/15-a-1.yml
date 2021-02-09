@@ -1,0 +1,18 @@
+availability: 1
+classification: 2
+comments_limitations: comments_limitations.15-a-1
+computation_calculations: computation_calculations.15-a-1
+computation_definitions: computation_definitions.15-a-1
+customisation: meta.customisation-1
+goal_meta_link: 'https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-15.pdf '
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 4.0
+  MB)
+indicator_definition: Total ODA flows to developing countries quantify the public
+  effort that donors provide to developing countries for biodiversity.
+national_indicator_description: national_indicator_description.15-a-1
+source_active_1: true
+source_compilation_1: sources.15-a-1-source_compilation_1
+source_data_1: null
+source_implementation_1: sources.15-a-1-source_implementation_1
+un_custodian_agency: Organisation for Economic Co-operation and Development (OECD)
+un_designated_tier: 1/3

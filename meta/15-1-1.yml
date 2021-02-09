@@ -1,0 +1,17 @@
+availability: 1
+classification: 1
+comments_limitations: comments_limitations.15-1-1
+computation_calculations: computation_calculations.15-1-1
+computation_definitions: computation_definitions.15-1-1
+customisation: meta.customisation-1
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-01.pdf
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 379
+  KB)
+indicator_definition: Forest area as a proportion of total land area
+national_indicator_description: national_indicator_description.15-1-1
+source_active_1: true
+source_compilation_1: sources.15-1-1-source_compilation_1
+source_data_1: null
+source_implementation_1: sources.15-1-1-source_implementation_1
+un_custodian_agency: Food and Agricultural Organization
+un_designated_tier: '1'

@@ -1,4 +1,9 @@
-Year,Units,Официальная помощь для развития,Value
-2015,млн.долларов США,Казахстан-получатель,0.013
-2016,млн.долларов США,Казахстан-получатель,2.399164
-2017,млн.долларов США,Казахстан-получатель,3.013826
+Year,UNIT_MEASURE,COMPOSITE_BREAKDOWN,Value
+2010,million USD,_L_ODA_RCP,1.00
+2011,million USD,_L_ODA_RCP,0.12
+2012,million USD,_L_ODA_RCP,0.53
+2013,million USD,_L_ODA_RCP,10.92
+2014,million USD,_L_ODA_RCP,0.22
+2015,million USD,_L_ODA_RCP,0.01
+2016,million USD,_L_ODA_RCP,2.40
+2017,million USD,_L_ODA_RCP,3.01
