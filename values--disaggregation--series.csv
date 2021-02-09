@@ -41,7 +41,6 @@ _L_KZ_DD_SDD,сильная степень отклонения от нормы,
 AG_LND_FRSTBIOM,Запасы наземной биомассы в лесах,AG_LND_FRSTBIOM,Above-ground biomass in forest (tonnes) [15.2.1],15,1
 AG_LND_FRSTMGT,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",AG_LND_FRSTMGT,Proportion of forest area with a long-term management plan [15.2.1],15,1
 AG_LND_FRSTPRCT,"Доля лесной площади, находящейся в охраняемых законом зонах",AG_LND_FRSTPRCT,Proportion of forest area within legally established protected areas [15.2.1],15,1
-SD_XPD_ESED,Образование,SD_XPD_ESED,"Proportion of total government spending on essential services, education [1.a.2]",1,1
 SE_ACS_H2O,базовыми источниками питьевой воды,базалық ауыз су көздерімен,sources of drinking water,1,1
 SE_ACS_INTNT,доступом к Интернету для учебных целей,Оқу мақсаттары үшін Интернетке қол жетімділікпен,access to the internet for education purposes,51,1
 SE_ACS_SANIT,раздельными минимально оборудованными туалетами,ең қарапайым деңгейде бөлек дәретханалармен,separate restrooms which meet minimum standards,17,1
@@ -55,8 +54,6 @@ SG_HAZ_CMRSTHOLM,Стокгольмская конвенция,SG_HAZ_CMRSTHOLM,
 SG_REG_BRTH90N,"b) регистрации рождений в 100 процентах случаев , включая детей беженцев, лиц ищущих убежища, недокументированных и лиц без гражданства",SG_REG_BRTH90N,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2],1,1
 SG_REG_CENSUSN,а) Казахстан провел хотя бы одну перепись населения и жилищного фонда в течение последних 10 лет,SG_REG_CENSUSN,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2],1,1
 SG_REG_DETH75N,b) регистрация смерти в 80 процентах случаев,SG_REG_DETH75N,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2],1,1
-SG_XPD_HLTH,Здравоохранение,SG_XPD_HLTH,Proportion of total government spending on health [1.a.2],1,1
-SG_XPD_PROT,Социальная помощь и социальное обеспечение,SG_XPD_PROT,Proportion of total government spending on social protection [1.a.2],1,1
 SI_COV_MATNL,Численность получателей пособий на рождение ребенка и по уходу за ребенком до 1 года,босану және бала 1 жасқа толғанға дейін оның күтімі бойынша жәрдемақы,Number of Beneficiaries: (social benefits related to newborns and child care of infants less than 1 year old),1,1
 SI_COV_UEMP,"Численность населения, охваченного социальными выплатами по причине потери работы",Жұмыстан айырылу себептерінен әлеуметтік төлемдермен қамтылған халықтың саны,Number of Beneficiaries: (unemployment benefits),1,1
 SKILL_MATH,навыков счета,есептеу машығы,math skills,35,1
@@ -83,7 +80,6 @@ VC_DSR_MTMP,погибло на 100 000 человек,VC_DSR_MTMP,"Number of de
 к органам прокуратуры,к органам прокуратуры,к органам прокуратуры,к органам прокуратуры,5,1
 к службе экономических расследований,к службе экономических расследований,к службе экономических расследований,к службе экономических расследований,5,1
 кулан,кулан,кулан,кулан,1,1
-"Культура, спорт, туризм и информационное пространство","Культура, спорт, туризм и информационное пространство","Культура, спорт, туризм и информационное пространство","Культура, спорт, туризм и информационное пространство",1,1
 наличие теплых и надворных туалетов,наличие теплых и надворных туалетов,наличие теплых и надворных туалетов,наличие теплых и надворных туалетов,18,1
 наличие только надворных туалетов,наличие только надворных туалетов,наличие только надворных туалетов,наличие только надворных туалетов,18,1
 наличие только теплых туалетов,наличие только теплых туалетов,наличие только теплых туалетов,наличие только теплых туалетов,18,1

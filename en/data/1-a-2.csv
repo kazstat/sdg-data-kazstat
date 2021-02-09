@@ -1,51 +1,51 @@
-Year,UNIT_MEASURE,SERIES,Value
-2010,Percent,,12.879391290466549
-2010,Percent,"Proportion of total government spending on essential services, education [1.a.2]",15.032089223853678
-2010,Percent,Proportion of total government spending on health [1.a.2],10.660044936937348
-2010,Percent,Proportion of total government spending on social protection [1.a.2],17.38849914962006
-2010,Percent,"Культура, спорт, туризм и информационное пространство",4.674086755666627
-2011,Percent,,10.970942137064547
-2011,Percent,"Proportion of total government spending on essential services, education [1.a.2]",16.23256845259948
-2011,Percent,Proportion of total government spending on health [1.a.2],9.975881694668445
-2011,Percent,Proportion of total government spending on social protection [1.a.2],18.064847120379625
-2011,Percent,"Культура, спорт, туризм и информационное пространство",3.8300772837431136
-2012,Percent,,11.271790081687811
-2012,Percent,"Proportion of total government spending on essential services, education [1.a.2]",17.07888868536047
-2012,Percent,Proportion of total government spending on health [1.a.2],10.319878786139665
-2012,Percent,Proportion of total government spending on social protection [1.a.2],17.48680903801979
-2012,Percent,"Культура, спорт, туризм и информационное пространство",3.3915565940129597
-2013,Percent,,10.43330055387468
-2013,Percent,"Proportion of total government spending on essential services, education [1.a.2]",16.568206430718003
-2013,Percent,Proportion of total government spending on health [1.a.2],10.647535033998697
-2013,Percent,Proportion of total government spending on social protection [1.a.2],18.48133051393149
-2013,Percent,"Культура, спорт, туризм и информационное пространство",3.463042162946373
-2014,Percent,,10.152958581524668
-2014,Percent,"Proportion of total government spending on essential services, education [1.a.2]",15.424364985315778
-2014,Percent,Proportion of total government spending on health [1.a.2],9.748240132586089
-2014,Percent,Proportion of total government spending on social protection [1.a.2],17.79149989467833
-2014,Percent,"Культура, спорт, туризм и информационное пространство",3.37623205254963
-2015,Percent,,10.386638926724082
-2015,Percent,"Proportion of total government spending on essential services, education [1.a.2]",15.258626583138971
-2015,Percent,Proportion of total government spending on health [1.a.2],9.65698792538526
-2015,Percent,Proportion of total government spending on social protection [1.a.2],19.26925098648875
-2015,Percent,"Культура, спорт, туризм и информационное пространство",3.283921876906349
-2016,Percent,,10.747463290098189
-2016,Percent,"Proportion of total government spending on essential services, education [1.a.2]",15.931042556063163
-2016,Percent,Proportion of total government spending on health [1.a.2],9.895937099282245
-2016,Percent,Proportion of total government spending on social protection [1.a.2],19.113938565429027
-2016,Percent,"Культура, спорт, туризм и информационное пространство",3.1091632412556818
-2017,Percent,,10.697367054408646
-2017,Percent,"Proportion of total government spending on essential services, education [1.a.2]",13.635310645432458
-2017,Percent,Proportion of total government spending on health [1.a.2],8.343091441308449
-2017,Percent,Proportion of total government spending on social protection [1.a.2],17.07748057738184
-2017,Percent,"Культура, спорт, туризм и информационное пространство",2.946921260688909
-2018,Percent,,10.760017273646314
-2018,Percent,"Proportion of total government spending on essential services, education [1.a.2]",15.860502347640647
-2018,Percent,Proportion of total government spending on health [1.a.2],9.549610680038718
-2018,Percent,Proportion of total government spending on social protection [1.a.2],22.41523862222382
-2018,Percent,"Культура, спорт, туризм и информационное пространство",3.656790741491672
-2019,Percent,,11.155350942031436
-2019,Percent,"Proportion of total government spending on essential services, education [1.a.2]",15.593223681390448
-2019,Percent,Proportion of total government spending on health [1.a.2],8.637585927722132
-2019,Percent,Proportion of total government spending on social protection [1.a.2],23.19304499666612
-2019,Percent,"Культура, спорт, туризм и информационное пространство",3.0504011577207844
+Year,UNIT_MEASURE,Государственные расходы,Value
+2010,Percent,,12.9
+2010,Percent,SD_XPD_ESED,15.0
+2010,Percent,SG_XPD_HLTH,10.7
+2010,Percent,SG_XPD_PROT,17.4
+2010,Percent,_L_KZ_010a02_1A,4.7
+2011,Percent,,11.0
+2011,Percent,SD_XPD_ESED,16.2
+2011,Percent,SG_XPD_HLTH,10.0
+2011,Percent,SG_XPD_PROT,18.1
+2011,Percent,_L_KZ_010a02_1A,3.8
+2012,Percent,,11.3
+2012,Percent,SD_XPD_ESED,17.1
+2012,Percent,SG_XPD_HLTH,10.3
+2012,Percent,SG_XPD_PROT,17.5
+2012,Percent,_L_KZ_010a02_1A,3.4
+2013,Percent,,10.4
+2013,Percent,SD_XPD_ESED,16.6
+2013,Percent,SG_XPD_HLTH,10.6
+2013,Percent,SG_XPD_PROT,18.5
+2013,Percent,_L_KZ_010a02_1A,3.5
+2014,Percent,,10.2
+2014,Percent,SD_XPD_ESED,15.4
+2014,Percent,SG_XPD_HLTH,9.7
+2014,Percent,SG_XPD_PROT,17.8
+2014,Percent,_L_KZ_010a02_1A,3.4
+2015,Percent,,10.4
+2015,Percent,SD_XPD_ESED,15.3
+2015,Percent,SG_XPD_HLTH,9.7
+2015,Percent,SG_XPD_PROT,19.3
+2015,Percent,_L_KZ_010a02_1A,3.3
+2016,Percent,,10.7
+2016,Percent,SD_XPD_ESED,15.9
+2016,Percent,SG_XPD_HLTH,9.9
+2016,Percent,SG_XPD_PROT,19.1
+2016,Percent,_L_KZ_010a02_1A,3.1
+2017,Percent,,10.7
+2017,Percent,SD_XPD_ESED,13.6
+2017,Percent,SG_XPD_HLTH,8.3
+2017,Percent,SG_XPD_PROT,17.1
+2017,Percent,_L_KZ_010a02_1A,2.9
+2018,Percent,,10.8
+2018,Percent,SD_XPD_ESED,15.9
+2018,Percent,SG_XPD_HLTH,9.5
+2018,Percent,SG_XPD_PROT,22.4
+2018,Percent,_L_KZ_010a02_1A,3.7
+2019,Percent,,11.2
+2019,Percent,SD_XPD_ESED,15.6
+2019,Percent,SG_XPD_HLTH,8.6
+2019,Percent,SG_XPD_PROT,23.2
+2019,Percent,_L_KZ_010a02_1A,3.1
