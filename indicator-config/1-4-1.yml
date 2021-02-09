@@ -1,0 +1,20 @@
+computation_units: null
+data_non_statistical: false
+data_show_map: false
+graph_title: global_indicators.1-4-1-title
+graph_type: line
+indicator_name: global_indicators.1-4-1-title
+indicator_number: 1.4.1
+page_content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nunc
+  metus, semper nec est ut, tempus mollis massa. Donec in [finibus nibh](https://example.com).
+  Ut enim ex, viverra ac sapien eu, tincidunt rhoncus metus. Sed feugiat egestas euismod.
+  Nunc eleifend fringilla sollicitudin. Nam tincidunt *semper magna in bibendum*.
+  Nam luctus commodo felis, et cursus odio semper et. Fusce finibus, quam vitae tincidunt
+  vulputate, metus justo tempus ex, eu pellentesque nunc elit ut turpis. Maecenas
+  quis justo ac est egestas pharetra. Suspendisse **accumsan mi diam**, vel aliquam
+  ligula ultricies nec. Nulla dui turpis, vehicula nec neque quis, efficitur tempus
+  orci. Quisque et viverra dolor. Vestibulum ultricies porta tincidunt. Nam molestie
+  nibh est, ac luctus nibh dictum porttitor. Cras placerat est nunc, at placerat justo
+  euismod vitae. Cras aliquam posuere nulla a aliquet.
+reporting_status: notstarted
+tags: []

@@ -1,0 +1,12 @@
+availability: 1
+classification: 2
+customisation: meta.customisation-1
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-01.pdf
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (pdf 865kB)
+indicator_available: national_indicators.3-7-1-title
+source_active_1: true
+source_compilation_1: sources.3-7-1-source_compilation_1
+source_data_1: sources.3-7-1-source_data_1
+source_implementation_1: sources.3-7-1-source_implementation_1
+un_custodian_agency: DESA Population Division
+un_designated_tier: '1'

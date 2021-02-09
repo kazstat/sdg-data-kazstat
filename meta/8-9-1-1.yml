@@ -1,0 +1,14 @@
+availability: '1'
+classification: '1'
+customisation: meta.customisation-2
+goal_meta_link: https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-8.pdf
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 526
+  KB)
+indicator_definition: Growth rate of GVA direct tourism
+source_active_1: true
+source_compilation_1: sources.8-9-1-1-source_compilation_1
+source_data_1: sources.8-9-1-1-source_data_1
+source_implementation_1: sources.8-9-1-1-source_implementation_1
+source_url_text_1: Link to source
+un_custodian_agency: World Tourism Organization (UNTWO)
+un_designated_tier: '2'

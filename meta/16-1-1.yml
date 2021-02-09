@@ -1,0 +1,14 @@
+availability: 1
+classification: 1
+customisation: meta.customisation-1
+goal_meta_link: 'https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-01.pdf '
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 222
+  KB)
+indicator_available: national_indicators.16-1-1-title
+source_active_1: true
+source_compilation_1: sources.16-1-1-source_compilation_1
+source_data_1: sources.16-1-1-source_data_1
+source_implementation_1: sources.16-1-1-source_implementation_1
+un_custodian_agency: United Nations Office on Drugs and Crime (UNODC) World Health
+  Organization (WHO)
+un_designated_tier: '1'

@@ -1,0 +1,15 @@
+availability: 1
+classification: 1
+customisation: meta.customisation-2
+goal_meta_link: 'https://unstats.un.org/sdgs/metadata/files/Metadata-07-02-01.pdf '
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 216
+  KB)
+indicator_available: national_indicators.7-2-1-title
+source_active_1: true
+source_compilation_1: sources.7-2-1-source_compilation_1
+source_data_1: sources.7-2-1-source_data_1
+source_implementation_1: sources.7-2-1-source_implementation_1
+un_custodian_agency: International Energy Agency (IEA) United Nations Statistics Division
+  (UNSD) United Nations' inter-agency mechanism on energy (UN Energy) and the SE4ALL
+  Global Tracking Framework Consortium
+un_designated_tier: '1'

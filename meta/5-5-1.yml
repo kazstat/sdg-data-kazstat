@@ -1,0 +1,14 @@
+availability: 1
+classification: 2
+customisation: meta.customisation-1
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01.pdf
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 4.0
+  MB)
+indicator_definition: Proportion of seats held by women in (a) national parliaments
+  and (b) local governments
+source_active_1: true
+source_compilation_1: sources.5-5-1-source_compilation_1
+source_data_1: sources.5-5-1-source_data_1
+source_implementation_1: sources.5-5-1-source_implementation_1
+un_custodian_agency: Inter-Parliamentary Union (IPU)
+un_designated_tier: 1/2

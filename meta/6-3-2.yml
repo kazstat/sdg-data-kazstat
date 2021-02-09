@@ -1,0 +1,17 @@
+availability: 1
+classification: 1
+customisation: meta.customisation-2
+goal_meta_link: 'https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-6.pdf '
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 4.0
+  MB)
+indicator_available: national_indicators.6-3-2-title
+indicator_definition: Proportion of water bodies (area) in a country with good ambient
+  water quality compared to all water bodies in the country. “Good” indicates an ambient
+  water quality that does not damage ecosystem function and human health according
+  to core ambient water quality indicators.
+source_active_1: true
+source_compilation_1: sources.6-3-2-source_compilation_1
+source_data_1: null
+source_implementation_1: sources.6-3-2-source_implementation_1
+un_custodian_agency: United Nations Environment Programme (UNEP) (GEMS/Water)
+un_designated_tier: '3'

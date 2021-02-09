@@ -1,0 +1,13 @@
+availability: 1
+classification: 1
+customisation: meta.customisation-2
+goal_meta_link: https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-8.pdf
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 317
+  KB)
+indicator_available: national_indicators.8-5-1-title
+source_active_1: true
+source_compilation_1: sources.8-5-1-source_compilation_1
+source_data_1: sources.8-5-1-source_data_1
+source_implementation_1: sources.8-5-1-source_implementation_1
+un_custodian_agency: International Labour Organization (ILO)
+un_designated_tier: '2'
