@@ -29,3 +29,9 @@ for key in translations:
     translation_file = os.path.join('translations', 'ru', filename)
     with open(translation_file, 'w') as stream:
         yaml.dump(translations[key], stream, allow_unicode=True)
+    translation_file = os.path.join('translations', 'en', filename)
+    with open(translation_file, 'w') as stream:
+        yaml.dump(translations[key], stream, allow_unicode=True)
+    translation_file = os.path.join('translations', 'kk', filename)
+    with open(translation_file, 'w') as stream:
+        yaml.dump(translations[key], stream, allow_unicode=True)
