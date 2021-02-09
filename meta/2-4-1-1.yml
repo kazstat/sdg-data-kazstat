@@ -1,7 +1,11 @@
 availability: '1'
 classification: '2'
+comments_limitations: comments_limitations.2-4-1-1
+computation_calculations: computation_calculations.2-4-1-1
+computation_definitions: computation_definitions.2-4-1-1
 customisation: meta.customisation-3
 goal_meta_link_text: UN metadata
+national_indicator_description: national_indicator_description.2-4-1-1
 source_active_1: true
 source_compilation_1: sources.2-4-1-1-source_compilation_1
 source_implementation_1: sources.2-4-1-1-source_implementation_1

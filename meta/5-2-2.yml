@@ -1,5 +1,8 @@
 availability: 1
 classification: 2
+comments_limitations: comments_limitations.5-2-2
+computation_calculations: computation_calculations.5-2-2
+computation_definitions: computation_definitions.5-2-2
 customisation: meta.customisation-2
 goal_meta_link: https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-5.pdf
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 294
@@ -8,6 +11,7 @@ indicator_available: national_indicators.5-2-2-title
 indicator_definition: Proportion of women and girls aged 15 years and older subjected
   to sexual violence by persons other than an intimate partner in the previous 12
   months, by age and place of occurrence
+national_indicator_description: national_indicator_description.5-2-2
 source_active_1: true
 source_compilation_1: sources.5-2-2-source_compilation_1
 source_data_1: sources.5-2-2-source_data_1

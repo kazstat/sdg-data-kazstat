@@ -1,11 +1,15 @@
 availability: '1'
 classification: '2'
+comments_limitations: comments_limitations.2-1-1
+computation_calculations: computation_calculations.2-1-1
+computation_definitions: computation_definitions.2-1-1
 customisation: meta.customisation-1
 goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-01.pdf
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (pdf 232kB)
 indicator_definition: Бұл кестеде БҰҰ Статистикалық комиссиясымен белгіленген ТДМ
   көрсеткіштерінің метадеректері үшін ақпарат ұсынылған. Толық жаһандық метадеректер
   БҰҰ Статистикалық бөлімімен ұсынылған.
+national_indicator_description: national_indicator_description.2-1-1
 source_active_1: true
 source_compilation_1: sources.2-1-1-source_compilation_1
 source_data_1: sources.2-1-1-source_data_1

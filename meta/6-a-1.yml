@@ -1,5 +1,8 @@
 availability: 1
 classification: 2
+comments_limitations: comments_limitations.6-a-1
+computation_calculations: computation_calculations.6-a-1
+computation_definitions: computation_definitions.6-a-1
 customisation: meta.customisation-1
 goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-0A-01.pdf
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 398
@@ -11,6 +14,7 @@ indicator_definition: The amount of water and sanitation-related Official Develo
   to gain a better understanding of whether donors are aligned with national governments
   while highlighting total water and sanitation ODA disbursements to developing countries
   over time.
+national_indicator_description: national_indicator_description.6-a-1
 source_active_1: true
 source_compilation_1: sources.6-a-1-source_compilation_1
 source_data_1: null

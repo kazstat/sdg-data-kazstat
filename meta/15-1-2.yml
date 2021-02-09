@@ -1,9 +1,13 @@
 availability: 1
 classification: 1
+comments_limitations: comments_limitations.15-1-2
+computation_calculations: computation_calculations.15-1-2
+computation_definitions: computation_definitions.15-1-2
 customisation: meta.customisation-2
 goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (pdf 456kB)
 indicator_available: national_indicators.15-1-2-title
+national_indicator_description: national_indicator_description.15-1-2
 source_active_1: true
 source_compilation_1: sources.15-1-2-source_compilation_1
 source_data_1: null

@@ -1,5 +1,8 @@
 availability: 1
 classification: 2
+comments_limitations: comments_limitations.17-8-1
+computation_calculations: computation_calculations.17-8-1
+computation_definitions: computation_definitions.17-8-1
 customisation: meta.customisation-1
 goal_meta_link: 'https://unstats.un.org/sdgs/metadata/files/Metadata-17-08-01.pdf '
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 469
@@ -7,6 +10,7 @@ goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 
 indicator_definition: The indicator proportion of individuals using the Internet is
   defined as the proportion of individuals who used the Internet from any location
   in the last three months.
+national_indicator_description: national_indicator_description.17-8-1
 source_active_1: true
 source_compilation_1: sources.17-8-1-source_compilation_1
 source_data_1: sources.17-8-1-source_data_1

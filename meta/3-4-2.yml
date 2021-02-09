@@ -1,10 +1,14 @@
 availability: null
 classification: 2
+comments_limitations: comments_limitations.3-4-2
+computation_calculations: computation_calculations.3-4-2
+computation_definitions: computation_definitions.3-4-2
 customisation: meta.customisation-1
 goal_meta_link: https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-3.pdf
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 65.1
   KB)
 indicator_definition: Suicide mortality rates
+national_indicator_description: national_indicator_description.3-4-2
 source_active_1: true
 source_compilation_1: sources.3-4-2-source_compilation_1
 source_data_1: sources.3-4-2-source_data_1

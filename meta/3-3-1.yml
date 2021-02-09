@@ -1,11 +1,15 @@
 availability: 1
 classification: 1
+comments_limitations: comments_limitations.3-3-1
+computation_calculations: computation_calculations.3-3-1
+computation_definitions: computation_definitions.3-3-1
 customisation: meta.customisation-1
 goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-01.pdf
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 372
   KB)
 indicator_definition: Number of new HIV infections per 1,000 uninfected population,
   by sex, age and key populations
+national_indicator_description: national_indicator_description.3-3-1
 source_active_1: true
 source_compilation_1: sources.3-3-1-source_compilation_1
 source_data_1: sources.3-3-1-source_data_1

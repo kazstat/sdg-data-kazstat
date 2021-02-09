@@ -1,8 +1,12 @@
 availability: 1
 classification: 2
+comments_limitations: comments_limitations.3-b-3
+computation_calculations: computation_calculations.3-b-3
+computation_definitions: computation_definitions.3-b-3
 customisation: meta.customisation-3
 goal_meta_link_text: UN Metadata
 indicator_available: national_indicators.3-b-3-title
+national_indicator_description: national_indicator_description.3-b-3
 source_active_1: true
 source_compilation_1: sources.3-b-3-source_compilation_1
 source_data_1: sources.3-b-3-source_data_1

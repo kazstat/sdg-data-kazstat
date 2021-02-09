@@ -1,9 +1,13 @@
 availability: 2
 classification: 3
+comments_limitations: comments_limitations.3-9-1
+computation_calculations: computation_calculations.3-9-1
+computation_definitions: computation_definitions.3-9-1
 customisation: meta.customisation-1
 goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-01.pdf
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 216
   KB)
+national_indicator_description: national_indicator_description.3-9-1
 source_active_1: true
 source_compilation_1: sources.3-9-1-source_compilation_1
 source_data_1: sources.3-9-1-source_data_1

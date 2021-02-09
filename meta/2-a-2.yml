@@ -1,11 +1,15 @@
 availability: 1
 classification: 2
+comments_limitations: comments_limitations.2-a-2
+computation_calculations: computation_calculations.2-a-2
+computation_definitions: computation_definitions.2-a-2
 customisation: meta.customisation-1
 goal_meta_link: 'https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-02.pdf '
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 210
   KB)
 indicator_definition: Gross disbursements of total ODA and other official flows from
   all donors to the agriculture sector.
+national_indicator_description: national_indicator_description.2-a-2
 source_active_1: true
 source_compilation_1: sources.2-a-2-source_compilation_1
 source_data_1: null

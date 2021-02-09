@@ -1,5 +1,8 @@
 availability: 1
 classification: 1
+comments_limitations: comments_limitations.8-5-2
+computation_calculations: computation_calculations.8-5-2
+computation_definitions: computation_definitions.8-5-2
 customisation: meta.customisation-1
 goal_meta_link: 'https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-02.pdf '
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 383
@@ -15,6 +18,7 @@ indicator_definition: The unemployment rate is a useful measure of the underutil
   often coincide with recessionary periods or in some cases with the beginning of
   an expansionary period as persons previously not in the labour market begin to test
   conditions through an active job search.
+national_indicator_description: national_indicator_description.8-5-2
 source_active_1: true
 source_compilation_1: sources.8-5-2-source_compilation_1
 source_data_1: sources.8-5-2-source_data_1
