@@ -19,7 +19,7 @@ for filename in os.listdir('meta'):
     for key in keys:
         translation_key = key + '.' + indicator_id
         meta[key] = translation_key
-        translations[key][translation_key] = ''
+        translations[key][indicator_id] = ''
 
     with open(metadata_file, 'w') as stream:
         yaml.dump(meta, stream, allow_unicode=True)
