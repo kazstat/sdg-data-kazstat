@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1612994011</mes:ID>
+    <mes:ID>IREF1613040097</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-02-10T21:53:31</mes:Prepared>
+    <mes:Prepared>2021-02-11T10:41:37</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@130"/>
   </mes:Header>
   <mes:Structures>
@@ -192,11 +192,6 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">Non-agriculture</com:Name>
           <com:Description xml:lang="en">Non-agriculture</com:Description>
         </str:Code>
-        <str:Code id="_L_ACT_IND">
-          <com:Name xml:lang="ru">промышленность</com:Name>
-          <com:Name xml:lang="en">Industry</com:Name>
-          <com:Name xml:lang="kk">өнеркәсіп</com:Name>
-        </str:Code>
         <str:Code id="_L_ACT_ELWPP">
           <com:Name xml:lang="ru">без учета больших ГЭС</com:Name>
           <com:Name xml:lang="en">excluding large water-power-plant</com:Name>
@@ -206,6 +201,11 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="ru">с учетом больших ГЭС</com:Name>
           <com:Name xml:lang="en">including large water-power-plant</com:Name>
           <com:Name xml:lang="kk">ірі гидроэлектрстанцияларын есепке ала отырып</com:Name>
+        </str:Code>
+        <str:Code id="_L_ACT_IND">
+          <com:Name xml:lang="ru">промышленность</com:Name>
+          <com:Name xml:lang="en">Industry</com:Name>
+          <com:Name xml:lang="kk">өнеркәсіп</com:Name>
         </str:Code>
       </str:Codelist>
       <str:Codelist version="1.1" isExternalReference="false" isFinal="true" agencyID="IAEG-SDGs" id="CL_AGE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_AGE(1.1)">
@@ -798,6 +798,31 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">75 to 84 years old</com:Name>
           <com:Description xml:lang="en">75 to 84 years old</com:Description>
         </str:Code>
+        <str:Code id="M25T28">
+          <com:Name xml:lang="ru">25-28</com:Name>
+          <com:Name xml:lang="en">25-28</com:Name>
+          <com:Name xml:lang="kk">25-28</com:Name>
+        </str:Code>
+        <str:Code id="M29T34">
+          <com:Name xml:lang="ru">29-34</com:Name>
+          <com:Name xml:lang="en">29-34</com:Name>
+          <com:Name xml:lang="kk">29-34</com:Name>
+        </str:Code>
+        <str:Code id="Y15">
+          <com:Name xml:lang="ru">15</com:Name>
+          <com:Name xml:lang="en">Y15</com:Name>
+          <com:Name xml:lang="kk">Y15</com:Name>
+        </str:Code>
+        <str:Code id="M12T23">
+          <com:Name xml:lang="ru">12-23 месяцев</com:Name>
+          <com:Name xml:lang="en">M12T23</com:Name>
+          <com:Name xml:lang="kk">M12T23</com:Name>
+        </str:Code>
+        <str:Code id="M24T35">
+          <com:Name xml:lang="ru">24-35 месяцев</com:Name>
+          <com:Name xml:lang="en">M24T35</com:Name>
+          <com:Name xml:lang="kk">M24T35</com:Name>
+        </str:Code>
         <str:Code id="M48T59">
           <com:Name xml:lang="ru">48-59 месяцев</com:Name>
           <com:Name xml:lang="en">48-59 months</com:Name>
@@ -813,20 +838,10 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">M12T17</com:Name>
           <com:Name xml:lang="kk">M12T17</com:Name>
         </str:Code>
-        <str:Code id="M12T23">
-          <com:Name xml:lang="ru">12-23 месяцев</com:Name>
-          <com:Name xml:lang="en">M12T23</com:Name>
-          <com:Name xml:lang="kk">M12T23</com:Name>
-        </str:Code>
         <str:Code id="M18T23">
           <com:Name xml:lang="ru">18-23 месяцев</com:Name>
           <com:Name xml:lang="en">M18T23</com:Name>
           <com:Name xml:lang="kk">M18T23</com:Name>
-        </str:Code>
-        <str:Code id="M24T35">
-          <com:Name xml:lang="ru">24-35 месяцев</com:Name>
-          <com:Name xml:lang="en">M24T35</com:Name>
-          <com:Name xml:lang="kk">M24T35</com:Name>
         </str:Code>
         <str:Code id="M6T11">
           <com:Name xml:lang="ru">6-11 месяцев</com:Name>
@@ -853,25 +868,10 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">Y15T18</com:Name>
           <com:Name xml:lang="kk">Y15T18</com:Name>
         </str:Code>
-        <str:Code id="M25T28">
-          <com:Name xml:lang="ru">25-28</com:Name>
-          <com:Name xml:lang="en">25-28</com:Name>
-          <com:Name xml:lang="kk">25-28</com:Name>
-        </str:Code>
-        <str:Code id="M29T34">
-          <com:Name xml:lang="ru">29-34</com:Name>
-          <com:Name xml:lang="en">29-34</com:Name>
-          <com:Name xml:lang="kk">29-34</com:Name>
-        </str:Code>
         <str:Code id="Y6">
           <com:Name xml:lang="ru">6 лет</com:Name>
           <com:Name xml:lang="en">6 years old</com:Name>
           <com:Name xml:lang="kk">6 жас</com:Name>
-        </str:Code>
-        <str:Code id="Y15">
-          <com:Name xml:lang="ru">15</com:Name>
-          <com:Name xml:lang="en">Y15</com:Name>
-          <com:Name xml:lang="kk">Y15</com:Name>
         </str:Code>
         <str:Code id="Y25T54">
           <com:Name xml:lang="ru">25-54 лет</com:Name>
@@ -5557,20 +5557,15 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
         <str:Code id="FWS_MNFC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.3).FWS_MNFC">
           <com:Name xml:lang="en">Food Waste Sector: Manufacturing</com:Name>
         </str:Code>
-        <str:Code id="_L_PRSP_FR_URAL">
-          <com:Name xml:lang="ru">Уральская популяция</com:Name>
-          <com:Name xml:lang="en">Species from Ural region</com:Name>
-          <com:Name xml:lang="kk">Жайық таралымдары</com:Name>
+        <str:Code id="_L_PRSP_TA">
+          <com:Name xml:lang="ru">виды животных</com:Name>
+          <com:Name xml:lang="en">Type of animals</com:Name>
+          <com:Name xml:lang="kk">жануарлардың түрлері</com:Name>
         </str:Code>
-        <str:Code id="_L_PRSP_FR_UST">
-          <com:Name xml:lang="ru">Устюртская популяция</com:Name>
-          <com:Name xml:lang="en">Species from Usturts region</com:Name>
-          <com:Name xml:lang="kk">Үстірт таралымдары</com:Name>
-        </str:Code>
-        <str:Code id="_L_PRSP_SFBR">
-          <com:Name xml:lang="ru">Бетпакдалинская популяция</com:Name>
-          <com:Name xml:lang="en">Species from Betpakdalinsk region</com:Name>
-          <com:Name xml:lang="kk">Бетпақдала таралымдары</com:Name>
+        <str:Code id="_L_PRSP_TP">
+          <com:Name xml:lang="ru">виды растений</com:Name>
+          <com:Name xml:lang="en">Type of plants</com:Name>
+          <com:Name xml:lang="kk">өсімдіктердің түрлері</com:Name>
         </str:Code>
         <str:Code id="_L_ODA_DNR">
           <com:Name xml:lang="ru">Данные по Казахстану как донору</com:Name>
@@ -5581,111 +5576,6 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="ru">Данные по Казахстану как получателю</com:Name>
           <com:Name xml:lang="en">Kazakhstan as beneficiary</com:Name>
           <com:Name xml:lang="kk">Қазақстан-алушы</com:Name>
-        </str:Code>
-        <str:Code id="_L_TRST_NEV">
-          <com:Name xml:lang="ru">никогда не сталкивались с данной структурой</com:Name>
-          <com:Name xml:lang="en">_L_TRST_NEV</com:Name>
-          <com:Name xml:lang="kk">_L_TRST_NEV</com:Name>
-        </str:Code>
-        <str:Code id="_L_TRST_PARTAGG">
-          <com:Name xml:lang="ru">частично согласен/согласна</com:Name>
-          <com:Name xml:lang="en">_L_TRST_PARTAGG</com:Name>
-          <com:Name xml:lang="kk">_L_TRST_PARTAGG</com:Name>
-        </str:Code>
-        <str:Code id="_L_TRST_PARTDIS">
-          <com:Name xml:lang="ru">частично не согласен/согласна</com:Name>
-          <com:Name xml:lang="en">_L_TRST_PARTDIS</com:Name>
-          <com:Name xml:lang="kk">_L_TRST_PARTDIS</com:Name>
-        </str:Code>
-        <str:Code id="_L_TRST_STRAGG">
-          <com:Name xml:lang="ru">полностью согласен/согласна</com:Name>
-          <com:Name xml:lang="en">_L_TRST_STRAGG</com:Name>
-          <com:Name xml:lang="kk">_L_TRST_STRAGG</com:Name>
-        </str:Code>
-        <str:Code id="_L_TRST_STRDIS">
-          <com:Name xml:lang="ru">полностью не согласен/согласна</com:Name>
-          <com:Name xml:lang="en">_L_TRST_STRDIS</com:Name>
-          <com:Name xml:lang="kk">_L_TRST_STRDIS</com:Name>
-        </str:Code>
-        <str:Code id="_L_TRST_AVG">
-          <com:Name xml:lang="ru">средняя</com:Name>
-          <com:Name xml:lang="en">_L_TRST_AVG</com:Name>
-          <com:Name xml:lang="kk">_L_TRST_AVG</com:Name>
-        </str:Code>
-        <str:Code id="_L_TRST_HIGH">
-          <com:Name xml:lang="ru">высокая</com:Name>
-          <com:Name xml:lang="en">_L_TRST_HIGH</com:Name>
-          <com:Name xml:lang="kk">_L_TRST_HIGH</com:Name>
-        </str:Code>
-        <str:Code id="_L_TRST_LOW">
-          <com:Name xml:lang="ru">низкая</com:Name>
-          <com:Name xml:lang="en">_L_TRST_LOW</com:Name>
-          <com:Name xml:lang="kk">_L_TRST_LOW</com:Name>
-        </str:Code>
-        <str:Code id="_L_TRST_NO">
-          <com:Name xml:lang="ru">не доверяют</com:Name>
-          <com:Name xml:lang="en">_L_TRST_NO</com:Name>
-          <com:Name xml:lang="kk">_L_TRST_NO</com:Name>
-        </str:Code>
-        <str:Code id="Данные по Казахстану как обязательства">
-          <com:Name xml:lang="ru">Данные по Казахстану как обязательства</com:Name>
-          <com:Name xml:lang="en">Данные по Казахстану как обязательства</com:Name>
-          <com:Name xml:lang="kk">Данные по Казахстану как обязательства</com:Name>
-        </str:Code>
-        <str:Code id="_L_PRSP_ARG">
-          <com:Name xml:lang="ru">архар</com:Name>
-          <com:Name xml:lang="en">Argali (latin: Ovis ammon)</com:Name>
-          <com:Name xml:lang="kk">Арқар</com:Name>
-        </str:Code>
-        <str:Code id="_L_PRSP_BCR_DR">
-          <com:Name xml:lang="ru">тугайный благородный олень</com:Name>
-          <com:Name xml:lang="en">The Bactrian deer (latin: Cervus elaphus bactrianus)</com:Name>
-          <com:Name xml:lang="kk">тоғай кермаралы</com:Name>
-        </str:Code>
-        <str:Code id="_L_PRSP_GTRG">
-          <com:Name xml:lang="ru">джейран</com:Name>
-          <com:Name xml:lang="en">Goitered gazelle (latin: Gazella subgutturosa)</com:Name>
-          <com:Name xml:lang="kk">Қарақұйрық</com:Name>
-        </str:Code>
-        <str:Code id="_L_PRSP_ONGR">
-          <com:Name xml:lang="ru">кулан</com:Name>
-          <com:Name xml:lang="en">Onager (latin Equus hemionus)</com:Name>
-          <com:Name xml:lang="kk">Құлан</com:Name>
-        </str:Code>
-        <str:Code id="_L_HLTH_NUM_DOC">
-          <com:Name xml:lang="ru">Обеспеченность врачами (без зубных)</com:Name>
-          <com:Name xml:lang="en">_L_HLTH_NUM_DOC</com:Name>
-          <com:Name xml:lang="kk">_L_HLTH_NUM_DOC</com:Name>
-        </str:Code>
-        <str:Code id="_L_HLTH_PRV_DENT">
-          <com:Name xml:lang="ru">Обеспеченность стоматологами на 1 000 населения (включая зубных техников)</com:Name>
-          <com:Name xml:lang="en">_L_HLTH_PRV_DENT</com:Name>
-          <com:Name xml:lang="kk">_L_HLTH_PRV_DENT</com:Name>
-        </str:Code>
-        <str:Code id="_L_HLTH_PRV_MEDW">
-          <com:Name xml:lang="ru">Обеспеченность средними медицинскими работниками на 1 000 населения</com:Name>
-          <com:Name xml:lang="en">_L_HLTH_PRV_MEDW</com:Name>
-          <com:Name xml:lang="kk">_L_HLTH_PRV_MEDW</com:Name>
-        </str:Code>
-        <str:Code id="_L_HLTH_PRV_PHMT">
-          <com:Name xml:lang="ru">Обеспеченность фармацевтическими работниками на 1 000 населения (включая провизоров)</com:Name>
-          <com:Name xml:lang="en">_L_HLTH_PRV_PHMT</com:Name>
-          <com:Name xml:lang="kk">_L_HLTH_PRV_PHMT</com:Name>
-        </str:Code>
-        <str:Code id="_L_TVL_PHSVL">
-          <com:Name xml:lang="ru">физическое насилие</com:Name>
-          <com:Name xml:lang="en">Physical violence</com:Name>
-          <com:Name xml:lang="kk">физикалық қатыгездік</com:Name>
-        </str:Code>
-        <str:Code id="_L_TVL_PHSVL_SEXHARSS">
-          <com:Name xml:lang="ru">физическое насилие и/или сексуальное насилие</com:Name>
-          <com:Name xml:lang="en">Physical violence/sexual harassment</com:Name>
-          <com:Name xml:lang="kk">физикалық зорлық-зомбылық және / немесе сексуалдық зомбылық</com:Name>
-        </str:Code>
-        <str:Code id="_L_TVL_SEX_HARSS">
-          <com:Name xml:lang="ru">сексуальное насилие</com:Name>
-          <com:Name xml:lang="en">Sexual harassment</com:Name>
-          <com:Name xml:lang="kk">сексуалдық зорлық</com:Name>
         </str:Code>
         <str:Code id="_L_BI_CIT">
           <com:Name xml:lang="ru">Корпоративный подоходный налог</com:Name>
@@ -5772,6 +5662,156 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">_L_IND_BUILD</com:Name>
           <com:Name xml:lang="kk">_L_IND_BUILD</com:Name>
         </str:Code>
+        <str:Code id="_L_PRSP_ARG">
+          <com:Name xml:lang="ru">архар</com:Name>
+          <com:Name xml:lang="en">Argali (latin: Ovis ammon)</com:Name>
+          <com:Name xml:lang="kk">Арқар</com:Name>
+        </str:Code>
+        <str:Code id="_L_PRSP_BCR_DR">
+          <com:Name xml:lang="ru">тугайный благородный олень</com:Name>
+          <com:Name xml:lang="en">The Bactrian deer (latin: Cervus elaphus bactrianus)</com:Name>
+          <com:Name xml:lang="kk">тоғай кермаралы</com:Name>
+        </str:Code>
+        <str:Code id="_L_PRSP_GTRG">
+          <com:Name xml:lang="ru">джейран</com:Name>
+          <com:Name xml:lang="en">Goitered gazelle (latin: Gazella subgutturosa)</com:Name>
+          <com:Name xml:lang="kk">Қарақұйрық</com:Name>
+        </str:Code>
+        <str:Code id="_L_PRSP_ONGR">
+          <com:Name xml:lang="ru">кулан</com:Name>
+          <com:Name xml:lang="en">Onager (latin Equus hemionus)</com:Name>
+          <com:Name xml:lang="kk">Құлан</com:Name>
+        </str:Code>
+        <str:Code id="_L_TVL_PHSVL">
+          <com:Name xml:lang="ru">физическое насилие</com:Name>
+          <com:Name xml:lang="en">Physical violence</com:Name>
+          <com:Name xml:lang="kk">физикалық қатыгездік</com:Name>
+        </str:Code>
+        <str:Code id="_L_TVL_PHSVL_SEXHARSS">
+          <com:Name xml:lang="ru">физическое насилие и/или сексуальное насилие</com:Name>
+          <com:Name xml:lang="en">Physical violence/sexual harassment</com:Name>
+          <com:Name xml:lang="kk">физикалық зорлық-зомбылық және / немесе сексуалдық зомбылық</com:Name>
+        </str:Code>
+        <str:Code id="_L_TVL_SEX_HARSS">
+          <com:Name xml:lang="ru">сексуальное насилие</com:Name>
+          <com:Name xml:lang="en">Sexual harassment</com:Name>
+          <com:Name xml:lang="kk">сексуалдық зорлық</com:Name>
+        </str:Code>
+        <str:Code id="_L_TRST_NEV">
+          <com:Name xml:lang="ru">никогда не сталкивались с данной структурой</com:Name>
+          <com:Name xml:lang="en">_L_TRST_NEV</com:Name>
+          <com:Name xml:lang="kk">_L_TRST_NEV</com:Name>
+        </str:Code>
+        <str:Code id="_L_TRST_PARTAGG">
+          <com:Name xml:lang="ru">частично согласен/согласна</com:Name>
+          <com:Name xml:lang="en">_L_TRST_PARTAGG</com:Name>
+          <com:Name xml:lang="kk">_L_TRST_PARTAGG</com:Name>
+        </str:Code>
+        <str:Code id="_L_TRST_PARTDIS">
+          <com:Name xml:lang="ru">частично не согласен/согласна</com:Name>
+          <com:Name xml:lang="en">_L_TRST_PARTDIS</com:Name>
+          <com:Name xml:lang="kk">_L_TRST_PARTDIS</com:Name>
+        </str:Code>
+        <str:Code id="_L_TRST_STRAGG">
+          <com:Name xml:lang="ru">полностью согласен/согласна</com:Name>
+          <com:Name xml:lang="en">_L_TRST_STRAGG</com:Name>
+          <com:Name xml:lang="kk">_L_TRST_STRAGG</com:Name>
+        </str:Code>
+        <str:Code id="_L_TRST_STRDIS">
+          <com:Name xml:lang="ru">полностью не согласен/согласна</com:Name>
+          <com:Name xml:lang="en">_L_TRST_STRDIS</com:Name>
+          <com:Name xml:lang="kk">_L_TRST_STRDIS</com:Name>
+        </str:Code>
+        <str:Code id="_L_TRST_AVG">
+          <com:Name xml:lang="ru">средняя</com:Name>
+          <com:Name xml:lang="en">_L_TRST_AVG</com:Name>
+          <com:Name xml:lang="kk">_L_TRST_AVG</com:Name>
+        </str:Code>
+        <str:Code id="_L_TRST_HIGH">
+          <com:Name xml:lang="ru">высокая</com:Name>
+          <com:Name xml:lang="en">_L_TRST_HIGH</com:Name>
+          <com:Name xml:lang="kk">_L_TRST_HIGH</com:Name>
+        </str:Code>
+        <str:Code id="_L_TRST_LOW">
+          <com:Name xml:lang="ru">низкая</com:Name>
+          <com:Name xml:lang="en">_L_TRST_LOW</com:Name>
+          <com:Name xml:lang="kk">_L_TRST_LOW</com:Name>
+        </str:Code>
+        <str:Code id="_L_TRST_NO">
+          <com:Name xml:lang="ru">не доверяют</com:Name>
+          <com:Name xml:lang="en">_L_TRST_NO</com:Name>
+          <com:Name xml:lang="kk">_L_TRST_NO</com:Name>
+        </str:Code>
+        <str:Code id="_L_HLTH_NUM_DOC">
+          <com:Name xml:lang="ru">Обеспеченность врачами (без зубных)</com:Name>
+          <com:Name xml:lang="en">_L_HLTH_NUM_DOC</com:Name>
+          <com:Name xml:lang="kk">_L_HLTH_NUM_DOC</com:Name>
+        </str:Code>
+        <str:Code id="_L_HLTH_PRV_DENT">
+          <com:Name xml:lang="ru">Обеспеченность стоматологами на 1 000 населения (включая зубных техников)</com:Name>
+          <com:Name xml:lang="en">_L_HLTH_PRV_DENT</com:Name>
+          <com:Name xml:lang="kk">_L_HLTH_PRV_DENT</com:Name>
+        </str:Code>
+        <str:Code id="_L_HLTH_PRV_MEDW">
+          <com:Name xml:lang="ru">Обеспеченность средними медицинскими работниками на 1 000 населения</com:Name>
+          <com:Name xml:lang="en">_L_HLTH_PRV_MEDW</com:Name>
+          <com:Name xml:lang="kk">_L_HLTH_PRV_MEDW</com:Name>
+        </str:Code>
+        <str:Code id="_L_HLTH_PRV_PHMT">
+          <com:Name xml:lang="ru">Обеспеченность фармацевтическими работниками на 1 000 населения (включая провизоров)</com:Name>
+          <com:Name xml:lang="en">_L_HLTH_PRV_PHMT</com:Name>
+          <com:Name xml:lang="kk">_L_HLTH_PRV_PHMT</com:Name>
+        </str:Code>
+        <str:Code id="_L_PRSP_FR_URAL">
+          <com:Name xml:lang="ru">Уральская популяция</com:Name>
+          <com:Name xml:lang="en">Species from Ural region</com:Name>
+          <com:Name xml:lang="kk">Жайық таралымдары</com:Name>
+        </str:Code>
+        <str:Code id="_L_PRSP_FR_UST">
+          <com:Name xml:lang="ru">Устюртская популяция</com:Name>
+          <com:Name xml:lang="en">Species from Usturts region</com:Name>
+          <com:Name xml:lang="kk">Үстірт таралымдары</com:Name>
+        </str:Code>
+        <str:Code id="_L_PRSP_SFBR">
+          <com:Name xml:lang="ru">Бетпакдалинская популяция</com:Name>
+          <com:Name xml:lang="en">Species from Betpakdalinsk region</com:Name>
+          <com:Name xml:lang="kk">Бетпақдала таралымдары</com:Name>
+        </str:Code>
+        <str:Code id="_L_TVL_ANYT_SEXVL">
+          <com:Name xml:lang="ru">любое сексуальное насилие</com:Name>
+          <com:Name xml:lang="en">any type of sexual violence</com:Name>
+          <com:Name xml:lang="kk">кез келген сексуалдық зорлық-зомбылық</com:Name>
+        </str:Code>
+        <str:Code id="_L_TVL_RPATT_OTHSEXVL">
+          <com:Name xml:lang="ru">попытка изнасилования или иное сексуальное насилие</com:Name>
+          <com:Name xml:lang="en">Rape attempt or other type of sexual violence</com:Name>
+          <com:Name xml:lang="kk">зорлау немесе басқа сексуалдық әрекет жасау</com:Name>
+        </str:Code>
+        <str:Code id="_L_TVL_RP_NONPARTN">
+          <com:Name xml:lang="ru">изнасилование, совершенное лицом, не являющимся партнером</com:Name>
+          <com:Name xml:lang="en">Rape (crime committed by non-partner)</com:Name>
+          <com:Name xml:lang="kk">жыныс серігі емес тұлғадан жасалған зорлық-зомбылық</com:Name>
+        </str:Code>
+        <str:Code id="_L_ODA_DNR_GR">
+          <com:Name xml:lang="ru">Казахстан-донор (валовый)</com:Name>
+          <com:Name xml:lang="en">_L_ODA_DNR_GR</com:Name>
+          <com:Name xml:lang="kk">_L_ODA_DNR_GR</com:Name>
+        </str:Code>
+        <str:Code id="_L_ODA_DNR_NT">
+          <com:Name xml:lang="ru">Казахстан-донор (чистый)</com:Name>
+          <com:Name xml:lang="en">_L_ODA_DNR_NT</com:Name>
+          <com:Name xml:lang="kk">_L_ODA_DNR_NT</com:Name>
+        </str:Code>
+        <str:Code id="_L_ODA_RCP_GR">
+          <com:Name xml:lang="ru">Казахстан-получатель (валовый)</com:Name>
+          <com:Name xml:lang="en">_L_ODA_RCP_GR</com:Name>
+          <com:Name xml:lang="kk">_L_ODA_RCP_GR</com:Name>
+        </str:Code>
+        <str:Code id="_L_ODA_RCP_NT">
+          <com:Name xml:lang="ru">Казахстан-получатель (чистый)</com:Name>
+          <com:Name xml:lang="en">_L_ODA_RCP_NT</com:Name>
+          <com:Name xml:lang="kk">_L_ODA_RCP_NT</com:Name>
+        </str:Code>
         <str:Code id="_L_BI_CLT">
           <com:Name xml:lang="ru">Единый земельный налог</com:Name>
           <com:Name xml:lang="en">Consolidated Land Tax</com:Name>
@@ -5832,16 +5872,6 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">Vehicle Tax</com:Name>
           <com:Name xml:lang="kk">Көлiк құралдарына салынатын салық</com:Name>
         </str:Code>
-        <str:Code id="_L_PRSP_TA">
-          <com:Name xml:lang="ru">виды животных</com:Name>
-          <com:Name xml:lang="en">Type of animals</com:Name>
-          <com:Name xml:lang="kk">жануарлардың түрлері</com:Name>
-        </str:Code>
-        <str:Code id="_L_PRSP_TP">
-          <com:Name xml:lang="ru">виды растений</com:Name>
-          <com:Name xml:lang="en">Type of plants</com:Name>
-          <com:Name xml:lang="kk">өсімдіктердің түрлері</com:Name>
-        </str:Code>
         <str:Code id="_L_HLTH_IMBD_ALH">
           <com:Name xml:lang="ru">Заболеваемость психическими и поведенческими расстройствами в результате употребления алкоголя</com:Name>
           <com:Name xml:lang="en">Incidence of mental and behavioral disorders as a result of alcohol use</com:Name>
@@ -5857,40 +5887,10 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">_L_HLTH_IMBD_SUBS</com:Name>
           <com:Name xml:lang="kk">_L_HLTH_IMBD_SUBS</com:Name>
         </str:Code>
-        <str:Code id="_L_TVL_ANYT_SEXVL">
-          <com:Name xml:lang="ru">любое сексуальное насилие</com:Name>
-          <com:Name xml:lang="en">any type of sexual violence</com:Name>
-          <com:Name xml:lang="kk">кез келген сексуалдық зорлық-зомбылық</com:Name>
-        </str:Code>
-        <str:Code id="_L_TVL_RPATT_OTHSEXVL">
-          <com:Name xml:lang="ru">попытка изнасилования или иное сексуальное насилие</com:Name>
-          <com:Name xml:lang="en">Rape attempt or other type of sexual violence</com:Name>
-          <com:Name xml:lang="kk">зорлау немесе басқа сексуалдық әрекет жасау</com:Name>
-        </str:Code>
-        <str:Code id="_L_TVL_RP_NONPARTN">
-          <com:Name xml:lang="ru">изнасилование, совершенное лицом, не являющимся партнером</com:Name>
-          <com:Name xml:lang="en">Rape (crime committed by non-partner)</com:Name>
-          <com:Name xml:lang="kk">жыныс серігі емес тұлғадан жасалған зорлық-зомбылық</com:Name>
-        </str:Code>
-        <str:Code id="_L_ODA_DNR_GR">
-          <com:Name xml:lang="ru">Казахстан-донор (валовый)</com:Name>
-          <com:Name xml:lang="en">_L_ODA_DNR_GR</com:Name>
-          <com:Name xml:lang="kk">_L_ODA_DNR_GR</com:Name>
-        </str:Code>
-        <str:Code id="_L_ODA_DNR_NT">
-          <com:Name xml:lang="ru">Казахстан-донор (чистый)</com:Name>
-          <com:Name xml:lang="en">_L_ODA_DNR_NT</com:Name>
-          <com:Name xml:lang="kk">_L_ODA_DNR_NT</com:Name>
-        </str:Code>
-        <str:Code id="_L_ODA_RCP_GR">
-          <com:Name xml:lang="ru">Казахстан-получатель (валовый)</com:Name>
-          <com:Name xml:lang="en">_L_ODA_RCP_GR</com:Name>
-          <com:Name xml:lang="kk">_L_ODA_RCP_GR</com:Name>
-        </str:Code>
-        <str:Code id="_L_ODA_RCP_NT">
-          <com:Name xml:lang="ru">Казахстан-получатель (чистый)</com:Name>
-          <com:Name xml:lang="en">_L_ODA_RCP_NT</com:Name>
-          <com:Name xml:lang="kk">_L_ODA_RCP_NT</com:Name>
+        <str:Code id="Данные по Казахстану как обязательства">
+          <com:Name xml:lang="ru">Данные по Казахстану как обязательства</com:Name>
+          <com:Name xml:lang="en">Данные по Казахстану как обязательства</com:Name>
+          <com:Name xml:lang="kk">Данные по Казахстану как обязательства</com:Name>
         </str:Code>
       </str:Codelist>
       <str:Codelist version="1.0" isExternalReference="false" isFinal="true" agencyID="IAEG-SDGs" id="CL_CUST_BREAKDOWN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_CUST_BREAKDOWN(1.0)">
@@ -19843,20 +19843,200 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="kk">SG_REG_DETH75N</com:Name>
           <com:Description xml:lang="en">Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2]</com:Description>
         </str:Code>
-        <str:Code id="выше 10 Мбит/сек">
-          <com:Name xml:lang="ru">выше 10 Мбит/сек</com:Name>
-          <com:Name xml:lang="en">выше 10 Мбит/сек</com:Name>
-          <com:Name xml:lang="kk">выше 10 Мбит/сек</com:Name>
+        <str:Code id="_L_KZ_020102_1A">
+          <com:Name xml:lang="ru">острое отсутствие продовольственной безопасности</com:Name>
+          <com:Name xml:lang="en">Extreme food insecurity</com:Name>
+          <com:Name xml:lang="kk">өткір азық-түлік қауіпсіздігі</com:Name>
         </str:Code>
-        <str:Code id="от 2 Мбит/сек до менее 10 Мбит/сек">
-          <com:Name xml:lang="ru">от 2 Мбит/сек до менее 10 Мбит/сек</com:Name>
-          <com:Name xml:lang="en">от 2 Мбит/сек до менее 10 Мбит/сек</com:Name>
-          <com:Name xml:lang="kk">от 2 Мбит/сек до менее 10 Мбит/сек</com:Name>
+        <str:Code id="_L_KZ_020102_1B">
+          <com:Name xml:lang="ru">умеренное и острое отсутствие продовольственной безопасности</com:Name>
+          <com:Name xml:lang="en">Food insecurity (moderate and extreme)</com:Name>
+          <com:Name xml:lang="kk">қалыпты және қатаң азық-түлік қауіпсіздігі</com:Name>
         </str:Code>
-        <str:Code id="от 256 кБит/сек до менее 2 Мбит/сек">
-          <com:Name xml:lang="ru">от 256 кБит/сек до менее 2 Мбит/сек</com:Name>
-          <com:Name xml:lang="en">от 256 кБит/сек до менее 2 Мбит/сек</com:Name>
-          <com:Name xml:lang="kk">от 256 кБит/сек до менее 2 Мбит/сек</com:Name>
+        <str:Code id="_L_KZ_090c01_1A">
+          <com:Name xml:lang="ru">Стандарт GSM  (процент охвата населения сетью сотовой связи)</com:Name>
+          <com:Name xml:lang="en">GSM standard (percentage of coverage by cellular network)</com:Name>
+          <com:Name xml:lang="kk">GSM стандарты (халықтың ұялы байланыс жүйесімен қамту пайызы)</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_090c01_1B">
+          <com:Name xml:lang="ru">Стандарт UMTS (процент охвата населения сетью сотовой связи 3G)</com:Name>
+          <com:Name xml:lang="en">UMTS standard (percentage of coverage by 3G mobile network)</com:Name>
+          <com:Name xml:lang="kk">UMTS стандарты (халықтың 3G ұялы байланыс жүйесімен қамту пайызы)</com:Name>
+        </str:Code>
+        <str:Code id="Изменение чистой площади лесов">
+          <com:Name xml:lang="ru">Изменение чистой площади лесов</com:Name>
+          <com:Name xml:lang="en">Изменение чистой площади лесов</com:Name>
+          <com:Name xml:lang="kk">Изменение чистой площади лесов</com:Name>
+        </str:Code>
+        <str:Code id="Площадь территории, покрытой лесом">
+          <com:Name xml:lang="ru">Площадь территории, покрытой лесом</com:Name>
+          <com:Name xml:lang="en">Площадь территории, покрытой лесом</com:Name>
+          <com:Name xml:lang="kk">Площадь территории, покрытой лесом</com:Name>
+        </str:Code>
+        <str:Code id="природного характера">
+          <com:Name xml:lang="ru">природного характера</com:Name>
+          <com:Name xml:lang="en">природного характера</com:Name>
+          <com:Name xml:lang="kk">природного характера</com:Name>
+        </str:Code>
+        <str:Code id="техногенного характера">
+          <com:Name xml:lang="ru">техногенного характера</com:Name>
+          <com:Name xml:lang="en">техногенного характера</com:Name>
+          <com:Name xml:lang="kk">техногенного характера</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_DD_MSD">
+          <com:Name xml:lang="ru">умеренная и сильная степень отклонения от нормы</com:Name>
+          <com:Name xml:lang="en">Rate of deviation from the norm (moderate and strong)</com:Name>
+          <com:Name xml:lang="kk">қалыпты және қатал ауытқушылық</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_DD_SDD">
+          <com:Name xml:lang="ru">сильная степень отклонения от нормы</com:Name>
+          <com:Name xml:lang="en">Strong deviation from the norm</com:Name>
+          <com:Name xml:lang="kk">нормадан күшті ауытқу</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_050201_1A">
+          <com:Name xml:lang="ru">в течение жизни</com:Name>
+          <com:Name xml:lang="en">During lifetime</com:Name>
+          <com:Name xml:lang="kk">өмір бойы</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_050201_1B">
+          <com:Name xml:lang="ru">в последние 12 месяцев</com:Name>
+          <com:Name xml:lang="en">In the last 12 months</com:Name>
+          <com:Name xml:lang="kk">соңғы 12 айда</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_160104_1A">
+          <com:Name xml:lang="ru">в полной безопасности</com:Name>
+          <com:Name xml:lang="en">Total security</com:Name>
+          <com:Name xml:lang="kk">толық қауіпсіз</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_160104_1B">
+          <com:Name xml:lang="ru">достаточно безопасно</com:Name>
+          <com:Name xml:lang="en">Relatively safe</com:Name>
+          <com:Name xml:lang="kk">жеткілікті қауіпсіз</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_160104_1C">
+          <com:Name xml:lang="ru">не безопасно</com:Name>
+          <com:Name xml:lang="en">Not safe</com:Name>
+          <com:Name xml:lang="kk">қауіпсіз емес</com:Name>
+        </str:Code>
+        <str:Code id="затруднились ответить">
+          <com:Name xml:lang="ru">затруднились ответить</com:Name>
+          <com:Name xml:lang="en">затруднились ответить</com:Name>
+          <com:Name xml:lang="kk">затруднились ответить</com:Name>
+        </str:Code>
+        <str:Code id="совсем не безопасно">
+          <com:Name xml:lang="ru">совсем не безопасно</com:Name>
+          <com:Name xml:lang="en">совсем не безопасно</com:Name>
+          <com:Name xml:lang="kk">совсем не безопасно</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_171201_1A">
+          <com:Name xml:lang="ru">наименее развитых стран</com:Name>
+          <com:Name xml:lang="en">developed countries</com:Name>
+          <com:Name xml:lang="kk">аз дамыған елдер</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_171201_1B">
+          <com:Name xml:lang="ru">развивающихся стран</com:Name>
+          <com:Name xml:lang="en">developing countries</com:Name>
+          <com:Name xml:lang="kk">дамушы елдер</com:Name>
+        </str:Code>
+        <str:Code id="антикоррупционной службе можно доверять">
+          <com:Name xml:lang="ru">антикоррупционной службе можно доверять</com:Name>
+          <com:Name xml:lang="en">антикоррупционной службе можно доверять</com:Name>
+          <com:Name xml:lang="kk">антикоррупционной службе можно доверять</com:Name>
+        </str:Code>
+        <str:Code id="к антикоррупцционной службе">
+          <com:Name xml:lang="ru">к антикоррупцционной службе</com:Name>
+          <com:Name xml:lang="en">к антикоррупцционной службе</com:Name>
+          <com:Name xml:lang="kk">к антикоррупцционной службе</com:Name>
+        </str:Code>
+        <str:Code id="к органам внутренних дел">
+          <com:Name xml:lang="ru">к органам внутренних дел</com:Name>
+          <com:Name xml:lang="en">к органам внутренних дел</com:Name>
+          <com:Name xml:lang="kk">к органам внутренних дел</com:Name>
+        </str:Code>
+        <str:Code id="к органам гражданской защиты">
+          <com:Name xml:lang="ru">к органам гражданской защиты</com:Name>
+          <com:Name xml:lang="en">к органам гражданской защиты</com:Name>
+          <com:Name xml:lang="kk">к органам гражданской защиты</com:Name>
+        </str:Code>
+        <str:Code id="к органам прокуратуры">
+          <com:Name xml:lang="ru">к органам прокуратуры</com:Name>
+          <com:Name xml:lang="en">к органам прокуратуры</com:Name>
+          <com:Name xml:lang="kk">к органам прокуратуры</com:Name>
+        </str:Code>
+        <str:Code id="к службе экономических расследований">
+          <com:Name xml:lang="ru">к службе экономических расследований</com:Name>
+          <com:Name xml:lang="en">к службе экономических расследований</com:Name>
+          <com:Name xml:lang="kk">к службе экономических расследований</com:Name>
+        </str:Code>
+        <str:Code id="органам полиции можно доверять">
+          <com:Name xml:lang="ru">органам полиции можно доверять</com:Name>
+          <com:Name xml:lang="en">органам полиции можно доверять</com:Name>
+          <com:Name xml:lang="kk">органам полиции можно доверять</com:Name>
+        </str:Code>
+        <str:Code id="органам прокуратуры можно доверять">
+          <com:Name xml:lang="ru">органам прокуратуры можно доверять</com:Name>
+          <com:Name xml:lang="en">органам прокуратуры можно доверять</com:Name>
+          <com:Name xml:lang="kk">органам прокуратуры можно доверять</com:Name>
+        </str:Code>
+        <str:Code id="службе экономических расследований можно доверять">
+          <com:Name xml:lang="ru">службе экономических расследований можно доверять</com:Name>
+          <com:Name xml:lang="en">службе экономических расследований можно доверять</com:Name>
+          <com:Name xml:lang="kk">службе экономических расследований можно доверять</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_110602_1A">
+          <com:Name xml:lang="ru">взвешенные частицы РМ-10</com:Name>
+          <com:Name xml:lang="en">suspended particles PM-10</com:Name>
+          <com:Name xml:lang="kk">Қалқымалы бөлшектер РМ-10</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_110602_1B">
+          <com:Name xml:lang="ru">взвешенные частицы РМ-2,5</com:Name>
+          <com:Name xml:lang="en">PM2.5</com:Name>
+          <com:Name xml:lang="kk">Қалқымалы бөлшектер РМ-2,5</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_070b01_1A">
+          <com:Name xml:lang="ru">по государственным предприятиям и организациям</com:Name>
+          <com:Name xml:lang="en">State-owned enterprises and organizations</com:Name>
+          <com:Name xml:lang="kk">мемлекеттік кәсіпорындар мен ұйымдар бойынша</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_070b01_1B">
+          <com:Name xml:lang="ru">по предприятиям и организациям  иностранной собственности</com:Name>
+          <com:Name xml:lang="en">Companies and organizations owned by foreigners</com:Name>
+          <com:Name xml:lang="kk">шетелдік меншік кәсіпорындар мен ұйымдар бойынша</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_070b01_1C">
+          <com:Name xml:lang="ru">по предприятиям и организациям частной собственности</com:Name>
+          <com:Name xml:lang="en">Private companies and organizations</com:Name>
+          <com:Name xml:lang="kk">жеке меншік кәсіпорындар мен ұйымдар бойынша</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_030b01_1A">
+          <com:Name xml:lang="ru">Охват АКДС (3 дозы)</com:Name>
+          <com:Name xml:lang="en">DTP Coverage (3 doses)</com:Name>
+          <com:Name xml:lang="kk">АКДС-пен қамтылу (3 дозасы)</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_030b01_1B">
+          <com:Name xml:lang="ru">Охват вакциной против кори (2 дозы)</com:Name>
+          <com:Name xml:lang="en">Measles vaccine coverage (2 doses)</com:Name>
+          <com:Name xml:lang="kk">Қызылшаға қарсы вакцинамен қамтылу (2 дозасы)</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_030b01_1C">
+          <com:Name xml:lang="ru">Охват Пневмококковой конъюгированной вакциной (3 дозы)</com:Name>
+          <com:Name xml:lang="en">Pneumococcal Conjugate Vaccine Coverage (3 doses)</com:Name>
+          <com:Name xml:lang="kk">Пневмококты конъюгациялы вакцинамен қамтылу (3 дозасы)</com:Name>
+        </str:Code>
+        <str:Code id="наличие теплых и надворных туалетов">
+          <com:Name xml:lang="ru">наличие теплых и надворных туалетов</com:Name>
+          <com:Name xml:lang="en">наличие теплых и надворных туалетов</com:Name>
+          <com:Name xml:lang="kk">наличие теплых и надворных туалетов</com:Name>
+        </str:Code>
+        <str:Code id="наличие только надворных туалетов">
+          <com:Name xml:lang="ru">наличие только надворных туалетов</com:Name>
+          <com:Name xml:lang="en">наличие только надворных туалетов</com:Name>
+          <com:Name xml:lang="kk">наличие только надворных туалетов</com:Name>
+        </str:Code>
+        <str:Code id="наличие только теплых туалетов">
+          <com:Name xml:lang="ru">наличие только теплых туалетов</com:Name>
+          <com:Name xml:lang="en">наличие только теплых туалетов</com:Name>
+          <com:Name xml:lang="kk">наличие только теплых туалетов</com:Name>
         </str:Code>
         <str:Code id="_L_KZ_090102_1J">
           <com:Name xml:lang="ru">перевезено грузов автомобильным  и городским  электрическим транспортом</com:Name>
@@ -19918,66 +20098,6 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">transported by air</com:Name>
           <com:Name xml:lang="kk">әуе көлікпен тасымалданған жүктер</com:Name>
         </str:Code>
-        <str:Code id="Доходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения">
-          <com:Name xml:lang="ru">Доходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
-          <com:Name xml:lang="en">Доходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
-          <com:Name xml:lang="kk">Доходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
-        </str:Code>
-        <str:Code id="Расходы домохозяйств на душу населения">
-          <com:Name xml:lang="ru">Расходы домохозяйств на душу населения</com:Name>
-          <com:Name xml:lang="en">Расходы домохозяйств на душу населения</com:Name>
-          <com:Name xml:lang="kk">Расходы домохозяйств на душу населения</com:Name>
-        </str:Code>
-        <str:Code id="Расходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения">
-          <com:Name xml:lang="ru">Расходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
-          <com:Name xml:lang="en">Расходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
-          <com:Name xml:lang="kk">Расходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
-        </str:Code>
-        <str:Code id="антикоррупционной службе можно доверять">
-          <com:Name xml:lang="ru">антикоррупционной службе можно доверять</com:Name>
-          <com:Name xml:lang="en">антикоррупционной службе можно доверять</com:Name>
-          <com:Name xml:lang="kk">антикоррупционной службе можно доверять</com:Name>
-        </str:Code>
-        <str:Code id="к антикоррупцционной службе">
-          <com:Name xml:lang="ru">к антикоррупцционной службе</com:Name>
-          <com:Name xml:lang="en">к антикоррупцционной службе</com:Name>
-          <com:Name xml:lang="kk">к антикоррупцционной службе</com:Name>
-        </str:Code>
-        <str:Code id="к органам внутренних дел">
-          <com:Name xml:lang="ru">к органам внутренних дел</com:Name>
-          <com:Name xml:lang="en">к органам внутренних дел</com:Name>
-          <com:Name xml:lang="kk">к органам внутренних дел</com:Name>
-        </str:Code>
-        <str:Code id="к органам гражданской защиты">
-          <com:Name xml:lang="ru">к органам гражданской защиты</com:Name>
-          <com:Name xml:lang="en">к органам гражданской защиты</com:Name>
-          <com:Name xml:lang="kk">к органам гражданской защиты</com:Name>
-        </str:Code>
-        <str:Code id="к органам прокуратуры">
-          <com:Name xml:lang="ru">к органам прокуратуры</com:Name>
-          <com:Name xml:lang="en">к органам прокуратуры</com:Name>
-          <com:Name xml:lang="kk">к органам прокуратуры</com:Name>
-        </str:Code>
-        <str:Code id="к службе экономических расследований">
-          <com:Name xml:lang="ru">к службе экономических расследований</com:Name>
-          <com:Name xml:lang="en">к службе экономических расследований</com:Name>
-          <com:Name xml:lang="kk">к службе экономических расследований</com:Name>
-        </str:Code>
-        <str:Code id="органам полиции можно доверять">
-          <com:Name xml:lang="ru">органам полиции можно доверять</com:Name>
-          <com:Name xml:lang="en">органам полиции можно доверять</com:Name>
-          <com:Name xml:lang="kk">органам полиции можно доверять</com:Name>
-        </str:Code>
-        <str:Code id="органам прокуратуры можно доверять">
-          <com:Name xml:lang="ru">органам прокуратуры можно доверять</com:Name>
-          <com:Name xml:lang="en">органам прокуратуры можно доверять</com:Name>
-          <com:Name xml:lang="kk">органам прокуратуры можно доверять</com:Name>
-        </str:Code>
-        <str:Code id="службе экономических расследований можно доверять">
-          <com:Name xml:lang="ru">службе экономических расследований можно доверять</com:Name>
-          <com:Name xml:lang="en">службе экономических расследований можно доверять</com:Name>
-          <com:Name xml:lang="kk">службе экономических расследований можно доверять</com:Name>
-        </str:Code>
         <str:Code id="SKILL_MATH">
           <com:Name xml:lang="ru">навыков счета</com:Name>
           <com:Name xml:lang="en">math skills</com:Name>
@@ -19998,160 +20118,10 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">ii) basic math skills (based on gender and 3rd grade)</com:Name>
           <com:Name xml:lang="kk">ii) жынысы бойынша бөлінісінде есептеу машығына ие (3 сынып) Математика</com:Name>
         </str:Code>
-        <str:Code id="_L_KZ_DD_MSD">
-          <com:Name xml:lang="ru">умеренная и сильная степень отклонения от нормы</com:Name>
-          <com:Name xml:lang="en">Rate of deviation from the norm (moderate and strong)</com:Name>
-          <com:Name xml:lang="kk">қалыпты және қатал ауытқушылық</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_DD_SDD">
-          <com:Name xml:lang="ru">сильная степень отклонения от нормы</com:Name>
-          <com:Name xml:lang="en">Strong deviation from the norm</com:Name>
-          <com:Name xml:lang="kk">нормадан күшті ауытқу</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_110602_1A">
-          <com:Name xml:lang="ru">взвешенные частицы РМ-10</com:Name>
-          <com:Name xml:lang="en">suspended particles PM-10</com:Name>
-          <com:Name xml:lang="kk">Қалқымалы бөлшектер РМ-10</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_110602_1B">
-          <com:Name xml:lang="ru">взвешенные частицы РМ-2,5</com:Name>
-          <com:Name xml:lang="en">PM2.5</com:Name>
-          <com:Name xml:lang="kk">Қалқымалы бөлшектер РМ-2,5</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_070b01_1A">
-          <com:Name xml:lang="ru">по государственным предприятиям и организациям</com:Name>
-          <com:Name xml:lang="en">State-owned enterprises and organizations</com:Name>
-          <com:Name xml:lang="kk">мемлекеттік кәсіпорындар мен ұйымдар бойынша</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_070b01_1B">
-          <com:Name xml:lang="ru">по предприятиям и организациям  иностранной собственности</com:Name>
-          <com:Name xml:lang="en">Companies and organizations owned by foreigners</com:Name>
-          <com:Name xml:lang="kk">шетелдік меншік кәсіпорындар мен ұйымдар бойынша</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_070b01_1C">
-          <com:Name xml:lang="ru">по предприятиям и организациям частной собственности</com:Name>
-          <com:Name xml:lang="en">Private companies and organizations</com:Name>
-          <com:Name xml:lang="kk">жеке меншік кәсіпорындар мен ұйымдар бойынша</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_050201_1A">
-          <com:Name xml:lang="ru">в течение жизни</com:Name>
-          <com:Name xml:lang="en">During lifetime</com:Name>
-          <com:Name xml:lang="kk">өмір бойы</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_050201_1B">
-          <com:Name xml:lang="ru">в последние 12 месяцев</com:Name>
-          <com:Name xml:lang="en">In the last 12 months</com:Name>
-          <com:Name xml:lang="kk">соңғы 12 айда</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1G">
-          <com:Name xml:lang="ru">Железнодорожный</com:Name>
-          <com:Name xml:lang="en">Railway</com:Name>
-          <com:Name xml:lang="kk">Темір жол көлігі</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1L">
-          <com:Name xml:lang="ru">Перевезено грузов всеми видами транспорта</com:Name>
-          <com:Name xml:lang="en">Cargo transported by all means of transport</com:Name>
-          <com:Name xml:lang="kk">Көліктің барлық түрлерімен жүк тасымалдау</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1Q">
-          <com:Name xml:lang="ru">Трубопроводный</com:Name>
-          <com:Name xml:lang="en">Pipeline</com:Name>
-          <com:Name xml:lang="kk">Құбыр жүргізетін көлікпен</com:Name>
-        </str:Code>
-        <str:Code id="Перевезено грузов с морским транспортом">
-          <com:Name xml:lang="ru">Перевезено грузов с морским транспортом</com:Name>
-          <com:Name xml:lang="en">Перевезено грузов с морским транспортом</com:Name>
-          <com:Name xml:lang="kk">Перевезено грузов с морским транспортом</com:Name>
-        </str:Code>
-        <str:Code id="Перевезено пассажиров с морским транспортом">
-          <com:Name xml:lang="ru">Перевезено пассажиров с морским транспортом</com:Name>
-          <com:Name xml:lang="en">Перевезено пассажиров с морским транспортом</com:Name>
-          <com:Name xml:lang="kk">Перевезено пассажиров с морским транспортом</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090c01_1A">
-          <com:Name xml:lang="ru">Стандарт GSM  (процент охвата населения сетью сотовой связи)</com:Name>
-          <com:Name xml:lang="en">GSM standard (percentage of coverage by cellular network)</com:Name>
-          <com:Name xml:lang="kk">GSM стандарты (халықтың ұялы байланыс жүйесімен қамту пайызы)</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090c01_1B">
-          <com:Name xml:lang="ru">Стандарт UMTS (процент охвата населения сетью сотовой связи 3G)</com:Name>
-          <com:Name xml:lang="en">UMTS standard (percentage of coverage by 3G mobile network)</com:Name>
-          <com:Name xml:lang="kk">UMTS стандарты (халықтың 3G ұялы байланыс жүйесімен қамту пайызы)</com:Name>
-        </str:Code>
-        <str:Code id="наличие теплых и надворных туалетов">
-          <com:Name xml:lang="ru">наличие теплых и надворных туалетов</com:Name>
-          <com:Name xml:lang="en">наличие теплых и надворных туалетов</com:Name>
-          <com:Name xml:lang="kk">наличие теплых и надворных туалетов</com:Name>
-        </str:Code>
-        <str:Code id="наличие только надворных туалетов">
-          <com:Name xml:lang="ru">наличие только надворных туалетов</com:Name>
-          <com:Name xml:lang="en">наличие только надворных туалетов</com:Name>
-          <com:Name xml:lang="kk">наличие только надворных туалетов</com:Name>
-        </str:Code>
-        <str:Code id="наличие только теплых туалетов">
-          <com:Name xml:lang="ru">наличие только теплых туалетов</com:Name>
-          <com:Name xml:lang="en">наличие только теплых туалетов</com:Name>
-          <com:Name xml:lang="kk">наличие только теплых туалетов</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_160104_1A">
-          <com:Name xml:lang="ru">в полной безопасности</com:Name>
-          <com:Name xml:lang="en">Total security</com:Name>
-          <com:Name xml:lang="kk">толық қауіпсіз</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_160104_1B">
-          <com:Name xml:lang="ru">достаточно безопасно</com:Name>
-          <com:Name xml:lang="en">Relatively safe</com:Name>
-          <com:Name xml:lang="kk">жеткілікті қауіпсіз</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_160104_1C">
-          <com:Name xml:lang="ru">не безопасно</com:Name>
-          <com:Name xml:lang="en">Not safe</com:Name>
-          <com:Name xml:lang="kk">қауіпсіз емес</com:Name>
-        </str:Code>
-        <str:Code id="затруднились ответить">
-          <com:Name xml:lang="ru">затруднились ответить</com:Name>
-          <com:Name xml:lang="en">затруднились ответить</com:Name>
-          <com:Name xml:lang="kk">затруднились ответить</com:Name>
-        </str:Code>
-        <str:Code id="совсем не безопасно">
-          <com:Name xml:lang="ru">совсем не безопасно</com:Name>
-          <com:Name xml:lang="en">совсем не безопасно</com:Name>
-          <com:Name xml:lang="kk">совсем не безопасно</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_171201_1A">
-          <com:Name xml:lang="ru">наименее развитых стран</com:Name>
-          <com:Name xml:lang="en">developed countries</com:Name>
-          <com:Name xml:lang="kk">аз дамыған елдер</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_171201_1B">
-          <com:Name xml:lang="ru">развивающихся стран</com:Name>
-          <com:Name xml:lang="en">developing countries</com:Name>
-          <com:Name xml:lang="kk">дамушы елдер</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_020102_1A">
-          <com:Name xml:lang="ru">острое отсутствие продовольственной безопасности</com:Name>
-          <com:Name xml:lang="en">Extreme food insecurity</com:Name>
-          <com:Name xml:lang="kk">өткір азық-түлік қауіпсіздігі</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_020102_1B">
-          <com:Name xml:lang="ru">умеренное и острое отсутствие продовольственной безопасности</com:Name>
-          <com:Name xml:lang="en">Food insecurity (moderate and extreme)</com:Name>
-          <com:Name xml:lang="kk">қалыпты және қатаң азық-түлік қауіпсіздігі</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_010101_1A">
-          <com:Name xml:lang="ru">1,9 долларов США по ППС в  день</com:Name>
-          <com:Name xml:lang="en">1.9 US dollars per day (based on PPP)</com:Name>
-          <com:Name xml:lang="kk">Күніне САҚП бойынша 1,9 АҚШ доллары</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_010101_1B">
-          <com:Name xml:lang="ru">3,2 долларов США по ППС в  день</com:Name>
-          <com:Name xml:lang="en">3.2 US dollars per day (based on PPP)</com:Name>
-          <com:Name xml:lang="kk">Күніне САҚП бойынша 3,2 АҚШ доллары</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_010101_1C">
-          <com:Name xml:lang="ru">5,5 долларов США по ППС в  день</com:Name>
-          <com:Name xml:lang="en">5.5 US dollars per day (based on PPP)</com:Name>
-          <com:Name xml:lang="kk">Күніне САҚП бойынша 5,5 АҚШ доллары</com:Name>
+        <str:Code id="_L_KZ_010a02_1A">
+          <com:Name xml:lang="ru">_L_KZ_010a02_1A</com:Name>
+          <com:Name xml:lang="en">_L_KZ_010a02_1A</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_010a02_1A</com:Name>
         </str:Code>
         <str:Code id="архар">
           <com:Name xml:lang="ru">архар</com:Name>
@@ -20178,45 +20148,75 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">тугайный благородный олень</com:Name>
           <com:Name xml:lang="kk">тугайный благородный олень</com:Name>
         </str:Code>
-        <str:Code id="природного характера">
-          <com:Name xml:lang="ru">природного характера</com:Name>
-          <com:Name xml:lang="en">природного характера</com:Name>
-          <com:Name xml:lang="kk">природного характера</com:Name>
+        <str:Code id="_L_KZ_090102_1G">
+          <com:Name xml:lang="ru">Железнодорожный</com:Name>
+          <com:Name xml:lang="en">Railway</com:Name>
+          <com:Name xml:lang="kk">Темір жол көлігі</com:Name>
         </str:Code>
-        <str:Code id="техногенного характера">
-          <com:Name xml:lang="ru">техногенного характера</com:Name>
-          <com:Name xml:lang="en">техногенного характера</com:Name>
-          <com:Name xml:lang="kk">техногенного характера</com:Name>
+        <str:Code id="_L_KZ_090102_1L">
+          <com:Name xml:lang="ru">Перевезено грузов всеми видами транспорта</com:Name>
+          <com:Name xml:lang="en">Cargo transported by all means of transport</com:Name>
+          <com:Name xml:lang="kk">Көліктің барлық түрлерімен жүк тасымалдау</com:Name>
         </str:Code>
-        <str:Code id="Изменение чистой площади лесов">
-          <com:Name xml:lang="ru">Изменение чистой площади лесов</com:Name>
-          <com:Name xml:lang="en">Изменение чистой площади лесов</com:Name>
-          <com:Name xml:lang="kk">Изменение чистой площади лесов</com:Name>
+        <str:Code id="_L_KZ_090102_1Q">
+          <com:Name xml:lang="ru">Трубопроводный</com:Name>
+          <com:Name xml:lang="en">Pipeline</com:Name>
+          <com:Name xml:lang="kk">Құбыр жүргізетін көлікпен</com:Name>
         </str:Code>
-        <str:Code id="Площадь территории, покрытой лесом">
-          <com:Name xml:lang="ru">Площадь территории, покрытой лесом</com:Name>
-          <com:Name xml:lang="en">Площадь территории, покрытой лесом</com:Name>
-          <com:Name xml:lang="kk">Площадь территории, покрытой лесом</com:Name>
+        <str:Code id="Перевезено грузов с морским транспортом">
+          <com:Name xml:lang="ru">Перевезено грузов с морским транспортом</com:Name>
+          <com:Name xml:lang="en">Перевезено грузов с морским транспортом</com:Name>
+          <com:Name xml:lang="kk">Перевезено грузов с морским транспортом</com:Name>
         </str:Code>
-        <str:Code id="_L_KZ_010a02_1A">
-          <com:Name xml:lang="ru">_L_KZ_010a02_1A</com:Name>
-          <com:Name xml:lang="en">_L_KZ_010a02_1A</com:Name>
-          <com:Name xml:lang="kk">_L_KZ_010a02_1A</com:Name>
+        <str:Code id="Перевезено пассажиров с морским транспортом">
+          <com:Name xml:lang="ru">Перевезено пассажиров с морским транспортом</com:Name>
+          <com:Name xml:lang="en">Перевезено пассажиров с морским транспортом</com:Name>
+          <com:Name xml:lang="kk">Перевезено пассажиров с морским транспортом</com:Name>
         </str:Code>
-        <str:Code id="_L_KZ_030b01_1A">
-          <com:Name xml:lang="ru">Охват АКДС (3 дозы)</com:Name>
-          <com:Name xml:lang="en">DTP Coverage (3 doses)</com:Name>
-          <com:Name xml:lang="kk">АКДС-пен қамтылу (3 дозасы)</com:Name>
+        <str:Code id="_L_KZ_010101_1A">
+          <com:Name xml:lang="ru">1,9 долларов США по ППС в  день</com:Name>
+          <com:Name xml:lang="en">1.9 US dollars per day (based on PPP)</com:Name>
+          <com:Name xml:lang="kk">Күніне САҚП бойынша 1,9 АҚШ доллары</com:Name>
         </str:Code>
-        <str:Code id="_L_KZ_030b01_1B">
-          <com:Name xml:lang="ru">Охват вакциной против кори (2 дозы)</com:Name>
-          <com:Name xml:lang="en">Measles vaccine coverage (2 doses)</com:Name>
-          <com:Name xml:lang="kk">Қызылшаға қарсы вакцинамен қамтылу (2 дозасы)</com:Name>
+        <str:Code id="_L_KZ_010101_1B">
+          <com:Name xml:lang="ru">3,2 долларов США по ППС в  день</com:Name>
+          <com:Name xml:lang="en">3.2 US dollars per day (based on PPP)</com:Name>
+          <com:Name xml:lang="kk">Күніне САҚП бойынша 3,2 АҚШ доллары</com:Name>
         </str:Code>
-        <str:Code id="_L_KZ_030b01_1C">
-          <com:Name xml:lang="ru">Охват Пневмококковой конъюгированной вакциной (3 дозы)</com:Name>
-          <com:Name xml:lang="en">Pneumococcal Conjugate Vaccine Coverage (3 doses)</com:Name>
-          <com:Name xml:lang="kk">Пневмококты конъюгациялы вакцинамен қамтылу (3 дозасы)</com:Name>
+        <str:Code id="_L_KZ_010101_1C">
+          <com:Name xml:lang="ru">5,5 долларов США по ППС в  день</com:Name>
+          <com:Name xml:lang="en">5.5 US dollars per day (based on PPP)</com:Name>
+          <com:Name xml:lang="kk">Күніне САҚП бойынша 5,5 АҚШ доллары</com:Name>
+        </str:Code>
+        <str:Code id="Доходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения">
+          <com:Name xml:lang="ru">Доходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
+          <com:Name xml:lang="en">Доходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
+          <com:Name xml:lang="kk">Доходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
+        </str:Code>
+        <str:Code id="Расходы домохозяйств на душу населения">
+          <com:Name xml:lang="ru">Расходы домохозяйств на душу населения</com:Name>
+          <com:Name xml:lang="en">Расходы домохозяйств на душу населения</com:Name>
+          <com:Name xml:lang="kk">Расходы домохозяйств на душу населения</com:Name>
+        </str:Code>
+        <str:Code id="Расходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения">
+          <com:Name xml:lang="ru">Расходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
+          <com:Name xml:lang="en">Расходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
+          <com:Name xml:lang="kk">Расходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
+        </str:Code>
+        <str:Code id="выше 10 Мбит/сек">
+          <com:Name xml:lang="ru">выше 10 Мбит/сек</com:Name>
+          <com:Name xml:lang="en">выше 10 Мбит/сек</com:Name>
+          <com:Name xml:lang="kk">выше 10 Мбит/сек</com:Name>
+        </str:Code>
+        <str:Code id="от 2 Мбит/сек до менее 10 Мбит/сек">
+          <com:Name xml:lang="ru">от 2 Мбит/сек до менее 10 Мбит/сек</com:Name>
+          <com:Name xml:lang="en">от 2 Мбит/сек до менее 10 Мбит/сек</com:Name>
+          <com:Name xml:lang="kk">от 2 Мбит/сек до менее 10 Мбит/сек</com:Name>
+        </str:Code>
+        <str:Code id="от 256 кБит/сек до менее 2 Мбит/сек">
+          <com:Name xml:lang="ru">от 256 кБит/сек до менее 2 Мбит/сек</com:Name>
+          <com:Name xml:lang="en">от 256 кБит/сек до менее 2 Мбит/сек</com:Name>
+          <com:Name xml:lang="kk">от 256 кБит/сек до менее 2 Мбит/сек</com:Name>
         </str:Code>
         <str:Code id="_L_KZ_010301_1A">
           <com:Name xml:lang="ru">Численность получателей адресной социальной помощи</com:Name>
@@ -20492,95 +20492,55 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">units</com:Name>
           <com:Name xml:lang="kk">бірлік</com:Name>
         </str:Code>
-        <str:Code id="TH_UNITS">
-          <com:Name xml:lang="ru">тыс.единиц</com:Name>
-          <com:Name xml:lang="en">thousands</com:Name>
-          <com:Name xml:lang="kk">мың бірлік</com:Name>
-        </str:Code>
-        <str:Code id="M_T">
-          <com:Name xml:lang="ru">млн.тонн</com:Name>
-          <com:Name xml:lang="en">millions tonnes</com:Name>
-          <com:Name xml:lang="kk">млн.тонна</com:Name>
-        </str:Code>
-        <str:Code id="M_TNG">
-          <com:Name xml:lang="ru">млн.тенге</com:Name>
-          <com:Name xml:lang="en">million tenge</com:Name>
-          <com:Name xml:lang="kk">млн.теңге</com:Name>
-        </str:Code>
-        <str:Code id="M_USD">
-          <com:Name xml:lang="ru">млн.долл.США</com:Name>
-          <com:Name xml:lang="en">M_USD</com:Name>
-          <com:Name xml:lang="kk">млн АҚШ доллары</com:Name>
+        <str:Code id="PER_1000_employees">
+          <com:Name xml:lang="ru">на 1000 работников</com:Name>
+          <com:Name xml:lang="en">per 1000 workers</com:Name>
+          <com:Name xml:lang="kk">1000 қызметкерлерге</com:Name>
         </str:Code>
         <str:Code id="PT_PREV_Y">
           <com:Name xml:lang="ru">в процентах к предыдущему году</com:Name>
           <com:Name xml:lang="en">PT_PREV_Y</com:Name>
           <com:Name xml:lang="kk">өткен жылға пайызбен</com:Name>
         </str:Code>
+        <str:Code id="M_USD">
+          <com:Name xml:lang="ru">млн.долл.США</com:Name>
+          <com:Name xml:lang="en">M_USD</com:Name>
+          <com:Name xml:lang="kk">млн АҚШ доллары</com:Name>
+        </str:Code>
+        <str:Code id="M_TNG">
+          <com:Name xml:lang="ru">млн.тенге</com:Name>
+          <com:Name xml:lang="en">million tenge</com:Name>
+          <com:Name xml:lang="kk">млн.теңге</com:Name>
+        </str:Code>
         <str:Code id="TH_TNG">
           <com:Name xml:lang="ru">тыс.тенге</com:Name>
           <com:Name xml:lang="en">thousand of tenge</com:Name>
           <com:Name xml:lang="kk">мың теңге</com:Name>
-        </str:Code>
-        <str:Code id="PER_1000_employees">
-          <com:Name xml:lang="ru">на 1000 работников</com:Name>
-          <com:Name xml:lang="en">per 1000 workers</com:Name>
-          <com:Name xml:lang="kk">1000 қызметкерлерге</com:Name>
-        </str:Code>
-        <str:Code id="METER3_TH_TNG">
-          <com:Name xml:lang="ru">м³/тыс.тенге</com:Name>
-          <com:Name xml:lang="en">METER3_TH_TNG</com:Name>
-          <com:Name xml:lang="kk">м3 / мың теңге</com:Name>
-        </str:Code>
-        <str:Code id="MG_CUB_METER">
-          <com:Name xml:lang="ru">мг/метр куб</com:Name>
-          <com:Name xml:lang="en">mg per cube meters</com:Name>
-          <com:Name xml:lang="kk">мг/текше метр</com:Name>
         </str:Code>
         <str:Code id="PERSONS">
           <com:Name xml:lang="ru">человек</com:Name>
           <com:Name xml:lang="en">Number of individuals</com:Name>
           <com:Name xml:lang="kk">адам</com:Name>
         </str:Code>
+        <str:Code id="M_METER3">
+          <com:Name xml:lang="ru">млн.м3</com:Name>
+          <com:Name xml:lang="en">M_METER3</com:Name>
+          <com:Name xml:lang="kk">млн.м3</com:Name>
+        </str:Code>
         <str:Code id="TH_HA">
           <com:Name xml:lang="ru">тыс.гектар</com:Name>
           <com:Name xml:lang="en">thousands hectares</com:Name>
           <com:Name xml:lang="kk">мың.гектар</com:Name>
-        </str:Code>
-        <str:Code id="TH_PEOPLE">
-          <com:Name xml:lang="ru">тыс.человек</com:Name>
-          <com:Name xml:lang="en">thousand people</com:Name>
-          <com:Name xml:lang="kk">мың.адам</com:Name>
         </str:Code>
         <str:Code id="PT_BY_2005">
           <com:Name xml:lang="ru">в процентах к 2005 году</com:Name>
           <com:Name xml:lang="en">PT_BY_2005</com:Name>
           <com:Name xml:lang="kk">2005 жылға пайызбен</com:Name>
         </str:Code>
-        <str:Code id="SQ_METER">
-          <com:Name xml:lang="ru">кв.м.</com:Name>
-          <com:Name xml:lang="en">square meters</com:Name>
-          <com:Name xml:lang="kk">шаршы метр</com:Name>
-        </str:Code>
-        <str:Code id="M_METER3">
-          <com:Name xml:lang="ru">млн.м3</com:Name>
-          <com:Name xml:lang="en">M_METER3</com:Name>
-          <com:Name xml:lang="kk">млн.м3</com:Name>
-        </str:Code>
-        <str:Code id="million USD">
-          <com:Name xml:lang="ru">млн.долларов США</com:Name>
-          <com:Name xml:lang="en">millions of US dollars</com:Name>
-          <com:Name xml:lang="kk">млн.АҚШ доллар</com:Name>
-        </str:Code>
-        <str:Code id="PT_IN_2010_PRICE">
-          <com:Name xml:lang="ru">процент, в ценах 2010 года</com:Name>
-          <com:Name xml:lang="en">percent, base year 2010</com:Name>
-          <com:Name xml:lang="kk">2010 жылғы бағаларда пайызбен</com:Name>
-        </str:Code>
-        <str:Code id="USD_IN_2010_PRICE">
-          <com:Name xml:lang="ru">в долларах США, в ценах 2010 года</com:Name>
-          <com:Name xml:lang="en">tenge per US dollars in 2010 prices</com:Name>
-          <com:Name xml:lang="kk">2010 жылғы бағаларда, АҚШ доллар</com:Name>
+        <str:Code id="MG_CUB_METER">
+          <com:Name xml:lang="ru">мг/метр куб</com:Name>
+          <com:Name xml:lang="en">mg per cube meters</com:Name>
+          <com:Name xml:lang="kk">мг/текше метр</com:Name>
         </str:Code>
         <str:Code id="NUM_ATM_PER_100000_ADL">
           <com:Name xml:lang="ru">число банкоматов на 100 000 взрослых</com:Name>
@@ -20591,6 +20551,46 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="ru">число филиалов коммерческих банков на 100 000 взрослых</com:Name>
           <com:Name xml:lang="en">the number of branches of commercial banks per 100 000 adults</com:Name>
           <com:Name xml:lang="kk">100 000 ересекке шаққандағы коммерциялық банктер саны</com:Name>
+        </str:Code>
+        <str:Code id="million USD">
+          <com:Name xml:lang="ru">млн.долларов США</com:Name>
+          <com:Name xml:lang="en">millions of US dollars</com:Name>
+          <com:Name xml:lang="kk">млн.АҚШ доллар</com:Name>
+        </str:Code>
+        <str:Code id="METER3_TH_TNG">
+          <com:Name xml:lang="ru">м³/тыс.тенге</com:Name>
+          <com:Name xml:lang="en">METER3_TH_TNG</com:Name>
+          <com:Name xml:lang="kk">м3 / мың теңге</com:Name>
+        </str:Code>
+        <str:Code id="M_T">
+          <com:Name xml:lang="ru">млн.тонн</com:Name>
+          <com:Name xml:lang="en">millions tonnes</com:Name>
+          <com:Name xml:lang="kk">млн.тонна</com:Name>
+        </str:Code>
+        <str:Code id="TH_PEOPLE">
+          <com:Name xml:lang="ru">тыс.человек</com:Name>
+          <com:Name xml:lang="en">thousand people</com:Name>
+          <com:Name xml:lang="kk">мың.адам</com:Name>
+        </str:Code>
+        <str:Code id="SQ_METER">
+          <com:Name xml:lang="ru">кв.м.</com:Name>
+          <com:Name xml:lang="en">square meters</com:Name>
+          <com:Name xml:lang="kk">шаршы метр</com:Name>
+        </str:Code>
+        <str:Code id="TH_UNITS">
+          <com:Name xml:lang="ru">тыс.единиц</com:Name>
+          <com:Name xml:lang="en">thousands</com:Name>
+          <com:Name xml:lang="kk">мың бірлік</com:Name>
+        </str:Code>
+        <str:Code id="PT_IN_2010_PRICE">
+          <com:Name xml:lang="ru">процент, в ценах 2010 года</com:Name>
+          <com:Name xml:lang="en">percent, base year 2010</com:Name>
+          <com:Name xml:lang="kk">2010 жылғы бағаларда пайызбен</com:Name>
+        </str:Code>
+        <str:Code id="USD_IN_2010_PRICE">
+          <com:Name xml:lang="ru">в долларах США, в ценах 2010 года</com:Name>
+          <com:Name xml:lang="en">tenge per US dollars in 2010 prices</com:Name>
+          <com:Name xml:lang="kk">2010 жылғы бағаларда, АҚШ доллар</com:Name>
         </str:Code>
       </str:Codelist>
       <str:Codelist version="1.0" isExternalReference="false" isFinal="true" agencyID="IAEG-SDGs" id="CL_URBANISATION" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_URBANISATION(1.0)">
