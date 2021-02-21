@@ -35,25 +35,33 @@ about: |
 about_title: About
 faq: |-
   What does the reporting status mean?
+
   We have used three different types of reporting status for an indicator, which are also colour coded:
-  * Black: current indicator, data for this indicator is available on this website.
-  * White: the indicator is deferred, there is no calculation methodology or initial values.
-  * Black and white: the indicator is not relevant for Kazakhstan.
+  • Black: current indicator, data for this indicator is available on this website.
+  • White: the indicator is deferred, there is no calculation methodology or initial values.
+  • Black and white: the indicator is not relevant for Kazakhstan.
+
 
   What does disaggregation mean?
+
   Disaggregation is used to assess an indicator in more detail by dividing it into subcategories. The most common ones are age or gender. Every indicator has its own specific set of disaggregation categories which are provided either in the indicator’s name or by the international organization responsible for the indicator.
 
-  Is there a methodology of calculation of indicators of the sdgs?
+  Is there a methodology of calculation of indicators of the SDGs?
+
   Yes, the methodology for calculating the global SDG indicators is available on the website stat.gov.kz.
+
   The methodology for calculating national indicators is currently being developed.
 
   What results of work in the field of SDG monitoring are available at the moment?
+
   The results of the work are reflected in the Roadmap of Kazakhstan for monitoring the achievement of the Sustainable Development Goals for 2020-2022 (posted on the website stat.gov.kz).
 
   How often will new data be added to this site?
+
   Data will be added as they are produced in accordance with the Statistical Work Plan and received from government agencies.
 
   What are you doing to fill in the gaps in the data?
+
   In order to generate SDG indicators (including missing data) The Bureau of National Statistics cooperates with interested government agencies and international experts from various custodian agencies.
 cookies: |
   Frequently Asked Questions (FAQ)
