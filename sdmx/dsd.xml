@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1614007389</mes:ID>
+    <mes:ID>IREF1614008588</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-02-22T15:23:09</mes:Prepared>
+    <mes:Prepared>2021-02-22T15:43:08</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@130"/>
   </mes:Header>
   <mes:Structures>
@@ -20491,6 +20491,11 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
         <str:Code id="TCO2E" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).TCO2E">
           <com:Name xml:lang="en">Tonnes of CO2-equivalent</com:Name>
           <com:Description xml:lang="en">Tonnes of CO2-equivalent</com:Description>
+        </str:Code>
+        <str:Code id="тонн СО2-экв/душу населения">
+          <com:Name xml:lang="ru">тонн СО2-экв/душу населения</com:Name>
+          <com:Name xml:lang="en">тонн СО2-экв/душу населения</com:Name>
+          <com:Name xml:lang="kk">тонн СО2-экв/душу населения</com:Name>
         </str:Code>
         <str:Code id="UNITS">
           <com:Name xml:lang="ru">единиц</com:Name>
