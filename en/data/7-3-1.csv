@@ -51,71 +51,88 @@ Year,Regions,Value
 2014,Shygys Kazakhstan,0.82
 2014,Nur-Sultan city,0.2
 2014,Almaty city,0.12
-2015,,0.4189583579222953
-2015,Akmola,0.62
-2015,Aktobe,3.36
-2015,Almaty,0.2
-2015,Atyrau,1.43
-2015,Batys Kazakhstan,4.72
-2015,Zhambyl,0.24
-2015,Karagandy,3.06
-2015,Kostanay,0.01
-2015,Kyzylorda,5.0
-2015,Mangistau,3.96
-2015,Turkistan,0.49
-2015,Pavlodar,5.94
-2015,Soltustik Kazakhstan,0.5
-2015,Shygys Kazakhstan,0.68
-2015,Nur-Sultan city,0.19
-2015,Almaty city,0.13
-2016,,0.4202246928698693
-2016,Akmola,0.39
-2016,Aktobe,3.43
-2016,Almaty,0.13
-2016,Atyrau,1.42
-2016,Batys Kazakhstan,5.46
-2016,Zhambyl,0.37
-2016,Karagandy,2.7
-2016,Kostanay,0.05
-2016,Kyzylorda,5.4
-2016,Mangistau,4.14
-2016,Turkistan,0.71
-2016,Pavlodar,6.22
-2016,Soltustik Kazakhstan,0.42
-2016,Shygys Kazakhstan,0.8
-2016,Nur-Sultan city,0.1
-2016,Almaty city,0.12
-2017,,0.4202246928698693
-2017,Akmola,0.45
-2017,Aktobe,3.41
-2017,Almaty,0.14
-2017,Atyrau,1.46
-2017,Batys Kazakhstan,5.68
-2017,Zhambyl,0.24
-2017,Karagandy,2.69
-2017,Kostanay,0.02
+2015,,0.42
+2015,Akmola,0.39
+2015,Aktobe,3.43
+2015,Almaty,0.13
+2015,Atyrau,1.42
+2015,Batys Kazakhstan,5.46
+2015,Zhambyl,0.37
+2015,Karagandy,2.7
+2015,Kostanay,0.05
+2015,Kyzylorda,5.4
+2015,Mangistau,4.14
+2015,Turkistan,0.71
+2015,Pavlodar,6.22
+2015,Soltustik Kazakhstan,0.42
+2015,Shygys Kazakhstan,0.8
+2015,Nur-Sultan city,0.1
+2015,Almaty city,0.12
+2016,,0.42
+2016,Akmola,0.45
+2016,Aktobe,3.41
+2016,Almaty,0.14
+2016,Atyrau,1.46
+2016,Batys Kazakhstan,5.68
+2016,Zhambyl,0.24
+2016,Karagandy,2.69
+2016,Kostanay,0.02
+2016,Kyzylorda,5.96
+2016,Mangistau,4.15
+2016,Turkistan,0.7
+2016,Pavlodar,6.31
+2016,Soltustik Kazakhstan,0.22
+2016,Shygys Kazakhstan,0.84
+2016,Nur-Sultan city,0.09
+2016,Almaty city,0.11
+2017,,0.42
+2017,Akmola,0.43
+2017,Aktobe,3.69
+2017,Almaty,0.15
+2017,Atyrau,1.4
+2017,Batys Kazakhstan,5.54
+2017,Zhambyl,0.22
+2017,Karagandy,2.84
+2017,Kostanay,0.01
 2017,Kyzylorda,5.96
-2017,Mangistau,4.15
-2017,Turkistan,0.7
-2017,Pavlodar,6.31
-2017,Soltustik Kazakhstan,0.22
-2017,Shygys Kazakhstan,0.84
-2017,Nur-Sultan city,0.09
-2017,Almaty city,0.11
-2018,,0.42
-2018,Akmola,0.43
-2018,Aktobe,3.69
-2018,Almaty,0.15
-2018,Atyrau,1.4
-2018,Batys Kazakhstan,5.54
-2018,Zhambyl,0.22
-2018,Karagandy,2.84
-2018,Kostanay,0.01
-2018,Kyzylorda,5.96
-2018,Mangistau,4.61
-2018,Turkistan,0.68
-2018,Pavlodar,6.1
-2018,Soltustik Kazakhstan,0.3
-2018,Shygys Kazakhstan,0.83
-2018,Nur-Sultan city,0.1
-2018,Almaty city,0.12
+2017,Mangistau,4.61
+2017,Turkistan,0.68
+2017,Pavlodar,6.1
+2017,Soltustik Kazakhstan,0.3
+2017,Shygys Kazakhstan,0.83
+2017,Nur-Sultan city,0.1
+2017,Almaty city,0.12
+2018,,0.37
+2018,Akmola,0.3
+2018,Aktobe,2.98
+2018,Almaty,0.08
+2018,Atyrau,1.13
+2018,Batys Kazakhstan,6.32
+2018,Zhambyl,0.39
+2018,Karagandy,2.4
+2018,Kostanay,0.02
+2018,Kyzylorda,5.42
+2018,Mangistau,4.75
+2018,Turkistan,0.33
+2018,Pavlodar,7.12
+2018,Soltustik Kazakhstan,0.06
+2018,Shygys Kazakhstan,0.79
+2018,Nur-Sultan city,0.07
+2018,Almaty city,0.09
+2019,,0.34
+2019,Akmola,0.27
+2019,Aktobe,2.99
+2019,Almaty,0.08
+2019,Atyrau,0.78
+2019,Batys Kazakhstan,5.41
+2019,Zhambyl,0.34
+2019,Karagandy,2.03
+2019,Kostanay,0.01
+2019,Kyzylorda,6.54
+2019,Mangistau,3.64
+2019,Turkistan,0.26
+2019,Pavlodar,5.26
+2019,Soltustik Kazakhstan,0.01
+2019,Shygys Kazakhstan,1.04
+2019,Nur-Sultan city,0.06
+2019,Almaty city,0.11
