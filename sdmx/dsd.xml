@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1614000300</mes:ID>
+    <mes:ID>IREF1614001774</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-02-22T13:25:00</mes:Prepared>
+    <mes:Prepared>2021-02-22T13:49:34</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@130"/>
   </mes:Header>
   <mes:Structures>
@@ -20507,15 +20507,15 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">PT_PREV_Y</com:Name>
           <com:Name xml:lang="kk">өткен жылға пайызбен</com:Name>
         </str:Code>
-        <str:Code id="biilion tenge">
-          <com:Name xml:lang="ru">biilion tenge</com:Name>
-          <com:Name xml:lang="en">biilion tenge</com:Name>
-          <com:Name xml:lang="kk">biilion tenge</com:Name>
+        <str:Code id="biilion_tenge">
+          <com:Name xml:lang="ru">biilion_tenge</com:Name>
+          <com:Name xml:lang="en">biilion_tenge</com:Name>
+          <com:Name xml:lang="kk">biilion_tenge</com:Name>
         </str:Code>
-        <str:Code id="billion tenge">
-          <com:Name xml:lang="ru">billion tenge</com:Name>
-          <com:Name xml:lang="en">billion tenge</com:Name>
-          <com:Name xml:lang="kk">billion tenge</com:Name>
+        <str:Code id="billion_tenge">
+          <com:Name xml:lang="ru">млрд.тенге</com:Name>
+          <com:Name xml:lang="en">billion_tenge</com:Name>
+          <com:Name xml:lang="kk">billion_tenge</com:Name>
         </str:Code>
         <str:Code id="M_USD">
           <com:Name xml:lang="ru">млн.долл.США</com:Name>
