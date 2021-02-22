@@ -1,6 +1,4 @@
 Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
-biilion_tenge,biilion_tenge,biilion_tenge,biilion_tenge,1,1
-billion_tenge,млрд.тенге,billion_tenge,billion_tenge,1,1
 M_METER3,млн.м3,млн.м3,M_METER3,30,2
 M_T,млн.тонн,млн.тонна,millions tonnes,51,1
 M_TNG,млн.тенге,млн.теңге,million tenge,1,1
@@ -29,3 +27,4 @@ TH_TNG,тыс.тенге,мың теңге,thousand of tenge,55,2
 TH_UNITS,тыс.единиц,мың бірлік,thousands,57,1
 UNITS,единиц,бірлік,units,5,4
 USD_IN_2010_PRICE,"в долларах США, в ценах 2010 года","2010 жылғы бағаларда, АҚШ доллар",tenge per US dollars in 2010 prices,17,1
+млрд.тенге,млрд.тенге,млрд.тенге,млрд.тенге,1,1
