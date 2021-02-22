@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1614006755</mes:ID>
+    <mes:ID>IREF1614007389</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-02-22T15:12:35</mes:Prepared>
+    <mes:Prepared>2021-02-22T15:23:09</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@130"/>
   </mes:Header>
   <mes:Structures>
@@ -20561,6 +20561,11 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="ru">число филиалов коммерческих банков на 100 000 взрослых</com:Name>
           <com:Name xml:lang="en">the number of branches of commercial banks per 100 000 adults</com:Name>
           <com:Name xml:lang="kk">100 000 ересекке шаққандағы коммерциялық банктер саны</com:Name>
+        </str:Code>
+        <str:Code id="кг СО2-экв/межд.доллар">
+          <com:Name xml:lang="ru">кг СО2-экв/межд.доллар</com:Name>
+          <com:Name xml:lang="en">кг СО2-экв/межд.доллар</com:Name>
+          <com:Name xml:lang="kk">кг СО2-экв/межд.доллар</com:Name>
         </str:Code>
         <str:Code id="million USD">
           <com:Name xml:lang="ru">млн.долларов США</com:Name>
