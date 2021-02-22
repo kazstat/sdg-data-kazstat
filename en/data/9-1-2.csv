@@ -757,6 +757,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2018,millions tonnes,Pipeline,,281.4156
 2018,millions tonnes,Railway,,397.8848
 2018,millions tonnes,Air,,0.0441
+2018,millions tonnes,Inland water еransport,,1.2
 2018,millions tonnes,,Akmola,126.5051
 2018,millions tonnes,,Aktobe,79.1306
 2018,millions tonnes,,Almaty,184.551
@@ -901,7 +902,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2019,tons,transported by air,Almaty city,225511.0
 2019,thousand people,passengers transported by air,,8644.86
 2019,thousand people,passengers transported by air,Almaty,12.67
-2019,thousand people,passengers transported by air,Turkistan,0.01
+2019,thousand people,passengers transported by air,Turkistan,0.0
 2019,thousand people,passengers transported by air,Shygys Kazakhstan,0.01
 2019,thousand people,passengers transported by air,Shymkent city,5538.33
 2019,millions tonnes,performance indicators of pipeline transport,,273.031
