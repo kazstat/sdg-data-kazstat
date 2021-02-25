@@ -53,33 +53,33 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,Value
 2010,Percent,Strong deviation from the norm,M24T35,,,,1.2
 2010,Percent,Strong deviation from the norm,36-47 months,,,,0.7
 2010,Percent,Strong deviation from the norm,48-59 months,,,,1.8
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,,13.3
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,Male,,14.8
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,Female,,11.8
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,Population of urban areas,,,13.7
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,Population of rural areas,,,13.0
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Akmola,13.6
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Aktobe,33.5
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Almaty,7.6
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Atyrau,16.2
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Batys Kazakhstan,6.6
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Zhambyl,21.3
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Karagandy,6.1
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Kostanay,6.6
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Kyzylorda,6.8
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Mangistau,15.7
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Ontustik Kazakhstan,11.1
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Pavlodar,13.6
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Soltustik Kazakhstan,11.6
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Shygys Kazakhstan,20.2
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Nur-Sultan city,22.1
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Almaty city,15.6
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],M0T5,,,,9.8
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],M6T11,,,,19.0
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],M12T23,,,,17.4
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],M24T35,,,,12.9
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],36-47 months,,,,11.6
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],48-59 months,,,,9.7
+2010,Percent,Children moderately or severely overweight (number),,,,,13.3
+2010,Percent,Children moderately or severely overweight (number),,,Male,,14.8
+2010,Percent,Children moderately or severely overweight (number),,,Female,,11.8
+2010,Percent,Children moderately or severely overweight (number),,Population of urban areas,,,13.7
+2010,Percent,Children moderately or severely overweight (number),,Population of rural areas,,,13.0
+2010,Percent,Children moderately or severely overweight (number),,,,Akmola,13.6
+2010,Percent,Children moderately or severely overweight (number),,,,Aktobe,33.5
+2010,Percent,Children moderately or severely overweight (number),,,,Almaty,7.6
+2010,Percent,Children moderately or severely overweight (number),,,,Atyrau,16.2
+2010,Percent,Children moderately or severely overweight (number),,,,Batys Kazakhstan,6.6
+2010,Percent,Children moderately or severely overweight (number),,,,Zhambyl,21.3
+2010,Percent,Children moderately or severely overweight (number),,,,Karagandy,6.1
+2010,Percent,Children moderately or severely overweight (number),,,,Kostanay,6.6
+2010,Percent,Children moderately or severely overweight (number),,,,Kyzylorda,6.8
+2010,Percent,Children moderately or severely overweight (number),,,,Mangistau,15.7
+2010,Percent,Children moderately or severely overweight (number),,,,Ontustik Kazakhstan,11.1
+2010,Percent,Children moderately or severely overweight (number),,,,Pavlodar,13.6
+2010,Percent,Children moderately or severely overweight (number),,,,Soltustik Kazakhstan,11.6
+2010,Percent,Children moderately or severely overweight (number),,,,Shygys Kazakhstan,20.2
+2010,Percent,Children moderately or severely overweight (number),,,,Nur-Sultan city,22.1
+2010,Percent,Children moderately or severely overweight (number),,,,Almaty city,15.6
+2010,Percent,Children moderately or severely overweight (number),M0T5,,,,9.8
+2010,Percent,Children moderately or severely overweight (number),M6T11,,,,19.0
+2010,Percent,Children moderately or severely overweight (number),M12T23,,,,17.4
+2010,Percent,Children moderately or severely overweight (number),M24T35,,,,12.9
+2010,Percent,Children moderately or severely overweight (number),36-47 months,,,,11.6
+2010,Percent,Children moderately or severely overweight (number),48-59 months,,,,9.7
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,,,3.1
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,Male,,2.9
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,Female,,3.3
@@ -136,31 +136,31 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,Value
 2015,Percent,Strong deviation from the norm,M24T35,,,,0.9
 2015,Percent,Strong deviation from the norm,36-47 months,,,,0.2
 2015,Percent,Strong deviation from the norm,48-59 months,,,,0.7
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,,9.3
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,Male,,8.7
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,Female,,10.0
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,Population of urban areas,,,11.2
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,Population of rural areas,,,7.6
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Akmola,4.9
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Aktobe,10.3
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Almaty,6.3
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Atyrau,14.7
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Batys Kazakhstan,8.0
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Zhambyl,6.1
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Karagandy,6.4
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Kostanay,12.5
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Kyzylorda,8.6
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Mangistau,4.9
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Ontustik Kazakhstan,7.6
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Pavlodar,9.7
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Soltustik Kazakhstan,5.6
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Shygys Kazakhstan,9.2
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Nur-Sultan city,16.2
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Almaty city,21.6
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],M0T5,,,,5.8
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],M6T11,,,,12.5
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],M12T17,,,,15.1
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],M18T23,,,,10.1
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],M24T35,,,,10.5
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],36-47 months,,,,8.0
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],48-59 months,,,,6.5
+2015,Percent,Children moderately or severely overweight (number),,,,,9.3
+2015,Percent,Children moderately or severely overweight (number),,,Male,,8.7
+2015,Percent,Children moderately or severely overweight (number),,,Female,,10.0
+2015,Percent,Children moderately or severely overweight (number),,Population of urban areas,,,11.2
+2015,Percent,Children moderately or severely overweight (number),,Population of rural areas,,,7.6
+2015,Percent,Children moderately or severely overweight (number),,,,Akmola,4.9
+2015,Percent,Children moderately or severely overweight (number),,,,Aktobe,10.3
+2015,Percent,Children moderately or severely overweight (number),,,,Almaty,6.3
+2015,Percent,Children moderately or severely overweight (number),,,,Atyrau,14.7
+2015,Percent,Children moderately or severely overweight (number),,,,Batys Kazakhstan,8.0
+2015,Percent,Children moderately or severely overweight (number),,,,Zhambyl,6.1
+2015,Percent,Children moderately or severely overweight (number),,,,Karagandy,6.4
+2015,Percent,Children moderately or severely overweight (number),,,,Kostanay,12.5
+2015,Percent,Children moderately or severely overweight (number),,,,Kyzylorda,8.6
+2015,Percent,Children moderately or severely overweight (number),,,,Mangistau,4.9
+2015,Percent,Children moderately or severely overweight (number),,,,Ontustik Kazakhstan,7.6
+2015,Percent,Children moderately or severely overweight (number),,,,Pavlodar,9.7
+2015,Percent,Children moderately or severely overweight (number),,,,Soltustik Kazakhstan,5.6
+2015,Percent,Children moderately or severely overweight (number),,,,Shygys Kazakhstan,9.2
+2015,Percent,Children moderately or severely overweight (number),,,,Nur-Sultan city,16.2
+2015,Percent,Children moderately or severely overweight (number),,,,Almaty city,21.6
+2015,Percent,Children moderately or severely overweight (number),M0T5,,,,5.8
+2015,Percent,Children moderately or severely overweight (number),M6T11,,,,12.5
+2015,Percent,Children moderately or severely overweight (number),M12T17,,,,15.1
+2015,Percent,Children moderately or severely overweight (number),M18T23,,,,10.1
+2015,Percent,Children moderately or severely overweight (number),M24T35,,,,10.5
+2015,Percent,Children moderately or severely overweight (number),36-47 months,,,,8.0
+2015,Percent,Children moderately or severely overweight (number),48-59 months,,,,6.5
