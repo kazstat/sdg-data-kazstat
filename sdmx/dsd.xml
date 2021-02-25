@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1614273281</mes:ID>
+    <mes:ID>IREF1614274965</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-02-25T17:14:41</mes:Prepared>
+    <mes:Prepared>2021-02-25T17:42:45</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@130"/>
   </mes:Header>
   <mes:Structures>
@@ -12700,66 +12700,6 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">наличие только теплых туалетов</com:Name>
           <com:Name xml:lang="kk">наличие только теплых туалетов</com:Name>
         </str:Code>
-        <str:Code id="_L_KZ_090102_1J">
-          <com:Name xml:lang="ru">перевезено грузов автомобильным  и городским  электрическим транспортом</com:Name>
-          <com:Name xml:lang="en">_L_KZ_090102_1J</com:Name>
-          <com:Name xml:lang="kk">_L_KZ_090102_1J</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1O">
-          <com:Name xml:lang="ru">показатели работы морского и прибрежного транспорта</com:Name>
-          <com:Name xml:lang="en">indicators of maritime and coastal transport</com:Name>
-          <com:Name xml:lang="kk">теңіз және су жағасындағы көліктер жұмысының көрсеткіштері</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1P">
-          <com:Name xml:lang="ru">показатели работы трубопроводного транспорта</com:Name>
-          <com:Name xml:lang="en">performance indicators of pipeline transport</com:Name>
-          <com:Name xml:lang="kk">құбыр көлігінің жұмыс көрсеткіштері</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1A">
-          <com:Name xml:lang="ru">Автомобильный</com:Name>
-          <com:Name xml:lang="en">Automobile</com:Name>
-          <com:Name xml:lang="kk">Автокөлік</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1B">
-          <com:Name xml:lang="ru">Внутренним водным</com:Name>
-          <com:Name xml:lang="en">Inland water еransport</com:Name>
-          <com:Name xml:lang="kk">Ішкі су көлігімен</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1D">
-          <com:Name xml:lang="ru">Воздушным</com:Name>
-          <com:Name xml:lang="en">Air</com:Name>
-          <com:Name xml:lang="kk">Әуе көлігімен</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1F">
-          <com:Name xml:lang="ru">Городской электрический</com:Name>
-          <com:Name xml:lang="en">City electric transport</com:Name>
-          <com:Name xml:lang="kk">Қалалық электр көлігі</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1H">
-          <com:Name xml:lang="ru">Железнодорожным транспортом</com:Name>
-          <com:Name xml:lang="en">Railway transport</com:Name>
-          <com:Name xml:lang="kk">Темір жол көлігімен</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1I">
-          <com:Name xml:lang="ru">Морским</com:Name>
-          <com:Name xml:lang="en">nautical</com:Name>
-          <com:Name xml:lang="kk">Теңіз көлігімен</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1M">
-          <com:Name xml:lang="ru">перевезено пассажиров воздушным транспортом</com:Name>
-          <com:Name xml:lang="en">passengers transported by air</com:Name>
-          <com:Name xml:lang="kk">әуе көлікпен тасымалданған жолаушылар</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1N">
-          <com:Name xml:lang="ru">Перевезено пассажиров всеми видами транспорта</com:Name>
-          <com:Name xml:lang="en">Passengers transported by all means of transport</com:Name>
-          <com:Name xml:lang="kk">Көліктің барлық түрлерімен жолаушыларды тасымалдау</com:Name>
-        </str:Code>
-        <str:Code id="_L_KZ_090102_1K">
-          <com:Name xml:lang="ru">перевезено грузов воздушным транспортом</com:Name>
-          <com:Name xml:lang="en">transported by air</com:Name>
-          <com:Name xml:lang="kk">әуе көлікпен тасымалданған жүктер</com:Name>
-        </str:Code>
         <str:Code id="SKILL_MATH">
           <com:Name xml:lang="ru">навыков счета</com:Name>
           <com:Name xml:lang="en">math skills</com:Name>
@@ -12810,15 +12750,45 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">тугайный благородный олень</com:Name>
           <com:Name xml:lang="kk">тугайный благородный олень</com:Name>
         </str:Code>
+        <str:Code id="_L_KZ_090102_1A">
+          <com:Name xml:lang="ru">Автомобильный</com:Name>
+          <com:Name xml:lang="en">Automobile</com:Name>
+          <com:Name xml:lang="kk">Автокөлік</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_090102_1B">
+          <com:Name xml:lang="ru">Внутренним водным</com:Name>
+          <com:Name xml:lang="en">Inland water еransport</com:Name>
+          <com:Name xml:lang="kk">Ішкі су көлігімен</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_090102_1D">
+          <com:Name xml:lang="ru">Воздушным</com:Name>
+          <com:Name xml:lang="en">Air</com:Name>
+          <com:Name xml:lang="kk">Әуе көлігімен</com:Name>
+        </str:Code>
         <str:Code id="_L_KZ_090102_1G">
           <com:Name xml:lang="ru">Железнодорожный</com:Name>
           <com:Name xml:lang="en">Railway</com:Name>
           <com:Name xml:lang="kk">Темір жол көлігі</com:Name>
         </str:Code>
+        <str:Code id="_L_KZ_090102_1I">
+          <com:Name xml:lang="ru">Морским</com:Name>
+          <com:Name xml:lang="en">nautical</com:Name>
+          <com:Name xml:lang="kk">Теңіз көлігімен</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_090102_1J">
+          <com:Name xml:lang="ru">перевезено грузов автомобильным  и городским  электрическим транспортом</com:Name>
+          <com:Name xml:lang="en">_L_KZ_090102_1J</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_090102_1J</com:Name>
+        </str:Code>
         <str:Code id="_L_KZ_090102_1L">
           <com:Name xml:lang="ru">Перевезено грузов всеми видами транспорта</com:Name>
           <com:Name xml:lang="en">Cargo transported by all means of transport</com:Name>
           <com:Name xml:lang="kk">Көліктің барлық түрлерімен жүк тасымалдау</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_090102_1P">
+          <com:Name xml:lang="ru">показатели работы трубопроводного транспорта</com:Name>
+          <com:Name xml:lang="en">performance indicators of pipeline transport</com:Name>
+          <com:Name xml:lang="kk">құбыр көлігінің жұмыс көрсеткіштері</com:Name>
         </str:Code>
         <str:Code id="_L_KZ_090102_1Q">
           <com:Name xml:lang="ru">Трубопроводный</com:Name>
@@ -12834,6 +12804,31 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="ru">Перевезено пассажиров с морским транспортом</com:Name>
           <com:Name xml:lang="en">Перевезено пассажиров с морским транспортом</com:Name>
           <com:Name xml:lang="kk">Перевезено пассажиров с морским транспортом</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_090102_1F">
+          <com:Name xml:lang="ru">Городской электрический</com:Name>
+          <com:Name xml:lang="en">City electric transport</com:Name>
+          <com:Name xml:lang="kk">Қалалық электр көлігі</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_090102_1H">
+          <com:Name xml:lang="ru">Железнодорожным транспортом</com:Name>
+          <com:Name xml:lang="en">Railway transport</com:Name>
+          <com:Name xml:lang="kk">Темір жол көлігімен</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_090102_1N">
+          <com:Name xml:lang="ru">Перевезено пассажиров всеми видами транспорта</com:Name>
+          <com:Name xml:lang="en">Passengers transported by all means of transport</com:Name>
+          <com:Name xml:lang="kk">Көліктің барлық түрлерімен жолаушыларды тасымалдау</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_090102_1K">
+          <com:Name xml:lang="ru">перевезено грузов воздушным транспортом</com:Name>
+          <com:Name xml:lang="en">transported by air</com:Name>
+          <com:Name xml:lang="kk">әуе көлікпен тасымалданған жүктер</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_090102_1M">
+          <com:Name xml:lang="ru">перевезено пассажиров воздушным транспортом</com:Name>
+          <com:Name xml:lang="en">passengers transported by air</com:Name>
+          <com:Name xml:lang="kk">әуе көлікпен тасымалданған жолаушылар</com:Name>
         </str:Code>
         <str:Code id="_L_KZ_010101_1A">
           <com:Name xml:lang="ru">1,9 долларов США по ППС в  день</com:Name>
