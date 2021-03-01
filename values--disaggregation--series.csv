@@ -39,37 +39,37 @@ _L_KZ_171201_1A,наименее развитых стран,аз дамыған
 _L_KZ_171201_1B,развивающихся стран,дамушы елдер,developing countries,1,1
 _L_KZ_DD_MSD,умеренная и сильная степень отклонения от нормы,қалыпты және қатал ауытқушылық,Rate of deviation from the norm (moderate and strong),58,2
 _L_KZ_DD_SDD,сильная степень отклонения от нормы,нормадан күшті ауытқу,Strong deviation from the norm,58,2
-AG_LND_FRSTBIOM,Запасы наземной биомассы в лесах,AG_LND_FRSTBIOM,Above-ground biomass in forest (tonnes),15,1
-AG_LND_FRSTMGT,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",AG_LND_FRSTMGT,Proportion of forest area with a long-term management plan,15,1
-AG_LND_FRSTPRCT,"Доля лесной площади, находящейся в охраняемых законом зонах",AG_LND_FRSTPRCT,Proportion of forest area within legally established protected areas,15,1
-SD_XPD_ESED,Образование,SD_XPD_ESED,"Proportion of total government spending on essential services, education",1,1
+AG_LND_FRSTBIOM,Запасы наземной биомассы в лесах,AG_LND_FRSTBIOM,Above-ground biomass in forest (tonnes) [15.2.1],15,1
+AG_LND_FRSTMGT,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",AG_LND_FRSTMGT,Proportion of forest area with a long-term management plan [15.2.1],15,1
+AG_LND_FRSTPRCT,"Доля лесной площади, находящейся в охраняемых законом зонах",AG_LND_FRSTPRCT,Proportion of forest area within legally established protected areas [15.2.1],15,1
+SD_XPD_ESED,Образование,SD_XPD_ESED,"Proportion of total government spending on essential services, education [1.a.2]",1,1
 SE_ACS_H2O,базовыми источниками питьевой воды,базалық ауыз су көздерімен,sources of drinking water,1,1
 SE_ACS_INTNT,доступом к Интернету для учебных целей,Оқу мақсаттары үшін Интернетке қол жетімділікпен,access to the internet for education purposes,51,1
 SE_ACS_SANIT,раздельными минимально оборудованными туалетами,ең қарапайым деңгейде бөлек дәретханалармен,separate restrooms which meet minimum standards,17,1
-SE_TOT_PRFL,"Доля детей/молодежи, достигших, по меньшей мере, минимального уровня",SE_TOT_PRFL,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics,24,1
+SE_TOT_PRFL,"Доля детей/молодежи, достигших, по меньшей мере, минимального уровня",SE_TOT_PRFL,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],24,1
 SG_GEN_LOCG,местные органы власти (Маслихат),жергілікті билік органдарында (Мәслихаттар),Local Representative Bodies (Maslikhats),1,1
 SG_GEN_PARL,национальный парламент (Мажилис),ұлттық парламенттерде (Мәжіліс),National Parliament (Mazhilis),1,1
-SG_HAZ_CMRBASEL,Базельская конвенция,SG_HAZ_CMRBASEL,Compliance with the Basel Convention on hazardous waste and other chemicals,1,1
-SG_HAZ_CMRMNTRL,Монреальский протокол,SG_HAZ_CMRMNTRL,Compliance with the Montreal Protocol on hazardous waste and other chemicals,1,1
-SG_HAZ_CMRROTDAM,Роттердамская конвенция,SG_HAZ_CMRROTDAM,Compliance with the Rotterdam Convention on hazardous waste and other chemicals,1,1
-SG_HAZ_CMRSTHOLM,Стокгольмская конвенция,SG_HAZ_CMRSTHOLM,Compliance with the Stockholm Convention on hazardous waste and other chemicals,1,1
-SG_REG_BRTH90N,"b) регистрации рождений в 100 процентах случаев , включая детей беженцев, лиц ищущих убежища, недокументированных и лиц без гражданства",SG_REG_BRTH90N,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),1,1
-SG_REG_CENSUSN,а) Казахстан провел хотя бы одну перепись населения и жилищного фонда в течение последних 10 лет,SG_REG_CENSUSN,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),1,1
-SG_REG_DETH75N,b) регистрация смерти в 80 процентах случаев,SG_REG_DETH75N,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),1,1
-SG_XPD_HLTH,Здравоохранение,SG_XPD_HLTH,Proportion of total government spending on health,1,1
-SG_XPD_PROT,Социальная помощь и социальное обеспечение,SG_XPD_PROT,Proportion of total government spending on social protection,1,1
+SG_HAZ_CMRBASEL,Базельская конвенция,SG_HAZ_CMRBASEL,Compliance with the Basel Convention on hazardous waste and other chemicals [12.4.1],1,1
+SG_HAZ_CMRMNTRL,Монреальский протокол,SG_HAZ_CMRMNTRL,Compliance with the Montreal Protocol on hazardous waste and other chemicals [12.4.1],1,1
+SG_HAZ_CMRROTDAM,Роттердамская конвенция,SG_HAZ_CMRROTDAM,Compliance with the Rotterdam Convention on hazardous waste and other chemicals [12.4.1],1,1
+SG_HAZ_CMRSTHOLM,Стокгольмская конвенция,SG_HAZ_CMRSTHOLM,Compliance with the Stockholm Convention on hazardous waste and other chemicals [12.4.1],1,1
+SG_REG_BRTH90N,"b) регистрации рождений в 100 процентах случаев , включая детей беженцев, лиц ищущих убежища, недокументированных и лиц без гражданства",SG_REG_BRTH90N,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2],1,1
+SG_REG_CENSUSN,а) Казахстан провел хотя бы одну перепись населения и жилищного фонда в течение последних 10 лет,SG_REG_CENSUSN,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2],1,1
+SG_REG_DETH75N,b) регистрация смерти в 80 процентах случаев,SG_REG_DETH75N,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2],1,1
+SG_XPD_HLTH,Здравоохранение,SG_XPD_HLTH,Proportion of total government spending on health [1.a.2],1,1
+SG_XPD_PROT,Социальная помощь и социальное обеспечение,SG_XPD_PROT,Proportion of total government spending on social protection [1.a.2],1,1
 SI_COV_MATNL,Численность получателей пособий на рождение ребенка и по уходу за ребенком до 1 года,босану және бала 1 жасқа толғанға дейін оның күтімі бойынша жәрдемақы,Number of Beneficiaries: (social benefits related to newborns and child care of infants less than 1 year old),1,1
 SI_COV_UEMP,"Численность населения, охваченного социальными выплатами по причине потери работы",Жұмыстан айырылу себептерінен әлеуметтік төлемдермен қамтылған халықтың саны,Number of Beneficiaries: (unemployment benefits),1,1
 SKILL_MATH,навыков счета,есептеу машығы,math skills,35,1
 SL_EMP_FTLINJUR,Уровень производственного травматизма со смертельным исходом,Өлімге әкелетін өндірістік жарақаттың деңгейі,Fatal occupational injuries,1,1
 SL_EMP_INJUR,Уровень производственного травматизма,Өндірістік жарақаттану деңгейі,Work injury rate,1,1
-SN_STA_OVWGTN,Избыточный вес: Умеренная и сильная степень отклонения от нормы,SN_STA_OVWGTN,Children moderately or severely overweight (number),29,1
-SP_DYN_MRBF15,"Доля женщин в возрасте 20-24 года, вступивших в брак до наступления полных 15 лет",SP_DYN_MRBF15,Proportion of women aged 20-24 years who were married or in a union before age 15,1,1
-SP_DYN_MRBF18,"Доля женщин в возрасте 20-24 года, вступивших в брак до наступления полных 18 лет",SP_DYN_MRBF18,Proportion of women aged 20-24 years who were married or in a union before age 18,1,1
-VC_DSR_DAFF,пострадало на 100 000 человек,VC_DSR_DAFF,"Number of directly affected persons attributed to disasters per 100,000 population",1,1
-VC_DSR_IJILN,пострадало,VC_DSR_IJILN,Number of injured or ill people attributed to disasters,1,1
-VC_DSR_MORT,в т.ч. погибло,VC_DSR_MORT,Number of deaths due to disaster,1,1
-VC_DSR_MTMP,погибло на 100 000 человек,VC_DSR_MTMP,"Number of deaths and missing persons attributed to disasters per 100,000 population",1,1
+SN_STA_OVWGTN,Избыточный вес: Умеренная и сильная степень отклонения от нормы,SN_STA_OVWGTN,Children moderately or severely overweight (number) [2.2.2],29,1
+SP_DYN_MRBF15,"Доля женщин в возрасте 20-24 года, вступивших в брак до наступления полных 15 лет",SP_DYN_MRBF15,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],1,1
+SP_DYN_MRBF18,"Доля женщин в возрасте 20-24 года, вступивших в брак до наступления полных 18 лет",SP_DYN_MRBF18,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],1,1
+VC_DSR_DAFF,пострадало на 100 000 человек,VC_DSR_DAFF,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",1,1
+VC_DSR_IJILN,пострадало,VC_DSR_IJILN,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",1,1
+VC_DSR_MORT,в т.ч. погибло,VC_DSR_MORT,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",1,1
+VC_DSR_MTMP,погибло на 100 000 человек,VC_DSR_MTMP,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",1,1
 антикоррупционной службе можно доверять,антикоррупционной службе можно доверять,антикоррупционной службе можно доверять,антикоррупционной службе можно доверять,5,1
 архар,архар,архар,архар,1,1
 выше 10 Мбит/сек,выше 10 Мбит/сек,выше 10 Мбит/сек,выше 10 Мбит/сек,18,1

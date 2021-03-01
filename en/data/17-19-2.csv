@@ -1,4 +1,4 @@
 Year,UNIT_MEASURE,SERIES,Value
-2010,Percent,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO),1.0
-2013,Percent,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),85.0
-2015,Percent,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),99.7
+2010,Percent,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2],1.0
+2013,Percent,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2],85.0
+2015,Percent,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2],99.7
