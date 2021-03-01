@@ -4,8 +4,8 @@ AGE,Возраст,Жасы,Age,18,42
 COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,Composite breakdown,22,78
 EDUCATION_LEV,образование матери,ана білімі,Mother's education,5,8
 INCOME_WEALTH_QUANTILE,квинтиль индекса благосостояния,Квинтильді әл-ауқат индексі,Wealth index quintile,3,5
-REF_AREA,Регионы,Өңірлер,Regions,76,62
+REF_AREA,Регионы,Өңірлер,Regions,75,62
 SERIES,SERIES,SERIES,SDG Series,27,105
 SEX,Пол,Жынысы,Sex,32,3
-UNIT_MEASURE,UNIT_MEASURE,UNIT_MEASURE,Unit of measure,185,31
+UNIT_MEASURE,UNIT_MEASURE,UNIT_MEASURE,Unit of measure,184,31
 URBANISATION,Местность,Аймақ,Area,37,2
