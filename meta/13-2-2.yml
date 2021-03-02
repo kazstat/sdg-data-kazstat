@@ -1,0 +1,15 @@
+availability: 2
+classification: 3
+comments_limitations: comments_limitations.13-2-2
+computation_calculations: computation_calculations.13-2-2
+computation_definitions: computation_definitions.13-2-2
+customisation: meta.customisation-1
+goal_meta_link: http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-13.pdf
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (pdf 894kB)
+national_indicator_description: national_indicator_description.13-2-2
+source_active_1: true
+source_compilation_1: sources.13-2-2-source_compilation_1
+source_data_1: sources.13-2-2-source_data_1
+source_implementation_1: sources.13-2-2-source_implementation_1
+un_custodian_agency: UN-Climate Change 
+un_designated_tier: '3'
