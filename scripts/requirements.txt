@@ -4,4 +4,3 @@ git+git://github.com/brockfanning/sdg-build-1@kazakhstan-feature-set
 xlrd
 python-frontmatter
 sdmx1==2.3.0
-pydantic==1.7.3
