@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1616339318</mes:ID>
+    <mes:ID>IREF1616340205</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-03-21T15:08:38</mes:Prepared>
+    <mes:Prepared>2021-03-21T15:23:25</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@130"/>
   </mes:Header>
   <mes:Structures>
@@ -116,7 +116,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
         </str:Code>
         <str:Code id="ISIC4_I" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.1).ISIC4_I">
           <com:Name xml:lang="en">Accommodation and food service activities</com:Name>
-          <com:Name xml:lang="ru">услуги по проживанию и питанию</com:Name>
+          <com:Name xml:lang="ru">предоставление услуг по проживанию и питанию</com:Name>
           <com:Name xml:lang="kk">тұру және тамақтану бойынша қызмет көрсету</com:Name>
           <com:Description xml:lang="en">Accommodation and food service activities</com:Description>
         </str:Code>
@@ -164,19 +164,19 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
         </str:Code>
         <str:Code id="ISIC4_Q" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.1).ISIC4_Q">
           <com:Name xml:lang="en">Human health and social work activities</com:Name>
-          <com:Name xml:lang="ru">здравоохранение и социальные услуги</com:Name>
+          <com:Name xml:lang="ru">здравоохранение и социальное обслуживание населения</com:Name>
           <com:Name xml:lang="kk">денсаулық сақтау және әлеуметтік қызметтер</com:Name>
           <com:Description xml:lang="en">Human health and social work activities</com:Description>
         </str:Code>
         <str:Code id="ISIC4_R" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.1).ISIC4_R">
           <com:Name xml:lang="en">Arts, entertainment and recreation</com:Name>
-          <com:Name xml:lang="ru">искусство, развлечение и отдых</com:Name>
+          <com:Name xml:lang="ru">искусство, развлечения и отдых</com:Name>
           <com:Name xml:lang="kk">өнер, ойын-сауық және демалыс</com:Name>
           <com:Description xml:lang="en">Arts, entertainment and recreation</com:Description>
         </str:Code>
         <str:Code id="ISIC4_S" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.1).ISIC4_S">
           <com:Name xml:lang="en">Other service activities</com:Name>
-          <com:Name xml:lang="ru">прочими видами деятельности</com:Name>
+          <com:Name xml:lang="ru">предоставление прочих видов услуг</com:Name>
           <com:Name xml:lang="kk">қызметтердің басқа түрлерін ұсыну</com:Name>
           <com:Description xml:lang="en">Other service activities</com:Description>
         </str:Code>
