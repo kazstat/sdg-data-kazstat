@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1616341308</mes:ID>
+    <mes:ID>IREF1616342043</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-03-21T15:41:48</mes:Prepared>
+    <mes:Prepared>2021-03-21T15:54:03</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@130"/>
   </mes:Header>
   <mes:Structures>
@@ -71,7 +71,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
         <str:Code id="_T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.1)._T">
           <com:Name xml:lang="en">No breakdown</com:Name>
           <com:Name xml:lang="ru">всего</com:Name>
-          <com:Name xml:lang="kk">_T</com:Name>
+          <com:Name xml:lang="kk">барлығы</com:Name>
           <com:Description xml:lang="en">No breakdown</com:Description>
         </str:Code>
         <str:Code id="ISIC4_A" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.1).ISIC4_A">
@@ -141,13 +141,13 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
         <str:Code id="ISIC4_M" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.1).ISIC4_M">
           <com:Name xml:lang="en">Professional, scientific and technical activities</com:Name>
           <com:Name xml:lang="ru">Профессиональная, научная и техническая деятельность</com:Name>
-          <com:Name xml:lang="kk">ISIC4_M</com:Name>
+          <com:Name xml:lang="kk">кәсіби, ғылыми және техникалық қызмет</com:Name>
           <com:Description xml:lang="en">Professional, scientific and technical activities</com:Description>
         </str:Code>
         <str:Code id="ISIC4_N" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.1).ISIC4_N">
           <com:Name xml:lang="en">Administrative and support service activities</com:Name>
           <com:Name xml:lang="ru">деятельность в области администрированного и вспомогательного обслуживания</com:Name>
-          <com:Name xml:lang="kk">әкімшілік және қосымша қызмет көрсету саласындағы қызмет</com:Name>
+          <com:Name xml:lang="kk">әкімшілік және қосалқы қызмет көрсету саласындағы қызмет</com:Name>
           <com:Description xml:lang="en">Administrative and support service activities</com:Description>
         </str:Code>
         <str:Code id="ISIC4_O" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.1).ISIC4_O">
@@ -165,7 +165,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
         <str:Code id="ISIC4_Q" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.1).ISIC4_Q">
           <com:Name xml:lang="en">Human health and social work activities</com:Name>
           <com:Name xml:lang="ru">здравоохранение и социальное обслуживание населения</com:Name>
-          <com:Name xml:lang="kk">денсаулық сақтау және әлеуметтік қызметтер</com:Name>
+          <com:Name xml:lang="kk">денсаулық сақтау және халыққа әлеуметтік қызмет көрсету</com:Name>
           <com:Description xml:lang="en">Human health and social work activities</com:Description>
         </str:Code>
         <str:Code id="ISIC4_R" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.1).ISIC4_R">
