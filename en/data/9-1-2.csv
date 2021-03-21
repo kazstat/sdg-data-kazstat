@@ -95,8 +95,8 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2010,millions tonnes,performance indicators of pipeline transport,,194.0
 2010,millions tonnes,performance indicators of pipeline transport,Atyrau,66.3
 2010,millions tonnes,performance indicators of pipeline transport,Pavlodar,20.2
-2010,millions tonnes,Перевезено грузов с морским транспортом,,4.7
-2010,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,4.7
+2010,millions tonnes,_L_KZ_090102_1R,,4.7
+2010,millions tonnes,_L_KZ_090102_1R,Mangistau,4.7
 2011,millions tonnes,Cargo transported by all means of transport,,2974.9
 2011,millions tonnes,Pipeline,,214.1
 2011,millions tonnes,Railway,,279.7
@@ -194,8 +194,8 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2011,millions tonnes,performance indicators of pipeline transport,,214.1
 2011,millions tonnes,performance indicators of pipeline transport,Atyrau,68.1
 2011,millions tonnes,performance indicators of pipeline transport,Pavlodar,26.3
-2011,millions tonnes,Перевезено грузов с морским транспортом,,4.6
-2011,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,4.6
+2011,millions tonnes,_L_KZ_090102_1R,,4.6
+2011,millions tonnes,_L_KZ_090102_1R,Mangistau,4.6
 2012,millions tonnes,Cargo transported by all means of transport,,3231.8
 2012,millions tonnes,Pipeline,,213.2
 2012,millions tonnes,Railway,,294.8
@@ -292,8 +292,8 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2012,millions tonnes,performance indicators of pipeline transport,,213.2
 2012,millions tonnes,performance indicators of pipeline transport,Atyrau,68.2
 2012,millions tonnes,performance indicators of pipeline transport,Pavlodar,25.7
-2012,millions tonnes,Перевезено грузов с морским транспортом,,4.0
-2012,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,4.0
+2012,millions tonnes,_L_KZ_090102_1R,,4.0
+2012,millions tonnes,_L_KZ_090102_1R,Mangistau,4.0
 2013,millions tonnes,Cargo transported by all means of transport,,3508.0
 2013,millions tonnes,Pipeline,,225.9
 2013,millions tonnes,Railway,,293.7
@@ -387,8 +387,8 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2013,millions tonnes,performance indicators of pipeline transport,,225.9
 2013,millions tonnes,performance indicators of pipeline transport,Atyrau,68.7
 2013,millions tonnes,performance indicators of pipeline transport,Pavlodar,32.5
-2013,millions tonnes,Перевезено грузов с морским транспортом,,4.0
-2013,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,4.0
+2013,millions tonnes,_L_KZ_090102_1R,,4.0
+2013,millions tonnes,_L_KZ_090102_1R,Mangistau,4.0
 2014,millions tonnes,Cargo transported by all means of transport,,3749.8
 2014,millions tonnes,Pipeline,,225.0
 2014,millions tonnes,Railway,,390.7
@@ -482,8 +482,8 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2014,millions tonnes,performance indicators of pipeline transport,,225.0
 2014,millions tonnes,performance indicators of pipeline transport,Atyrau,69.0
 2014,millions tonnes,performance indicators of pipeline transport,Pavlodar,35.4
-2014,millions tonnes,Перевезено грузов с морским транспортом,,3.6
-2014,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,3.6
+2014,millions tonnes,_L_KZ_090102_1R,,3.6
+2014,millions tonnes,_L_KZ_090102_1R,Mangistau,3.6
 2015,millions tonnes,Cargo transported by all means of transport,,3733.8
 2015,millions tonnes,Pipeline,,214.6
 2015,millions tonnes,Railway,,341.4
@@ -575,8 +575,8 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2015,thousand people,passengers transported by air,Shymkent city,4324.4
 2015,millions tonnes,performance indicators of pipeline transport,,214.6
 2015,millions tonnes,performance indicators of pipeline transport,Atyrau,68.6
-2015,millions tonnes,Перевезено грузов с морским транспортом,,2.5
-2015,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,2.5
+2015,millions tonnes,_L_KZ_090102_1R,,2.5
+2015,millions tonnes,_L_KZ_090102_1R,Mangistau,2.5
 2016,millions tonnes,Cargo transported by all means of transport,,3729.2
 2016,millions tonnes,Pipeline,,205.8
 2016,millions tonnes,Railway,,338.9
@@ -666,8 +666,8 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2016,thousand people,passengers transported by air,Shymkent city,3945.5
 2016,millions tonnes,performance indicators of pipeline transport,,205.8
 2016,millions tonnes,performance indicators of pipeline transport,Atyrau,70.1
-2016,millions tonnes,Перевезено грузов с морским транспортом,,2.6
-2016,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,2.6
+2016,millions tonnes,_L_KZ_090102_1R,,2.6
+2016,millions tonnes,_L_KZ_090102_1R,Mangistau,2.6
 2017,millions tonnes,Cargo transported by all means of transport,,3946.1
 2017,millions tonnes,Pipeline,,232.8
 2017,millions tonnes,Railway,,387.2
@@ -751,8 +751,8 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2017,millions tonnes,performance indicators of pipeline transport,,232.8
 2017,millions tonnes,performance indicators of pipeline transport,Atyrau,78.3
 2017,millions tonnes,performance indicators of pipeline transport,Pavlodar,43.5
-2017,millions tonnes,Перевезено грузов с морским транспортом,,2.1
-2017,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,2.1
+2017,millions tonnes,_L_KZ_090102_1R,,2.1
+2017,millions tonnes,_L_KZ_090102_1R,Mangistau,2.1
 2018,millions tonnes,Cargo transported by all means of transport,,4103.8
 2018,millions tonnes,Pipeline,,281.4
 2018,millions tonnes,Railway,,397.9
@@ -907,7 +907,7 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2019,thousand people,passengers transported by air,Shymkent city,5538.3
 2019,millions tonnes,performance indicators of pipeline transport,,273.0
 2019,millions tonnes,performance indicators of pipeline transport,Atyrau,114.2
-2019,millions tonnes,Перевезено грузов с морским транспортом,,0.8
-2019,millions tonnes,Перевезено грузов с морским транспортом,Mangistau,0.8
-2019,millions tonnes,Перевезено пассажиров с морским транспортом,,0.1
-2019,millions tonnes,Перевезено пассажиров с морским транспортом,Mangistau,0.1
+2019,millions tonnes,_L_KZ_090102_1R,,0.8
+2019,millions tonnes,_L_KZ_090102_1R,Mangistau,0.8
+2019,millions tonnes,_L_KZ_090102_1S,,0.1
+2019,millions tonnes,_L_KZ_090102_1S,Mangistau,0.1

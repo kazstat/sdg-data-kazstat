@@ -17,7 +17,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2010,28869.7,transported by air,tons
 2010,3379.2,passengers transported by air,thousand people
 2010,194.0,performance indicators of pipeline transport,millions tonnes
-2010,4.7,Перевезено грузов с морским транспортом,millions tonnes
+2010,4.7,_L_KZ_090102_1R,millions tonnes
 2011,2974.9,Cargo transported by all means of transport,millions tonnes
 2011,214.1,Pipeline,millions tonnes
 2011,279.7,Railway,millions tonnes
@@ -36,7 +36,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2011,31554.9,transported by air,tons
 2011,4131.3,passengers transported by air,thousand people
 2011,214.1,performance indicators of pipeline transport,millions tonnes
-2011,4.6,Перевезено грузов с морским транспортом,millions tonnes
+2011,4.6,_L_KZ_090102_1R,millions tonnes
 2012,3231.8,Cargo transported by all means of transport,millions tonnes
 2012,213.2,Pipeline,millions tonnes
 2012,294.8,Railway,millions tonnes
@@ -55,7 +55,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2012,21954.2,transported by air,tons
 2012,4512.0,passengers transported by air,thousand people
 2012,213.2,performance indicators of pipeline transport,millions tonnes
-2012,4.0,Перевезено грузов с морским транспортом,millions tonnes
+2012,4.0,_L_KZ_090102_1R,millions tonnes
 2013,3508.0,Cargo transported by all means of transport,millions tonnes
 2013,225.9,Pipeline,millions tonnes
 2013,293.7,Railway,millions tonnes
@@ -74,7 +74,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2013,23873.5,transported by air,tons
 2013,4985.6,passengers transported by air,thousand people
 2013,225.9,performance indicators of pipeline transport,millions tonnes
-2013,4.0,Перевезено грузов с морским транспортом,millions tonnes
+2013,4.0,_L_KZ_090102_1R,millions tonnes
 2014,3749.8,Cargo transported by all means of transport,millions tonnes
 2014,225.0,Pipeline,millions tonnes
 2014,390.7,Railway,millions tonnes
@@ -93,7 +93,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2014,19082.4,transported by air,tons
 2014,5434.6,passengers transported by air,thousand people
 2014,225.0,performance indicators of pipeline transport,millions tonnes
-2014,3.6,Перевезено грузов с морским транспортом,millions tonnes
+2014,3.6,_L_KZ_090102_1R,millions tonnes
 2015,3733.8,Cargo transported by all means of transport,millions tonnes
 2015,214.6,Pipeline,millions tonnes
 2015,341.4,Railway,millions tonnes
@@ -112,7 +112,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2015,17178.2,transported by air,tons
 2015,5922.8,passengers transported by air,thousand people
 2015,214.6,performance indicators of pipeline transport,millions tonnes
-2015,2.5,Перевезено грузов с морским транспортом,millions tonnes
+2015,2.5,_L_KZ_090102_1R,millions tonnes
 2016,3729.2,Cargo transported by all means of transport,millions tonnes
 2016,205.8,Pipeline,millions tonnes
 2016,338.9,Railway,millions tonnes
@@ -131,7 +131,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2016,18015.9,transported by air,tons
 2016,6021.7,passengers transported by air,thousand people
 2016,205.8,performance indicators of pipeline transport,millions tonnes
-2016,2.6,Перевезено грузов с морским транспортом,millions tonnes
+2016,2.6,_L_KZ_090102_1R,millions tonnes
 2017,3946.1,Cargo transported by all means of transport,millions tonnes
 2017,232.8,Pipeline,millions tonnes
 2017,387.2,Railway,millions tonnes
@@ -150,7 +150,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2017,22449.9,transported by air,tons
 2017,7363.7,passengers transported by air,thousand people
 2017,232.8,performance indicators of pipeline transport,millions tonnes
-2017,2.1,Перевезено грузов с морским транспортом,millions tonnes
+2017,2.1,_L_KZ_090102_1R,millions tonnes
 2018,4103.8,Cargo transported by all means of transport,millions tonnes
 2018,281.4,Pipeline,millions tonnes
 2018,397.9,Railway,millions tonnes
@@ -184,5 +184,5 @@ Year,Value,SERIES,UNIT_MEASURE
 2019,26721.1,transported by air,tons
 2019,8644.9,passengers transported by air,thousand people
 2019,273.0,performance indicators of pipeline transport,millions tonnes
-2019,0.8,Перевезено грузов с морским транспортом,millions tonnes
-2019,0.1,Перевезено пассажиров с морским транспортом,millions tonnes
+2019,0.8,_L_KZ_090102_1R,millions tonnes
+2019,0.1,_L_KZ_090102_1S,millions tonnes
