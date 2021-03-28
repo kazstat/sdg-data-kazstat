@@ -63,43 +63,45 @@
 1-b-1-source_implementation_1: Министерство труда и социальной защиты населения РК
 2-4-1-1-source_compilation_1: Ministry of Agriculture of the Republic of Kazakhstan
 2-4-1-1-source_implementation_1: Ministry of Agriculture of the Republic of Kazakhstan
-10-1-1-source_compilation_1: Ministry of National economy of the Republic of Kazakhstan
-  Committee on Statistics  
+10-1-1-source_compilation_1: Agency for Strategic planning and reforms of the
+  Republic of Kazakhstan Bureau of National statistics 
 10-1-1-source_implementation_1: Ministry of Labor and Social Protection of Population of the Republic of Kazakhstan,
   Ministry of National economy of the Republic of Kazakhstan
-10-2-1-source_compilation_1: Ministry of National economy of the Republic of Kazakhstan
-  Committee on Statistics
+10-2-1-source_compilation_1: Agency for Strategic planning and reforms of the
+  Republic of Kazakhstan Bureau of National statistics
 10-2-1-source_implementation_1: Ministry of Labor and Social Protection of Population of the Republic of Kazakhstan,
   Ministry of National economy of the Republic of Kazakhstan
 10-3-1-source_compilation_1: National Center for Human Rights of the Republic of Kazakhstan
 10-3-1-source_implementation_1: National Center for Human Rights of the Republic of Kazakhstan, all interested government 
   bodies
-10-4-1-source_compilation_1: Ministry of National economy of the Republic of Kazakhstan
-  Committee on Statistics
+10-4-1-source_compilation_1: Agency for Strategic planning and reforms of the
+  Republic of Kazakhstan Bureau of National statistics
 10-4-1-source_data_1: Remuneration and GDP at current prices
-10-4-1-source_implementation_1: Ministry of Labor and Social Protection of Population of the Republic of Kazakhstan,
-  Ministry of National economy of the Republic of Kazakhstan
+10-4-1-source_implementation_1: Ministry of National economy of the Republic of Kazakhstan,
+  Ministry of Labor and Social Protection of Population of the Republic of Kazakhstan
 10-5-1-source_compilation_1: Ministry of Finance of the Republic of Kazakhstan
 10-5-1-source_implementation_1: Ministry of Finance of the Republic of Kazakhstan,  Ministry of National economy of the 
   Republic of Kazakhstan, National Bank of the Republic of Kazakhstan
 10-6-1-source_compilation_1: Ministry of Foreign Affairs of the Republic of Kazakhstan
 10-6-1-source_implementation_1: Ministry of Foreign Affairs of the Republic of Kazakhstan
-10-7-1-source_compilation_1: Ministry of Labor and Social Protection of Population of the Republic of Kazakhstan
+10-7-1-source_compilation_1: Agency for Strategic planning and reforms of the
+  Republic of Kazakhstan Bureau of National statistics
 10-7-1-source_implementation_1: Ministry of Labor and Social Protection of Population of the Republic of Kazakhstan
 10-7-2-source_compilation_1: Ministry of Labor and Social Protection of Population of the Republic of Kazakhstan,
   Ministry of Internal Affairs of the Republic of Kazakhstan
 10-7-2-source_implementation_1: Ministry of Labor and Social Protection of Population of the Republic of Kazakhstan,
   Ministry of Internal Affairs of the Republic of Kazakhstan, Ministry of Foreign Affairs of the Republic of Kazakhstan
-10-a-1-source_compilation_1: Ministry of National economy of the Republic of Kazakhstan
+10-a-1-source_compilation_1: Ministry of Trade and Integration of the Republic of Kazakhstan
 10-a-1-source_data_1: Website of the Eurasian Economic Commission
-10-a-1-source_implementation_1: Ministry of National economy of the Republic of Kazakhstan
+10-a-1-source_implementation_1: Ministry of Trade and Integration of the Republic of Kazakhstan
 10-b-1-source_compilation_1: OECD
 10-b-1-source_implementation_1: Ministry of National economy of the Republic of Kazakhstan, Ministry of Finance 
-  of the Republic of Kazakhstan,  National Bank of the Republic of Kazakhstan
+  of the Republic of Kazakhstan, National Bank of the Republic of Kazakhstan, Ministry of Internal Affairs of the 
+  Republic of Kazakhstan
 10-c-1-source_compilation_1: National Bank of the Republic of Kazakhstan, International financial organizations
 10-c-1-source_implementation_1: National Bank of the Republic of Kazakhstan
-11-1-1-source_compilation_1: Ministry of National economy of the Republic of Kazakhstan Committee 
-  on Statistics, Local Executive Bodies
+11-1-1-source_compilation_1: Agency for Strategic planning and reforms of the
+  Republic of Kazakhstan Bureau of National statistics
 11-1-1-source_data_1: Information System "Statistical Register of Housing"
 11-1-1-source_implementation_1: Ministry of Industry and Infrastructural Development of the Republic
   of Kazakhstan, Local Executive Bodies
@@ -107,15 +109,14 @@
   of Kazakhstan, Local Executive Bodies
 11-2-1-1-source_data_1: Local Executive Bodies, Ministry of Industry and Infrastructural Development of the Republic
   of Kazakhstan
-11-2-1-2-source_compilation_1: Ministry of Industry and Infrastructural Development of the Republic
-  of Kazakhstan, Local Executive Bodies, Ministry of Labor and Social Protection of Population
-  of the Republic of Kazakhstan
+11-2-1-2-source_compilation_1: Local Executive Bodies, Ministry of Industry and Infrastructural Development of the 
+  Republic of Kazakhstan, Local Executive Bodies
 11-2-1-2-source_data_1: Local Executive Bodies
 11-2-1-source_compilation_1: Ministry of Industry and Infrastructural Development of the Republic of Kazakhstan
 11-2-1-source_data_1: Local Executive Bodies, survey data
-11-3-1-source_compilation_1: Ministry of National economy of the Republic of Kazakhstan Committee on Statistics
-  РК, Ministry of Industry and Infrastructural Development of the Republic of Kazakhstan
-11-3-1-source_implementation_1: Ministry of National economy of the Republic of Kazakhstan, Ministry of Industry and Infrastructural Development of the Republic
+11-3-1-source_compilation_1: Agency for Strategic planning and reforms of the Republic of Kazakhstan Bureau 
+  of National statistics, Ministry of Industry and Infrastructural Development of the Republic of Kazakhstan
+11-3-1-source_implementation_1: Ministry of Industry and Infrastructural Development of the Republic
   of Kazakhstan
 11-3-2-source_compilation_1: Ministry of Industry and Infrastructural Development of the Republic of Kazakhstan, Local Executive  Bodies
 11-3-2-source_implementation_1: Ministry of Industry and Infrastructural Development of the Republic of Kazakhstan, Local Executive  Bodies
@@ -129,12 +130,13 @@
 11-5-2-source_compilation_1: Local Executive Bodies
 11-5-2-source_implementation_1: Committee for Emergency Situations of the Ministry of Internal Affairs 
   of the Republic of Kazakhstan
-11-6-1-source_compilation_1: Ministry of National economy of the Republic of Kazakhstan, Local Executive 
-  Bodies
-11-6-1-source_implementation_1: Ministry of Energy of the Republic of Kazakhstan
-11-6-2-source_compilation_1: Ministry of Energy of the Republic of Kazakhstan (RGP "Kazgidromet")
-11-6-2-source_data_1: Ministry of Energy of the Republic of Kazakhstan (RGP "Kazgidromet")
-11-6-2-source_implementation_1: Ministry of Energy of the Republic of Kazakhstan
+11-6-1-source_compilation_1: Ministry of Ecology, Geology and Natural Resources of the Republic of Kazakhstan, 
+  Local Executive Bodies
+11-6-1-source_implementation_1: Ministry of Ecology, Geology and Natural Resources of the Republic of Kazakhstan, 
+  Local Executive Bodies
+11-6-2-source_compilation_1: Ministry of Ecology, Geology and Natural Resources of the Republic of Kazakhstan (RGP "Kazgidromet")
+11-6-2-source_data_1: RGP "Kazgidromet"
+11-6-2-source_implementation_1: Ministry of Ecology, Geology and Natural Resources of the Republic of Kazakhstan (RGP "Kazgidromet")
 11-7-1-source_compilation_1: Local Executive Bodies, Ministry of Industry and Infrastructural Development of the Republic
   of Kazakhstan (КДС)
 11-7-1-source_implementation_1: Ministry of Industry and Infrastructural Development of the Republic
@@ -154,7 +156,7 @@
 11-b-2-source_compilation_1: Local Executive Bodies, Ministry of National economy of 
   the Republic of Kazakhstan
 11-b-2-source_data_1: Administrative data
-11-b-2-source_implementation_1: Ministry of Internal Affairs of the Republic of Kazakhstan, Local Executive  
+11-b-2-source_implementation_1: Ministry for Emergency Situations of the Republic of Kazakhstan, Local Executive  
   Bodies, Ministry of National economy of the Republic of Kazakhstan
 11-c-1-source_compilation_1: Ministry of Industry and Infrastructural Development of the Republic of Kazakhstan
 11-c-1-source_implementation_1: Ministry of Industry and Infrastructural Development of the Republic
