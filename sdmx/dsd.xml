@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1616960825</mes:ID>
+    <mes:ID>IREF1616961398</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-03-28T19:47:05</mes:Prepared>
+    <mes:Prepared>2021-03-28T19:56:38</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@130"/>
   </mes:Header>
   <mes:Structures>
@@ -19896,7 +19896,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
         <str:Code id="_L_KZ_010a02_1A">
           <com:Name xml:lang="ru">Культура, спорт, туризм и информационное пространство</com:Name>
           <com:Name xml:lang="en">_L_KZ_010a02_1A</com:Name>
-          <com:Name xml:lang="kk">_L_KZ_010a02_1A</com:Name>
+          <com:Name xml:lang="kk">Культура, спорт, туризм и информационное пространство</com:Name>
         </str:Code>
         <str:Code id="_L_KZ_090c01_1A">
           <com:Name xml:lang="ru">Стандарт GSM  (процент охвата населения сетью сотовой связи)</com:Name>
