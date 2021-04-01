@@ -24,6 +24,8 @@ jobs:
         yamllint_strict: false
         yamllint_comment: true
         yamllint_config_filepath: yaml-rules.yaml
+      env:
+        GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Test translation file syntax
       run: yamllint -c yaml-rules.yaml translations
     - name: Test and build data
