@@ -17,15 +17,11 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r scripts/requirements.txt
-    - name: 'Yamllint'
-      uses: karancode/yamllint-github-action@master
+    - name: yaml-lint
+      uses: ibiqlik/action-yamllint@v3
       with:
-        yamllint_file_or_dir: translations
-        yamllint_strict: false
-        yamllint_comment: true
-        yamllint_config_filepath: yaml-rules.yaml
-      env:
-        GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        file_or_dir: translations
+        config_file: yaml-rules.yaml
     - name: Test and build data
       run: |
         python scripts/check_data.py
