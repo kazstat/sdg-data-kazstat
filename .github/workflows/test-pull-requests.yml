@@ -18,7 +18,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r scripts/requirements.txt
     - name: Test translation file syntax
-      run: yamllint -c yaml-rules.yaml translations
+      run: yamllint -c yaml-rules.yaml translations/*/*.yml
     - name: Test and build data
       run: |
         python scripts/check_data.py
