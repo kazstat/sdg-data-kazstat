@@ -1,0 +1,100 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "M0T5",
+                "M12T17",
+                "M12T23",
+                "M18T23",
+                "M24T35",
+                "M36T47",
+                "M48T59",
+                "M6T11"
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "KZAKM",
+                "KZAKT",
+                "KZALA",
+                "KZALM",
+                "KZATY",
+                "KZKAR",
+                "KZKUS",
+                "KZKZY",
+                "KZMAN",
+                "KZNS",
+                "KZONT",
+                "KZPAV",
+                "KZSEV",
+                "KZVOS",
+                "KZZAP",
+                "KZZHA"
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "R",
+                "U"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-2",
+  "title": "global_indicators.2-2-2-title"
+}

@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Корпорациялық табыс салығы",
+                "Бірыңғай жер салығы",
+                "Акциздер",
+                "Ойын бизнесіне салық",
+                "Мемлекеттік баж",
+                "Жеке табыс салығы",
+                "Халықаралық сауда мен сыртқы операцияларға салынатын салықтар",
+                "Жер салығы",
+                "Меншiкке салынатын салықтар",
+                "Тіркелген салық",
+                "Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер",
+                "Әлеуметтік салық",
+                "Қосылған құн салығы",
+                "Көлiк құралдарына салынатын салық"
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-1-1",
+  "title": "Көздер бойынша бөліністегі ЖІӨ-ге пайыздық қатынастағы мемлекеттік кірістердің жалпы көлемі"
+}

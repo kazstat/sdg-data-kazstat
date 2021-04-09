@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Corporate Income Tax",
+                "Consolidated Land Tax",
+                "Excise taxes",
+                "Gambling tax",
+                "Government tariffs",
+                "Individual Income Tax",
+                "Taxes related to international trade and foreign operations",
+                "Land Taxes",
+                "Property Taxes",
+                "Registration fees",
+                "Royalties related to use of resources",
+                "Social Security Taxes",
+                "Value added tax",
+                "Vehicle Tax"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-1-1",
+  "title": "Total government revenue as a proportion of GDP, by source"
+}

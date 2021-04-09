@@ -1,0 +1,68 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ақмола",
+                "Ақтөбе",
+                "Алматы қаласы",
+                "Алматы",
+                "Атырау",
+                "Қарағанды",
+                "Қостанай",
+                "Қызылорда",
+                "Маңғыстау",
+                "Нұр-Сұлтан қаласы",
+                "Оңтүстік Қазақстан",
+                "Павлодар",
+                "Солтүстік Қазақстан",
+                "Шымкент қаласы",
+                "Шығыс Қазақстан",
+                "Түркістан",
+                "Батыс Қазақстан",
+                "Жамбыл"
+              ]
+            },
+            "title": "Өңірлер"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-b-1",
+  "title": "Дамушы елдерде орнатылған жаңартылатын энергия тасығыштарының негізінде генерациялаушы қуаттар (жан басына шаққанда, ватт)"
+}

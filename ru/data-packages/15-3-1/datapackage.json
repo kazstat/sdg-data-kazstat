@@ -1,0 +1,61 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Акмолинская",
+                "Актюбинская",
+                "г_Алматы",
+                "Алматинская",
+                "Атырауская",
+                "Карагандинская",
+                "Костанайская",
+                "Кызылординская",
+                "Мангистауская",
+                "Павлодарская",
+                "Северо-Казахстанская",
+                "г_Шымкент",
+                "Восточно-Казахстанская",
+                "Туркестанская",
+                "Западно-Казахстанская",
+                "Жымбылская"
+              ]
+            },
+            "title": "Регионы"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-3-1",
+  "title": "Отношение площади деградировавших земель к общей площади земель"
+}

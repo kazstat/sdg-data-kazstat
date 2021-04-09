@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ақмола",
+                "Ақтөбе",
+                "Алматы",
+                "Атырау",
+                "Қарағанды",
+                "Қостанай",
+                "Қызылорда",
+                "Маңғыстау",
+                "Оңтүстік Қазақстан",
+                "Павлодар",
+                "Солтүстік Қазақстан",
+                "Шығыс Қазақстан",
+                "Түркістан",
+                "Батыс Қазақстан",
+                "Жамбыл"
+              ]
+            },
+            "title": "Өңірлер"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-3-2",
+  "title": "Су сапасы жақсы су қоймаларының үлесі"
+}

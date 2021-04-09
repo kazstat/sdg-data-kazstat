@@ -1,0 +1,71 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ISCED11_0",
+                "ISCED11_1",
+                "ISCED11_3"
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "KZAKM",
+                "KZAKT",
+                "KZALA",
+                "KZALM",
+                "KZATY",
+                "KZKAR",
+                "KZKUS",
+                "KZKZY",
+                "KZMAN",
+                "KZNS",
+                "KZONT",
+                "KZPAV",
+                "KZSEV",
+                "KZSHY",
+                "KZVOS",
+                "KZYUZ",
+                "KZZAP",
+                "KZZHA"
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-c-1",
+  "title": "global_indicators.4-c-1-title"
+}

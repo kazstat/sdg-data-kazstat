@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ақмола",
+                "Ақтөбе",
+                "Алматы қаласы",
+                "Алматы",
+                "Атырау",
+                "Қарағанды",
+                "Қостанай",
+                "Қызылорда",
+                "Маңғыстау",
+                "Нұр-Сұлтан қаласы",
+                "Павлодар",
+                "Солтүстік Қазақстан",
+                "Шығыс Қазақстан",
+                "Түркістан",
+                "Батыс Қазақстан",
+                "Жамбыл"
+              ]
+            },
+            "title": "Өңірлер"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-3-1",
+  "title": "Энергия сыйымдылығы бастапқы энергия тұтынудың ЖІӨ-ге қатынасы ретінде есептеледі"
+}

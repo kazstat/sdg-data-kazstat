@@ -1,0 +1,47 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Донор ретінде Қазақстан бойынша деректер",
+                "Алушы ретінде Қазақстан бойынша деректер"
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-b-1",
+  "title": "Алушы елдер және донор елдер мен ағындар түрлерінің бөлінісінде (мысалы, дамыту мақсатындағы үшін ресми көмек, тікелей шетел инвестициялары және өзге де қаржы ағындары) дамыту мақсатындағы ресурстар ағындарының жиынтық көлемі"
+}

@@ -1,0 +1,99 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "city Aksay",
+                "city Aksu",
+                "Aktobe",
+                "village Akay",
+                "Almaty city",
+                "city Arkalık",
+                "city Aktobe",
+                "city Atyrau",
+                "village Beineu",
+                "village Berezovka",
+                "city Balkhash",
+                "SKFM «Borovoe»",
+                "city Ekibastuz",
+                "village Glubokoye",
+                "city Karatau",
+                "Karabalyk",
+                "city Kentau",
+                "Kulsary",
+                "village Kordai",
+                "city Kostanay",
+                "city Karagandy",
+                "City Kokshetau",
+                "city Kyzylorda",
+                "KZLIS",
+                "Nur-Sultan city",
+                "Ontustik Kazakhstan",
+                "city Pavlodar",
+                "city Ridder",
+                "city Rudny",
+                "city Semey",
+                "SHBKZ",
+                "city Shu",
+                "Shymkent city",
+                "village Sarıbulak",
+                "city Saran",
+                "City Stepnogorsk",
+                "city Taldıkorgan",
+                "city Temirtau",
+                "village Toretam",
+                "city Taraz",
+                "city Turkistan",
+                "city Uralsk",
+                "city Ust-Kamenogorsk",
+                "village Yanvartsevo",
+                "city Zhezkazgan",
+                "city Zhanaozen",
+                "city Zhitikara",
+                "city Zhanatas",
+                "city Zyryanovsk"
+              ]
+            },
+            "title": "Regions"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-6-2",
+  "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
+}

@@ -1,0 +1,108 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "M0T5",
+                "M12T17",
+                "M12T23",
+                "M18T23",
+                "M24T35",
+                "36-47 months",
+                "48-59 months",
+                "M6T11"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Akmola",
+                "Aktobe",
+                "Almaty city",
+                "Almaty",
+                "Atyrau",
+                "Karagandy",
+                "Kostanay",
+                "Kyzylorda",
+                "Mangistau",
+                "Nur-Sultan city",
+                "Ontustik Kazakhstan",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Shygys Kazakhstan",
+                "Batys Kazakhstan",
+                "Zhambyl"
+              ]
+            },
+            "title": "Regions"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Population of rural areas",
+                "Population of urban areas"
+              ]
+            },
+            "title": "Area"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-1",
+  "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
+}

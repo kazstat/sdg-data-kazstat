@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-3-2",
+  "title": "Азаматтық қоғамның қала құрылысын жоспарлауға және қала шаруашылығын басқаруға тікелей қатысуын қамтамасыз ететін құрылымдар жүйелі және демократиялық негізде жұмыс істейтін қалалар үлесі"
+}

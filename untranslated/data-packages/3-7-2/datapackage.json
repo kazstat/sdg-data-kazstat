@@ -1,0 +1,77 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y10T14",
+                "Y15T19"
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "KZAKM",
+                "KZAKT",
+                "KZALA",
+                "KZALM",
+                "KZATY",
+                "KZKAR",
+                "KZKUS",
+                "KZKZY",
+                "KZMAN",
+                "KZNS",
+                "KZONT",
+                "KZPAV",
+                "KZSEV",
+                "KZSHY",
+                "KZVOS",
+                "KZYUZ",
+                "KZZAP",
+                "KZZHA"
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "R",
+                "U"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-7-2",
+  "title": "global_indicators.3-7-2-title"
+}

@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-9-1",
+  "title": "Дамушы елдерге берілетін қаржылық және техникалық көмектің көлемі (оның ішінде солтүстік — оңтүстік, оңтүстік — оңтүстік желісі бойынша және үшжақты ынтымақтастық шеңберінде) (АҚШ долларымен)"
+}

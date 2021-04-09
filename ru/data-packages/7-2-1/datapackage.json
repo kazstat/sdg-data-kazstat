@@ -1,0 +1,72 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "без учета больших ГЭС",
+                "с учетом больших ГЭС"
+              ]
+            },
+            "title": "Вид экономической деятельности"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Акмолинская",
+                "г_Алматы",
+                "Алматинская",
+                "Атырауская",
+                "Карагандинская",
+                "Кызылординская",
+                "Мангистауская",
+                "г_Нур-Султан",
+                "Южно-Казахстанская",
+                "Павлодарская",
+                "Северо-Казахстанская",
+                "г_Шымкент",
+                "Восточно-Казахстанская",
+                "Туркестанская",
+                "Жымбылская"
+              ]
+            },
+            "title": "Регионы"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-2-1",
+  "title": "Доля возобновляемых источников энергии в общем объеме конечного энергопотребления"
+}

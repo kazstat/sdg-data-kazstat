@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_L_TRST_AVG",
+                "_L_TRST_HIGH",
+                "_L_TRST_LOW",
+                "_L_TRST_NEV",
+                "_L_TRST_NO",
+                "_L_TRST_PARTAGG",
+                "_L_TRST_PARTDIS",
+                "_L_TRST_STRAGG",
+                "_L_TRST_STRDIS"
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-3-3-2",
+  "title": "national_indicators.16-3-3-2-title"
+}

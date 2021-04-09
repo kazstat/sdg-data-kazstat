@@ -1,0 +1,72 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "үлкен ГЭС есепке алмағанда",
+                "ірі ГЭС есепке алғанда"
+              ]
+            },
+            "title": "Экономикалық қызмет түрлері"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ақмола",
+                "Алматы қаласы",
+                "Алматы",
+                "Атырау",
+                "Қарағанды",
+                "Қызылорда",
+                "Маңғыстау",
+                "Нұр-Сұлтан қаласы",
+                "Оңтүстік Қазақстан",
+                "Павлодар",
+                "Солтүстік Қазақстан",
+                "Шымкент қаласы",
+                "Шығыс Қазақстан",
+                "Түркістан",
+                "Жамбыл"
+              ]
+            },
+            "title": "Өңірлер"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-2-1",
+  "title": "Түпкілікті энергия тұтынудың жалпы көлеміндегі жаңартылатын энергия көздерінің үлесі"
+}

@@ -1,0 +1,79 @@
+Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
+_L_BI_CIT,Корпоративный подоходный налог,Корпорациялық табыс салығы,Corporate Income Tax,2,2
+_L_BI_CLT,Единый земельный налог,Бірыңғай жер салығы,Consolidated Land Tax,1,1
+_L_BI_ET,Акцизы,Акциздер,Excise taxes,1,1
+_L_BI_GBT,Налог на игорный бизнес,Ойын бизнесіне салық,Gambling tax,1,1
+_L_BI_GOVT,Государственная пошлина,Мемлекеттік баж,Government tariffs,1,1
+_L_BI_IIT,Индивидуальный подоходный налог,Жеке табыс салығы,Individual Income Tax,1,1
+_L_BI_ITFOT,Налоги на международную торговлю и внешние операции,Халықаралық сауда мен сыртқы операцияларға салынатын салықтар,Taxes related to international trade and foreign operations,1,1
+_L_BI_LT,Земельный налог,Жер салығы,Land Taxes,1,1
+_L_BI_PT,Hалоги на имущество,Меншiкке салынатын салықтар,Property Taxes,1,1
+_L_BI_RFT,Сборы за регистрацию,Тіркелген салық,Registration fees,1,1
+_L_BI_RRT,Поступления за использование природных и других ресурсов,Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер,Royalties related to use of resources,2,2
+_L_BI_SST,Социальный налог,Әлеуметтік салық,Social Security Taxes,1,1
+_L_BI_VAT,Налог на добавленную стоимость,Қосылған құн салығы,Value added tax,1,1
+_L_BI_VT,Hалог на транспортные средства,Көлiк құралдарына салынатын салық,Vehicle Tax,1,1
+_L_BUD_EXP_CSTIS,"Культура, спорт, туризм и информационное пространство","Мәдениет, спорт, туризм және ақпараттық кеңістiк","Culture, sport, tourism, informational space",1,1
+_L_BUD_EXP_DBS,Обслуживание долга,Борышқа қызмет көрсету,Debt service,1,1
+_L_BUD_EXP_DEF,Оборона,Қорғаныс,Defence,1,1
+_L_BUD_EXP_EDU,Образование,Білім беру,Education,1,1
+_L_BUD_EXP_FES_SR,Топливно-энергетический комплекс недропользования,Отын-энергетика кешенi және жер қойнауын пайдалану,Fuel and energy systems based on subsurface resources,1,1
+_L_BUD_EXP_GOVS,Государственные услуги общего характера,Жалпы сипаттағы мемлекеттiк қызметтер,Government services (general),1,1
+_L_BUD_EXP_HC,Здравоохранение,Денсаулық сақтау,Health care,1,1
+_L_BUD_EXP_HCS,Жилищно-комунальная хозяйство,Тұрғын үй-коммуналдық шаруашылық,Housing and communal services,1,1
+_L_BUD_EXP_OTH,Прочие,Басқалар,Other,1,1
+_L_BUD_EXP_PSLJ_CEA,"Общественный порядок, безопасность, провавая, судебная, уголовно-исполнительская деятельность",_L_BUD_EXP_PSLJ_CEA,_L_BUD_EXP_PSLJ_CEA,1,1
+_L_BUD_EXP_RWFFSP,"Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения","Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары","Rural services, water services, forestry, fisheries, specially protected natural areas, environmental protection and wildlife, land relations",1,1
+_L_BUD_EXP_SAW,Социальная помощь и социальное обеспечение,Әлеуметтiк көмек және әлеуметтiк қамсыздандыру,Social assistance and welfare,1,1
+_L_BUD_EXP_TA,Транспорт и коммуникация,Көлiк және коммуникация,Transportion and communication,1,1
+_L_BUD_EXP_TRS,Трансферты,Трансферттер,Transfers,1,1
+_L_HLTH_IMBD_ALH,Заболеваемость психическими и поведенческими расстройствами в результате употребления алкоголя,Алкогольді ішу нәтижесінде психикалық және мінез-құлықтың бұзуылармен ауыру,Incidence of mental and behavioral disorders as a result of alcohol use,1,1
+_L_HLTH_IMBD_DRG,Заболеваемость психическими и поведенческими расстройствами в результате употребления наркотических веществ,Есірткі қолдану нәтижесінде психикалық және мінез-құлықтың бұзуылармен ауыру,Incidence of mental and behavioral disorders as a result of drug use,1,1
+_L_HLTH_IMBD_SUBS,"Заболеваемость психическими и поведенческими расстройствами, вследствии употребления психоактивных веществ",_L_HLTH_IMBD_SUBS,_L_HLTH_IMBD_SUBS,1,1
+_L_HLTH_NUM_DOC,Обеспеченность врачами (без зубных),_L_HLTH_NUM_DOC,_L_HLTH_NUM_DOC,1,1
+_L_HLTH_PRV_DENT,Обеспеченность стоматологами на 1 000 населения (включая зубных техников),_L_HLTH_PRV_DENT,_L_HLTH_PRV_DENT,1,1
+_L_HLTH_PRV_MEDW,Обеспеченность средними медицинскими работниками на 1 000 населения,_L_HLTH_PRV_MEDW,_L_HLTH_PRV_MEDW,1,1
+_L_HLTH_PRV_PHMT,Обеспеченность фармацевтическими работниками на 1 000 населения (включая провизоров),_L_HLTH_PRV_PHMT,_L_HLTH_PRV_PHMT,1,1
+_L_IND_BUILD,"Промышленность, архитектураная, градостраительная и строительная деятельность",_L_IND_BUILD,_L_IND_BUILD,1,1
+_L_ODA_CMS,Данные по Казахстану как обязательства,Мiндеттемелер ретінде Қазақстан бойынша деректер,_L_ODA_CMS,1,1
+_L_ODA_DNR_GR,Казахстан-донор (валовый),_L_ODA_DNR_GR,_L_ODA_DNR_GR,1,1
+_L_ODA_DNR_NT,Казахстан-донор (чистый),_L_ODA_DNR_NT,_L_ODA_DNR_NT,1,1
+_L_ODA_DNR,Данные по Казахстану как донору,Донор ретінде Қазақстан бойынша деректер,Kazakhstan as donor,7,7
+_L_ODA_RCP_GR,Казахстан-получатель (валовый),_L_ODA_RCP_GR,_L_ODA_RCP_GR,1,1
+_L_ODA_RCP_NT,Казахстан-получатель (чистый),_L_ODA_RCP_NT,_L_ODA_RCP_NT,1,1
+_L_ODA_RCP,Данные по Казахстану как получателю,Алушы ретінде Қазақстан бойынша деректер,Kazakhstan as beneficiary,7,7
+_L_PRSP_ARG,архар,Арқар,Argali (latin: Ovis ammon),1,1
+_L_PRSP_BCR_DR,тугайный благородный олень,тоғай кермаралы,The Bactrian deer (latin: Cervus elaphus bactrianus),1,1
+_L_PRSP_FR_URAL,Уральская популяция,Жайық таралымдары,Species from Ural region,1,1
+_L_PRSP_FR_UST,Устюртская популяция,Үстірт таралымдары,Species from Usturts region,1,1
+_L_PRSP_GTRG,джейран,Қарақұйрық,Goitered gazelle (latin: Gazella subgutturosa),1,1
+_L_PRSP_ONGR,кулан,Құлан,Onager (latin Equus hemionus),1,1
+_L_PRSP_SFBR,Бетпакдалинская популяция,Бетпақдала таралымдары,Species from Betpakdalinsk region,1,1
+_L_PRSP_TA,виды животных,жануарлардың түрлері,Type of animals,1,1
+_L_PRSP_TP,виды растений,өсімдіктердің түрлері,Type of plants,1,1
+_L_TRST_AVG,средняя,_L_TRST_AVG,_L_TRST_AVG,5,1
+_L_TRST_HIGH,высокая,_L_TRST_HIGH,_L_TRST_HIGH,5,1
+_L_TRST_LOW,низкая,_L_TRST_LOW,_L_TRST_LOW,5,1
+_L_TRST_NEV,никогда не сталкивались с данной структурой,_L_TRST_NEV,_L_TRST_NEV,9,1
+_L_TRST_NO,не доверяют,_L_TRST_NO,_L_TRST_NO,5,1
+_L_TRST_PARTAGG,частично согласен/согласна,_L_TRST_PARTAGG,_L_TRST_PARTAGG,4,1
+_L_TRST_PARTDIS,частично не согласен/согласна,_L_TRST_PARTDIS,_L_TRST_PARTDIS,4,1
+_L_TRST_STRAGG,полностью согласен/согласна,_L_TRST_STRAGG,_L_TRST_STRAGG,4,1
+_L_TRST_STRDIS,полностью не согласен/согласна,_L_TRST_STRDIS,_L_TRST_STRDIS,4,1
+_L_TVL_ANYT_SEXVL,любое сексуальное насилие,кез келген сексуалдық зорлық-зомбылық,any type of sexual violence,1,1
+_L_TVL_PHSVL_SEXHARSS,физическое насилие и/или сексуальное насилие,физикалық зорлық-зомбылық және / немесе сексуалдық зомбылық,Physical violence/sexual harassment,4,1
+_L_TVL_PHSVL,физическое насилие,физикалық қатыгездік,Physical violence,5,2
+_L_TVL_RP_NONPARTN,"изнасилование, совершенное лицом, не являющимся партнером",жыныс серігі емес тұлғадан жасалған зорлық-зомбылық,Rape (crime committed by non-partner),1,1
+_L_TVL_RPATT_OTHSEXVL,попытка изнасилования или иное сексуальное насилие,зорлау немесе басқа сексуалдық әрекет жасау,Rape attempt or other type of sexual violence,1,1
+_L_TVL_SEX_HARSS,сексуальное насилие,сексуалдық зорлық,Sexual harassment,4,1
+SKILL_ICTATCH,"Отправка элекронной почты с вложенными файлами (документ, фотография, видео)",SKILL_ICTATCH,Skill: ICT Skill: Sending e-mails with attached files,36,1
+SKILL_ICTCDV,"Подключение и установка новых устройств (принтер, модем и другие)","Жаңа құрылғыларды қосу және орнату (принтер, модем және басқалар)","Connecting and installing new devices (printer, modem, and others)",36,1
+SKILL_ICTCMFL,Копирование или перенос файла или папки,Файлды немесе папканы көшіру немесе жіберу,Copying or transferring a file or folder,36,1
+SKILL_ICTCPT,Использование инструментов копирования и вставки информации или части информации для получения копий или перемещения информации в документе,Құжаттың көшірмесін алу немесе құжаттағы ақпараттың орнын ауыстыру үшін ақпаратты көшіру және кірістіру құралдарын немесе ақпараттың бір бөлігін пайдалану,Using the copy and paste tools for information or part of information to get copies or move information in a document,36,1
+SKILL_ICTPRGM,Разработка компьютерных программ с использованием специального программного языка,Арнайы бағдарламалық тілді пайдалану арқылы компьютерлік бағдарламаларды әзірлеу,Development of computer programs using a special software language,36,1
+SKILL_ICTPST,"Работа в графическом редакторе (включая презентации, текст, изображения,  звук, видео или диаграммы)",SKILL_ICTPST,Skill: ICT Skill: Creating electronic presentations with presentation software,36,1
+SKILL_ICTSFWR,"Поиск, загрузка и установка  программного обеспечения","Іздеу, бағдарламалық қамтамасыз етуді жүктеу және орнату","Skill: ICT Skill: Finding, downloading, installing and configuring software",36,1
+SKILL_ICTSSHT,Работа в редакторе электронных таблиц Excel (использование базовых арифметических формул в таблицах),SKILL_ICTSSHT,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,36,1
+SKILL_ICTTRFF,Передача файлов между компьютерами и другими устройствами,Компьютерлер мен басқа құрылғылар арасында файлдарды жіберу,Transferring files between computers and other devices,36,1
+SKILL_LTRCY,функциональная,SKILL_LTRCY,Skill: Functional literacy,2,1
+SKILL_MATH,математическая,SKILL_MATH,Skill: Mathematics,2,1

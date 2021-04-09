@@ -1,0 +1,112 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ISIC4_A",
+                "ISIC4_F",
+                "ISIC4_G",
+                "ISIC4_H",
+                "ISIC4_I",
+                "ISIC4_J",
+                "ISIC4_K",
+                "ISIC4_L",
+                "ISIC4_M",
+                "ISIC4_N",
+                "ISIC4_O",
+                "ISIC4_P",
+                "ISIC4_Q",
+                "ISIC4_R",
+                "ISIC4_S",
+                "_L_ACT_IND",
+                "_T"
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "M25T28",
+                "M29T34",
+                "Y16T24",
+                "Y35T44",
+                "Y45T54",
+                "Y55T64",
+                "Y_GE65"
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "KZAKM",
+                "KZAKT",
+                "KZALA",
+                "KZALM",
+                "KZATY",
+                "KZKAR",
+                "KZKUS",
+                "KZKZY",
+                "KZMAN",
+                "KZNS",
+                "KZONT",
+                "KZPAV",
+                "KZSEV",
+                "KZSHY",
+                "KZVOS",
+                "KZYUZ",
+                "KZZAP",
+                "KZZHA"
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-1",
+  "title": "global_indicators.8-5-1-title"
+}

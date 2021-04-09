@@ -1,0 +1,100 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "12-23 месяцев",
+                "24-35 месяцев",
+                "36-47 месяцев",
+                "48-59 месяцев",
+                "0-11 месяцев"
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Акмолинская",
+                "Актюбинская",
+                "г_Алматы",
+                "Алматинская",
+                "Атырауская",
+                "Карагандинская",
+                "Костанайская",
+                "Кызылординская",
+                "Мангистауская",
+                "г_Нур-Султан",
+                "Южно-Казахстанская",
+                "Павлодарская",
+                "Северо-Казахстанская",
+                "Восточно-Казахстанская",
+                "Западно-Казахстанская",
+                "Жымбылская"
+              ]
+            },
+            "title": "Регионы"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "женщины",
+                "мужчины"
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Село",
+                "Город"
+              ]
+            },
+            "title": "Местность"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-9-1",
+  "title": "Доля детей в возрасте до пяти лет, рождение которых было зарегистрировано в гражданских органах, в разбивке по возрасту"
+}

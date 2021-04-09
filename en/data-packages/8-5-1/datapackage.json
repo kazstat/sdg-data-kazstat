@@ -1,0 +1,119 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "agriculture, forestry and fishery",
+                "Construction",
+                "wholesale and retail trade; car and motorcycle repair",
+                "transport and storage",
+                "services (food and dwelling)",
+                "information and communication",
+                "finance and insurance",
+                "real estate transactions",
+                "Professional, scientific and technical activities",
+                "management and support activities",
+                "government administration and defence",
+                "education",
+                "health care and social care",
+                "culture, entertainment and leisure",
+                "provision of other types of services",
+                "Industry",
+                "No breakdown"
+              ]
+            },
+            "title": "Type of economic activity"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "25-28",
+                "29-34",
+                "16-24",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65 and older"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Akmola",
+                "Aktobe",
+                "Almaty city",
+                "Almaty",
+                "Atyrau",
+                "Karagandy",
+                "Kostanay",
+                "Kyzylorda",
+                "Mangistau",
+                "Nur-Sultan city",
+                "Ontustik Kazakhstan",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Shymkent city",
+                "Shygys Kazakhstan",
+                "Turkistan",
+                "Batys Kazakhstan",
+                "Zhambyl"
+              ]
+            },
+            "title": "Regions"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-1",
+  "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
+}

@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ақмола",
+                "Алматы",
+                "Қарағанды",
+                "Павлодар",
+                "Солтүстік Қазақстан",
+                "Шығыс Қазақстан",
+                "Түркістан",
+                "Жамбыл"
+              ]
+            },
+            "title": "Өңірлер"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-4-1",
+  "title": "Таулы биологиялық алуан түрлілік үшін маңызды учаскелер арасында күзетілетін аудандар үлесі"
+}

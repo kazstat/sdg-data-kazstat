@@ -1,0 +1,64 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y18T49"
+              ]
+            },
+            "title": "Жасы"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "физикалық қатыгездік",
+                "физикалық зорлық-зомбылық және / немесе сексуалдық зомбылық",
+                "сексуалдық зорлық"
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-2-1",
+  "title": "Мүгедектігі бар әйелдерді қоса алғанда, зорлық түрлері мен жасы бойынша бөлуде соңғы 12 айда қазіргі немесе бұрынғы интимдік серіктесі тарапынан физикалық, сексуалдық немесе психологиялық қысымға ұшыраған, бір кездері серіктесі болған әйелдер мен 15 жастан асқан қыздардың үлесі"
+}

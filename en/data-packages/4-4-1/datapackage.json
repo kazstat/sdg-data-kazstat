@@ -1,0 +1,93 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Age 15-24 years old",
+                "Age 15 years and older"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Skill: ICT Skill: Sending e-mails with attached files",
+                "Connecting and installing new devices (printer, modem, and others)",
+                "Copying or transferring a file or folder",
+                "Using the copy and paste tools for information or part of information to get copies or move information in a document",
+                "Development of computer programs using a special software language",
+                "Skill: ICT Skill: Creating electronic presentations with presentation software",
+                "Skill: ICT Skill: Finding, downloading, installing and configuring software",
+                "Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet",
+                "Transferring files between computers and other devices"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Akmola",
+                "Aktobe",
+                "Almaty city",
+                "Almaty",
+                "Atyrau",
+                "Karagandy",
+                "Kostanay",
+                "Kyzylorda",
+                "Mangistau",
+                "Nur-Sultan city",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Shymkent city",
+                "Shygys Kazakhstan",
+                "Turkistan",
+                "Batys Kazakhstan",
+                "Zhambyl"
+              ]
+            },
+            "title": "Regions"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-4-1",
+  "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+}

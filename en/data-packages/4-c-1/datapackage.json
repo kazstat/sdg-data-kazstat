@@ -1,0 +1,76 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Early childhood education",
+                "Elementary education/ High education (incomplete)",
+                "secondary (high school)"
+              ]
+            },
+            "title": "Mother's education"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Akmola",
+                "Aktobe",
+                "Almaty city",
+                "Almaty",
+                "Atyrau",
+                "Karagandy",
+                "Kostanay",
+                "Kyzylorda",
+                "Mangistau",
+                "Nur-Sultan city",
+                "Ontustik Kazakhstan",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Shymkent city",
+                "Shygys Kazakhstan",
+                "Turkistan",
+                "Batys Kazakhstan",
+                "Zhambyl"
+              ]
+            },
+            "title": "Regions"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-c-1",
+  "title": "Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country"
+}

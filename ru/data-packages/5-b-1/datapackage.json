@@ -1,0 +1,86 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Акмолинская",
+                "Актюбинская",
+                "г_Алматы",
+                "Алматинская",
+                "Атырауская",
+                "Карагандинская",
+                "Костанайская",
+                "Кызылординская",
+                "Мангистауская",
+                "г_Нур-Султан",
+                "Павлодарская",
+                "Северо-Казахстанская",
+                "г_Шымкент",
+                "Восточно-Казахстанская",
+                "Туркестанская",
+                "Западно-Казахстанская",
+                "Жымбылская"
+              ]
+            },
+            "title": "Регионы"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "женщины",
+                "мужчины"
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Село",
+                "Город"
+              ]
+            },
+            "title": "Местность"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-b-1",
+  "title": "Доля людей, имеющих мобильный телефон, в разбивке по полу"
+}

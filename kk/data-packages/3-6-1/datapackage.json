@@ -1,0 +1,87 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ақмола",
+                "Ақтөбе",
+                "Алматы қаласы",
+                "Алматы",
+                "Атырау",
+                "Қарағанды",
+                "Қостанай",
+                "Қызылорда",
+                "Маңғыстау",
+                "Нұр-Сұлтан қаласы",
+                "Оңтүстік Қазақстан",
+                "Павлодар",
+                "Солтүстік Қазақстан",
+                "Шымкент қаласы",
+                "Шығыс Қазақстан",
+                "Түркістан",
+                "Батыс Қазақстан",
+                "Жамбыл"
+              ]
+            },
+            "title": "Өңірлер"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "әйелдер",
+                "ерлер"
+              ]
+            },
+            "title": "Жынысы"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ауыл",
+                "қала"
+              ]
+            },
+            "title": "Аймақ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-6-1",
+  "title": "Жол-көлік оқиғаларының нәтижесіндегі өлім-жітім"
+}

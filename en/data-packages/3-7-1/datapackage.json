@@ -1,0 +1,120 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Higher education",
+                "Elementary education/ High education (incomplete)",
+                "Community College and Vocational type of Education",
+                "High Education (General)",
+                "basic secondary (middle-school)"
+              ]
+            },
+            "title": "Mother's education"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "extreme poverty",
+                "second",
+                "third",
+                "fourth",
+                "wealthy"
+              ]
+            },
+            "title": "Wealth index quintile"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Akmola",
+                "Aktobe",
+                "Almaty city",
+                "Almaty",
+                "Atyrau",
+                "Karagandy",
+                "Kostanay",
+                "Kyzylorda",
+                "Mangistau",
+                "Nur-Sultan city",
+                "Ontustik Kazakhstan",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Shygys Kazakhstan",
+                "Batys Kazakhstan",
+                "Zhambyl"
+              ]
+            },
+            "title": "Regions"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Population of rural areas",
+                "Population of urban areas"
+              ]
+            },
+            "title": "Area"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-7-1",
+  "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
+}

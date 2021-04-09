@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Culture, sport, tourism, informational space",
+                "Debt service",
+                "Defence",
+                "Education",
+                "Fuel and energy systems based on subsurface resources",
+                "Government services (general)",
+                "Health care",
+                "Housing and communal services",
+                "Other",
+                "_L_BUD_EXP_PSLJ_CEA",
+                "Rural services, water services, forestry, fisheries, specially protected natural areas, environmental protection and wildlife, land relations",
+                "Social assistance and welfare",
+                "Transportion and communication",
+                "Transfers",
+                "_L_IND_BUILD"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-6-1",
+  "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+}

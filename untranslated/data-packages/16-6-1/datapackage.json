@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_L_BUD_EXP_CSTIS",
+                "_L_BUD_EXP_DBS",
+                "_L_BUD_EXP_DEF",
+                "_L_BUD_EXP_EDU",
+                "_L_BUD_EXP_FES_SR",
+                "_L_BUD_EXP_GOVS",
+                "_L_BUD_EXP_HC",
+                "_L_BUD_EXP_HCS",
+                "_L_BUD_EXP_OTH",
+                "_L_BUD_EXP_PSLJ_CEA",
+                "_L_BUD_EXP_RWFFSP",
+                "_L_BUD_EXP_SAW",
+                "_L_BUD_EXP_TA",
+                "_L_BUD_EXP_TRS",
+                "_L_IND_BUILD"
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-6-1",
+  "title": "global_indicators.16-6-1-title"
+}

@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-6-1",
+  "title": "Сексуалдық қатынастар, жүктілікке қарсы құралдарды қолдану және репродуктивті денсаулықты қорғау бойынша көрсетілетін қызметтерге жүгіну туралы шешімдерді өздігінен ойланып қабылдайтын 15-тен 49 жасқа дейінгі әйелдер үлесі"
+}
