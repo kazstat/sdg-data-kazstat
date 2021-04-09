@@ -1,229 +1,217 @@
 # Prose configuration
 prose:
-  ignore: ['/scripts']
+  ignore: ["/scripts"]
   metadata:
     meta:
-    ############ Page Data ############
-      - name: "goal_number"
-        field:
-            element: hidden
-            label: "SDG Goal"
-            scope: page
-    ######### Global Metadata #########
       - name: "indicator_name"
         field:
-            element: text
-            label: "Indicator name"
-            scope: global
+          element: text
+          label: "Indicator name"
+          scope: global
       - name: "indicator_number"
         field:
-            element: hidden
-            label: "Indicator number"
-            scope: global
+          element: hidden
+          label: "Indicator number"
+          scope: global
       - name: "target_name"
         field:
-            element: text
-            label: "Target name"
-            scope: global
+          element: text
+          label: "Target name"
+          scope: global
       - name: "target_number"
         field:
-            element: text
-            label: "Target number"
-            scope: global
+          element: text
+          label: "Target number"
+          scope: global
       - name: "indicator_definition"
         field:
-            element: textarea
-            label: "Global indicator description"
-            scope: global
+          element: textarea
+          label: "Global indicator description"
+          scope: global
       - name: "un_designated_tier"
         field:
-            element: text
-            label: "UN designated tier"
-            scope: global
+          element: text
+          label: "UN designated tier"
+          scope: global
       - name: "un_custodian_agency"
         field:
-            element: text
-            label: "UN custodian agency"
-            scope: global
+          element: text
+          label: "UN custodian agency"
+          scope: global
       - name: "goal_meta_link"
         field:
-            element: text
-            label: "Link to UN metadata"
-            scope: global
+          element: text
+          label: "Link to UN metadata"
+          scope: global
       - name: "goal_meta_link_text"
         field:
-            element: text
-            label: "Link to UN metadata text"
-            value: "UN metadata"
-            scope: global
-      ######### National Metadata #########
+          element: text
+          label: "Link to UN metadata text"
+          value: "UN metadata"
+          scope: global
       - name: availability
         field:
-            element: text
-            label: "Availability"
-            scope: data
+          element: text
+          label: "Availability"
+          scope: data
       - name: classification
         field:
-            element: text
-            label: "Classification"
-            scope: data
+          element: text
+          label: "Classification"
+          scope: data
       - name: "customisation"
         field:
-            element: select
-            label: "Customisation"
-            translation_key: "metadata_fields.customisation"
-            options:
-              - name: '1'
-                value: 'meta.customisation-1'
-                translation_key: 'meta.customisation-1'
-              - name: '2'
-                value: 'meta.customisation-2'
-                translation_key: 'meta.customisation-2'
-              - name: '3'
-                value: 'meta.customisation-3'
-                translation_key: 'meta.customisation-3'
-              - name: '4'
-                value: 'meta.customisation-4'
-                translation_key: 'meta.customisation-4'
-            scope: national
+          element: select
+          label: "Customisation"
+          translation_key: "metadata_fields.customisation"
+          options:
+            - name: "1"
+              value: "meta.customisation-1"
+              translation_key: "meta.customisation-1"
+            - name: "2"
+              value: "meta.customisation-2"
+              translation_key: "meta.customisation-2"
+            - name: "3"
+              value: "meta.customisation-3"
+              translation_key: "meta.customisation-3"
+            - name: "4"
+              value: "meta.customisation-4"
+              translation_key: "meta.customisation-4"
+          scope: national
       - name: "indicator_available"
         field:
-            element: text
-            label: "Indicator available"
-            scope: national
+          element: text
+          label: "Indicator available"
+          scope: national
       - name: "national_indicator_description"
         field:
-            element: text
-            label: "Indicator description"
-            scope: national
+          element: text
+          label: "Indicator description"
+          scope: national
       - name: "national_geographical_coverage"
         field:
-            element: text
-            label: "Geographical coverage"
-            scope: national
+          element: text
+          label: "Geographical coverage"
+          scope: national
       - name: "computation_units"
         field:
-            element: text
-            label: "Unit of measurement"
-            scope: national
+          element: text
+          label: "Unit of measurement"
+          scope: national
       - name: "computation_definitions"
         field:
-            element: textarea
-            label: "Definitions"
-            scope: national
+          element: textarea
+          label: "Definitions"
+          scope: national
       - name: "computation_calculations"
         field:
-            element: text
-            label: "Calculations"
-            scope: national
+          element: text
+          label: "Calculations"
+          scope: national
       - name: "comments_limitations"
         field:
-            element: text
-            label: "Other information"
-            scope: national
+          element: text
+          label: "Other information"
+          scope: national
       - name: "national_data_update_url"
         field:
-            element: hidden
-            label: "Data last updated"
-            scope: national
+          element: hidden
+          label: "Data last updated"
+          scope: national
       - name: "national_data_update_url_text"
         field:
-            element: hidden
-            label: "Data last updated"
-            scope: national
+          element: hidden
+          label: "Data last updated"
+          scope: national
       - name: "national_metadata_update_url"
         field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
+          element: hidden
+          label: "Metadata last updated"
+          scope: national
       - name: "national_metadata_update_url_text"
         field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
-       ######### Data Info #########
+          element: hidden
+          label: "Metadata last updated"
+          scope: national
       - name: "reporting_status"
         field:
-            element: select
-            label: "Reporting status"
-            options:
-              - name: 'complete'
-                value: 'complete'
-                translation_key: status.reported_online
-              - name: 'notstarted'
-                value: 'notstarted'
-                translation_key: status.exploring_data_sources
-              - name: 'notapplicable'
-                value: 'notapplicable'
-                translation_key: status.not_applicable
-            scope: data
+          element: select
+          label: "Reporting status"
+          options:
+            - name: "complete"
+              value: "complete"
+              translation_key: status.reported_online
+            - name: "notstarted"
+              value: "notstarted"
+              translation_key: status.exploring_data_sources
+            - name: "notapplicable"
+              value: "notapplicable"
+              translation_key: status.not_applicable
+          scope: data
       - name: data_non_statistical
         field:
-            element: checkbox
-            label: Non-statistical indicator
-            help: Check this box if this indicator does not have numeric data associated with it
-            value: false
-            scope: data
+          element: checkbox
+          label: Non-statistical indicator
+          help: Check this box if this indicator does not have numeric data associated with it
+          value: false
+          scope: data
       - name: data_footnote
         field:
-            element: text
-            label: Footnote
-            help: Footnotes appear under the chart and by data tables
-            scope: data
+          element: text
+          label: Footnote
+          help: Footnotes appear under the chart and by data tables
+          scope: data
       - name: data_keywords
         field:
-            element: text
-            label: Search Keywords
-            help: Comma separated keywords for search page
-            scope: data
+          element: text
+          label: Search Keywords
+          help: Comma separated keywords for search page
+          scope: data
       - name: data_show_map
         field:
-            element: checkbox
-            label: Show the map when GeoCodes are present?
-            help: If this box is checked then the prescence of a GeoCode field will trigger a map
-            value: false
-            scope: data
-      ######### Chart Info #########
+          element: checkbox
+          label: Show the map when GeoCodes are present?
+          help: If this box is checked then the prescence of a GeoCode field will trigger a map
+          value: false
+          scope: data
       - name: "graph_type"
         field:
-            element: select
-            label: "Graph type"
-            options:
-              - name: 'line'
-                value: 'line'
-              - name: 'bar'
-                value: 'bar'
-            scope: graph
+          element: select
+          label: "Graph type"
+          options:
+            - name: "line"
+              value: "line"
+            - name: "bar"
+              value: "bar"
+          scope: graph
       - name: "graph_title"
         field:
-            element: text
-            label: "Graph Title"
-            scope: graph
-      ######### National Sources #########
-      ## Source 1
+          element: text
+          label: "Graph Title"
+          scope: graph
       - name: source_active_1
         field:
-            element: checkbox
-            label: Source 1 active
-            help: Whether or not to display this source
-            value: true
+          element: checkbox
+          label: Source 1 active
+          help: Whether or not to display this source
+          value: true
       - name: source_organisation_1
         field:
-            element: text
-            label: "Organisation"
-            scope: source_1
+          element: text
+          label: "Organisation"
+          scope: source_1
       - name: source_compilation_1
         field:
-            element: text
-            label: "Compilation"
-            scope: source_1
+          element: text
+          label: "Compilation"
+          scope: source_1
       - name: source_implementation_1
         field:
-            element: text
-            label: "Implementation"
-            scope: source_1
+          element: text
+          label: "Implementation"
+          scope: source_1
       - name: source_data_1
         field:
-            element: text
-            label: "Data"
-            scope: source_1
+          element: text
+          label: "Data"
+          scope: source_1

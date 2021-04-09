@@ -8,4 +8,5 @@ rules:
     new-line-at-end-of-file: disable
     comments: disable
     colons: disable
-
+    indentation:
+        indent-sequences: whatever
