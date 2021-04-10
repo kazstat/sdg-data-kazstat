@@ -24,6 +24,7 @@
                 "KZKUS",
                 "KZKZY",
                 "KZMAN",
+                "KZONT",
                 "KZPAV",
                 "KZSEV",
                 "KZVOS",
@@ -39,6 +40,8 @@
             "constraints": {
               "enum": [
                 "",
+                "7.53",
+                "7.71",
                 "F",
                 "M"
               ]

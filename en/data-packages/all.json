@@ -3849,6 +3849,7 @@
                 "Kostanay",
                 "Kyzylorda",
                 "Mangistau",
+                "Ontustik Kazakhstan",
                 "Pavlodar",
                 "Soltustik Kazakhstan",
                 "Shygys Kazakhstan",
@@ -3865,6 +3866,8 @@
             "constraints": {
               "enum": [
                 "",
+                "7.53",
+                "7.71",
                 "Female",
                 "Male"
               ]
