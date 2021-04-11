@@ -16,6 +16,7 @@
             "constraints": {
               "enum": [
                 "",
+                "0.0",
                 "Akmola",
                 "Aktobe",
                 "Almaty city",

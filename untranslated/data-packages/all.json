@@ -1910,6 +1910,7 @@
             "constraints": {
               "enum": [
                 "",
+                "0.0",
                 "KZAKM",
                 "KZAKT",
                 "KZALA",
