@@ -1,46 +1,46 @@
 Year,UNIT_MEASURE,SERIES,COMPOSITE_BREAKDOWN,Value
-2016,Percent,к органам прокуратуры,_L_TRST_HIGH,38.7
-2016,Percent,к органам прокуратуры,_L_TRST_AVG,43.3
-2016,Percent,к органам прокуратуры,_L_TRST_LOW,4.1
-2016,Percent,к органам прокуратуры,_L_TRST_NO,2.0
-2016,Percent,к органам прокуратуры,_L_TRST_NEV,11.8
-2016,Percent,к органам внутренних дел,_L_TRST_HIGH,29.8
-2016,Percent,к органам внутренних дел,_L_TRST_AVG,51.6
-2016,Percent,к органам внутренних дел,_L_TRST_LOW,6.6
-2016,Percent,к органам внутренних дел,_L_TRST_NO,3.5
-2016,Percent,к органам внутренних дел,_L_TRST_NEV,8.7
-2016,Percent,к антикоррупцционной службе,_L_TRST_HIGH,16.1
-2016,Percent,к антикоррупцционной службе,_L_TRST_AVG,38.6
-2016,Percent,к антикоррупцционной службе,_L_TRST_LOW,6.0
-2016,Percent,к антикоррупцционной службе,_L_TRST_NO,4.1
-2016,Percent,к антикоррупцционной службе,_L_TRST_NEV,35.1
-2016,Percent,к службе экономических расследований,_L_TRST_HIGH,14.3
-2016,Percent,к службе экономических расследований,_L_TRST_AVG,37.4
-2016,Percent,к службе экономических расследований,_L_TRST_LOW,5.4
-2016,Percent,к службе экономических расследований,_L_TRST_NO,3.7
-2016,Percent,к службе экономических расследований,_L_TRST_NEV,39.1
-2016,Percent,к органам гражданской защиты,_L_TRST_HIGH,20.1
-2016,Percent,к органам гражданской защиты,_L_TRST_AVG,40.7
-2016,Percent,к органам гражданской защиты,_L_TRST_LOW,4.7
-2016,Percent,к органам гражданской защиты,_L_TRST_NO,2.2
-2016,Percent,к органам гражданской защиты,_L_TRST_NEV,32.3
-2019,Percent,органам прокуратуры можно доверять,_L_TRST_STRAGG,45.9
-2019,Percent,органам прокуратуры можно доверять,_L_TRST_PARTAGG,43.4
-2019,Percent,органам прокуратуры можно доверять,_L_TRST_PARTDIS,1.6
-2019,Percent,органам прокуратуры можно доверять,_L_TRST_STRDIS,1.0
-2019,Percent,органам прокуратуры можно доверять,_L_TRST_NEV,8.1
-2019,Percent,органам полиции можно доверять,_L_TRST_STRAGG,38.3
-2019,Percent,органам полиции можно доверять,_L_TRST_PARTAGG,51.2
-2019,Percent,органам полиции можно доверять,_L_TRST_PARTDIS,3.3
-2019,Percent,органам полиции можно доверять,_L_TRST_STRDIS,2.3
-2019,Percent,органам полиции можно доверять,_L_TRST_NEV,4.9
-2019,Percent,антикоррупционной службе можно доверять,_L_TRST_STRAGG,25.3
-2019,Percent,антикоррупционной службе можно доверять,_L_TRST_PARTAGG,39.9
-2019,Percent,антикоррупционной службе можно доверять,_L_TRST_PARTDIS,2.2
-2019,Percent,антикоррупционной службе можно доверять,_L_TRST_STRDIS,1.6
-2019,Percent,антикоррупционной службе можно доверять,_L_TRST_NEV,31.0
-2019,Percent,службе экономических расследований можно доверять,_L_TRST_STRAGG,24.4
-2019,Percent,службе экономических расследований можно доверять,_L_TRST_PARTAGG,35.7
-2019,Percent,службе экономических расследований можно доверять,_L_TRST_PARTDIS,1.6
-2019,Percent,службе экономических расследований можно доверять,_L_TRST_STRDIS,1.2
-2019,Percent,службе экономических расследований можно доверять,_L_TRST_NEV,37.1
+2016,Percent,_L_KZ_16030302_1E,_L_TRST_HIGH,38.7
+2016,Percent,_L_KZ_16030302_1E,_L_TRST_AVG,43.3
+2016,Percent,_L_KZ_16030302_1E,_L_TRST_LOW,4.1
+2016,Percent,_L_KZ_16030302_1E,_L_TRST_NO,2.0
+2016,Percent,_L_KZ_16030302_1E,_L_TRST_NEV,11.8
+2016,Percent,_L_KZ_16030302_1C,_L_TRST_HIGH,29.8
+2016,Percent,_L_KZ_16030302_1C,_L_TRST_AVG,51.6
+2016,Percent,_L_KZ_16030302_1C,_L_TRST_LOW,6.6
+2016,Percent,_L_KZ_16030302_1C,_L_TRST_NO,3.5
+2016,Percent,_L_KZ_16030302_1C,_L_TRST_NEV,8.7
+2016,Percent,_L_KZ_16030302_1B,_L_TRST_HIGH,16.1
+2016,Percent,_L_KZ_16030302_1B,_L_TRST_AVG,38.6
+2016,Percent,_L_KZ_16030302_1B,_L_TRST_LOW,6.0
+2016,Percent,_L_KZ_16030302_1B,_L_TRST_NO,4.1
+2016,Percent,_L_KZ_16030302_1B,_L_TRST_NEV,35.1
+2016,Percent,_L_KZ_16030302_1F,_L_TRST_HIGH,14.3
+2016,Percent,_L_KZ_16030302_1F,_L_TRST_AVG,37.4
+2016,Percent,_L_KZ_16030302_1F,_L_TRST_LOW,5.4
+2016,Percent,_L_KZ_16030302_1F,_L_TRST_NO,3.7
+2016,Percent,_L_KZ_16030302_1F,_L_TRST_NEV,39.1
+2016,Percent,_L_KZ_16030302_1D,_L_TRST_HIGH,20.1
+2016,Percent,_L_KZ_16030302_1D,_L_TRST_AVG,40.7
+2016,Percent,_L_KZ_16030302_1D,_L_TRST_LOW,4.7
+2016,Percent,_L_KZ_16030302_1D,_L_TRST_NO,2.2
+2016,Percent,_L_KZ_16030302_1D,_L_TRST_NEV,32.3
+2019,Percent,_L_KZ_16030302_1H,_L_TRST_STRAGG,45.9
+2019,Percent,_L_KZ_16030302_1H,_L_TRST_PARTAGG,43.4
+2019,Percent,_L_KZ_16030302_1H,_L_TRST_PARTDIS,1.6
+2019,Percent,_L_KZ_16030302_1H,_L_TRST_STRDIS,1.0
+2019,Percent,_L_KZ_16030302_1H,_L_TRST_NEV,8.1
+2019,Percent,_L_KZ_16030302_1G,_L_TRST_STRAGG,38.3
+2019,Percent,_L_KZ_16030302_1G,_L_TRST_PARTAGG,51.2
+2019,Percent,_L_KZ_16030302_1G,_L_TRST_PARTDIS,3.3
+2019,Percent,_L_KZ_16030302_1G,_L_TRST_STRDIS,2.3
+2019,Percent,_L_KZ_16030302_1G,_L_TRST_NEV,4.9
+2019,Percent,_L_KZ_16030302_1A,_L_TRST_STRAGG,25.3
+2019,Percent,_L_KZ_16030302_1A,_L_TRST_PARTAGG,39.9
+2019,Percent,_L_KZ_16030302_1A,_L_TRST_PARTDIS,2.2
+2019,Percent,_L_KZ_16030302_1A,_L_TRST_STRDIS,1.6
+2019,Percent,_L_KZ_16030302_1A,_L_TRST_NEV,31.0
+2019,Percent,_L_KZ_16030302_1I,_L_TRST_STRAGG,24.4
+2019,Percent,_L_KZ_16030302_1I,_L_TRST_PARTAGG,35.7
+2019,Percent,_L_KZ_16030302_1I,_L_TRST_PARTDIS,1.6
+2019,Percent,_L_KZ_16030302_1I,_L_TRST_STRDIS,1.2
+2019,Percent,_L_KZ_16030302_1I,_L_TRST_NEV,37.1
