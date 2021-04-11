@@ -56,6 +56,8 @@ _L_KZ_150201_1B,Изменение чистой площади лесов,_L_KZ_
 _L_KZ_160104_1A,в полной безопасности,толық қауіпсіз,Total security,15,1
 _L_KZ_160104_1B,достаточно безопасно,жеткілікті қауіпсіз,Relatively safe,15,1
 _L_KZ_160104_1C,не безопасно,қауіпсіз емес,Not safe,15,1
+_L_KZ_160104_1D,совсем не безопасно,_L_KZ_160104_1D,_L_KZ_160104_1D,15,1
+_L_KZ_160104_1E,затруднились ответить,_L_KZ_160104_1E,_L_KZ_160104_1E,15,1
 _L_KZ_16030302_1A,антикоррупционной службе можно доверять,_L_KZ_16030302_1A,_L_KZ_16030302_1A,5,1
 _L_KZ_16030302_1B,к антикоррупцционной службе,_L_KZ_16030302_1B,_L_KZ_16030302_1B,5,1
 _L_KZ_16030302_1C,к органам внутренних дел,_L_KZ_16030302_1C,_L_KZ_16030302_1C,5,1
@@ -97,11 +99,9 @@ SKILL_MATH,навыков счета,есептеу машығы,math skills,35,
 SL_EMP_FTLINJUR,Уровень производственного травматизма со смертельным исходом,Өлімге әкелетін өндірістік жарақаттың деңгейі,Fatal occupational injuries,1,1
 SL_EMP_INJUR,Уровень производственного травматизма,Өндірістік жарақаттану деңгейі,Work injury rate,1,1
 SN_STA_OVWGTN,Избыточный вес: Умеренная и сильная степень отклонения от нормы,SN_STA_OVWGTN,Children moderately or severely overweight (number) [2.2.2],29,1
-совсем не безопасно,совсем не безопасно,совсем не безопасно,совсем не безопасно,15,1
 SP_DYN_MRBF15,"Доля женщин в возрасте 20-24 года, вступивших в брак до наступления полных 15 лет",SP_DYN_MRBF15,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],1,1
 SP_DYN_MRBF18,"Доля женщин в возрасте 20-24 года, вступивших в брак до наступления полных 18 лет",SP_DYN_MRBF18,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],1,1
 VC_DSR_DAFF,пострадало на 100 000 человек,VC_DSR_DAFF,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",1,1
 VC_DSR_IJILN,пострадало,VC_DSR_IJILN,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",1,1
 VC_DSR_MORT,в т.ч. погибло,VC_DSR_MORT,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",1,1
 VC_DSR_MTMP,погибло на 100 000 человек,VC_DSR_MTMP,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",1,1
-затруднились ответить,затруднились ответить,затруднились ответить,затруднились ответить,15,1

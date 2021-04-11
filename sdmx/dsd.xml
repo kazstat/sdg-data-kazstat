@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1618174038</mes:ID>
+    <mes:ID>IREF1618174131</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-04-11T20:47:18</mes:Prepared>
+    <mes:Prepared>2021-04-11T20:48:51</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
   </mes:Header>
   <mes:Structures>
@@ -24704,15 +24704,15 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">Not safe</com:Name>
           <com:Name xml:lang="kk">қауіпсіз емес</com:Name>
         </str:Code>
-        <str:Code id="затруднились ответить">
-          <com:Name xml:lang="ru">затруднились ответить</com:Name>
-          <com:Name xml:lang="en">затруднились ответить</com:Name>
-          <com:Name xml:lang="kk">затруднились ответить</com:Name>
-        </str:Code>
-        <str:Code id="совсем не безопасно">
+        <str:Code id="_L_KZ_160104_1D">
           <com:Name xml:lang="ru">совсем не безопасно</com:Name>
-          <com:Name xml:lang="en">совсем не безопасно</com:Name>
-          <com:Name xml:lang="kk">совсем не безопасно</com:Name>
+          <com:Name xml:lang="en">_L_KZ_160104_1D</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_160104_1D</com:Name>
+        </str:Code>
+        <str:Code id="_L_KZ_160104_1E">
+          <com:Name xml:lang="ru">затруднились ответить</com:Name>
+          <com:Name xml:lang="en">_L_KZ_160104_1E</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_160104_1E</com:Name>
         </str:Code>
         <str:Code id="наличие теплых и надворных туалетов">
           <com:Name xml:lang="ru">наличие теплых и надворных туалетов</com:Name>
