@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1618169926</mes:ID>
+    <mes:ID>IREF1618171098</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-04-11T19:38:46</mes:Prepared>
+    <mes:Prepared>2021-04-11T19:58:18</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
   </mes:Header>
   <mes:Structures>
@@ -24719,30 +24719,30 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">наличие только теплых туалетов</com:Name>
           <com:Name xml:lang="kk">наличие только теплых туалетов</com:Name>
         </str:Code>
-        <str:Code id="архар">
+        <str:Code id="_L_KZ_020502_1A">
           <com:Name xml:lang="ru">архар</com:Name>
-          <com:Name xml:lang="en">архар</com:Name>
-          <com:Name xml:lang="kk">архар</com:Name>
+          <com:Name xml:lang="en">_L_KZ_020502_1A</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_020502_1A</com:Name>
         </str:Code>
-        <str:Code id="джейран">
+        <str:Code id="_L_KZ_020502_1B">
           <com:Name xml:lang="ru">джейран</com:Name>
-          <com:Name xml:lang="en">джейран</com:Name>
-          <com:Name xml:lang="kk">джейран</com:Name>
+          <com:Name xml:lang="en">_L_KZ_020502_1B</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_020502_1B</com:Name>
         </str:Code>
-        <str:Code id="кулан">
+        <str:Code id="_L_KZ_020502_1C">
           <com:Name xml:lang="ru">кулан</com:Name>
-          <com:Name xml:lang="en">кулан</com:Name>
-          <com:Name xml:lang="kk">кулан</com:Name>
+          <com:Name xml:lang="en">_L_KZ_020502_1C</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_020502_1C</com:Name>
         </str:Code>
-        <str:Code id="сайгак">
+        <str:Code id="_L_KZ_020502_1D">
           <com:Name xml:lang="ru">сайгак</com:Name>
-          <com:Name xml:lang="en">сайгак</com:Name>
-          <com:Name xml:lang="kk">сайгак</com:Name>
+          <com:Name xml:lang="en">_L_KZ_020502_1D</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_020502_1D</com:Name>
         </str:Code>
-        <str:Code id="тугайный благородный олень">
+        <str:Code id="_L_KZ_020502_1E">
           <com:Name xml:lang="ru">тугайный благородный олень</com:Name>
-          <com:Name xml:lang="en">тугайный благородный олень</com:Name>
-          <com:Name xml:lang="kk">тугайный благородный олень</com:Name>
+          <com:Name xml:lang="en">_L_KZ_020502_1E</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_020502_1E</com:Name>
         </str:Code>
         <str:Code id="антикоррупционной службе можно доверять">
           <com:Name xml:lang="ru">антикоррупционной службе можно доверять</com:Name>
