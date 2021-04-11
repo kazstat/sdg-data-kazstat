@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1618062647</mes:ID>
+    <mes:ID>IREF1618153698</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-04-10T13:50:47</mes:Prepared>
+    <mes:Prepared>2021-04-11T15:08:18</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
   </mes:Header>
   <mes:Structures>
@@ -25025,16 +25025,6 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
         <str:Code id="_X" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_SEX(1.1)._X">
           <com:Name xml:lang="en">Not available</com:Name>
           <com:Description xml:lang="en">Not available</com:Description>
-        </str:Code>
-        <str:Code id="7.53">
-          <com:Name xml:lang="ru">7.53</com:Name>
-          <com:Name xml:lang="en">7.53</com:Name>
-          <com:Name xml:lang="kk">7.53</com:Name>
-        </str:Code>
-        <str:Code id="7.71">
-          <com:Name xml:lang="ru">7.71</com:Name>
-          <com:Name xml:lang="en">7.71</com:Name>
-          <com:Name xml:lang="kk">7.71</com:Name>
         </str:Code>
       </str:Codelist>
       <str:Codelist version="1.3" isExternalReference="false" isFinal="true" agencyID="IAEG-SDGs" id="CL_UNIT_MEASURE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_UNIT_MEASURE(1.3)">
