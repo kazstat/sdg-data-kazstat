@@ -14,6 +14,7 @@ PER_1000_employees: per 1000 workers
 PT: Percent
 PT_GDP: As as pecentage of GDP
 PT_IN_2010_PRICE: percent, base year 2010
+PT_PREV_Y: as a percentage to the previous year
 SQ_METER: square meter
 T: tons
 TH_HA: thousands hectares
