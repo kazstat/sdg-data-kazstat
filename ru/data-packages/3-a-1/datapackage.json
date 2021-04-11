@@ -11,6 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "женщины",
+                "мужчины"
+              ]
+            },
+            "title": "Пол"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"

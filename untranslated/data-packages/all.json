@@ -1790,6 +1790,17 @@
       "schema": {
         "fields": [
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M"
+              ]
+            }
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },

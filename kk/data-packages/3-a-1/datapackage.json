@@ -11,6 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "әйелдер",
+                "ерлер"
+              ]
+            },
+            "title": "Жынысы"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
