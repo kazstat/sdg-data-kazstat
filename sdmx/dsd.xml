@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1618171931</mes:ID>
+    <mes:ID>IREF1618172336</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-04-11T20:12:11</mes:Prepared>
+    <mes:Prepared>2021-04-11T20:18:56</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
   </mes:Header>
   <mes:Structures>
@@ -24619,15 +24619,15 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">Private companies and organizations</com:Name>
           <com:Name xml:lang="kk">жеке меншік кәсіпорындар мен ұйымдар бойынша</com:Name>
         </str:Code>
-        <str:Code id="Изменение чистой площади лесов">
+        <str:Code id="_L_KZ_150201_1B">
           <com:Name xml:lang="ru">Изменение чистой площади лесов</com:Name>
-          <com:Name xml:lang="en">Изменение чистой площади лесов</com:Name>
-          <com:Name xml:lang="kk">Изменение чистой площади лесов</com:Name>
+          <com:Name xml:lang="en">_L_KZ_150201_1B</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_150201_1B</com:Name>
         </str:Code>
-        <str:Code id="Площадь территории, покрытой лесом">
+        <str:Code id="_L_KZ_150201_1A">
           <com:Name xml:lang="ru">Площадь территории, покрытой лесом</com:Name>
-          <com:Name xml:lang="en">Площадь территории, покрытой лесом</com:Name>
-          <com:Name xml:lang="kk">Площадь территории, покрытой лесом</com:Name>
+          <com:Name xml:lang="en">_L_KZ_150201_1A</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_150201_1A</com:Name>
         </str:Code>
         <str:Code id="выше 10 Мбит/сек">
           <com:Name xml:lang="ru">выше 10 Мбит/сек</com:Name>
@@ -24899,15 +24899,15 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="en">Number of Beneficiaries: (low-income individuals and households)</com:Name>
           <com:Name xml:lang="kk">Мемлекеттік атаулы әлеуметтік көмек алушылардың саны</com:Name>
         </str:Code>
-        <str:Code id="государственная базовая пенсионная выплата">
+        <str:Code id="_L_KZ_010301_1B">
           <com:Name xml:lang="ru">государственная базовая пенсионная выплата</com:Name>
-          <com:Name xml:lang="en">государственная базовая пенсионная выплата</com:Name>
-          <com:Name xml:lang="kk">государственная базовая пенсионная выплата</com:Name>
+          <com:Name xml:lang="en">_L_KZ_010301_1B</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_010301_1B</com:Name>
         </str:Code>
-        <str:Code id="пенсионные выплаты по возрасту и за выслугу лет">
+        <str:Code id="_L_KZ_010301_1C">
           <com:Name xml:lang="ru">пенсионные выплаты по возрасту и за выслугу лет</com:Name>
-          <com:Name xml:lang="en">пенсионные выплаты по возрасту и за выслугу лет</com:Name>
-          <com:Name xml:lang="kk">пенсионные выплаты по возрасту и за выслугу лет</com:Name>
+          <com:Name xml:lang="en">_L_KZ_010301_1C</com:Name>
+          <com:Name xml:lang="kk">_L_KZ_010301_1C</com:Name>
         </str:Code>
         <str:Code id="_L_KZ_090102_1A">
           <com:Name xml:lang="ru">Автомобильный</com:Name>
