@@ -1,41 +1,41 @@
 Year,UNIT_MEASURE,SERIES,Value
-2010,Number of individuals,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",145.0
-2010,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.89
-2010,Number of individuals,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",53.0
-2010,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.32
-2011,Number of individuals,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",12.0
-2011,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.07
-2011,Number of individuals,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",5.0
-2011,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.03
-2012,Number of individuals,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",20.0
-2012,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.12
-2012,Number of individuals,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",15.0
-2012,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.09
-2013,Number of individuals,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",12.0
-2013,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.07
-2013,Number of individuals,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",3.0
-2013,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.02
-2014,Number of individuals,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",19.0
-2014,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.11
-2014,Number of individuals,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",9.0
-2014,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.05
-2015,Number of individuals,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",8.0
-2015,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.05
-2015,Number of individuals,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",0.0
-2015,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.0
-2016,Number of individuals,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",8.0
-2016,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.04
-2016,Number of individuals,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",1.0
-2016,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.006
-2017,Number of individuals,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",35.0
-2017,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.19
-2017,Number of individuals,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",11.0
-2017,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.06
-2018,Number of individuals,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",8.0
-2018,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.044
-2018,Number of individuals,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",1.0
-2018,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.005
-2019,Number of individuals,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",9.0
-2019,Number of individuals,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.049
-2019,Number of individuals,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",2.0
-2019,Number of individuals,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.011
+2010,persons,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",145.0
+2010,persons,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.89
+2010,persons,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",53.0
+2010,persons,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.32
+2011,persons,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",12.0
+2011,persons,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.07
+2011,persons,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",5.0
+2011,persons,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.03
+2012,persons,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",20.0
+2012,persons,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.12
+2012,persons,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",15.0
+2012,persons,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.09
+2013,persons,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",12.0
+2013,persons,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.07
+2013,persons,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",3.0
+2013,persons,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.02
+2014,persons,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",19.0
+2014,persons,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.11
+2014,persons,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",9.0
+2014,persons,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.05
+2015,persons,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",8.0
+2015,persons,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.05
+2015,persons,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",0.0
+2015,persons,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.0
+2016,persons,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",8.0
+2016,persons,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.04
+2016,persons,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",1.0
+2016,persons,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.006
+2017,persons,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",35.0
+2017,persons,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.19
+2017,persons,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",11.0
+2017,persons,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.06
+2018,persons,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",8.0
+2018,persons,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.044
+2018,persons,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",1.0
+2018,persons,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.005
+2019,persons,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",9.0
+2019,persons,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.049
+2019,persons,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",2.0
+2019,persons,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.011
