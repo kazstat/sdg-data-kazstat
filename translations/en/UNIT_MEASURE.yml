@@ -3,7 +3,7 @@ M_T: millions tonnes
 M_TNG: million tenge
 NUM_ATM_PER_100000_ADL: number of ATMs per 100 000 adults
 NUM_CBBR_PER_100000_ADL: the number of branches of commercial banks per 100 000 adults
-PERSONS: Number of individuals
+PERSONS: persons
 PER_1000000_POP: mln.people
 PER_100000_LIVE_BIRTHS: per 100000 live births
 PER_100000_POP: per 100000 population
@@ -25,3 +25,6 @@ UNITS: units
 USD_IN_2010_PRICE: tenge per US dollars in 2010 prices
 '[REMOVE]': killed per 100 000 people
 million USD: millions of US dollars
+billion_tenge: billion tenge
+kg_CO2: kg CO2-eq/int.USD
+T_CO2: tons of CO2-eq/capita
