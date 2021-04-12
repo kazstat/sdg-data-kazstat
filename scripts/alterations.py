@@ -1,3 +1,5 @@
+from sdg import helpers
+
 def alter_meta(metadata):
 
     # Automatically detect global indicators.
