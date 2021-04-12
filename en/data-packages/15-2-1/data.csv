@@ -1,19 +1,19 @@
 Year,UNIT_MEASURE,SERIES,Regions,Value
-2010,thousands hectares,_L_KZ_150201_1A,,100.0
-2010,thousands hectares,_L_KZ_150201_1A,Akmola,7.0
-2010,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
-2010,thousands hectares,_L_KZ_150201_1A,Almaty,13.0
-2010,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
-2010,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
-2010,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
-2010,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
-2010,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
-2010,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
-2010,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
-2010,thousands hectares,_L_KZ_150201_1A,Pavlodar,12.0
-2010,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,8.0
-2010,thousands hectares,_L_KZ_150201_1A,Turkistan,4.0
-2010,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,49.0
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12317.8
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,373.7
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,47.3
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1797.6
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,15.8
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,103.3
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2213.6
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,155.4
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,222.4
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3094.7
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.7
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,247.0
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,530.2
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1603.4
+2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,1800.8
 2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,380.7
 2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,42.7
 2010,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.0
@@ -44,21 +44,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2010,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,-0.2
 2010,Percent,_L_KZ_150201_1B,Turkistan,4.2
 2010,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,0.3
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12317.8
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,373.7
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,47.3
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1797.6
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,15.8
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,103.3
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2213.6
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,155.4
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,222.4
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3094.7
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.7
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,247.0
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,530.2
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1603.4
-2010,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,1800.8
+2010,thousands hectares,_L_KZ_150201_1A,,100.0
+2010,thousands hectares,_L_KZ_150201_1A,Akmola,7.0
+2010,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
+2010,thousands hectares,_L_KZ_150201_1A,Almaty,13.0
+2010,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
+2010,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
+2010,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
+2010,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
+2010,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
+2010,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
+2010,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
+2010,thousands hectares,_L_KZ_150201_1A,Pavlodar,12.0
+2010,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,8.0
+2010,thousands hectares,_L_KZ_150201_1A,Turkistan,4.0
+2010,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,49.0
 2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12317.8
 2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,373.7
 2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,47.3
@@ -74,21 +74,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,530.2
 2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1603.4
 2010,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,1800.8
-2011,thousands hectares,_L_KZ_150201_1A,,100.0
-2011,thousands hectares,_L_KZ_150201_1A,Akmola,9.0
-2011,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
-2011,thousands hectares,_L_KZ_150201_1A,Almaty,13.0
-2011,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
-2011,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
-2011,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
-2011,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
-2011,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
-2011,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
-2011,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
-2011,thousands hectares,_L_KZ_150201_1A,Pavlodar,12.0
-2011,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,7.0
-2011,thousands hectares,_L_KZ_150201_1A,Turkistan,4.0
-2011,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,48.0
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12452.0
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,378.6
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,47.2
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1850.9
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,15.8
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,104.6
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2219.6
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,155.4
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,223.7
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3088.2
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.8
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,249.9
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,529.4
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1603.4
+2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,1862.5
 2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,380.7
 2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,42.7
 2011,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.0
@@ -119,21 +119,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2011,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,-0.8
 2011,Percent,_L_KZ_150201_1B,Turkistan,0.0
 2011,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,61.700000000000045
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12452.0
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,378.6
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,47.2
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1850.9
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,15.8
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,104.6
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2219.6
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,155.4
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,223.7
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3088.2
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.8
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,249.9
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,529.4
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1603.4
-2011,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,1862.5
+2011,thousands hectares,_L_KZ_150201_1A,,100.0
+2011,thousands hectares,_L_KZ_150201_1A,Akmola,9.0
+2011,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
+2011,thousands hectares,_L_KZ_150201_1A,Almaty,13.0
+2011,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
+2011,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
+2011,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
+2011,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
+2011,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
+2011,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
+2011,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
+2011,thousands hectares,_L_KZ_150201_1A,Pavlodar,12.0
+2011,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,7.0
+2011,thousands hectares,_L_KZ_150201_1A,Turkistan,4.0
+2011,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,48.0
 2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12452.0
 2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,378.6
 2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,47.2
@@ -149,21 +149,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,529.4
 2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1603.4
 2011,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,1862.5
-2012,thousands hectares,_L_KZ_150201_1A,,100.0
-2012,thousands hectares,_L_KZ_150201_1A,Akmola,9.0
-2012,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
-2012,thousands hectares,_L_KZ_150201_1A,Almaty,13.0
-2012,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
-2012,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
-2012,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
-2012,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
-2012,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
-2012,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
-2012,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
-2012,thousands hectares,_L_KZ_150201_1A,Pavlodar,11.0
-2012,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,7.0
-2012,thousands hectares,_L_KZ_150201_1A,Turkistan,3.0
-2012,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,50.0
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12548.6
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,378.0
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,47.9
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1851.7
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,15.8
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,106.1
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2222.3
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,156.0
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,224.1
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3056.8
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.8
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,249.3
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,529.7
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1614.1
+2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,1974.1
 2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,412.2
 2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,45.4
 2012,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.1
@@ -194,21 +194,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2012,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,0.3
 2012,Percent,_L_KZ_150201_1B,Turkistan,10.699999999999818
 2012,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,111.59999999999992
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12548.6
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,378.0
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,47.9
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1851.7
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,15.8
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,106.1
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2222.3
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,156.0
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,224.1
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3056.8
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.8
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,249.3
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,529.7
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1614.1
-2012,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,1974.1
+2012,thousands hectares,_L_KZ_150201_1A,,100.0
+2012,thousands hectares,_L_KZ_150201_1A,Akmola,9.0
+2012,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
+2012,thousands hectares,_L_KZ_150201_1A,Almaty,13.0
+2012,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
+2012,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
+2012,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
+2012,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
+2012,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
+2012,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
+2012,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
+2012,thousands hectares,_L_KZ_150201_1A,Pavlodar,11.0
+2012,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,7.0
+2012,thousands hectares,_L_KZ_150201_1A,Turkistan,3.0
+2012,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,50.0
 2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12548.6
 2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,378.0
 2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,47.9
@@ -224,21 +224,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,529.7
 2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1614.1
 2012,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,1974.1
-2013,thousands hectares,_L_KZ_150201_1A,,100.0
-2013,thousands hectares,_L_KZ_150201_1A,Akmola,9.0
-2013,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
-2013,thousands hectares,_L_KZ_150201_1A,Almaty,13.0
-2013,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
-2013,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
-2013,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
-2013,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
-2013,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
-2013,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
-2013,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
-2013,thousands hectares,_L_KZ_150201_1A,Pavlodar,11.0
-2013,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,7.0
-2013,thousands hectares,_L_KZ_150201_1A,Turkistan,3.0
-2013,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,50.0
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12593.9
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,379.3
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,49.8
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1854.4
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,16.4
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,106.1
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2231.0
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,155.6
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,229.0
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3055.0
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.4
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,250.5
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,529.3
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1614.2
+2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,2000.8
 2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,412.2
 2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,45.4
 2013,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.1
@@ -269,21 +269,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2013,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,-0.4000000000000909
 2013,Percent,_L_KZ_150201_1B,Turkistan,0.1000000000001364
 2013,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,26.700000000000045
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12593.9
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,379.3
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,49.8
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1854.4
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,16.4
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,106.1
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2231.0
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,155.6
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,229.0
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3055.0
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.4
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,250.5
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,529.3
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1614.2
-2013,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,2000.8
+2013,thousands hectares,_L_KZ_150201_1A,,100.0
+2013,thousands hectares,_L_KZ_150201_1A,Akmola,9.0
+2013,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
+2013,thousands hectares,_L_KZ_150201_1A,Almaty,13.0
+2013,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
+2013,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
+2013,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
+2013,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
+2013,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
+2013,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
+2013,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
+2013,thousands hectares,_L_KZ_150201_1A,Pavlodar,11.0
+2013,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,7.0
+2013,thousands hectares,_L_KZ_150201_1A,Turkistan,3.0
+2013,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,50.0
 2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12593.9
 2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,379.3
 2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,49.8
@@ -299,21 +299,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,529.3
 2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1614.2
 2013,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,2000.8
-2014,thousands hectares,_L_KZ_150201_1A,,100.0
-2014,thousands hectares,_L_KZ_150201_1A,Akmola,8.0
-2014,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
-2014,thousands hectares,_L_KZ_150201_1A,Almaty,12.0
-2014,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
-2014,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
-2014,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
-2014,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
-2014,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
-2014,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
-2014,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
-2014,thousands hectares,_L_KZ_150201_1A,Pavlodar,11.0
-2014,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,7.0
-2014,thousands hectares,_L_KZ_150201_1A,Turkistan,7.0
-2014,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,48.0
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12627.0
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,379.4
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,50.3
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1856.2
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,16.4
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,106.0
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2236.1
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,155.8
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,234.9
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3063.0
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.4
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,253.1
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,531.9
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1616.8
+2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,2004.7
 2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,412.2
 2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,45.4
 2014,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.1
@@ -344,21 +344,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2014,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,2.6000000000000227
 2014,Percent,_L_KZ_150201_1B,Turkistan,2.599999999999909
 2014,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,3.900000000000091
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12627.0
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,379.4
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,50.3
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1856.2
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,16.4
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,106.0
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2236.1
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,155.8
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,234.9
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3063.0
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.4
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,253.1
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,531.9
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1616.8
-2014,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,2004.7
+2014,thousands hectares,_L_KZ_150201_1A,,100.0
+2014,thousands hectares,_L_KZ_150201_1A,Akmola,8.0
+2014,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
+2014,thousands hectares,_L_KZ_150201_1A,Almaty,12.0
+2014,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
+2014,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
+2014,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
+2014,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
+2014,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
+2014,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
+2014,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
+2014,thousands hectares,_L_KZ_150201_1A,Pavlodar,11.0
+2014,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,7.0
+2014,thousands hectares,_L_KZ_150201_1A,Turkistan,7.0
+2014,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,48.0
 2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12627.0
 2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,379.4
 2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,50.3
@@ -374,21 +374,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,531.9
 2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1616.8
 2014,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,2004.7
-2015,thousands hectares,_L_KZ_150201_1A,,100.0
-2015,thousands hectares,_L_KZ_150201_1A,Akmola,8.0
-2015,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
-2015,thousands hectares,_L_KZ_150201_1A,Almaty,13.0
-2015,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
-2015,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
-2015,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
-2015,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
-2015,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
-2015,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
-2015,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
-2015,thousands hectares,_L_KZ_150201_1A,Pavlodar,11.0
-2015,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,6.0
-2015,thousands hectares,_L_KZ_150201_1A,Turkistan,7.0
-2015,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,48.0
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12652.4
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,380.3
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,51.6
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1870.6
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,16.5
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,103.9
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2240.6
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,153.3
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,236.4
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3059.1
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.4
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,254.5
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,534.0
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1623.7
+2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,2005.3
 2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,412.2
 2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,45.4
 2015,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.1
@@ -419,21 +419,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2015,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,2.1000000000000227
 2015,Percent,_L_KZ_150201_1B,Turkistan,6.900000000000091
 2015,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,0.599999999999909
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12652.4
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,380.3
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,51.6
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1870.6
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,16.5
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,103.9
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2240.6
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,153.3
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,236.4
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3059.1
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.4
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,254.5
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,534.0
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1623.7
-2015,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,2005.3
+2015,thousands hectares,_L_KZ_150201_1A,,100.0
+2015,thousands hectares,_L_KZ_150201_1A,Akmola,8.0
+2015,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
+2015,thousands hectares,_L_KZ_150201_1A,Almaty,13.0
+2015,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
+2015,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
+2015,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
+2015,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
+2015,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
+2015,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
+2015,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
+2015,thousands hectares,_L_KZ_150201_1A,Pavlodar,11.0
+2015,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,6.0
+2015,thousands hectares,_L_KZ_150201_1A,Turkistan,7.0
+2015,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,48.0
 2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12652.4
 2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,380.3
 2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,51.6
@@ -449,21 +449,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,534.0
 2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1623.7
 2015,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,2005.3
-2016,thousands hectares,_L_KZ_150201_1A,,100.0
-2016,thousands hectares,_L_KZ_150201_1A,Akmola,8.0
-2016,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
-2016,thousands hectares,_L_KZ_150201_1A,Almaty,13.0
-2016,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
-2016,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
-2016,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
-2016,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
-2016,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
-2016,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
-2016,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
-2016,thousands hectares,_L_KZ_150201_1A,Pavlodar,11.0
-2016,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,6.0
-2016,thousands hectares,_L_KZ_150201_1A,Turkistan,7.0
-2016,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,48.0
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12706.8
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,382.1
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,51.7
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1882.3
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,16.5
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,106.0
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2240.7
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,153.3
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,238.2
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3080.3
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.4
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,257.1
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,535.6
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1630.1
+2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,2010.3
 2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,412.2
 2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,45.4
 2016,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.1
@@ -494,21 +494,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2016,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,1.6000000000000227
 2016,Percent,_L_KZ_150201_1B,Turkistan,6.399999999999864
 2016,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,5.0
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12706.8
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,382.1
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,51.7
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1882.3
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,16.5
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,106.0
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2240.7
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,153.3
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,238.2
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3080.3
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,122.4
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,257.1
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,535.6
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1630.1
-2016,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,2010.3
+2016,thousands hectares,_L_KZ_150201_1A,,100.0
+2016,thousands hectares,_L_KZ_150201_1A,Akmola,8.0
+2016,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
+2016,thousands hectares,_L_KZ_150201_1A,Almaty,13.0
+2016,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
+2016,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
+2016,thousands hectares,_L_KZ_150201_1A,Zhambyl,0.0
+2016,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
+2016,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
+2016,thousands hectares,_L_KZ_150201_1A,Kyzylorda,3.0
+2016,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
+2016,thousands hectares,_L_KZ_150201_1A,Pavlodar,11.0
+2016,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,6.0
+2016,thousands hectares,_L_KZ_150201_1A,Turkistan,7.0
+2016,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,48.0
 2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12706.8
 2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,382.1
 2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,51.7
@@ -524,21 +524,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Soltustik Kazakhstan,535.6
 2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Turkistan,1630.1
 2016,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Shygys Kazakhstan,2010.3
-2017,thousands hectares,_L_KZ_150201_1A,,100.0
-2017,thousands hectares,_L_KZ_150201_1A,Akmola,7.0
-2017,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
-2017,thousands hectares,_L_KZ_150201_1A,Almaty,10.0
-2017,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
-2017,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
-2017,thousands hectares,_L_KZ_150201_1A,Zhambyl,20.0
-2017,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
-2017,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
-2017,thousands hectares,_L_KZ_150201_1A,Kyzylorda,2.0
-2017,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
-2017,thousands hectares,_L_KZ_150201_1A,Pavlodar,7.0
-2017,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,6.0
-2017,thousands hectares,_L_KZ_150201_1A,Turkistan,6.0
-2017,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,38.0
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12903.5
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,382.1
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,51.9
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1928.7
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,16.6
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,91.2
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2361.3
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,153.5
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,240.0
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3103.2
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,125.1
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,258.4
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,537.2
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1639.2
+2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,2015.3
 2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,421.8
 2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,44.7
 2017,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,1.1
@@ -569,21 +569,21 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2017,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,1.6000000000000227
 2017,Percent,_L_KZ_150201_1B,Turkistan,9.100000000000136
 2017,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,5.0
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,12903.5
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,382.1
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,51.9
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,1928.7
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,16.6
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,91.2
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,2361.3
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,153.5
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,240.0
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,3103.2
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,125.1
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,258.4
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,537.2
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,1639.2
-2017,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,2015.3
+2017,thousands hectares,_L_KZ_150201_1A,,100.0
+2017,thousands hectares,_L_KZ_150201_1A,Akmola,7.0
+2017,thousands hectares,_L_KZ_150201_1A,Aktobe,0.0
+2017,thousands hectares,_L_KZ_150201_1A,Almaty,10.0
+2017,thousands hectares,_L_KZ_150201_1A,Atyrau,0.0
+2017,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,0.0
+2017,thousands hectares,_L_KZ_150201_1A,Zhambyl,20.0
+2017,thousands hectares,_L_KZ_150201_1A,Karagandy,4.0
+2017,thousands hectares,_L_KZ_150201_1A,Kostanay,0.0
+2017,thousands hectares,_L_KZ_150201_1A,Kyzylorda,2.0
+2017,thousands hectares,_L_KZ_150201_1A,Mangistau,0.0
+2017,thousands hectares,_L_KZ_150201_1A,Pavlodar,7.0
+2017,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,6.0
+2017,thousands hectares,_L_KZ_150201_1A,Turkistan,6.0
+2017,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,38.0
 2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],,12903.5
 2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Akmola,382.1
 2017,thousands hectares,Proportion of forest area with a long-term management plan [15.2.1],Aktobe,51.9
