@@ -98,3 +98,6 @@ inputs:
     path_pattern: meta/*.yml
   - class: InputCsvData
     path_pattern: data/*.csv
+
+logging:
+  - warn
