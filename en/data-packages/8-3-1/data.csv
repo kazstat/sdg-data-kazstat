@@ -50,38 +50,38 @@ Year,UNIT_MEASURE,Regions,Sex,Area,Age,Value
 2012,Percent,Shygys Kazakhstan,Female,,,32.5
 2012,Percent,Nur-Sultan city,Female,,,14.3
 2012,Percent,Almaty city,Female,,,9.1
-2012,Percent,,,Population of urban areas,,16.0
-2012,Percent,Akmola,,Population of urban areas,,14.9
-2012,Percent,Aktobe,,Population of urban areas,,16.8
-2012,Percent,Almaty,,Population of urban areas,,21.4
-2012,Percent,Atyrau,,Population of urban areas,,3.1
-2012,Percent,Batys Kazakhstan,,Population of urban areas,,5.6
-2012,Percent,Zhambyl,,Population of urban areas,,14.6
-2012,Percent,Karagandy,,Population of urban areas,,23.5
-2012,Percent,Kostanay,,Population of urban areas,,18.2
-2012,Percent,Kyzylorda,,Population of urban areas,,11.5
-2012,Percent,Mangistau,,Population of urban areas,,2.1
-2012,Percent,Ontustik Kazakhstan,,Population of urban areas,,23.9
-2012,Percent,Pavlodar,,Population of urban areas,,17.9
-2012,Percent,Soltustik Kazakhstan,,Population of urban areas,,24.9
-2012,Percent,Shygys Kazakhstan,,Population of urban areas,,18.0
-2012,Percent,Nur-Sultan city,,Population of urban areas,,13.3
-2012,Percent,Almaty city,,Population of urban areas,,9.8
-2012,Percent,,,Population of rural areas,,37.9
-2012,Percent,Akmola,,Population of rural areas,,25.2
-2012,Percent,Aktobe,,Population of rural areas,,37.9
-2012,Percent,Almaty,,Population of rural areas,,30.2
-2012,Percent,Atyrau,,Population of rural areas,,13.2
-2012,Percent,Batys Kazakhstan,,Population of rural areas,,47.0
-2012,Percent,Zhambyl,,Population of rural areas,,40.7
-2012,Percent,Karagandy,,Population of rural areas,,33.6
-2012,Percent,Kostanay,,Population of rural areas,,56.8
-2012,Percent,Kyzylorda,,Population of rural areas,,21.5
-2012,Percent,Mangistau,,Population of rural areas,,2.8
-2012,Percent,Ontustik Kazakhstan,,Population of rural areas,,45.3
-2012,Percent,Pavlodar,,Population of rural areas,,50.9
-2012,Percent,Soltustik Kazakhstan,,Population of rural areas,,49.3
-2012,Percent,Shygys Kazakhstan,,Population of rural areas,,46.2
+2012,Percent,,,urban,,16.0
+2012,Percent,Akmola,,urban,,14.9
+2012,Percent,Aktobe,,urban,,16.8
+2012,Percent,Almaty,,urban,,21.4
+2012,Percent,Atyrau,,urban,,3.1
+2012,Percent,Batys Kazakhstan,,urban,,5.6
+2012,Percent,Zhambyl,,urban,,14.6
+2012,Percent,Karagandy,,urban,,23.5
+2012,Percent,Kostanay,,urban,,18.2
+2012,Percent,Kyzylorda,,urban,,11.5
+2012,Percent,Mangistau,,urban,,2.1
+2012,Percent,Ontustik Kazakhstan,,urban,,23.9
+2012,Percent,Pavlodar,,urban,,17.9
+2012,Percent,Soltustik Kazakhstan,,urban,,24.9
+2012,Percent,Shygys Kazakhstan,,urban,,18.0
+2012,Percent,Nur-Sultan city,,urban,,13.3
+2012,Percent,Almaty city,,urban,,9.8
+2012,Percent,,,rural,,37.9
+2012,Percent,Akmola,,rural,,25.2
+2012,Percent,Aktobe,,rural,,37.9
+2012,Percent,Almaty,,rural,,30.2
+2012,Percent,Atyrau,,rural,,13.2
+2012,Percent,Batys Kazakhstan,,rural,,47.0
+2012,Percent,Zhambyl,,rural,,40.7
+2012,Percent,Karagandy,,rural,,33.6
+2012,Percent,Kostanay,,rural,,56.8
+2012,Percent,Kyzylorda,,rural,,21.5
+2012,Percent,Mangistau,,rural,,2.8
+2012,Percent,Ontustik Kazakhstan,,rural,,45.3
+2012,Percent,Pavlodar,,rural,,50.9
+2012,Percent,Soltustik Kazakhstan,,rural,,49.3
+2012,Percent,Shygys Kazakhstan,,rural,,46.2
 2012,Percent,,,,Y15,99.3
 2012,Percent,,,,16-24,33.1
 2012,Percent,,,,25-28,22.9
@@ -253,38 +253,38 @@ Year,UNIT_MEASURE,Regions,Sex,Area,Age,Value
 2013,Percent,Shygys Kazakhstan,Female,,,29.4
 2013,Percent,Nur-Sultan city,Female,,,4.5
 2013,Percent,Almaty city,Female,,,9.2
-2013,Percent,,,Population of urban areas,,14.4
-2013,Percent,Akmola,,Population of urban areas,,12.8
-2013,Percent,Aktobe,,Population of urban areas,,13.1
-2013,Percent,Almaty,,Population of urban areas,,12.9
-2013,Percent,Atyrau,,Population of urban areas,,3.0
-2013,Percent,Batys Kazakhstan,,Population of urban areas,,11.0
-2013,Percent,Zhambyl,,Population of urban areas,,31.6
-2013,Percent,Karagandy,,Population of urban areas,,18.9
-2013,Percent,Kostanay,,Population of urban areas,,18.6
-2013,Percent,Kyzylorda,,Population of urban areas,,12.2
-2013,Percent,Mangistau,,Population of urban areas,,6.6
-2013,Percent,Ontustik Kazakhstan,,Population of urban areas,,18.7
-2013,Percent,Pavlodar,,Population of urban areas,,17.7
-2013,Percent,Soltustik Kazakhstan,,Population of urban areas,,24.9
-2013,Percent,Shygys Kazakhstan,,Population of urban areas,,15.2
-2013,Percent,Nur-Sultan city,,Population of urban areas,,4.9
-2013,Percent,Almaty city,,Population of urban areas,,10.5
-2013,Percent,,,Population of rural areas,,36.1
-2013,Percent,Akmola,,Population of rural areas,,28.6
-2013,Percent,Aktobe,,Population of rural areas,,35.6
-2013,Percent,Almaty,,Population of rural areas,,24.1
-2013,Percent,Atyrau,,Population of rural areas,,11.8
-2013,Percent,Batys Kazakhstan,,Population of rural areas,,43.7
-2013,Percent,Zhambyl,,Population of rural areas,,50.8
-2013,Percent,Karagandy,,Population of rural areas,,22.4
-2013,Percent,Kostanay,,Population of rural areas,,54.8
-2013,Percent,Kyzylorda,,Population of rural areas,,17.0
-2013,Percent,Mangistau,,Population of rural areas,,5.1
-2013,Percent,Ontustik Kazakhstan,,Population of rural areas,,41.0
-2013,Percent,Pavlodar,,Population of rural areas,,51.5
-2013,Percent,Soltustik Kazakhstan,,Population of rural areas,,48.2
-2013,Percent,Shygys Kazakhstan,,Population of rural areas,,49.7
+2013,Percent,,,urban,,14.4
+2013,Percent,Akmola,,urban,,12.8
+2013,Percent,Aktobe,,urban,,13.1
+2013,Percent,Almaty,,urban,,12.9
+2013,Percent,Atyrau,,urban,,3.0
+2013,Percent,Batys Kazakhstan,,urban,,11.0
+2013,Percent,Zhambyl,,urban,,31.6
+2013,Percent,Karagandy,,urban,,18.9
+2013,Percent,Kostanay,,urban,,18.6
+2013,Percent,Kyzylorda,,urban,,12.2
+2013,Percent,Mangistau,,urban,,6.6
+2013,Percent,Ontustik Kazakhstan,,urban,,18.7
+2013,Percent,Pavlodar,,urban,,17.7
+2013,Percent,Soltustik Kazakhstan,,urban,,24.9
+2013,Percent,Shygys Kazakhstan,,urban,,15.2
+2013,Percent,Nur-Sultan city,,urban,,4.9
+2013,Percent,Almaty city,,urban,,10.5
+2013,Percent,,,rural,,36.1
+2013,Percent,Akmola,,rural,,28.6
+2013,Percent,Aktobe,,rural,,35.6
+2013,Percent,Almaty,,rural,,24.1
+2013,Percent,Atyrau,,rural,,11.8
+2013,Percent,Batys Kazakhstan,,rural,,43.7
+2013,Percent,Zhambyl,,rural,,50.8
+2013,Percent,Karagandy,,rural,,22.4
+2013,Percent,Kostanay,,rural,,54.8
+2013,Percent,Kyzylorda,,rural,,17.0
+2013,Percent,Mangistau,,rural,,5.1
+2013,Percent,Ontustik Kazakhstan,,rural,,41.0
+2013,Percent,Pavlodar,,rural,,51.5
+2013,Percent,Soltustik Kazakhstan,,rural,,48.2
+2013,Percent,Shygys Kazakhstan,,rural,,49.7
 2013,Percent,,,,Y15,100.0
 2013,Percent,,,,16-24,30.2
 2013,Percent,,,,25-28,23.4
@@ -458,38 +458,38 @@ Year,UNIT_MEASURE,Regions,Sex,Area,Age,Value
 2014,Percent,Shygys Kazakhstan,Female,,,33.7
 2014,Percent,Nur-Sultan city,Female,,,22.8
 2014,Percent,Almaty city,Female,,,14.2
-2014,Percent,,,Population of urban areas,,19.6
-2014,Percent,Akmola,,Population of urban areas,,17.7
-2014,Percent,Aktobe,,Population of urban areas,,13.9
-2014,Percent,Almaty,,Population of urban areas,,23.1
-2014,Percent,Atyrau,,Population of urban areas,,2.7
-2014,Percent,Batys Kazakhstan,,Population of urban areas,,13.4
-2014,Percent,Zhambyl,,Population of urban areas,,39.6
-2014,Percent,Karagandy,,Population of urban areas,,21.0
-2014,Percent,Kostanay,,Population of urban areas,,23.7
-2014,Percent,Kyzylorda,,Population of urban areas,,13.9
-2014,Percent,Mangistau,,Population of urban areas,,9.3
-2014,Percent,Ontustik Kazakhstan,,Population of urban areas,,21.7
-2014,Percent,Pavlodar,,Population of urban areas,,18.0
-2014,Percent,Soltustik Kazakhstan,,Population of urban areas,,29.0
-2014,Percent,Shygys Kazakhstan,,Population of urban areas,,21.4
-2014,Percent,Nur-Sultan city,,Population of urban areas,,22.9
-2014,Percent,Almaty city,,Population of urban areas,,14.8
-2014,Percent,,,Population of rural areas,,31.6
-2014,Percent,Akmola,,Population of rural areas,,30.0
-2014,Percent,Aktobe,,Population of rural areas,,28.9
-2014,Percent,Almaty,,Population of rural areas,,26.3
-2014,Percent,Atyrau,,Population of rural areas,,11.8
-2014,Percent,Batys Kazakhstan,,Population of rural areas,,45.2
-2014,Percent,Zhambyl,,Population of rural areas,,40.0
-2014,Percent,Karagandy,,Population of rural areas,,33.6
-2014,Percent,Kostanay,,Population of rural areas,,47.2
-2014,Percent,Kyzylorda,,Population of rural areas,,23.0
-2014,Percent,Mangistau,,Population of rural areas,,4.5
-2014,Percent,Ontustik Kazakhstan,,Population of rural areas,,22.9
-2014,Percent,Pavlodar,,Population of rural areas,,57.1
-2014,Percent,Soltustik Kazakhstan,,Population of rural areas,,40.5
-2014,Percent,Shygys Kazakhstan,,Population of rural areas,,48.1
+2014,Percent,,,urban,,19.6
+2014,Percent,Akmola,,urban,,17.7
+2014,Percent,Aktobe,,urban,,13.9
+2014,Percent,Almaty,,urban,,23.1
+2014,Percent,Atyrau,,urban,,2.7
+2014,Percent,Batys Kazakhstan,,urban,,13.4
+2014,Percent,Zhambyl,,urban,,39.6
+2014,Percent,Karagandy,,urban,,21.0
+2014,Percent,Kostanay,,urban,,23.7
+2014,Percent,Kyzylorda,,urban,,13.9
+2014,Percent,Mangistau,,urban,,9.3
+2014,Percent,Ontustik Kazakhstan,,urban,,21.7
+2014,Percent,Pavlodar,,urban,,18.0
+2014,Percent,Soltustik Kazakhstan,,urban,,29.0
+2014,Percent,Shygys Kazakhstan,,urban,,21.4
+2014,Percent,Nur-Sultan city,,urban,,22.9
+2014,Percent,Almaty city,,urban,,14.8
+2014,Percent,,,rural,,31.6
+2014,Percent,Akmola,,rural,,30.0
+2014,Percent,Aktobe,,rural,,28.9
+2014,Percent,Almaty,,rural,,26.3
+2014,Percent,Atyrau,,rural,,11.8
+2014,Percent,Batys Kazakhstan,,rural,,45.2
+2014,Percent,Zhambyl,,rural,,40.0
+2014,Percent,Karagandy,,rural,,33.6
+2014,Percent,Kostanay,,rural,,47.2
+2014,Percent,Kyzylorda,,rural,,23.0
+2014,Percent,Mangistau,,rural,,4.5
+2014,Percent,Ontustik Kazakhstan,,rural,,22.9
+2014,Percent,Pavlodar,,rural,,57.1
+2014,Percent,Soltustik Kazakhstan,,rural,,40.5
+2014,Percent,Shygys Kazakhstan,,rural,,48.1
 2014,Percent,,,,Y15,65.8
 2014,Percent,,,,16-24,28.5
 2014,Percent,,,,25-28,23.2
@@ -671,38 +671,38 @@ Year,UNIT_MEASURE,Regions,Sex,Area,Age,Value
 2015,Percent,Shygys Kazakhstan,Female,,,26.9
 2015,Percent,Nur-Sultan city,Female,,,25.8
 2015,Percent,Almaty city,Female,,,11.1
-2015,Percent,,,Population of urban areas,,16.9
-2015,Percent,Akmola,,Population of urban areas,,16.2
-2015,Percent,Aktobe,,Population of urban areas,,12.2
-2015,Percent,Almaty,,Population of urban areas,,17.7
-2015,Percent,Atyrau,,Population of urban areas,,3.0
-2015,Percent,Batys Kazakhstan,,Population of urban areas,,13.1
-2015,Percent,Zhambyl,,Population of urban areas,,26.3
-2015,Percent,Karagandy,,Population of urban areas,,21.4
-2015,Percent,Kostanay,,Population of urban areas,,30.6
-2015,Percent,Kyzylorda,,Population of urban areas,,16.2
-2015,Percent,Mangistau,,Population of urban areas,,7.4
-2015,Percent,Ontustik Kazakhstan,,Population of urban areas,,14.0
-2015,Percent,Pavlodar,,Population of urban areas,,13.2
-2015,Percent,Soltustik Kazakhstan,,Population of urban areas,,23.7
-2015,Percent,Shygys Kazakhstan,,Population of urban areas,,15.5
-2015,Percent,Nur-Sultan city,,Population of urban areas,,26.4
-2015,Percent,Almaty city,,Population of urban areas,,11.4
-2015,Percent,,,Population of rural areas,,30.8
-2015,Percent,Akmola,,Population of rural areas,,29.7
-2015,Percent,Aktobe,,Population of rural areas,,30.9
-2015,Percent,Almaty,,Population of rural areas,,29.0
-2015,Percent,Atyrau,,Population of rural areas,,11.1
-2015,Percent,Batys Kazakhstan,,Population of rural areas,,46.5
-2015,Percent,Zhambyl,,Population of rural areas,,43.6
-2015,Percent,Karagandy,,Population of rural areas,,27.2
-2015,Percent,Kostanay,,Population of rural areas,,46.0
-2015,Percent,Kyzylorda,,Population of rural areas,,27.8
-2015,Percent,Mangistau,,Population of rural areas,,3.1
-2015,Percent,Ontustik Kazakhstan,,Population of rural areas,,16.4
-2015,Percent,Pavlodar,,Population of rural areas,,51.7
-2015,Percent,Soltustik Kazakhstan,,Population of rural areas,,43.0
-2015,Percent,Shygys Kazakhstan,,Population of rural areas,,42.0
+2015,Percent,,,urban,,16.9
+2015,Percent,Akmola,,urban,,16.2
+2015,Percent,Aktobe,,urban,,12.2
+2015,Percent,Almaty,,urban,,17.7
+2015,Percent,Atyrau,,urban,,3.0
+2015,Percent,Batys Kazakhstan,,urban,,13.1
+2015,Percent,Zhambyl,,urban,,26.3
+2015,Percent,Karagandy,,urban,,21.4
+2015,Percent,Kostanay,,urban,,30.6
+2015,Percent,Kyzylorda,,urban,,16.2
+2015,Percent,Mangistau,,urban,,7.4
+2015,Percent,Ontustik Kazakhstan,,urban,,14.0
+2015,Percent,Pavlodar,,urban,,13.2
+2015,Percent,Soltustik Kazakhstan,,urban,,23.7
+2015,Percent,Shygys Kazakhstan,,urban,,15.5
+2015,Percent,Nur-Sultan city,,urban,,26.4
+2015,Percent,Almaty city,,urban,,11.4
+2015,Percent,,,rural,,30.8
+2015,Percent,Akmola,,rural,,29.7
+2015,Percent,Aktobe,,rural,,30.9
+2015,Percent,Almaty,,rural,,29.0
+2015,Percent,Atyrau,,rural,,11.1
+2015,Percent,Batys Kazakhstan,,rural,,46.5
+2015,Percent,Zhambyl,,rural,,43.6
+2015,Percent,Karagandy,,rural,,27.2
+2015,Percent,Kostanay,,rural,,46.0
+2015,Percent,Kyzylorda,,rural,,27.8
+2015,Percent,Mangistau,,rural,,3.1
+2015,Percent,Ontustik Kazakhstan,,rural,,16.4
+2015,Percent,Pavlodar,,rural,,51.7
+2015,Percent,Soltustik Kazakhstan,,rural,,43.0
+2015,Percent,Shygys Kazakhstan,,rural,,42.0
 2015,Percent,,,,Y15,93.9
 2015,Percent,,,,16-24,25.2
 2015,Percent,,,,25-28,21.7
@@ -881,38 +881,38 @@ Year,UNIT_MEASURE,Regions,Sex,Area,Age,Value
 2016,Percent,Shygys Kazakhstan,Female,,,20.9
 2016,Percent,Nur-Sultan city,Female,,,15.5
 2016,Percent,Almaty city,Female,,,16.9
-2016,Percent,,,Population of urban areas,,14.9
-2016,Percent,Akmola,,Population of urban areas,,13.7
-2016,Percent,Aktobe,,Population of urban areas,,8.3
-2016,Percent,Almaty,,Population of urban areas,,14.8
-2016,Percent,Atyrau,,Population of urban areas,,2.2
-2016,Percent,Batys Kazakhstan,,Population of urban areas,,12.1
-2016,Percent,Zhambyl,,Population of urban areas,,26.7
-2016,Percent,Karagandy,,Population of urban areas,,16.8
-2016,Percent,Kostanay,,Population of urban areas,,27.5
-2016,Percent,Kyzylorda,,Population of urban areas,,11.8
-2016,Percent,Mangistau,,Population of urban areas,,2.4
-2016,Percent,Ontustik Kazakhstan,,Population of urban areas,,11.9
-2016,Percent,Pavlodar,,Population of urban areas,,14.8
-2016,Percent,Soltustik Kazakhstan,,Population of urban areas,,15.4
-2016,Percent,Shygys Kazakhstan,,Population of urban areas,,11.0
-2016,Percent,Nur-Sultan city,,Population of urban areas,,17.2
-2016,Percent,Almaty city,,Population of urban areas,,17.2
-2016,Percent,,,Population of rural areas,,23.5
-2016,Percent,Akmola,,Population of rural areas,,21.7
-2016,Percent,Aktobe,,Population of rural areas,,27.2
-2016,Percent,Almaty,,Population of rural areas,,16.6
-2016,Percent,Atyrau,,Population of rural areas,,7.8
-2016,Percent,Batys Kazakhstan,,Population of rural areas,,45.3
-2016,Percent,Zhambyl,,Population of rural areas,,37.3
-2016,Percent,Karagandy,,Population of rural areas,,19.7
-2016,Percent,Kostanay,,Population of rural areas,,44.5
-2016,Percent,Kyzylorda,,Population of rural areas,,19.4
-2016,Percent,Mangistau,,Population of rural areas,,3.6
-2016,Percent,Ontustik Kazakhstan,,Population of rural areas,,8.5
-2016,Percent,Pavlodar,,Population of rural areas,,50.2
-2016,Percent,Soltustik Kazakhstan,,Population of rural areas,,37.8
-2016,Percent,Shygys Kazakhstan,,Population of rural areas,,32.5
+2016,Percent,,,urban,,14.9
+2016,Percent,Akmola,,urban,,13.7
+2016,Percent,Aktobe,,urban,,8.3
+2016,Percent,Almaty,,urban,,14.8
+2016,Percent,Atyrau,,urban,,2.2
+2016,Percent,Batys Kazakhstan,,urban,,12.1
+2016,Percent,Zhambyl,,urban,,26.7
+2016,Percent,Karagandy,,urban,,16.8
+2016,Percent,Kostanay,,urban,,27.5
+2016,Percent,Kyzylorda,,urban,,11.8
+2016,Percent,Mangistau,,urban,,2.4
+2016,Percent,Ontustik Kazakhstan,,urban,,11.9
+2016,Percent,Pavlodar,,urban,,14.8
+2016,Percent,Soltustik Kazakhstan,,urban,,15.4
+2016,Percent,Shygys Kazakhstan,,urban,,11.0
+2016,Percent,Nur-Sultan city,,urban,,17.2
+2016,Percent,Almaty city,,urban,,17.2
+2016,Percent,,,rural,,23.5
+2016,Percent,Akmola,,rural,,21.7
+2016,Percent,Aktobe,,rural,,27.2
+2016,Percent,Almaty,,rural,,16.6
+2016,Percent,Atyrau,,rural,,7.8
+2016,Percent,Batys Kazakhstan,,rural,,45.3
+2016,Percent,Zhambyl,,rural,,37.3
+2016,Percent,Karagandy,,rural,,19.7
+2016,Percent,Kostanay,,rural,,44.5
+2016,Percent,Kyzylorda,,rural,,19.4
+2016,Percent,Mangistau,,rural,,3.6
+2016,Percent,Ontustik Kazakhstan,,rural,,8.5
+2016,Percent,Pavlodar,,rural,,50.2
+2016,Percent,Soltustik Kazakhstan,,rural,,37.8
+2016,Percent,Shygys Kazakhstan,,rural,,32.5
 2016,Percent,,,,Y15,88.4
 2016,Percent,,,,16-24,21.9
 2016,Percent,,,,25-28,17.1
@@ -1088,38 +1088,38 @@ Year,UNIT_MEASURE,Regions,Sex,Area,Age,Value
 2017,Percent,Shygys Kazakhstan,Female,,,14.7
 2017,Percent,Nur-Sultan city,Female,,,23.9
 2017,Percent,Almaty city,Female,,,10.5
-2017,Percent,,,Population of urban areas,,11.7
-2017,Percent,Akmola,,Population of urban areas,,11.4
-2017,Percent,Aktobe,,Population of urban areas,,2.3
-2017,Percent,Almaty,,Population of urban areas,,15.1
-2017,Percent,Atyrau,,Population of urban areas,,4.5
-2017,Percent,Batys Kazakhstan,,Population of urban areas,,13.4
-2017,Percent,Zhambyl,,Population of urban areas,,12.3
-2017,Percent,Karagandy,,Population of urban areas,,15.3
-2017,Percent,Kostanay,,Population of urban areas,,17.8
-2017,Percent,Kyzylorda,,Population of urban areas,,9.3
-2017,Percent,Mangistau,,Population of urban areas,,2.0
-2017,Percent,Ontustik Kazakhstan,,Population of urban areas,,5.0
-2017,Percent,Pavlodar,,Population of urban areas,,11.4
-2017,Percent,Soltustik Kazakhstan,,Population of urban areas,,8.8
-2017,Percent,Shygys Kazakhstan,,Population of urban areas,,9.0
-2017,Percent,Nur-Sultan city,,Population of urban areas,,24.6
-2017,Percent,Almaty city,,Population of urban areas,,10.5
-2017,Percent,,,Population of rural areas,,22.2
-2017,Percent,Akmola,,Population of rural areas,,21.2
-2017,Percent,Aktobe,,Population of rural areas,,19.0
-2017,Percent,Almaty,,Population of rural areas,,19.3
-2017,Percent,Atyrau,,Population of rural areas,,9.1
-2017,Percent,Batys Kazakhstan,,Population of rural areas,,44.8
-2017,Percent,Zhambyl,,Population of rural areas,,42.3
-2017,Percent,Karagandy,,Population of rural areas,,19.6
-2017,Percent,Kostanay,,Population of rural areas,,36.8
-2017,Percent,Kyzylorda,,Population of rural areas,,16.9
-2017,Percent,Mangistau,,Population of rural areas,,2.7
-2017,Percent,Ontustik Kazakhstan,,Population of rural areas,,7.4
-2017,Percent,Pavlodar,,Population of rural areas,,42.4
-2017,Percent,Soltustik Kazakhstan,,Population of rural areas,,34.2
-2017,Percent,Shygys Kazakhstan,,Population of rural areas,,24.0
+2017,Percent,,,urban,,11.7
+2017,Percent,Akmola,,urban,,11.4
+2017,Percent,Aktobe,,urban,,2.3
+2017,Percent,Almaty,,urban,,15.1
+2017,Percent,Atyrau,,urban,,4.5
+2017,Percent,Batys Kazakhstan,,urban,,13.4
+2017,Percent,Zhambyl,,urban,,12.3
+2017,Percent,Karagandy,,urban,,15.3
+2017,Percent,Kostanay,,urban,,17.8
+2017,Percent,Kyzylorda,,urban,,9.3
+2017,Percent,Mangistau,,urban,,2.0
+2017,Percent,Ontustik Kazakhstan,,urban,,5.0
+2017,Percent,Pavlodar,,urban,,11.4
+2017,Percent,Soltustik Kazakhstan,,urban,,8.8
+2017,Percent,Shygys Kazakhstan,,urban,,9.0
+2017,Percent,Nur-Sultan city,,urban,,24.6
+2017,Percent,Almaty city,,urban,,10.5
+2017,Percent,,,rural,,22.2
+2017,Percent,Akmola,,rural,,21.2
+2017,Percent,Aktobe,,rural,,19.0
+2017,Percent,Almaty,,rural,,19.3
+2017,Percent,Atyrau,,rural,,9.1
+2017,Percent,Batys Kazakhstan,,rural,,44.8
+2017,Percent,Zhambyl,,rural,,42.3
+2017,Percent,Karagandy,,rural,,19.6
+2017,Percent,Kostanay,,rural,,36.8
+2017,Percent,Kyzylorda,,rural,,16.9
+2017,Percent,Mangistau,,rural,,2.7
+2017,Percent,Ontustik Kazakhstan,,rural,,7.4
+2017,Percent,Pavlodar,,rural,,42.4
+2017,Percent,Soltustik Kazakhstan,,rural,,34.2
+2017,Percent,Shygys Kazakhstan,,rural,,24.0
 2017,Percent,,,,Y15,46.5
 2017,Percent,,,,16-24,19.2
 2017,Percent,,,,25-28,14.5
@@ -1296,39 +1296,39 @@ Year,UNIT_MEASURE,Regions,Sex,Area,Age,Value
 2018,Percent,Nur-Sultan city,Female,,,17.2
 2018,Percent,Almaty city,Female,,,10.4
 2018,Percent,Shymkent city,Female,,,4.4
-2018,Percent,,,Population of urban areas,,10.4
-2018,Percent,Akmola,,Population of urban areas,,12.3
-2018,Percent,Aktobe,,Population of urban areas,,3.4
-2018,Percent,Almaty,,Population of urban areas,,18.6
-2018,Percent,Atyrau,,Population of urban areas,,4.0
-2018,Percent,Batys Kazakhstan,,Population of urban areas,,13.6
-2018,Percent,Zhambyl,,Population of urban areas,,17.9
-2018,Percent,Karagandy,,Population of urban areas,,17.3
-2018,Percent,Kostanay,,Population of urban areas,,9.0
-2018,Percent,Kyzylorda,,Population of urban areas,,6.9
-2018,Percent,Mangistau,,Population of urban areas,,2.7
-2018,Percent,Pavlodar,,Population of urban areas,,4.4
-2018,Percent,Soltustik Kazakhstan,,Population of urban areas,,9.8
-2018,Percent,Turkistan,,Population of urban areas,,8.3
-2018,Percent,Shygys Kazakhstan,,Population of urban areas,,5.1
-2018,Percent,Nur-Sultan city,,Population of urban areas,,16.6
-2018,Percent,Almaty city,,Population of urban areas,,10.9
-2018,Percent,Shymkent city,,Population of urban areas,,4.5
-2018,Percent,,,Population of rural areas,,21.1
-2018,Percent,Akmola,,Population of rural areas,,21.2
-2018,Percent,Aktobe,,Population of rural areas,,19.0
-2018,Percent,Almaty,,Population of rural areas,,17.4
-2018,Percent,Atyrau,,Population of rural areas,,7.5
-2018,Percent,Batys Kazakhstan,,Population of rural areas,,45.4
-2018,Percent,Zhambyl,,Population of rural areas,,40.9
-2018,Percent,Karagandy,,Population of rural areas,,19.8
-2018,Percent,Kostanay,,Population of rural areas,,37.0
-2018,Percent,Kyzylorda,,Population of rural areas,,15.1
-2018,Percent,Mangistau,,Population of rural areas,,3.2
-2018,Percent,Pavlodar,,Population of rural areas,,31.5
-2018,Percent,Soltustik Kazakhstan,,Population of rural areas,,32.3
-2018,Percent,Turkistan,,Population of rural areas,,8.9
-2018,Percent,Shygys Kazakhstan,,Population of rural areas,,22.4
+2018,Percent,,,urban,,10.4
+2018,Percent,Akmola,,urban,,12.3
+2018,Percent,Aktobe,,urban,,3.4
+2018,Percent,Almaty,,urban,,18.6
+2018,Percent,Atyrau,,urban,,4.0
+2018,Percent,Batys Kazakhstan,,urban,,13.6
+2018,Percent,Zhambyl,,urban,,17.9
+2018,Percent,Karagandy,,urban,,17.3
+2018,Percent,Kostanay,,urban,,9.0
+2018,Percent,Kyzylorda,,urban,,6.9
+2018,Percent,Mangistau,,urban,,2.7
+2018,Percent,Pavlodar,,urban,,4.4
+2018,Percent,Soltustik Kazakhstan,,urban,,9.8
+2018,Percent,Turkistan,,urban,,8.3
+2018,Percent,Shygys Kazakhstan,,urban,,5.1
+2018,Percent,Nur-Sultan city,,urban,,16.6
+2018,Percent,Almaty city,,urban,,10.9
+2018,Percent,Shymkent city,,urban,,4.5
+2018,Percent,,,rural,,21.1
+2018,Percent,Akmola,,rural,,21.2
+2018,Percent,Aktobe,,rural,,19.0
+2018,Percent,Almaty,,rural,,17.4
+2018,Percent,Atyrau,,rural,,7.5
+2018,Percent,Batys Kazakhstan,,rural,,45.4
+2018,Percent,Zhambyl,,rural,,40.9
+2018,Percent,Karagandy,,rural,,19.8
+2018,Percent,Kostanay,,rural,,37.0
+2018,Percent,Kyzylorda,,rural,,15.1
+2018,Percent,Mangistau,,rural,,3.2
+2018,Percent,Pavlodar,,rural,,31.5
+2018,Percent,Soltustik Kazakhstan,,rural,,32.3
+2018,Percent,Turkistan,,rural,,8.9
+2018,Percent,Shygys Kazakhstan,,rural,,22.4
 2018,Percent,,,,Y15,100.0
 2018,Percent,,,,16-24,17.1
 2018,Percent,,,,25-28,13.2
@@ -1508,39 +1508,39 @@ Year,UNIT_MEASURE,Regions,Sex,Area,Age,Value
 2019,Percent,Nur-Sultan city,Female,,,6.7
 2019,Percent,Almaty city,Female,,,4.1
 2019,Percent,Shymkent city,Female,,,5.7
-2019,Percent,,,Population of urban areas,,8.3
-2019,Percent,Akmola,,Population of urban areas,,12.8
-2019,Percent,Aktobe,,Population of urban areas,,3.2
-2019,Percent,Almaty,,Population of urban areas,,16.3
-2019,Percent,Atyrau,,Population of urban areas,,6.8
-2019,Percent,Batys Kazakhstan,,Population of urban areas,,13.3
-2019,Percent,Zhambyl,,Population of urban areas,,19.1
-2019,Percent,Karagandy,,Population of urban areas,,16.0
-2019,Percent,Kostanay,,Population of urban areas,,6.6
-2019,Percent,Kyzylorda,,Population of urban areas,,4.7
-2019,Percent,Mangistau,,Population of urban areas,,1.8
-2019,Percent,Pavlodar,,Population of urban areas,,5.3
-2019,Percent,Soltustik Kazakhstan,,Population of urban areas,,6.0
-2019,Percent,Turkistan,,Population of urban areas,,10.6
-2019,Percent,Shygys Kazakhstan,,Population of urban areas,,2.6
-2019,Percent,Nur-Sultan city,,Population of urban areas,,9.7
-2019,Percent,Almaty city,,Population of urban areas,,4.6
-2019,Percent,Shymkent city,,Population of urban areas,,7.5
-2019,Percent,,,Population of rural areas,,21.4
-2019,Percent,Akmola,,Population of rural areas,,22.2
-2019,Percent,Aktobe,,Population of rural areas,,19.7
-2019,Percent,Almaty,,Population of rural areas,,19.3
-2019,Percent,Atyrau,,Population of rural areas,,6.5
-2019,Percent,Batys Kazakhstan,,Population of rural areas,,34.5
-2019,Percent,Zhambyl,,Population of rural areas,,34.4
-2019,Percent,Karagandy,,Population of rural areas,,14.7
-2019,Percent,Kostanay,,Population of rural areas,,36.5
-2019,Percent,Kyzylorda,,Population of rural areas,,14.7
-2019,Percent,Mangistau,,Population of rural areas,,4.8
-2019,Percent,Pavlodar,,Population of rural areas,,34.1
-2019,Percent,Soltustik Kazakhstan,,Population of rural areas,,28.8
-2019,Percent,Turkistan,,Population of rural areas,,15.9
-2019,Percent,Shygys Kazakhstan,,Population of rural areas,,22.5
+2019,Percent,,,urban,,8.3
+2019,Percent,Akmola,,urban,,12.8
+2019,Percent,Aktobe,,urban,,3.2
+2019,Percent,Almaty,,urban,,16.3
+2019,Percent,Atyrau,,urban,,6.8
+2019,Percent,Batys Kazakhstan,,urban,,13.3
+2019,Percent,Zhambyl,,urban,,19.1
+2019,Percent,Karagandy,,urban,,16.0
+2019,Percent,Kostanay,,urban,,6.6
+2019,Percent,Kyzylorda,,urban,,4.7
+2019,Percent,Mangistau,,urban,,1.8
+2019,Percent,Pavlodar,,urban,,5.3
+2019,Percent,Soltustik Kazakhstan,,urban,,6.0
+2019,Percent,Turkistan,,urban,,10.6
+2019,Percent,Shygys Kazakhstan,,urban,,2.6
+2019,Percent,Nur-Sultan city,,urban,,9.7
+2019,Percent,Almaty city,,urban,,4.6
+2019,Percent,Shymkent city,,urban,,7.5
+2019,Percent,,,rural,,21.4
+2019,Percent,Akmola,,rural,,22.2
+2019,Percent,Aktobe,,rural,,19.7
+2019,Percent,Almaty,,rural,,19.3
+2019,Percent,Atyrau,,rural,,6.5
+2019,Percent,Batys Kazakhstan,,rural,,34.5
+2019,Percent,Zhambyl,,rural,,34.4
+2019,Percent,Karagandy,,rural,,14.7
+2019,Percent,Kostanay,,rural,,36.5
+2019,Percent,Kyzylorda,,rural,,14.7
+2019,Percent,Mangistau,,rural,,4.8
+2019,Percent,Pavlodar,,rural,,34.1
+2019,Percent,Soltustik Kazakhstan,,rural,,28.8
+2019,Percent,Turkistan,,rural,,15.9
+2019,Percent,Shygys Kazakhstan,,rural,,22.5
 2019,Percent,,,,Y15,100.0
 2019,Percent,,,,16-24,15.6
 2019,Percent,,,,25-28,11.7

@@ -1,7 +1,7 @@
 Year,UNIT_MEASURE,Area,Sex,Age,Regions,Value
 2010,Percent,,,,,49.4
-2010,Percent,Population of urban areas,,,,48.9
-2010,Percent,Population of rural areas,,,,49.9
+2010,Percent,urban,,,,48.9
+2010,Percent,rural,,,,49.9
 2010,Percent,,Male,,,53.7
 2010,Percent,,Female,,,45.1
 2010,Percent,,,Y2T4,,47.6
@@ -24,8 +24,8 @@ Year,UNIT_MEASURE,Area,Sex,Age,Regions,Value
 2010,Percent,,,,Nur-Sultan city,38.6
 2010,Percent,,,,Almaty city,27.3
 2015,Percent,,,,,52.7
-2015,Percent,Population of urban areas,,,,51.7
-2015,Percent,Population of rural areas,,,,53.5
+2015,Percent,urban,,,,51.7
+2015,Percent,rural,,,,53.5
 2015,Percent,,Male,,,55.2
 2015,Percent,,Female,,,49.9
 2015,Percent,,,Y1T2,,38.3

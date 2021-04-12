@@ -1,7 +1,7 @@
 Year,UNIT_MEASURE,Area,Sex,Regions,Age,Mother's education,Wealth index quintile,Value
 2010,Percent,,,,,,,81.6
-2010,Percent,Population of urban areas,,,,,,856.0
-2010,Percent,Population of rural areas,,,,,,780.0
+2010,Percent,urban,,,,,,856.0
+2010,Percent,rural,,,,,,780.0
 2010,Percent,,Male,,,,,804.0
 2010,Percent,,Female,,,,,827.0
 2010,Percent,,,Akmola,,,,90.5
@@ -29,8 +29,8 @@ Year,UNIT_MEASURE,Area,Sex,Regions,Age,Mother's education,Wealth index quintile,
 2010,Percent,,,,,,fourth,865.0
 2010,Percent,,,,,,wealthy,916.0
 2015,Percent,,,,,,,90.8
-2015,Percent,Population of urban areas,,,,,,90.6
-2015,Percent,Population of rural areas,,,,,,90.9
+2015,Percent,urban,,,,,,90.6
+2015,Percent,rural,,,,,,90.9
 2015,Percent,,Male,,,,,91.1
 2015,Percent,,Female,,,,,90.4
 2015,Percent,,,Akmola,,,,98.8

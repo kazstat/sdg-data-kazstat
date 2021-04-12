@@ -81,8 +81,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -318,8 +318,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -605,8 +605,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -1932,8 +1932,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -2204,8 +2204,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -2340,8 +2340,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -2898,8 +2898,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -3392,8 +3392,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -3552,8 +3552,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -3790,8 +3790,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -4079,8 +4079,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -4351,8 +4351,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -4570,8 +4570,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -4681,8 +4681,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -4977,8 +4977,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -5193,8 +5193,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -5579,8 +5579,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -5975,8 +5975,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -6167,8 +6167,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -6248,8 +6248,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -6411,8 +6411,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -6555,8 +6555,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -6746,8 +6746,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -7060,8 +7060,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -7722,8 +7722,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -8161,8 +8161,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -8374,8 +8374,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -8455,8 +8455,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -8840,8 +8840,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -9785,8 +9785,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -10282,8 +10282,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -10351,8 +10351,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -10432,8 +10432,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -10636,8 +10636,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"
@@ -11222,8 +11222,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Population of rural areas",
-                "Population of urban areas"
+                "rural",
+                "urban"
               ]
             },
             "title": "Area"

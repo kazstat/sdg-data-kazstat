@@ -1,7 +1,7 @@
 Year,UNIT_MEASURE,Area,Sex,Regions,Value
 2011,Percent,,,,50.6
-2011,Percent,Population of urban areas,,,60.4
-2011,Percent,Population of rural areas,,,38.6
+2011,Percent,urban,,,60.4
+2011,Percent,rural,,,38.6
 2011,Percent,,,Akmola,53.03666306196898
 2011,Percent,,,Aktobe,58.92850532674924
 2011,Percent,,,Almaty,47.62188460809093
@@ -19,8 +19,8 @@ Year,UNIT_MEASURE,Area,Sex,Regions,Value
 2011,Percent,,,Nur-Sultan city,54.313469785419386
 2011,Percent,,,Almaty city,63.683357235146765
 2012,Percent,,,,61.90662401932264
-2012,Percent,Population of urban areas,,,73.9
-2012,Percent,Population of rural areas,,,47.2
+2012,Percent,urban,,,73.9
+2012,Percent,rural,,,47.2
 2012,Percent,,,Akmola,70.25494713852555
 2012,Percent,,,Aktobe,72.90223910400472
 2012,Percent,,,Almaty,51.84361247256734
@@ -38,8 +38,8 @@ Year,UNIT_MEASURE,Area,Sex,Regions,Value
 2012,Percent,,,Nur-Sultan city,64.3023319712125
 2012,Percent,,,Almaty city,68.24678063201104
 2013,Percent,,,,63.3
-2013,Percent,Population of urban areas,,,73.2
-2013,Percent,Population of rural areas,,,51.2
+2013,Percent,urban,,,73.2
+2013,Percent,rural,,,51.2
 2013,Percent,,,Akmola,71.3
 2013,Percent,,,Aktobe,73.3
 2013,Percent,,,Almaty,52.4
@@ -57,8 +57,8 @@ Year,UNIT_MEASURE,Area,Sex,Regions,Value
 2013,Percent,,,Nur-Sultan city,64.5
 2013,Percent,,,Almaty city,71.0
 2014,Percent,,,,63.9
-2014,Percent,Population of urban areas,,,72.6
-2014,Percent,Population of rural areas,,,52.7
+2014,Percent,urban,,,72.6
+2014,Percent,rural,,,52.7
 2014,Percent,,,Akmola,72.0
 2014,Percent,,,Aktobe,73.0
 2014,Percent,,,Almaty,54.5
@@ -76,8 +76,8 @@ Year,UNIT_MEASURE,Area,Sex,Regions,Value
 2014,Percent,,,Nur-Sultan city,66.2
 2014,Percent,,,Almaty city,71.0
 2015,Percent,,,,72.8660129673921
-2015,Percent,Population of urban areas,,,76.4
-2015,Percent,Population of rural areas,,,68.3
+2015,Percent,urban,,,76.4
+2015,Percent,rural,,,68.3
 2015,Percent,,Male,,73.0
 2015,Percent,,Female,,72.7
 2015,Percent,,,Akmola,60.87720508246625
@@ -97,8 +97,8 @@ Year,UNIT_MEASURE,Area,Sex,Regions,Value
 2015,Percent,,,Nur-Sultan city,86.85082232392773
 2015,Percent,,,Almaty city,81.91506991196272
 2016,Percent,,,,76.8
-2016,Percent,Population of urban areas,,,81.3
-2016,Percent,Population of rural areas,,,70.9
+2016,Percent,urban,,,81.3
+2016,Percent,rural,,,70.9
 2016,Percent,,Male,,77.5
 2016,Percent,,Female,,76.2
 2016,Percent,,,Akmola,70.0
@@ -118,8 +118,8 @@ Year,UNIT_MEASURE,Area,Sex,Regions,Value
 2016,Percent,,,Nur-Sultan city,85.3
 2016,Percent,,,Almaty city,84.3
 2017,Percent,,,,78.8
-2017,Percent,Population of urban areas,,,82.5
-2017,Percent,Population of rural areas,,,73.9
+2017,Percent,urban,,,82.5
+2017,Percent,rural,,,73.9
 2017,Percent,,Male,,79.0
 2017,Percent,,Female,,78.7
 2017,Percent,,,Akmola,70.8
@@ -139,8 +139,8 @@ Year,UNIT_MEASURE,Area,Sex,Regions,Value
 2017,Percent,,,Nur-Sultan city,88.0
 2017,Percent,,,Almaty city,84.1
 2018,Percent,,,,81.3
-2018,Percent,Population of urban areas,,,84.1
-2018,Percent,Population of rural areas,,,77.5
+2018,Percent,urban,,,84.1
+2018,Percent,rural,,,77.5
 2018,Percent,,Male,,81.6
 2018,Percent,,Female,,81.1
 2018,Percent,,,Akmola,73.8
@@ -161,8 +161,8 @@ Year,UNIT_MEASURE,Area,Sex,Regions,Value
 2018,Percent,,,Almaty city,84.3
 2018,Percent,,,Shymkent city,80.0
 2019,Percent,,,,84.2
-2019,Percent,Population of urban areas,,,86.3
-2019,Percent,Population of rural areas,,,81.4
+2019,Percent,urban,,,86.3
+2019,Percent,rural,,,81.4
 2019,Percent,,Male,,84.3
 2019,Percent,,Female,,84.2
 2019,Percent,,,Akmola,79.4

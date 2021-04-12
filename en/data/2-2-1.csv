@@ -2,8 +2,8 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,Value
 2010,Percent,Rate of deviation from the norm (moderate and strong),,,,,13.1
 2010,Percent,Rate of deviation from the norm (moderate and strong),,,Male,,13.2
 2010,Percent,Rate of deviation from the norm (moderate and strong),,,Female,,13.0
-2010,Percent,Rate of deviation from the norm (moderate and strong),,Population of urban areas,,,12.8
-2010,Percent,Rate of deviation from the norm (moderate and strong),,Population of rural areas,,,13.4
+2010,Percent,Rate of deviation from the norm (moderate and strong),,urban,,,12.8
+2010,Percent,Rate of deviation from the norm (moderate and strong),,rural,,,13.4
 2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Akmola,8.1
 2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Aktobe,36.2
 2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Almaty,10.8
@@ -29,8 +29,8 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,Value
 2010,Percent,Strong deviation from the norm,,,,,5.4
 2010,Percent,Strong deviation from the norm,,,Male,,5.5
 2010,Percent,Strong deviation from the norm,,,Female,,5.3
-2010,Percent,Strong deviation from the norm,,Population of urban areas,,,5.7
-2010,Percent,Strong deviation from the norm,,Population of rural areas,,,5.1
+2010,Percent,Strong deviation from the norm,,urban,,,5.7
+2010,Percent,Strong deviation from the norm,,rural,,,5.1
 2010,Percent,Strong deviation from the norm,,,,Akmola,2.8
 2010,Percent,Strong deviation from the norm,,,,Aktobe,19.7
 2010,Percent,Strong deviation from the norm,,,,Almaty,4.2
@@ -56,8 +56,8 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,Value
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,,,8.0
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,Male,,7.7
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,Female,,8.3
-2015,Percent,Rate of deviation from the norm (moderate and strong),,Population of urban areas,,,7.2
-2015,Percent,Rate of deviation from the norm (moderate and strong),,Population of rural areas,,,8.9
+2015,Percent,Rate of deviation from the norm (moderate and strong),,urban,,,7.2
+2015,Percent,Rate of deviation from the norm (moderate and strong),,rural,,,8.9
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Akmola,2.9
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Aktobe,6.6
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Almaty,8.1
@@ -84,8 +84,8 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,Value
 2015,Percent,Strong deviation from the norm,,,,,2.4
 2015,Percent,Strong deviation from the norm,,,Male,,2.3
 2015,Percent,Strong deviation from the norm,,,Female,,2.6
-2015,Percent,Strong deviation from the norm,,Population of urban areas,,,2.3
-2015,Percent,Strong deviation from the norm,,Population of rural areas,,,2.5
+2015,Percent,Strong deviation from the norm,,urban,,,2.3
+2015,Percent,Strong deviation from the norm,,rural,,,2.5
 2015,Percent,Strong deviation from the norm,,,,Akmola,0.1
 2015,Percent,Strong deviation from the norm,,,,Aktobe,4.1
 2015,Percent,Strong deviation from the norm,,,,Almaty,2.3

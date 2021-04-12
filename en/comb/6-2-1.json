@@ -1,1 +1,1 @@
-{"data":{"Year":[2018,2018,2019,2019],"UNIT_MEASURE":["Percent","Percent","Percent","Percent"],"Area":["Population of urban areas","Population of rural areas","Population of urban areas","Population of rural areas"],"Regions":[null,null,null,null],"Value":[68.7,8.6,70.5,8.8]},"edges":[]}
+{"data":{"Year":[2018,2018,2019,2019],"UNIT_MEASURE":["Percent","Percent","Percent","Percent"],"Area":["urban","rural","urban","rural"],"Regions":[null,null,null,null],"Value":[68.7,8.6,70.5,8.8]},"edges":[]}

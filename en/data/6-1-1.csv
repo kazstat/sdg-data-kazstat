@@ -1,21 +1,21 @@
 Year,UNIT_MEASURE,Area,Regions,Value
-2010,Percent,Population of urban areas,,82.0
-2010,Percent,Population of rural areas,,60.0
-2011,Percent,Population of urban areas,,82.0
-2011,Percent,Population of rural areas,,42.5
-2012,Percent,Population of urban areas,,84.0
-2012,Percent,Population of rural areas,,43.0
-2013,Percent,Population of urban areas,,85.0
-2013,Percent,Population of rural areas,,47.7
-2014,Percent,Population of urban areas,,86.0
-2014,Percent,Population of rural areas,,50.3
-2015,Percent,Population of urban areas,,87.0
-2015,Percent,Population of rural areas,,51.5
-2016,Percent,Population of urban areas,,88.0
-2016,Percent,Population of rural areas,,52.3
-2017,Percent,Population of urban areas,,90.0
-2017,Percent,Population of rural areas,,55.0
-2018,Percent,Population of urban areas,,94.5
-2018,Percent,Population of rural areas,,59.9
-2019,Percent,Population of urban areas,,97.2
-2019,Percent,Population of rural areas,,64.3
+2010,Percent,urban,,82.0
+2010,Percent,rural,,60.0
+2011,Percent,urban,,82.0
+2011,Percent,rural,,42.5
+2012,Percent,urban,,84.0
+2012,Percent,rural,,43.0
+2013,Percent,urban,,85.0
+2013,Percent,rural,,47.7
+2014,Percent,urban,,86.0
+2014,Percent,rural,,50.3
+2015,Percent,urban,,87.0
+2015,Percent,rural,,51.5
+2016,Percent,urban,,88.0
+2016,Percent,rural,,52.3
+2017,Percent,urban,,90.0
+2017,Percent,rural,,55.0
+2018,Percent,urban,,94.5
+2018,Percent,rural,,59.9
+2019,Percent,urban,,97.2
+2019,Percent,rural,,64.3

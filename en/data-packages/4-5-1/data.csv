@@ -2,8 +2,8 @@ Year,UNIT_MEASURE,Mother's education,Area,Regions,Value
 2010,,Elementary education/ High education (incomplete),,,1.0
 2010,,secondary (high school),,,1.0
 2010,Percent,Elementary education/ High education (incomplete),,,1.0
-2010,Percent,Elementary education/ High education (incomplete),Population of urban areas,,0.99
-2010,Percent,Elementary education/ High education (incomplete),Population of rural areas,,1.0
+2010,Percent,Elementary education/ High education (incomplete),urban,,0.99
+2010,Percent,Elementary education/ High education (incomplete),rural,,1.0
 2010,Percent,Elementary education/ High education (incomplete),,Akmola,0.99
 2010,Percent,Elementary education/ High education (incomplete),,Aktobe,1.01
 2010,Percent,Elementary education/ High education (incomplete),,Almaty,1.01
@@ -21,8 +21,8 @@ Year,UNIT_MEASURE,Mother's education,Area,Regions,Value
 2010,Percent,Elementary education/ High education (incomplete),,Nur-Sultan city,1.0
 2010,Percent,Elementary education/ High education (incomplete),,Almaty city,1.0
 2010,Percent,secondary (high school),,,1.0
-2010,Percent,secondary (high school),Population of urban areas,,0.99
-2010,Percent,secondary (high school),Population of rural areas,,1.01
+2010,Percent,secondary (high school),urban,,0.99
+2010,Percent,secondary (high school),rural,,1.01
 2010,Percent,secondary (high school),,Akmola,1.02
 2010,Percent,secondary (high school),,Aktobe,1.0
 2010,Percent,secondary (high school),,Almaty,1.03
@@ -44,8 +44,8 @@ Year,UNIT_MEASURE,Mother's education,Area,Regions,Value
 2015,,High Education (Incomplete),,,1.0
 2015,,High Education (General),,,1.01
 2015,Percent,Elementary education/ High education (incomplete),,,1.0
-2015,Percent,Elementary education/ High education (incomplete),Population of urban areas,,0.99
-2015,Percent,Elementary education/ High education (incomplete),Population of rural areas,,1.0
+2015,Percent,Elementary education/ High education (incomplete),urban,,0.99
+2015,Percent,Elementary education/ High education (incomplete),rural,,1.0
 2015,Percent,Elementary education/ High education (incomplete),,Akmola,0.99
 2015,Percent,Elementary education/ High education (incomplete),,Aktobe,1.01
 2015,Percent,Elementary education/ High education (incomplete),,Almaty,1.0
@@ -63,8 +63,8 @@ Year,UNIT_MEASURE,Mother's education,Area,Regions,Value
 2015,Percent,Elementary education/ High education (incomplete),,Nur-Sultan city,1.02
 2015,Percent,Elementary education/ High education (incomplete),,Almaty city,0.98
 2015,Percent,High Education (Incomplete),,,1.0
-2015,Percent,High Education (Incomplete),Population of urban areas,,1.0
-2015,Percent,High Education (Incomplete),Population of rural areas,,1.0
+2015,Percent,High Education (Incomplete),urban,,1.0
+2015,Percent,High Education (Incomplete),rural,,1.0
 2015,Percent,High Education (Incomplete),,Akmola,1.0
 2015,Percent,High Education (Incomplete),,Aktobe,1.0
 2015,Percent,High Education (Incomplete),,Almaty,1.02
@@ -82,8 +82,8 @@ Year,UNIT_MEASURE,Mother's education,Area,Regions,Value
 2015,Percent,High Education (Incomplete),,Nur-Sultan city,1.01
 2015,Percent,High Education (Incomplete),,Almaty city,1.02
 2015,Percent,secondary (high school),,,1.01
-2015,Percent,secondary (high school),Population of urban areas,,1.03
-2015,Percent,secondary (high school),Population of rural areas,,0.98
+2015,Percent,secondary (high school),urban,,1.03
+2015,Percent,secondary (high school),rural,,0.98
 2015,Percent,secondary (high school),,Akmola,1.12
 2015,Percent,secondary (high school),,Aktobe,1.02
 2015,Percent,secondary (high school),,Almaty,1.01

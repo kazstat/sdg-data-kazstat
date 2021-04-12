@@ -1,7 +1,7 @@
 Year,UNIT_MEASURE,Area,Regions,Value
 2010,square meter,,,18.4
-2010,square meter,Population of urban areas,,20.2
-2010,square meter,Population of rural areas,,16.5
+2010,square meter,urban,,20.2
+2010,square meter,rural,,16.5
 2010,square meter,,Akmola,19.5
 2010,square meter,,Aktobe,17.3
 2010,square meter,,Almaty,15.7
@@ -18,39 +18,39 @@ Year,UNIT_MEASURE,Area,Regions,Value
 2010,square meter,,Shygys Kazakhstan,19.0
 2010,square meter,,Nur-Sultan city,22.5
 2010,square meter,,Almaty city,20.3
-2010,square meter,Population of urban areas,Akmola,21.1
-2010,square meter,Population of urban areas,Aktobe,18.9
-2010,square meter,Population of urban areas,Almaty,18.0
-2010,square meter,Population of urban areas,Atyrau,17.8
-2010,square meter,Population of urban areas,Batys Kazakhstan,19.7
-2010,square meter,Population of urban areas,Zhambyl,17.5
-2010,square meter,Population of urban areas,Karagandy,22.1
-2010,square meter,Population of urban areas,Kostanay,20.4
-2010,square meter,Population of urban areas,Kyzylorda,18.0
-2010,square meter,Population of urban areas,Mangistau,17.1
-2010,square meter,Population of urban areas,Ontustik Kazakhstan,19.6
-2010,square meter,Population of urban areas,Pavlodar,22.0
-2010,square meter,Population of urban areas,Soltustik Kazakhstan,20.9
-2010,square meter,Population of urban areas,Shygys Kazakhstan,20.7
-2010,square meter,Population of urban areas,Nur-Sultan city,22.5
-2010,square meter,Population of urban areas,Almaty city,20.3
-2010,square meter,Population of rural areas,Akmola,18.3
-2010,square meter,Population of rural areas,Aktobe,14.8
-2010,square meter,Population of rural areas,Almaty,15.0
-2010,square meter,Population of rural areas,Atyrau,15.1
-2010,square meter,Population of rural areas,Batys Kazakhstan,14.7
-2010,square meter,Population of rural areas,Zhambyl,14.4
-2010,square meter,Population of rural areas,Karagandy,18.8
-2010,square meter,Population of rural areas,Kostanay,19.2
-2010,square meter,Population of rural areas,Kyzylorda,16.7
-2010,square meter,Population of rural areas,Mangistau,14.0
-2010,square meter,Population of rural areas,Ontustik Kazakhstan,16.6
-2010,square meter,Population of rural areas,Pavlodar,18.9
-2010,square meter,Population of rural areas,Soltustik Kazakhstan,19.1
-2010,square meter,Population of rural areas,Shygys Kazakhstan,16.9
+2010,square meter,urban,Akmola,21.1
+2010,square meter,urban,Aktobe,18.9
+2010,square meter,urban,Almaty,18.0
+2010,square meter,urban,Atyrau,17.8
+2010,square meter,urban,Batys Kazakhstan,19.7
+2010,square meter,urban,Zhambyl,17.5
+2010,square meter,urban,Karagandy,22.1
+2010,square meter,urban,Kostanay,20.4
+2010,square meter,urban,Kyzylorda,18.0
+2010,square meter,urban,Mangistau,17.1
+2010,square meter,urban,Ontustik Kazakhstan,19.6
+2010,square meter,urban,Pavlodar,22.0
+2010,square meter,urban,Soltustik Kazakhstan,20.9
+2010,square meter,urban,Shygys Kazakhstan,20.7
+2010,square meter,urban,Nur-Sultan city,22.5
+2010,square meter,urban,Almaty city,20.3
+2010,square meter,rural,Akmola,18.3
+2010,square meter,rural,Aktobe,14.8
+2010,square meter,rural,Almaty,15.0
+2010,square meter,rural,Atyrau,15.1
+2010,square meter,rural,Batys Kazakhstan,14.7
+2010,square meter,rural,Zhambyl,14.4
+2010,square meter,rural,Karagandy,18.8
+2010,square meter,rural,Kostanay,19.2
+2010,square meter,rural,Kyzylorda,16.7
+2010,square meter,rural,Mangistau,14.0
+2010,square meter,rural,Ontustik Kazakhstan,16.6
+2010,square meter,rural,Pavlodar,18.9
+2010,square meter,rural,Soltustik Kazakhstan,19.1
+2010,square meter,rural,Shygys Kazakhstan,16.9
 2011,square meter,,,18.7
-2011,square meter,Population of urban areas,,20.6
-2011,square meter,Population of rural areas,,16.6
+2011,square meter,urban,,20.6
+2011,square meter,rural,,16.6
 2011,square meter,,Akmola,19.6
 2011,square meter,,Aktobe,18.2
 2011,square meter,,Almaty,15.9
@@ -67,39 +67,39 @@ Year,UNIT_MEASURE,Area,Regions,Value
 2011,square meter,,Shygys Kazakhstan,19.0
 2011,square meter,,Nur-Sultan city,24.4
 2011,square meter,,Almaty city,20.7
-2011,square meter,Population of urban areas,Akmola,21.1
-2011,square meter,Population of urban areas,Aktobe,20.2
-2011,square meter,Population of urban areas,Almaty,18.5
-2011,square meter,Population of urban areas,Atyrau,16.8
-2011,square meter,Population of urban areas,Batys Kazakhstan,20.1
-2011,square meter,Population of urban areas,Zhambyl,18.3
-2011,square meter,Population of urban areas,Karagandy,22.0
-2011,square meter,Population of urban areas,Kostanay,21.1
-2011,square meter,Population of urban areas,Kyzylorda,19.3
-2011,square meter,Population of urban areas,Mangistau,17.2
-2011,square meter,Population of urban areas,Ontustik Kazakhstan,19.7
-2011,square meter,Population of urban areas,Pavlodar,22.4
-2011,square meter,Population of urban areas,Soltustik Kazakhstan,21.2
-2011,square meter,Population of urban areas,Shygys Kazakhstan,20.7
-2011,square meter,Population of urban areas,Nur-Sultan city,24.4
-2011,square meter,Population of urban areas,Almaty city,20.7
-2011,square meter,Population of rural areas,Akmola,18.5
-2011,square meter,Population of rural areas,Aktobe,15.3
-2011,square meter,Population of rural areas,Almaty,15.1
-2011,square meter,Population of rural areas,Atyrau,15.5
-2011,square meter,Population of rural areas,Batys Kazakhstan,15.0
-2011,square meter,Population of rural areas,Zhambyl,14.3
-2011,square meter,Population of rural areas,Karagandy,19.2
-2011,square meter,Population of rural areas,Kostanay,19.5
-2011,square meter,Population of rural areas,Kyzylorda,17.0
-2011,square meter,Population of rural areas,Mangistau,15.6
-2011,square meter,Population of rural areas,Ontustik Kazakhstan,16.3
-2011,square meter,Population of rural areas,Pavlodar,19.6
-2011,square meter,Population of rural areas,Soltustik Kazakhstan,19.1
-2011,square meter,Population of rural areas,Shygys Kazakhstan,16.7
+2011,square meter,urban,Akmola,21.1
+2011,square meter,urban,Aktobe,20.2
+2011,square meter,urban,Almaty,18.5
+2011,square meter,urban,Atyrau,16.8
+2011,square meter,urban,Batys Kazakhstan,20.1
+2011,square meter,urban,Zhambyl,18.3
+2011,square meter,urban,Karagandy,22.0
+2011,square meter,urban,Kostanay,21.1
+2011,square meter,urban,Kyzylorda,19.3
+2011,square meter,urban,Mangistau,17.2
+2011,square meter,urban,Ontustik Kazakhstan,19.7
+2011,square meter,urban,Pavlodar,22.4
+2011,square meter,urban,Soltustik Kazakhstan,21.2
+2011,square meter,urban,Shygys Kazakhstan,20.7
+2011,square meter,urban,Nur-Sultan city,24.4
+2011,square meter,urban,Almaty city,20.7
+2011,square meter,rural,Akmola,18.5
+2011,square meter,rural,Aktobe,15.3
+2011,square meter,rural,Almaty,15.1
+2011,square meter,rural,Atyrau,15.5
+2011,square meter,rural,Batys Kazakhstan,15.0
+2011,square meter,rural,Zhambyl,14.3
+2011,square meter,rural,Karagandy,19.2
+2011,square meter,rural,Kostanay,19.5
+2011,square meter,rural,Kyzylorda,17.0
+2011,square meter,rural,Mangistau,15.6
+2011,square meter,rural,Ontustik Kazakhstan,16.3
+2011,square meter,rural,Pavlodar,19.6
+2011,square meter,rural,Soltustik Kazakhstan,19.1
+2011,square meter,rural,Shygys Kazakhstan,16.7
 2012,square meter,,,19.6
-2012,square meter,Population of urban areas,,22.1
-2012,square meter,Population of rural areas,,16.8
+2012,square meter,urban,,22.1
+2012,square meter,rural,,16.8
 2012,square meter,,Akmola,20.2
 2012,square meter,,Aktobe,18.7
 2012,square meter,,Almaty,16.1
@@ -116,39 +116,39 @@ Year,UNIT_MEASURE,Area,Regions,Value
 2012,square meter,,Shygys Kazakhstan,19.0
 2012,square meter,,Nur-Sultan city,25.4
 2012,square meter,,Almaty city,24.4
-2012,square meter,Population of urban areas,Akmola,22.0
-2012,square meter,Population of urban areas,Aktobe,21.2
-2012,square meter,Population of urban areas,Almaty,18.8
-2012,square meter,Population of urban areas,Atyrau,22.1
-2012,square meter,Population of urban areas,Batys Kazakhstan,21.9
-2012,square meter,Population of urban areas,Zhambyl,18.0
-2012,square meter,Population of urban areas,Karagandy,22.6
-2012,square meter,Population of urban areas,Kostanay,21.7
-2012,square meter,Population of urban areas,Kyzylorda,21.0
-2012,square meter,Population of urban areas,Mangistau,18.0
-2012,square meter,Population of urban areas,Ontustik Kazakhstan,22.6
-2012,square meter,Population of urban areas,Pavlodar,22.5
-2012,square meter,Population of urban areas,Soltustik Kazakhstan,21.7
-2012,square meter,Population of urban areas,Shygys Kazakhstan,20.9
-2012,square meter,Population of urban areas,Nur-Sultan city,25.4
-2012,square meter,Population of urban areas,Almaty city,24.4
-2012,square meter,Population of rural areas,Akmola,18.8
-2012,square meter,Population of rural areas,Aktobe,15.2
-2012,square meter,Population of rural areas,Almaty,15.3
-2012,square meter,Population of rural areas,Atyrau,16.7
-2012,square meter,Population of rural areas,Batys Kazakhstan,15.4
-2012,square meter,Population of rural areas,Zhambyl,14.0
-2012,square meter,Population of rural areas,Karagandy,19.5
-2012,square meter,Population of rural areas,Kostanay,20.1
-2012,square meter,Population of rural areas,Kyzylorda,18.0
-2012,square meter,Population of rural areas,Mangistau,16.9
-2012,square meter,Population of rural areas,Ontustik Kazakhstan,16.7
-2012,square meter,Population of rural areas,Pavlodar,19.7
-2012,square meter,Population of rural areas,Soltustik Kazakhstan,19.1
-2012,square meter,Population of rural areas,Shygys Kazakhstan,16.5
+2012,square meter,urban,Akmola,22.0
+2012,square meter,urban,Aktobe,21.2
+2012,square meter,urban,Almaty,18.8
+2012,square meter,urban,Atyrau,22.1
+2012,square meter,urban,Batys Kazakhstan,21.9
+2012,square meter,urban,Zhambyl,18.0
+2012,square meter,urban,Karagandy,22.6
+2012,square meter,urban,Kostanay,21.7
+2012,square meter,urban,Kyzylorda,21.0
+2012,square meter,urban,Mangistau,18.0
+2012,square meter,urban,Ontustik Kazakhstan,22.6
+2012,square meter,urban,Pavlodar,22.5
+2012,square meter,urban,Soltustik Kazakhstan,21.7
+2012,square meter,urban,Shygys Kazakhstan,20.9
+2012,square meter,urban,Nur-Sultan city,25.4
+2012,square meter,urban,Almaty city,24.4
+2012,square meter,rural,Akmola,18.8
+2012,square meter,rural,Aktobe,15.2
+2012,square meter,rural,Almaty,15.3
+2012,square meter,rural,Atyrau,16.7
+2012,square meter,rural,Batys Kazakhstan,15.4
+2012,square meter,rural,Zhambyl,14.0
+2012,square meter,rural,Karagandy,19.5
+2012,square meter,rural,Kostanay,20.1
+2012,square meter,rural,Kyzylorda,18.0
+2012,square meter,rural,Mangistau,16.9
+2012,square meter,rural,Ontustik Kazakhstan,16.7
+2012,square meter,rural,Pavlodar,19.7
+2012,square meter,rural,Soltustik Kazakhstan,19.1
+2012,square meter,rural,Shygys Kazakhstan,16.5
 2013,square meter,,,20.9
-2013,square meter,Population of urban areas,,23.7
-2013,square meter,Population of rural areas,,17.4
+2013,square meter,urban,,23.7
+2013,square meter,rural,,17.4
 2013,square meter,,Akmola,21.4
 2013,square meter,,Aktobe,20.1
 2013,square meter,,Almaty,17.1
@@ -165,39 +165,39 @@ Year,UNIT_MEASURE,Area,Regions,Value
 2013,square meter,,Shygys Kazakhstan,19.4
 2013,square meter,,Nur-Sultan city,27.7
 2013,square meter,,Almaty city,27.6
-2013,square meter,Population of urban areas,Akmola,22.4
-2013,square meter,Population of urban areas,Aktobe,22.9
-2013,square meter,Population of urban areas,Almaty,19.8
-2013,square meter,Population of urban areas,Atyrau,22.3
-2013,square meter,Population of urban areas,Batys Kazakhstan,23.1
-2013,square meter,Population of urban areas,Zhambyl,18.5
-2013,square meter,Population of urban areas,Karagandy,23.2
-2013,square meter,Population of urban areas,Kostanay,22.3
-2013,square meter,Population of urban areas,Kyzylorda,21.7
-2013,square meter,Population of urban areas,Mangistau,19.9
-2013,square meter,Population of urban areas,Ontustik Kazakhstan,25.1
-2013,square meter,Population of urban areas,Pavlodar,23.5
-2013,square meter,Population of urban areas,Soltustik Kazakhstan,22.3
-2013,square meter,Population of urban areas,Shygys Kazakhstan,21.4
-2013,square meter,Population of urban areas,Nur-Sultan city,27.7
-2013,square meter,Population of urban areas,Almaty city,27.6
-2013,square meter,Population of rural areas,Akmola,20.6
-2013,square meter,Population of rural areas,Aktobe,16.2
-2013,square meter,Population of rural areas,Almaty,16.2
-2013,square meter,Population of rural areas,Atyrau,17.3
-2013,square meter,Population of rural areas,Batys Kazakhstan,15.5
-2013,square meter,Population of rural areas,Zhambyl,13.6
-2013,square meter,Population of rural areas,Karagandy,19.7
-2013,square meter,Population of rural areas,Kostanay,20.6
-2013,square meter,Population of rural areas,Kyzylorda,18.0
-2013,square meter,Population of rural areas,Mangistau,20.3
-2013,square meter,Population of rural areas,Ontustik Kazakhstan,17.1
-2013,square meter,Population of rural areas,Pavlodar,20.7
-2013,square meter,Population of rural areas,Soltustik Kazakhstan,19.6
-2013,square meter,Population of rural areas,Shygys Kazakhstan,16.9
+2013,square meter,urban,Akmola,22.4
+2013,square meter,urban,Aktobe,22.9
+2013,square meter,urban,Almaty,19.8
+2013,square meter,urban,Atyrau,22.3
+2013,square meter,urban,Batys Kazakhstan,23.1
+2013,square meter,urban,Zhambyl,18.5
+2013,square meter,urban,Karagandy,23.2
+2013,square meter,urban,Kostanay,22.3
+2013,square meter,urban,Kyzylorda,21.7
+2013,square meter,urban,Mangistau,19.9
+2013,square meter,urban,Ontustik Kazakhstan,25.1
+2013,square meter,urban,Pavlodar,23.5
+2013,square meter,urban,Soltustik Kazakhstan,22.3
+2013,square meter,urban,Shygys Kazakhstan,21.4
+2013,square meter,urban,Nur-Sultan city,27.7
+2013,square meter,urban,Almaty city,27.6
+2013,square meter,rural,Akmola,20.6
+2013,square meter,rural,Aktobe,16.2
+2013,square meter,rural,Almaty,16.2
+2013,square meter,rural,Atyrau,17.3
+2013,square meter,rural,Batys Kazakhstan,15.5
+2013,square meter,rural,Zhambyl,13.6
+2013,square meter,rural,Karagandy,19.7
+2013,square meter,rural,Kostanay,20.6
+2013,square meter,rural,Kyzylorda,18.0
+2013,square meter,rural,Mangistau,20.3
+2013,square meter,rural,Ontustik Kazakhstan,17.1
+2013,square meter,rural,Pavlodar,20.7
+2013,square meter,rural,Soltustik Kazakhstan,19.6
+2013,square meter,rural,Shygys Kazakhstan,16.9
 2014,square meter,,,21.0
-2014,square meter,Population of urban areas,,23.8
-2014,square meter,Population of rural areas,,17.6
+2014,square meter,urban,,23.8
+2014,square meter,rural,,17.6
 2014,square meter,,Akmola,21.6
 2014,square meter,,Aktobe,20.8
 2014,square meter,,Almaty,17.6
@@ -214,39 +214,39 @@ Year,UNIT_MEASURE,Area,Regions,Value
 2014,square meter,,Shygys Kazakhstan,19.5
 2014,square meter,,Nur-Sultan city,28.5
 2014,square meter,,Almaty city,26.7
-2014,square meter,Population of urban areas,Akmola,22.7
-2014,square meter,Population of urban areas,Aktobe,23.7
-2014,square meter,Population of urban areas,Almaty,20.6
-2014,square meter,Population of urban areas,Atyrau,22.4
-2014,square meter,Population of urban areas,Batys Kazakhstan,23.6
-2014,square meter,Population of urban areas,Zhambyl,18.6
-2014,square meter,Population of urban areas,Karagandy,23.4
-2014,square meter,Population of urban areas,Kostanay,22.7
-2014,square meter,Population of urban areas,Kyzylorda,20.4
-2014,square meter,Population of urban areas,Mangistau,20.4
-2014,square meter,Population of urban areas,Ontustik Kazakhstan,25.5
-2014,square meter,Population of urban areas,Pavlodar,23.7
-2014,square meter,Population of urban areas,Soltustik Kazakhstan,22.3
-2014,square meter,Population of urban areas,Shygys Kazakhstan,21.5
-2014,square meter,Population of urban areas,Nur-Sultan city,28.5
-2014,square meter,Population of urban areas,Almaty city,26.7
-2014,square meter,Population of rural areas,Akmola,20.7
-2014,square meter,Population of rural areas,Aktobe,16.6
-2014,square meter,Population of rural areas,Almaty,16.7
-2014,square meter,Population of rural areas,Atyrau,17.5
-2014,square meter,Population of rural areas,Batys Kazakhstan,15.7
-2014,square meter,Population of rural areas,Zhambyl,14.0
-2014,square meter,Population of rural areas,Karagandy,20.1
-2014,square meter,Population of rural areas,Kostanay,21.0
-2014,square meter,Population of rural areas,Kyzylorda,18.0
-2014,square meter,Population of rural areas,Mangistau,21.3
-2014,square meter,Population of rural areas,Ontustik Kazakhstan,16.9
-2014,square meter,Population of rural areas,Pavlodar,20.9
-2014,square meter,Population of rural areas,Soltustik Kazakhstan,19.9
-2014,square meter,Population of rural areas,Shygys Kazakhstan,17.0
+2014,square meter,urban,Akmola,22.7
+2014,square meter,urban,Aktobe,23.7
+2014,square meter,urban,Almaty,20.6
+2014,square meter,urban,Atyrau,22.4
+2014,square meter,urban,Batys Kazakhstan,23.6
+2014,square meter,urban,Zhambyl,18.6
+2014,square meter,urban,Karagandy,23.4
+2014,square meter,urban,Kostanay,22.7
+2014,square meter,urban,Kyzylorda,20.4
+2014,square meter,urban,Mangistau,20.4
+2014,square meter,urban,Ontustik Kazakhstan,25.5
+2014,square meter,urban,Pavlodar,23.7
+2014,square meter,urban,Soltustik Kazakhstan,22.3
+2014,square meter,urban,Shygys Kazakhstan,21.5
+2014,square meter,urban,Nur-Sultan city,28.5
+2014,square meter,urban,Almaty city,26.7
+2014,square meter,rural,Akmola,20.7
+2014,square meter,rural,Aktobe,16.6
+2014,square meter,rural,Almaty,16.7
+2014,square meter,rural,Atyrau,17.5
+2014,square meter,rural,Batys Kazakhstan,15.7
+2014,square meter,rural,Zhambyl,14.0
+2014,square meter,rural,Karagandy,20.1
+2014,square meter,rural,Kostanay,21.0
+2014,square meter,rural,Kyzylorda,18.0
+2014,square meter,rural,Mangistau,21.3
+2014,square meter,rural,Ontustik Kazakhstan,16.9
+2014,square meter,rural,Pavlodar,20.9
+2014,square meter,rural,Soltustik Kazakhstan,19.9
+2014,square meter,rural,Shygys Kazakhstan,17.0
 2015,square meter,,,21.0
-2015,square meter,Population of urban areas,,23.5
-2015,square meter,Population of rural areas,,17.8
+2015,square meter,urban,,23.5
+2015,square meter,rural,,17.8
 2015,square meter,,Akmola,21.6
 2015,square meter,,Aktobe,21.3
 2015,square meter,,Almaty,18.1
@@ -263,39 +263,39 @@ Year,UNIT_MEASURE,Area,Regions,Value
 2015,square meter,,Shygys Kazakhstan,19.7
 2015,square meter,,Nur-Sultan city,29.0
 2015,square meter,,Almaty city,27.0
-2015,square meter,Population of urban areas,Akmola,22.9
-2015,square meter,Population of urban areas,Aktobe,24.3
-2015,square meter,Population of urban areas,Almaty,21.1
-2015,square meter,Population of urban areas,Atyrau,22.3
-2015,square meter,Population of urban areas,Batys Kazakhstan,23.7
-2015,square meter,Population of urban areas,Zhambyl,18.8
-2015,square meter,Population of urban areas,Karagandy,23.5
-2015,square meter,Population of urban areas,Kostanay,22.4
-2015,square meter,Population of urban areas,Kyzylorda,20.8
-2015,square meter,Population of urban areas,Mangistau,21.4
-2015,square meter,Population of urban areas,Ontustik Kazakhstan,21.7
-2015,square meter,Population of urban areas,Pavlodar,22.6
-2015,square meter,Population of urban areas,Soltustik Kazakhstan,21.9
-2015,square meter,Population of urban areas,Shygys Kazakhstan,21.5
-2015,square meter,Population of urban areas,Nur-Sultan city,29.0
-2015,square meter,Population of urban areas,Almaty city,27.0
-2015,square meter,Population of rural areas,Akmola,20.5
-2015,square meter,Population of rural areas,Aktobe,17.1
-2015,square meter,Population of rural areas,Almaty,17.2
-2015,square meter,Population of rural areas,Atyrau,17.8
-2015,square meter,Population of rural areas,Batys Kazakhstan,16.1
-2015,square meter,Population of rural areas,Zhambyl,14.3
-2015,square meter,Population of rural areas,Karagandy,20.0
-2015,square meter,Population of rural areas,Kostanay,21.1
-2015,square meter,Population of rural areas,Kyzylorda,18.1
-2015,square meter,Population of rural areas,Mangistau,22.2
-2015,square meter,Population of rural areas,Ontustik Kazakhstan,16.7
-2015,square meter,Population of rural areas,Pavlodar,20.4
-2015,square meter,Population of rural areas,Soltustik Kazakhstan,20.0
-2015,square meter,Population of rural areas,Shygys Kazakhstan,17.0
+2015,square meter,urban,Akmola,22.9
+2015,square meter,urban,Aktobe,24.3
+2015,square meter,urban,Almaty,21.1
+2015,square meter,urban,Atyrau,22.3
+2015,square meter,urban,Batys Kazakhstan,23.7
+2015,square meter,urban,Zhambyl,18.8
+2015,square meter,urban,Karagandy,23.5
+2015,square meter,urban,Kostanay,22.4
+2015,square meter,urban,Kyzylorda,20.8
+2015,square meter,urban,Mangistau,21.4
+2015,square meter,urban,Ontustik Kazakhstan,21.7
+2015,square meter,urban,Pavlodar,22.6
+2015,square meter,urban,Soltustik Kazakhstan,21.9
+2015,square meter,urban,Shygys Kazakhstan,21.5
+2015,square meter,urban,Nur-Sultan city,29.0
+2015,square meter,urban,Almaty city,27.0
+2015,square meter,rural,Akmola,20.5
+2015,square meter,rural,Aktobe,17.1
+2015,square meter,rural,Almaty,17.2
+2015,square meter,rural,Atyrau,17.8
+2015,square meter,rural,Batys Kazakhstan,16.1
+2015,square meter,rural,Zhambyl,14.3
+2015,square meter,rural,Karagandy,20.0
+2015,square meter,rural,Kostanay,21.1
+2015,square meter,rural,Kyzylorda,18.1
+2015,square meter,rural,Mangistau,22.2
+2015,square meter,rural,Ontustik Kazakhstan,16.7
+2015,square meter,rural,Pavlodar,20.4
+2015,square meter,rural,Soltustik Kazakhstan,20.0
+2015,square meter,rural,Shygys Kazakhstan,17.0
 2016,square meter,,,21.4
-2016,square meter,Population of urban areas,,24.0
-2016,square meter,Population of rural areas,,18.0
+2016,square meter,urban,,24.0
+2016,square meter,rural,,18.0
 2016,square meter,,Akmola,21.8
 2016,square meter,,Aktobe,21.7
 2016,square meter,,Almaty,18.5
@@ -312,39 +312,39 @@ Year,UNIT_MEASURE,Area,Regions,Value
 2016,square meter,,Shygys Kazakhstan,20.0
 2016,square meter,,Nur-Sultan city,29.6
 2016,square meter,,Almaty city,27.6
-2016,square meter,Population of urban areas,Akmola,23.5
-2016,square meter,Population of urban areas,Aktobe,24.6
-2016,square meter,Population of urban areas,Almaty,21.5
-2016,square meter,Population of urban areas,Atyrau,23.2
-2016,square meter,Population of urban areas,Batys Kazakhstan,24.2
-2016,square meter,Population of urban areas,Zhambyl,19.0
-2016,square meter,Population of urban areas,Karagandy,23.6
-2016,square meter,Population of urban areas,Kostanay,22.3
-2016,square meter,Population of urban areas,Kyzylorda,21.1
-2016,square meter,Population of urban areas,Mangistau,22.1
-2016,square meter,Population of urban areas,Ontustik Kazakhstan,22.7
-2016,square meter,Population of urban areas,Pavlodar,22.4
-2016,square meter,Population of urban areas,Soltustik Kazakhstan,22.0
-2016,square meter,Population of urban areas,Shygys Kazakhstan,22.0
-2016,square meter,Population of urban areas,Nur-Sultan city,29.6
-2016,square meter,Population of urban areas,Almaty city,27.6
-2016,square meter,Population of rural areas,Akmola,20.5
-2016,square meter,Population of rural areas,Aktobe,17.5
-2016,square meter,Population of rural areas,Almaty,17.6
-2016,square meter,Population of rural areas,Atyrau,18.0
-2016,square meter,Population of rural areas,Batys Kazakhstan,16.4
-2016,square meter,Population of rural areas,Zhambyl,14.5
-2016,square meter,Population of rural areas,Karagandy,20.2
-2016,square meter,Population of rural areas,Kostanay,21.2
-2016,square meter,Population of rural areas,Kyzylorda,18.4
-2016,square meter,Population of rural areas,Mangistau,22.7
-2016,square meter,Population of rural areas,Ontustik Kazakhstan,16.7
-2016,square meter,Population of rural areas,Pavlodar,20.7
-2016,square meter,Population of rural areas,Soltustik Kazakhstan,20.2
-2016,square meter,Population of rural areas,Shygys Kazakhstan,17.1
+2016,square meter,urban,Akmola,23.5
+2016,square meter,urban,Aktobe,24.6
+2016,square meter,urban,Almaty,21.5
+2016,square meter,urban,Atyrau,23.2
+2016,square meter,urban,Batys Kazakhstan,24.2
+2016,square meter,urban,Zhambyl,19.0
+2016,square meter,urban,Karagandy,23.6
+2016,square meter,urban,Kostanay,22.3
+2016,square meter,urban,Kyzylorda,21.1
+2016,square meter,urban,Mangistau,22.1
+2016,square meter,urban,Ontustik Kazakhstan,22.7
+2016,square meter,urban,Pavlodar,22.4
+2016,square meter,urban,Soltustik Kazakhstan,22.0
+2016,square meter,urban,Shygys Kazakhstan,22.0
+2016,square meter,urban,Nur-Sultan city,29.6
+2016,square meter,urban,Almaty city,27.6
+2016,square meter,rural,Akmola,20.5
+2016,square meter,rural,Aktobe,17.5
+2016,square meter,rural,Almaty,17.6
+2016,square meter,rural,Atyrau,18.0
+2016,square meter,rural,Batys Kazakhstan,16.4
+2016,square meter,rural,Zhambyl,14.5
+2016,square meter,rural,Karagandy,20.2
+2016,square meter,rural,Kostanay,21.2
+2016,square meter,rural,Kyzylorda,18.4
+2016,square meter,rural,Mangistau,22.7
+2016,square meter,rural,Ontustik Kazakhstan,16.7
+2016,square meter,rural,Pavlodar,20.7
+2016,square meter,rural,Soltustik Kazakhstan,20.2
+2016,square meter,rural,Shygys Kazakhstan,17.1
 2017,square meter,,,21.6
-2017,square meter,Population of urban areas,,24.1
-2017,square meter,Population of rural areas,,18.2
+2017,square meter,urban,,24.1
+2017,square meter,rural,,18.2
 2017,square meter,,Akmola,22.0
 2017,square meter,,Aktobe,22.0
 2017,square meter,,Almaty,18.9
@@ -361,39 +361,39 @@ Year,UNIT_MEASURE,Area,Regions,Value
 2017,square meter,,Shygys Kazakhstan,20.2
 2017,square meter,,Nur-Sultan city,29.8
 2017,square meter,,Almaty city,27.1
-2017,square meter,Population of urban areas,Akmola,23.8
-2017,square meter,Population of urban areas,Aktobe,24.6
-2017,square meter,Population of urban areas,Almaty,21.8
-2017,square meter,Population of urban areas,Atyrau,23.7
-2017,square meter,Population of urban areas,Batys Kazakhstan,24.8
-2017,square meter,Population of urban areas,Zhambyl,19.4
-2017,square meter,Population of urban areas,Karagandy,23.8
-2017,square meter,Population of urban areas,Kostanay,22.3
-2017,square meter,Population of urban areas,Kyzylorda,21.7
-2017,square meter,Population of urban areas,Mangistau,23.2
-2017,square meter,Population of urban areas,Ontustik Kazakhstan,23.2
-2017,square meter,Population of urban areas,Pavlodar,22.4
-2017,square meter,Population of urban areas,Soltustik Kazakhstan,21.7
-2017,square meter,Population of urban areas,Shygys Kazakhstan,22.2
-2017,square meter,Population of urban areas,Nur-Sultan city,29.8
-2017,square meter,Population of urban areas,Almaty city,27.1
-2017,square meter,Population of rural areas,Akmola,20.6
-2017,square meter,Population of rural areas,Aktobe,16.5
-2017,square meter,Population of rural areas,Almaty,18.0
-2017,square meter,Population of rural areas,Atyrau,19.0
-2017,square meter,Population of rural areas,Batys Kazakhstan,16.6
-2017,square meter,Population of rural areas,Zhambyl,14.7
-2017,square meter,Population of rural areas,Karagandy,20.4
-2017,square meter,Population of rural areas,Kostanay,20.9
-2017,square meter,Population of rural areas,Kyzylorda,18.4
-2017,square meter,Population of rural areas,Mangistau,23.3
-2017,square meter,Population of rural areas,Ontustik Kazakhstan,17.0
-2017,square meter,Population of rural areas,Pavlodar,20.9
-2017,square meter,Population of rural areas,Soltustik Kazakhstan,20.5
-2017,square meter,Population of rural areas,Shygys Kazakhstan,17.3
+2017,square meter,urban,Akmola,23.8
+2017,square meter,urban,Aktobe,24.6
+2017,square meter,urban,Almaty,21.8
+2017,square meter,urban,Atyrau,23.7
+2017,square meter,urban,Batys Kazakhstan,24.8
+2017,square meter,urban,Zhambyl,19.4
+2017,square meter,urban,Karagandy,23.8
+2017,square meter,urban,Kostanay,22.3
+2017,square meter,urban,Kyzylorda,21.7
+2017,square meter,urban,Mangistau,23.2
+2017,square meter,urban,Ontustik Kazakhstan,23.2
+2017,square meter,urban,Pavlodar,22.4
+2017,square meter,urban,Soltustik Kazakhstan,21.7
+2017,square meter,urban,Shygys Kazakhstan,22.2
+2017,square meter,urban,Nur-Sultan city,29.8
+2017,square meter,urban,Almaty city,27.1
+2017,square meter,rural,Akmola,20.6
+2017,square meter,rural,Aktobe,16.5
+2017,square meter,rural,Almaty,18.0
+2017,square meter,rural,Atyrau,19.0
+2017,square meter,rural,Batys Kazakhstan,16.6
+2017,square meter,rural,Zhambyl,14.7
+2017,square meter,rural,Karagandy,20.4
+2017,square meter,rural,Kostanay,20.9
+2017,square meter,rural,Kyzylorda,18.4
+2017,square meter,rural,Mangistau,23.3
+2017,square meter,rural,Ontustik Kazakhstan,17.0
+2017,square meter,rural,Pavlodar,20.9
+2017,square meter,rural,Soltustik Kazakhstan,20.5
+2017,square meter,rural,Shygys Kazakhstan,17.3
 2018,square meter,,,21.9
-2018,square meter,Population of urban areas,,24.2
-2018,square meter,Population of rural areas,,18.6
+2018,square meter,urban,,24.2
+2018,square meter,rural,,18.6
 2018,square meter,,Akmola,22.4
 2018,square meter,,Aktobe,21.6
 2018,square meter,,Almaty,19.1
@@ -411,40 +411,40 @@ Year,UNIT_MEASURE,Area,Regions,Value
 2018,square meter,,Nur-Sultan city,30.0
 2018,square meter,,Almaty city,27.5
 2018,square meter,,Shymkent city,23.5
-2018,square meter,Population of urban areas,Akmola,24.1
-2018,square meter,Population of urban areas,Aktobe,23.3
-2018,square meter,Population of urban areas,Almaty,21.6
-2018,square meter,Population of urban areas,Atyrau,24.4
-2018,square meter,Population of urban areas,Batys Kazakhstan,25.3
-2018,square meter,Population of urban areas,Zhambyl,19.8
-2018,square meter,Population of urban areas,Karagandy,23.9
-2018,square meter,Population of urban areas,Kostanay,22.5
-2018,square meter,Population of urban areas,Kyzylorda,21.8
-2018,square meter,Population of urban areas,Mangistau,24.5
-2018,square meter,Population of urban areas,Pavlodar,22.5
-2018,square meter,Population of urban areas,Soltustik Kazakhstan,21.8
-2018,square meter,Population of urban areas,Turkistan,21.5
-2018,square meter,Population of urban areas,Shygys Kazakhstan,22.5
-2018,square meter,Population of urban areas,Nur-Sultan city,30.0
-2018,square meter,Population of urban areas,Almaty city,27.5
-2018,square meter,Population of urban areas,Shymkent city,23.5
-2018,square meter,Population of rural areas,Akmola,21.0
-2018,square meter,Population of rural areas,Aktobe,17.4
-2018,square meter,Population of rural areas,Almaty,18.3
-2018,square meter,Population of rural areas,Atyrau,19.6
-2018,square meter,Population of rural areas,Batys Kazakhstan,17.0
-2018,square meter,Population of rural areas,Zhambyl,15.0
-2018,square meter,Population of rural areas,Karagandy,20.5
-2018,square meter,Population of rural areas,Kostanay,21.0
-2018,square meter,Population of rural areas,Kyzylorda,18.5
-2018,square meter,Population of rural areas,Mangistau,24.3
-2018,square meter,Population of rural areas,Pavlodar,21.2
-2018,square meter,Population of rural areas,Soltustik Kazakhstan,21.0
-2018,square meter,Population of rural areas,Turkistan,17.3
-2018,square meter,Population of rural areas,Shygys Kazakhstan,17.6
+2018,square meter,urban,Akmola,24.1
+2018,square meter,urban,Aktobe,23.3
+2018,square meter,urban,Almaty,21.6
+2018,square meter,urban,Atyrau,24.4
+2018,square meter,urban,Batys Kazakhstan,25.3
+2018,square meter,urban,Zhambyl,19.8
+2018,square meter,urban,Karagandy,23.9
+2018,square meter,urban,Kostanay,22.5
+2018,square meter,urban,Kyzylorda,21.8
+2018,square meter,urban,Mangistau,24.5
+2018,square meter,urban,Pavlodar,22.5
+2018,square meter,urban,Soltustik Kazakhstan,21.8
+2018,square meter,urban,Turkistan,21.5
+2018,square meter,urban,Shygys Kazakhstan,22.5
+2018,square meter,urban,Nur-Sultan city,30.0
+2018,square meter,urban,Almaty city,27.5
+2018,square meter,urban,Shymkent city,23.5
+2018,square meter,rural,Akmola,21.0
+2018,square meter,rural,Aktobe,17.4
+2018,square meter,rural,Almaty,18.3
+2018,square meter,rural,Atyrau,19.6
+2018,square meter,rural,Batys Kazakhstan,17.0
+2018,square meter,rural,Zhambyl,15.0
+2018,square meter,rural,Karagandy,20.5
+2018,square meter,rural,Kostanay,21.0
+2018,square meter,rural,Kyzylorda,18.5
+2018,square meter,rural,Mangistau,24.3
+2018,square meter,rural,Pavlodar,21.2
+2018,square meter,rural,Soltustik Kazakhstan,21.0
+2018,square meter,rural,Turkistan,17.3
+2018,square meter,rural,Shygys Kazakhstan,17.6
 2019,square meter,,,22.2
-2019,square meter,Population of urban areas,,24.7
-2019,square meter,Population of rural areas,,18.9
+2019,square meter,urban,,24.7
+2019,square meter,rural,,18.9
 2019,square meter,,Akmola,22.7
 2019,square meter,,Aktobe,21.9
 2019,square meter,,Almaty,19.6
@@ -462,34 +462,34 @@ Year,UNIT_MEASURE,Area,Regions,Value
 2019,square meter,,Nur-Sultan city,30.5
 2019,square meter,,Almaty city,28.0
 2019,square meter,,Shymkent city,24.1
-2019,square meter,Population of urban areas,Akmola,24.3
-2019,square meter,Population of urban areas,Aktobe,23.7
-2019,square meter,Population of urban areas,Almaty,22.1
-2019,square meter,Population of urban areas,Atyrau,24.8
-2019,square meter,Population of urban areas,Batys Kazakhstan,25.8
-2019,square meter,Population of urban areas,Zhambyl,20.2
-2019,square meter,Population of urban areas,Karagandy,24.0
-2019,square meter,Population of urban areas,Kostanay,22.7
-2019,square meter,Population of urban areas,Kyzylorda,22.5
-2019,square meter,Population of urban areas,Mangistau,25.3
-2019,square meter,Population of urban areas,Pavlodar,22.6
-2019,square meter,Population of urban areas,Soltustik Kazakhstan,22.1
-2019,square meter,Population of urban areas,Turkistan,21.7
-2019,square meter,Population of urban areas,Shygys Kazakhstan,22.7
-2019,square meter,Population of urban areas,Nur-Sultan city,30.5
-2019,square meter,Population of urban areas,Almaty city,28.0
-2019,square meter,Population of urban areas,Shymkent city,24.1
-2019,square meter,Population of rural areas,Akmola,21.4
-2019,square meter,Population of rural areas,Aktobe,17.6
-2019,square meter,Population of rural areas,Almaty,18.8
-2019,square meter,Population of rural areas,Atyrau,20.1
-2019,square meter,Population of rural areas,Batys Kazakhstan,17.2
-2019,square meter,Population of rural areas,Zhambyl,15.2
-2019,square meter,Population of rural areas,Karagandy,20.6
-2019,square meter,Population of rural areas,Kostanay,21.1
-2019,square meter,Population of rural areas,Kyzylorda,18.8
-2019,square meter,Population of rural areas,Mangistau,25.6
-2019,square meter,Population of rural areas,Pavlodar,21.3
-2019,square meter,Population of rural areas,Soltustik Kazakhstan,21.3
-2019,square meter,Population of rural areas,Turkistan,17.5
-2019,square meter,Population of rural areas,Shygys Kazakhstan,17.8
+2019,square meter,urban,Akmola,24.3
+2019,square meter,urban,Aktobe,23.7
+2019,square meter,urban,Almaty,22.1
+2019,square meter,urban,Atyrau,24.8
+2019,square meter,urban,Batys Kazakhstan,25.8
+2019,square meter,urban,Zhambyl,20.2
+2019,square meter,urban,Karagandy,24.0
+2019,square meter,urban,Kostanay,22.7
+2019,square meter,urban,Kyzylorda,22.5
+2019,square meter,urban,Mangistau,25.3
+2019,square meter,urban,Pavlodar,22.6
+2019,square meter,urban,Soltustik Kazakhstan,22.1
+2019,square meter,urban,Turkistan,21.7
+2019,square meter,urban,Shygys Kazakhstan,22.7
+2019,square meter,urban,Nur-Sultan city,30.5
+2019,square meter,urban,Almaty city,28.0
+2019,square meter,urban,Shymkent city,24.1
+2019,square meter,rural,Akmola,21.4
+2019,square meter,rural,Aktobe,17.6
+2019,square meter,rural,Almaty,18.8
+2019,square meter,rural,Atyrau,20.1
+2019,square meter,rural,Batys Kazakhstan,17.2
+2019,square meter,rural,Zhambyl,15.2
+2019,square meter,rural,Karagandy,20.6
+2019,square meter,rural,Kostanay,21.1
+2019,square meter,rural,Kyzylorda,18.8
+2019,square meter,rural,Mangistau,25.6
+2019,square meter,rural,Pavlodar,21.3
+2019,square meter,rural,Soltustik Kazakhstan,21.3
+2019,square meter,rural,Turkistan,17.5
+2019,square meter,rural,Shygys Kazakhstan,17.8
