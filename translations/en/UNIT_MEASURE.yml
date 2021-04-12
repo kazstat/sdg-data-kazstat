@@ -28,6 +28,6 @@ UNITS: units
 USD_IN_2010_PRICE: tenge per US dollars in 2010 prices
 '[REMOVE]': killed per 100 000 people
 million USD: millions of US dollars
-billion_tenge: billion tenge 
+B_TNG: billion tenge 
 kg_CO2: kg CO2-eq/int.USD
 T_CO2: tons of CO2-eq/capita
