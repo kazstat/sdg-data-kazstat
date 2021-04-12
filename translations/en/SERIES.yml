@@ -15,6 +15,10 @@ _L_KZ_010101_1A: 1.9 US dollars per day (based on PPP)
 _L_KZ_010101_1B: 3.2 US dollars per day (based on PPP)
 _L_KZ_010101_1C: 5.5 US dollars per day (based on PPP)
 _L_KZ_010301_1A: 'Number of Beneficiaries: (low-income individuals and households)'
+_L_KZ_100101_1A: Household income per capita among the poorest 40 percent of the population 
+_L_KZ_100101_1B: Household income per capita among population in general  
+_L_KZ_100101_1C: Household expenditure per capita 
+_L_KZ_100101_1D: Household expenditure per capita among the poorest 40 percent of the population
 _L_KZ_020102_1A: Extreme food insecurity
 _L_KZ_020102_1B: Food insecurity (moderate and extreme)
 _L_KZ_030b01_1A: DTP Coverage (3 doses)
