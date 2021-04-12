@@ -7,75 +7,75 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2016,Percent,,,8.33
 2017,Percent,,,15.56
 2018,Percent,,,12.87
-2014,M_USD,,,23725.5328442732
-2015,M_USD,,,15169.501879678994
-2016,M_USD,,,21046.413407961463
-2017,M_USD,,,20899.48552877959
-2014,M_USD,Akmola,KZ03,-13.19906
-2015,M_USD,Akmola,KZ03,15.626779999999997
-2016,M_USD,Akmola,KZ03,253.38455
-2017,M_USD,Akmola,KZ03,74.99448000000002
-2014,M_USD,Aktobe,KZ04,1418.9309
-2015,M_USD,Aktobe,KZ04,367.97854
-2016,M_USD,Aktobe,KZ04,1200.97734
-2017,M_USD,Aktobe,KZ04,1997.88333
-2014,M_USD,Almaty,KZ01,235.3059
-2015,M_USD,Almaty,KZ01,131.19776000000002
-2016,M_USD,Almaty,KZ01,99.92902
-2017,M_USD,Almaty,KZ01,175.53900000000004
-2014,M_USD,Atyrau,KZ06,9135.67141357933
-2015,M_USD,Atyrau,KZ06,6820.981067740854
-2016,M_USD,Atyrau,KZ06,8581.573300303999
-2017,M_USD,Atyrau,KZ06,7668.545003758431
-2014,M_USD,Batys Kazakhstan,KZ07,1628.1023699999996
-2015,M_USD,Batys Kazakhstan,KZ07,1396.7453
-2016,M_USD,Batys Kazakhstan,KZ07,1356.78257
-2017,M_USD,Batys Kazakhstan,KZ07,1201.6102
-2014,M_USD,Zhambyl,KZ17,94.37473
-2015,M_USD,Zhambyl,KZ17,-30.900720000000003
-2016,M_USD,Zhambyl,KZ17,149.599
-2017,M_USD,Zhambyl,KZ17,85.52842999999999
-2014,M_USD,Karagandy,KZ12,71.12025000000003
-2015,M_USD,Karagandy,KZ12,31.702079999999995
-2016,M_USD,Karagandy,KZ12,304.23569
-2017,M_USD,Karagandy,KZ12,461.7872
-2014,M_USD,Kostanay,KZ13,335.15974
-2015,M_USD,Kostanay,KZ13,14.408630000000016
-2016,M_USD,Kostanay,KZ13,358.09765000000016
-2017,M_USD,Kostanay,KZ13,-120.26878000000002
-2014,M_USD,Kyzylorda,KZ14,359.04341999999986
-2015,M_USD,Kyzylorda,KZ14,169.21308
-2016,M_USD,Kyzylorda,KZ14,206.78115
-2017,M_USD,Kyzylorda,KZ14,99.29908
-2014,M_USD,Mangistau,KZ09,1609.3645399999998
-2015,M_USD,Mangistau,KZ09,227.04216
-2016,M_USD,Mangistau,KZ09,450.22523
-2017,M_USD,Mangistau,KZ09,623.1418600000002
-2014,M_USD,Pavlodar,KZ11,346.91643
-2015,M_USD,Pavlodar,KZ11,792.7140300000003
-2016,M_USD,Pavlodar,KZ11,472.41042
-2017,M_USD,Pavlodar,KZ11,593.76484
-2014,M_USD,Soltustik Kazakhstan,KZ16,6.7222100000000005
-2015,M_USD,Soltustik Kazakhstan,KZ16,-13.48079
-2016,M_USD,Soltustik Kazakhstan,KZ16,2.53991
-2017,M_USD,Soltustik Kazakhstan,KZ16,18.011789999999994
-2014,M_USD,Turkistan,KZ10,128.76013
-2015,M_USD,Turkistan,KZ10,170.42156
-2016,M_USD,Turkistan,KZ10,207.98848
-2017,M_USD,Turkistan,KZ10,151.40365999999997
-2014,M_USD,Shygys Kazakhstan,KZ15,2638.50016
-2015,M_USD,Shygys Kazakhstan,KZ15,1796.1106
-2016,M_USD,Shygys Kazakhstan,KZ15,2458.5033
-2017,M_USD,Shygys Kazakhstan,KZ15,2927.62632
-2014,M_USD,Nur-Sultan city,KZ05,676.06448
-2015,M_USD,Nur-Sultan city,KZ05,424.00141
-2016,M_USD,Nur-Sultan city,KZ05,208.08627
-2017,M_USD,Nur-Sultan city,KZ05,583.74077
-2014,M_USD,Almaty city,KZ02,4949.19033069387
-2015,M_USD,Almaty city,KZ02,2742.53180193814
-2016,M_USD,Almaty city,KZ02,4671.06978765747
-2017,M_USD,Almaty city,KZ02,4015.9699250211615
-2014,M_USD,Shymkent city,KZ18,105.5049
-2015,M_USD,Shymkent city,KZ18,113.20858999999996
-2016,M_USD,Shymkent city,KZ18,64.22973999999999
-2017,M_USD,Shymkent city,KZ18,340.9084200000001
+2014,million US dollars,,,23725.5328442732
+2015,million US dollars,,,15169.501879678994
+2016,million US dollars,,,21046.413407961463
+2017,million US dollars,,,20899.48552877959
+2014,million US dollars,Akmola,KZ03,-13.19906
+2015,million US dollars,Akmola,KZ03,15.626779999999997
+2016,million US dollars,Akmola,KZ03,253.38455
+2017,million US dollars,Akmola,KZ03,74.99448000000002
+2014,million US dollars,Aktobe,KZ04,1418.9309
+2015,million US dollars,Aktobe,KZ04,367.97854
+2016,million US dollars,Aktobe,KZ04,1200.97734
+2017,million US dollars,Aktobe,KZ04,1997.88333
+2014,million US dollars,Almaty,KZ01,235.3059
+2015,million US dollars,Almaty,KZ01,131.19776000000002
+2016,million US dollars,Almaty,KZ01,99.92902
+2017,million US dollars,Almaty,KZ01,175.53900000000004
+2014,million US dollars,Atyrau,KZ06,9135.67141357933
+2015,million US dollars,Atyrau,KZ06,6820.981067740854
+2016,million US dollars,Atyrau,KZ06,8581.573300303999
+2017,million US dollars,Atyrau,KZ06,7668.545003758431
+2014,million US dollars,Batys Kazakhstan,KZ07,1628.1023699999996
+2015,million US dollars,Batys Kazakhstan,KZ07,1396.7453
+2016,million US dollars,Batys Kazakhstan,KZ07,1356.78257
+2017,million US dollars,Batys Kazakhstan,KZ07,1201.6102
+2014,million US dollars,Zhambyl,KZ17,94.37473
+2015,million US dollars,Zhambyl,KZ17,-30.900720000000003
+2016,million US dollars,Zhambyl,KZ17,149.599
+2017,million US dollars,Zhambyl,KZ17,85.52842999999999
+2014,million US dollars,Karagandy,KZ12,71.12025000000003
+2015,million US dollars,Karagandy,KZ12,31.702079999999995
+2016,million US dollars,Karagandy,KZ12,304.23569
+2017,million US dollars,Karagandy,KZ12,461.7872
+2014,million US dollars,Kostanay,KZ13,335.15974
+2015,million US dollars,Kostanay,KZ13,14.408630000000016
+2016,million US dollars,Kostanay,KZ13,358.09765000000016
+2017,million US dollars,Kostanay,KZ13,-120.26878000000002
+2014,million US dollars,Kyzylorda,KZ14,359.04341999999986
+2015,million US dollars,Kyzylorda,KZ14,169.21308
+2016,million US dollars,Kyzylorda,KZ14,206.78115
+2017,million US dollars,Kyzylorda,KZ14,99.29908
+2014,million US dollars,Mangistau,KZ09,1609.3645399999998
+2015,million US dollars,Mangistau,KZ09,227.04216
+2016,million US dollars,Mangistau,KZ09,450.22523
+2017,million US dollars,Mangistau,KZ09,623.1418600000002
+2014,million US dollars,Pavlodar,KZ11,346.91643
+2015,million US dollars,Pavlodar,KZ11,792.7140300000003
+2016,million US dollars,Pavlodar,KZ11,472.41042
+2017,million US dollars,Pavlodar,KZ11,593.76484
+2014,million US dollars,Soltustik Kazakhstan,KZ16,6.7222100000000005
+2015,million US dollars,Soltustik Kazakhstan,KZ16,-13.48079
+2016,million US dollars,Soltustik Kazakhstan,KZ16,2.53991
+2017,million US dollars,Soltustik Kazakhstan,KZ16,18.011789999999994
+2014,million US dollars,Turkistan,KZ10,128.76013
+2015,million US dollars,Turkistan,KZ10,170.42156
+2016,million US dollars,Turkistan,KZ10,207.98848
+2017,million US dollars,Turkistan,KZ10,151.40365999999997
+2014,million US dollars,Shygys Kazakhstan,KZ15,2638.50016
+2015,million US dollars,Shygys Kazakhstan,KZ15,1796.1106
+2016,million US dollars,Shygys Kazakhstan,KZ15,2458.5033
+2017,million US dollars,Shygys Kazakhstan,KZ15,2927.62632
+2014,million US dollars,Nur-Sultan city,KZ05,676.06448
+2015,million US dollars,Nur-Sultan city,KZ05,424.00141
+2016,million US dollars,Nur-Sultan city,KZ05,208.08627
+2017,million US dollars,Nur-Sultan city,KZ05,583.74077
+2014,million US dollars,Almaty city,KZ02,4949.19033069387
+2015,million US dollars,Almaty city,KZ02,2742.53180193814
+2016,million US dollars,Almaty city,KZ02,4671.06978765747
+2017,million US dollars,Almaty city,KZ02,4015.9699250211615
+2014,million US dollars,Shymkent city,KZ18,105.5049
+2015,million US dollars,Shymkent city,KZ18,113.20858999999996
+2016,million US dollars,Shymkent city,KZ18,64.22973999999999
+2017,million US dollars,Shymkent city,KZ18,340.9084200000001
