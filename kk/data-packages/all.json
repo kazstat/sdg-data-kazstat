@@ -1121,30 +1121,6 @@
       "title": "Қоғамдық пайдалы қызметке тартылған ТжКБ ұйымдарындағы білім алушылардың үлесі, пайыз"
     },
     {
-      "path": "17-6-1/data.csv",
-      "name": "17-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Ынтымақтастық түрлерінің бөлінісіндегі елдер арасындағы келісімдер мен ғылыми және/немесе техникалық ынтымақтастық бағдарламаларының саны"
-    },
-    {
       "path": "13-2-1/data.csv",
       "name": "13-2-1",
       "profile": "tabular-data-resource",
