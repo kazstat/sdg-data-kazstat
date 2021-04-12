@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1618180721</mes:ID>
+    <mes:ID>IREF1618198513</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-04-11T22:38:41</mes:Prepared>
+    <mes:Prepared>2021-04-12T03:35:13</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-3-0"/>
   </mes:Header>
   <mes:Structures>
@@ -24876,22 +24876,22 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
         </str:Code>
         <str:Code id="_L_KZ_100101_1A">
           <com:Name xml:lang="ru">Доходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
-          <com:Name xml:lang="en">_L_KZ_100101_1A</com:Name>
+          <com:Name xml:lang="en">Household income per capita among the poorest 40 percent of the population</com:Name>
           <com:Name xml:lang="kk">Халықтың ең аз қамтылған 40 пайыз арасындағы үй шаруашылықтарының жан басына шаққандағы табыстары</com:Name>
         </str:Code>
         <str:Code id="_L_KZ_100101_1B">
           <com:Name xml:lang="ru">Доходы домохозяйств на душу населения среди населения</com:Name>
-          <com:Name xml:lang="en">_L_KZ_100101_1B</com:Name>
+          <com:Name xml:lang="en">Household income per capita among population in general</com:Name>
           <com:Name xml:lang="kk">Халықтың жан басына шаққандағы үй шаруашылықтарының табыстары</com:Name>
         </str:Code>
         <str:Code id="_L_KZ_100101_1C">
           <com:Name xml:lang="ru">Расходы домохозяйств на душу населения</com:Name>
-          <com:Name xml:lang="en">_L_KZ_100101_1C</com:Name>
+          <com:Name xml:lang="en">Household expenditure per capita</com:Name>
           <com:Name xml:lang="kk">Халықтың жан басына шаққандағы үй шаруашылықтарының шығыстары</com:Name>
         </str:Code>
         <str:Code id="_L_KZ_100101_1D">
           <com:Name xml:lang="ru">Расходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения</com:Name>
-          <com:Name xml:lang="en">_L_KZ_100101_1D</com:Name>
+          <com:Name xml:lang="en">Household expenditure per capita among the poorest 40 percent of the population</com:Name>
           <com:Name xml:lang="kk">Халықтың ең аз қамтылған 40 пайыз арасындағы үй шаруашылықтарының жан басына шаққандағы шығыстары</com:Name>
         </str:Code>
         <str:Code id="_L_KZ_010301_1A">

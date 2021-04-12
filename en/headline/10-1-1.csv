@@ -1,25 +1,25 @@
 Year,Value,SERIES,UNIT_MEASURE
-2014,106.7,_L_KZ_100101_1C,as a percentage to the previous year
-2014,108.1,_L_KZ_100101_1B,as a percentage to the previous year
-2014,106.7,_L_KZ_100101_1D,as a percentage to the previous year
-2014,108.3,_L_KZ_100101_1A,as a percentage to the previous year
-2015,103.7,_L_KZ_100101_1C,as a percentage to the previous year
-2015,105.5,_L_KZ_100101_1B,as a percentage to the previous year
-2015,103.1,_L_KZ_100101_1D,as a percentage to the previous year
-2015,103.6,_L_KZ_100101_1A,as a percentage to the previous year
-2016,108.7,_L_KZ_100101_1C,as a percentage to the previous year
-2016,108.2,_L_KZ_100101_1B,as a percentage to the previous year
-2016,109.3,_L_KZ_100101_1D,as a percentage to the previous year
-2016,109.5,_L_KZ_100101_1A,as a percentage to the previous year
-2017,110.7,_L_KZ_100101_1C,as a percentage to the previous year
-2017,107.0,_L_KZ_100101_1B,as a percentage to the previous year
-2017,109.2,_L_KZ_100101_1D,as a percentage to the previous year
-2017,106.0,_L_KZ_100101_1A,as a percentage to the previous year
-2018,110.5,_L_KZ_100101_1C,as a percentage to the previous year
-2018,110.2,_L_KZ_100101_1B,as a percentage to the previous year
-2018,111.1,_L_KZ_100101_1D,as a percentage to the previous year
-2018,111.8,_L_KZ_100101_1A,as a percentage to the previous year
-2019,109.0,_L_KZ_100101_1C,as a percentage to the previous year
-2019,110.1,_L_KZ_100101_1B,as a percentage to the previous year
-2019,108.9,_L_KZ_100101_1D,as a percentage to the previous year
-2019,109.7,_L_KZ_100101_1A,as a percentage to the previous year
+2014,106.7,Household expenditure per capita,as a percentage to the previous year
+2014,108.1,Household income per capita among population in general,as a percentage to the previous year
+2014,106.7,Household expenditure per capita among the poorest 40 percent of the population,as a percentage to the previous year
+2014,108.3,Household income per capita among the poorest 40 percent of the population,as a percentage to the previous year
+2015,103.7,Household expenditure per capita,as a percentage to the previous year
+2015,105.5,Household income per capita among population in general,as a percentage to the previous year
+2015,103.1,Household expenditure per capita among the poorest 40 percent of the population,as a percentage to the previous year
+2015,103.6,Household income per capita among the poorest 40 percent of the population,as a percentage to the previous year
+2016,108.7,Household expenditure per capita,as a percentage to the previous year
+2016,108.2,Household income per capita among population in general,as a percentage to the previous year
+2016,109.3,Household expenditure per capita among the poorest 40 percent of the population,as a percentage to the previous year
+2016,109.5,Household income per capita among the poorest 40 percent of the population,as a percentage to the previous year
+2017,110.7,Household expenditure per capita,as a percentage to the previous year
+2017,107.0,Household income per capita among population in general,as a percentage to the previous year
+2017,109.2,Household expenditure per capita among the poorest 40 percent of the population,as a percentage to the previous year
+2017,106.0,Household income per capita among the poorest 40 percent of the population,as a percentage to the previous year
+2018,110.5,Household expenditure per capita,as a percentage to the previous year
+2018,110.2,Household income per capita among population in general,as a percentage to the previous year
+2018,111.1,Household expenditure per capita among the poorest 40 percent of the population,as a percentage to the previous year
+2018,111.8,Household income per capita among the poorest 40 percent of the population,as a percentage to the previous year
+2019,109.0,Household expenditure per capita,as a percentage to the previous year
+2019,110.1,Household income per capita among population in general,as a percentage to the previous year
+2019,108.9,Household expenditure per capita among the poorest 40 percent of the population,as a percentage to the previous year
+2019,109.7,Household income per capita among the poorest 40 percent of the population,as a percentage to the previous year
