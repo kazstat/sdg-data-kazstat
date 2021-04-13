@@ -65,9 +65,12 @@ map_layers:
   # Add any number of additional layers, such as one for counties.
 
 docs_branding: Kazstat SDG data repository
-docs_intro: This is a summary of the resources available on this data service.
+docs_intro: <p>This is a summary of the resources available on this data service.
   This data is used by <a href="http://kazstat.github.io/sdg-site-kazstat">the
-  Kazakhstan SDG national reporting platform</a>.
+  Kazakhstan SDG national reporting platform</a>.</p>
+  <p>SDMX data intended for use in the UN global SDG database is
+  available <a href="https://kazstat.github.io/sdg-data-kazstat/unsd/sdmx/all.xml">here</a>.
+  </p>
 docs_indicator_url: http://kazstat.github.io/sdg-site-kazstat/[id]/
 docs_translate_disaggregations: true
 docs_extra_disaggregations:
