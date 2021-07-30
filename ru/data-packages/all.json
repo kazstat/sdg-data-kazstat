@@ -3150,30 +3150,6 @@
       "title": "Доля ВВП, приходящаяся на оплату труда"
     },
     {
-      "path": "16-5-1-2/data.csv",
-      "name": "16-5-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Число лиц, привлеченных к административной и уголовной ответственности по статьям, связанным с коррупцией"
-    },
-    {
       "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
