@@ -11,28 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_TRST_AVG",
-                "_L_TRST_HIGH",
-                "_L_TRST_LOW",
-                "_L_TRST_NEV",
-                "_L_TRST_NO",
-                "_L_TRST_PARTAGG",
-                "_L_TRST_PARTDIS",
-                "_L_TRST_STRAGG",
-                "_L_TRST_STRDIS"
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -40,14 +21,33 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_TRST_HIGH",
+                "_L_TRST_AVG",
+                "_L_TRST_LOW",
+                "_L_TRST_NO",
+                "_L_TRST_NEV",
+                "_L_TRST_STRAGG",
+                "_L_TRST_PARTAGG",
+                "_L_TRST_PARTDIS",
+                "_L_TRST_STRDIS",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

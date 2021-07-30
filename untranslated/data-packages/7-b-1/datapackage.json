@@ -11,47 +11,47 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "KZAKM",
-                "KZAKT",
-                "KZALA",
-                "KZALM",
-                "KZATY",
-                "KZKAR",
-                "KZKUS",
-                "KZKZY",
-                "KZMAN",
-                "KZNS",
-                "KZONT",
-                "KZPAV",
-                "KZSEV",
-                "KZSHY",
-                "KZVOS",
-                "KZYUZ",
-                "KZZAP",
-                "KZZHA"
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KZAKM",
+                "KZAKT",
+                "KZALM",
+                "KZATY",
+                "KZZAP",
+                "KZZHA",
+                "KZKAR",
+                "KZKUS",
+                "KZKZY",
+                "KZMAN",
+                "KZONT",
+                "KZPAV",
+                "KZSEV",
+                "KZYUZ",
+                "KZVOS",
+                "KZNS",
+                "KZALA",
+                "KZSHY",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

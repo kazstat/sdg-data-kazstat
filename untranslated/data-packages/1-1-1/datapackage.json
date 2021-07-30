@@ -11,29 +11,32 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "KZAKM",
-                "KZAKT",
-                "KZALA",
-                "KZALM",
-                "KZATY",
-                "KZKAR",
-                "KZKUS",
-                "KZKZY",
-                "KZMAN",
-                "KZNS",
-                "KZONT",
-                "KZPAV",
-                "KZSEV",
-                "KZSHY",
-                "KZVOS",
-                "KZYUZ",
-                "KZZAP",
-                "KZZHA"
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
               ]
             }
           },
@@ -42,38 +45,35 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "F",
-                "M"
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "R",
-                "U"
+                "KZAKM",
+                "KZKAR",
+                "KZKUS",
+                "KZONT",
+                "KZPAV",
+                "KZSEV",
+                "KZVOS",
+                "KZNS",
+                "KZAKT",
+                "KZALM",
+                "KZATY",
+                "KZZAP",
+                "KZZHA",
+                "KZKZY",
+                "KZMAN",
+                "KZALA",
+                "KZYUZ",
+                "KZSHY",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "integer"
           }
         ]
       }

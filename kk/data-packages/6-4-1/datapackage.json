@@ -11,17 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ауыл, орман және балық шаруашылығы",
-                "қызметтердің басқа түрлерін ұсыну",
-                "өнеркәсіп"
-              ]
-            },
-            "title": "Экономикалық қызмет түрлері"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -29,14 +21,22 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ауыл, орман және балық шаруашылығы",
+                "өнеркәсіп",
+                "қызметтердің басқа түрлерін ұсыну",
+                ""
+              ]
+            },
+            "title": "Экономикалық қызмет түрлері"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

@@ -11,28 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Corporate Income Tax",
-                "Consolidated Land Tax",
-                "Excise taxes",
-                "Gambling tax",
-                "Government tariffs",
-                "Individual Income Tax",
-                "Taxes related to international trade and foreign operations",
-                "Land Taxes",
-                "Property Taxes",
-                "Registration fees",
-                "Royalties related to use of resources",
-                "Social Security Taxes",
-                "Value added tax",
-                "Vehicle Tax"
-              ]
-            },
-            "title": "Composite breakdown"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -40,14 +21,33 @@
             "title": "Unit of measure"
           },
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Corporate Income Tax",
+                "Individual Income Tax",
+                "Social Security Taxes",
+                "Property Taxes",
+                "Land Taxes",
+                "Vehicle Tax",
+                "Consolidated Land Tax",
+                "Value added tax",
+                "Royalties related to use of resources",
+                "Registration fees",
+                "Gambling tax",
+                "Taxes related to international trade and foreign operations",
+                "Excise taxes",
+                "Government tariffs",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

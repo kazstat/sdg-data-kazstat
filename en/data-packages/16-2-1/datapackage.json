@@ -11,57 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "age: 10-14 years old",
-                "Y1T2",
-                "Y2T4",
-                "Y3T4",
-                "5 to 9 years old"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Akmola",
-                "Aktobe",
-                "Almaty city",
-                "Almaty",
-                "Atyrau",
-                "Karagandy",
-                "Kostanay",
-                "Kyzylorda",
-                "Mangistau",
-                "Nur-Sultan city",
-                "Ontustik Kazakhstan",
-                "Pavlodar",
-                "Soltustik Kazakhstan",
-                "Shygys Kazakhstan",
-                "Batys Kazakhstan",
-                "Zhambyl"
-              ]
-            },
-            "title": "Regions"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -73,22 +25,70 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "urban",
                 "rural",
-                "urban"
+                ""
               ]
             },
             "title": "Area"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y2T4",
+                "5 to 9 years old",
+                "age: 10-14 years old",
+                "Y1T2",
+                "Y3T4",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Akmola",
+                "Aktobe",
+                "Almaty",
+                "Atyrau",
+                "Batys Kazakhstan",
+                "Zhambyl",
+                "Karagandy",
+                "Kostanay",
+                "Kyzylorda",
+                "Mangistau",
+                "Ontustik Kazakhstan",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Shygys Kazakhstan",
+                "Nur-Sultan city",
+                "Almaty city",
+                ""
+              ]
+            },
+            "title": "Regions"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

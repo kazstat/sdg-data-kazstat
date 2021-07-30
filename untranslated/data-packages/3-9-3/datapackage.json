@@ -11,29 +11,48 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "KZAKM",
                 "KZAKT",
-                "KZALA",
                 "KZALM",
                 "KZATY",
+                "KZZAP",
+                "KZZHA",
                 "KZKAR",
                 "KZKUS",
                 "KZKZY",
                 "KZMAN",
-                "KZNS",
                 "KZONT",
                 "KZPAV",
                 "KZSEV",
-                "KZSHY",
                 "KZVOS",
+                "KZNS",
+                "KZALA",
                 "KZYUZ",
-                "KZZAP",
-                "KZZHA"
+                "KZSHY",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
               ]
             }
           },
@@ -42,34 +61,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "M",
                 "F",
-                "M"
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "R",
-                "U"
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "integer"
           }
         ]
       }

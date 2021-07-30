@@ -92,8 +92,8 @@ SG_HAZ_CMRSTHOLM,Стокгольмская конвенция,SG_HAZ_CMRSTHOLM,
 SG_REG_BRTH90N,"b) регистрации рождений в 100 процентах случаев , включая детей беженцев, лиц ищущих убежища, недокументированных и лиц без гражданства",SG_REG_BRTH90N,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2],1,1
 SG_REG_CENSUSN,а) Казахстан провел хотя бы одну перепись населения и жилищного фонда в течение последних 10 лет,SG_REG_CENSUSN,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2],1,1
 SG_REG_DETH75N,b) регистрация смерти в 80 процентах случаев,SG_REG_DETH75N,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2],1,1
-SG_XPD_HLTH,Здравоохранение,SG_XPD_HLTH,Proportion of total government spending on health [1.a.2],1,1
-SG_XPD_PROT,Социальная помощь и социальное обеспечение,SG_XPD_PROT,Proportion of total government spending on social protection [1.a.2],1,1
+SG_XPD_HLTH,Здравоохранение,SG_XPD_HLTH,"Proportion of total government spending on essential services, health [1.a.2]",1,1
+SG_XPD_PROT,Социальная помощь и социальное обеспечение,SG_XPD_PROT,"Proportion of total government spending on essential services, social protection [1.a.2]",1,1
 SI_COV_MATNL,Численность получателей пособий на рождение ребенка и по уходу за ребенком до 1 года,босану және бала 1 жасқа толғанға дейін оның күтімі бойынша жәрдемақы,Number of Beneficiaries: (social benefits related to newborns and child care of infants less than 1 year old),1,1
 SI_COV_UEMP,"Численность населения, охваченного социальными выплатами по причине потери работы",Жұмыстан айырылу себептерінен әлеуметтік төлемдермен қамтылған халықтың саны,Number of Beneficiaries: (unemployment benefits),1,1
 SKILL_MATH,навыков счета,есептеу машығы,math skills,35,1

@@ -11,25 +11,24 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y18T49"
-              ]
-            },
-            "title": "Жасы"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "физикалық қатыгездік",
+                "сексуалдық зорлық",
                 "физикалық зорлық-зомбылық және / немесе сексуалдық зомбылық",
-                "сексуалдық зорлық"
+                ""
               ]
             },
             "title": "COMPOSITE_BREAKDOWN"
@@ -40,19 +39,20 @@
             "title": "SERIES"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "AGE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "constraints": {
+              "enum": [
+                "Y18T49",
+                ""
+              ]
+            },
+            "title": "Жасы"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

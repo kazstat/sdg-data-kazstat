@@ -11,28 +11,28 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_HLTH_IMBD_ALH",
-                "_L_HLTH_IMBD_DRG",
-                "_L_HLTH_IMBD_SUBS"
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_HLTH_IMBD_SUBS",
+                "_L_HLTH_IMBD_ALH",
+                "_L_HLTH_IMBD_DRG",
+                ""
+              ]
+            }
           },
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

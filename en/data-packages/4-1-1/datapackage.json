@@ -11,30 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Akmola",
-                "Aktobe",
-                "Almaty city",
-                "Almaty",
-                "Atyrau",
-                "Karagandy",
-                "Kostanay",
-                "Kyzylorda",
-                "Mangistau",
-                "Nur-Sultan city",
-                "Ontustik Kazakhstan",
-                "Pavlodar",
-                "Soltustik Kazakhstan",
-                "Shygys Kazakhstan",
-                "Batys Kazakhstan",
-                "Zhambyl"
-              ]
-            },
-            "title": "Regions"
+            "title": "Unit of measure"
           },
           {
             "name": "SERIES",
@@ -46,27 +30,43 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Male",
                 "Female",
-                "Male"
+                ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "REF_AREA",
             "type": "string",
-            "title": "Unit of measure"
+            "constraints": {
+              "enum": [
+                "Akmola",
+                "Aktobe",
+                "Almaty",
+                "Atyrau",
+                "Batys Kazakhstan",
+                "Zhambyl",
+                "Karagandy",
+                "Kostanay",
+                "Kyzylorda",
+                "Mangistau",
+                "Ontustik Kazakhstan",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Shygys Kazakhstan",
+                "Nur-Sultan city",
+                "Almaty city",
+                ""
+              ]
+            },
+            "title": "Regions"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

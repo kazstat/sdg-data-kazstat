@@ -11,31 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Akmola",
-                "Aktobe",
-                "Almaty city",
-                "Almaty",
-                "Atyrau",
-                "Karagandy",
-                "Kostanay",
-                "Kyzylorda",
-                "Mangistau",
-                "Nur-Sultan city",
-                "Pavlodar",
-                "Soltustik Kazakhstan",
-                "Shymkent city",
-                "Shygys Kazakhstan",
-                "Turkistan",
-                "Batys Kazakhstan",
-                "Zhambyl"
-              ]
-            },
-            "title": "Regions"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -43,14 +21,36 @@
             "title": "Unit of measure"
           },
           {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Akmola",
+                "Aktobe",
+                "Almaty",
+                "Atyrau",
+                "Batys Kazakhstan",
+                "Zhambyl",
+                "Karagandy",
+                "Kostanay",
+                "Kyzylorda",
+                "Mangistau",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Shygys Kazakhstan",
+                "Nur-Sultan city",
+                "Almaty city",
+                "Turkistan",
+                "Shymkent city",
+                ""
+              ]
+            },
+            "title": "Regions"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

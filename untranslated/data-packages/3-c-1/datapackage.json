@@ -11,29 +11,29 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_HLTH_NUM_DOC",
-                "_L_HLTH_PRV_DENT",
-                "_L_HLTH_PRV_MEDW",
-                "_L_HLTH_PRV_PHMT"
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_HLTH_NUM_DOC",
+                "_L_HLTH_PRV_MEDW",
+                "_L_HLTH_PRV_DENT",
+                "_L_HLTH_PRV_PHMT",
+                ""
+              ]
+            }
           },
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

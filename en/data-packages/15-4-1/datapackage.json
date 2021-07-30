@@ -11,22 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Akmola",
-                "Almaty",
-                "Karagandy",
-                "Pavlodar",
-                "Soltustik Kazakhstan",
-                "Shygys Kazakhstan",
-                "Turkistan",
-                "Zhambyl"
-              ]
-            },
-            "title": "Regions"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -34,14 +21,27 @@
             "title": "Unit of measure"
           },
           {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Akmola",
+                "Almaty",
+                "Zhambyl",
+                "Karagandy",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Turkistan",
+                "Shygys Kazakhstan",
+                ""
+              ]
+            },
+            "title": "Regions"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

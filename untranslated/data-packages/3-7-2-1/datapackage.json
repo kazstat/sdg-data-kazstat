@@ -11,23 +11,23 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Y0T15",
-                "Y15T18"
+                "Y15T18",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "integer"
           }
         ]
       }

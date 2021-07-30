@@ -11,29 +11,29 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_ODA_DNR_GR",
-                "_L_ODA_DNR_NT",
-                "_L_ODA_RCP_GR",
-                "_L_ODA_RCP_NT"
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_ODA_RCP_GR",
+                "_L_ODA_RCP_NT",
+                "_L_ODA_DNR_GR",
+                "_L_ODA_DNR_NT",
+                ""
+              ]
+            }
           },
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

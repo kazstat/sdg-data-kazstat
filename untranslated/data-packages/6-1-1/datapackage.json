@@ -11,13 +11,8 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
@@ -28,19 +23,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "U",
                 "R",
-                "U"
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "integer"
           }
         ]
       }

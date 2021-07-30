@@ -11,17 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "agriculture, forestry and fishery",
-                "provision of other types of services",
-                "Industry"
-              ]
-            },
-            "title": "Type of economic activity"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -29,14 +21,22 @@
             "title": "Unit of measure"
           },
           {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "agriculture, forestry and fishery",
+                "Industry",
+                "provision of other types of services",
+                ""
+              ]
+            },
+            "title": "Type of economic activity"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

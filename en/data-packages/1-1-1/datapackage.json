@@ -11,49 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Akmola",
-                "Aktobe",
-                "Almaty city",
-                "Almaty",
-                "Atyrau",
-                "Karagandy",
-                "Kostanay",
-                "Kyzylorda",
-                "Mangistau",
-                "Nur-Sultan city",
-                "Ontustik Kazakhstan",
-                "Pavlodar",
-                "Soltustik Kazakhstan",
-                "Shymkent city",
-                "Shygys Kazakhstan",
-                "Turkistan",
-                "Batys Kazakhstan",
-                "Zhambyl"
-              ]
-            },
-            "title": "Regions"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -61,26 +21,66 @@
             "title": "Unit of measure"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "urban",
                 "rural",
-                "urban"
+                ""
               ]
             },
             "title": "Area"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Akmola",
+                "Karagandy",
+                "Kostanay",
+                "Ontustik Kazakhstan",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Shygys Kazakhstan",
+                "Nur-Sultan city",
+                "Aktobe",
+                "Almaty",
+                "Atyrau",
+                "Batys Kazakhstan",
+                "Zhambyl",
+                "Kyzylorda",
+                "Mangistau",
+                "Almaty city",
+                "Turkistan",
+                "Shymkent city",
+                ""
+              ]
+            },
+            "title": "Regions"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

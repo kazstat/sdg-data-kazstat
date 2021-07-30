@@ -11,19 +11,53 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "M0T5",
-                "M12T17",
+                "M6T11",
                 "M12T23",
-                "M18T23",
                 "M24T35",
                 "M36T47",
                 "M48T59",
-                "M6T11"
+                "M12T17",
+                "M18T23",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
               ]
             }
           },
@@ -32,63 +66,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "KZAKM",
                 "KZAKT",
-                "KZALA",
                 "KZALM",
                 "KZATY",
+                "KZZAP",
+                "KZZHA",
                 "KZKAR",
                 "KZKUS",
                 "KZKZY",
                 "KZMAN",
-                "KZNS",
                 "KZONT",
                 "KZPAV",
                 "KZSEV",
                 "KZVOS",
-                "KZZAP",
-                "KZZHA"
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M"
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "R",
-                "U"
+                "KZNS",
+                "KZALA",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "integer"
           }
         ]
       }

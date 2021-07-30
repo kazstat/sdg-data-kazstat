@@ -11,16 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "әйелдер",
-                "ерлер"
-              ]
-            },
-            "title": "Жынысы"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -32,22 +25,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "қала",
                 "ауыл",
-                "қала"
+                ""
               ]
             },
             "title": "Аймақ"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ерлер",
+                "әйелдер",
+                ""
+              ]
+            },
+            "title": "Жынысы"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

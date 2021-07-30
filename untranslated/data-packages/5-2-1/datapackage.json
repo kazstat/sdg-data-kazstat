@@ -11,24 +11,22 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Y18T49"
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "_L_TVL_PHSVL",
+                "_L_TVL_SEX_HARSS",
                 "_L_TVL_PHSVL_SEXHARSS",
-                "_L_TVL_SEX_HARSS"
+                ""
               ]
             }
           },
@@ -37,16 +35,18 @@
             "type": "string"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y18T49",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "integer"
           }
         ]
       }

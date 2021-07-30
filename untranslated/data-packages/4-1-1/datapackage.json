@@ -11,29 +11,12 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "KZAKM",
-                "KZAKT",
-                "KZALA",
-                "KZALM",
-                "KZATY",
-                "KZKAR",
-                "KZKUS",
-                "KZKZY",
-                "KZMAN",
-                "KZNS",
-                "KZONT",
-                "KZPAV",
-                "KZSEV",
-                "KZVOS",
-                "KZZAP",
-                "KZZHA"
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "SERIES",
@@ -44,23 +27,40 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "M",
                 "F",
-                "M"
+                ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KZAKM",
+                "KZAKT",
+                "KZALM",
+                "KZATY",
+                "KZZAP",
+                "KZZHA",
+                "KZKAR",
+                "KZKUS",
+                "KZKZY",
+                "KZMAN",
+                "KZONT",
+                "KZPAV",
+                "KZSEV",
+                "KZVOS",
+                "KZNS",
+                "KZALA",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "integer"
           }
         ]
       }

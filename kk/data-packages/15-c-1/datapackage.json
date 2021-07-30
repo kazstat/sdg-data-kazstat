@@ -11,17 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Жайық таралымдары",
-                "Үстірт таралымдары",
-                "Бетпақдала таралымдары"
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -29,14 +21,22 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Жайық таралымдары",
+                "Үстірт таралымдары",
+                "Бетпақдала таралымдары",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

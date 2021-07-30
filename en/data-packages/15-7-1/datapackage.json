@@ -11,18 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Argali (latin: Ovis ammon)",
-                "The Bactrian deer (latin: Cervus elaphus bactrianus)",
-                "Goitered gazelle (latin: Gazella subgutturosa)",
-                "Onager (latin Equus hemionus)"
-              ]
-            },
-            "title": "Composite breakdown"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -30,14 +21,23 @@
             "title": "Unit of measure"
           },
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The Bactrian deer (latin: Cervus elaphus bactrianus)",
+                "Goitered gazelle (latin: Gazella subgutturosa)",
+                "Onager (latin Equus hemionus)",
+                "Argali (latin: Ovis ammon)",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

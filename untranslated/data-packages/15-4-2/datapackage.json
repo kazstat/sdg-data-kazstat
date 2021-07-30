@@ -11,33 +11,33 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "KZAKM",
-                "KZALM",
-                "KZKAR",
-                "KZPAV",
-                "KZSEV",
-                "KZVOS",
-                "KZYUZ",
-                "KZZHA"
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KZAKM",
+                "KZALM",
+                "KZZHA",
+                "KZKAR",
+                "KZPAV",
+                "KZSEV",
+                "KZYUZ",
+                "KZVOS",
+                ""
+              ]
+            }
           },
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

@@ -11,12 +11,12 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

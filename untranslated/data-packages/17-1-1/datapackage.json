@@ -11,39 +11,39 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_BI_CIT",
-                "_L_BI_CLT",
-                "_L_BI_ET",
-                "_L_BI_GBT",
-                "_L_BI_GOVT",
-                "_L_BI_IIT",
-                "_L_BI_ITFOT",
-                "_L_BI_LT",
-                "_L_BI_PT",
-                "_L_BI_RFT",
-                "_L_BI_RRT",
-                "_L_BI_SST",
-                "_L_BI_VAT",
-                "_L_BI_VT"
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_BI_CIT",
+                "_L_BI_IIT",
+                "_L_BI_SST",
+                "_L_BI_PT",
+                "_L_BI_LT",
+                "_L_BI_VT",
+                "_L_BI_CLT",
+                "_L_BI_VAT",
+                "_L_BI_RRT",
+                "_L_BI_RFT",
+                "_L_BI_GBT",
+                "_L_BI_ITFOT",
+                "_L_BI_ET",
+                "_L_BI_GOVT",
+                ""
+              ]
+            }
           },
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

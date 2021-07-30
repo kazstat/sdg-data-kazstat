@@ -11,45 +11,48 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "M25T28",
-                "M29T34",
-                "Y15",
-                "Y16T24",
-                "Y35T44",
-                "Y45T54",
-                "Y55T64"
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "KZAKM",
                 "KZAKT",
-                "KZALA",
                 "KZALM",
                 "KZATY",
+                "KZZAP",
+                "KZZHA",
                 "KZKAR",
                 "KZKUS",
                 "KZKZY",
                 "KZMAN",
-                "KZNS",
                 "KZONT",
                 "KZPAV",
                 "KZSEV",
-                "KZSHY",
                 "KZVOS",
+                "KZNS",
+                "KZALA",
                 "KZYUZ",
-                "KZZAP",
-                "KZZHA"
+                "KZSHY",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
               ]
             }
           },
@@ -58,34 +61,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "M",
                 "F",
-                "M"
+                ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "URBANISATION",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "R",
-                "U"
+                "Y15",
+                "Y16T24",
+                "M25T28",
+                "M29T34",
+                "Y35T44",
+                "Y45T54",
+                "Y55T64",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "integer"
           }
         ]
       }

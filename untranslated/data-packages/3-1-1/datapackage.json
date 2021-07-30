@@ -11,39 +11,39 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "KZAKM",
                 "KZAKT",
-                "KZALA",
                 "KZALM",
                 "KZATY",
+                "KZZAP",
+                "KZZHA",
                 "KZKAR",
                 "KZKUS",
                 "KZKZY",
                 "KZMAN",
-                "KZNS",
                 "KZONT",
                 "KZPAV",
                 "KZSEV",
-                "KZSHY",
                 "KZVOS",
+                "KZNS",
+                "KZALA",
+                "KZAKM",
                 "KZYUZ",
-                "KZZAP",
-                "KZZHA"
+                "KZSHY",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "integer"
           }
         ]
       }

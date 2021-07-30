@@ -11,28 +11,28 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_PRSP_ARG",
-                "_L_PRSP_BCR_DR",
-                "_L_PRSP_GTRG",
-                "_L_PRSP_ONGR"
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "Value",
-            "type": "integer"
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_PRSP_BCR_DR",
+                "_L_PRSP_GTRG",
+                "_L_PRSP_ONGR",
+                "_L_PRSP_ARG",
+                ""
+              ]
+            }
           },
           {
-            "name": "Year",
+            "name": "Value",
             "type": "integer"
           }
         ]

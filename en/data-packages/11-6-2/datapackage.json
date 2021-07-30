@@ -11,68 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "city Aksay",
-                "city Aksu",
-                "Aktobe",
-                "village Akay",
-                "Almaty city",
-                "city Arkalık",
-                "city Aktobe",
-                "city Atyrau",
-                "village Beineu",
-                "village Berezovka",
-                "city Balkhash",
-                "SKFM «Borovoe»",
-                "city Ekibastuz",
-                "village Glubokoye",
-                "city Karatau",
-                "Karabalyk",
-                "city Kentau",
-                "Kulsary",
-                "village Kordai",
-                "city Kostanay",
-                "city Karagandy",
-                "City Kokshetau",
-                "city Kyzylorda",
-                "KZLIS",
-                "Nur-Sultan city",
-                "Ontustik Kazakhstan",
-                "city Pavlodar",
-                "city Ridder",
-                "city Rudny",
-                "city Semey",
-                "SHBKZ",
-                "city Shu",
-                "Shymkent city",
-                "village Sarıbulak",
-                "city Saran",
-                "City Stepnogorsk",
-                "city Taldıkorgan",
-                "city Temirtau",
-                "village Toretam",
-                "city Taraz",
-                "city Turkistan",
-                "city Uralsk",
-                "city Ust-Kamenogorsk",
-                "village Yanvartsevo",
-                "city Zhezkazgan",
-                "city Zhanaozen",
-                "city Zhitikara",
-                "city Zhanatas",
-                "city Zyryanovsk"
-              ]
-            },
-            "title": "Regions"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
@@ -80,14 +21,73 @@
             "title": "Unit of measure"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SKFM «Borovoe»",
+                "SHBKZ",
+                "Nur-Sultan city",
+                "City Kokshetau",
+                "city Aktobe",
+                "Almaty city",
+                "city Taldıkorgan",
+                "city Atyrau",
+                "Kulsary",
+                "city Ust-Kamenogorsk",
+                "city Ridder",
+                "city Semey",
+                "city Zyryanovsk",
+                "city Taraz",
+                "city Uralsk",
+                "city Aksay",
+                "city Karagandy",
+                "city Temirtau",
+                "city Kostanay",
+                "city Rudny",
+                "city Arkalık",
+                "city Zhitikara",
+                "KZLIS",
+                "city Kyzylorda",
+                "village Akay",
+                "village Toretam",
+                "city Zhanaozen",
+                "city Pavlodar",
+                "city Ekibastuz",
+                "city Aksu",
+                "Ontustik Kazakhstan",
+                "city Turkistan",
+                "City Stepnogorsk",
+                "village Glubokoye",
+                "city Zhanatas",
+                "city Karatau",
+                "city Shu",
+                "village Kordai",
+                "village Berezovka",
+                "village Yanvartsevo",
+                "city Balkhash",
+                "city Zhezkazgan",
+                "city Saran",
+                "Karabalyk",
+                "Aktobe",
+                "village Beineu",
+                "Shymkent city",
+                "city Kentau",
+                "village Sarıbulak",
+                ""
+              ]
+            },
+            "title": "Regions"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

@@ -11,20 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           }
         ]
       }
