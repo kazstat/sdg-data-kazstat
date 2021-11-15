@@ -161,3 +161,8 @@ Year,UNIT_MEASURE,SERIES,Area,Sex,Age,Value
 2020,Percent,_L_KZ_160104_1D,urban,,,0.6
 2020,Percent,_L_KZ_160104_1E,urban,,,0.6
 2020,Percent,,rural,,,100.0
+2020,Percent,Total security,rural,,,67.1
+2020,Percent,Relatively safe,rural,,,30.0
+2020,Percent,Not safe,rural,,,1.7
+2020,Percent,_L_KZ_160104_1D,rural,,,0.5
+2020,Percent,_L_KZ_160104_1E,rural,,,0.6

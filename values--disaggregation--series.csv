@@ -1,7 +1,4 @@
 Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
-AG_LND_FRSTBIOM,Запасы наземной биомассы в лесах,AG_LND_FRSTBIOM,Above-ground biomass in forest (tonnes) [15.2.1],15,1
-AG_LND_FRSTMGT,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",AG_LND_FRSTMGT,Proportion of forest area with a long-term management plan [15.2.1],15,1
-AG_LND_FRSTPRCT,"Доля лесной площади, находящейся в охраняемых законом зонах",AG_LND_FRSTPRCT,Proportion of forest area within legally established protected areas [15.2.1],15,1
 _L_KZ_010101_1A,"1,9 долларов США по ППС в  день","Күніне САҚП бойынша 1,9 АҚШ доллары",1.9 US dollars per day (based on PPP),33,1
 _L_KZ_010101_1B,"3,2 долларов США по ППС в  день","Күніне САҚП бойынша 3,2 АҚШ доллары",3.2 US dollars per day (based on PPP),55,1
 _L_KZ_010101_1C,"5,5 долларов США по ППС в  день","Күніне САҚП бойынша 5,5 АҚШ доллары",5.5 US dollars per day (based on PPP),56,1
@@ -78,6 +75,9 @@ _L_KZ_171201_1A,наименее развитых стран,аз дамыған
 _L_KZ_171201_1B,развивающихся стран,дамушы елдер,developing countries,1,1
 _L_KZ_DD_MSD,умеренная и сильная степень отклонения от нормы,қалыпты және қатал ауытқушылық,Rate of deviation from the norm (moderate and strong),58,2
 _L_KZ_DD_SDD,сильная степень отклонения от нормы,нормадан күшті ауытқу,Strong deviation from the norm,58,2
+AG_LND_FRSTBIOM,Запасы наземной биомассы в лесах,AG_LND_FRSTBIOM,Above-ground biomass in forest (tonnes) [15.2.1],15,1
+AG_LND_FRSTMGT,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",AG_LND_FRSTMGT,Proportion of forest area with a long-term management plan [15.2.1],15,1
+AG_LND_FRSTPRCT,"Доля лесной площади, находящейся в охраняемых законом зонах",AG_LND_FRSTPRCT,Proportion of forest area within legally established protected areas [15.2.1],15,1
 SD_XPD_ESED,Образование,SD_XPD_ESED,"Proportion of total government spending on essential services, education [1.a.2]",1,1
 SE_ACS_H2O,базовыми источниками питьевой воды,базалық ауыз су көздерімен,sources of drinking water,1,1
 SE_ACS_INTNT,доступом к Интернету для учебных целей,Оқу мақсаттары үшін Интернетке қол жетімділікпен,access to the internet for education purposes,51,1

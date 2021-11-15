@@ -1,9 +1,0 @@
-Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
-AGG_5T8,высшее,жоғары,Higher education,3,3
-ISCED11_0,в дошкольных учреждениях,мектепке дейінгі мекемелерде,Early childhood education,19,1
-ISCED11_1,начальное образование,бастауыш/толық емес орта,Elementary education/ High education (incomplete),23,4
-ISCED11_2,основное среднее образование,толық емес орта,High Education (Incomplete),20,1
-ISCED11_25_35_45,техническое и профессиональное,техникалық және кәсіби,Community College and Vocational type of Education,3,3
-ISCED11_3,среднее образование,орта,secondary (high school),21,2
-ISCED11_34,общее среднее образование,орташа жалпы,High Education (General),4,4
-_L_EDU_BS_MS,основное среднее,негізгі орта,basic secondary (middle-school),3,3
