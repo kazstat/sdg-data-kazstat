@@ -166,3 +166,9 @@ Year,UNIT_MEASURE,SERIES,Area,Sex,Age,Value
 2020,Percent,Not safe,rural,,,1.7
 2020,Percent,_L_KZ_160104_1D,rural,,,0.5
 2020,Percent,_L_KZ_160104_1E,rural,,,0.6
+2020,Percent,,,Male,,100.0
+2020,Percent,Total security,,Male,,63.4
+2020,Percent,Relatively safe,,Male,,33.5
+2020,Percent,Not safe,,Male,,2.2
+2020,Percent,_L_KZ_160104_1D,,Male,,0.5
+2020,Percent,_L_KZ_160104_1E,,Male,,0.4
