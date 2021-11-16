@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1637053431</mes:ID>
+    <mes:ID>IREF1637054919</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-11-16T09:03:51</mes:Prepared>
+    <mes:Prepared>2021-11-16T09:28:39</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@130"/>
   </mes:Header>
   <mes:Structures>
@@ -62,6 +62,9 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
         </str:Agency>
         <str:Agency id="IAEG-SDGs" urn="urn:sdmx:org.sdmx.infomodel.base.Agency=IAEG-SDGs">
           <com:Description xml:lang="en">The United Nations Statistical Commission created the Inter-agency and Expert Group on SDG Indicators (IAEG-SDGs), composed of Member States and including regional and international agencies as observers. The IAEG-SDGs was tasked to develop and implement the global indicator framework for the Goals and targets of the 2030 Agenda. The global indicator framework was developed by the IAEG-SDGs and agreed upon, including refinements on several indicators, at the 48th session of the United Nations Statistical Commission held in March 2017. The global indicator framework was subsequently adopted by the General Assembly on 6 July 2017 and is contained in the Resolution adopted by the General Assembly on Work of the Statistical Commission pertaining to the 2030 Agenda for Sustainable Development (A/RES/71/313)</com:Description>
+        </str:Agency>
+        <str:Agency id="RU1" urn="urn:sdmx:org.sdmx.infomodel.base.Agency=RU1">
+          <com:Name xml:lang="en">Russian State Statistics Service</com:Name>
         </str:Agency>
       </str:AgencyScheme>
     </str:OrganisationSchemes>
