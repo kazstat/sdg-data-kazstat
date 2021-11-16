@@ -202,3 +202,9 @@ Year,UNIT_MEASURE,SERIES,Area,Sex,Age,Value
 2020,Percent,Not safe,,,30-34,1.9
 2020,Percent,_L_KZ_160104_1D,,,30-34,0.6
 2020,Percent,_L_KZ_160104_1E,,,30-34,0.4
+2020,Percent,,,,35-39,100.0
+2020,Percent,Total security,,,35-39,58.6
+2020,Percent,Relatively safe,,,35-39,38.8
+2020,Percent,Not safe,,,35-39,1.7
+2020,Percent,_L_KZ_160104_1D,,,35-39,0.6
+2020,Percent,_L_KZ_160104_1E,,,35-39,0.4
