@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1640001581</mes:ID>
+    <mes:ID>IREF1640002044</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2021-12-20T11:59:41</mes:Prepared>
+    <mes:Prepared>2021-12-20T12:07:24</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@130"/>
   </mes:Header>
   <mes:Structures>
@@ -4538,6 +4538,11 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="ru">0.0</com:Name>
           <com:Name xml:lang="en">0.0</com:Name>
           <com:Name xml:lang="kk">0.0</com:Name>
+        </str:Code>
+        <str:Code id="KZAP">
+          <com:Name xml:lang="ru">KZAP</com:Name>
+          <com:Name xml:lang="en">KZAP</com:Name>
+          <com:Name xml:lang="kk">KZAP</com:Name>
         </str:Code>
         <str:Code id="KZONT">
           <com:Name xml:lang="ru">Южно-Казахстанская</com:Name>
