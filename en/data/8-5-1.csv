@@ -483,3 +483,248 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,Value
 2019,Percent,health care and social care,,Female,,663.0
 2019,Percent,"culture, entertainment and leisure",,Female,,573.0
 2019,Percent,provision of other types of services,,Female,,1520.0
+2020,Percent,,,,,1187.0
+2020,Percent,,Akmola,,,939.0
+2020,Percent,,Aktobe,,,999.0
+2020,Percent,,Almaty,,,948.0
+2020,Percent,,Atyrau,,,1967.0
+2020,Percent,,Batys Kazakhstan,,,1110.0
+2020,Percent,,Zhambyl,,,829.0
+2020,Percent,,Karagandy,,,1140.0
+2020,Percent,,Kostanay,,,924.0
+2020,Percent,,Kyzylorda,,,976.0
+2020,Percent,,Mangistau,,,1697.0
+2020,Percent,,Pavlodar,,,1038.0
+2020,Percent,,Soltustik Kazakhstan,,,851.0
+2020,Percent,,Turkistan,,,858.0
+2020,Percent,,Shygys Kazakhstan,,,1082.0
+2020,Percent,,Nur-Sultan city,,,1633.0
+2020,Percent,,Almaty city,,,1461.0
+2020,Percent,,Shymkent city,,,970.0
+2020,Percent,,,Male,,1339.0
+2020,Percent,,Akmola,Male,,998.0
+2020,Percent,,Aktobe,Male,,1146.0
+2020,Percent,,Almaty,Male,,974.0
+2020,Percent,,Atyrau,Male,,2373.0
+2020,Percent,,Batys Kazakhstan,Male,,1289.0
+2020,Percent,,Zhambyl,Male,,865.0
+2020,Percent,,Karagandy,Male,,1311.0
+2020,Percent,,Kostanay,Male,,1008.0
+2020,Percent,,Kyzylorda,Male,,978.0
+2020,Percent,,Mangistau,Male,,2113.0
+2020,Percent,,Pavlodar,Male,,1137.0
+2020,Percent,,Soltustik Kazakhstan,Male,,896.0
+2020,Percent,,Turkistan,Male,,913.0
+2020,Percent,,Shygys Kazakhstan,Male,,1171.0
+2020,Percent,,Nur-Sultan city,Male,,1817.0
+2020,Percent,,Almaty city,Male,,1577.0
+2020,Percent,,Shymkent city,Male,,1012.0
+2020,Percent,,,Female,,1037.0
+2020,Percent,,Akmola,Female,,881.0
+2020,Percent,,Aktobe,Female,,844.0
+2020,Percent,,Almaty,Female,,930.0
+2020,Percent,,Atyrau,Female,,1394.0
+2020,Percent,,Batys Kazakhstan,Female,,923.0
+2020,Percent,,Zhambyl,Female,,799.0
+2020,Percent,,Karagandy,Female,,947.0
+2020,Percent,,Kostanay,Female,,837.0
+2020,Percent,,Kyzylorda,Female,,974.0
+2020,Percent,,Mangistau,Female,,1184.0
+2020,Percent,,Pavlodar,Female,,922.0
+2020,Percent,,Soltustik Kazakhstan,Female,,807.0
+2020,Percent,,Turkistan,Female,,821.0
+2020,Percent,,Shygys Kazakhstan,Female,,981.0
+2020,Percent,,Nur-Sultan city,Female,,1454.0
+2020,Percent,,Almaty city,Female,,1352.0
+2020,Percent,,Shymkent city,Female,,938.0
+2020,Percent,,,,16-24,800.0
+2020,Percent,,,,25-28,1008.0
+2020,Percent,,,,29-34,1198.0
+2020,Percent,,,,35-44,1312.0
+2020,Percent,,,,45-54,1220.0
+2020,Percent,,,,55-64,1137.0
+2020,Percent,,,,65 and older,1329.0
+2020,Percent,,Akmola,,16-24,709.0
+2020,Percent,,Akmola,,25-28,847.0
+2020,Percent,,Akmola,,29-34,943.0
+2020,Percent,,Akmola,,35-44,1050.0
+2020,Percent,,Akmola,,45-54,947.0
+2020,Percent,,Akmola,,55-64,869.0
+2020,Percent,,Akmola,,65 and older,835.0
+2020,Percent,,Aktobe,,16-24,706.0
+2020,Percent,,Aktobe,,25-28,886.0
+2020,Percent,,Aktobe,,29-34,1009.0
+2020,Percent,,Aktobe,,35-44,1058.0
+2020,Percent,,Aktobe,,45-54,1004.0
+2020,Percent,,Aktobe,,55-64,1036.0
+2020,Percent,,Aktobe,,65 and older,1040.0
+2020,Percent,,Almaty,,16-24,724.0
+2020,Percent,,Almaty,,25-28,829.0
+2020,Percent,,Almaty,,29-34,959.0
+2020,Percent,,Almaty,,35-44,1031.0
+2020,Percent,,Almaty,,45-54,947.0
+2020,Percent,,Almaty,,55-64,923.0
+2020,Percent,,Almaty,,65 and older,955.0
+2020,Percent,,Atyrau,,16-24,1051.0
+2020,Percent,,Atyrau,,25-28,1544.0
+2020,Percent,,Atyrau,,29-34,1930.0
+2020,Percent,,Atyrau,,35-44,2066.0
+2020,Percent,,Atyrau,,45-54,2258.0
+2020,Percent,,Atyrau,,55-64,2045.0
+2020,Percent,,Atyrau,,65 and older,1153.0
+2020,Percent,,Batys Kazakhstan,,16-24,672.0
+2020,Percent,,Batys Kazakhstan,,25-28,826.0
+2020,Percent,,Batys Kazakhstan,,29-34,1035.0
+2020,Percent,,Batys Kazakhstan,,35-44,1240.0
+2020,Percent,,Batys Kazakhstan,,45-54,1240.0
+2020,Percent,,Batys Kazakhstan,,55-64,1040.0
+2020,Percent,,Batys Kazakhstan,,65 and older,1174.0
+2020,Percent,,Zhambyl,,16-24,628.0
+2020,Percent,,Zhambyl,,25-28,730.0
+2020,Percent,,Zhambyl,,29-34,822.0
+2020,Percent,,Zhambyl,,35-44,851.0
+2020,Percent,,Zhambyl,,45-54,848.0
+2020,Percent,,Zhambyl,,55-64,869.0
+2020,Percent,,Zhambyl,,65 and older,1140.0
+2020,Percent,,Karagandy,,16-24,850.0
+2020,Percent,,Karagandy,,25-28,1041.0
+2020,Percent,,Karagandy,,29-34,1185.0
+2020,Percent,,Karagandy,,35-44,1242.0
+2020,Percent,,Karagandy,,45-54,1131.0
+2020,Percent,,Karagandy,,55-64,1098.0
+2020,Percent,,Karagandy,,65 and older,983.0
+2020,Percent,,Kostanay,,16-24,719.0
+2020,Percent,,Kostanay,,25-28,867.0
+2020,Percent,,Kostanay,,29-34,971.0
+2020,Percent,,Kostanay,,35-44,976.0
+2020,Percent,,Kostanay,,45-54,918.0
+2020,Percent,,Kostanay,,55-64,902.0
+2020,Percent,,Kostanay,,65 and older,910.0
+2020,Percent,,Kyzylorda,,16-24,653.0
+2020,Percent,,Kyzylorda,,25-28,807.0
+2020,Percent,,Kyzylorda,,29-34,977.0
+2020,Percent,,Kyzylorda,,35-44,1035.0
+2020,Percent,,Kyzylorda,,45-54,1020.0
+2020,Percent,,Kyzylorda,,55-64,990.0
+2020,Percent,,Kyzylorda,,65 and older,1696.0
+2020,Percent,,Mangistau,,16-24,757.0
+2020,Percent,,Mangistau,,25-28,1025.0
+2020,Percent,,Mangistau,,29-34,1525.0
+2020,Percent,,Mangistau,,35-44,1896.0
+2020,Percent,,Mangistau,,45-54,1886.0
+2020,Percent,,Mangistau,,55-64,1969.0
+2020,Percent,,Mangistau,,65 and older,1391.0
+2020,Percent,,Pavlodar,,16-24,795.0
+2020,Percent,,Pavlodar,,25-28,960.0
+2020,Percent,,Pavlodar,,29-34,1039.0
+2020,Percent,,Pavlodar,,35-44,1133.0
+2020,Percent,,Pavlodar,,45-54,1038.0
+2020,Percent,,Pavlodar,,55-64,987.0
+2020,Percent,,Pavlodar,,65 and older,1101.0
+2020,Percent,,Soltustik Kazakhstan,,16-24,674.0
+2020,Percent,,Soltustik Kazakhstan,,25-28,786.0
+2020,Percent,,Soltustik Kazakhstan,,29-34,865.0
+2020,Percent,,Soltustik Kazakhstan,,35-44,893.0
+2020,Percent,,Soltustik Kazakhstan,,45-54,862.0
+2020,Percent,,Soltustik Kazakhstan,,55-64,825.0
+2020,Percent,,Soltustik Kazakhstan,,65 and older,951.0
+2020,Percent,,Turkistan,,16-24,600.0
+2020,Percent,,Turkistan,,25-28,676.0
+2020,Percent,,Turkistan,,29-34,814.0
+2020,Percent,,Turkistan,,35-44,893.0
+2020,Percent,,Turkistan,,45-54,907.0
+2020,Percent,,Turkistan,,55-64,919.0
+2020,Percent,,Turkistan,,65 and older,1372.0
+2020,Percent,,Shygys Kazakhstan,,16-24,805.0
+2020,Percent,,Shygys Kazakhstan,,25-28,979.0
+2020,Percent,,Shygys Kazakhstan,,29-34,1134.0
+2020,Percent,,Shygys Kazakhstan,,35-44,1160.0
+2020,Percent,,Shygys Kazakhstan,,45-54,1107.0
+2020,Percent,,Shygys Kazakhstan,,55-64,997.0
+2020,Percent,,Shygys Kazakhstan,,65 and older,1188.0
+2020,Percent,,Nur-Sultan city,,16-24,915.0
+2020,Percent,,Nur-Sultan city,,25-28,1290.0
+2020,Percent,,Nur-Sultan city,,29-34,1617.0
+2020,Percent,,Nur-Sultan city,,35-44,1892.0
+2020,Percent,,Nur-Sultan city,,45-54,1741.0
+2020,Percent,,Nur-Sultan city,,55-64,1625.0
+2020,Percent,,Nur-Sultan city,,65 and older,1646.0
+2020,Percent,,Almaty city,,16-24,848.0
+2020,Percent,,Almaty city,,25-28,1159.0
+2020,Percent,,Almaty city,,29-34,1483.0
+2020,Percent,,Almaty city,,35-44,1788.0
+2020,Percent,,Almaty city,,45-54,1535.0
+2020,Percent,,Almaty city,,55-64,1299.0
+2020,Percent,,Almaty city,,65 and older,1524.0
+2020,Percent,,Shymkent city,,16-24,743.0
+2020,Percent,,Shymkent city,,25-28,873.0
+2020,Percent,,Shymkent city,,29-34,928.0
+2020,Percent,,Shymkent city,,35-44,1014.0
+2020,Percent,,Shymkent city,,45-54,1024.0
+2020,Percent,,Shymkent city,,55-64,991.0
+2020,Percent,,Shymkent city,,65 and older,996.0
+2020,Percent,,,Male,16-24,838.0
+2020,Percent,,,Male,25-28,1074.0
+2020,Percent,,,Male,29-34,1349.0
+2020,Percent,,,Male,35-44,1538.0
+2020,Percent,,,Male,45-54,1417.0
+2020,Percent,,,Male,55-64,1242.0
+2020,Percent,,,Male,65 and older,1468.0
+2020,Percent,,,Female,16-24,757.0
+2020,Percent,,,Female,25-28,923.0
+2020,Percent,,,Female,29-34,1018.0
+2020,Percent,,,Female,35-44,1100.0
+2020,Percent,,,Female,45-54,1072.0
+2020,Percent,,,Female,55-64,1025.0
+2020,Percent,,,Female,65 and older,1147.0
+2020,Percent,No breakdown,,,,1187.0
+2020,Percent,"agriculture, forestry and fishery",,,,769.0
+2020,Percent,Industry,,,,1604.0
+2020,Percent,Construction,,,,1496.0
+2020,Percent,wholesale and retail trade; car and motorcycle repair,,,,1200.0
+2020,Percent,transport and storage,,,,1304.0
+2020,Percent,services (food and dwelling),,,,1749.0
+2020,Percent,information and communication,,,,1681.0
+2020,Percent,finance and insurance,,,,1943.0
+2020,Percent,real estate transactions,,,,1092.0
+2020,Percent,"Professional, scientific and technical activities",,,,1912.0
+2020,Percent,management and support activities,,,,1019.0
+2020,Percent,government administration and defence,,,,909.0
+2020,Percent,education,,,,942.0
+2020,Percent,health care and social care,,,,957.0
+2020,Percent,"culture, entertainment and leisure",,,,840.0
+2020,Percent,provision of other types of services,,,,2061.0
+2020,Percent,No breakdown,,Male,,1339.0
+2020,Percent,"agriculture, forestry and fishery",,Male,,813.0
+2020,Percent,Industry,,Male,,1718.0
+2020,Percent,Construction,,Male,,1521.0
+2020,Percent,wholesale and retail trade; car and motorcycle repair,,Male,,1289.0
+2020,Percent,transport and storage,,Male,,1368.0
+2020,Percent,services (food and dwelling),,Male,,2507.0
+2020,Percent,information and communication,,Male,,1810.0
+2020,Percent,finance and insurance,,Male,,2442.0
+2020,Percent,real estate transactions,,Male,,1063.0
+2020,Percent,"Professional, scientific and technical activities",,Male,,2159.0
+2020,Percent,management and support activities,,Male,,993.0
+2020,Percent,government administration and defence,,Male,,958.0
+2020,Percent,education,,Male,,932.0
+2020,Percent,health care and social care,,Male,,1034.0
+2020,Percent,"culture, entertainment and leisure",,Male,,942.0
+2020,Percent,provision of other types of services,,Male,,2138.0
+2020,Percent,No breakdown,,Female,,1037.0
+2020,Percent,"agriculture, forestry and fishery",,Female,,657.0
+2020,Percent,Industry,,Female,,1315.0
+2020,Percent,Construction,,Female,,1384.0
+2020,Percent,wholesale and retail trade; car and motorcycle repair,,Female,,1113.0
+2020,Percent,transport and storage,,Female,,1142.0
+2020,Percent,services (food and dwelling),,Female,,1192.0
+2020,Percent,information and communication,,Female,,1487.0
+2020,Percent,finance and insurance,,Female,,1633.0
+2020,Percent,real estate transactions,,Female,,1137.0
+2020,Percent,"Professional, scientific and technical activities",,Female,,1573.0
+2020,Percent,management and support activities,,Female,,1109.0
+2020,Percent,government administration and defence,,Female,,824.0
+2020,Percent,education,,Female,,946.0
+2020,Percent,health care and social care,,Female,,929.0
+2020,Percent,"culture, entertainment and leisure",,Female,,749.0
+2020,Percent,provision of other types of services,,Female,,1990.0
