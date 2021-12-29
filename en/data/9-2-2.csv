@@ -1,172 +1,191 @@
 Year,UNIT_MEASURE,Regions,Value
-2010,thousand people,,27532.0
-2010,thousand people,Akmola,3780.0
-2010,thousand people,Aktobe,3033.0
-2010,thousand people,Almaty,1516.0
-2010,thousand people,Atyrau,1536.0
-2010,thousand people,Batys Kazakhstan,1034.0
-2010,thousand people,Zhambyl,2805.0
-2010,thousand people,Karagandy,2163.0
-2010,thousand people,Kostanay,1300.0
-2010,thousand people,Kyzylorda,347.0
-2010,thousand people,Mangistau,1633.0
-2010,thousand people,Ontustik Kazakhstan,2105.0
-2010,thousand people,Pavlodar,2513.0
-2010,thousand people,Soltustik Kazakhstan,935.0
-2010,thousand people,Shygys Kazakhstan,1839.0
-2010,thousand people,Nur-Sultan city,466.0
-2010,thousand people,Almaty city,527.0
-2011,thousand people,,26298.0
-2011,thousand people,Akmola,1870.0
-2011,thousand people,Aktobe,2809.0
-2011,thousand people,Almaty,2746.0
-2011,thousand people,Atyrau,1198.0
-2011,thousand people,Batys Kazakhstan,784.0
-2011,thousand people,Zhambyl,2125.0
-2011,thousand people,Karagandy,1933.0
-2011,thousand people,Kostanay,1881.0
-2011,thousand people,Kyzylorda,767.0
-2011,thousand people,Mangistau,2260.0
-2011,thousand people,Ontustik Kazakhstan,1628.0
-2011,thousand people,Pavlodar,1278.0
-2011,thousand people,Soltustik Kazakhstan,561.0
-2011,thousand people,Shygys Kazakhstan,1293.0
-2011,thousand people,Nur-Sultan city,1059.0
-2011,thousand people,Almaty city,2106.0
-2012,thousand people,,20615.0
-2012,thousand people,Akmola,1090.0
-2012,thousand people,Aktobe,987.0
-2012,thousand people,Almaty,2261.0
-2012,thousand people,Atyrau,695.0
-2012,thousand people,Batys Kazakhstan,756.0
-2012,thousand people,Zhambyl,430.0
-2012,thousand people,Karagandy,1610.0
-2012,thousand people,Kostanay,1528.0
-2012,thousand people,Kyzylorda,315.0
-2012,thousand people,Mangistau,1962.0
-2012,thousand people,Ontustik Kazakhstan,2158.0
-2012,thousand people,Pavlodar,1432.0
-2012,thousand people,Soltustik Kazakhstan,417.0
-2012,thousand people,Shygys Kazakhstan,2042.0
-2012,thousand people,Nur-Sultan city,1328.0
-2012,thousand people,Almaty city,1604.0
-2013,thousand people,,20909.0
-2013,thousand people,Akmola,1033.0
-2013,thousand people,Aktobe,1455.0
-2013,thousand people,Almaty,2539.0
-2013,thousand people,Atyrau,580.0
-2013,thousand people,Batys Kazakhstan,601.0
-2013,thousand people,Zhambyl,838.0
-2013,thousand people,Karagandy,1561.0
-2013,thousand people,Kostanay,1544.0
-2013,thousand people,Kyzylorda,95.0
-2013,thousand people,Mangistau,819.0
-2013,thousand people,Ontustik Kazakhstan,3652.0
-2013,thousand people,Pavlodar,1257.0
-2013,thousand people,Soltustik Kazakhstan,358.0
-2013,thousand people,Shygys Kazakhstan,1878.0
-2013,thousand people,Nur-Sultan city,1165.0
-2013,thousand people,Almaty city,1534.0
-2014,thousand people,,21695.0
-2014,thousand people,Akmola,1446.0
-2014,thousand people,Aktobe,1197.0
-2014,thousand people,Almaty,2020.0
-2014,thousand people,Atyrau,967.0
-2014,thousand people,Batys Kazakhstan,913.0
-2014,thousand people,Zhambyl,1593.0
-2014,thousand people,Karagandy,1637.0
-2014,thousand people,Kostanay,955.0
+2010,thousand people,,27.5
+2010,thousand people,Akmola,3.8
+2010,thousand people,Aktobe,3.0
+2010,thousand people,Almaty,1.5
+2010,thousand people,Atyrau,1.5
+2010,thousand people,Batys Kazakhstan,1.0
+2010,thousand people,Zhambyl,2.8
+2010,thousand people,Karagandy,2.2
+2010,thousand people,Kostanay,1.3
+2010,thousand people,Kyzylorda,0.3
+2010,thousand people,Mangistau,1.6
+2010,thousand people,Ontustik Kazakhstan,2.1
+2010,thousand people,Pavlodar,2.5
+2010,thousand people,Soltustik Kazakhstan,0.9
+2010,thousand people,Shygys Kazakhstan,1.8
+2010,thousand people,Nur-Sultan city,0.5
+2010,thousand people,Almaty city,0.5
+2011,thousand people,,26.3
+2011,thousand people,Akmola,1.9
+2011,thousand people,Aktobe,2.8
+2011,thousand people,Almaty,2.7
+2011,thousand people,Atyrau,1.2
+2011,thousand people,Batys Kazakhstan,0.8
+2011,thousand people,Zhambyl,2.1
+2011,thousand people,Karagandy,1.9
+2011,thousand people,Kostanay,1.9
+2011,thousand people,Kyzylorda,0.8
+2011,thousand people,Mangistau,2.3
+2011,thousand people,Ontustik Kazakhstan,1.6
+2011,thousand people,Pavlodar,1.3
+2011,thousand people,Soltustik Kazakhstan,0.6
+2011,thousand people,Shygys Kazakhstan,1.3
+2011,thousand people,Nur-Sultan city,1.1
+2011,thousand people,Almaty city,2.1
+2012,thousand people,,20.6
+2012,thousand people,Akmola,1.1
+2012,thousand people,Aktobe,1.0
+2012,thousand people,Almaty,2.3
+2012,thousand people,Atyrau,0.7
+2012,thousand people,Batys Kazakhstan,0.8
+2012,thousand people,Zhambyl,0.4
+2012,thousand people,Karagandy,1.6
+2012,thousand people,Kostanay,1.5
+2012,thousand people,Kyzylorda,0.3
+2012,thousand people,Mangistau,2.0
+2012,thousand people,Ontustik Kazakhstan,2.2
+2012,thousand people,Pavlodar,1.4
+2012,thousand people,Soltustik Kazakhstan,0.4
+2012,thousand people,Shygys Kazakhstan,2.0
+2012,thousand people,Nur-Sultan city,1.3
+2012,thousand people,Almaty city,1.6
+2013,thousand people,,20.9
+2013,thousand people,Akmola,1.0
+2013,thousand people,Aktobe,1.5
+2013,thousand people,Almaty,2.5
+2013,thousand people,Atyrau,0.6
+2013,thousand people,Batys Kazakhstan,0.6
+2013,thousand people,Zhambyl,0.8
+2013,thousand people,Karagandy,1.6
+2013,thousand people,Kostanay,1.5
+2013,thousand people,Kyzylorda,0.1
+2013,thousand people,Mangistau,0.8
+2013,thousand people,Ontustik Kazakhstan,3.7
+2013,thousand people,Pavlodar,1.3
+2013,thousand people,Soltustik Kazakhstan,0.4
+2013,thousand people,Shygys Kazakhstan,1.9
+2013,thousand people,Nur-Sultan city,1.2
+2013,thousand people,Almaty city,1.5
+2014,thousand people,,21.7
+2014,thousand people,Akmola,1.4
+2014,thousand people,Aktobe,1.2
+2014,thousand people,Almaty,2.0
+2014,thousand people,Atyrau,1.0
+2014,thousand people,Batys Kazakhstan,0.9
+2014,thousand people,Zhambyl,1.6
+2014,thousand people,Karagandy,1.6
+2014,thousand people,Kostanay,1.0
 2014,thousand people,Kyzylorda,1023.0
-2014,thousand people,Mangistau,1115.0
-2014,thousand people,Ontustik Kazakhstan,3689.0
-2014,thousand people,Pavlodar,1589.0
-2014,thousand people,Soltustik Kazakhstan,635.0
-2014,thousand people,Shygys Kazakhstan,2044.0
-2014,thousand people,Nur-Sultan city,552.0
-2014,thousand people,Almaty city,320.0
-2015,thousand people,,21497.0
-2015,thousand people,Akmola,1971.0
-2015,thousand people,Aktobe,2092.0
-2015,thousand people,Almaty,1709.0
-2015,thousand people,Atyrau,980.0
-2015,thousand people,Batys Kazakhstan,873.0
-2015,thousand people,Zhambyl,1215.0
-2015,thousand people,Karagandy,1549.0
-2015,thousand people,Kostanay,626.0
-2015,thousand people,Kyzylorda,953.0
-2015,thousand people,Mangistau,983.0
-2015,thousand people,Ontustik Kazakhstan,2931.0
-2015,thousand people,Pavlodar,2192.0
-2015,thousand people,Soltustik Kazakhstan,937.0
-2015,thousand people,Shygys Kazakhstan,1452.0
-2015,thousand people,Nur-Sultan city,565.0
-2015,thousand people,Almaty city,469.0
-2016,thousand people,,22102.0
-2016,thousand people,Akmola,1902.0
-2016,thousand people,Aktobe,1154.0
-2016,thousand people,Almaty,1650.0
-2016,thousand people,Atyrau,1435.0
-2016,thousand people,Batys Kazakhstan,1028.0
-2016,thousand people,Zhambyl,1146.0
-2016,thousand people,Karagandy,2098.0
-2016,thousand people,Kostanay,497.0
-2016,thousand people,Kyzylorda,679.0
-2016,thousand people,Mangistau,883.0
-2016,thousand people,Ontustik Kazakhstan,1908.0
-2016,thousand people,Pavlodar,1324.0
-2016,thousand people,Soltustik Kazakhstan,869.0
-2016,thousand people,Shygys Kazakhstan,1049.0
-2016,thousand people,Nur-Sultan city,494.0
-2016,thousand people,Almaty city,3986.0
-2017,thousand people,,17902.0
-2017,thousand people,Akmola,1819.0
-2017,thousand people,Aktobe,746.0
-2017,thousand people,Almaty,1270.0
-2017,thousand people,Atyrau,744.0
-2017,thousand people,Batys Kazakhstan,1036.0
-2017,thousand people,Zhambyl,1416.0
-2017,thousand people,Karagandy,601.0
-2017,thousand people,Kostanay,394.0
-2017,thousand people,Kyzylorda,145.0
-2017,thousand people,Mangistau,853.0
-2017,thousand people,Ontustik Kazakhstan,2860.0
-2017,thousand people,Pavlodar,1055.0
-2017,thousand people,Soltustik Kazakhstan,380.0
-2017,thousand people,Shygys Kazakhstan,3278.0
-2017,thousand people,Nur-Sultan city,230.0
-2017,thousand people,Almaty city,1075.0
-2018,thousand people,,16793.0
-2018,thousand people,Akmola,1546.0
-2018,thousand people,Aktobe,538.0
-2018,thousand people,Almaty,866.0
-2018,thousand people,Atyrau,362.0
-2018,thousand people,Batys Kazakhstan,497.0
-2018,thousand people,Zhambyl,1091.0
-2018,thousand people,Karagandy,989.0
-2018,thousand people,Kostanay,378.0
-2018,thousand people,Kyzylorda,486.0
-2018,thousand people,Mangistau,120.0
-2018,thousand people,Pavlodar,1436.0
-2018,thousand people,Soltustik Kazakhstan,162.0
-2018,thousand people,Turkistan,1135.0
-2018,thousand people,Shygys Kazakhstan,1676.0
-2018,thousand people,Nur-Sultan city,91.0
-2018,thousand people,Almaty city,4100.0
-2018,thousand people,Shymkent city,1320.0
-2019,thousand people,,6152.0
-2019,thousand people,Akmola,139.0
-2019,thousand people,Aktobe,80.0
-2019,thousand people,Almaty,973.0
-2019,thousand people,Atyrau,113.0
-2019,thousand people,Zhambyl,127.0
-2019,thousand people,Karagandy,881.0
-2019,thousand people,Kostanay,550.0
-2019,thousand people,Kyzylorda,105.0
-2019,thousand people,Mangistau,40.0
-2019,thousand people,Pavlodar,95.0
-2019,thousand people,Soltustik Kazakhstan,158.0
-2019,thousand people,Turkistan,541.0
-2019,thousand people,Shygys Kazakhstan,480.0
-2019,thousand people,Nur-Sultan city,75.0
-2019,thousand people,Almaty city,1225.0
-2019,thousand people,Shymkent city,570.0
+2014,thousand people,Mangistau,1.0
+2014,thousand people,Ontustik Kazakhstan,3.7
+2014,thousand people,Pavlodar,1.6
+2014,thousand people,Soltustik Kazakhstan,0.6
+2014,thousand people,Shygys Kazakhstan,2.0
+2014,thousand people,Nur-Sultan city,0.6
+2014,thousand people,Almaty city,0.3
+2015,thousand people,,21.5
+2015,thousand people,Akmola,2.0
+2015,thousand people,Aktobe,2.1
+2015,thousand people,Almaty,1.7
+2015,thousand people,Atyrau,1.0
+2015,thousand people,Batys Kazakhstan,0.9
+2015,thousand people,Zhambyl,1.2
+2015,thousand people,Karagandy,1.5
+2015,thousand people,Kostanay,0.6
+2015,thousand people,Kyzylorda,1.0
+2015,thousand people,Mangistau,1.0
+2015,thousand people,Ontustik Kazakhstan,2.9
+2015,thousand people,Pavlodar,2.2
+2015,thousand people,Soltustik Kazakhstan,0.9
+2015,thousand people,Shygys Kazakhstan,1.5
+2015,thousand people,Nur-Sultan city,0.6
+2015,thousand people,Almaty city,0.5
+2016,thousand people,,22.1
+2016,thousand people,Akmola,1.9
+2016,thousand people,Aktobe,1.2
+2016,thousand people,Almaty,1.7
+2016,thousand people,Atyrau,1.4
+2016,thousand people,Batys Kazakhstan,1.0
+2016,thousand people,Zhambyl,1.1
+2016,thousand people,Karagandy,2.1
+2016,thousand people,Kostanay,0.5
+2016,thousand people,Kyzylorda,0.7
+2016,thousand people,Mangistau,0.9
+2016,thousand people,Ontustik Kazakhstan,1.9
+2016,thousand people,Pavlodar,1.3
+2016,thousand people,Soltustik Kazakhstan,0.9
+2016,thousand people,Shygys Kazakhstan,1.0
+2016,thousand people,Nur-Sultan city,0.5
+2016,thousand people,Almaty city,4.0
+2017,thousand people,,17.9
+2017,thousand people,Akmola,1.8
+2017,thousand people,Aktobe,0.7
+2017,thousand people,Almaty,1.3
+2017,thousand people,Atyrau,0.7
+2017,thousand people,Batys Kazakhstan,1.0
+2017,thousand people,Zhambyl,1.4
+2017,thousand people,Karagandy,0.6
+2017,thousand people,Kostanay,0.4
+2017,thousand people,Kyzylorda,0.1
+2017,thousand people,Mangistau,0.9
+2017,thousand people,Ontustik Kazakhstan,2.9
+2017,thousand people,Pavlodar,1.1
+2017,thousand people,Soltustik Kazakhstan,0.4
+2017,thousand people,Shygys Kazakhstan,3.3
+2017,thousand people,Nur-Sultan city,0.2
+2017,thousand people,Almaty city,1.1
+2018,thousand people,,16.8
+2018,thousand people,Akmola,1.5
+2018,thousand people,Aktobe,0.5
+2018,thousand people,Almaty,0.9
+2018,thousand people,Atyrau,0.4
+2018,thousand people,Batys Kazakhstan,0.5
+2018,thousand people,Zhambyl,1.1
+2018,thousand people,Karagandy,1.0
+2018,thousand people,Kostanay,0.4
+2018,thousand people,Kyzylorda,0.5
+2018,thousand people,Mangistau,0.1
+2018,thousand people,Pavlodar,1.4
+2018,thousand people,Soltustik Kazakhstan,0.2
+2018,thousand people,Turkistan,1.1
+2018,thousand people,Shygys Kazakhstan,1.7
+2018,thousand people,Nur-Sultan city,0.1
+2018,thousand people,Almaty city,4.1
+2018,thousand people,Shymkent city,1.3
+2019,thousand people,,6.2
+2019,thousand people,Akmola,0.1
+2019,thousand people,Aktobe,0.1
+2019,thousand people,Almaty,1.0
+2019,thousand people,Atyrau,0.1
+2019,thousand people,Batys Kazakhstan,0.0
+2019,thousand people,Zhambyl,0.1
+2019,thousand people,Karagandy,0.9
+2019,thousand people,Kostanay,0.6
+2019,thousand people,Kyzylorda,0.1
+2019,thousand people,Mangistau,0.0
+2019,thousand people,Pavlodar,0.1
+2019,thousand people,Soltustik Kazakhstan,0.2
+2019,thousand people,Turkistan,0.5
+2019,thousand people,Shygys Kazakhstan,0.5
+2019,thousand people,Nur-Sultan city,0.1
+2019,thousand people,Almaty city,1.2
+2019,thousand people,Shymkent city,0.6
+2020,thousand people,,18.7
+2020,thousand people,Akmola,1.2
+2020,thousand people,Aktobe,1.2
+2020,thousand people,Almaty,2.8
+2020,thousand people,Atyrau,0.6
+2020,thousand people,Batys Kazakhstan,0.3
+2020,thousand people,Zhambyl,1.4
+2020,thousand people,Karagandy,2.5
+2020,thousand people,Kostanay,0.4
+2020,thousand people,Kyzylorda,0.3
+2020,thousand people,Mangistau,0.3
+2020,thousand people,Pavlodar,0.2
+2020,thousand people,Soltustik Kazakhstan,1.2
+2020,thousand people,Turkistan,1.5
+2020,thousand people,Shygys Kazakhstan,0.4
+2020,thousand people,Nur-Sultan city,0.9
+2020,thousand people,Almaty city,2.3
+2020,thousand people,Shymkent city,1.2
