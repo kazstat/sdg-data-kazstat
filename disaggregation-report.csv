@@ -6,6 +6,6 @@ EDUCATION_LEV,образование матери,ана білімі,Mother's e
 INCOME_WEALTH_QUANTILE,квинтиль индекса благосостояния,Квинтильді әл-ауқат индексі,Wealth index quintile,3,5
 REF_AREA,Регионы,Өңірлер,Regions,69,64
 SERIES,SERIES,SERIES,SDG Series,27,107
-SEX,Пол,Жынысы,Sex,31,3
+SEX,Пол,Жынысы,Sex,31,4
 UNIT_MEASURE,UNIT_MEASURE,UNIT_MEASURE,Unit of measure,179,31
 URBANISATION,Местность,Аймақ,Area,35,2
