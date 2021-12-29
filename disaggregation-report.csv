@@ -1,11 +1,11 @@
 Disaggregation,ru,kk,en,Number of indicators,Number of values
 ACTIVITY,Вид экономической деятельности,Экономикалық қызмет түрлері,Type of economic activity,3,19
 AGE,Возраст,Жасы,Age,18,42
-COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,Composite breakdown,21,78
+COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,Composite breakdown,20,77
 EDUCATION_LEV,образование матери,ана білімі,Mother's education,5,8
 INCOME_WEALTH_QUANTILE,квинтиль индекса благосостояния,Квинтильді әл-ауқат индексі,Wealth index quintile,3,5
 REF_AREA,Регионы,Өңірлер,Regions,69,64
 SERIES,SERIES,SERIES,SDG Series,27,107
 SEX,Пол,Жынысы,Sex,31,4
-UNIT_MEASURE,UNIT_MEASURE,UNIT_MEASURE,Unit of measure,179,31
+UNIT_MEASURE,UNIT_MEASURE,UNIT_MEASURE,Unit of measure,178,31
 URBANISATION,Местность,Аймақ,Area,35,2
