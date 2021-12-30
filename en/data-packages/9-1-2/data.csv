@@ -911,3 +911,102 @@ Year,UNIT_MEASURE,SERIES,Regions,Value
 2019,millions tonnes,_L_KZ_090102_1R,Mangistau,0.8
 2019,millions tonnes,_L_KZ_090102_1S,,0.1
 2019,millions tonnes,_L_KZ_090102_1S,Mangistau,0.1
+2020,millions tonnes,Cargo transported by all means of transport,,3944.8
+2020,millions tonnes,Pipeline,,253.7
+2020,millions tonnes,Railway,,402.3
+2020,millions tonnes,Automobile,,3287.0
+2020,millions tonnes,Air,,0.02
+2020,millions tonnes,Inland water еransport,,0.9
+2020,millions tonnes,,Akmola,134.5
+2020,millions tonnes,,Aktobe,89.6
+2020,millions tonnes,,Almaty,193.6
+2020,millions tonnes,,Atyrau,125.8
+2020,millions tonnes,,Batys Kazakhstan,62.3
+2020,millions tonnes,,Zhambyl,95.6
+2020,millions tonnes,,Karagandy,749.0
+2020,millions tonnes,,Kostanay,318.0
+2020,millions tonnes,,Kyzylorda,87.8
+2020,millions tonnes,,Mangistau,227.5
+2020,millions tonnes,,Pavlodar,105.7
+2020,millions tonnes,,Soltustik Kazakhstan,61.0
+2020,millions tonnes,,Turkistan,83.4
+2020,millions tonnes,,Shygys Kazakhstan,646.7
+2020,millions tonnes,,Nur-Sultan city,141.7
+2020,millions tonnes,,Almaty city,252.3
+2020,millions tonnes,,Shymkent city,116.8
+2020,mln.people,Passengers transported by all means of transport,,8324.0
+2020,mln.people,Railway transport,,13.2
+2020,mln.people,Automobile,,8377.7
+2020,mln.people,Inland water еransport,,0.0397
+2020,mln.people,nautical,,0.04
+2020,mln.people,Air,,5.5
+2020,mln.people,City electric transport,,53.7
+2020,mln.people,,Akmola,540.6
+2020,mln.people,,Aktobe,115.5
+2020,mln.people,,Almaty,379.5
+2020,mln.people,,Atyrau,72.3
+2020,mln.people,,Batys Kazakhstan,144.0
+2020,mln.people,,Zhambyl,449.1
+2020,mln.people,,Karagandy,896.4
+2020,mln.people,,Kostanay,700.1
+2020,mln.people,,Kyzylorda,118.3
+2020,mln.people,,Mangistau,31.4
+2020,mln.people,,Pavlodar,576.3
+2020,mln.people,,Soltustik Kazakhstan,157.2
+2020,mln.people,,Turkistan,346.1
+2020,mln.people,,Shygys Kazakhstan,722.7
+2020,mln.people,,Nur-Sultan city,690.3
+2020,mln.people,,Almaty city,1949.8
+2020,mln.people,,Shymkent city,495.5
+2020,millions tonnes,_L_KZ_090102_1J,,3287.0
+2020,millions tonnes,_L_KZ_090102_1J,Akmola,134.5
+2020,millions tonnes,_L_KZ_090102_1J,Aktobe,82.0
+2020,millions tonnes,_L_KZ_090102_1J,Almaty,191.8
+2020,millions tonnes,_L_KZ_090102_1J,Atyrau,42.7
+2020,millions tonnes,_L_KZ_090102_1J,Batys Kazakhstan,33.1
+2020,millions tonnes,_L_KZ_090102_1J,Zhambyl,94.3
+2020,millions tonnes,_L_KZ_090102_1J,Karagandy,733.3
+2020,millions tonnes,_L_KZ_090102_1J,Kostanay,308.2
+2020,millions tonnes,_L_KZ_090102_1J,Kyzylorda,87.6
+2020,millions tonnes,_L_KZ_090102_1J,Mangistau,207.8
+2020,millions tonnes,_L_KZ_090102_1J,Pavlodar,94.0
+2020,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,50.0
+2020,millions tonnes,_L_KZ_090102_1J,Turkistan,75.9
+2020,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,646.5
+2020,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,141.7
+2020,millions tonnes,_L_KZ_090102_1J,Almaty city,252.3
+2020,millions tonnes,_L_KZ_090102_1J,Shymkent city,111.6
+2020,mln.people,Passengers transported by all means of transport,,8377.7
+2020,mln.people,Passengers transported by all means of transport,Akmola,540.6
+2020,mln.people,Passengers transported by all means of transport,Aktobe,115.5
+2020,mln.people,Passengers transported by all means of transport,Almaty,379.4
+2020,mln.people,Passengers transported by all means of transport,Atyrau,72.3
+2020,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,143.9
+2020,mln.people,Passengers transported by all means of transport,Zhambyl,449.1
+2020,mln.people,Passengers transported by all means of transport,Karagandy,896.4
+2020,mln.people,Passengers transported by all means of transport,Kostanay,700.1
+2020,mln.people,Passengers transported by all means of transport,Kyzylorda,118.3
+2020,mln.people,Passengers transported by all means of transport,Mangistau,31.4
+2020,mln.people,Passengers transported by all means of transport,Pavlodar,576.3
+2020,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,157.2
+2020,mln.people,Passengers transported by all means of transport,Turkistan,346.1
+2020,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,722.7
+2020,mln.people,Passengers transported by all means of transport,Nur-Sultan city,688.2
+2020,mln.people,Passengers transported by all means of transport,Almaty city,1946.1
+2020,mln.people,Passengers transported by all means of transport,Shymkent city,494.1
+2020,tons,transported by air,,23421.6
+2020,tons,transported by air,Almaty city,15819.7
+2020,thousand people,passengers transported by air,,5494.5
+2020,thousand people,passengers transported by air,Almaty,11.8
+2020,thousand people,passengers transported by air,Turkistan,0.0
+2020,thousand people,passengers transported by air,Shygys Kazakhstan,0.0
+2020,thousand people,passengers transported by air,Almaty city,3712.5
+2020,thousand people,passengers transported by air,Shymkent city,1331.8
+2020,millions tonnes,performance indicators of pipeline transport,,253.7
+2020,millions tonnes,performance indicators of pipeline transport,Aktobe,7.6
+2020,millions tonnes,performance indicators of pipeline transport,Atyrau,83.1
+2020,millions tonnes,performance indicators of pipeline transport,Batys Kazakhstan,29.3
+2020,millions tonnes,performance indicators of pipeline transport,Mangistau,18.8
+2020,millions tonnes,performance indicators of pipeline transport,Turkistan,7.5
+2020,millions tonnes,_L_KZ_090102_1S,,0.0
+2020,millions tonnes,_L_KZ_090102_1S,Mangistau,0.0
