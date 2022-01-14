@@ -1,6 +1,15 @@
-? ''
-: ''
-comments_limitations: comments_limitations.8-a-1 
-computation_calculations: computation_calculations.8-a-1 
-computation_definitions: computation_definitions.8-a-1 
-national_indicator_description: national_indicator_description.8-a-1 
+availability: 2
+classification: 4
+comments_limitations: comments_limitations.8-a-1
+computation_calculations: computation_calculations.8-a-1
+computation_definitions: computation_definitions.8-a-1
+customisation: meta.customisation-1
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-0A-01.pdf 
+goal_meta_link_text: https://unstats.un.org/sdgs/metadata/files/Metadata-08-0A-01.pdf
+national_indicator_description: national_indicator_description.8-a-1
+source_active_1: true
+source_compilation_1: sources.8-a-1-source_compilation_1
+source_data_1: null
+source_implementation_1: sources.8-a-1-source_implementation_1
+un_custodian_agency: Organisation for Economic Co-operation and Development (OECD)
+un_designated_tier: '3'
