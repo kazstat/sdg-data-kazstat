@@ -4298,6 +4298,35 @@
             "title": "Unit of measure"
           },
           {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "32.8",
+                "Akmola",
+                "Aktobe",
+                "Almaty",
+                "Atyrau",
+                "Zhambyl",
+                "Batys Kazakhstan",
+                "Karagandy",
+                "Kostanay",
+                "Kyzylorda",
+                "Mangistau",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Turkistan",
+                "Shygys Kazakhstan",
+                "Nur-Sultan city",
+                "Almaty city",
+                "Shymkent city",
+                "41.0",
+                ""
+              ]
+            },
+            "title": "Regions"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

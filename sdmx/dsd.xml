@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1643710743</mes:ID>
+    <mes:ID>IREF1643715005</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2022-02-01T10:19:03</mes:Prepared>
+    <mes:Prepared>2022-02-01T11:30:05</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@130"/>
   </mes:Header>
   <mes:Structures>
@@ -4538,6 +4538,16 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="ru">Жымбылская</com:Name>
           <com:Name xml:lang="en">Zhambyl</com:Name>
           <com:Name xml:lang="kk">Жамбыл</com:Name>
+        </str:Code>
+        <str:Code id="32.8">
+          <com:Name xml:lang="ru">32.8</com:Name>
+          <com:Name xml:lang="en">32.8</com:Name>
+          <com:Name xml:lang="kk">32.8</com:Name>
+        </str:Code>
+        <str:Code id="41.0">
+          <com:Name xml:lang="ru">41.0</com:Name>
+          <com:Name xml:lang="en">41.0</com:Name>
+          <com:Name xml:lang="kk">41.0</com:Name>
         </str:Code>
         <str:Code id="0.0">
           <com:Name xml:lang="ru">0.0</com:Name>

@@ -3926,6 +3926,34 @@
             "type": "string"
           },
           {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "32.8",
+                "KZAKM",
+                "KZAKT",
+                "KZALM",
+                "KZATY",
+                "KZZHA",
+                "KZZAP",
+                "KZKAR",
+                "KZKUS",
+                "KZKZY",
+                "KZMAN",
+                "KZPAV",
+                "KZSEV",
+                "KZYUZ",
+                "KZVOS",
+                "KZNS",
+                "KZALA",
+                "KZSHY",
+                "41.0",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
