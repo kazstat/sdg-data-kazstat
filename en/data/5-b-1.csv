@@ -232,205 +232,205 @@ Year,UNIT_MEASURE,Area,Sex,Regions,Value
 2017,Percent,urban,Female,Kyzylorda,88.3
 2017,Percent,rural,,Kyzylorda,78.7
 2017,Percent,rural,Male,Kyzylorda,78.2
-2017,Percent,rural,Female,Kyzylorda,79.17097937526557
-2017,Percent,,,Mangistau,89.32530438872314
-2017,Percent,,Male,Mangistau,90.89692902145724
-2017,Percent,,Female,Mangistau,87.78770379875952
-2017,Percent,urban,,Mangistau,92.89004149832408
-2017,Percent,urban,Male,Mangistau,93.38246313061416
-2017,Percent,urban,Female,Mangistau,92.40277214422476
-2017,Percent,rural,,Mangistau,86.72806378656036
-2017,Percent,rural,Male,Mangistau,89.06792249661069
-2017,Percent,rural,Female,Mangistau,84.4577456367264
-2017,Percent,,,Pavlodar,86.54084226572034
-2017,Percent,,Male,Pavlodar,86.99817883209961
-2017,Percent,,Female,Pavlodar,86.13836373801587
-2017,Percent,urban,,Pavlodar,89.25920051254778
-2017,Percent,urban,Male,Pavlodar,90.303700568443
-2017,Percent,urban,Female,Pavlodar,88.38515691796773
-2017,Percent,rural,,Pavlodar,79.9411031826934
-2017,Percent,rural,Male,Pavlodar,79.66393512978587
-2017,Percent,rural,Female,Pavlodar,80.21661447040873
-2017,Percent,,,Soltustik Kazakhstan,83.52932342704908
-2017,Percent,,Male,Soltustik Kazakhstan,85.53098182476407
-2017,Percent,,Female,Soltustik Kazakhstan,81.72498382225058
-2017,Percent,urban,,Soltustik Kazakhstan,86.47535573800786
-2017,Percent,urban,Male,Soltustik Kazakhstan,87.72909345587692
-2017,Percent,urban,Female,Soltustik Kazakhstan,85.4593899228542
-2017,Percent,rural,,Soltustik Kazakhstan,81.18382495897039
-2017,Percent,rural,Male,Soltustik Kazakhstan,83.94890534187505
-2017,Percent,rural,Female,Soltustik Kazakhstan,78.47195720203443
-2017,Percent,,,Turkistan,78.75761098422967
-2017,Percent,,Male,Turkistan,79.6851890020448
-2017,Percent,,Female,Turkistan,77.81655982526003
-2017,Percent,urban,,Turkistan,76.56864449907552
-2017,Percent,urban,Male,Turkistan,75.78327353657835
-2017,Percent,urban,Female,Turkistan,77.35056748539502
-2017,Percent,rural,,Turkistan,79.27375537355721
-2017,Percent,rural,Male,Turkistan,80.59463661385662
-2017,Percent,rural,Female,Turkistan,77.92772779022087
-2017,Percent,,,Shygys Kazakhstan,85.31077619681727
-2017,Percent,,Male,Shygys Kazakhstan,85.0664713787479
-2017,Percent,,Female,Shygys Kazakhstan,85.52979716211733
-2017,Percent,urban,,Shygys Kazakhstan,92.18319488813675
-2017,Percent,urban,Male,Shygys Kazakhstan,91.35374186072416
-2017,Percent,urban,Female,Shygys Kazakhstan,92.87837857499672
-2017,Percent,rural,,Shygys Kazakhstan,74.77044914674663
-2017,Percent,rural,Male,Shygys Kazakhstan,76.24460566004798
-2017,Percent,rural,Female,Shygys Kazakhstan,73.30568811188247
-2017,Percent,,,Nur-Sultan city,96.2942042962996
-2017,Percent,,Male,Nur-Sultan city,96.10350611838518
-2017,Percent,,Female,Nur-Sultan city,96.46750405702991
-2017,Percent,,,Almaty city,86.45317311397147
-2017,Percent,,Male,Almaty city,86.29028327621764
-2017,Percent,,Female,Almaty city,86.58640200817301
-2017,Percent,,,Shymkent city,91.1764425705734
-2017,Percent,,Male,Shymkent city,92.13294056897324
-2017,Percent,,Female,Shymkent city,90.3119880548654
-2018,Percent,,,,87.92728522221233
-2018,Percent,,Male,,88.77549499708479
-2018,Percent,,Female,,87.14488055706353
-2018,Percent,urban,,,90.19975510213328
-2018,Percent,urban,Male,,91.05518870911364
-2018,Percent,urban,Female,,89.4562867926278
-2018,Percent,rural,,,84.76850539744429
-2018,Percent,rural,Male,,85.8311847003552
-2018,Percent,rural,Female,,83.70394055799726
-2018,Percent,,,Akmola,88.86720896585261
-2018,Percent,,Male,Akmola,90.20049032705658
-2018,Percent,,Female,Akmola,87.62777131386024
-2018,Percent,urban,,Akmola,90.64487679510889
-2018,Percent,urban,Male,Akmola,91.9088423729812
-2018,Percent,urban,Female,Akmola,89.5449117686082
-2018,Percent,rural,,Akmola,87.31034424329029
-2018,Percent,rural,Male,Akmola,88.79737721340307
-2018,Percent,rural,Female,Akmola,85.84592877421814
-2018,Percent,,,Aktobe,88.13388513700656
-2018,Percent,,Male,Aktobe,87.71124347394873
-2018,Percent,,Female,Aktobe,88.52264093164733
-2018,Percent,urban,,Aktobe,90.42416930885658
-2018,Percent,urban,Male,Aktobe,89.30499325236167
-2018,Percent,urban,Female,Aktobe,91.41507023346374
-2018,Percent,rural,,Aktobe,82.80868231779982
-2018,Percent,rural,Male,Aktobe,84.23946729948464
-2018,Percent,rural,Female,Aktobe,81.37077361857004
-2018,Percent,,,Almaty,91.95136060791474
-2018,Percent,,Male,Almaty,92.90407866029491
-2018,Percent,,Female,Almaty,91.0292774957306
-2018,Percent,urban,,Almaty,90.13923700618138
-2018,Percent,urban,Male,Almaty,90.65411739323903
-2018,Percent,urban,Female,Almaty,89.67804585817399
-2018,Percent,rural,,Almaty,92.47973249117592
-2018,Percent,rural,Male,Almaty,93.52723470207084
-2018,Percent,rural,Female,Almaty,91.4428077697895
-2018,Percent,,,Atyrau,86.12814642286753
-2018,Percent,,Male,Atyrau,86.0416554087958
-2018,Percent,,Female,Atyrau,86.21084818701709
-2018,Percent,urban,,Atyrau,89.07872696817421
-2018,Percent,urban,Male,Atyrau,90.42940933245532
-2018,Percent,urban,Female,Atyrau,87.85393898154449
-2018,Percent,rural,,Atyrau,82.95560214794847
-2018,Percent,rural,Male,Atyrau,81.58156911581568
-2018,Percent,rural,Female,Atyrau,84.34645247446356
-2018,Percent,,,Batys Kazakhstan,90.16207126041566
-2018,Percent,,Male,Batys Kazakhstan,91.1822274239833
-2018,Percent,,Female,Batys Kazakhstan,89.22060278751488
-2018,Percent,urban,,Batys Kazakhstan,95.6739212855994
-2018,Percent,urban,Male,Batys Kazakhstan,96.73898090829664
-2018,Percent,urban,Female,Batys Kazakhstan,94.77651216119696
-2018,Percent,rural,,Batys Kazakhstan,84.35519636607236
-2018,Percent,rural,Male,Batys Kazakhstan,85.86868413942177
-2018,Percent,rural,Female,Batys Kazakhstan,82.81844501079351
-2018,Percent,,,Zhambyl,83.02438062013925
-2018,Percent,,Male,Zhambyl,84.20114835091468
-2018,Percent,,Female,Zhambyl,81.90014124409102
-2018,Percent,urban,,Zhambyl,78.67395789094456
-2018,Percent,urban,Male,Zhambyl,78.54861011777047
-2018,Percent,urban,Female,Zhambyl,78.78457852319755
-2018,Percent,rural,,Zhambyl,85.8879734127259
-2018,Percent,rural,Male,Zhambyl,87.67840382067138
-2018,Percent,rural,Female,Zhambyl,84.08595204356645
-2018,Percent,,,Karagandy,86.31205047109883
-2018,Percent,,Male,Karagandy,87.26770139413502
-2018,Percent,,Female,Karagandy,85.46465025535002
-2018,Percent,urban,,Karagandy,87.32465610396456
-2018,Percent,urban,Male,Karagandy,88.04193551578904
-2018,Percent,urban,Female,Karagandy,86.71112185241017
-2018,Percent,rural,,Karagandy,82.36050373130638
-2018,Percent,rural,Male,Karagandy,84.50917181434664
-2018,Percent,rural,Female,Karagandy,80.16892134849417
-2018,Percent,,,Kostanay,91.32357953375023
-2018,Percent,,Male,Kostanay,91.44615433565248
-2018,Percent,,Female,Kostanay,91.2145056448854
-2018,Percent,urban,,Kostanay,93.6857460486025
-2018,Percent,urban,Male,Kostanay,93.18207860662312
-2018,Percent,urban,Female,Kostanay,94.10505250929565
-2018,Percent,rural,,Kostanay,88.55495279533255
-2018,Percent,rural,Male,Kostanay,89.56079969246852
-2018,Percent,rural,Female,Kostanay,87.5875130338561
-2018,Percent,,,Kyzylorda,85.90732056275336
-2018,Percent,,Male,Kyzylorda,86.58189058997472
-2018,Percent,,Female,Kyzylorda,85.23702539753533
-2018,Percent,urban,,Kyzylorda,93.89481046157712
-2018,Percent,urban,Male,Kyzylorda,93.8065238695226
-2018,Percent,urban,Female,Kyzylorda,93.97796083317677
-2018,Percent,rural,,Kyzylorda,79.69218495320165
-2018,Percent,rural,Male,Kyzylorda,81.2233921043341
-2018,Percent,rural,Female,Kyzylorda,78.105923292475
-2018,Percent,,,Mangistau,88.69534726904924
-2018,Percent,,Male,Mangistau,88.56474763894495
-2018,Percent,,Female,Mangistau,88.82308584274139
-2018,Percent,urban,,Mangistau,91.75555193905512
-2018,Percent,urban,Male,Mangistau,91.48311047000416
-2018,Percent,urban,Female,Mangistau,92.02476520279134
-2018,Percent,rural,,Mangistau,86.57914907595537
-2018,Percent,rural,Male,Mangistau,86.52891643619122
-2018,Percent,rural,Female,Mangistau,86.62793486341943
-2018,Percent,,,Pavlodar,88.11006925616847
-2018,Percent,,Male,Pavlodar,89.44824612972762
-2018,Percent,,Female,Pavlodar,86.92970702155405
-2018,Percent,urban,,Pavlodar,91.36126740692792
-2018,Percent,urban,Male,Pavlodar,93.46472911000603
-2018,Percent,urban,Female,Pavlodar,89.59948455868197
-2018,Percent,rural,,Pavlodar,80.21659740586828
-2018,Percent,rural,Male,Pavlodar,80.55720691218701
-2018,Percent,rural,Female,Pavlodar,79.87610797743756
-2018,Percent,,,Soltustik Kazakhstan,84.82252502148062
-2018,Percent,,Male,Soltustik Kazakhstan,85.13159417414737
-2018,Percent,,Female,Soltustik Kazakhstan,84.54328879860795
-2018,Percent,urban,,Soltustik Kazakhstan,86.37482923943026
-2018,Percent,urban,Male,Soltustik Kazakhstan,86.47797065339104
-2018,Percent,urban,Female,Soltustik Kazakhstan,86.29086676005761
-2018,Percent,rural,,Soltustik Kazakhstan,83.54780856567157
-2018,Percent,rural,Male,Soltustik Kazakhstan,84.13112935353848
-2018,Percent,rural,Female,Soltustik Kazakhstan,82.97395082158917
-2018,Percent,,,Turkistan,80.37042534942408
-2018,Percent,,Male,Turkistan,81.22557042514572
-2018,Percent,,Female,Turkistan,79.49867078274228
-2018,Percent,urban,,Turkistan,77.89322296617075
-2018,Percent,urban,Male,Turkistan,78.00266804536953
-2018,Percent,urban,Female,Turkistan,77.78346754061424
-2018,Percent,rural,,Turkistan,80.94845866704054
-2018,Percent,rural,Male,Turkistan,81.97002166584471
-2018,Percent,rural,Female,Turkistan,79.9030296811267
-2018,Percent,,,Shygys Kazakhstan,87.34541820872835
-2018,Percent,,Male,Shygys Kazakhstan,87.71079724073432
-2018,Percent,,Female,Shygys Kazakhstan,87.01751878533179
-2018,Percent,urban,,Shygys Kazakhstan,94.22063176542888
-2018,Percent,urban,Male,Shygys Kazakhstan,94.29950969697666
-2018,Percent,urban,Female,Shygys Kazakhstan,94.15438987288064
-2018,Percent,rural,,Shygys Kazakhstan,76.52170504816296
-2018,Percent,rural,Male,Shygys Kazakhstan,78.22146700651373
-2018,Percent,rural,Female,Shygys Kazakhstan,74.82903572443152
-2018,Percent,,,Nur-Sultan city,94.19164879238326
-2018,Percent,,Male,Nur-Sultan city,98.4785856280804
-2018,Percent,,Female,Nur-Sultan city,90.31903634532092
-2018,Percent,,,Almaty city,89.80043873012005
-2018,Percent,,Male,Almaty city,90.54687605859
-2018,Percent,,Female,Almaty city,89.19044613493672
-2018,Percent,,,Shymkent city,91.30396348082004
-2018,Percent,,Male,Shymkent city,92.3668148403604
-2018,Percent,,Female,Shymkent city,90.34503822382472
+2017,Percent,rural,Female,Kyzylorda,79.2
+2017,Percent,,,Mangistau,89.3
+2017,Percent,,Male,Mangistau,90.9
+2017,Percent,,Female,Mangistau,87.8
+2017,Percent,urban,,Mangistau,92.9
+2017,Percent,urban,Male,Mangistau,93.4
+2017,Percent,urban,Female,Mangistau,92.4
+2017,Percent,rural,,Mangistau,86.7
+2017,Percent,rural,Male,Mangistau,89.1
+2017,Percent,rural,Female,Mangistau,84.5
+2017,Percent,,,Pavlodar,86.5
+2017,Percent,,Male,Pavlodar,87.0
+2017,Percent,,Female,Pavlodar,86.1
+2017,Percent,urban,,Pavlodar,89.3
+2017,Percent,urban,Male,Pavlodar,90.3
+2017,Percent,urban,Female,Pavlodar,88.4
+2017,Percent,rural,,Pavlodar,79.9
+2017,Percent,rural,Male,Pavlodar,79.7
+2017,Percent,rural,Female,Pavlodar,80.2
+2017,Percent,,,Soltustik Kazakhstan,83.5
+2017,Percent,,Male,Soltustik Kazakhstan,85.5
+2017,Percent,,Female,Soltustik Kazakhstan,81.7
+2017,Percent,urban,,Soltustik Kazakhstan,86.5
+2017,Percent,urban,Male,Soltustik Kazakhstan,87.7
+2017,Percent,urban,Female,Soltustik Kazakhstan,85.5
+2017,Percent,rural,,Soltustik Kazakhstan,81.2
+2017,Percent,rural,Male,Soltustik Kazakhstan,83.9
+2017,Percent,rural,Female,Soltustik Kazakhstan,78.5
+2017,Percent,,,Turkistan,78.8
+2017,Percent,,Male,Turkistan,79.7
+2017,Percent,,Female,Turkistan,77.8
+2017,Percent,urban,,Turkistan,76.6
+2017,Percent,urban,Male,Turkistan,75.8
+2017,Percent,urban,Female,Turkistan,77.4
+2017,Percent,rural,,Turkistan,79.3
+2017,Percent,rural,Male,Turkistan,80.6
+2017,Percent,rural,Female,Turkistan,77.9
+2017,Percent,,,Shygys Kazakhstan,85.3
+2017,Percent,,Male,Shygys Kazakhstan,85.1
+2017,Percent,,Female,Shygys Kazakhstan,85.5
+2017,Percent,urban,,Shygys Kazakhstan,92.2
+2017,Percent,urban,Male,Shygys Kazakhstan,91.4
+2017,Percent,urban,Female,Shygys Kazakhstan,92.9
+2017,Percent,rural,,Shygys Kazakhstan,74.8
+2017,Percent,rural,Male,Shygys Kazakhstan,76.2
+2017,Percent,rural,Female,Shygys Kazakhstan,73.3
+2017,Percent,,,Nur-Sultan city,96.3
+2017,Percent,,Male,Nur-Sultan city,96.1
+2017,Percent,,Female,Nur-Sultan city,96.5
+2017,Percent,,,Almaty city,86.5
+2017,Percent,,Male,Almaty city,86.3
+2017,Percent,,Female,Almaty city,86.6
+2017,Percent,,,Shymkent city,91.2
+2017,Percent,,Male,Shymkent city,92.1
+2017,Percent,,Female,Shymkent city,90.3
+2018,Percent,,,,87.9
+2018,Percent,,Male,,88.8
+2018,Percent,,Female,,87.1
+2018,Percent,urban,,,90.2
+2018,Percent,urban,Male,,91.1
+2018,Percent,urban,Female,,89.5
+2018,Percent,rural,,,84.8
+2018,Percent,rural,Male,,85.8
+2018,Percent,rural,Female,,83.7
+2018,Percent,,,Akmola,88.9
+2018,Percent,,Male,Akmola,90.2
+2018,Percent,,Female,Akmola,87.6
+2018,Percent,urban,,Akmola,90.6
+2018,Percent,urban,Male,Akmola,91.9
+2018,Percent,urban,Female,Akmola,89.5
+2018,Percent,rural,,Akmola,87.3
+2018,Percent,rural,Male,Akmola,88.8
+2018,Percent,rural,Female,Akmola,85.8
+2018,Percent,,,Aktobe,88.1
+2018,Percent,,Male,Aktobe,87.7
+2018,Percent,,Female,Aktobe,88.5
+2018,Percent,urban,,Aktobe,90.4
+2018,Percent,urban,Male,Aktobe,89.3
+2018,Percent,urban,Female,Aktobe,91.4
+2018,Percent,rural,,Aktobe,82.8
+2018,Percent,rural,Male,Aktobe,84.2
+2018,Percent,rural,Female,Aktobe,81.4
+2018,Percent,,,Almaty,92.0
+2018,Percent,,Male,Almaty,92.9
+2018,Percent,,Female,Almaty,91.0
+2018,Percent,urban,,Almaty,90.1
+2018,Percent,urban,Male,Almaty,90.7
+2018,Percent,urban,Female,Almaty,89.7
+2018,Percent,rural,,Almaty,92.5
+2018,Percent,rural,Male,Almaty,93.5
+2018,Percent,rural,Female,Almaty,91.4
+2018,Percent,,,Atyrau,86.1
+2018,Percent,,Male,Atyrau,86.0
+2018,Percent,,Female,Atyrau,86.2
+2018,Percent,urban,,Atyrau,89.1
+2018,Percent,urban,Male,Atyrau,90.4
+2018,Percent,urban,Female,Atyrau,87.9
+2018,Percent,rural,,Atyrau,83.0
+2018,Percent,rural,Male,Atyrau,81.6
+2018,Percent,rural,Female,Atyrau,84.3
+2018,Percent,,,Batys Kazakhstan,90.2
+2018,Percent,,Male,Batys Kazakhstan,91.2
+2018,Percent,,Female,Batys Kazakhstan,89.2
+2018,Percent,urban,,Batys Kazakhstan,95.7
+2018,Percent,urban,Male,Batys Kazakhstan,96.7
+2018,Percent,urban,Female,Batys Kazakhstan,94.8
+2018,Percent,rural,,Batys Kazakhstan,84.4
+2018,Percent,rural,Male,Batys Kazakhstan,85.9
+2018,Percent,rural,Female,Batys Kazakhstan,82.8
+2018,Percent,,,Zhambyl,83.0
+2018,Percent,,Male,Zhambyl,84.2
+2018,Percent,,Female,Zhambyl,81.9
+2018,Percent,urban,,Zhambyl,78.7
+2018,Percent,urban,Male,Zhambyl,78.5
+2018,Percent,urban,Female,Zhambyl,78.8
+2018,Percent,rural,,Zhambyl,85.9
+2018,Percent,rural,Male,Zhambyl,87.7
+2018,Percent,rural,Female,Zhambyl,84.1
+2018,Percent,,,Karagandy,86.3
+2018,Percent,,Male,Karagandy,87.3
+2018,Percent,,Female,Karagandy,85.5
+2018,Percent,urban,,Karagandy,87.3
+2018,Percent,urban,Male,Karagandy,88.0
+2018,Percent,urban,Female,Karagandy,86.7
+2018,Percent,rural,,Karagandy,82.4
+2018,Percent,rural,Male,Karagandy,84.5
+2018,Percent,rural,Female,Karagandy,80.2
+2018,Percent,,,Kostanay,91.3
+2018,Percent,,Male,Kostanay,91.4
+2018,Percent,,Female,Kostanay,91.2
+2018,Percent,urban,,Kostanay,93.7
+2018,Percent,urban,Male,Kostanay,93.2
+2018,Percent,urban,Female,Kostanay,94.1
+2018,Percent,rural,,Kostanay,88.6
+2018,Percent,rural,Male,Kostanay,89.6
+2018,Percent,rural,Female,Kostanay,87.6
+2018,Percent,,,Kyzylorda,85.9
+2018,Percent,,Male,Kyzylorda,86.6
+2018,Percent,,Female,Kyzylorda,85.2
+2018,Percent,urban,,Kyzylorda,93.9
+2018,Percent,urban,Male,Kyzylorda,93.8
+2018,Percent,urban,Female,Kyzylorda,94.0
+2018,Percent,rural,,Kyzylorda,79.7
+2018,Percent,rural,Male,Kyzylorda,81.2
+2018,Percent,rural,Female,Kyzylorda,78.1
+2018,Percent,,,Mangistau,88.7
+2018,Percent,,Male,Mangistau,88.6
+2018,Percent,,Female,Mangistau,88.8
+2018,Percent,urban,,Mangistau,91.8
+2018,Percent,urban,Male,Mangistau,91.5
+2018,Percent,urban,Female,Mangistau,92.0
+2018,Percent,rural,,Mangistau,86.6
+2018,Percent,rural,Male,Mangistau,86.5
+2018,Percent,rural,Female,Mangistau,86.6
+2018,Percent,,,Pavlodar,88.1
+2018,Percent,,Male,Pavlodar,89.4
+2018,Percent,,Female,Pavlodar,86.9
+2018,Percent,urban,,Pavlodar,91.4
+2018,Percent,urban,Male,Pavlodar,93.5
+2018,Percent,urban,Female,Pavlodar,89.6
+2018,Percent,rural,,Pavlodar,80.2
+2018,Percent,rural,Male,Pavlodar,80.6
+2018,Percent,rural,Female,Pavlodar,79.9
+2018,Percent,,,Soltustik Kazakhstan,84.8
+2018,Percent,,Male,Soltustik Kazakhstan,85.1
+2018,Percent,,Female,Soltustik Kazakhstan,84.5
+2018,Percent,urban,,Soltustik Kazakhstan,86.4
+2018,Percent,urban,Male,Soltustik Kazakhstan,86.5
+2018,Percent,urban,Female,Soltustik Kazakhstan,86.3
+2018,Percent,rural,,Soltustik Kazakhstan,83.5
+2018,Percent,rural,Male,Soltustik Kazakhstan,84.1
+2018,Percent,rural,Female,Soltustik Kazakhstan,83.0
+2018,Percent,,,Turkistan,80.4
+2018,Percent,,Male,Turkistan,81.2
+2018,Percent,,Female,Turkistan,79.5
+2018,Percent,urban,,Turkistan,77.9
+2018,Percent,urban,Male,Turkistan,78.0
+2018,Percent,urban,Female,Turkistan,77.8
+2018,Percent,rural,,Turkistan,80.9
+2018,Percent,rural,Male,Turkistan,82.0
+2018,Percent,rural,Female,Turkistan,79.9
+2018,Percent,,,Shygys Kazakhstan,87.3
+2018,Percent,,Male,Shygys Kazakhstan,87.7
+2018,Percent,,Female,Shygys Kazakhstan,87.0
+2018,Percent,urban,,Shygys Kazakhstan,94.2
+2018,Percent,urban,Male,Shygys Kazakhstan,94.3
+2018,Percent,urban,Female,Shygys Kazakhstan,94.2
+2018,Percent,rural,,Shygys Kazakhstan,76.5
+2018,Percent,rural,Male,Shygys Kazakhstan,78.2
+2018,Percent,rural,Female,Shygys Kazakhstan,74.8
+2018,Percent,,,Nur-Sultan city,94.2
+2018,Percent,,Male,Nur-Sultan city,98.5
+2018,Percent,,Female,Nur-Sultan city,90.3
+2018,Percent,,,Almaty city,89.8
+2018,Percent,,Male,Almaty city,90.5
+2018,Percent,,Female,Almaty city,89.2
+2018,Percent,,,Shymkent city,91.3
+2018,Percent,,Male,Shymkent city,92.4
+2018,Percent,,Female,Shymkent city,90.3
 2019,Percent,,,,88.12097004703236
 2019,Percent,,Male,,88.5960218220858
 2019,Percent,,Female,,87.68209467503725
