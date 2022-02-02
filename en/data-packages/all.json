@@ -2964,8 +2964,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kazakhstan as donor",
                 "Kazakhstan as beneficiary",
+                "Kazakhstan as donor",
                 ""
               ]
             },

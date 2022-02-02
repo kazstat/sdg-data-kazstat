@@ -23,8 +23,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ODA_DNR",
                 "_L_ODA_RCP",
+                "_L_ODA_DNR",
                 ""
               ]
             }
