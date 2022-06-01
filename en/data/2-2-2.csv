@@ -22,8 +22,8 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,Value
 2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Almaty city,7.8
 2010,Percent,Rate of deviation from the norm (moderate and strong),M0T5,,,,13.4
 2010,Percent,Rate of deviation from the norm (moderate and strong),M6T11,,,,4.4
-2010,Percent,Rate of deviation from the norm (moderate and strong),M12T23,,,,2.1
-2010,Percent,Rate of deviation from the norm (moderate and strong),M24T35,,,,2.5
+2010,Percent,Rate of deviation from the norm (moderate and strong),12 to 23 months,,,,2.1
+2010,Percent,Rate of deviation from the norm (moderate and strong),24 to 35 months,,,,2.5
 2010,Percent,Rate of deviation from the norm (moderate and strong),36-47 months,,,,2.4
 2010,Percent,Rate of deviation from the norm (moderate and strong),48-59 months,,,,4.5
 2010,Percent,Strong deviation from the norm,,,,,1.6
@@ -49,8 +49,8 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,Value
 2010,Percent,Strong deviation from the norm,,,,Almaty city,3.0
 2010,Percent,Strong deviation from the norm,M0T5,,,,7.4
 2010,Percent,Strong deviation from the norm,M6T11,,,,1.0
-2010,Percent,Strong deviation from the norm,M12T23,,,,0.6
-2010,Percent,Strong deviation from the norm,M24T35,,,,1.2
+2010,Percent,Strong deviation from the norm,12 to 23 months,,,,0.6
+2010,Percent,Strong deviation from the norm,24 to 35 months,,,,1.2
 2010,Percent,Strong deviation from the norm,36-47 months,,,,0.7
 2010,Percent,Strong deviation from the norm,48-59 months,,,,1.8
 2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,,13.3
@@ -76,8 +76,8 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,Value
 2010,Percent,Children moderately or severely overweight (number) [2.2.2],,,,Almaty city,15.6
 2010,Percent,Children moderately or severely overweight (number) [2.2.2],M0T5,,,,9.8
 2010,Percent,Children moderately or severely overweight (number) [2.2.2],M6T11,,,,19.0
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],M12T23,,,,17.4
-2010,Percent,Children moderately or severely overweight (number) [2.2.2],M24T35,,,,12.9
+2010,Percent,Children moderately or severely overweight (number) [2.2.2],12 to 23 months,,,,17.4
+2010,Percent,Children moderately or severely overweight (number) [2.2.2],24 to 35 months,,,,12.9
 2010,Percent,Children moderately or severely overweight (number) [2.2.2],36-47 months,,,,11.6
 2010,Percent,Children moderately or severely overweight (number) [2.2.2],48-59 months,,,,9.7
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,,,3.1
@@ -105,7 +105,7 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,Value
 2015,Percent,Rate of deviation from the norm (moderate and strong),M6T11,,,,2.8
 2015,Percent,Rate of deviation from the norm (moderate and strong),M12T17,,,,1.7
 2015,Percent,Rate of deviation from the norm (moderate and strong),M18T23,,,,3.5
-2015,Percent,Rate of deviation from the norm (moderate and strong),M24T35,,,,1.8
+2015,Percent,Rate of deviation from the norm (moderate and strong),24 to 35 months,,,,1.8
 2015,Percent,Rate of deviation from the norm (moderate and strong),36-47 months,,,,1.7
 2015,Percent,Rate of deviation from the norm (moderate and strong),48-59 months,,,,1.9
 2015,Percent,Strong deviation from the norm,,,,,1.1
@@ -133,7 +133,7 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,Value
 2015,Percent,Strong deviation from the norm,M6T11,,,,1.0
 2015,Percent,Strong deviation from the norm,M12T17,,,,0.8
 2015,Percent,Strong deviation from the norm,M18T23,,,,0.9
-2015,Percent,Strong deviation from the norm,M24T35,,,,0.9
+2015,Percent,Strong deviation from the norm,24 to 35 months,,,,0.9
 2015,Percent,Strong deviation from the norm,36-47 months,,,,0.2
 2015,Percent,Strong deviation from the norm,48-59 months,,,,0.7
 2015,Percent,Children moderately or severely overweight (number) [2.2.2],,,,,9.3
@@ -161,6 +161,6 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,Value
 2015,Percent,Children moderately or severely overweight (number) [2.2.2],M6T11,,,,12.5
 2015,Percent,Children moderately or severely overweight (number) [2.2.2],M12T17,,,,15.1
 2015,Percent,Children moderately or severely overweight (number) [2.2.2],M18T23,,,,10.1
-2015,Percent,Children moderately or severely overweight (number) [2.2.2],M24T35,,,,10.5
+2015,Percent,Children moderately or severely overweight (number) [2.2.2],24 to 35 months,,,,10.5
 2015,Percent,Children moderately or severely overweight (number) [2.2.2],36-47 months,,,,8.0
 2015,Percent,Children moderately or severely overweight (number) [2.2.2],48-59 months,,,,6.5
