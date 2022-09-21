@@ -7,3 +7,4 @@ Translations are performed at [Weblate](hosted.weblate.org/projects/sdgs-kazakhs
 <a href="https://hosted.weblate.org/engage/sdgs-kazakhstan/">
 <img src="https://hosted.weblate.org/widgets/sdgs-kazakhstan/-/287x66-grey.png" alt="Translation status" />
 </a>
+
