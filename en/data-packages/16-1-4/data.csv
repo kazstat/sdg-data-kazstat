@@ -256,3 +256,15 @@ Year,UNIT_MEASURE,SERIES,Area,Sex,Age,Value
 2021,Percent,_L_KZ_160104_1D,rural,,,0.3
 2021,Percent,_L_KZ_160104_1E,rural,,,0.3
 2021,Percent,,,Male,,100.0
+2021,Percent,Total security,,Male,,62.3
+2021,Percent,Relatively safe,,Male,,35.6
+2021,Percent,Not safe,,Male,,1.5
+2021,Percent,_L_KZ_160104_1D,,Male,,0.4
+2021,Percent,_L_KZ_160104_1E,,Male,,0.3
+2021,Percent,,,Female,,100.0
+2021,Percent,Total security,,Female,,55.7
+2021,Percent,Relatively safe,,Female,,40.4
+2021,Percent,Not safe,,Female,,3.0
+2021,Percent,_L_KZ_160104_1D,,Female,,0.4
+2021,Percent,_L_KZ_160104_1E,,Female,,0.5
+2021,Percent,,,,15-19,100.0
