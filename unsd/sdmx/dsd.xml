@@ -1,8 +1,8 @@
 <mes:Structure xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:data="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mes:Header>
-    <mes:ID>IREF1665588423</mes:ID>
+    <mes:ID>IREF1665588857</mes:ID>
     <mes:Test>true</mes:Test>
-    <mes:Prepared>2022-10-12T15:27:03</mes:Prepared>
+    <mes:Prepared>2022-10-12T15:34:17</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@130"/>
   </mes:Header>
   <mes:Structures>
@@ -4779,6 +4779,21 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <com:Name xml:lang="ru">г.Зыряновск</com:Name>
           <com:Name xml:lang="en">city Zyryanovsk</com:Name>
           <com:Name xml:lang="kk">Зыряновск</com:Name>
+        </str:Code>
+        <str:Code id="KZAYB">
+          <com:Name xml:lang="ru">KZAYB</com:Name>
+          <com:Name xml:lang="en">KZAYB</com:Name>
+          <com:Name xml:lang="kk">KZAYB</com:Name>
+        </str:Code>
+        <str:Code id="KZDMB">
+          <com:Name xml:lang="ru">KZDMB</com:Name>
+          <com:Name xml:lang="en">KZDMB</com:Name>
+          <com:Name xml:lang="kk">KZDMB</com:Name>
+        </str:Code>
+        <str:Code id="KZUKK">
+          <com:Name xml:lang="ru">KZUKK</com:Name>
+          <com:Name xml:lang="en">KZUKK</com:Name>
+          <com:Name xml:lang="kk">KZUKK</com:Name>
         </str:Code>
         <str:Code id="0.0">
           <com:Name xml:lang="ru">0.0</com:Name>
