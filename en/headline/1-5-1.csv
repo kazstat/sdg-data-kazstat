@@ -43,3 +43,7 @@ Year,Value,SERIES,UNIT_MEASURE
 2020,0.08,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",persons
 2020,5.0,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",persons
 2020,0.03,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",persons
+2021,24.0,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",persons
+2021,0.13,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",persons
+2021,7.0,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",persons
+2021,0.04,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",persons
