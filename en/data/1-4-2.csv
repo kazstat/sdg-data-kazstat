@@ -314,48 +314,138 @@ Year,UNIT_MEASURE,Regions,Sex,Value
 2018,Percent,Soltustik Kazakhstan,Female,2.77
 2018,Percent,Turkistan,Female,1.44
 2018,Percent,Shygys Kazakhstan,Female,4.93
-2019,Percent,,,5.98
+2019,Percent,,,6.61
 2019,Percent,Akmola,,7.42
-2019,Percent,Aktobe,,6.31
+2019,Percent,Aktobe,,0.81
 2019,Percent,Almaty,,11.56
 2019,Percent,Atyrau,,3.11
-2019,Percent,Batys Kazakhstan,,10.24
-2019,Percent,Zhambyl,,2.86
+2019,Percent,Batys Kazakhstan,,10.23
+2019,Percent,Zhambyl,,2.67
 2019,Percent,Karagandy,,6.86
-2019,Percent,Kostanay,,11.76
-2019,Percent,Kyzylorda,,3.23
+2019,Percent,Kostanay,,1.82
+2019,Percent,Kyzylorda,,1.3
 2019,Percent,Mangistau,,0.68
 2019,Percent,Pavlodar,,10.52
 2019,Percent,Soltustik Kazakhstan,,8.59
 2019,Percent,Turkistan,,7.71
 2019,Percent,Shygys Kazakhstan,,8.85
-2019,Percent,,Male,10.47
+2019,Percent,,Male,11.42
 2019,Percent,Akmola,Male,12.41
-2019,Percent,Aktobe,Male,7.05
-2019,Percent,Almaty,Male,21.65
+2019,Percent,Aktobe,Male,1.55
+2019,Percent,Almaty,Male,21.64
 2019,Percent,Atyrau,Male,3.92
-2019,Percent,Batys Kazakhstan,Male,14.78
-2019,Percent,Zhambyl,Male,4.3
+2019,Percent,Batys Kazakhstan,Male,14.75
+2019,Percent,Zhambyl,Male,4.28
 2019,Percent,Karagandy,Male,10.03
-2019,Percent,Kostanay,Male,11.35
-2019,Percent,Kyzylorda,Male,6.35
-2019,Percent,Mangistau,Male,1.4
+2019,Percent,Kostanay,Male,3.59
+2019,Percent,Kyzylorda,Male,2.57
+2019,Percent,Mangistau,Male,1.39
 2019,Percent,Pavlodar,Male,22.63
 2019,Percent,Soltustik Kazakhstan,Male,15.23
 2019,Percent,Turkistan,Male,13.91
 2019,Percent,Shygys Kazakhstan,Male,13.32
-2019,Percent,,Female,1.99
-2019,Percent,Akmola,Female,2.91
-2019,Percent,Aktobe,Female,5.65
+2019,Percent,,Female,2.25
+2019,Percent,Akmola,Female,3.17
+2019,Percent,Aktobe,Female,0.15
 2019,Percent,Almaty,Female,2.08
 2019,Percent,Atyrau,Female,2.36
 2019,Percent,Batys Kazakhstan,Female,6.2
-2019,Percent,Zhambyl,Female,1.53
+2019,Percent,Zhambyl,Female,1.19
 2019,Percent,Karagandy,Female,4.15
-2019,Percent,Kostanay,Female,12.11
-2019,Percent,Kyzylorda,Female,0.19
+2019,Percent,Kostanay,Female,0.28
+2019,Percent,Kyzylorda,Female,0.1
 2019,Percent,Mangistau,Female,0.01
 2019,Percent,Pavlodar,Female,0.24
 2019,Percent,Soltustik Kazakhstan,Female,2.8
 2019,Percent,Turkistan,Female,1.43
 2019,Percent,Shygys Kazakhstan,Female,4.98
+2020,Percent,,,4.88
+2020,Percent,Akmola,,3.79
+2020,Percent,Aktobe,,0.83
+2020,Percent,Almaty,,11.12
+2020,Percent,Atyrau,,1.43
+2020,Percent,Batys Kazakhstan,,10.11
+2020,Percent,Zhambyl,,2.67
+2020,Percent,Karagandy,,1.4
+2020,Percent,Kostanay,,1.76
+2020,Percent,Kyzylorda,,1.09
+2020,Percent,Mangistau,,0.79
+2020,Percent,Pavlodar,,3.13
+2020,Percent,Soltustik Kazakhstan,,0.96
+2020,Percent,Turkistan,,7.58
+2020,Percent,Shygys Kazakhstan,,8.74
+2020,Percent,,Male,8.22
+2020,Percent,Akmola,Male,6.06
+2020,Percent,Aktobe,Male,1.61
+2020,Percent,Almaty,Male,19.66
+2020,Percent,Atyrau,Male,2.1
+2020,Percent,Batys Kazakhstan,Male,14.46
+2020,Percent,Zhambyl,Male,4.27
+2020,Percent,Karagandy,Male,2.33
+2020,Percent,Kostanay,Male,3.47
+2020,Percent,Kyzylorda,Male,2.12
+2020,Percent,Mangistau,Male,1.29
+2020,Percent,Pavlodar,Male,6.61
+2020,Percent,Soltustik Kazakhstan,Male,1.83
+2020,Percent,Turkistan,Male,11.63
+2020,Percent,Shygys Kazakhstan,Male,14.54
+2020,Percent,,Female,1.57
+2020,Percent,Akmola,Female,1.74
+2020,Percent,Aktobe,Female,0.15
+2020,Percent,Almaty,Female,3.12
+2020,Percent,Atyrau,Female,0.81
+2020,Percent,Batys Kazakhstan,Female,6.22
+2020,Percent,Zhambyl,Female,1.19
+2020,Percent,Karagandy,Female,0.62
+2020,Percent,Kostanay,Female,0.29
+2020,Percent,Kyzylorda,Female,0.09
+2020,Percent,Mangistau,Female,0.17
+2020,Percent,Pavlodar,Female,0.17
+2020,Percent,Soltustik Kazakhstan,Female,0.21
+2020,Percent,Turkistan,Female,1.12
+2020,Percent,Shygys Kazakhstan,Female,3.71
+2021,Percent,,,4.36
+2021,Percent,Akmola,,3.82
+2021,Percent,Aktobe,,0.88
+2021,Percent,Almaty,,11.14
+2021,Percent,Atyrau,,1.49
+2021,Percent,Batys Kazakhstan,,10.18
+2021,Percent,Zhambyl,,2.81
+2021,Percent,Karagandy,,1.35
+2021,Percent,Kostanay,,1.78
+2021,Percent,Kyzylorda,,1.13
+2021,Percent,Mangistau,,0.77
+2021,Percent,Pavlodar,,3.21
+2021,Percent,Soltustik Kazakhstan,,1.0
+2021,Percent,Turkistan,,7.59
+2021,Percent,Shygys Kazakhstan,,3.35
+2021,Percent,,Male,7.43
+2021,Percent,Akmola,Male,6.26
+2021,Percent,Aktobe,Male,1.72
+2021,Percent,Almaty,Male,19.65
+2021,Percent,Atyrau,Male,2.22
+2021,Percent,Batys Kazakhstan,Male,14.53
+2021,Percent,Zhambyl,Male,4.55
+2021,Percent,Karagandy,Male,2.17
+2021,Percent,Kostanay,Male,3.5
+2021,Percent,Kyzylorda,Male,1.93
+2021,Percent,Mangistau,Male,1.25
+2021,Percent,Pavlodar,Male,6.78
+2021,Percent,Soltustik Kazakhstan,Male,1.88
+2021,Percent,Turkistan,Male,13.99
+2021,Percent,Shygys Kazakhstan,Male,3.4
+2021,Percent,,Female,1.55
+2021,Percent,Akmola,Female,1.6
+2021,Percent,Aktobe,Female,0.14
+2021,Percent,Almaty,Female,3.16
+2021,Percent,Atyrau,Female,0.81
+2021,Percent,Batys Kazakhstan,Female,6.3
+2021,Percent,Zhambyl,Female,1.2
+2021,Percent,Karagandy,Female,0.65
+2021,Percent,Kostanay,Female,0.29
+2021,Percent,Kyzylorda,Female,0.34
+2021,Percent,Mangistau,Female,0.33
+2021,Percent,Pavlodar,Female,0.17
+2021,Percent,Soltustik Kazakhstan,Female,0.22
+2021,Percent,Turkistan,Female,1.12
+2021,Percent,Shygys Kazakhstan,Female,3.31
