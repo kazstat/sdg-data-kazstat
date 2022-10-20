@@ -12,8 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "Value",
