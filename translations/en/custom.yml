@@ -21,6 +21,19 @@ frontpage_intro_description: >-
   <p class="lead-copy">Kazakhstan has nationalized the global SDG indicators and today the
   monitoring system includes 280 indicators, including 205 global and 75
   national indicators. All available data for each SDG is presented below.</p>
+  
+  <p class="lead-copy">This National Platform for Reporting on Sustainable Development Goals (SDGs) has published 
+  open data on SDG statistics provided by the Bureau of National Statistics of the Agency for Strategic Planning 
+  and Reforms of the Republic of Kazakhstan (hereinafter referred to as the Bureau) 
+  as the central coordinator of SDG reporting.</p>
+    
+  <p class="lead-copy">Terms of use of information:The user, without entering into a contract with the Bureau, 
+  can use the data (including repeatedly) freely, free of charge, indefinitely and without limitation of the territory of use, 
+  including the right to copy, publish, distribute the data, as well as use the data 
+  for the purpose of creating computer programs and applications.</p>
+  
+  <p class="lead-copy">When opening the data, the User must:- use the data only for legitimate purposes;
+  - save a link to the source of information when using the data.</p>
 frontpage_intro_sidebar: >-
   <p>
     <a href='https://economy.kz/ru/Celi_ustojchivogo_razvitija/About_TSUR/' class='btn btn-primary btn-download'>
