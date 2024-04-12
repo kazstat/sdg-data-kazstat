@@ -1,10 +1,6 @@
 gitgang
 git+https://github.com/dougmet/yamlmd
-git+https://github.com/brockfanning/sdg-build-1@kazakhstan-feature-set
-xlrd
-python-frontmatter
-sdmx1==2.3.0
-yamllint
+git+https://github.com/open-sdg/sdg-build@2.3.1
 pydantic==1.*
 frictionless==4.40.8
-pandas==1.*
+yamllint
