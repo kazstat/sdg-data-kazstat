@@ -1,5 +1,5 @@
-Year,Value,UNIT_MEASURE
-2017,77.1,Percent
-2018,79.6,Percent
-2019,82.1,Percent
-2020,84.1,Percent
+Year,Value,GeoCode,UNIT_MEASURE
+2017,77.1,,Percent
+2018,79.6,,Percent
+2019,82.1,,Percent
+2020,84.1,,Percent

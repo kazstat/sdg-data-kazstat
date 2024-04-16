@@ -1,23 +1,23 @@
-Year,Value,UNIT_MEASURE
-2010,11.3,"percent, base year 2010"
-2010,1027.0,tenge per US dollars in 2010 prices
-2011,11.3,"percent, base year 2010"
-2011,1083.4,tenge per US dollars in 2010 prices
-2012,11.1,"percent, base year 2010"
-2012,1100.9,tenge per US dollars in 2010 prices
-2013,10.8,"percent, base year 2010"
-2013,1117.3,tenge per US dollars in 2010 prices
-2014,10.5,"percent, base year 2010"
-2014,1118.4,tenge per US dollars in 2010 prices
-2015,10.4,"percent, base year 2010"
-2015,1105.0,tenge per US dollars in 2010 prices
-2016,10.5,"percent, base year 2010"
-2016,1109.1,tenge per US dollars in 2010 prices
-2017,10.7,"percent, base year 2010"
-2017,1161.5,tenge per US dollars in 2010 prices
-2018,10.7,"percent, base year 2010"
-2018,1182.0,tenge per US dollars in 2010 prices
-2019,10.9,"percent, base year 2010"
-2019,1250.8,tenge per US dollars in 2010 prices
-2020,11.6,"percent, base year 2010"
-2020,1283.7,tenge per US dollars in 2010 prices
+Year,Value,GeoCode,UNIT_MEASURE
+2010,11.3,,"percent, base year 2010"
+2010,1027.0,,tenge per US dollars in 2010 prices
+2011,11.3,,"percent, base year 2010"
+2011,1083.4,,tenge per US dollars in 2010 prices
+2012,11.1,,"percent, base year 2010"
+2012,1100.9,,tenge per US dollars in 2010 prices
+2013,10.8,,"percent, base year 2010"
+2013,1117.3,,tenge per US dollars in 2010 prices
+2014,10.5,,"percent, base year 2010"
+2014,1118.4,,tenge per US dollars in 2010 prices
+2015,10.4,,"percent, base year 2010"
+2015,1105.0,,tenge per US dollars in 2010 prices
+2016,10.5,,"percent, base year 2010"
+2016,1109.1,,tenge per US dollars in 2010 prices
+2017,10.7,,"percent, base year 2010"
+2017,1161.5,,tenge per US dollars in 2010 prices
+2018,10.7,,"percent, base year 2010"
+2018,1182.0,,tenge per US dollars in 2010 prices
+2019,10.9,,"percent, base year 2010"
+2019,1250.8,,tenge per US dollars in 2010 prices
+2020,11.6,,"percent, base year 2010"
+2020,1283.7,,tenge per US dollars in 2010 prices

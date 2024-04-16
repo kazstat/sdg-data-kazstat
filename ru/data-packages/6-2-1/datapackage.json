@@ -11,14 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Регионы"
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
           },
           {
             "name": "UNIT_MEASURE",
@@ -30,22 +25,32 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Город",
                 "Село",
-                "Город"
+                ""
               ]
             },
             "title": "Местность"
           },
           {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Регионы"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

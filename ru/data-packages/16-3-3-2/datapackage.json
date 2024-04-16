@@ -11,28 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "средняя",
-                "высокая",
-                "низкая",
-                "никогда не сталкивались с данной структурой",
-                "не доверяют",
-                "частично согласен/согласна",
-                "частично не согласен/согласна",
-                "полностью согласен/согласна",
-                "полностью не согласен/согласна"
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
           },
           {
             "name": "UNIT_MEASURE",
@@ -40,14 +21,33 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "высокая",
+                "средняя",
+                "низкая",
+                "не доверяют",
+                "никогда не сталкивались с данной структурой",
+                "полностью согласен/согласна",
+                "частично согласен/согласна",
+                "частично не согласен/согласна",
+                "полностью не согласен/согласна",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

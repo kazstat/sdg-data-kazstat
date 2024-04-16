@@ -11,18 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "любое сексуальное насилие",
-                "физическое насилие",
-                "попытка изнасилования или иное сексуальное насилие",
-                "изнасилование, совершенное лицом, не являющимся партнером"
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
           },
           {
             "name": "UNIT_MEASURE",
@@ -30,14 +21,23 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "физическое насилие",
+                "изнасилование, совершенное лицом, не являющимся партнером",
+                "попытка изнасилования или иное сексуальное насилие",
+                "любое сексуальное насилие",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

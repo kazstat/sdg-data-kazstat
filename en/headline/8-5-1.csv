@@ -1,8 +1,8 @@
-Year,Value,UNIT_MEASURE
-2014,837.0,Percent
-2015,880.0,Percent
-2016,950.0,Percent
-2017,927.0,Percent
-2018,959.0,Percent
-2019,1038.0,Percent
-2020,1187.0,Percent
+Year,Value,GeoCode,UNIT_MEASURE
+2014,837.0,,Percent
+2015,880.0,,Percent
+2016,950.0,,Percent
+2017,927.0,,Percent
+2018,959.0,,Percent
+2019,1038.0,,Percent
+2020,1187.0,,Percent

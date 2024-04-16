@@ -1,12 +1,12 @@
-Year,Value,UNIT_MEASURE
-2010,5640.9,thousands hectares
-2011,5646.8,thousands hectares
-2012,5663.6,thousands hectares
-2013,5669.2,thousands hectares
-2014,5674.5,thousands hectares
-2015,5675.0,thousands hectares
-2016,5675.2,thousands hectares
-2017,5699.2,thousands hectares
-2018,5841.6,thousands hectares
-2019,5999.6,thousands hectares
-2020,5872.2,thousands hectares
+Year,Value,GeoCode,UNIT_MEASURE
+2010,5640.9,,thousands hectares
+2011,5646.8,,thousands hectares
+2012,5663.6,,thousands hectares
+2013,5669.2,,thousands hectares
+2014,5674.5,,thousands hectares
+2015,5675.0,,thousands hectares
+2016,5675.2,,thousands hectares
+2017,5699.2,,thousands hectares
+2018,5841.6,,thousands hectares
+2019,5999.6,,thousands hectares
+2020,5872.2,,thousands hectares

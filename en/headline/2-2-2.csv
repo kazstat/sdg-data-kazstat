@@ -1,7 +1,7 @@
-Year,Value,SERIES,UNIT_MEASURE
-2010,4.05,Rate of deviation from the norm (moderate and strong),Percent
-2010,1.6,Strong deviation from the norm,Percent
-2010,13.3,Children moderately or severely overweight (number) [2.2.2],Percent
-2015,3.1,Rate of deviation from the norm (moderate and strong),Percent
-2015,1.1,Strong deviation from the norm,Percent
-2015,9.3,Children moderately or severely overweight (number) [2.2.2],Percent
+Year,Value,GeoCode,SERIES,UNIT_MEASURE
+2010,4.05,,Rate of deviation from the norm (moderate and strong),Percent
+2010,1.6,,Strong deviation from the norm,Percent
+2010,13.3,,Children moderately or severely overweight (number) [2.2.2],Percent
+2015,3.1,,Rate of deviation from the norm (moderate and strong),Percent
+2015,1.1,,Strong deviation from the norm,Percent
+2015,9.3,,Children moderately or severely overweight (number) [2.2.2],Percent

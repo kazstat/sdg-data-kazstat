@@ -11,25 +11,24 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Женщины в возрасте 18-49 лет"
-              ]
-            },
-            "title": "Возраст"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "физическое насилие",
+                "сексуальное насилие",
                 "физическое насилие и/или сексуальное насилие",
-                "сексуальное насилие"
+                ""
               ]
             },
             "title": "COMPOSITE_BREAKDOWN"
@@ -40,19 +39,20 @@
             "title": "SERIES"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "AGE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "constraints": {
+              "enum": [
+                "Женщины в возрасте 18-49 лет",
+                ""
+              ]
+            },
+            "title": "Возраст"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

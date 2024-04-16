@@ -42,6 +42,10 @@
             }
           },
           {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }

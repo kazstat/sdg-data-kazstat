@@ -1,100 +1,100 @@
-Year,UNIT_MEASURE,Regions,Value
-2010,thousands hectares,,5640.9
-2010,thousands hectares,Akmola,86.6
-2010,thousands hectares,Almaty,1701.6
-2010,thousands hectares,Zhambyl,182.6
-2010,thousands hectares,Karagandy,175.7
-2010,thousands hectares,Pavlodar,68.5
-2010,thousands hectares,Soltustik Kazakhstan,11.1
-2010,thousands hectares,Turkistan,379.6
-2010,thousands hectares,Shygys Kazakhstan,3035.2
-2011,thousands hectares,,5646.8
-2011,thousands hectares,Akmola,86.6
-2011,thousands hectares,Almaty,1707.4
-2011,thousands hectares,Zhambyl,182.6
-2011,thousands hectares,Karagandy,175.7
-2011,thousands hectares,Pavlodar,68.5
-2011,thousands hectares,Soltustik Kazakhstan,11.1
-2011,thousands hectares,Turkistan,379.6
-2011,thousands hectares,Shygys Kazakhstan,3034.9
-2012,thousands hectares,,5663.6
-2012,thousands hectares,Akmola,74.5
-2012,thousands hectares,Almaty,1707.5
-2012,thousands hectares,Zhambyl,182.6
-2012,thousands hectares,Karagandy,153.8
-2012,thousands hectares,Pavlodar,68.5
-2012,thousands hectares,Soltustik Kazakhstan,11.1
-2012,thousands hectares,Turkistan,431.8
-2012,thousands hectares,Shygys Kazakhstan,3033.7
-2013,thousands hectares,,5669.2
-2013,thousands hectares,Akmola,74.5
-2013,thousands hectares,Almaty,1707.5
-2013,thousands hectares,Zhambyl,182.6
-2013,thousands hectares,Karagandy,153.8
-2013,thousands hectares,Pavlodar,68.5
-2013,thousands hectares,Soltustik Kazakhstan,11.1
-2013,thousands hectares,Turkistan,431.8
-2013,thousands hectares,Shygys Kazakhstan,3039.4
-2014,thousands hectares,,5674.5
-2014,thousands hectares,Akmola,74.5
-2014,thousands hectares,Almaty,1706.5
-2014,thousands hectares,Zhambyl,182.6
-2014,thousands hectares,Karagandy,153.8
-2014,thousands hectares,Pavlodar,68.5
-2014,thousands hectares,Soltustik Kazakhstan,11.1
-2014,thousands hectares,Turkistan,431.8
-2014,thousands hectares,Shygys Kazakhstan,3045.6
-2015,thousands hectares,,5675.0
-2015,thousands hectares,Akmola,74.5
-2015,thousands hectares,Almaty,1707.1
-2015,thousands hectares,Zhambyl,182.6
-2015,thousands hectares,Karagandy,153.8
-2015,thousands hectares,Pavlodar,68.5
-2015,thousands hectares,Soltustik Kazakhstan,11.1
-2015,thousands hectares,Turkistan,431.8
-2015,thousands hectares,Shygys Kazakhstan,3045.6
-2016,thousands hectares,,5675.2
-2016,thousands hectares,Akmola,74.5
-2016,thousands hectares,Almaty,1707.3
-2016,thousands hectares,Zhambyl,182.6
-2016,thousands hectares,Karagandy,153.8
-2016,thousands hectares,Pavlodar,68.5
-2016,thousands hectares,Soltustik Kazakhstan,11.1
-2016,thousands hectares,Turkistan,431.8
-2016,thousands hectares,Shygys Kazakhstan,3045.6
-2017,thousands hectares,,5699.2
-2017,thousands hectares,Akmola,99.8
-2017,thousands hectares,Almaty,1707.3
-2017,thousands hectares,Zhambyl,215.8
-2017,thousands hectares,Karagandy,179.2
-2017,thousands hectares,Pavlodar,68.5
-2017,thousands hectares,Soltustik Kazakhstan,11.1
-2017,thousands hectares,Turkistan,431.8
-2017,thousands hectares,Shygys Kazakhstan,2985.8
-2018,thousands hectares,,5841.6
-2018,thousands hectares,Akmola,99.8
-2018,thousands hectares,Almaty,1706.1
-2018,thousands hectares,Zhambyl,215.8
-2018,thousands hectares,Karagandy,179.2
-2018,thousands hectares,Pavlodar,68.5
-2018,thousands hectares,Soltustik Kazakhstan,11.1
-2018,thousands hectares,Turkistan,431.8
-2018,thousands hectares,Shygys Kazakhstan,3129.3
-2019,thousands hectares,,5999.6
-2019,thousands hectares,Akmola,99.8
-2019,thousands hectares,Almaty,1705.9
-2019,thousands hectares,Zhambyl,324.9
-2019,thousands hectares,Karagandy,179.2
-2019,thousands hectares,Pavlodar,68.5
-2019,thousands hectares,Soltustik Kazakhstan,11.1
-2019,thousands hectares,Turkistan,431.8
-2019,thousands hectares,Shygys Kazakhstan,3178.4
-2020,thousands hectares,,5872.2
-2020,thousands hectares,Akmola,70.2
-2020,thousands hectares,Almaty,1799.9
-2020,thousands hectares,Zhambyl,324.9
-2020,thousands hectares,Karagandy,179.1
-2020,thousands hectares,Pavlodar,68.5
-2020,thousands hectares,Soltustik Kazakhstan,11.1
-2020,thousands hectares,Turkistan,287.8
-2020,thousands hectares,Shygys Kazakhstan,3130.6
+Year,UNIT_MEASURE,Regions,GeoCode,Value
+2010,thousands hectares,,,5640.9
+2010,thousands hectares,Akmola,KZAKM,86.6
+2010,thousands hectares,Almaty,KZALM,1701.6
+2010,thousands hectares,Zhambyl,KZZHA,182.6
+2010,thousands hectares,Karagandy,KZKAR,175.7
+2010,thousands hectares,Pavlodar,KZPAV,68.5
+2010,thousands hectares,Soltustik Kazakhstan,KZSEV,11.1
+2010,thousands hectares,Turkistan,KZYUZ,379.6
+2010,thousands hectares,Shygys Kazakhstan,KZVOS,3035.2
+2011,thousands hectares,,,5646.8
+2011,thousands hectares,Akmola,KZAKM,86.6
+2011,thousands hectares,Almaty,KZALM,1707.4
+2011,thousands hectares,Zhambyl,KZZHA,182.6
+2011,thousands hectares,Karagandy,KZKAR,175.7
+2011,thousands hectares,Pavlodar,KZPAV,68.5
+2011,thousands hectares,Soltustik Kazakhstan,KZSEV,11.1
+2011,thousands hectares,Turkistan,KZYUZ,379.6
+2011,thousands hectares,Shygys Kazakhstan,KZVOS,3034.9
+2012,thousands hectares,,,5663.6
+2012,thousands hectares,Akmola,KZAKM,74.5
+2012,thousands hectares,Almaty,KZALM,1707.5
+2012,thousands hectares,Zhambyl,KZZHA,182.6
+2012,thousands hectares,Karagandy,KZKAR,153.8
+2012,thousands hectares,Pavlodar,KZPAV,68.5
+2012,thousands hectares,Soltustik Kazakhstan,KZSEV,11.1
+2012,thousands hectares,Turkistan,KZYUZ,431.8
+2012,thousands hectares,Shygys Kazakhstan,KZVOS,3033.7
+2013,thousands hectares,,,5669.2
+2013,thousands hectares,Akmola,KZAKM,74.5
+2013,thousands hectares,Almaty,KZALM,1707.5
+2013,thousands hectares,Zhambyl,KZZHA,182.6
+2013,thousands hectares,Karagandy,KZKAR,153.8
+2013,thousands hectares,Pavlodar,KZPAV,68.5
+2013,thousands hectares,Soltustik Kazakhstan,KZSEV,11.1
+2013,thousands hectares,Turkistan,KZYUZ,431.8
+2013,thousands hectares,Shygys Kazakhstan,KZVOS,3039.4
+2014,thousands hectares,,,5674.5
+2014,thousands hectares,Akmola,KZAKM,74.5
+2014,thousands hectares,Almaty,KZALM,1706.5
+2014,thousands hectares,Zhambyl,KZZHA,182.6
+2014,thousands hectares,Karagandy,KZKAR,153.8
+2014,thousands hectares,Pavlodar,KZPAV,68.5
+2014,thousands hectares,Soltustik Kazakhstan,KZSEV,11.1
+2014,thousands hectares,Turkistan,KZYUZ,431.8
+2014,thousands hectares,Shygys Kazakhstan,KZVOS,3045.6
+2015,thousands hectares,,,5675.0
+2015,thousands hectares,Akmola,KZAKM,74.5
+2015,thousands hectares,Almaty,KZALM,1707.1
+2015,thousands hectares,Zhambyl,KZZHA,182.6
+2015,thousands hectares,Karagandy,KZKAR,153.8
+2015,thousands hectares,Pavlodar,KZPAV,68.5
+2015,thousands hectares,Soltustik Kazakhstan,KZSEV,11.1
+2015,thousands hectares,Turkistan,KZYUZ,431.8
+2015,thousands hectares,Shygys Kazakhstan,KZVOS,3045.6
+2016,thousands hectares,,,5675.2
+2016,thousands hectares,Akmola,KZAKM,74.5
+2016,thousands hectares,Almaty,KZALM,1707.3
+2016,thousands hectares,Zhambyl,KZZHA,182.6
+2016,thousands hectares,Karagandy,KZKAR,153.8
+2016,thousands hectares,Pavlodar,KZPAV,68.5
+2016,thousands hectares,Soltustik Kazakhstan,KZSEV,11.1
+2016,thousands hectares,Turkistan,KZYUZ,431.8
+2016,thousands hectares,Shygys Kazakhstan,KZVOS,3045.6
+2017,thousands hectares,,,5699.2
+2017,thousands hectares,Akmola,KZAKM,99.8
+2017,thousands hectares,Almaty,KZALM,1707.3
+2017,thousands hectares,Zhambyl,KZZHA,215.8
+2017,thousands hectares,Karagandy,KZKAR,179.2
+2017,thousands hectares,Pavlodar,KZPAV,68.5
+2017,thousands hectares,Soltustik Kazakhstan,KZSEV,11.1
+2017,thousands hectares,Turkistan,KZYUZ,431.8
+2017,thousands hectares,Shygys Kazakhstan,KZVOS,2985.8
+2018,thousands hectares,,,5841.6
+2018,thousands hectares,Akmola,KZAKM,99.8
+2018,thousands hectares,Almaty,KZALM,1706.1
+2018,thousands hectares,Zhambyl,KZZHA,215.8
+2018,thousands hectares,Karagandy,KZKAR,179.2
+2018,thousands hectares,Pavlodar,KZPAV,68.5
+2018,thousands hectares,Soltustik Kazakhstan,KZSEV,11.1
+2018,thousands hectares,Turkistan,KZYUZ,431.8
+2018,thousands hectares,Shygys Kazakhstan,KZVOS,3129.3
+2019,thousands hectares,,,5999.6
+2019,thousands hectares,Akmola,KZAKM,99.8
+2019,thousands hectares,Almaty,KZALM,1705.9
+2019,thousands hectares,Zhambyl,KZZHA,324.9
+2019,thousands hectares,Karagandy,KZKAR,179.2
+2019,thousands hectares,Pavlodar,KZPAV,68.5
+2019,thousands hectares,Soltustik Kazakhstan,KZSEV,11.1
+2019,thousands hectares,Turkistan,KZYUZ,431.8
+2019,thousands hectares,Shygys Kazakhstan,KZVOS,3178.4
+2020,thousands hectares,,,5872.2
+2020,thousands hectares,Akmola,KZAKM,70.2
+2020,thousands hectares,Almaty,KZALM,1799.9
+2020,thousands hectares,Zhambyl,KZZHA,324.9
+2020,thousands hectares,Karagandy,KZKAR,179.1
+2020,thousands hectares,Pavlodar,KZPAV,68.5
+2020,thousands hectares,Soltustik Kazakhstan,KZSEV,11.1
+2020,thousands hectares,Turkistan,KZYUZ,287.8
+2020,thousands hectares,Shygys Kazakhstan,KZVOS,3130.6

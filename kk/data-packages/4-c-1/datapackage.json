@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Жыл"
           },
           {
             "name": "UNIT_MEASURE",
@@ -60,6 +60,11 @@
               ]
             },
             "title": "Өңірлер"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

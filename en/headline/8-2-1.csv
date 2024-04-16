@@ -1,12 +1,12 @@
-Year,Value,UNIT_MEASURE
-2010,103.7,as a percentage to the previous year
-2011,105.0,as a percentage to the previous year
-2012,102.5,as a percentage to the previous year
-2013,105.1,as a percentage to the previous year
-2014,104.6,as a percentage to the previous year
-2015,100.6,as a percentage to the previous year
-2016,100.2,as a percentage to the previous year
-2017,104.3,as a percentage to the previous year
-2018,103.1,as a percentage to the previous year
-2019,103.7,as a percentage to the previous year
-2020,97.5,as a percentage to the previous year
+Year,Value,GeoCode,UNIT_MEASURE
+2010,103.7,,as a percentage to the previous year
+2011,105.0,,as a percentage to the previous year
+2012,102.5,,as a percentage to the previous year
+2013,105.1,,as a percentage to the previous year
+2014,104.6,,as a percentage to the previous year
+2015,100.6,,as a percentage to the previous year
+2016,100.2,,as a percentage to the previous year
+2017,104.3,,as a percentage to the previous year
+2018,103.1,,as a percentage to the previous year
+2019,103.7,,as a percentage to the previous year
+2020,97.5,,as a percentage to the previous year

@@ -1,53 +1,53 @@
-Year,UNIT_MEASURE,Sex,Area,Age,Regions,Value
-2010,Percent,,,,,99.7
-2010,Percent,,urban,,,99.9
-2010,Percent,,rural,,,99.6
-2010,Percent,Male,,,,99.8
-2010,Percent,Female,,,,99.7
-2010,Percent,,,under 1 year old,,99.1
-2010,Percent,,,12 to 23 months,,99.9
-2010,Percent,,,24 to 35 months,,99.9
-2010,Percent,,,36-47 months,,99.9
-2010,Percent,,,48-59 months,,100.0
-2010,Percent,,,,Akmola,98.8
-2010,Percent,,,,Aktobe,99.6
-2010,Percent,,,,Almaty,100.0
-2010,Percent,,,,Atyrau,99.7
-2010,Percent,,,,Batys Kazakhstan,100.0
-2010,Percent,,,,Zhambyl,99.7
-2010,Percent,,,,Karagandy,99.8
-2010,Percent,,,,Kostanay,98.7
-2010,Percent,,,,Kyzylorda,100.0
-2010,Percent,,,,Mangistau,99.7
-2010,Percent,,,,Ontustik Kazakhstan,100.0
-2010,Percent,,,,Pavlodar,99.6
-2010,Percent,,,,Soltustik Kazakhstan,98.8
-2010,Percent,,,,Shygys Kazakhstan,99.6
-2010,Percent,,,,Nur-Sultan city,100.0
-2010,Percent,,,,Almaty city,100.0
-2015,Percent,,,,,99.7
-2015,Percent,,urban,,,99.9
-2015,Percent,,rural,,,99.5
-2015,Percent,Male,,,,99.7
-2015,Percent,Female,,,,99.7
-2015,Percent,,,under 1 year old,,98.7
-2015,Percent,,,12 to 23 months,,100.0
-2015,Percent,,,24 to 35 months,,100.0
-2015,Percent,,,36-47 months,,99.8
-2015,Percent,,,48-59 months,,100.0
-2015,Percent,,,,Akmola,100.0
-2015,Percent,,,,Aktobe,100.0
-2015,Percent,,,,Almaty,99.1
-2015,Percent,,,,Atyrau,98.9
-2015,Percent,,,,Batys Kazakhstan,99.7
-2015,Percent,,,,Zhambyl,99.4
-2015,Percent,,,,Karagandy,99.6
-2015,Percent,,,,Kostanay,100.0
-2015,Percent,,,,Kyzylorda,99.5
-2015,Percent,,,,Mangistau,99.8
-2015,Percent,,,,Ontustik Kazakhstan,99.8
-2015,Percent,,,,Pavlodar,100.0
-2015,Percent,,,,Soltustik Kazakhstan,99.5
-2015,Percent,,,,Shygys Kazakhstan,100.0
-2015,Percent,,,,Nur-Sultan city,99.7
-2015,Percent,,,,Almaty city,100.0
+Year,UNIT_MEASURE,Sex,Area,Age,Regions,GeoCode,Value
+2010,Percent,,,,,,99.7
+2010,Percent,,urban,,,,99.9
+2010,Percent,,rural,,,,99.6
+2010,Percent,Male,,,,,99.8
+2010,Percent,Female,,,,,99.7
+2010,Percent,,,under 1 year old,,,99.1
+2010,Percent,,,12 to 23 months,,,99.9
+2010,Percent,,,24 to 35 months,,,99.9
+2010,Percent,,,36-47 months,,,99.9
+2010,Percent,,,48-59 months,,,100.0
+2010,Percent,,,,Akmola,KZAKM,98.8
+2010,Percent,,,,Aktobe,KZAKT,99.6
+2010,Percent,,,,Almaty,KZALM,100.0
+2010,Percent,,,,Atyrau,KZATY,99.7
+2010,Percent,,,,Batys Kazakhstan,KZZAP,100.0
+2010,Percent,,,,Zhambyl,KZZHA,99.7
+2010,Percent,,,,Karagandy,KZKAR,99.8
+2010,Percent,,,,Kostanay,KZKUS,98.7
+2010,Percent,,,,Kyzylorda,KZKZY,100.0
+2010,Percent,,,,Mangistau,KZMAN,99.7
+2010,Percent,,,,Ontustik Kazakhstan,KZONT,100.0
+2010,Percent,,,,Pavlodar,KZPAV,99.6
+2010,Percent,,,,Soltustik Kazakhstan,KZSEV,98.8
+2010,Percent,,,,Shygys Kazakhstan,KZVOS,99.6
+2010,Percent,,,,Nur-Sultan city,KZNS,100.0
+2010,Percent,,,,Almaty city,KZALA,100.0
+2015,Percent,,,,,,99.7
+2015,Percent,,urban,,,,99.9
+2015,Percent,,rural,,,,99.5
+2015,Percent,Male,,,,,99.7
+2015,Percent,Female,,,,,99.7
+2015,Percent,,,under 1 year old,,,98.7
+2015,Percent,,,12 to 23 months,,,100.0
+2015,Percent,,,24 to 35 months,,,100.0
+2015,Percent,,,36-47 months,,,99.8
+2015,Percent,,,48-59 months,,,100.0
+2015,Percent,,,,Akmola,KZAKM,100.0
+2015,Percent,,,,Aktobe,KZAKT,100.0
+2015,Percent,,,,Almaty,KZALM,99.1
+2015,Percent,,,,Atyrau,KZATY,98.9
+2015,Percent,,,,Batys Kazakhstan,KZZAP,99.7
+2015,Percent,,,,Zhambyl,KZZHA,99.4
+2015,Percent,,,,Karagandy,KZKAR,99.6
+2015,Percent,,,,Kostanay,KZKUS,100.0
+2015,Percent,,,,Kyzylorda,KZKZY,99.5
+2015,Percent,,,,Mangistau,KZMAN,99.8
+2015,Percent,,,,Ontustik Kazakhstan,KZONT,99.8
+2015,Percent,,,,Pavlodar,KZPAV,100.0
+2015,Percent,,,,Soltustik Kazakhstan,KZSEV,99.5
+2015,Percent,,,,Shygys Kazakhstan,KZVOS,100.0
+2015,Percent,,,,Nur-Sultan city,KZNS,99.7
+2015,Percent,,,,Almaty city,KZALA,100.0

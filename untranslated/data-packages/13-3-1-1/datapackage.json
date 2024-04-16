@@ -28,6 +28,10 @@
             }
           },
           {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -11,9 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
           },
           {
             "name": "UNIT_MEASURE",
@@ -21,14 +21,14 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

@@ -1,10 +1,10 @@
-Year,Value,SERIES,UNIT_MEASURE
-2015,100.0,sources of drinking water,Percent
-2016,100.0,sources of drinking water,Percent
-2017,100.0,sources of drinking water,Percent
-2018,100.0,sources of drinking water,Percent
-2019,94.06596377399296,access to the internet for education purposes,Percent
-2019,100.0,sources of drinking water,Percent
-2019,41.57880508245472,_L_KZ_040a01_1A,Percent
-2019,31.346309813463098,_L_KZ_040a01_1B,Percent
-2019,27.074885104082185,_L_KZ_040a01_1C,Percent
+Year,Value,GeoCode,SERIES,UNIT_MEASURE
+2015,100.0,,sources of drinking water,Percent
+2016,100.0,,sources of drinking water,Percent
+2017,100.0,,sources of drinking water,Percent
+2018,100.0,,sources of drinking water,Percent
+2019,94.06596377399296,,access to the internet for education purposes,Percent
+2019,100.0,,sources of drinking water,Percent
+2019,41.57880508245472,,_L_KZ_040a01_1A,Percent
+2019,31.346309813463098,,_L_KZ_040a01_1B,Percent
+2019,27.074885104082185,,_L_KZ_040a01_1C,Percent

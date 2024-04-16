@@ -1,62 +1,62 @@
-Year,UNIT_MEASURE,Regions,Value
-2012,Percent,,1.0
-2013,Percent,,1.58
-2014,Percent,,2.21
-2015,Percent,,1.8
-2016,Percent,,2.6
-2017,Percent,,9.0
-2018,Percent,,11.51
-2019,Percent,,14.9
-2019,Percent,Akmola,3.0
-2019,Percent,Aktobe,10.0
-2019,Percent,Almaty,23.3
-2019,Percent,Atyrau,10.4
-2019,Percent,Batys Kazakhstan,8.6
-2019,Percent,Zhambyl,8.5
-2019,Percent,Karagandy,17.4
-2019,Percent,Kostanay,10.3
-2019,Percent,Kyzylorda,10.8
-2019,Percent,Mangistau,33.8
-2019,Percent,Pavlodar,15.0
-2019,Percent,Soltustik Kazakhstan,10.8
-2019,Percent,Turkistan,10.1
-2019,Percent,Shygys Kazakhstan,3.3
-2019,Percent,Nur-Sultan city,15.9
-2019,Percent,Almaty city,11.0
-2019,Percent,Shymkent city,22.7
-2020,Percent,,18.3
-2020,Percent,Akmola,15.0
-2020,Percent,Aktobe,10.0
-2020,Percent,Almaty,17.0
-2020,Percent,Atyrau,20.0
-2020,Percent,Batys Kazakhstan,11.0
-2020,Percent,Zhambyl,13.0
-2020,Percent,Karagandy,29.0
-2020,Percent,Kostanay,12.0
-2020,Percent,Kyzylorda,18.0
-2020,Percent,Mangistau,35.0
-2020,Percent,Pavlodar,22.0
-2020,Percent,Soltustik Kazakhstan,13.0
-2020,Percent,Turkistan,13.0
-2020,Percent,Shygys Kazakhstan,18.0
-2020,Percent,Nur-Sultan city,30.0
-2020,Percent,Almaty city,10.0
-2020,Percent,Shymkent city,25.0
-2021,Percent,,21.1
-2021,Percent,Akmola,9.0
-2021,Percent,Aktobe,10.7
-2021,Percent,Almaty,17.6
-2021,Percent,Atyrau,21.1
-2021,Percent,Batys Kazakhstan,11.6
-2021,Percent,Zhambyl,11.3
-2021,Percent,Karagandy,29.0
-2021,Percent,Kostanay,17.7
-2021,Percent,Kyzylorda,19.7
-2021,Percent,Mangistau,28.3
-2021,Percent,Pavlodar,23.8
-2021,Percent,Soltustik Kazakhstan,15.0
-2021,Percent,Turkistan,16.0
-2021,Percent,Shygys Kazakhstan,11.3
-2021,Percent,Nur-Sultan city,75.0
-2021,Percent,Almaty city,14.0
-2021,Percent,Shymkent city,27.2
+Year,UNIT_MEASURE,Regions,GeoCode,Value
+2012,Percent,,,1.0
+2013,Percent,,,1.58
+2014,Percent,,,2.21
+2015,Percent,,,1.8
+2016,Percent,,,2.6
+2017,Percent,,,9.0
+2018,Percent,,,11.51
+2019,Percent,,,14.9
+2019,Percent,Akmola,KZAKM,3.0
+2019,Percent,Aktobe,KZAKT,10.0
+2019,Percent,Almaty,KZALM,23.3
+2019,Percent,Atyrau,KZATY,10.4
+2019,Percent,Batys Kazakhstan,KZZAP,8.6
+2019,Percent,Zhambyl,KZZHA,8.5
+2019,Percent,Karagandy,KZKAR,17.4
+2019,Percent,Kostanay,KZKUS,10.3
+2019,Percent,Kyzylorda,KZKZY,10.8
+2019,Percent,Mangistau,KZMAN,33.8
+2019,Percent,Pavlodar,KZPAV,15.0
+2019,Percent,Soltustik Kazakhstan,KZSEV,10.8
+2019,Percent,Turkistan,KZYUZ,10.1
+2019,Percent,Shygys Kazakhstan,KZVOS,3.3
+2019,Percent,Nur-Sultan city,KZNS,15.9
+2019,Percent,Almaty city,KZALA,11.0
+2019,Percent,Shymkent city,KZSHY,22.7
+2020,Percent,,,18.3
+2020,Percent,Akmola,KZAKM,15.0
+2020,Percent,Aktobe,KZAKT,10.0
+2020,Percent,Almaty,KZALM,17.0
+2020,Percent,Atyrau,KZATY,20.0
+2020,Percent,Batys Kazakhstan,KZZAP,11.0
+2020,Percent,Zhambyl,KZZHA,13.0
+2020,Percent,Karagandy,KZKAR,29.0
+2020,Percent,Kostanay,KZKUS,12.0
+2020,Percent,Kyzylorda,KZKZY,18.0
+2020,Percent,Mangistau,KZMAN,35.0
+2020,Percent,Pavlodar,KZPAV,22.0
+2020,Percent,Soltustik Kazakhstan,KZSEV,13.0
+2020,Percent,Turkistan,KZYUZ,13.0
+2020,Percent,Shygys Kazakhstan,KZVOS,18.0
+2020,Percent,Nur-Sultan city,KZNS,30.0
+2020,Percent,Almaty city,KZALA,10.0
+2020,Percent,Shymkent city,KZSHY,25.0
+2021,Percent,,,21.1
+2021,Percent,Akmola,KZAKM,9.0
+2021,Percent,Aktobe,KZAKT,10.7
+2021,Percent,Almaty,KZALM,17.6
+2021,Percent,Atyrau,KZATY,21.1
+2021,Percent,Batys Kazakhstan,KZZAP,11.6
+2021,Percent,Zhambyl,KZZHA,11.3
+2021,Percent,Karagandy,KZKAR,29.0
+2021,Percent,Kostanay,KZKUS,17.7
+2021,Percent,Kyzylorda,KZKZY,19.7
+2021,Percent,Mangistau,KZMAN,28.3
+2021,Percent,Pavlodar,KZPAV,23.8
+2021,Percent,Soltustik Kazakhstan,KZSEV,15.0
+2021,Percent,Turkistan,KZYUZ,16.0
+2021,Percent,Shygys Kazakhstan,KZVOS,11.3
+2021,Percent,Nur-Sultan city,KZNS,75.0
+2021,Percent,Almaty city,KZALA,14.0
+2021,Percent,Shymkent city,KZSHY,27.2
