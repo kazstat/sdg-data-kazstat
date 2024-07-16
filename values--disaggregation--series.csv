@@ -78,7 +78,7 @@ _L_KZ_DD_SDD,сильная степень отклонения от нормы,
 AG_LND_FRSTBIOM,Запасы наземной биомассы в лесах,AG_LND_FRSTBIOM,Above-ground biomass in forest (tonnes) [15.2.1],15,1
 AG_LND_FRSTMGT,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",AG_LND_FRSTMGT,Proportion of forest area with a long-term management plan [15.2.1],15,1
 AG_LND_FRSTPRCT,"Доля лесной площади, находящейся в охраняемых законом зонах",AG_LND_FRSTPRCT,Proportion of forest area within legally established protected areas [15.2.1],15,1
-SD_XPD_ESED,Образование,SD_XPD_ESED,"Proportion of total government spending on essential services, education [1.a.2]",1,1
+SD_XPD_ESED,Образование,SD_XPD_ESED,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",1,1
 SE_ACS_H2O,базовыми источниками питьевой воды,базалық ауыз су көздерімен,sources of drinking water,1,1
 SE_ACS_INTNT,доступом к Интернету для учебных целей,Оқу мақсаттары үшін Интернетке қол жетімділікпен,access to the internet for education purposes,51,1
 SE_ACS_SANIT,раздельными минимально оборудованными туалетами,ең қарапайым деңгейде бөлек дәретханалармен,separate restrooms which meet minimum standards,17,1
