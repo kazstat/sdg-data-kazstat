@@ -60,6 +60,8 @@ map_layers:
     id_property: kzCode
     output_subfolder: regions
     filename_prefix: indicator_
+    exclude_columns:
+      - REF_AREA
   # The above layer will produce GeoJSON files such as this:
   #     _site/en/geojson/regions/indicator_1-2-1.geojson
   # Add any number of additional layers, such as one for counties.
