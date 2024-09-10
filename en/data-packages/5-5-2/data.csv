@@ -1,1620 +1,1809 @@
-Year,UNIT_MEASURE,Regions,Area,Age,GeoCode,Value
-2010,Percent,,,,,37.2
-2010,Percent,Akmola,,,KZAKM,39.9
-2010,Percent,Aktobe,,,KZAKT,41.7
-2010,Percent,Almaty,,,KZALM,31.5
-2010,Percent,Atyrau,,,KZATY,18.9
-2010,Percent,Batys Kazakhstan,,,KZZAP,21.2
-2010,Percent,Zhambyl,,,KZZHA,22.3
-2010,Percent,Karagandy,,,KZKAR,41.0
-2010,Percent,Kostanay,,,KZKUS,39.6
-2010,Percent,Kyzylorda,,,KZKZY,38.1
-2010,Percent,Mangistau,,,KZMAN,30.4
-2010,Percent,Ontustik Kazakhstan,,,KZONT,18.4
-2010,Percent,Pavlodar,,,KZPAV,41.7
-2010,Percent,Soltustik Kazakhstan,,,KZSEV,32.7
-2010,Percent,Shygys Kazakhstan,,,KZVOS,35.7
-2010,Percent,Nur-Sultan city,,,KZNS,40.4
-2010,Percent,Almaty city,,,KZALA,39.2
-2010,Percent,,urban,,,38.0
-2010,Percent,Akmola,urban,,KZAKM,40.5
-2010,Percent,Aktobe,urban,,KZAKT,36.1
-2010,Percent,Almaty,urban,,KZALM,29.7
-2010,Percent,Atyrau,urban,,KZATY,16.1
-2010,Percent,Batys Kazakhstan,urban,,KZZAP,23.4
-2010,Percent,Zhambyl,urban,,KZZHA,28.0
-2010,Percent,Karagandy,urban,,KZKAR,41.7
-2010,Percent,Kostanay,urban,,KZKUS,35.3
-2010,Percent,Kyzylorda,urban,,KZKZY,38.5
-2010,Percent,Mangistau,urban,,KZMAN,30.5
-2010,Percent,Ontustik Kazakhstan,urban,,KZONT,24.8
-2010,Percent,Pavlodar,urban,,KZPAV,41.4
-2010,Percent,Soltustik Kazakhstan,urban,,KZSEV,36.6
-2010,Percent,Shygys Kazakhstan,urban,,KZVOS,39.5
-2010,Percent,Nur-Sultan city,urban,,KZNS,40.4
-2010,Percent,Almaty city,urban,,KZALA,39.2
-2010,Percent,,rural,,,33.4
-2010,Percent,Akmola,rural,,KZAKM,37.5
-2010,Percent,Aktobe,rural,,KZAKT,55.8
-2010,Percent,Almaty,rural,,KZALM,32.7
-2010,Percent,Atyrau,rural,,KZATY,26.8
-2010,Percent,Batys Kazakhstan,rural,,KZZAP,8.6
-2010,Percent,Zhambyl,rural,,KZZHA,19.1
-2010,Percent,Karagandy,rural,,KZKAR,31.5
-2010,Percent,Kostanay,rural,,KZKUS,46.9
-2010,Percent,Kyzylorda,rural,,KZKZY,37.3
-2010,Percent,Mangistau,rural,,KZMAN,29.6
-2010,Percent,Ontustik Kazakhstan,rural,,KZONT,4.2
-2010,Percent,Pavlodar,rural,,KZPAV,43.3
-2010,Percent,Soltustik Kazakhstan,rural,,KZSEV,27.3
-2010,Percent,Shygys Kazakhstan,rural,,KZVOS,28.8
-2010,Percent,,,16-24,,41.5
-2010,Percent,,,25-28,,43.5
-2010,Percent,,,29-34,,32.8
-2010,Percent,,,35-44,,40.6
-2010,Percent,,,45-54,,35.8
-2010,Percent,,,55-64,,30.9
-2010,Percent,,,65 and older,,51.0
-2010,Percent,Akmola,,16-24,KZAKM,44.0
-2010,Percent,Akmola,,25-28,KZAKM,22.2
-2010,Percent,Akmola,,29-34,KZAKM,45.3
-2010,Percent,Akmola,,35-44,KZAKM,46.2
-2010,Percent,Akmola,,45-54,KZAKM,44.3
-2010,Percent,Akmola,,55-64,KZAKM,24.6
-2010,Percent,Aktobe,,16-24,KZAKT,100.0
-2010,Percent,Aktobe,,25-28,KZAKT,56.3
-2010,Percent,Aktobe,,29-34,KZAKT,25.8
-2010,Percent,Aktobe,,35-44,KZAKT,47.6
-2010,Percent,Aktobe,,45-54,KZAKT,24.1
-2010,Percent,Aktobe,,55-64,KZAKT,51.9
-2010,Percent,Almaty,,16-24,KZALM,29.8
-2010,Percent,Almaty,,25-28,KZALM,25.2
-2010,Percent,Almaty,,29-34,KZALM,0.0
-2010,Percent,Almaty,,35-44,KZALM,40.4
-2010,Percent,Almaty,,45-54,KZALM,36.6
-2010,Percent,Almaty,,55-64,KZALM,46.9
-2010,Percent,Atyrau,,29-34,KZATY,33.4
-2010,Percent,Atyrau,,35-44,KZATY,0.0
-2010,Percent,Atyrau,,45-54,KZATY,32.6
-2010,Percent,Atyrau,,55-64,KZATY,15.6
-2010,Percent,Batys Kazakhstan,,16-24,KZZAP,7.0
-2010,Percent,Batys Kazakhstan,,25-28,KZZAP,13.2
-2010,Percent,Batys Kazakhstan,,29-34,KZZAP,31.4
-2010,Percent,Batys Kazakhstan,,35-44,KZZAP,14.9
-2010,Percent,Batys Kazakhstan,,45-54,KZZAP,19.3
-2010,Percent,Batys Kazakhstan,,55-64,KZZAP,32.5
-2010,Percent,Zhambyl,,25-28,KZZHA,100.0
-2010,Percent,Zhambyl,,29-34,KZZHA,0.0
-2010,Percent,Zhambyl,,35-44,KZZHA,30.2
-2010,Percent,Zhambyl,,45-54,KZZHA,39.8
-2010,Percent,Zhambyl,,55-64,KZZHA,6.5
-2010,Percent,Karagandy,,16-24,KZKAR,32.9
-2010,Percent,Karagandy,,25-28,KZKAR,33.8
-2010,Percent,Karagandy,,29-34,KZKAR,36.0
-2010,Percent,Karagandy,,35-44,KZKAR,41.8
-2010,Percent,Karagandy,,45-54,KZKAR,46.6
-2010,Percent,Karagandy,,55-64,KZKAR,44.6
-2010,Percent,Karagandy,,65 and older,KZKAR,0.0
-2010,Percent,Kostanay,,16-24,KZKUS,13.4
-2010,Percent,Kostanay,,25-28,KZKUS,40.4
-2010,Percent,Kostanay,,29-34,KZKUS,49.1
-2010,Percent,Kostanay,,35-44,KZKUS,33.0
-2010,Percent,Kostanay,,45-54,KZKUS,40.5
-2010,Percent,Kostanay,,55-64,KZKUS,36.1
-2010,Percent,Kostanay,,65 and older,KZKUS,83.9
-2010,Percent,Kyzylorda,,16-24,KZKZY,100.0
-2010,Percent,Kyzylorda,,25-28,KZKZY,89.4
-2010,Percent,Kyzylorda,,29-34,KZKZY,58.7
-2010,Percent,Kyzylorda,,35-44,KZKZY,34.6
-2010,Percent,Kyzylorda,,45-54,KZKZY,33.4
-2010,Percent,Kyzylorda,,55-64,KZKZY,23.6
-2010,Percent,Kyzylorda,,65 and older,KZKZY,0.0
-2010,Percent,Mangistau,,16-24,KZMAN,25.8
-2010,Percent,Mangistau,,25-28,KZMAN,22.7
-2010,Percent,Mangistau,,29-34,KZMAN,30.0
-2010,Percent,Mangistau,,35-44,KZMAN,35.3
-2010,Percent,Mangistau,,45-54,KZMAN,34.2
-2010,Percent,Mangistau,,55-64,KZMAN,15.4
-2010,Percent,Mangistau,,65 and older,KZMAN,0.0
-2010,Percent,Ontustik Kazakhstan,,16-24,KZONT,0.0
-2010,Percent,Ontustik Kazakhstan,,25-28,KZONT,100.0
-2010,Percent,Ontustik Kazakhstan,,29-34,KZONT,34.8
-2010,Percent,Ontustik Kazakhstan,,35-44,KZONT,14.3
-2010,Percent,Ontustik Kazakhstan,,45-54,KZONT,14.7
-2010,Percent,Ontustik Kazakhstan,,55-64,KZONT,23.3
-2010,Percent,Pavlodar,,16-24,KZPAV,77.4
-2010,Percent,Pavlodar,,25-28,KZPAV,35.0
-2010,Percent,Pavlodar,,29-34,KZPAV,47.4
-2010,Percent,Pavlodar,,35-44,KZPAV,35.2
-2010,Percent,Pavlodar,,45-54,KZPAV,44.7
-2010,Percent,Pavlodar,,55-64,KZPAV,34.2
-2010,Percent,Soltustik Kazakhstan,,16-24,KZSEV,43.8
-2010,Percent,Soltustik Kazakhstan,,25-28,KZSEV,35.2
-2010,Percent,Soltustik Kazakhstan,,29-34,KZSEV,50.8
-2010,Percent,Soltustik Kazakhstan,,35-44,KZSEV,40.3
-2010,Percent,Soltustik Kazakhstan,,45-54,KZSEV,19.6
-2010,Percent,Soltustik Kazakhstan,,55-64,KZSEV,25.3
-2010,Percent,Shygys Kazakhstan,,16-24,KZVOS,53.9
-2010,Percent,Shygys Kazakhstan,,25-28,KZVOS,47.9
-2010,Percent,Shygys Kazakhstan,,29-34,KZVOS,23.1
-2010,Percent,Shygys Kazakhstan,,35-44,KZVOS,35.7
-2010,Percent,Shygys Kazakhstan,,45-54,KZVOS,39.1
-2010,Percent,Shygys Kazakhstan,,55-64,KZVOS,25.4
-2010,Percent,Nur-Sultan city,,16-24,KZNS,44.0
-2010,Percent,Nur-Sultan city,,25-28,KZNS,54.0
-2010,Percent,Nur-Sultan city,,29-34,KZNS,28.9
-2010,Percent,Nur-Sultan city,,35-44,KZNS,48.5
-2010,Percent,Nur-Sultan city,,45-54,KZNS,34.6
-2010,Percent,Nur-Sultan city,,55-64,KZNS,35.8
-2010,Percent,Nur-Sultan city,,65 and older,KZNS,25.6
-2010,Percent,Almaty city,,16-24,KZALA,23.7
-2010,Percent,Almaty city,,25-28,KZALA,42.7
-2010,Percent,Almaty city,,29-34,KZALA,43.5
-2010,Percent,Almaty city,,35-44,KZALA,46.4
-2010,Percent,Almaty city,,45-54,KZALA,31.7
-2010,Percent,Almaty city,,55-64,KZALA,26.8
-2011,Percent,,,,,38.5
-2011,Percent,Akmola,,,KZAKM,43.1
-2011,Percent,Aktobe,,,KZAKT,41.6
-2011,Percent,Almaty,,,KZALM,24.4
-2011,Percent,Atyrau,,,KZATY,26.7
-2011,Percent,Batys Kazakhstan,,,KZZAP,24.7
-2011,Percent,Zhambyl,,,KZZHA,30.1
-2011,Percent,Karagandy,,,KZKAR,40.0
-2011,Percent,Kostanay,,,KZKUS,43.9
-2011,Percent,Kyzylorda,,,KZKZY,40.8
-2011,Percent,Mangistau,,,KZMAN,32.9
-2011,Percent,Ontustik Kazakhstan,,,KZONT,28.1
-2011,Percent,Pavlodar,,,KZPAV,41.9
-2011,Percent,Soltustik Kazakhstan,,,KZSEV,35.0
-2011,Percent,Shygys Kazakhstan,,,KZVOS,37.6
-2011,Percent,Nur-Sultan city,,,KZNS,41.4
-2011,Percent,Almaty city,,,KZALA,40.3
-2011,Percent,,urban,,,39.5
-2011,Percent,Akmola,urban,,KZAKM,46.1
-2011,Percent,Aktobe,urban,,KZAKT,40.4
-2011,Percent,Almaty,urban,,KZALM,26.2
-2011,Percent,Atyrau,urban,,KZATY,27.8
-2011,Percent,Batys Kazakhstan,urban,,KZZAP,27.5
-2011,Percent,Zhambyl,urban,,KZZHA,35.3
-2011,Percent,Karagandy,urban,,KZKAR,40.0
-2011,Percent,Kostanay,urban,,KZKUS,42.6
-2011,Percent,Kyzylorda,urban,,KZKZY,40.2
-2011,Percent,Mangistau,urban,,KZMAN,34.7
-2011,Percent,Ontustik Kazakhstan,urban,,KZONT,31.5
-2011,Percent,Pavlodar,urban,,KZPAV,39.0
-2011,Percent,Soltustik Kazakhstan,urban,,KZSEV,35.1
-2011,Percent,Shygys Kazakhstan,urban,,KZVOS,40.1
-2011,Percent,Nur-Sultan city,urban,,KZNS,41.4
-2011,Percent,Almaty city,urban,,KZALA,40.3
-2011,Percent,,rural,,,34.3
-2011,Percent,Akmola,rural,,KZAKM,30.0
-2011,Percent,Aktobe,rural,,KZAKT,48.8
-2011,Percent,Almaty,rural,,KZALM,23.3
-2011,Percent,Atyrau,rural,,KZATY,23.6
-2011,Percent,Batys Kazakhstan,rural,,KZZAP,11.0
-2011,Percent,Zhambyl,rural,,KZZHA,25.0
-2011,Percent,Karagandy,rural,,KZKAR,39.8
-2011,Percent,Kostanay,rural,,KZKUS,46.7
-2011,Percent,Kyzylorda,rural,,KZKZY,41.9
-2011,Percent,Mangistau,rural,,KZMAN,20.5
-2011,Percent,Ontustik Kazakhstan,rural,,KZONT,21.4
-2011,Percent,Pavlodar,rural,,KZPAV,51.8
-2011,Percent,Soltustik Kazakhstan,rural,,KZSEV,34.7
-2011,Percent,Shygys Kazakhstan,rural,,KZVOS,32.9
-2011,Percent,,,16-24,,49.8
-2011,Percent,,,25-28,,44.1
-2011,Percent,,,29-34,,36.3
-2011,Percent,,,35-44,,39.3
-2011,Percent,,,45-54,,38.2
-2011,Percent,,,55-64,,29.4
-2011,Percent,,,65 and older,,13.6
-2011,Percent,Akmola,,16-24,KZAKM,53.2
-2011,Percent,Akmola,,25-28,KZAKM,40.9
-2011,Percent,Akmola,,29-34,KZAKM,51.6
-2011,Percent,Akmola,,35-44,KZAKM,44.1
-2011,Percent,Akmola,,45-54,KZAKM,42.5
-2011,Percent,Akmola,,55-64,KZAKM,26.9
-2011,Percent,Aktobe,,16-24,KZAKT,76.5
-2011,Percent,Aktobe,,25-28,KZAKT,61.7
-2011,Percent,Aktobe,,29-34,KZAKT,22.6
-2011,Percent,Aktobe,,35-44,KZAKT,37.3
-2011,Percent,Aktobe,,45-54,KZAKT,38.1
-2011,Percent,Aktobe,,55-64,KZAKT,24.7
-2011,Percent,Almaty,,16-24,KZALM,48.0
-2011,Percent,Almaty,,25-28,KZALM,20.7
-2011,Percent,Almaty,,29-34,KZALM,0.0
-2011,Percent,Almaty,,35-44,KZALM,27.5
-2011,Percent,Almaty,,45-54,KZALM,32.9
-2011,Percent,Almaty,,55-64,KZALM,24.1
-2011,Percent,Almaty,,65 and older,KZALM,47.1
-2011,Percent,Atyrau,,16-24,KZATY,0.0
-2011,Percent,Atyrau,,25-28,KZATY,71.3
-2011,Percent,Atyrau,,29-34,KZATY,25.2
-2011,Percent,Atyrau,,35-44,KZATY,24.4
-2011,Percent,Atyrau,,45-54,KZATY,34.7
-2011,Percent,Atyrau,,55-64,KZATY,6.1
-2011,Percent,Batys Kazakhstan,,16-24,KZZAP,31.0
-2011,Percent,Batys Kazakhstan,,25-28,KZZAP,0.0
-2011,Percent,Batys Kazakhstan,,29-34,KZZAP,32.4
-2011,Percent,Batys Kazakhstan,,35-44,KZZAP,22.7
-2011,Percent,Batys Kazakhstan,,45-54,KZZAP,17.2
-2011,Percent,Batys Kazakhstan,,55-64,KZZAP,38.1
-2011,Percent,Zhambyl,,16-24,KZZHA,19.0
-2011,Percent,Zhambyl,,25-28,KZZHA,61.4
-2011,Percent,Zhambyl,,29-34,KZZHA,0.0
-2011,Percent,Zhambyl,,35-44,KZZHA,39.6
-2011,Percent,Zhambyl,,45-54,KZZHA,44.8
-2011,Percent,Zhambyl,,55-64,KZZHA,15.9
-2011,Percent,Karagandy,,16-24,KZKAR,53.0
-2011,Percent,Karagandy,,25-28,KZKAR,40.0
-2011,Percent,Karagandy,,29-34,KZKAR,36.5
-2011,Percent,Karagandy,,35-44,KZKAR,37.5
-2011,Percent,Karagandy,,45-54,KZKAR,45.3
-2011,Percent,Karagandy,,55-64,KZKAR,33.1
-2011,Percent,Karagandy,,65 and older,KZKAR,0.0
-2011,Percent,Kostanay,,16-24,KZKUS,57.7
-2011,Percent,Kostanay,,25-28,KZKUS,41.2
-2011,Percent,Kostanay,,29-34,KZKUS,53.6
-2011,Percent,Kostanay,,35-44,KZKUS,42.2
-2011,Percent,Kostanay,,45-54,KZKUS,45.9
-2011,Percent,Kostanay,,55-64,KZKUS,28.9
-2011,Percent,Kostanay,,65 and older,KZKUS,0.0
-2011,Percent,Kyzylorda,,16-24,KZKZY,100.0
-2011,Percent,Kyzylorda,,25-28,KZKZY,33.2
-2011,Percent,Kyzylorda,,29-34,KZKZY,53.6
-2011,Percent,Kyzylorda,,35-44,KZKZY,39.8
-2011,Percent,Kyzylorda,,45-54,KZKZY,41.9
-2011,Percent,Kyzylorda,,55-64,KZKZY,18.9
-2011,Percent,Kyzylorda,,65 and older,KZKZY,0.0
-2011,Percent,Mangistau,,16-24,KZMAN,33.4
-2011,Percent,Mangistau,,25-28,KZMAN,34.2
-2011,Percent,Mangistau,,29-34,KZMAN,19.0
-2011,Percent,Mangistau,,35-44,KZMAN,40.4
-2011,Percent,Mangistau,,45-54,KZMAN,38.1
-2011,Percent,Mangistau,,55-64,KZMAN,24.8
-2011,Percent,Mangistau,,65 and older,KZMAN,0.0
-2011,Percent,Ontustik Kazakhstan,,16-24,KZONT,31.6
-2011,Percent,Ontustik Kazakhstan,,25-28,KZONT,46.6
-2011,Percent,Ontustik Kazakhstan,,29-34,KZONT,48.4
-2011,Percent,Ontustik Kazakhstan,,35-44,KZONT,7.5
-2011,Percent,Ontustik Kazakhstan,,45-54,KZONT,24.4
-2011,Percent,Ontustik Kazakhstan,,55-64,KZONT,27.4
-2011,Percent,Pavlodar,,16-24,KZPAV,21.9
-2011,Percent,Pavlodar,,25-28,KZPAV,52.7
-2011,Percent,Pavlodar,,29-34,KZPAV,38.4
-2011,Percent,Pavlodar,,35-44,KZPAV,35.4
-2011,Percent,Pavlodar,,45-54,KZPAV,51.1
-2011,Percent,Pavlodar,,55-64,KZPAV,32.5
-2011,Percent,Soltustik Kazakhstan,,16-24,KZSEV,76.0
-2011,Percent,Soltustik Kazakhstan,,25-28,KZSEV,15.2
-2011,Percent,Soltustik Kazakhstan,,29-34,KZSEV,48.0
-2011,Percent,Soltustik Kazakhstan,,35-44,KZSEV,39.9
-2011,Percent,Soltustik Kazakhstan,,45-54,KZSEV,27.0
-2011,Percent,Soltustik Kazakhstan,,55-64,KZSEV,28.1
-2011,Percent,Shygys Kazakhstan,,16-24,KZVOS,37.6
-2011,Percent,Shygys Kazakhstan,,25-28,KZVOS,40.4
-2011,Percent,Shygys Kazakhstan,,29-34,KZVOS,40.1
-2011,Percent,Shygys Kazakhstan,,35-44,KZVOS,38.6
-2011,Percent,Shygys Kazakhstan,,45-54,KZVOS,36.2
-2011,Percent,Shygys Kazakhstan,,55-64,KZVOS,33.9
-2011,Percent,Shygys Kazakhstan,,65 and older,KZVOS,0.0
-2011,Percent,Nur-Sultan city,,16-24,KZNS,48.1
-2011,Percent,Nur-Sultan city,,25-28,KZNS,46.7
-2011,Percent,Nur-Sultan city,,29-34,KZNS,34.4
-2011,Percent,Nur-Sultan city,,35-44,KZNS,45.9
-2011,Percent,Nur-Sultan city,,45-54,KZNS,38.6
-2011,Percent,Nur-Sultan city,,55-64,KZNS,36.1
-2011,Percent,Nur-Sultan city,,65 and older,KZNS,42.2
-2011,Percent,Almaty city,,16-24,KZALA,72.3
-2011,Percent,Almaty city,,25-28,KZALA,62.5
-2011,Percent,Almaty city,,29-34,KZALA,40.6
-2011,Percent,Almaty city,,35-44,KZALA,42.5
-2011,Percent,Almaty city,,45-54,KZALA,31.3
-2011,Percent,Almaty city,,55-64,KZALA,27.1
-2012,Percent,,,,,39.7
-2012,Percent,Akmola,,,KZAKM,36.3
-2012,Percent,Aktobe,,,KZAKT,36.1
-2012,Percent,Almaty,,,KZALM,33.4
-2012,Percent,Atyrau,,,KZATY,31.8
-2012,Percent,Batys Kazakhstan,,,KZZAP,20.4
-2012,Percent,Zhambyl,,,KZZHA,39.4
-2012,Percent,Karagandy,,,KZKAR,43.1
-2012,Percent,Kostanay,,,KZKUS,43.1
-2012,Percent,Kyzylorda,,,KZKZY,31.0
-2012,Percent,Mangistau,,,KZMAN,40.7
-2012,Percent,Ontustik Kazakhstan,,,KZONT,28.7
-2012,Percent,Pavlodar,,,KZPAV,30.9
-2012,Percent,Soltustik Kazakhstan,,,KZSEV,40.4
-2012,Percent,Shygys Kazakhstan,,,KZVOS,38.1
-2012,Percent,Nur-Sultan city,,,KZNS,46.2
-2012,Percent,Almaty city,,,KZALA,46.2
-2012,Percent,,urban,,,41.9
-2012,Percent,Akmola,urban,,KZAKM,44.6
-2012,Percent,Aktobe,urban,,KZAKT,35.3
-2012,Percent,Almaty,urban,,KZALM,36.9
-2012,Percent,Atyrau,urban,,KZATY,39.5
-2012,Percent,Batys Kazakhstan,urban,,KZZAP,19.1
-2012,Percent,Zhambyl,urban,,KZZHA,38.8
-2012,Percent,Karagandy,urban,,KZKAR,44.7
-2012,Percent,Kostanay,urban,,KZKUS,45.6
-2012,Percent,Kyzylorda,urban,,KZKZY,32.4
-2012,Percent,Mangistau,urban,,KZMAN,43.9
-2012,Percent,Ontustik Kazakhstan,urban,,KZONT,35.4
-2012,Percent,Pavlodar,urban,,KZPAV,29.0
-2012,Percent,Soltustik Kazakhstan,urban,,KZSEV,33.8
-2012,Percent,Shygys Kazakhstan,urban,,KZVOS,34.4
-2012,Percent,Nur-Sultan city,urban,,KZNS,46.2
-2012,Percent,Almaty city,urban,,KZALA,46.2
-2012,Percent,,rural,,,32.2
-2012,Percent,Akmola,rural,,KZAKM,12.8
-2012,Percent,Aktobe,rural,,KZAKT,42.5
-2012,Percent,Almaty,rural,,KZALM,32.1
-2012,Percent,Atyrau,rural,,KZATY,10.1
-2012,Percent,Batys Kazakhstan,rural,,KZZAP,25.5
-2012,Percent,Zhambyl,rural,,KZZHA,42.6
-2012,Percent,Karagandy,rural,,KZKAR,27.0
-2012,Percent,Kostanay,rural,,KZKUS,36.1
-2012,Percent,Kyzylorda,rural,,KZKZY,28.7
-2012,Percent,Mangistau,rural,,KZMAN,16.7
-2012,Percent,Ontustik Kazakhstan,rural,,KZONT,15.8
-2012,Percent,Pavlodar,rural,,KZPAV,39.1
-2012,Percent,Soltustik Kazakhstan,rural,,KZSEV,45.8
-2012,Percent,Shygys Kazakhstan,rural,,KZVOS,41.6
-2012,Percent,,,16-24,,58.5
-2012,Percent,,,25-28,,40.2
-2012,Percent,,,29-34,,39.0
-2012,Percent,,,35-44,,38.6
-2012,Percent,,,45-54,,39.2
-2012,Percent,,,55-64,,33.1
-2012,Percent,,,65 and older,,25.0
-2012,Percent,Akmola,,16-24,KZAKM,28.2
-2012,Percent,Akmola,,25-28,KZAKM,31.2
-2012,Percent,Akmola,,29-34,KZAKM,53.5
-2012,Percent,Akmola,,35-44,KZAKM,39.6
-2012,Percent,Akmola,,45-54,KZAKM,37.3
-2012,Percent,Akmola,,55-64,KZAKM,20.1
-2012,Percent,Aktobe,,16-24,KZAKT,100.0
-2012,Percent,Aktobe,,25-28,KZAKT,48.7
-2012,Percent,Aktobe,,29-34,KZAKT,31.7
-2012,Percent,Aktobe,,35-44,KZAKT,34.3
-2012,Percent,Aktobe,,45-54,KZAKT,37.3
-2012,Percent,Aktobe,,55-64,KZAKT,16.7
-2012,Percent,Almaty,,16-24,KZALM,40.0
-2012,Percent,Almaty,,25-28,KZALM,41.0
-2012,Percent,Almaty,,29-34,KZALM,45.1
-2012,Percent,Almaty,,35-44,KZALM,19.2
-2012,Percent,Almaty,,45-54,KZALM,28.7
-2012,Percent,Almaty,,55-64,KZALM,46.7
-2012,Percent,Atyrau,,16-24,KZATY,78.9
-2012,Percent,Atyrau,,25-28,KZATY,35.3
-2012,Percent,Atyrau,,29-34,KZATY,24.8
-2012,Percent,Atyrau,,35-44,KZATY,42.2
-2012,Percent,Atyrau,,45-54,KZATY,25.9
-2012,Percent,Atyrau,,55-64,KZATY,13.7
-2012,Percent,Atyrau,,65 and older,KZATY,0.0
-2012,Percent,Batys Kazakhstan,,29-34,KZZAP,11.7
-2012,Percent,Batys Kazakhstan,,35-44,KZZAP,15.5
-2012,Percent,Batys Kazakhstan,,45-54,KZZAP,26.8
-2012,Percent,Batys Kazakhstan,,55-64,KZZAP,31.6
-2012,Percent,Zhambyl,,16-24,KZZHA,36.6
-2012,Percent,Zhambyl,,25-28,KZZHA,54.2
-2012,Percent,Zhambyl,,29-34,KZZHA,24.9
-2012,Percent,Zhambyl,,35-44,KZZHA,28.7
-2012,Percent,Zhambyl,,45-54,KZZHA,53.3
-2012,Percent,Zhambyl,,55-64,KZZHA,21.5
-2012,Percent,Zhambyl,,65 and older,KZZHA,100.0
-2012,Percent,Karagandy,,16-24,KZKAR,82.0
-2012,Percent,Karagandy,,25-28,KZKAR,33.0
-2012,Percent,Karagandy,,29-34,KZKAR,45.5
-2012,Percent,Karagandy,,35-44,KZKAR,47.5
-2012,Percent,Karagandy,,45-54,KZKAR,42.1
-2012,Percent,Karagandy,,55-64,KZKAR,35.3
-2012,Percent,Karagandy,,65 and older,KZKAR,54.4
-2012,Percent,Kostanay,,16-24,KZKUS,47.3
-2012,Percent,Kostanay,,25-28,KZKUS,54.0
-2012,Percent,Kostanay,,29-34,KZKUS,55.9
-2012,Percent,Kostanay,,35-44,KZKUS,43.3
-2012,Percent,Kostanay,,45-54,KZKUS,39.6
-2012,Percent,Kostanay,,55-64,KZKUS,15.1
-2012,Percent,Kyzylorda,,16-24,KZKZY,0.0
-2012,Percent,Kyzylorda,,25-28,KZKZY,21.3
-2012,Percent,Kyzylorda,,29-34,KZKZY,46.9
-2012,Percent,Kyzylorda,,35-44,KZKZY,33.3
-2012,Percent,Kyzylorda,,45-54,KZKZY,28.2
-2012,Percent,Kyzylorda,,55-64,KZKZY,37.0
-2012,Percent,Kyzylorda,,65 and older,KZKZY,0.0
-2012,Percent,Mangistau,,16-24,KZMAN,100.0
-2012,Percent,Mangistau,,25-28,KZMAN,52.6
-2012,Percent,Mangistau,,29-34,KZMAN,36.4
-2012,Percent,Mangistau,,35-44,KZMAN,38.0
-2012,Percent,Mangistau,,45-54,KZMAN,56.6
-2012,Percent,Mangistau,,55-64,KZMAN,33.0
-2012,Percent,Mangistau,,65 and older,KZMAN,0.0
-2012,Percent,Ontustik Kazakhstan,,16-24,KZONT,68.7
-2012,Percent,Ontustik Kazakhstan,,25-28,KZONT,43.3
-2012,Percent,Ontustik Kazakhstan,,29-34,KZONT,56.3
-2012,Percent,Ontustik Kazakhstan,,35-44,KZONT,17.9
-2012,Percent,Ontustik Kazakhstan,,45-54,KZONT,23.4
-2012,Percent,Ontustik Kazakhstan,,55-64,KZONT,31.1
-2012,Percent,Pavlodar,,16-24,KZPAV,27.6
-2012,Percent,Pavlodar,,25-28,KZPAV,29.1
-2012,Percent,Pavlodar,,29-34,KZPAV,29.6
-2012,Percent,Pavlodar,,35-44,KZPAV,23.5
-2012,Percent,Pavlodar,,45-54,KZPAV,38.6
-2012,Percent,Pavlodar,,55-64,KZPAV,35.9
-2012,Percent,Soltustik Kazakhstan,,16-24,KZSEV,76.4
-2012,Percent,Soltustik Kazakhstan,,25-28,KZSEV,18.3
-2012,Percent,Soltustik Kazakhstan,,29-34,KZSEV,37.3
-2012,Percent,Soltustik Kazakhstan,,35-44,KZSEV,33.2
-2012,Percent,Soltustik Kazakhstan,,45-54,KZSEV,46.5
-2012,Percent,Soltustik Kazakhstan,,55-64,KZSEV,62.8
-2012,Percent,Shygys Kazakhstan,,16-24,KZVOS,35.9
-2012,Percent,Shygys Kazakhstan,,25-28,KZVOS,38.0
-2012,Percent,Shygys Kazakhstan,,29-34,KZVOS,17.6
-2012,Percent,Shygys Kazakhstan,,35-44,KZVOS,31.9
-2012,Percent,Shygys Kazakhstan,,45-54,KZVOS,50.4
-2012,Percent,Shygys Kazakhstan,,55-64,KZVOS,43.0
-2012,Percent,Nur-Sultan city,,16-24,KZNS,68.5
-2012,Percent,Nur-Sultan city,,25-28,KZNS,38.7
-2012,Percent,Nur-Sultan city,,29-34,KZNS,40.0
-2012,Percent,Nur-Sultan city,,35-44,KZNS,48.8
-2012,Percent,Nur-Sultan city,,45-54,KZNS,46.0
-2012,Percent,Nur-Sultan city,,55-64,KZNS,43.8
-2012,Percent,Nur-Sultan city,,65 and older,KZNS,0.0
-2012,Percent,Almaty city,,16-24,KZALA,75.3
-2012,Percent,Almaty city,,25-28,KZALA,52.9
-2012,Percent,Almaty city,,29-34,KZALA,36.9
-2012,Percent,Almaty city,,35-44,KZALA,51.0
-2012,Percent,Almaty city,,45-54,KZALA,39.9
-2012,Percent,Almaty city,,55-64,KZALA,18.4
-2013,Percent,,,,,38.3
-2013,Percent,Akmola,,,KZAKM,44.8
-2013,Percent,Aktobe,,,KZAKT,27.2
-2013,Percent,Almaty,,,KZALM,45.6
-2013,Percent,Atyrau,,,KZATY,28.9
-2013,Percent,Batys Kazakhstan,,,KZZAP,23.5
-2013,Percent,Zhambyl,,,KZZHA,27.0
-2013,Percent,Karagandy,,,KZKAR,38.6
-2013,Percent,Kostanay,,,KZKUS,34.6
-2013,Percent,Kyzylorda,,,KZKZY,30.9
-2013,Percent,Mangistau,,,KZMAN,30.0
-2013,Percent,Ontustik Kazakhstan,,,KZONT,32.5
-2013,Percent,Pavlodar,,,KZPAV,36.3
-2013,Percent,Soltustik Kazakhstan,,,KZSEV,27.5
-2013,Percent,Shygys Kazakhstan,,,KZVOS,35.5
-2013,Percent,Nur-Sultan city,,,KZNS,48.0
-2013,Percent,Almaty city,,,KZALA,39.5
-2013,Percent,,urban,,,38.9
-2013,Percent,Akmola,urban,,KZAKM,50.5
-2013,Percent,Aktobe,urban,,KZAKT,23.8
-2013,Percent,Almaty,urban,,KZALM,46.3
-2013,Percent,Atyrau,urban,,KZATY,31.9
-2013,Percent,Batys Kazakhstan,urban,,KZZAP,26.0
-2013,Percent,Zhambyl,urban,,KZZHA,29.9
-2013,Percent,Karagandy,urban,,KZKAR,39.4
-2013,Percent,Kostanay,urban,,KZKUS,39.1
-2013,Percent,Kyzylorda,urban,,KZKZY,31.7
-2013,Percent,Mangistau,urban,,KZMAN,28.0
-2013,Percent,Ontustik Kazakhstan,urban,,KZONT,29.4
-2013,Percent,Pavlodar,urban,,KZPAV,33.9
-2013,Percent,Soltustik Kazakhstan,urban,,KZSEV,29.4
-2013,Percent,Shygys Kazakhstan,urban,,KZVOS,40.1
-2013,Percent,Nur-Sultan city,urban,,KZNS,48.0
-2013,Percent,Almaty city,urban,,KZALA,39.5
-2013,Percent,,rural,,,37.0
-2013,Percent,Akmola,rural,,KZAKM,31.2
-2013,Percent,Aktobe,rural,,KZAKT,54.4
-2013,Percent,Almaty,rural,,KZALM,45.3
-2013,Percent,Atyrau,rural,,KZATY,18.0
-2013,Percent,Batys Kazakhstan,rural,,KZZAP,16.9
-2013,Percent,Zhambyl,rural,,KZZHA,10.1
-2013,Percent,Karagandy,rural,,KZKAR,30.7
-2013,Percent,Kostanay,rural,,KZKUS,20.5
-2013,Percent,Kyzylorda,rural,,KZKZY,29.4
-2013,Percent,Mangistau,rural,,KZMAN,35.8
-2013,Percent,Ontustik Kazakhstan,rural,,KZONT,34.8
-2013,Percent,Pavlodar,rural,,KZPAV,44.0
-2013,Percent,Soltustik Kazakhstan,rural,,KZSEV,23.9
-2013,Percent,Shygys Kazakhstan,rural,,KZVOS,29.1
-2013,Percent,,,16-24,,42.0
-2013,Percent,,,25-28,,41.6
-2013,Percent,,,29-34,,38.4
-2013,Percent,,,35-44,,39.3
-2013,Percent,,,45-54,,38.4
-2013,Percent,,,55-64,,30.0
-2013,Percent,,,65 and older,,17.5
-2013,Percent,Akmola,,16-24,KZAKM,69.1
-2013,Percent,Akmola,,25-28,KZAKM,61.2
-2013,Percent,Akmola,,29-34,KZAKM,64.4
-2013,Percent,Akmola,,35-44,KZAKM,32.9
-2013,Percent,Akmola,,45-54,KZAKM,41.0
-2013,Percent,Akmola,,55-64,KZAKM,40.7
-2013,Percent,Aktobe,,16-24,KZAKT,6.7
-2013,Percent,Aktobe,,25-28,KZAKT,33.6
-2013,Percent,Aktobe,,29-34,KZAKT,15.6
-2013,Percent,Aktobe,,35-44,KZAKT,41.9
-2013,Percent,Aktobe,,45-54,KZAKT,24.5
-2013,Percent,Aktobe,,55-64,KZAKT,29.1
-2013,Percent,Almaty,,16-24,KZALM,34.1
-2013,Percent,Almaty,,25-28,KZALM,70.6
-2013,Percent,Almaty,,29-34,KZALM,58.9
-2013,Percent,Almaty,,35-44,KZALM,43.7
-2013,Percent,Almaty,,45-54,KZALM,44.4
-2013,Percent,Almaty,,55-64,KZALM,39.5
-2013,Percent,Almaty,,65 and older,KZALM,33.4
-2013,Percent,Atyrau,,16-24,KZATY,47.4
-2013,Percent,Atyrau,,25-28,KZATY,20.7
-2013,Percent,Atyrau,,29-34,KZATY,61.7
-2013,Percent,Atyrau,,35-44,KZATY,24.4
-2013,Percent,Atyrau,,45-54,KZATY,28.7
-2013,Percent,Atyrau,,55-64,KZATY,17.7
-2013,Percent,Atyrau,,65 and older,KZATY,0.0
-2013,Percent,Batys Kazakhstan,,16-24,KZZAP,0.0
-2013,Percent,Batys Kazakhstan,,25-28,KZZAP,80.4
-2013,Percent,Batys Kazakhstan,,29-34,KZZAP,0.0
-2013,Percent,Batys Kazakhstan,,35-44,KZZAP,30.4
-2013,Percent,Batys Kazakhstan,,45-54,KZZAP,26.8
-2013,Percent,Batys Kazakhstan,,55-64,KZZAP,17.7
-2013,Percent,Zhambyl,,16-24,KZZHA,0.0
-2013,Percent,Zhambyl,,25-28,KZZHA,28.1
-2013,Percent,Zhambyl,,29-34,KZZHA,21.0
-2013,Percent,Zhambyl,,35-44,KZZHA,31.7
-2013,Percent,Zhambyl,,45-54,KZZHA,29.6
-2013,Percent,Zhambyl,,55-64,KZZHA,24.6
-2013,Percent,Karagandy,,16-24,KZKAR,53.1
-2013,Percent,Karagandy,,25-28,KZKAR,31.1
-2013,Percent,Karagandy,,29-34,KZKAR,30.1
-2013,Percent,Karagandy,,35-44,KZKAR,44.5
-2013,Percent,Karagandy,,45-54,KZKAR,45.0
-2013,Percent,Karagandy,,55-64,KZKAR,22.8
-2013,Percent,Karagandy,,65 and older,KZKAR,26.8
-2013,Percent,Kostanay,,16-24,KZKUS,56.2
-2013,Percent,Kostanay,,25-28,KZKUS,44.3
-2013,Percent,Kostanay,,29-34,KZKUS,35.4
-2013,Percent,Kostanay,,35-44,KZKUS,27.3
-2013,Percent,Kostanay,,45-54,KZKUS,37.0
-2013,Percent,Kostanay,,55-64,KZKUS,17.6
-2013,Percent,Kyzylorda,,16-24,KZKZY,0.0
-2013,Percent,Kyzylorda,,25-28,KZKZY,0.0
-2013,Percent,Kyzylorda,,29-34,KZKZY,35.1
-2013,Percent,Kyzylorda,,35-44,KZKZY,34.6
-2013,Percent,Kyzylorda,,45-54,KZKZY,26.8
-2013,Percent,Kyzylorda,,55-64,KZKZY,44.9
-2013,Percent,Mangistau,,16-24,KZMAN,0.0
-2013,Percent,Mangistau,,25-28,KZMAN,10.3
-2013,Percent,Mangistau,,29-34,KZMAN,24.7
-2013,Percent,Mangistau,,35-44,KZMAN,43.5
-2013,Percent,Mangistau,,45-54,KZMAN,28.1
-2013,Percent,Mangistau,,55-64,KZMAN,12.1
-2013,Percent,Ontustik Kazakhstan,,16-24,KZONT,32.6
-2013,Percent,Ontustik Kazakhstan,,25-28,KZONT,3.0
-2013,Percent,Ontustik Kazakhstan,,29-34,KZONT,47.2
-2013,Percent,Ontustik Kazakhstan,,35-44,KZONT,34.9
-2013,Percent,Ontustik Kazakhstan,,45-54,KZONT,32.3
-2013,Percent,Ontustik Kazakhstan,,55-64,KZONT,26.7
-2013,Percent,Pavlodar,,16-24,KZPAV,45.9
-2013,Percent,Pavlodar,,25-28,KZPAV,17.2
-2013,Percent,Pavlodar,,29-34,KZPAV,41.9
-2013,Percent,Pavlodar,,35-44,KZPAV,34.4
-2013,Percent,Pavlodar,,45-54,KZPAV,47.6
-2013,Percent,Pavlodar,,55-64,KZPAV,31.2
-2013,Percent,Soltustik Kazakhstan,,16-24,KZSEV,0.0
-2013,Percent,Soltustik Kazakhstan,,25-28,KZSEV,51.7
-2013,Percent,Soltustik Kazakhstan,,29-34,KZSEV,13.2
-2013,Percent,Soltustik Kazakhstan,,35-44,KZSEV,22.5
-2013,Percent,Soltustik Kazakhstan,,45-54,KZSEV,34.3
-2013,Percent,Soltustik Kazakhstan,,55-64,KZSEV,33.4
-2013,Percent,Shygys Kazakhstan,,16-24,KZVOS,46.1
-2013,Percent,Shygys Kazakhstan,,25-28,KZVOS,23.5
-2013,Percent,Shygys Kazakhstan,,29-34,KZVOS,25.9
-2013,Percent,Shygys Kazakhstan,,35-44,KZVOS,43.0
-2013,Percent,Shygys Kazakhstan,,45-54,KZVOS,38.3
-2013,Percent,Shygys Kazakhstan,,55-64,KZVOS,37.8
-2013,Percent,Nur-Sultan city,,16-24,KZNS,74.3
-2013,Percent,Nur-Sultan city,,25-28,KZNS,42.8
-2013,Percent,Nur-Sultan city,,29-34,KZNS,47.1
-2013,Percent,Nur-Sultan city,,35-44,KZNS,46.3
-2013,Percent,Nur-Sultan city,,45-54,KZNS,46.9
-2013,Percent,Nur-Sultan city,,55-64,KZNS,27.7
-2013,Percent,Nur-Sultan city,,65 and older,KZNS,0.0
-2013,Percent,Almaty city,,16-24,KZALA,62.3
-2013,Percent,Almaty city,,25-28,KZALA,53.6
-2013,Percent,Almaty city,,29-34,KZALA,32.5
-2013,Percent,Almaty city,,35-44,KZALA,46.4
-2013,Percent,Almaty city,,45-54,KZALA,32.7
-2013,Percent,Almaty city,,55-64,KZALA,22.1
-2014,Percent,,,,,34.8
-2014,Percent,Akmola,,,KZAKM,34.8
-2014,Percent,Aktobe,,,KZAKT,37.6
-2014,Percent,Almaty,,,KZALM,26.5
-2014,Percent,Atyrau,,,KZATY,25.4
-2014,Percent,Batys Kazakhstan,,,KZZAP,30.6
-2014,Percent,Zhambyl,,,KZZHA,22.8
-2014,Percent,Karagandy,,,KZKAR,35.7
-2014,Percent,Kostanay,,,KZKUS,38.6
-2014,Percent,Kyzylorda,,,KZKZY,34.0
-2014,Percent,Mangistau,,,KZMAN,44.6
-2014,Percent,Ontustik Kazakhstan,,,KZONT,32.9
-2014,Percent,Pavlodar,,,KZPAV,32.0
-2014,Percent,Soltustik Kazakhstan,,,KZSEV,31.3
-2014,Percent,Shygys Kazakhstan,,,KZVOS,35.0
-2014,Percent,Nur-Sultan city,,,KZNS,35.9
-2014,Percent,Almaty city,,,KZALA,38.4
-2014,Percent,,urban,,,37.1
-2014,Percent,Akmola,urban,,KZAKM,37.7
-2014,Percent,Aktobe,urban,,KZAKT,39.6
-2014,Percent,Almaty,urban,,KZALM,30.5
-2014,Percent,Atyrau,urban,,KZATY,23.7
-2014,Percent,Batys Kazakhstan,urban,,KZZAP,32.0
-2014,Percent,Zhambyl,urban,,KZZHA,27.5
-2014,Percent,Karagandy,urban,,KZKAR,37.0
-2014,Percent,Kostanay,urban,,KZKUS,41.4
-2014,Percent,Kyzylorda,urban,,KZKZY,38.1
-2014,Percent,Mangistau,urban,,KZMAN,46.4
-2014,Percent,Ontustik Kazakhstan,urban,,KZONT,35.5
-2014,Percent,Pavlodar,urban,,KZPAV,31.5
-2014,Percent,Soltustik Kazakhstan,urban,,KZSEV,34.0
-2014,Percent,Shygys Kazakhstan,urban,,KZVOS,37.8
-2014,Percent,Nur-Sultan city,urban,,KZNS,37.6
-2014,Percent,Almaty city,urban,,KZALA,39.3
-2014,Percent,,rural,,,30.2
-2014,Percent,Akmola,rural,,KZAKM,29.6
-2014,Percent,Aktobe,rural,,KZAKT,30.6
-2014,Percent,Almaty,rural,,KZALM,25.3
-2014,Percent,Atyrau,rural,,KZATY,32.7
-2014,Percent,Batys Kazakhstan,rural,,KZZAP,28.8
-2014,Percent,Zhambyl,rural,,KZZHA,16.7
-2014,Percent,Karagandy,rural,,KZKAR,32.0
-2014,Percent,Kostanay,rural,,KZKUS,34.4
-2014,Percent,Kyzylorda,rural,,KZKZY,28.8
-2014,Percent,Mangistau,rural,,KZMAN,45.5
-2014,Percent,Ontustik Kazakhstan,rural,,KZONT,30.4
-2014,Percent,Pavlodar,rural,,KZPAV,38.6
-2014,Percent,Soltustik Kazakhstan,rural,,KZSEV,28.0
-2014,Percent,Shygys Kazakhstan,rural,,KZVOS,29.2
-2014,Percent,,,16-24,,29.6
-2014,Percent,,,25-28,,34.8
-2014,Percent,,,29-34,,33.2
-2014,Percent,,,35-44,,36.5
-2014,Percent,,,45-54,,38.3
-2014,Percent,,,55-64,,30.2
-2014,Percent,,,65 and older,,16.0
-2014,Percent,Akmola,,16-24,KZAKM,25.6
-2014,Percent,Akmola,,25-28,KZAKM,26.6
-2014,Percent,Akmola,,29-34,KZAKM,32.1
-2014,Percent,Akmola,,35-44,KZAKM,36.4
-2014,Percent,Akmola,,45-54,KZAKM,36.8
-2014,Percent,Akmola,,55-64,KZAKM,37.8
-2014,Percent,Aktobe,,16-24,KZAKT,13.5
-2014,Percent,Aktobe,,25-28,KZAKT,43.8
-2014,Percent,Aktobe,,29-34,KZAKT,43.3
-2014,Percent,Aktobe,,35-44,KZAKT,41.8
-2014,Percent,Aktobe,,45-54,KZAKT,36.5
-2014,Percent,Aktobe,,55-64,KZAKT,16.7
-2014,Percent,Aktobe,,65 and older,KZAKT,0.0
-2014,Percent,Almaty,,16-24,KZALM,17.3
-2014,Percent,Almaty,,25-28,KZALM,34.2
-2014,Percent,Almaty,,29-34,KZALM,20.2
-2014,Percent,Almaty,,35-44,KZALM,27.6
-2014,Percent,Almaty,,45-54,KZALM,31.1
-2014,Percent,Almaty,,55-64,KZALM,26.1
-2014,Percent,Almaty,,65 and older,KZALM,25.6
-2014,Percent,Atyrau,,16-24,KZATY,39.1
-2014,Percent,Atyrau,,25-28,KZATY,12.7
-2014,Percent,Atyrau,,29-34,KZATY,18.4
-2014,Percent,Atyrau,,35-44,KZATY,36.2
-2014,Percent,Atyrau,,45-54,KZATY,28.7
-2014,Percent,Atyrau,,55-64,KZATY,13.3
-2014,Percent,Atyrau,,65 and older,KZATY,0.0
-2014,Percent,Batys Kazakhstan,,16-24,KZZAP,31.3
-2014,Percent,Batys Kazakhstan,,25-28,KZZAP,27.1
-2014,Percent,Batys Kazakhstan,,29-34,KZZAP,43.2
-2014,Percent,Batys Kazakhstan,,35-44,KZZAP,32.6
-2014,Percent,Batys Kazakhstan,,45-54,KZZAP,27.6
-2014,Percent,Batys Kazakhstan,,55-64,KZZAP,26.9
-2014,Percent,Batys Kazakhstan,,65 and older,KZZAP,0.0
-2014,Percent,Zhambyl,,16-24,KZZHA,4.2
-2014,Percent,Zhambyl,,25-28,KZZHA,25.0
-2014,Percent,Zhambyl,,29-34,KZZHA,11.3
-2014,Percent,Zhambyl,,35-44,KZZHA,22.8
-2014,Percent,Zhambyl,,45-54,KZZHA,42.2
-2014,Percent,Zhambyl,,55-64,KZZHA,28.3
-2014,Percent,Zhambyl,,65 and older,KZZHA,0.0
-2014,Percent,Karagandy,,16-24,KZKAR,31.1
-2014,Percent,Karagandy,,25-28,KZKAR,20.2
-2014,Percent,Karagandy,,29-34,KZKAR,33.4
-2014,Percent,Karagandy,,35-44,KZKAR,35.2
-2014,Percent,Karagandy,,45-54,KZKAR,43.4
-2014,Percent,Karagandy,,55-64,KZKAR,42.9
-2014,Percent,Karagandy,,65 and older,KZKAR,8.1
-2014,Percent,Kostanay,,16-24,KZKUS,44.5
-2014,Percent,Kostanay,,25-28,KZKUS,35.6
-2014,Percent,Kostanay,,29-34,KZKUS,34.7
-2014,Percent,Kostanay,,35-44,KZKUS,40.3
-2014,Percent,Kostanay,,45-54,KZKUS,43.2
-2014,Percent,Kostanay,,55-64,KZKUS,27.2
-2014,Percent,Kostanay,,65 and older,KZKUS,32.5
-2014,Percent,Kyzylorda,,16-24,KZKZY,27.7
-2014,Percent,Kyzylorda,,25-28,KZKZY,65.2
-2014,Percent,Kyzylorda,,29-34,KZKZY,28.9
-2014,Percent,Kyzylorda,,35-44,KZKZY,47.7
-2014,Percent,Kyzylorda,,45-54,KZKZY,29.2
-2014,Percent,Kyzylorda,,55-64,KZKZY,16.2
-2014,Percent,Mangistau,,16-24,KZMAN,41.1
-2014,Percent,Mangistau,,25-28,KZMAN,47.7
-2014,Percent,Mangistau,,29-34,KZMAN,38.5
-2014,Percent,Mangistau,,35-44,KZMAN,50.2
-2014,Percent,Mangistau,,45-54,KZMAN,48.2
-2014,Percent,Mangistau,,55-64,KZMAN,31.6
-2014,Percent,Mangistau,,65 and older,KZMAN,6.8
-2014,Percent,Ontustik Kazakhstan,,16-24,KZONT,22.0
-2014,Percent,Ontustik Kazakhstan,,25-28,KZONT,31.6
-2014,Percent,Ontustik Kazakhstan,,29-34,KZONT,36.2
-2014,Percent,Ontustik Kazakhstan,,35-44,KZONT,36.6
-2014,Percent,Ontustik Kazakhstan,,45-54,KZONT,31.5
-2014,Percent,Ontustik Kazakhstan,,55-64,KZONT,25.2
-2014,Percent,Pavlodar,,16-24,KZPAV,22.1
-2014,Percent,Pavlodar,,25-28,KZPAV,33.4
-2014,Percent,Pavlodar,,29-34,KZPAV,27.9
-2014,Percent,Pavlodar,,35-44,KZPAV,31.9
-2014,Percent,Pavlodar,,45-54,KZPAV,37.0
-2014,Percent,Pavlodar,,55-64,KZPAV,24.9
-2014,Percent,Pavlodar,,65 and older,KZPAV,84.8
-2014,Percent,Soltustik Kazakhstan,,16-24,KZSEV,2.1
-2014,Percent,Soltustik Kazakhstan,,25-28,KZSEV,23.0
-2014,Percent,Soltustik Kazakhstan,,29-34,KZSEV,28.0
-2014,Percent,Soltustik Kazakhstan,,35-44,KZSEV,38.0
-2014,Percent,Soltustik Kazakhstan,,45-54,KZSEV,32.2
-2014,Percent,Soltustik Kazakhstan,,55-64,KZSEV,32.2
-2014,Percent,Soltustik Kazakhstan,,65 and older,KZSEV,21.9
-2014,Percent,Shygys Kazakhstan,,16-24,KZVOS,25.8
-2014,Percent,Shygys Kazakhstan,,25-28,KZVOS,27.2
-2014,Percent,Shygys Kazakhstan,,29-34,KZVOS,35.2
-2014,Percent,Shygys Kazakhstan,,35-44,KZVOS,30.2
-2014,Percent,Shygys Kazakhstan,,45-54,KZVOS,45.2
-2014,Percent,Shygys Kazakhstan,,55-64,KZVOS,29.0
-2014,Percent,Shygys Kazakhstan,,65 and older,KZVOS,10.6
-2014,Percent,Nur-Sultan city,,16-24,KZNS,20.8
-2014,Percent,Nur-Sultan city,,25-28,KZNS,47.7
-2014,Percent,Nur-Sultan city,,29-34,KZNS,43.1
-2014,Percent,Nur-Sultan city,,35-44,KZNS,38.5
-2014,Percent,Nur-Sultan city,,45-54,KZNS,28.3
-2014,Percent,Nur-Sultan city,,55-64,KZNS,28.0
-2014,Percent,Almaty city,,16-24,KZALA,37.0
-2014,Percent,Almaty city,,25-28,KZALA,43.4
-2014,Percent,Almaty city,,29-34,KZALA,32.8
-2014,Percent,Almaty city,,35-44,KZALA,39.1
-2014,Percent,Almaty city,,45-54,KZALA,42.3
-2014,Percent,Almaty city,,55-64,KZALA,35.1
-2014,Percent,Almaty city,,65 and older,KZALA,0.0
-2015,Percent,,,,,37.0
-2015,Percent,Akmola,,,KZAKM,30.0
-2015,Percent,Aktobe,,,KZAKT,34.3
-2015,Percent,Almaty,,,KZALM,31.3
-2015,Percent,Atyrau,,,KZATY,33.8
-2015,Percent,Batys Kazakhstan,,,KZZAP,35.9
-2015,Percent,Zhambyl,,,KZZHA,20.5
-2015,Percent,Karagandy,,,KZKAR,38.9
-2015,Percent,Kostanay,,,KZKUS,42.9
-2015,Percent,Kyzylorda,,,KZKZY,32.6
-2015,Percent,Mangistau,,,KZMAN,52.0
-2015,Percent,Ontustik Kazakhstan,,,KZONT,28.7
-2015,Percent,Pavlodar,,,KZPAV,39.1
-2015,Percent,Soltustik Kazakhstan,,,KZSEV,39.6
-2015,Percent,Shygys Kazakhstan,,,KZVOS,33.0
-2015,Percent,Nur-Sultan city,,,KZNS,41.9
-2015,Percent,Almaty city,,,KZALA,35.3
-2015,Percent,,urban,,,38.4
-2015,Percent,Akmola,urban,,KZAKM,29.8
-2015,Percent,Aktobe,urban,,KZAKT,33.1
-2015,Percent,Almaty,urban,,KZALM,34.3
-2015,Percent,Atyrau,urban,,KZATY,33.6
-2015,Percent,Batys Kazakhstan,urban,,KZZAP,38.4
-2015,Percent,Zhambyl,urban,,KZZHA,20.3
-2015,Percent,Karagandy,urban,,KZKAR,39.9
-2015,Percent,Kostanay,urban,,KZKUS,44.7
-2015,Percent,Kyzylorda,urban,,KZKZY,37.6
-2015,Percent,Mangistau,urban,,KZMAN,51.6
-2015,Percent,Ontustik Kazakhstan,urban,,KZONT,32.8
-2015,Percent,Pavlodar,urban,,KZPAV,40.7
-2015,Percent,Soltustik Kazakhstan,urban,,KZSEV,42.1
-2015,Percent,Shygys Kazakhstan,urban,,KZVOS,34.6
-2015,Percent,Nur-Sultan city,urban,,KZNS,41.9
-2015,Percent,Almaty city,urban,,KZALA,35.3
-2015,Percent,,rural,,,32.1
-2015,Percent,Akmola,rural,,KZAKM,30.3
-2015,Percent,Aktobe,rural,,KZAKT,38.1
-2015,Percent,Almaty,rural,,KZALM,29.3
-2015,Percent,Atyrau,rural,,KZATY,34.6
-2015,Percent,Batys Kazakhstan,rural,,KZZAP,30.7
-2015,Percent,Zhambyl,rural,,KZZHA,21.1
-2015,Percent,Karagandy,rural,,KZKAR,30.9
-2015,Percent,Kostanay,rural,,KZKUS,38.4
-2015,Percent,Kyzylorda,rural,,KZKZY,26.3
-2015,Percent,Mangistau,rural,,KZMAN,53.0
-2015,Percent,Ontustik Kazakhstan,rural,,KZONT,23.7
-2015,Percent,Pavlodar,rural,,KZPAV,31.6
-2015,Percent,Soltustik Kazakhstan,rural,,KZSEV,32.9
-2015,Percent,Shygys Kazakhstan,rural,,KZVOS,28.5
-2015,Percent,,,16-24,,38.3
-2015,Percent,,,25-28,,36.7
-2015,Percent,,,29-34,,37.1
-2015,Percent,,,35-44,,35.9
-2015,Percent,,,45-54,,39.4
-2015,Percent,,,55-64,,34.3
-2015,Percent,,,65 and older,,28.4
-2015,Percent,Akmola,,16-24,KZAKM,45.5
-2015,Percent,Akmola,,25-28,KZAKM,15.1
-2015,Percent,Akmola,,29-34,KZAKM,30.7
-2015,Percent,Akmola,,35-44,KZAKM,29.0
-2015,Percent,Akmola,,45-54,KZAKM,32.1
-2015,Percent,Akmola,,55-64,KZAKM,30.3
-2015,Percent,Aktobe,,16-24,KZAKT,33.0
-2015,Percent,Aktobe,,25-28,KZAKT,42.2
-2015,Percent,Aktobe,,29-34,KZAKT,27.3
-2015,Percent,Aktobe,,35-44,KZAKT,24.5
-2015,Percent,Aktobe,,45-54,KZAKT,52.7
-2015,Percent,Aktobe,,55-64,KZAKT,29.9
-2015,Percent,Aktobe,,65 and older,KZAKT,0.0
-2015,Percent,Almaty,,16-24,KZALM,44.1
-2015,Percent,Almaty,,25-28,KZALM,31.1
-2015,Percent,Almaty,,29-34,KZALM,26.9
-2015,Percent,Almaty,,35-44,KZALM,28.1
-2015,Percent,Almaty,,45-54,KZALM,31.0
-2015,Percent,Almaty,,55-64,KZALM,33.9
-2015,Percent,Almaty,,65 and older,KZALM,9.8
-2015,Percent,Atyrau,,16-24,KZATY,17.1
-2015,Percent,Atyrau,,25-28,KZATY,0.0
-2015,Percent,Atyrau,,29-34,KZATY,39.3
-2015,Percent,Atyrau,,35-44,KZATY,50.5
-2015,Percent,Atyrau,,45-54,KZATY,29.7
-2015,Percent,Atyrau,,55-64,KZATY,18.5
-2015,Percent,Atyrau,,65 and older,KZATY,0.0
-2015,Percent,Batys Kazakhstan,,16-24,KZZAP,48.1
-2015,Percent,Batys Kazakhstan,,25-28,KZZAP,43.0
-2015,Percent,Batys Kazakhstan,,29-34,KZZAP,31.9
-2015,Percent,Batys Kazakhstan,,35-44,KZZAP,24.9
-2015,Percent,Batys Kazakhstan,,45-54,KZZAP,41.8
-2015,Percent,Batys Kazakhstan,,55-64,KZZAP,36.7
-2015,Percent,Zhambyl,,16-24,KZZHA,4.1
-2015,Percent,Zhambyl,,25-28,KZZHA,32.7
-2015,Percent,Zhambyl,,29-34,KZZHA,13.6
-2015,Percent,Zhambyl,,35-44,KZZHA,18.4
-2015,Percent,Zhambyl,,45-54,KZZHA,37.4
-2015,Percent,Zhambyl,,55-64,KZZHA,10.4
-2015,Percent,Karagandy,,16-24,KZKAR,49.8
-2015,Percent,Karagandy,,25-28,KZKAR,34.3
-2015,Percent,Karagandy,,29-34,KZKAR,36.7
-2015,Percent,Karagandy,,35-44,KZKAR,34.4
-2015,Percent,Karagandy,,45-54,KZKAR,46.8
-2015,Percent,Karagandy,,55-64,KZKAR,38.1
-2015,Percent,Karagandy,,65 and older,KZKAR,27.8
-2015,Percent,Kostanay,,16-24,KZKUS,45.3
-2015,Percent,Kostanay,,25-28,KZKUS,40.2
-2015,Percent,Kostanay,,29-34,KZKUS,44.0
-2015,Percent,Kostanay,,35-44,KZKUS,42.9
-2015,Percent,Kostanay,,45-54,KZKUS,45.0
-2015,Percent,Kostanay,,55-64,KZKUS,36.0
-2015,Percent,Kostanay,,65 and older,KZKUS,17.7
-2015,Percent,Kyzylorda,,16-24,KZKZY,0.0
-2015,Percent,Kyzylorda,,25-28,KZKZY,33.8
-2015,Percent,Kyzylorda,,29-34,KZKZY,33.6
-2015,Percent,Kyzylorda,,35-44,KZKZY,44.2
-2015,Percent,Kyzylorda,,45-54,KZKZY,30.3
-2015,Percent,Kyzylorda,,55-64,KZKZY,13.0
-2015,Percent,Mangistau,,16-24,KZMAN,36.3
-2015,Percent,Mangistau,,25-28,KZMAN,63.3
-2015,Percent,Mangistau,,29-34,KZMAN,47.5
-2015,Percent,Mangistau,,35-44,KZMAN,62.3
-2015,Percent,Mangistau,,45-54,KZMAN,46.5
-2015,Percent,Mangistau,,55-64,KZMAN,41.6
-2015,Percent,Mangistau,,65 and older,KZMAN,54.5
-2015,Percent,Ontustik Kazakhstan,,16-24,KZONT,5.3
-2015,Percent,Ontustik Kazakhstan,,25-28,KZONT,12.9
-2015,Percent,Ontustik Kazakhstan,,29-34,KZONT,33.9
-2015,Percent,Ontustik Kazakhstan,,35-44,KZONT,39.7
-2015,Percent,Ontustik Kazakhstan,,45-54,KZONT,21.4
-2015,Percent,Ontustik Kazakhstan,,55-64,KZONT,24.3
-2015,Percent,Ontustik Kazakhstan,,65 and older,KZONT,0.0
-2015,Percent,Pavlodar,,16-24,KZPAV,42.0
-2015,Percent,Pavlodar,,25-28,KZPAV,32.5
-2015,Percent,Pavlodar,,29-34,KZPAV,56.7
-2015,Percent,Pavlodar,,35-44,KZPAV,38.6
-2015,Percent,Pavlodar,,45-54,KZPAV,35.8
-2015,Percent,Pavlodar,,55-64,KZPAV,30.6
-2015,Percent,Pavlodar,,65 and older,KZPAV,11.8
-2015,Percent,Soltustik Kazakhstan,,16-24,KZSEV,48.7
-2015,Percent,Soltustik Kazakhstan,,25-28,KZSEV,37.7
-2015,Percent,Soltustik Kazakhstan,,29-34,KZSEV,38.0
-2015,Percent,Soltustik Kazakhstan,,35-44,KZSEV,38.2
-2015,Percent,Soltustik Kazakhstan,,45-54,KZSEV,42.2
-2015,Percent,Soltustik Kazakhstan,,55-64,KZSEV,40.6
-2015,Percent,Soltustik Kazakhstan,,65 and older,KZSEV,2.8
-2015,Percent,Shygys Kazakhstan,,16-24,KZVOS,29.9
-2015,Percent,Shygys Kazakhstan,,25-28,KZVOS,13.7
-2015,Percent,Shygys Kazakhstan,,29-34,KZVOS,32.2
-2015,Percent,Shygys Kazakhstan,,35-44,KZVOS,34.8
-2015,Percent,Shygys Kazakhstan,,45-54,KZVOS,36.9
-2015,Percent,Shygys Kazakhstan,,55-64,KZVOS,38.3
-2015,Percent,Shygys Kazakhstan,,65 and older,KZVOS,0.0
-2015,Percent,Nur-Sultan city,,16-24,KZNS,41.3
-2015,Percent,Nur-Sultan city,,25-28,KZNS,52.4
-2015,Percent,Nur-Sultan city,,29-34,KZNS,37.3
-2015,Percent,Nur-Sultan city,,35-44,KZNS,37.2
-2015,Percent,Nur-Sultan city,,45-54,KZNS,46.1
-2015,Percent,Nur-Sultan city,,55-64,KZNS,41.1
-2015,Percent,Nur-Sultan city,,65 and older,KZNS,55.6
-2015,Percent,Almaty city,,16-24,KZALA,35.1
-2015,Percent,Almaty city,,25-28,KZALA,22.9
-2015,Percent,Almaty city,,29-34,KZALA,43.7
-2015,Percent,Almaty city,,35-44,KZALA,35.1
-2015,Percent,Almaty city,,45-54,KZALA,33.8
-2015,Percent,Almaty city,,55-64,KZALA,35.8
-2015,Percent,Almaty city,,65 and older,KZALA,32.1
-2016,Percent,,,,,37.3
-2016,Percent,Akmola,,,KZAKM,34.6
-2016,Percent,Aktobe,,,KZAKT,34.1
-2016,Percent,Almaty,,,KZALM,35.7
-2016,Percent,Atyrau,,,KZATY,30.0
-2016,Percent,Batys Kazakhstan,,,KZZAP,34.5
-2016,Percent,Zhambyl,,,KZZHA,19.2
-2016,Percent,Karagandy,,,KZKAR,33.8
-2016,Percent,Kostanay,,,KZKUS,39.6
-2016,Percent,Kyzylorda,,,KZKZY,31.1
-2016,Percent,Mangistau,,,KZMAN,44.4
-2016,Percent,Ontustik Kazakhstan,,,KZONT,40.9
-2016,Percent,Pavlodar,,,KZPAV,40.0
-2016,Percent,Soltustik Kazakhstan,,,KZSEV,32.6
-2016,Percent,Shygys Kazakhstan,,,KZVOS,33.7
-2016,Percent,Nur-Sultan city,,,KZNS,44.2
-2016,Percent,Almaty city,,,KZALA,39.9
-2016,Percent,,urban,,,38.3
-2016,Percent,Akmola,urban,,KZAKM,31.8
-2016,Percent,Aktobe,urban,,KZAKT,36.8
-2016,Percent,Almaty,urban,,KZALM,42.2
-2016,Percent,Atyrau,urban,,KZATY,30.5
-2016,Percent,Batys Kazakhstan,urban,,KZZAP,35.0
-2016,Percent,Zhambyl,urban,,KZZHA,16.2
-2016,Percent,Karagandy,urban,,KZKAR,34.2
-2016,Percent,Kostanay,urban,,KZKUS,41.4
-2016,Percent,Kyzylorda,urban,,KZKZY,32.2
-2016,Percent,Mangistau,urban,,KZMAN,43.8
-2016,Percent,Ontustik Kazakhstan,urban,,KZONT,43.0
-2016,Percent,Pavlodar,urban,,KZPAV,40.5
-2016,Percent,Soltustik Kazakhstan,urban,,KZSEV,33.5
-2016,Percent,Shygys Kazakhstan,urban,,KZVOS,35.2
-2016,Percent,Nur-Sultan city,urban,,KZNS,44.2
-2016,Percent,Almaty city,urban,,KZALA,39.9
-2016,Percent,,rural,,,32.9
-2016,Percent,Akmola,rural,,KZAKM,38.3
-2016,Percent,Aktobe,rural,,KZAKT,27.0
-2016,Percent,Almaty,rural,,KZALM,31.1
-2016,Percent,Atyrau,rural,,KZATY,28.4
-2016,Percent,Batys Kazakhstan,rural,,KZZAP,33.5
-2016,Percent,Zhambyl,rural,,KZZHA,29.4
-2016,Percent,Karagandy,rural,,KZKAR,30.7
-2016,Percent,Kostanay,rural,,KZKUS,35.9
-2016,Percent,Kyzylorda,rural,,KZKZY,27.3
-2016,Percent,Mangistau,rural,,KZMAN,47.1
-2016,Percent,Ontustik Kazakhstan,rural,,KZONT,33.7
-2016,Percent,Pavlodar,rural,,KZPAV,37.6
-2016,Percent,Soltustik Kazakhstan,rural,,KZSEV,30.4
-2016,Percent,Shygys Kazakhstan,rural,,KZVOS,25.2
-2016,Percent,,,16-24,,37.9
-2016,Percent,,,25-28,,36.1
-2016,Percent,,,29-34,,35.6
-2016,Percent,,,35-44,,35.4
-2016,Percent,,,45-54,,41.5
-2016,Percent,,,55-64,,36.7
-2016,Percent,,,65 and older,,29.8
-2016,Percent,Akmola,,16-24,KZAKM,45.0
-2016,Percent,Akmola,,25-28,KZAKM,15.8
-2016,Percent,Akmola,,29-34,KZAKM,45.4
-2016,Percent,Akmola,,35-44,KZAKM,28.7
-2016,Percent,Akmola,,45-54,KZAKM,35.8
-2016,Percent,Akmola,,55-64,KZAKM,44.0
-2016,Percent,Aktobe,,16-24,KZAKT,25.1
-2016,Percent,Aktobe,,25-28,KZAKT,35.2
-2016,Percent,Aktobe,,29-34,KZAKT,42.9
-2016,Percent,Aktobe,,35-44,KZAKT,32.2
-2016,Percent,Aktobe,,45-54,KZAKT,47.6
-2016,Percent,Aktobe,,55-64,KZAKT,24.0
-2016,Percent,Aktobe,,65 and older,KZAKT,4.7
-2016,Percent,Almaty,,16-24,KZALM,25.1
-2016,Percent,Almaty,,25-28,KZALM,35.2
-2016,Percent,Almaty,,29-34,KZALM,42.9
-2016,Percent,Almaty,,35-44,KZALM,32.2
-2016,Percent,Almaty,,45-54,KZALM,47.6
-2016,Percent,Almaty,,55-64,KZALM,24.0
-2016,Percent,Almaty,,65 and older,KZALM,4.7
-2016,Percent,Atyrau,,16-24,KZATY,33.8
-2016,Percent,Atyrau,,25-28,KZATY,49.1
-2016,Percent,Atyrau,,29-34,KZATY,7.5
-2016,Percent,Atyrau,,35-44,KZATY,34.1
-2016,Percent,Atyrau,,45-54,KZATY,49.1
-2016,Percent,Atyrau,,55-64,KZATY,23.4
-2016,Percent,Atyrau,,65 and older,KZATY,0.0
-2016,Percent,Batys Kazakhstan,,16-24,KZZAP,40.4
-2016,Percent,Batys Kazakhstan,,25-28,KZZAP,47.7
-2016,Percent,Batys Kazakhstan,,29-34,KZZAP,37.3
-2016,Percent,Batys Kazakhstan,,35-44,KZZAP,31.4
-2016,Percent,Batys Kazakhstan,,45-54,KZZAP,34.1
-2016,Percent,Batys Kazakhstan,,55-64,KZZAP,31.1
-2016,Percent,Zhambyl,,16-24,KZZHA,0.0
-2016,Percent,Zhambyl,,25-28,KZZHA,9.7
-2016,Percent,Zhambyl,,29-34,KZZHA,17.8
-2016,Percent,Zhambyl,,35-44,KZZHA,13.3
-2016,Percent,Zhambyl,,45-54,KZZHA,36.7
-2016,Percent,Zhambyl,,55-64,KZZHA,22.5
-2016,Percent,Zhambyl,,65 and older,KZZHA,100.0
-2016,Percent,Karagandy,,16-24,KZKAR,47.9
-2016,Percent,Karagandy,,25-28,KZKAR,26.9
-2016,Percent,Karagandy,,29-34,KZKAR,36.3
-2016,Percent,Karagandy,,35-44,KZKAR,28.6
-2016,Percent,Karagandy,,45-54,KZKAR,37.2
-2016,Percent,Karagandy,,55-64,KZKAR,36.3
-2016,Percent,Karagandy,,65 and older,KZKAR,14.0
-2016,Percent,Kostanay,,16-24,KZKUS,40.2
-2016,Percent,Kostanay,,25-28,KZKUS,38.2
-2016,Percent,Kostanay,,29-34,KZKUS,25.1
-2016,Percent,Kostanay,,35-44,KZKUS,42.5
-2016,Percent,Kostanay,,45-54,KZKUS,51.4
-2016,Percent,Kostanay,,55-64,KZKUS,33.8
-2016,Percent,Kostanay,,65 and older,KZKUS,15.9
-2016,Percent,Kyzylorda,,16-24,KZKZY,21.7
-2016,Percent,Kyzylorda,,25-28,KZKZY,22.9
-2016,Percent,Kyzylorda,,29-34,KZKZY,31.0
-2016,Percent,Kyzylorda,,35-44,KZKZY,22.8
-2016,Percent,Kyzylorda,,45-54,KZKZY,42.5
-2016,Percent,Kyzylorda,,55-64,KZKZY,30.8
-2016,Percent,Mangistau,,16-24,KZMAN,40.7
-2016,Percent,Mangistau,,25-28,KZMAN,46.0
-2016,Percent,Mangistau,,29-34,KZMAN,47.4
-2016,Percent,Mangistau,,35-44,KZMAN,41.9
-2016,Percent,Mangistau,,45-54,KZMAN,47.1
-2016,Percent,Mangistau,,55-64,KZMAN,37.6
-2016,Percent,Ontustik Kazakhstan,,16-24,KZONT,5.2
-2016,Percent,Ontustik Kazakhstan,,25-28,KZONT,10.9
-2016,Percent,Ontustik Kazakhstan,,29-34,KZONT,46.9
-2016,Percent,Ontustik Kazakhstan,,35-44,KZONT,60.7
-2016,Percent,Ontustik Kazakhstan,,45-54,KZONT,39.8
-2016,Percent,Ontustik Kazakhstan,,55-64,KZONT,67.2
-2016,Percent,Ontustik Kazakhstan,,65 and older,KZONT,0.0
-2016,Percent,Pavlodar,,16-24,KZPAV,72.0
-2016,Percent,Pavlodar,,25-28,KZPAV,32.9
-2016,Percent,Pavlodar,,29-34,KZPAV,31.7
-2016,Percent,Pavlodar,,35-44,KZPAV,40.3
-2016,Percent,Pavlodar,,45-54,KZPAV,44.9
-2016,Percent,Pavlodar,,55-64,KZPAV,38.1
-2016,Percent,Pavlodar,,65 and older,KZPAV,70.3
-2016,Percent,Soltustik Kazakhstan,,16-24,KZSEV,0.0
-2016,Percent,Soltustik Kazakhstan,,25-28,KZSEV,34.2
-2016,Percent,Soltustik Kazakhstan,,29-34,KZSEV,27.1
-2016,Percent,Soltustik Kazakhstan,,35-44,KZSEV,34.8
-2016,Percent,Soltustik Kazakhstan,,45-54,KZSEV,37.3
-2016,Percent,Soltustik Kazakhstan,,55-64,KZSEV,27.3
-2016,Percent,Soltustik Kazakhstan,,65 and older,KZSEV,16.5
-2016,Percent,Shygys Kazakhstan,,16-24,KZVOS,1.5
-2016,Percent,Shygys Kazakhstan,,25-28,KZVOS,71.9
-2016,Percent,Shygys Kazakhstan,,29-34,KZVOS,31.7
-2016,Percent,Shygys Kazakhstan,,35-44,KZVOS,29.43
-2016,Percent,Shygys Kazakhstan,,45-54,KZVOS,28.5
-2016,Percent,Shygys Kazakhstan,,55-64,KZVOS,30.7
-2016,Percent,Shygys Kazakhstan,,65 and older,KZVOS,17.5
-2016,Percent,Nur-Sultan city,,16-24,KZNS,61.6
-2016,Percent,Nur-Sultan city,,25-28,KZNS,46.3
-2016,Percent,Nur-Sultan city,,29-34,KZNS,40.6
-2016,Percent,Nur-Sultan city,,35-44,KZNS,38.3
-2016,Percent,Nur-Sultan city,,45-54,KZNS,48.7
-2016,Percent,Nur-Sultan city,,55-64,KZNS,56.7
-2016,Percent,Nur-Sultan city,,65 and older,KZNS,66.0
-2016,Percent,Almaty city,,16-24,KZALA,40.6
-2016,Percent,Almaty city,,25-28,KZALA,37.3
-2016,Percent,Almaty city,,29-34,KZALA,36.8
-2016,Percent,Almaty city,,35-44,KZALA,37.0
-2016,Percent,Almaty city,,45-54,KZALA,43.2
-2016,Percent,Almaty city,,55-64,KZALA,48.9
-2016,Percent,Almaty city,,65 and older,KZALA,78.8
-2017,Percent,,,,,37.0
-2017,Percent,Akmola,,,KZAKM,35.8
-2017,Percent,Aktobe,,,KZAKT,39.8
-2017,Percent,Almaty,,,KZALM,33.8
-2017,Percent,Atyrau,,,KZATY,31.0
-2017,Percent,Batys Kazakhstan,,,KZZAP,35.8
-2017,Percent,Zhambyl,,,KZZHA,18.5
-2017,Percent,Karagandy,,,KZKAR,32.9
-2017,Percent,Kostanay,,,KZKUS,38.8
-2017,Percent,Kyzylorda,,,KZKZY,30.5
-2017,Percent,Mangistau,,,KZMAN,42.0
-2017,Percent,Ontustik Kazakhstan,,,KZONT,26.5
-2017,Percent,Pavlodar,,,KZPAV,43.6
-2017,Percent,Soltustik Kazakhstan,,,KZSEV,33.9
-2017,Percent,Shygys Kazakhstan,,,KZVOS,41.1
-2017,Percent,Nur-Sultan city,,,KZNS,43.2
-2017,Percent,Almaty city,,,KZALA,36.1
-2017,Percent,,urban,,,37.8
-2017,Percent,Akmola,urban,,KZAKM,33.1
-2017,Percent,Aktobe,urban,,KZAKT,42.3
-2017,Percent,Almaty,urban,,KZALM,35.2
-2017,Percent,Atyrau,urban,,KZATY,30.8
-2017,Percent,Batys Kazakhstan,urban,,KZZAP,39.1
-2017,Percent,Zhambyl,urban,,KZZHA,17.8
-2017,Percent,Karagandy,urban,,KZKAR,33.3
-2017,Percent,Kostanay,urban,,KZKUS,40.0
-2017,Percent,Kyzylorda,urban,,KZKZY,29.6
-2017,Percent,Mangistau,urban,,KZMAN,39.5
-2017,Percent,Ontustik Kazakhstan,urban,,KZONT,24.9
-2017,Percent,Pavlodar,urban,,KZPAV,46.1
-2017,Percent,Soltustik Kazakhstan,urban,,KZSEV,37.2
-2017,Percent,Shygys Kazakhstan,urban,,KZVOS,42.3
-2017,Percent,Nur-Sultan city,urban,,KZNS,43.2
-2017,Percent,Almaty city,urban,,KZALA,36.1
-2017,Percent,,rural,,,33.3
-2017,Percent,Akmola,rural,,KZAKM,39.8
-2017,Percent,Aktobe,rural,,KZAKT,31.7
-2017,Percent,Almaty,rural,,KZALM,33.0
-2017,Percent,Atyrau,rural,,KZATY,32.6
-2017,Percent,Batys Kazakhstan,rural,,KZZAP,28.8
-2017,Percent,Zhambyl,rural,,KZZHA,20.9
-2017,Percent,Karagandy,rural,,KZKAR,29.6
-2017,Percent,Kostanay,rural,,KZKUS,36.5
-2017,Percent,Kyzylorda,rural,,KZKZY,33.3
-2017,Percent,Mangistau,rural,,KZMAN,49.1
-2017,Percent,Ontustik Kazakhstan,rural,,KZONT,32.1
-2017,Percent,Pavlodar,rural,,KZPAV,30.4
-2017,Percent,Soltustik Kazakhstan,rural,,KZSEV,24.3
-2017,Percent,Shygys Kazakhstan,rural,,KZVOS,33.3
-2017,Percent,,,16-24,,41.2
-2017,Percent,,,25-28,,35.0
-2017,Percent,,,29-34,,36.9
-2017,Percent,,,35-44,,37.0
-2017,Percent,,,45-54,,39.6
-2017,Percent,,,55-64,,31.4
-2017,Percent,,,65 and older,,35.3
-2017,Percent,Akmola,,16-24,KZAKM,49.3
-2017,Percent,Akmola,,25-28,KZAKM,22.6
-2017,Percent,Akmola,,29-34,KZAKM,32.2
-2017,Percent,Akmola,,35-44,KZAKM,38.6
-2017,Percent,Akmola,,45-54,KZAKM,43.4
-2017,Percent,Akmola,,55-64,KZAKM,26.7
-2017,Percent,Aktobe,,16-24,KZAKT,50.8
-2017,Percent,Aktobe,,25-28,KZAKT,49.7
-2017,Percent,Aktobe,,29-34,KZAKT,41.5
-2017,Percent,Aktobe,,35-44,KZAKT,36.5
-2017,Percent,Aktobe,,45-54,KZAKT,41.0
-2017,Percent,Aktobe,,55-64,KZAKT,22.2
-2017,Percent,Aktobe,,65 and older,KZAKT,0.0
-2017,Percent,Almaty,,16-24,KZALM,35.9
-2017,Percent,Almaty,,25-28,KZALM,31.9
-2017,Percent,Almaty,,29-34,KZALM,32.6
-2017,Percent,Almaty,,35-44,KZALM,30.1
-2017,Percent,Almaty,,45-54,KZALM,40.2
-2017,Percent,Almaty,,55-64,KZALM,27.4
-2017,Percent,Almaty,,65 and older,KZALM,72.5
-2017,Percent,Atyrau,,16-24,KZATY,2.2
-2017,Percent,Atyrau,,25-28,KZATY,21.4
-2017,Percent,Atyrau,,29-34,KZATY,32.8
-2017,Percent,Atyrau,,35-44,KZATY,40.2
-2017,Percent,Atyrau,,45-54,KZATY,28.7
-2017,Percent,Atyrau,,55-64,KZATY,31.3
-2017,Percent,Batys Kazakhstan,,16-24,KZZAP,44.1
-2017,Percent,Batys Kazakhstan,,25-28,KZZAP,33.9
-2017,Percent,Batys Kazakhstan,,29-34,KZZAP,25.9
-2017,Percent,Batys Kazakhstan,,35-44,KZZAP,38.6
-2017,Percent,Batys Kazakhstan,,45-54,KZZAP,40.3
-2017,Percent,Batys Kazakhstan,,55-64,KZZAP,32.5
-2017,Percent,Zhambyl,,16-24,KZZHA,31.1
-2017,Percent,Zhambyl,,25-28,KZZHA,20.7
-2017,Percent,Zhambyl,,29-34,KZZHA,9.0
-2017,Percent,Zhambyl,,35-44,KZZHA,20.1
-2017,Percent,Zhambyl,,45-54,KZZHA,12.0
-2017,Percent,Zhambyl,,55-64,KZZHA,17.6
-2017,Percent,Karagandy,,16-24,KZKAR,26.0
-2017,Percent,Karagandy,,25-28,KZKAR,36.9
-2017,Percent,Karagandy,,29-34,KZKAR,20.2
-2017,Percent,Karagandy,,35-44,KZKAR,35.4
-2017,Percent,Karagandy,,45-54,KZKAR,39.3
-2017,Percent,Karagandy,,55-64,KZKAR,32.7
-2017,Percent,Karagandy,,65 and older,KZKAR,26.9
-2017,Percent,Kostanay,,16-24,KZKUS,40.1
-2017,Percent,Kostanay,,25-28,KZKUS,30.8
-2017,Percent,Kostanay,,29-34,KZKUS,29.9
-2017,Percent,Kostanay,,35-44,KZKUS,49.6
-2017,Percent,Kostanay,,45-54,KZKUS,44.0
-2017,Percent,Kostanay,,55-64,KZKUS,25.1
-2017,Percent,Kostanay,,65 and older,KZKUS,14.1
-2017,Percent,Kyzylorda,,16-24,KZKZY,100.0
-2017,Percent,Kyzylorda,,25-28,KZKZY,43.3
-2017,Percent,Kyzylorda,,29-34,KZKZY,29.0
-2017,Percent,Kyzylorda,,35-44,KZKZY,34.0
-2017,Percent,Kyzylorda,,45-54,KZKZY,33.5
-2017,Percent,Kyzylorda,,55-64,KZKZY,16.6
-2017,Percent,Mangistau,,16-24,KZMAN,18.8
-2017,Percent,Mangistau,,25-28,KZMAN,53.1
-2017,Percent,Mangistau,,29-34,KZMAN,44.9
-2017,Percent,Mangistau,,35-44,KZMAN,46.5
-2017,Percent,Mangistau,,45-54,KZMAN,38.0
-2017,Percent,Mangistau,,55-64,KZMAN,29.3
-2017,Percent,Mangistau,,65 and older,KZMAN,0.0
-2017,Percent,Ontustik Kazakhstan,,16-24,KZONT,12.4
-2017,Percent,Ontustik Kazakhstan,,25-28,KZONT,14.9
-2017,Percent,Ontustik Kazakhstan,,29-34,KZONT,21.1
-2017,Percent,Ontustik Kazakhstan,,35-44,KZONT,29.9
-2017,Percent,Ontustik Kazakhstan,,45-54,KZONT,40.2
-2017,Percent,Ontustik Kazakhstan,,55-64,KZONT,11.3
-2017,Percent,Pavlodar,,16-24,KZPAV,60.4
-2017,Percent,Pavlodar,,25-28,KZPAV,54.5
-2017,Percent,Pavlodar,,29-34,KZPAV,49.9
-2017,Percent,Pavlodar,,35-44,KZPAV,41.8
-2017,Percent,Pavlodar,,45-54,KZPAV,39.1
-2017,Percent,Pavlodar,,55-64,KZPAV,36.0
-2017,Percent,Pavlodar,,65 and older,KZPAV,0.0
-2017,Percent,Soltustik Kazakhstan,,16-24,KZSEV,7.9
-2017,Percent,Soltustik Kazakhstan,,25-28,KZSEV,24.7
-2017,Percent,Soltustik Kazakhstan,,29-34,KZSEV,32.3
-2017,Percent,Soltustik Kazakhstan,,35-44,KZSEV,37.9
-2017,Percent,Soltustik Kazakhstan,,45-54,KZSEV,37.3
-2017,Percent,Soltustik Kazakhstan,,55-64,KZSEV,27.4
-2017,Percent,Soltustik Kazakhstan,,65 and older,KZSEV,14.4
-2017,Percent,Shygys Kazakhstan,,16-24,KZVOS,67.7
-2017,Percent,Shygys Kazakhstan,,25-28,KZVOS,54.5
-2017,Percent,Shygys Kazakhstan,,29-34,KZVOS,35.2
-2017,Percent,Shygys Kazakhstan,,35-44,KZVOS,46.5
-2017,Percent,Shygys Kazakhstan,,45-54,KZVOS,39.0
-2017,Percent,Shygys Kazakhstan,,55-64,KZVOS,30.4
-2017,Percent,Shygys Kazakhstan,,65 and older,KZVOS,12.5
-2017,Percent,Nur-Sultan city,,16-24,KZNS,62.5
-2017,Percent,Nur-Sultan city,,25-28,KZNS,25.4
-2017,Percent,Nur-Sultan city,,29-34,KZNS,58.1
-2017,Percent,Nur-Sultan city,,35-44,KZNS,29.8
-2017,Percent,Nur-Sultan city,,45-54,KZNS,42.1
-2017,Percent,Nur-Sultan city,,55-64,KZNS,51.1
-2017,Percent,Nur-Sultan city,,65 and older,KZNS,66.7
-2017,Percent,Almaty city,,16-24,KZALA,39.2
-2017,Percent,Almaty city,,25-28,KZALA,34.3
-2017,Percent,Almaty city,,29-34,KZALA,36.5
-2017,Percent,Almaty city,,35-44,KZALA,32.4
-2017,Percent,Almaty city,,45-54,KZALA,39.2
-2017,Percent,Almaty city,,55-64,KZALA,38.4
-2017,Percent,Almaty city,,65 and older,KZALA,42.5
-2018,Percent,,,,,41.2
-2018,Percent,Akmola,,,KZAKM,45.7
-2018,Percent,Aktobe,,,KZAKT,33.7
-2018,Percent,Almaty,,,KZALM,39.3
-2018,Percent,Atyrau,,,KZATY,35.6
-2018,Percent,Batys Kazakhstan,,,KZZAP,36.4
-2018,Percent,Zhambyl,,,KZZHA,40.7
-2018,Percent,Karagandy,,,KZKAR,36.3
-2018,Percent,Kostanay,,,KZKUS,42.9
-2018,Percent,Kyzylorda,,,KZKZY,37.2
-2018,Percent,Mangistau,,,KZMAN,37.4
-2018,Percent,Pavlodar,,,KZPAV,40.2
-2018,Percent,Soltustik Kazakhstan,,,KZSEV,39.3
-2018,Percent,Turkistan,,,KZYUZ,40.3
-2018,Percent,Shygys Kazakhstan,,,KZVOS,45.1
-2018,Percent,Nur-Sultan city,,,KZNS,43.3
-2018,Percent,Almaty city,,,KZALA,43.2
-2018,Percent,Shymkent city,,,KZSHY,46.7
-2018,Percent,,urban,,,41.7
-2018,Percent,Akmola,urban,,KZAKM,45.8
-2018,Percent,Aktobe,urban,,KZAKT,34.1
-2018,Percent,Almaty,urban,,KZALM,38.0
-2018,Percent,Atyrau,urban,,KZATY,33.8
-2018,Percent,Batys Kazakhstan,urban,,KZZAP,36.9
-2018,Percent,Zhambyl,urban,,KZZHA,42.6
-2018,Percent,Karagandy,urban,,KZKAR,37.0
-2018,Percent,Kostanay,urban,,KZKUS,42.5
-2018,Percent,Kyzylorda,urban,,KZKZY,38.2
-2018,Percent,Mangistau,urban,,KZMAN,36.6
-2018,Percent,Pavlodar,urban,,KZPAV,40.1
-2018,Percent,Soltustik Kazakhstan,urban,,KZSEV,43.1
-2018,Percent,Turkistan,urban,,KZYUZ,37.9
-2018,Percent,Shygys Kazakhstan,urban,,KZVOS,46.7
-2018,Percent,Nur-Sultan city,urban,,KZNS,43.3
-2018,Percent,Almaty city,urban,,KZALA,43.2
-2018,Percent,Shymkent city,urban,,KZSHY,46.7
-2018,Percent,,rural,,,39.5
-2018,Percent,Akmola,rural,,KZAKM,45.6
-2018,Percent,Aktobe,rural,,KZAKT,32.4
-2018,Percent,Almaty,rural,,KZALM,39.8
-2018,Percent,Atyrau,rural,,KZATY,43.0
-2018,Percent,Batys Kazakhstan,rural,,KZZAP,35.6
-2018,Percent,Zhambyl,rural,,KZZHA,36.2
-2018,Percent,Karagandy,rural,,KZKAR,33.6
-2018,Percent,Kostanay,rural,,KZKUS,43.7
-2018,Percent,Kyzylorda,rural,,KZKZY,34.9
-2018,Percent,Mangistau,rural,,KZMAN,38.9
-2018,Percent,Pavlodar,rural,,KZPAV,40.7
-2018,Percent,Soltustik Kazakhstan,rural,,KZSEV,34.1
-2018,Percent,Turkistan,rural,,KZYUZ,41.0
-2018,Percent,Shygys Kazakhstan,rural,,KZVOS,41.5
-2018,Percent,,,16-24,,45.2
-2018,Percent,,,25-28,,42.0
-2018,Percent,,,29-34,,37.2
-2018,Percent,,,35-44,,41.7
-2018,Percent,,,45-54,,44.5
-2018,Percent,,,55-64,,37.8
-2018,Percent,,,65 and older,,32.7
-2018,Percent,Akmola,,16-24,KZAKM,38.3
-2018,Percent,Akmola,,25-28,KZAKM,44.1
-2018,Percent,Akmola,,29-34,KZAKM,47.2
-2018,Percent,Akmola,,35-44,KZAKM,45.2
-2018,Percent,Akmola,,45-54,KZAKM,48.1
-2018,Percent,Akmola,,55-64,KZAKM,47.0
-2018,Percent,Aktobe,,16-24,KZAKT,32.6
-2018,Percent,Aktobe,,25-28,KZAKT,21.4
-2018,Percent,Aktobe,,29-34,KZAKT,23.1
-2018,Percent,Aktobe,,35-44,KZAKT,32.4
-2018,Percent,Aktobe,,45-54,KZAKT,46.5
-2018,Percent,Aktobe,,55-64,KZAKT,46.4
-2018,Percent,Aktobe,,65 and older,KZAKT,0.0
-2018,Percent,Almaty,,16-24,KZALM,46.5
-2018,Percent,Almaty,,25-28,KZALM,37.9
-2018,Percent,Almaty,,29-34,KZALM,39.0
-2018,Percent,Almaty,,35-44,KZALM,41.6
-2018,Percent,Almaty,,45-54,KZALM,37.9
-2018,Percent,Almaty,,55-64,KZALM,35.8
-2018,Percent,Almaty,,65 and older,KZALM,0.0
-2018,Percent,Atyrau,,16-24,KZATY,23.0
-2018,Percent,Atyrau,,25-28,KZATY,61.6
-2018,Percent,Atyrau,,29-34,KZATY,24.6
-2018,Percent,Atyrau,,35-44,KZATY,35.7
-2018,Percent,Atyrau,,45-54,KZATY,41.4
-2018,Percent,Atyrau,,55-64,KZATY,38.1
-2018,Percent,Atyrau,,65 and older,KZATY,0.0
-2018,Percent,Batys Kazakhstan,,16-24,KZZAP,56.1
-2018,Percent,Batys Kazakhstan,,25-28,KZZAP,36.8
-2018,Percent,Batys Kazakhstan,,29-34,KZZAP,47.3
-2018,Percent,Batys Kazakhstan,,35-44,KZZAP,34.2
-2018,Percent,Batys Kazakhstan,,45-54,KZZAP,31.6
-2018,Percent,Batys Kazakhstan,,55-64,KZZAP,32.0
-2018,Percent,Zhambyl,,16-24,KZZHA,23.6
-2018,Percent,Zhambyl,,25-28,KZZHA,35.5
-2018,Percent,Zhambyl,,29-34,KZZHA,39.6
-2018,Percent,Zhambyl,,35-44,KZZHA,46.8
-2018,Percent,Zhambyl,,45-54,KZZHA,47.8
-2018,Percent,Zhambyl,,55-64,KZZHA,23.1
-2018,Percent,Karagandy,,16-24,KZKAR,36.1
-2018,Percent,Karagandy,,25-28,KZKAR,31.9
-2018,Percent,Karagandy,,29-34,KZKAR,36.1
-2018,Percent,Karagandy,,35-44,KZKAR,40.1
-2018,Percent,Karagandy,,45-54,KZKAR,37.6
-2018,Percent,Karagandy,,55-64,KZKAR,29.1
-2018,Percent,Karagandy,,65 and older,KZKAR,37.8
-2018,Percent,Kostanay,,16-24,KZKUS,48.6
-2018,Percent,Kostanay,,25-28,KZKUS,44.5
-2018,Percent,Kostanay,,29-34,KZKUS,35.0
-2018,Percent,Kostanay,,35-44,KZKUS,45.3
-2018,Percent,Kostanay,,45-54,KZKUS,47.9
-2018,Percent,Kostanay,,55-64,KZKUS,37.4
-2018,Percent,Kostanay,,65 and older,KZKUS,48.6
-2018,Percent,Kyzylorda,,16-24,KZKZY,47.8
-2018,Percent,Kyzylorda,,25-28,KZKZY,33.9
-2018,Percent,Kyzylorda,,29-34,KZKZY,32.1
-2018,Percent,Kyzylorda,,35-44,KZKZY,35.8
-2018,Percent,Kyzylorda,,45-54,KZKZY,47.3
-2018,Percent,Kyzylorda,,55-64,KZKZY,31.8
-2018,Percent,Mangistau,,16-24,KZMAN,35.2
-2018,Percent,Mangistau,,25-28,KZMAN,47.8
-2018,Percent,Mangistau,,29-34,KZMAN,30.8
-2018,Percent,Mangistau,,35-44,KZMAN,39.7
-2018,Percent,Mangistau,,45-54,KZMAN,40.9
-2018,Percent,Mangistau,,55-64,KZMAN,27.0
-2018,Percent,Pavlodar,,16-24,KZPAV,63.4
-2018,Percent,Pavlodar,,25-28,KZPAV,45.8
-2018,Percent,Pavlodar,,29-34,KZPAV,36.1
-2018,Percent,Pavlodar,,35-44,KZPAV,34.1
-2018,Percent,Pavlodar,,45-54,KZPAV,50.2
-2018,Percent,Pavlodar,,55-64,KZPAV,32.8
-2018,Percent,Pavlodar,,65 and older,KZPAV,0.0
-2018,Percent,Soltustik Kazakhstan,,16-24,KZSEV,50.1
-2018,Percent,Soltustik Kazakhstan,,25-28,KZSEV,38.7
-2018,Percent,Soltustik Kazakhstan,,29-34,KZSEV,29.1
-2018,Percent,Soltustik Kazakhstan,,35-44,KZSEV,49.0
-2018,Percent,Soltustik Kazakhstan,,45-54,KZSEV,42.3
-2018,Percent,Soltustik Kazakhstan,,55-64,KZSEV,32.6
-2018,Percent,Soltustik Kazakhstan,,65 and older,KZSEV,42.6
-2018,Percent,Turkistan,,16-24,KZYUZ,46.9
-2018,Percent,Turkistan,,25-28,KZYUZ,54.7
-2018,Percent,Turkistan,,29-34,KZYUZ,29.5
-2018,Percent,Turkistan,,35-44,KZYUZ,26.1
-2018,Percent,Turkistan,,45-54,KZYUZ,64.4
-2018,Percent,Turkistan,,55-64,KZYUZ,41.3
-2018,Percent,Shygys Kazakhstan,,16-24,KZVOS,77.1
-2018,Percent,Shygys Kazakhstan,,25-28,KZVOS,63.3
-2018,Percent,Shygys Kazakhstan,,29-34,KZVOS,44.3
-2018,Percent,Shygys Kazakhstan,,35-44,KZVOS,28.5
-2018,Percent,Shygys Kazakhstan,,45-54,KZVOS,48.4
-2018,Percent,Shygys Kazakhstan,,55-64,KZVOS,42.7
-2018,Percent,Shygys Kazakhstan,,65 and older,KZVOS,17.6
-2018,Percent,Nur-Sultan city,,16-24,KZNS,42.8
-2018,Percent,Nur-Sultan city,,25-28,KZNS,41.5
-2018,Percent,Nur-Sultan city,,29-34,KZNS,44.3
-2018,Percent,Nur-Sultan city,,35-44,KZNS,44.0
-2018,Percent,Nur-Sultan city,,45-54,KZNS,44.6
-2018,Percent,Nur-Sultan city,,55-64,KZNS,35.9
-2018,Percent,Nur-Sultan city,,65 and older,KZNS,46.3
-2018,Percent,Almaty city,,16-24,KZALA,45.3
-2018,Percent,Almaty city,,25-28,KZALA,39.4
-2018,Percent,Almaty city,,29-34,KZALA,39.3
-2018,Percent,Almaty city,,35-44,KZALA,43.2
-2018,Percent,Almaty city,,45-54,KZALA,44.6
-2018,Percent,Almaty city,,55-64,KZALA,50.4
-2018,Percent,Almaty city,,65 and older,KZALA,39.1
-2018,Percent,Shymkent city,,16-24,KZSHY,31.4
-2018,Percent,Shymkent city,,25-28,KZSHY,38.3
-2018,Percent,Shymkent city,,29-34,KZSHY,18.8
-2018,Percent,Shymkent city,,35-44,KZSHY,74.2
-2018,Percent,Shymkent city,,45-54,KZSHY,43.2
-2018,Percent,Shymkent city,,55-64,KZSHY,32.2
-2019,Percent,,,,,43.0
-2019,Percent,Akmola,,,KZAKM,43.5
-2019,Percent,Aktobe,,,KZAKT,27.3
-2019,Percent,Almaty,,,KZALM,43.6
-2019,Percent,Atyrau,,,KZATY,41.3
-2019,Percent,Batys Kazakhstan,,,KZZAP,38.9
-2019,Percent,Zhambyl,,,KZZHA,35.2
-2019,Percent,Karagandy,,,KZKAR,34.4
-2019,Percent,Kostanay,,,KZKUS,40.1
-2019,Percent,Kyzylorda,,,KZKZY,44.4
-2019,Percent,Mangistau,,,KZMAN,34.5
-2019,Percent,Pavlodar,,,KZPAV,45.0
-2019,Percent,Soltustik Kazakhstan,,,KZSEV,40.8
-2019,Percent,Turkistan,,,KZYUZ,34.7
-2019,Percent,Shygys Kazakhstan,,,KZVOS,44.5
-2019,Percent,Nur-Sultan city,,,KZNS,52.1
-2019,Percent,Almaty city,,,KZALA,48.1
-2019,Percent,Shymkent city,,,KZSHY,38.3
-2019,Percent,,urban,,,43.9
-2019,Percent,Akmola,urban,,KZAKM,45.6
-2019,Percent,Aktobe,urban,,KZAKT,22.6
-2019,Percent,Almaty,urban,,KZALM,41.0
-2019,Percent,Atyrau,urban,,KZATY,36.8
-2019,Percent,Batys Kazakhstan,urban,,KZZAP,41.1
-2019,Percent,Zhambyl,urban,,KZZHA,37.3
-2019,Percent,Karagandy,urban,,KZKAR,34.6
-2019,Percent,Kostanay,urban,,KZKUS,38.2
-2019,Percent,Kyzylorda,urban,,KZKZY,50.0
-2019,Percent,Mangistau,urban,,KZMAN,33.2
-2019,Percent,Pavlodar,urban,,KZPAV,45.9
-2019,Percent,Soltustik Kazakhstan,urban,,KZSEV,44.9
-2019,Percent,Turkistan,urban,,KZYUZ,27.5
-2019,Percent,Shygys Kazakhstan,urban,,KZVOS,45.0
-2019,Percent,Nur-Sultan city,urban,,KZNS,52.1
-2019,Percent,Almaty city,urban,,KZALA,48.1
-2019,Percent,Shymkent city,urban,,KZSHY,38.3
-2019,Percent,,rural,,,40.0
-2019,Percent,Akmola,rural,,KZAKM,40.7
-2019,Percent,Aktobe,rural,,KZAKT,39.7
-2019,Percent,Almaty,rural,,KZALM,44.5
-2019,Percent,Atyrau,rural,,KZATY,48.5
-2019,Percent,Batys Kazakhstan,rural,,KZZAP,35.4
-2019,Percent,Zhambyl,rural,,KZZHA,26.5
-2019,Percent,Karagandy,rural,,KZKAR,33.5
-2019,Percent,Kostanay,rural,,KZKUS,42.4
-2019,Percent,Kyzylorda,rural,,KZKZY,33.2
-2019,Percent,Mangistau,rural,,KZMAN,37.4
-2019,Percent,Pavlodar,rural,,KZPAV,41.7
-2019,Percent,Soltustik Kazakhstan,rural,,KZSEV,35.9
-2019,Percent,Turkistan,rural,,KZYUZ,36.6
-2019,Percent,Shygys Kazakhstan,rural,,KZVOS,43.4
-2019,Percent,,,16-24,,42.4
-2019,Percent,,,25-28,,47.7
-2019,Percent,,,29-34,,41.2
-2019,Percent,,,35-44,,41.3
-2019,Percent,,,45-54,,46.9
-2019,Percent,,,55-64,,39.8
-2019,Percent,,,65 and older,,42.5
-2019,Percent,Akmola,,16-24,KZAKM,41.6
-2019,Percent,Akmola,,25-28,KZAKM,43.2
-2019,Percent,Akmola,,29-34,KZAKM,40.2
-2019,Percent,Akmola,,35-44,KZAKM,41.4
-2019,Percent,Akmola,,45-54,KZAKM,50.7
-2019,Percent,Akmola,,55-64,KZAKM,42.2
-2019,Percent,Akmola,,65 and older,KZAKM,37.0
-2019,Percent,Aktobe,,16-24,KZAKT,11.0
-2019,Percent,Aktobe,,25-28,KZAKT,15.7
-2019,Percent,Aktobe,,29-34,KZAKT,19.4
-2019,Percent,Aktobe,,35-44,KZAKT,26.7
-2019,Percent,Aktobe,,45-54,KZAKT,37.1
-2019,Percent,Aktobe,,55-64,KZAKT,34.1
-2019,Percent,Aktobe,,65 and older,KZAKT,100.0
-2019,Percent,Almaty,,16-24,KZALM,41.7
-2019,Percent,Almaty,,25-28,KZALM,38.2
-2019,Percent,Almaty,,29-34,KZALM,38.8
-2019,Percent,Almaty,,35-44,KZALM,45.4
-2019,Percent,Almaty,,45-54,KZALM,49.5
-2019,Percent,Almaty,,55-64,KZALM,43.3
-2019,Percent,Almaty,,65 and older,KZALM,34.0
-2019,Percent,Atyrau,,16-24,KZATY,4.1
-2019,Percent,Atyrau,,25-28,KZATY,55.2
-2019,Percent,Atyrau,,29-34,KZATY,38.9
-2019,Percent,Atyrau,,35-44,KZATY,43.5
-2019,Percent,Atyrau,,45-54,KZATY,52.4
-2019,Percent,Atyrau,,55-64,KZATY,18.8
-2019,Percent,Batys Kazakhstan,,16-24,KZZAP,41.7
-2019,Percent,Batys Kazakhstan,,25-28,KZZAP,55.6
-2019,Percent,Batys Kazakhstan,,29-34,KZZAP,34.1
-2019,Percent,Batys Kazakhstan,,35-44,KZZAP,44.7
-2019,Percent,Batys Kazakhstan,,45-54,KZZAP,36.5
-2019,Percent,Batys Kazakhstan,,55-64,KZZAP,31.8
-2019,Percent,Zhambyl,,16-24,KZZHA,47.2
-2019,Percent,Zhambyl,,25-28,KZZHA,31.6
-2019,Percent,Zhambyl,,29-34,KZZHA,20.3
-2019,Percent,Zhambyl,,35-44,KZZHA,36.2
-2019,Percent,Zhambyl,,45-54,KZZHA,41.9
-2019,Percent,Zhambyl,,55-64,KZZHA,33.7
-2019,Percent,Karagandy,,16-24,KZKAR,21.7
-2019,Percent,Karagandy,,25-28,KZKAR,32.2
-2019,Percent,Karagandy,,29-34,KZKAR,22.3
-2019,Percent,Karagandy,,35-44,KZKAR,40.0
-2019,Percent,Karagandy,,45-54,KZKAR,41.6
-2019,Percent,Karagandy,,55-64,KZKAR,34.2
-2019,Percent,Karagandy,,65 and older,KZKAR,87.7
-2019,Percent,Kostanay,,16-24,KZKUS,42.2
-2019,Percent,Kostanay,,25-28,KZKUS,42.7
-2019,Percent,Kostanay,,29-34,KZKUS,28.9
-2019,Percent,Kostanay,,35-44,KZKUS,38.5
-2019,Percent,Kostanay,,45-54,KZKUS,54.7
-2019,Percent,Kostanay,,55-64,KZKUS,35.2
-2019,Percent,Kostanay,,65 and older,KZKUS,47.8
-2019,Percent,Kyzylorda,,16-24,KZKZY,11.7
-2019,Percent,Kyzylorda,,25-28,KZKZY,34.0
-2019,Percent,Kyzylorda,,29-34,KZKZY,53.1
-2019,Percent,Kyzylorda,,35-44,KZKZY,49.9
-2019,Percent,Kyzylorda,,45-54,KZKZY,45.1
-2019,Percent,Kyzylorda,,55-64,KZKZY,27.0
-2019,Percent,Mangistau,,16-24,KZMAN,51.8
-2019,Percent,Mangistau,,25-28,KZMAN,32.7
-2019,Percent,Mangistau,,29-34,KZMAN,35.8
-2019,Percent,Mangistau,,35-44,KZMAN,28.3
-2019,Percent,Mangistau,,45-54,KZMAN,39.0
-2019,Percent,Mangistau,,55-64,KZMAN,38.5
-2019,Percent,Mangistau,,65 and older,KZMAN,7.1
-2019,Percent,Pavlodar,,16-24,KZPAV,24.5
-2019,Percent,Pavlodar,,25-28,KZPAV,26.0
-2019,Percent,Pavlodar,,29-34,KZPAV,33.8
-2019,Percent,Pavlodar,,35-44,KZPAV,49.3
-2019,Percent,Pavlodar,,45-54,KZPAV,56.3
-2019,Percent,Pavlodar,,55-64,KZPAV,46.6
-2019,Percent,Pavlodar,,65 and older,KZPAV,4.2
-2019,Percent,Soltustik Kazakhstan,,16-24,KZSEV,24.9
-2019,Percent,Soltustik Kazakhstan,,25-28,KZSEV,39.4
-2019,Percent,Soltustik Kazakhstan,,29-34,KZSEV,44.2
-2019,Percent,Soltustik Kazakhstan,,35-44,KZSEV,40.3
-2019,Percent,Soltustik Kazakhstan,,45-54,KZSEV,46.7
-2019,Percent,Soltustik Kazakhstan,,55-64,KZSEV,32.8
-2019,Percent,Soltustik Kazakhstan,,65 and older,KZSEV,15.8
-2019,Percent,Turkistan,,16-24,KZYUZ,38.2
-2019,Percent,Turkistan,,25-28,KZYUZ,26.9
-2019,Percent,Turkistan,,29-34,KZYUZ,28.0
-2019,Percent,Turkistan,,35-44,KZYUZ,46.6
-2019,Percent,Turkistan,,45-54,KZYUZ,36.7
-2019,Percent,Turkistan,,55-64,KZYUZ,13.0
-2019,Percent,Shygys Kazakhstan,,16-24,KZVOS,44.4
-2019,Percent,Shygys Kazakhstan,,25-28,KZVOS,41.5
-2019,Percent,Shygys Kazakhstan,,29-34,KZVOS,49.3
-2019,Percent,Shygys Kazakhstan,,35-44,KZVOS,35.7
-2019,Percent,Shygys Kazakhstan,,45-54,KZVOS,50.4
-2019,Percent,Shygys Kazakhstan,,55-64,KZVOS,49.0
-2019,Percent,Nur-Sultan city,,16-24,KZNS,41.3
-2019,Percent,Nur-Sultan city,,25-28,KZNS,72.1
-2019,Percent,Nur-Sultan city,,29-34,KZNS,64.5
-2019,Percent,Nur-Sultan city,,35-44,KZNS,38.4
-2019,Percent,Nur-Sultan city,,45-54,KZNS,43.8
-2019,Percent,Nur-Sultan city,,55-64,KZNS,42.6
-2019,Percent,Nur-Sultan city,,65 and older,KZNS,49.0
-2019,Percent,Almaty city,,16-24,KZALA,41.3
-2019,Percent,Almaty city,,25-28,KZALA,72.1
-2019,Percent,Almaty city,,29-34,KZALA,64.5
-2019,Percent,Almaty city,,35-44,KZALA,38.4
-2019,Percent,Almaty city,,45-54,KZALA,43.8
-2019,Percent,Almaty city,,55-64,KZALA,42.6
-2019,Percent,Almaty city,,65 and older,KZALA,49.0
-2019,Percent,Shymkent city,,16-24,KZSHY,30.5
-2019,Percent,Shymkent city,,25-28,KZSHY,38.5
-2019,Percent,Shymkent city,,29-34,KZSHY,29.7
-2019,Percent,Shymkent city,,35-44,KZSHY,47.3
-2019,Percent,Shymkent city,,45-54,KZSHY,37.5
-2019,Percent,Shymkent city,,55-64,KZSHY,41.2
+Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
+2010,Percent,,,,,,37.2
+2010,Percent,Akmola,,,,KZAKM,39.9
+2010,Percent,Aktobe,,,,KZAKT,41.7
+2010,Percent,Almaty,,,,KZALM,31.5
+2010,Percent,Atyrau,,,,KZATY,18.9
+2010,Percent,Batys Kazakhstan,,,,KZZAP,21.2
+2010,Percent,Zhambyl,,,,KZZHA,22.3
+2010,Percent,Karagandy,,,,KZKAR,41.0
+2010,Percent,Kostanay,,,,KZKUS,39.6
+2010,Percent,Kyzylorda,,,,KZKZY,38.1
+2010,Percent,Mangistau,,,,KZMAN,30.4
+2010,Percent,Ontustik Kazakhstan,,,,KZONT,18.4
+2010,Percent,Pavlodar,,,,KZPAV,41.7
+2010,Percent,Soltustik Kazakhstan,,,,KZSEV,32.7
+2010,Percent,Shygys Kazakhstan,,,,KZVOS,35.7
+2010,Percent,Nur-Sultan city,,,,KZNS,40.4
+2010,Percent,Almaty city,,,,KZALA,39.2
+2010,Percent,,urban,,,,38.0
+2010,Percent,Akmola,urban,,,KZAKM,40.5
+2010,Percent,Aktobe,urban,,,KZAKT,36.1
+2010,Percent,Almaty,urban,,,KZALM,29.7
+2010,Percent,Atyrau,urban,,,KZATY,16.1
+2010,Percent,Batys Kazakhstan,urban,,,KZZAP,23.4
+2010,Percent,Zhambyl,urban,,,KZZHA,28.0
+2010,Percent,Karagandy,urban,,,KZKAR,41.7
+2010,Percent,Kostanay,urban,,,KZKUS,35.3
+2010,Percent,Kyzylorda,urban,,,KZKZY,38.5
+2010,Percent,Mangistau,urban,,,KZMAN,30.5
+2010,Percent,Ontustik Kazakhstan,urban,,,KZONT,24.8
+2010,Percent,Pavlodar,urban,,,KZPAV,41.4
+2010,Percent,Soltustik Kazakhstan,urban,,,KZSEV,36.6
+2010,Percent,Shygys Kazakhstan,urban,,,KZVOS,39.5
+2010,Percent,Nur-Sultan city,urban,,,KZNS,40.4
+2010,Percent,Almaty city,urban,,,KZALA,39.2
+2010,Percent,,rural,,,,33.4
+2010,Percent,Akmola,rural,,,KZAKM,37.5
+2010,Percent,Aktobe,rural,,,KZAKT,55.8
+2010,Percent,Almaty,rural,,,KZALM,32.7
+2010,Percent,Atyrau,rural,,,KZATY,26.8
+2010,Percent,Batys Kazakhstan,rural,,,KZZAP,8.6
+2010,Percent,Zhambyl,rural,,,KZZHA,19.1
+2010,Percent,Karagandy,rural,,,KZKAR,31.5
+2010,Percent,Kostanay,rural,,,KZKUS,46.9
+2010,Percent,Kyzylorda,rural,,,KZKZY,37.3
+2010,Percent,Mangistau,rural,,,KZMAN,29.6
+2010,Percent,Ontustik Kazakhstan,rural,,,KZONT,4.2
+2010,Percent,Pavlodar,rural,,,KZPAV,43.3
+2010,Percent,Soltustik Kazakhstan,rural,,,KZSEV,27.3
+2010,Percent,Shygys Kazakhstan,rural,,,KZVOS,28.8
+2010,Percent,,,16-24,,,41.5
+2010,Percent,,,25-28,,,43.5
+2010,Percent,,,29-34,,,32.8
+2010,Percent,,,35-44,,,40.6
+2010,Percent,,,45-54,,,35.8
+2010,Percent,,,55-64,,,30.9
+2010,Percent,,,65 and older,,,51.0
+2010,Percent,Akmola,,16-24,,KZAKM,44.0
+2010,Percent,Akmola,,25-28,,KZAKM,22.2
+2010,Percent,Akmola,,29-34,,KZAKM,45.3
+2010,Percent,Akmola,,35-44,,KZAKM,46.2
+2010,Percent,Akmola,,45-54,,KZAKM,44.3
+2010,Percent,Akmola,,55-64,,KZAKM,24.6
+2010,Percent,Aktobe,,16-24,,KZAKT,100.0
+2010,Percent,Aktobe,,25-28,,KZAKT,56.3
+2010,Percent,Aktobe,,29-34,,KZAKT,25.8
+2010,Percent,Aktobe,,35-44,,KZAKT,47.6
+2010,Percent,Aktobe,,45-54,,KZAKT,24.1
+2010,Percent,Aktobe,,55-64,,KZAKT,51.9
+2010,Percent,Almaty,,16-24,,KZALM,29.8
+2010,Percent,Almaty,,25-28,,KZALM,25.2
+2010,Percent,Almaty,,29-34,,KZALM,0.0
+2010,Percent,Almaty,,35-44,,KZALM,40.4
+2010,Percent,Almaty,,45-54,,KZALM,36.6
+2010,Percent,Almaty,,55-64,,KZALM,46.9
+2010,Percent,Atyrau,,29-34,,KZATY,33.4
+2010,Percent,Atyrau,,35-44,,KZATY,0.0
+2010,Percent,Atyrau,,45-54,,KZATY,32.6
+2010,Percent,Atyrau,,55-64,,KZATY,15.6
+2010,Percent,Batys Kazakhstan,,16-24,,KZZAP,7.0
+2010,Percent,Batys Kazakhstan,,25-28,,KZZAP,13.2
+2010,Percent,Batys Kazakhstan,,29-34,,KZZAP,31.4
+2010,Percent,Batys Kazakhstan,,35-44,,KZZAP,14.9
+2010,Percent,Batys Kazakhstan,,45-54,,KZZAP,19.3
+2010,Percent,Batys Kazakhstan,,55-64,,KZZAP,32.5
+2010,Percent,Zhambyl,,25-28,,KZZHA,100.0
+2010,Percent,Zhambyl,,29-34,,KZZHA,0.0
+2010,Percent,Zhambyl,,35-44,,KZZHA,30.2
+2010,Percent,Zhambyl,,45-54,,KZZHA,39.8
+2010,Percent,Zhambyl,,55-64,,KZZHA,6.5
+2010,Percent,Karagandy,,16-24,,KZKAR,32.9
+2010,Percent,Karagandy,,25-28,,KZKAR,33.8
+2010,Percent,Karagandy,,29-34,,KZKAR,36.0
+2010,Percent,Karagandy,,35-44,,KZKAR,41.8
+2010,Percent,Karagandy,,45-54,,KZKAR,46.6
+2010,Percent,Karagandy,,55-64,,KZKAR,44.6
+2010,Percent,Karagandy,,65 and older,,KZKAR,0.0
+2010,Percent,Kostanay,,16-24,,KZKUS,13.4
+2010,Percent,Kostanay,,25-28,,KZKUS,40.4
+2010,Percent,Kostanay,,29-34,,KZKUS,49.1
+2010,Percent,Kostanay,,35-44,,KZKUS,33.0
+2010,Percent,Kostanay,,45-54,,KZKUS,40.5
+2010,Percent,Kostanay,,55-64,,KZKUS,36.1
+2010,Percent,Kostanay,,65 and older,,KZKUS,83.9
+2010,Percent,Kyzylorda,,16-24,,KZKZY,100.0
+2010,Percent,Kyzylorda,,25-28,,KZKZY,89.4
+2010,Percent,Kyzylorda,,29-34,,KZKZY,58.7
+2010,Percent,Kyzylorda,,35-44,,KZKZY,34.6
+2010,Percent,Kyzylorda,,45-54,,KZKZY,33.4
+2010,Percent,Kyzylorda,,55-64,,KZKZY,23.6
+2010,Percent,Kyzylorda,,65 and older,,KZKZY,0.0
+2010,Percent,Mangistau,,16-24,,KZMAN,25.8
+2010,Percent,Mangistau,,25-28,,KZMAN,22.7
+2010,Percent,Mangistau,,29-34,,KZMAN,30.0
+2010,Percent,Mangistau,,35-44,,KZMAN,35.3
+2010,Percent,Mangistau,,45-54,,KZMAN,34.2
+2010,Percent,Mangistau,,55-64,,KZMAN,15.4
+2010,Percent,Mangistau,,65 and older,,KZMAN,0.0
+2010,Percent,Ontustik Kazakhstan,,16-24,,KZONT,0.0
+2010,Percent,Ontustik Kazakhstan,,25-28,,KZONT,100.0
+2010,Percent,Ontustik Kazakhstan,,29-34,,KZONT,34.8
+2010,Percent,Ontustik Kazakhstan,,35-44,,KZONT,14.3
+2010,Percent,Ontustik Kazakhstan,,45-54,,KZONT,14.7
+2010,Percent,Ontustik Kazakhstan,,55-64,,KZONT,23.3
+2010,Percent,Pavlodar,,16-24,,KZPAV,77.4
+2010,Percent,Pavlodar,,25-28,,KZPAV,35.0
+2010,Percent,Pavlodar,,29-34,,KZPAV,47.4
+2010,Percent,Pavlodar,,35-44,,KZPAV,35.2
+2010,Percent,Pavlodar,,45-54,,KZPAV,44.7
+2010,Percent,Pavlodar,,55-64,,KZPAV,34.2
+2010,Percent,Soltustik Kazakhstan,,16-24,,KZSEV,43.8
+2010,Percent,Soltustik Kazakhstan,,25-28,,KZSEV,35.2
+2010,Percent,Soltustik Kazakhstan,,29-34,,KZSEV,50.8
+2010,Percent,Soltustik Kazakhstan,,35-44,,KZSEV,40.3
+2010,Percent,Soltustik Kazakhstan,,45-54,,KZSEV,19.6
+2010,Percent,Soltustik Kazakhstan,,55-64,,KZSEV,25.3
+2010,Percent,Shygys Kazakhstan,,16-24,,KZVOS,53.9
+2010,Percent,Shygys Kazakhstan,,25-28,,KZVOS,47.9
+2010,Percent,Shygys Kazakhstan,,29-34,,KZVOS,23.1
+2010,Percent,Shygys Kazakhstan,,35-44,,KZVOS,35.7
+2010,Percent,Shygys Kazakhstan,,45-54,,KZVOS,39.1
+2010,Percent,Shygys Kazakhstan,,55-64,,KZVOS,25.4
+2010,Percent,Nur-Sultan city,,16-24,,KZNS,44.0
+2010,Percent,Nur-Sultan city,,25-28,,KZNS,54.0
+2010,Percent,Nur-Sultan city,,29-34,,KZNS,28.9
+2010,Percent,Nur-Sultan city,,35-44,,KZNS,48.5
+2010,Percent,Nur-Sultan city,,45-54,,KZNS,34.6
+2010,Percent,Nur-Sultan city,,55-64,,KZNS,35.8
+2010,Percent,Nur-Sultan city,,65 and older,,KZNS,25.6
+2010,Percent,Almaty city,,16-24,,KZALA,23.7
+2010,Percent,Almaty city,,25-28,,KZALA,42.7
+2010,Percent,Almaty city,,29-34,,KZALA,43.5
+2010,Percent,Almaty city,,35-44,,KZALA,46.4
+2010,Percent,Almaty city,,45-54,,KZALA,31.7
+2010,Percent,Almaty city,,55-64,,KZALA,26.8
+2011,Percent,,,,,,38.5
+2011,Percent,Akmola,,,,KZAKM,43.1
+2011,Percent,Aktobe,,,,KZAKT,41.6
+2011,Percent,Almaty,,,,KZALM,24.4
+2011,Percent,Atyrau,,,,KZATY,26.7
+2011,Percent,Batys Kazakhstan,,,,KZZAP,24.7
+2011,Percent,Zhambyl,,,,KZZHA,30.1
+2011,Percent,Karagandy,,,,KZKAR,40.0
+2011,Percent,Kostanay,,,,KZKUS,43.9
+2011,Percent,Kyzylorda,,,,KZKZY,40.8
+2011,Percent,Mangistau,,,,KZMAN,32.9
+2011,Percent,Ontustik Kazakhstan,,,,KZONT,28.1
+2011,Percent,Pavlodar,,,,KZPAV,41.9
+2011,Percent,Soltustik Kazakhstan,,,,KZSEV,35.0
+2011,Percent,Shygys Kazakhstan,,,,KZVOS,37.6
+2011,Percent,Nur-Sultan city,,,,KZNS,41.4
+2011,Percent,Almaty city,,,,KZALA,40.3
+2011,Percent,,urban,,,,39.5
+2011,Percent,Akmola,urban,,,KZAKM,46.1
+2011,Percent,Aktobe,urban,,,KZAKT,40.4
+2011,Percent,Almaty,urban,,,KZALM,26.2
+2011,Percent,Atyrau,urban,,,KZATY,27.8
+2011,Percent,Batys Kazakhstan,urban,,,KZZAP,27.5
+2011,Percent,Zhambyl,urban,,,KZZHA,35.3
+2011,Percent,Karagandy,urban,,,KZKAR,40.0
+2011,Percent,Kostanay,urban,,,KZKUS,42.6
+2011,Percent,Kyzylorda,urban,,,KZKZY,40.2
+2011,Percent,Mangistau,urban,,,KZMAN,34.7
+2011,Percent,Ontustik Kazakhstan,urban,,,KZONT,31.5
+2011,Percent,Pavlodar,urban,,,KZPAV,39.0
+2011,Percent,Soltustik Kazakhstan,urban,,,KZSEV,35.1
+2011,Percent,Shygys Kazakhstan,urban,,,KZVOS,40.1
+2011,Percent,Nur-Sultan city,urban,,,KZNS,41.4
+2011,Percent,Almaty city,urban,,,KZALA,40.3
+2011,Percent,,rural,,,,34.3
+2011,Percent,Akmola,rural,,,KZAKM,30.0
+2011,Percent,Aktobe,rural,,,KZAKT,48.8
+2011,Percent,Almaty,rural,,,KZALM,23.3
+2011,Percent,Atyrau,rural,,,KZATY,23.6
+2011,Percent,Batys Kazakhstan,rural,,,KZZAP,11.0
+2011,Percent,Zhambyl,rural,,,KZZHA,25.0
+2011,Percent,Karagandy,rural,,,KZKAR,39.8
+2011,Percent,Kostanay,rural,,,KZKUS,46.7
+2011,Percent,Kyzylorda,rural,,,KZKZY,41.9
+2011,Percent,Mangistau,rural,,,KZMAN,20.5
+2011,Percent,Ontustik Kazakhstan,rural,,,KZONT,21.4
+2011,Percent,Pavlodar,rural,,,KZPAV,51.8
+2011,Percent,Soltustik Kazakhstan,rural,,,KZSEV,34.7
+2011,Percent,Shygys Kazakhstan,rural,,,KZVOS,32.9
+2011,Percent,,,16-24,,,49.8
+2011,Percent,,,25-28,,,44.1
+2011,Percent,,,29-34,,,36.3
+2011,Percent,,,35-44,,,39.3
+2011,Percent,,,45-54,,,38.2
+2011,Percent,,,55-64,,,29.4
+2011,Percent,,,65 and older,,,13.6
+2011,Percent,Akmola,,16-24,,KZAKM,53.2
+2011,Percent,Akmola,,25-28,,KZAKM,40.9
+2011,Percent,Akmola,,29-34,,KZAKM,51.6
+2011,Percent,Akmola,,35-44,,KZAKM,44.1
+2011,Percent,Akmola,,45-54,,KZAKM,42.5
+2011,Percent,Akmola,,55-64,,KZAKM,26.9
+2011,Percent,Aktobe,,16-24,,KZAKT,76.5
+2011,Percent,Aktobe,,25-28,,KZAKT,61.7
+2011,Percent,Aktobe,,29-34,,KZAKT,22.6
+2011,Percent,Aktobe,,35-44,,KZAKT,37.3
+2011,Percent,Aktobe,,45-54,,KZAKT,38.1
+2011,Percent,Aktobe,,55-64,,KZAKT,24.7
+2011,Percent,Almaty,,16-24,,KZALM,48.0
+2011,Percent,Almaty,,25-28,,KZALM,20.7
+2011,Percent,Almaty,,29-34,,KZALM,0.0
+2011,Percent,Almaty,,35-44,,KZALM,27.5
+2011,Percent,Almaty,,45-54,,KZALM,32.9
+2011,Percent,Almaty,,55-64,,KZALM,24.1
+2011,Percent,Almaty,,65 and older,,KZALM,47.1
+2011,Percent,Atyrau,,16-24,,KZATY,0.0
+2011,Percent,Atyrau,,25-28,,KZATY,71.3
+2011,Percent,Atyrau,,29-34,,KZATY,25.2
+2011,Percent,Atyrau,,35-44,,KZATY,24.4
+2011,Percent,Atyrau,,45-54,,KZATY,34.7
+2011,Percent,Atyrau,,55-64,,KZATY,6.1
+2011,Percent,Batys Kazakhstan,,16-24,,KZZAP,31.0
+2011,Percent,Batys Kazakhstan,,25-28,,KZZAP,0.0
+2011,Percent,Batys Kazakhstan,,29-34,,KZZAP,32.4
+2011,Percent,Batys Kazakhstan,,35-44,,KZZAP,22.7
+2011,Percent,Batys Kazakhstan,,45-54,,KZZAP,17.2
+2011,Percent,Batys Kazakhstan,,55-64,,KZZAP,38.1
+2011,Percent,Zhambyl,,16-24,,KZZHA,19.0
+2011,Percent,Zhambyl,,25-28,,KZZHA,61.4
+2011,Percent,Zhambyl,,29-34,,KZZHA,0.0
+2011,Percent,Zhambyl,,35-44,,KZZHA,39.6
+2011,Percent,Zhambyl,,45-54,,KZZHA,44.8
+2011,Percent,Zhambyl,,55-64,,KZZHA,15.9
+2011,Percent,Karagandy,,16-24,,KZKAR,53.0
+2011,Percent,Karagandy,,25-28,,KZKAR,40.0
+2011,Percent,Karagandy,,29-34,,KZKAR,36.5
+2011,Percent,Karagandy,,35-44,,KZKAR,37.5
+2011,Percent,Karagandy,,45-54,,KZKAR,45.3
+2011,Percent,Karagandy,,55-64,,KZKAR,33.1
+2011,Percent,Karagandy,,65 and older,,KZKAR,0.0
+2011,Percent,Kostanay,,16-24,,KZKUS,57.7
+2011,Percent,Kostanay,,25-28,,KZKUS,41.2
+2011,Percent,Kostanay,,29-34,,KZKUS,53.6
+2011,Percent,Kostanay,,35-44,,KZKUS,42.2
+2011,Percent,Kostanay,,45-54,,KZKUS,45.9
+2011,Percent,Kostanay,,55-64,,KZKUS,28.9
+2011,Percent,Kostanay,,65 and older,,KZKUS,0.0
+2011,Percent,Kyzylorda,,16-24,,KZKZY,100.0
+2011,Percent,Kyzylorda,,25-28,,KZKZY,33.2
+2011,Percent,Kyzylorda,,29-34,,KZKZY,53.6
+2011,Percent,Kyzylorda,,35-44,,KZKZY,39.8
+2011,Percent,Kyzylorda,,45-54,,KZKZY,41.9
+2011,Percent,Kyzylorda,,55-64,,KZKZY,18.9
+2011,Percent,Kyzylorda,,65 and older,,KZKZY,0.0
+2011,Percent,Mangistau,,16-24,,KZMAN,33.4
+2011,Percent,Mangistau,,25-28,,KZMAN,34.2
+2011,Percent,Mangistau,,29-34,,KZMAN,19.0
+2011,Percent,Mangistau,,35-44,,KZMAN,40.4
+2011,Percent,Mangistau,,45-54,,KZMAN,38.1
+2011,Percent,Mangistau,,55-64,,KZMAN,24.8
+2011,Percent,Mangistau,,65 and older,,KZMAN,0.0
+2011,Percent,Ontustik Kazakhstan,,16-24,,KZONT,31.6
+2011,Percent,Ontustik Kazakhstan,,25-28,,KZONT,46.6
+2011,Percent,Ontustik Kazakhstan,,29-34,,KZONT,48.4
+2011,Percent,Ontustik Kazakhstan,,35-44,,KZONT,7.5
+2011,Percent,Ontustik Kazakhstan,,45-54,,KZONT,24.4
+2011,Percent,Ontustik Kazakhstan,,55-64,,KZONT,27.4
+2011,Percent,Pavlodar,,16-24,,KZPAV,21.9
+2011,Percent,Pavlodar,,25-28,,KZPAV,52.7
+2011,Percent,Pavlodar,,29-34,,KZPAV,38.4
+2011,Percent,Pavlodar,,35-44,,KZPAV,35.4
+2011,Percent,Pavlodar,,45-54,,KZPAV,51.1
+2011,Percent,Pavlodar,,55-64,,KZPAV,32.5
+2011,Percent,Soltustik Kazakhstan,,16-24,,KZSEV,76.0
+2011,Percent,Soltustik Kazakhstan,,25-28,,KZSEV,15.2
+2011,Percent,Soltustik Kazakhstan,,29-34,,KZSEV,48.0
+2011,Percent,Soltustik Kazakhstan,,35-44,,KZSEV,39.9
+2011,Percent,Soltustik Kazakhstan,,45-54,,KZSEV,27.0
+2011,Percent,Soltustik Kazakhstan,,55-64,,KZSEV,28.1
+2011,Percent,Shygys Kazakhstan,,16-24,,KZVOS,37.6
+2011,Percent,Shygys Kazakhstan,,25-28,,KZVOS,40.4
+2011,Percent,Shygys Kazakhstan,,29-34,,KZVOS,40.1
+2011,Percent,Shygys Kazakhstan,,35-44,,KZVOS,38.6
+2011,Percent,Shygys Kazakhstan,,45-54,,KZVOS,36.2
+2011,Percent,Shygys Kazakhstan,,55-64,,KZVOS,33.9
+2011,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,0.0
+2011,Percent,Nur-Sultan city,,16-24,,KZNS,48.1
+2011,Percent,Nur-Sultan city,,25-28,,KZNS,46.7
+2011,Percent,Nur-Sultan city,,29-34,,KZNS,34.4
+2011,Percent,Nur-Sultan city,,35-44,,KZNS,45.9
+2011,Percent,Nur-Sultan city,,45-54,,KZNS,38.6
+2011,Percent,Nur-Sultan city,,55-64,,KZNS,36.1
+2011,Percent,Nur-Sultan city,,65 and older,,KZNS,42.2
+2011,Percent,Almaty city,,16-24,,KZALA,72.3
+2011,Percent,Almaty city,,25-28,,KZALA,62.5
+2011,Percent,Almaty city,,29-34,,KZALA,40.6
+2011,Percent,Almaty city,,35-44,,KZALA,42.5
+2011,Percent,Almaty city,,45-54,,KZALA,31.3
+2011,Percent,Almaty city,,55-64,,KZALA,27.1
+2012,Percent,,,,,,39.7
+2012,Percent,Akmola,,,,KZAKM,36.3
+2012,Percent,Aktobe,,,,KZAKT,36.1
+2012,Percent,Almaty,,,,KZALM,33.4
+2012,Percent,Atyrau,,,,KZATY,31.8
+2012,Percent,Batys Kazakhstan,,,,KZZAP,20.4
+2012,Percent,Zhambyl,,,,KZZHA,39.4
+2012,Percent,Karagandy,,,,KZKAR,43.1
+2012,Percent,Kostanay,,,,KZKUS,43.1
+2012,Percent,Kyzylorda,,,,KZKZY,31.0
+2012,Percent,Mangistau,,,,KZMAN,40.7
+2012,Percent,Ontustik Kazakhstan,,,,KZONT,28.7
+2012,Percent,Pavlodar,,,,KZPAV,30.9
+2012,Percent,Soltustik Kazakhstan,,,,KZSEV,40.4
+2012,Percent,Shygys Kazakhstan,,,,KZVOS,38.1
+2012,Percent,Nur-Sultan city,,,,KZNS,46.2
+2012,Percent,Almaty city,,,,KZALA,46.2
+2012,Percent,,urban,,,,41.9
+2012,Percent,Akmola,urban,,,KZAKM,44.6
+2012,Percent,Aktobe,urban,,,KZAKT,35.3
+2012,Percent,Almaty,urban,,,KZALM,36.9
+2012,Percent,Atyrau,urban,,,KZATY,39.5
+2012,Percent,Batys Kazakhstan,urban,,,KZZAP,19.1
+2012,Percent,Zhambyl,urban,,,KZZHA,38.8
+2012,Percent,Karagandy,urban,,,KZKAR,44.7
+2012,Percent,Kostanay,urban,,,KZKUS,45.6
+2012,Percent,Kyzylorda,urban,,,KZKZY,32.4
+2012,Percent,Mangistau,urban,,,KZMAN,43.9
+2012,Percent,Ontustik Kazakhstan,urban,,,KZONT,35.4
+2012,Percent,Pavlodar,urban,,,KZPAV,29.0
+2012,Percent,Soltustik Kazakhstan,urban,,,KZSEV,33.8
+2012,Percent,Shygys Kazakhstan,urban,,,KZVOS,34.4
+2012,Percent,Nur-Sultan city,urban,,,KZNS,46.2
+2012,Percent,Almaty city,urban,,,KZALA,46.2
+2012,Percent,,rural,,,,32.2
+2012,Percent,Akmola,rural,,,KZAKM,12.8
+2012,Percent,Aktobe,rural,,,KZAKT,42.5
+2012,Percent,Almaty,rural,,,KZALM,32.1
+2012,Percent,Atyrau,rural,,,KZATY,10.1
+2012,Percent,Batys Kazakhstan,rural,,,KZZAP,25.5
+2012,Percent,Zhambyl,rural,,,KZZHA,42.6
+2012,Percent,Karagandy,rural,,,KZKAR,27.0
+2012,Percent,Kostanay,rural,,,KZKUS,36.1
+2012,Percent,Kyzylorda,rural,,,KZKZY,28.7
+2012,Percent,Mangistau,rural,,,KZMAN,16.7
+2012,Percent,Ontustik Kazakhstan,rural,,,KZONT,15.8
+2012,Percent,Pavlodar,rural,,,KZPAV,39.1
+2012,Percent,Soltustik Kazakhstan,rural,,,KZSEV,45.8
+2012,Percent,Shygys Kazakhstan,rural,,,KZVOS,41.6
+2012,Percent,,,16-24,,,58.5
+2012,Percent,,,25-28,,,40.2
+2012,Percent,,,29-34,,,39.0
+2012,Percent,,,35-44,,,38.6
+2012,Percent,,,45-54,,,39.2
+2012,Percent,,,55-64,,,33.1
+2012,Percent,,,65 and older,,,25.0
+2012,Percent,Akmola,,16-24,,KZAKM,28.2
+2012,Percent,Akmola,,25-28,,KZAKM,31.2
+2012,Percent,Akmola,,29-34,,KZAKM,53.5
+2012,Percent,Akmola,,35-44,,KZAKM,39.6
+2012,Percent,Akmola,,45-54,,KZAKM,37.3
+2012,Percent,Akmola,,55-64,,KZAKM,20.1
+2012,Percent,Aktobe,,16-24,,KZAKT,100.0
+2012,Percent,Aktobe,,25-28,,KZAKT,48.7
+2012,Percent,Aktobe,,29-34,,KZAKT,31.7
+2012,Percent,Aktobe,,35-44,,KZAKT,34.3
+2012,Percent,Aktobe,,45-54,,KZAKT,37.3
+2012,Percent,Aktobe,,55-64,,KZAKT,16.7
+2012,Percent,Almaty,,16-24,,KZALM,40.0
+2012,Percent,Almaty,,25-28,,KZALM,41.0
+2012,Percent,Almaty,,29-34,,KZALM,45.1
+2012,Percent,Almaty,,35-44,,KZALM,19.2
+2012,Percent,Almaty,,45-54,,KZALM,28.7
+2012,Percent,Almaty,,55-64,,KZALM,46.7
+2012,Percent,Atyrau,,16-24,,KZATY,78.9
+2012,Percent,Atyrau,,25-28,,KZATY,35.3
+2012,Percent,Atyrau,,29-34,,KZATY,24.8
+2012,Percent,Atyrau,,35-44,,KZATY,42.2
+2012,Percent,Atyrau,,45-54,,KZATY,25.9
+2012,Percent,Atyrau,,55-64,,KZATY,13.7
+2012,Percent,Atyrau,,65 and older,,KZATY,0.0
+2012,Percent,Batys Kazakhstan,,29-34,,KZZAP,11.7
+2012,Percent,Batys Kazakhstan,,35-44,,KZZAP,15.5
+2012,Percent,Batys Kazakhstan,,45-54,,KZZAP,26.8
+2012,Percent,Batys Kazakhstan,,55-64,,KZZAP,31.6
+2012,Percent,Zhambyl,,16-24,,KZZHA,36.6
+2012,Percent,Zhambyl,,25-28,,KZZHA,54.2
+2012,Percent,Zhambyl,,29-34,,KZZHA,24.9
+2012,Percent,Zhambyl,,35-44,,KZZHA,28.7
+2012,Percent,Zhambyl,,45-54,,KZZHA,53.3
+2012,Percent,Zhambyl,,55-64,,KZZHA,21.5
+2012,Percent,Zhambyl,,65 and older,,KZZHA,100.0
+2012,Percent,Karagandy,,16-24,,KZKAR,82.0
+2012,Percent,Karagandy,,25-28,,KZKAR,33.0
+2012,Percent,Karagandy,,29-34,,KZKAR,45.5
+2012,Percent,Karagandy,,35-44,,KZKAR,47.5
+2012,Percent,Karagandy,,45-54,,KZKAR,42.1
+2012,Percent,Karagandy,,55-64,,KZKAR,35.3
+2012,Percent,Karagandy,,65 and older,,KZKAR,54.4
+2012,Percent,Kostanay,,16-24,,KZKUS,47.3
+2012,Percent,Kostanay,,25-28,,KZKUS,54.0
+2012,Percent,Kostanay,,29-34,,KZKUS,55.9
+2012,Percent,Kostanay,,35-44,,KZKUS,43.3
+2012,Percent,Kostanay,,45-54,,KZKUS,39.6
+2012,Percent,Kostanay,,55-64,,KZKUS,15.1
+2012,Percent,Kyzylorda,,16-24,,KZKZY,0.0
+2012,Percent,Kyzylorda,,25-28,,KZKZY,21.3
+2012,Percent,Kyzylorda,,29-34,,KZKZY,46.9
+2012,Percent,Kyzylorda,,35-44,,KZKZY,33.3
+2012,Percent,Kyzylorda,,45-54,,KZKZY,28.2
+2012,Percent,Kyzylorda,,55-64,,KZKZY,37.0
+2012,Percent,Kyzylorda,,65 and older,,KZKZY,0.0
+2012,Percent,Mangistau,,16-24,,KZMAN,100.0
+2012,Percent,Mangistau,,25-28,,KZMAN,52.6
+2012,Percent,Mangistau,,29-34,,KZMAN,36.4
+2012,Percent,Mangistau,,35-44,,KZMAN,38.0
+2012,Percent,Mangistau,,45-54,,KZMAN,56.6
+2012,Percent,Mangistau,,55-64,,KZMAN,33.0
+2012,Percent,Mangistau,,65 and older,,KZMAN,0.0
+2012,Percent,Ontustik Kazakhstan,,16-24,,KZONT,68.7
+2012,Percent,Ontustik Kazakhstan,,25-28,,KZONT,43.3
+2012,Percent,Ontustik Kazakhstan,,29-34,,KZONT,56.3
+2012,Percent,Ontustik Kazakhstan,,35-44,,KZONT,17.9
+2012,Percent,Ontustik Kazakhstan,,45-54,,KZONT,23.4
+2012,Percent,Ontustik Kazakhstan,,55-64,,KZONT,31.1
+2012,Percent,Pavlodar,,16-24,,KZPAV,27.6
+2012,Percent,Pavlodar,,25-28,,KZPAV,29.1
+2012,Percent,Pavlodar,,29-34,,KZPAV,29.6
+2012,Percent,Pavlodar,,35-44,,KZPAV,23.5
+2012,Percent,Pavlodar,,45-54,,KZPAV,38.6
+2012,Percent,Pavlodar,,55-64,,KZPAV,35.9
+2012,Percent,Soltustik Kazakhstan,,16-24,,KZSEV,76.4
+2012,Percent,Soltustik Kazakhstan,,25-28,,KZSEV,18.3
+2012,Percent,Soltustik Kazakhstan,,29-34,,KZSEV,37.3
+2012,Percent,Soltustik Kazakhstan,,35-44,,KZSEV,33.2
+2012,Percent,Soltustik Kazakhstan,,45-54,,KZSEV,46.5
+2012,Percent,Soltustik Kazakhstan,,55-64,,KZSEV,62.8
+2012,Percent,Shygys Kazakhstan,,16-24,,KZVOS,35.9
+2012,Percent,Shygys Kazakhstan,,25-28,,KZVOS,38.0
+2012,Percent,Shygys Kazakhstan,,29-34,,KZVOS,17.6
+2012,Percent,Shygys Kazakhstan,,35-44,,KZVOS,31.9
+2012,Percent,Shygys Kazakhstan,,45-54,,KZVOS,50.4
+2012,Percent,Shygys Kazakhstan,,55-64,,KZVOS,43.0
+2012,Percent,Nur-Sultan city,,16-24,,KZNS,68.5
+2012,Percent,Nur-Sultan city,,25-28,,KZNS,38.7
+2012,Percent,Nur-Sultan city,,29-34,,KZNS,40.0
+2012,Percent,Nur-Sultan city,,35-44,,KZNS,48.8
+2012,Percent,Nur-Sultan city,,45-54,,KZNS,46.0
+2012,Percent,Nur-Sultan city,,55-64,,KZNS,43.8
+2012,Percent,Nur-Sultan city,,65 and older,,KZNS,0.0
+2012,Percent,Almaty city,,16-24,,KZALA,75.3
+2012,Percent,Almaty city,,25-28,,KZALA,52.9
+2012,Percent,Almaty city,,29-34,,KZALA,36.9
+2012,Percent,Almaty city,,35-44,,KZALA,51.0
+2012,Percent,Almaty city,,45-54,,KZALA,39.9
+2012,Percent,Almaty city,,55-64,,KZALA,18.4
+2013,Percent,,,,,,38.3
+2013,Percent,Akmola,,,,KZAKM,44.8
+2013,Percent,Aktobe,,,,KZAKT,27.2
+2013,Percent,Almaty,,,,KZALM,45.6
+2013,Percent,Atyrau,,,,KZATY,28.9
+2013,Percent,Batys Kazakhstan,,,,KZZAP,23.5
+2013,Percent,Zhambyl,,,,KZZHA,27.0
+2013,Percent,Karagandy,,,,KZKAR,38.6
+2013,Percent,Kostanay,,,,KZKUS,34.6
+2013,Percent,Kyzylorda,,,,KZKZY,30.9
+2013,Percent,Mangistau,,,,KZMAN,30.0
+2013,Percent,Ontustik Kazakhstan,,,,KZONT,32.5
+2013,Percent,Pavlodar,,,,KZPAV,36.3
+2013,Percent,Soltustik Kazakhstan,,,,KZSEV,27.5
+2013,Percent,Shygys Kazakhstan,,,,KZVOS,35.5
+2013,Percent,Nur-Sultan city,,,,KZNS,48.0
+2013,Percent,Almaty city,,,,KZALA,39.5
+2013,Percent,,urban,,,,38.9
+2013,Percent,Akmola,urban,,,KZAKM,50.5
+2013,Percent,Aktobe,urban,,,KZAKT,23.8
+2013,Percent,Almaty,urban,,,KZALM,46.3
+2013,Percent,Atyrau,urban,,,KZATY,31.9
+2013,Percent,Batys Kazakhstan,urban,,,KZZAP,26.0
+2013,Percent,Zhambyl,urban,,,KZZHA,29.9
+2013,Percent,Karagandy,urban,,,KZKAR,39.4
+2013,Percent,Kostanay,urban,,,KZKUS,39.1
+2013,Percent,Kyzylorda,urban,,,KZKZY,31.7
+2013,Percent,Mangistau,urban,,,KZMAN,28.0
+2013,Percent,Ontustik Kazakhstan,urban,,,KZONT,29.4
+2013,Percent,Pavlodar,urban,,,KZPAV,33.9
+2013,Percent,Soltustik Kazakhstan,urban,,,KZSEV,29.4
+2013,Percent,Shygys Kazakhstan,urban,,,KZVOS,40.1
+2013,Percent,Nur-Sultan city,urban,,,KZNS,48.0
+2013,Percent,Almaty city,urban,,,KZALA,39.5
+2013,Percent,,rural,,,,37.0
+2013,Percent,Akmola,rural,,,KZAKM,31.2
+2013,Percent,Aktobe,rural,,,KZAKT,54.4
+2013,Percent,Almaty,rural,,,KZALM,45.3
+2013,Percent,Atyrau,rural,,,KZATY,18.0
+2013,Percent,Batys Kazakhstan,rural,,,KZZAP,16.9
+2013,Percent,Zhambyl,rural,,,KZZHA,10.1
+2013,Percent,Karagandy,rural,,,KZKAR,30.7
+2013,Percent,Kostanay,rural,,,KZKUS,20.5
+2013,Percent,Kyzylorda,rural,,,KZKZY,29.4
+2013,Percent,Mangistau,rural,,,KZMAN,35.8
+2013,Percent,Ontustik Kazakhstan,rural,,,KZONT,34.8
+2013,Percent,Pavlodar,rural,,,KZPAV,44.0
+2013,Percent,Soltustik Kazakhstan,rural,,,KZSEV,23.9
+2013,Percent,Shygys Kazakhstan,rural,,,KZVOS,29.1
+2013,Percent,,,16-24,,,42.0
+2013,Percent,,,25-28,,,41.6
+2013,Percent,,,29-34,,,38.4
+2013,Percent,,,35-44,,,39.3
+2013,Percent,,,45-54,,,38.4
+2013,Percent,,,55-64,,,30.0
+2013,Percent,,,65 and older,,,17.5
+2013,Percent,Akmola,,16-24,,KZAKM,69.1
+2013,Percent,Akmola,,25-28,,KZAKM,61.2
+2013,Percent,Akmola,,29-34,,KZAKM,64.4
+2013,Percent,Akmola,,35-44,,KZAKM,32.9
+2013,Percent,Akmola,,45-54,,KZAKM,41.0
+2013,Percent,Akmola,,55-64,,KZAKM,40.7
+2013,Percent,Aktobe,,16-24,,KZAKT,6.7
+2013,Percent,Aktobe,,25-28,,KZAKT,33.6
+2013,Percent,Aktobe,,29-34,,KZAKT,15.6
+2013,Percent,Aktobe,,35-44,,KZAKT,41.9
+2013,Percent,Aktobe,,45-54,,KZAKT,24.5
+2013,Percent,Aktobe,,55-64,,KZAKT,29.1
+2013,Percent,Almaty,,16-24,,KZALM,34.1
+2013,Percent,Almaty,,25-28,,KZALM,70.6
+2013,Percent,Almaty,,29-34,,KZALM,58.9
+2013,Percent,Almaty,,35-44,,KZALM,43.7
+2013,Percent,Almaty,,45-54,,KZALM,44.4
+2013,Percent,Almaty,,55-64,,KZALM,39.5
+2013,Percent,Almaty,,65 and older,,KZALM,33.4
+2013,Percent,Atyrau,,16-24,,KZATY,47.4
+2013,Percent,Atyrau,,25-28,,KZATY,20.7
+2013,Percent,Atyrau,,29-34,,KZATY,61.7
+2013,Percent,Atyrau,,35-44,,KZATY,24.4
+2013,Percent,Atyrau,,45-54,,KZATY,28.7
+2013,Percent,Atyrau,,55-64,,KZATY,17.7
+2013,Percent,Atyrau,,65 and older,,KZATY,0.0
+2013,Percent,Batys Kazakhstan,,16-24,,KZZAP,0.0
+2013,Percent,Batys Kazakhstan,,25-28,,KZZAP,80.4
+2013,Percent,Batys Kazakhstan,,29-34,,KZZAP,0.0
+2013,Percent,Batys Kazakhstan,,35-44,,KZZAP,30.4
+2013,Percent,Batys Kazakhstan,,45-54,,KZZAP,26.8
+2013,Percent,Batys Kazakhstan,,55-64,,KZZAP,17.7
+2013,Percent,Zhambyl,,16-24,,KZZHA,0.0
+2013,Percent,Zhambyl,,25-28,,KZZHA,28.1
+2013,Percent,Zhambyl,,29-34,,KZZHA,21.0
+2013,Percent,Zhambyl,,35-44,,KZZHA,31.7
+2013,Percent,Zhambyl,,45-54,,KZZHA,29.6
+2013,Percent,Zhambyl,,55-64,,KZZHA,24.6
+2013,Percent,Karagandy,,16-24,,KZKAR,53.1
+2013,Percent,Karagandy,,25-28,,KZKAR,31.1
+2013,Percent,Karagandy,,29-34,,KZKAR,30.1
+2013,Percent,Karagandy,,35-44,,KZKAR,44.5
+2013,Percent,Karagandy,,45-54,,KZKAR,45.0
+2013,Percent,Karagandy,,55-64,,KZKAR,22.8
+2013,Percent,Karagandy,,65 and older,,KZKAR,26.8
+2013,Percent,Kostanay,,16-24,,KZKUS,56.2
+2013,Percent,Kostanay,,25-28,,KZKUS,44.3
+2013,Percent,Kostanay,,29-34,,KZKUS,35.4
+2013,Percent,Kostanay,,35-44,,KZKUS,27.3
+2013,Percent,Kostanay,,45-54,,KZKUS,37.0
+2013,Percent,Kostanay,,55-64,,KZKUS,17.6
+2013,Percent,Kyzylorda,,16-24,,KZKZY,0.0
+2013,Percent,Kyzylorda,,25-28,,KZKZY,0.0
+2013,Percent,Kyzylorda,,29-34,,KZKZY,35.1
+2013,Percent,Kyzylorda,,35-44,,KZKZY,34.6
+2013,Percent,Kyzylorda,,45-54,,KZKZY,26.8
+2013,Percent,Kyzylorda,,55-64,,KZKZY,44.9
+2013,Percent,Mangistau,,16-24,,KZMAN,0.0
+2013,Percent,Mangistau,,25-28,,KZMAN,10.3
+2013,Percent,Mangistau,,29-34,,KZMAN,24.7
+2013,Percent,Mangistau,,35-44,,KZMAN,43.5
+2013,Percent,Mangistau,,45-54,,KZMAN,28.1
+2013,Percent,Mangistau,,55-64,,KZMAN,12.1
+2013,Percent,Ontustik Kazakhstan,,16-24,,KZONT,32.6
+2013,Percent,Ontustik Kazakhstan,,25-28,,KZONT,3.0
+2013,Percent,Ontustik Kazakhstan,,29-34,,KZONT,47.2
+2013,Percent,Ontustik Kazakhstan,,35-44,,KZONT,34.9
+2013,Percent,Ontustik Kazakhstan,,45-54,,KZONT,32.3
+2013,Percent,Ontustik Kazakhstan,,55-64,,KZONT,26.7
+2013,Percent,Pavlodar,,16-24,,KZPAV,45.9
+2013,Percent,Pavlodar,,25-28,,KZPAV,17.2
+2013,Percent,Pavlodar,,29-34,,KZPAV,41.9
+2013,Percent,Pavlodar,,35-44,,KZPAV,34.4
+2013,Percent,Pavlodar,,45-54,,KZPAV,47.6
+2013,Percent,Pavlodar,,55-64,,KZPAV,31.2
+2013,Percent,Soltustik Kazakhstan,,16-24,,KZSEV,0.0
+2013,Percent,Soltustik Kazakhstan,,25-28,,KZSEV,51.7
+2013,Percent,Soltustik Kazakhstan,,29-34,,KZSEV,13.2
+2013,Percent,Soltustik Kazakhstan,,35-44,,KZSEV,22.5
+2013,Percent,Soltustik Kazakhstan,,45-54,,KZSEV,34.3
+2013,Percent,Soltustik Kazakhstan,,55-64,,KZSEV,33.4
+2013,Percent,Shygys Kazakhstan,,16-24,,KZVOS,46.1
+2013,Percent,Shygys Kazakhstan,,25-28,,KZVOS,23.5
+2013,Percent,Shygys Kazakhstan,,29-34,,KZVOS,25.9
+2013,Percent,Shygys Kazakhstan,,35-44,,KZVOS,43.0
+2013,Percent,Shygys Kazakhstan,,45-54,,KZVOS,38.3
+2013,Percent,Shygys Kazakhstan,,55-64,,KZVOS,37.8
+2013,Percent,Nur-Sultan city,,16-24,,KZNS,74.3
+2013,Percent,Nur-Sultan city,,25-28,,KZNS,42.8
+2013,Percent,Nur-Sultan city,,29-34,,KZNS,47.1
+2013,Percent,Nur-Sultan city,,35-44,,KZNS,46.3
+2013,Percent,Nur-Sultan city,,45-54,,KZNS,46.9
+2013,Percent,Nur-Sultan city,,55-64,,KZNS,27.7
+2013,Percent,Nur-Sultan city,,65 and older,,KZNS,0.0
+2013,Percent,Almaty city,,16-24,,KZALA,62.3
+2013,Percent,Almaty city,,25-28,,KZALA,53.6
+2013,Percent,Almaty city,,29-34,,KZALA,32.5
+2013,Percent,Almaty city,,35-44,,KZALA,46.4
+2013,Percent,Almaty city,,45-54,,KZALA,32.7
+2013,Percent,Almaty city,,55-64,,KZALA,22.1
+2014,Percent,,,,,,34.8
+2014,Percent,Akmola,,,,KZAKM,34.8
+2014,Percent,Aktobe,,,,KZAKT,37.6
+2014,Percent,Almaty,,,,KZALM,26.5
+2014,Percent,Atyrau,,,,KZATY,25.4
+2014,Percent,Batys Kazakhstan,,,,KZZAP,30.6
+2014,Percent,Zhambyl,,,,KZZHA,22.8
+2014,Percent,Karagandy,,,,KZKAR,35.7
+2014,Percent,Kostanay,,,,KZKUS,38.6
+2014,Percent,Kyzylorda,,,,KZKZY,34.0
+2014,Percent,Mangistau,,,,KZMAN,44.6
+2014,Percent,Ontustik Kazakhstan,,,,KZONT,32.9
+2014,Percent,Pavlodar,,,,KZPAV,32.0
+2014,Percent,Soltustik Kazakhstan,,,,KZSEV,31.3
+2014,Percent,Shygys Kazakhstan,,,,KZVOS,35.0
+2014,Percent,Nur-Sultan city,,,,KZNS,35.9
+2014,Percent,Almaty city,,,,KZALA,38.4
+2014,Percent,,urban,,,,37.1
+2014,Percent,Akmola,urban,,,KZAKM,37.7
+2014,Percent,Aktobe,urban,,,KZAKT,39.6
+2014,Percent,Almaty,urban,,,KZALM,30.5
+2014,Percent,Atyrau,urban,,,KZATY,23.7
+2014,Percent,Batys Kazakhstan,urban,,,KZZAP,32.0
+2014,Percent,Zhambyl,urban,,,KZZHA,27.5
+2014,Percent,Karagandy,urban,,,KZKAR,37.0
+2014,Percent,Kostanay,urban,,,KZKUS,41.4
+2014,Percent,Kyzylorda,urban,,,KZKZY,38.1
+2014,Percent,Mangistau,urban,,,KZMAN,46.4
+2014,Percent,Ontustik Kazakhstan,urban,,,KZONT,35.5
+2014,Percent,Pavlodar,urban,,,KZPAV,31.5
+2014,Percent,Soltustik Kazakhstan,urban,,,KZSEV,34.0
+2014,Percent,Shygys Kazakhstan,urban,,,KZVOS,37.8
+2014,Percent,Nur-Sultan city,urban,,,KZNS,37.6
+2014,Percent,Almaty city,urban,,,KZALA,39.3
+2014,Percent,,rural,,,,30.2
+2014,Percent,Akmola,rural,,,KZAKM,29.6
+2014,Percent,Aktobe,rural,,,KZAKT,30.6
+2014,Percent,Almaty,rural,,,KZALM,25.3
+2014,Percent,Atyrau,rural,,,KZATY,32.7
+2014,Percent,Batys Kazakhstan,rural,,,KZZAP,28.8
+2014,Percent,Zhambyl,rural,,,KZZHA,16.7
+2014,Percent,Karagandy,rural,,,KZKAR,32.0
+2014,Percent,Kostanay,rural,,,KZKUS,34.4
+2014,Percent,Kyzylorda,rural,,,KZKZY,28.8
+2014,Percent,Mangistau,rural,,,KZMAN,45.5
+2014,Percent,Ontustik Kazakhstan,rural,,,KZONT,30.4
+2014,Percent,Pavlodar,rural,,,KZPAV,38.6
+2014,Percent,Soltustik Kazakhstan,rural,,,KZSEV,28.0
+2014,Percent,Shygys Kazakhstan,rural,,,KZVOS,29.2
+2014,Percent,,,16-24,,,29.6
+2014,Percent,,,25-28,,,34.8
+2014,Percent,,,29-34,,,33.2
+2014,Percent,,,35-44,,,36.5
+2014,Percent,,,45-54,,,38.3
+2014,Percent,,,55-64,,,30.2
+2014,Percent,,,65 and older,,,16.0
+2014,Percent,Akmola,,16-24,,KZAKM,25.6
+2014,Percent,Akmola,,25-28,,KZAKM,26.6
+2014,Percent,Akmola,,29-34,,KZAKM,32.1
+2014,Percent,Akmola,,35-44,,KZAKM,36.4
+2014,Percent,Akmola,,45-54,,KZAKM,36.8
+2014,Percent,Akmola,,55-64,,KZAKM,37.8
+2014,Percent,Aktobe,,16-24,,KZAKT,13.5
+2014,Percent,Aktobe,,25-28,,KZAKT,43.8
+2014,Percent,Aktobe,,29-34,,KZAKT,43.3
+2014,Percent,Aktobe,,35-44,,KZAKT,41.8
+2014,Percent,Aktobe,,45-54,,KZAKT,36.5
+2014,Percent,Aktobe,,55-64,,KZAKT,16.7
+2014,Percent,Aktobe,,65 and older,,KZAKT,0.0
+2014,Percent,Almaty,,16-24,,KZALM,17.3
+2014,Percent,Almaty,,25-28,,KZALM,34.2
+2014,Percent,Almaty,,29-34,,KZALM,20.2
+2014,Percent,Almaty,,35-44,,KZALM,27.6
+2014,Percent,Almaty,,45-54,,KZALM,31.1
+2014,Percent,Almaty,,55-64,,KZALM,26.1
+2014,Percent,Almaty,,65 and older,,KZALM,25.6
+2014,Percent,Atyrau,,16-24,,KZATY,39.1
+2014,Percent,Atyrau,,25-28,,KZATY,12.7
+2014,Percent,Atyrau,,29-34,,KZATY,18.4
+2014,Percent,Atyrau,,35-44,,KZATY,36.2
+2014,Percent,Atyrau,,45-54,,KZATY,28.7
+2014,Percent,Atyrau,,55-64,,KZATY,13.3
+2014,Percent,Atyrau,,65 and older,,KZATY,0.0
+2014,Percent,Batys Kazakhstan,,16-24,,KZZAP,31.3
+2014,Percent,Batys Kazakhstan,,25-28,,KZZAP,27.1
+2014,Percent,Batys Kazakhstan,,29-34,,KZZAP,43.2
+2014,Percent,Batys Kazakhstan,,35-44,,KZZAP,32.6
+2014,Percent,Batys Kazakhstan,,45-54,,KZZAP,27.6
+2014,Percent,Batys Kazakhstan,,55-64,,KZZAP,26.9
+2014,Percent,Batys Kazakhstan,,65 and older,,KZZAP,0.0
+2014,Percent,Zhambyl,,16-24,,KZZHA,4.2
+2014,Percent,Zhambyl,,25-28,,KZZHA,25.0
+2014,Percent,Zhambyl,,29-34,,KZZHA,11.3
+2014,Percent,Zhambyl,,35-44,,KZZHA,22.8
+2014,Percent,Zhambyl,,45-54,,KZZHA,42.2
+2014,Percent,Zhambyl,,55-64,,KZZHA,28.3
+2014,Percent,Zhambyl,,65 and older,,KZZHA,0.0
+2014,Percent,Karagandy,,16-24,,KZKAR,31.1
+2014,Percent,Karagandy,,25-28,,KZKAR,20.2
+2014,Percent,Karagandy,,29-34,,KZKAR,33.4
+2014,Percent,Karagandy,,35-44,,KZKAR,35.2
+2014,Percent,Karagandy,,45-54,,KZKAR,43.4
+2014,Percent,Karagandy,,55-64,,KZKAR,42.9
+2014,Percent,Karagandy,,65 and older,,KZKAR,8.1
+2014,Percent,Kostanay,,16-24,,KZKUS,44.5
+2014,Percent,Kostanay,,25-28,,KZKUS,35.6
+2014,Percent,Kostanay,,29-34,,KZKUS,34.7
+2014,Percent,Kostanay,,35-44,,KZKUS,40.3
+2014,Percent,Kostanay,,45-54,,KZKUS,43.2
+2014,Percent,Kostanay,,55-64,,KZKUS,27.2
+2014,Percent,Kostanay,,65 and older,,KZKUS,32.5
+2014,Percent,Kyzylorda,,16-24,,KZKZY,27.7
+2014,Percent,Kyzylorda,,25-28,,KZKZY,65.2
+2014,Percent,Kyzylorda,,29-34,,KZKZY,28.9
+2014,Percent,Kyzylorda,,35-44,,KZKZY,47.7
+2014,Percent,Kyzylorda,,45-54,,KZKZY,29.2
+2014,Percent,Kyzylorda,,55-64,,KZKZY,16.2
+2014,Percent,Mangistau,,16-24,,KZMAN,41.1
+2014,Percent,Mangistau,,25-28,,KZMAN,47.7
+2014,Percent,Mangistau,,29-34,,KZMAN,38.5
+2014,Percent,Mangistau,,35-44,,KZMAN,50.2
+2014,Percent,Mangistau,,45-54,,KZMAN,48.2
+2014,Percent,Mangistau,,55-64,,KZMAN,31.6
+2014,Percent,Mangistau,,65 and older,,KZMAN,6.8
+2014,Percent,Ontustik Kazakhstan,,16-24,,KZONT,22.0
+2014,Percent,Ontustik Kazakhstan,,25-28,,KZONT,31.6
+2014,Percent,Ontustik Kazakhstan,,29-34,,KZONT,36.2
+2014,Percent,Ontustik Kazakhstan,,35-44,,KZONT,36.6
+2014,Percent,Ontustik Kazakhstan,,45-54,,KZONT,31.5
+2014,Percent,Ontustik Kazakhstan,,55-64,,KZONT,25.2
+2014,Percent,Pavlodar,,16-24,,KZPAV,22.1
+2014,Percent,Pavlodar,,25-28,,KZPAV,33.4
+2014,Percent,Pavlodar,,29-34,,KZPAV,27.9
+2014,Percent,Pavlodar,,35-44,,KZPAV,31.9
+2014,Percent,Pavlodar,,45-54,,KZPAV,37.0
+2014,Percent,Pavlodar,,55-64,,KZPAV,24.9
+2014,Percent,Pavlodar,,65 and older,,KZPAV,84.8
+2014,Percent,Soltustik Kazakhstan,,16-24,,KZSEV,2.1
+2014,Percent,Soltustik Kazakhstan,,25-28,,KZSEV,23.0
+2014,Percent,Soltustik Kazakhstan,,29-34,,KZSEV,28.0
+2014,Percent,Soltustik Kazakhstan,,35-44,,KZSEV,38.0
+2014,Percent,Soltustik Kazakhstan,,45-54,,KZSEV,32.2
+2014,Percent,Soltustik Kazakhstan,,55-64,,KZSEV,32.2
+2014,Percent,Soltustik Kazakhstan,,65 and older,,KZSEV,21.9
+2014,Percent,Shygys Kazakhstan,,16-24,,KZVOS,25.8
+2014,Percent,Shygys Kazakhstan,,25-28,,KZVOS,27.2
+2014,Percent,Shygys Kazakhstan,,29-34,,KZVOS,35.2
+2014,Percent,Shygys Kazakhstan,,35-44,,KZVOS,30.2
+2014,Percent,Shygys Kazakhstan,,45-54,,KZVOS,45.2
+2014,Percent,Shygys Kazakhstan,,55-64,,KZVOS,29.0
+2014,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,10.6
+2014,Percent,Nur-Sultan city,,16-24,,KZNS,20.8
+2014,Percent,Nur-Sultan city,,25-28,,KZNS,47.7
+2014,Percent,Nur-Sultan city,,29-34,,KZNS,43.1
+2014,Percent,Nur-Sultan city,,35-44,,KZNS,38.5
+2014,Percent,Nur-Sultan city,,45-54,,KZNS,28.3
+2014,Percent,Nur-Sultan city,,55-64,,KZNS,28.0
+2014,Percent,Almaty city,,16-24,,KZALA,37.0
+2014,Percent,Almaty city,,25-28,,KZALA,43.4
+2014,Percent,Almaty city,,29-34,,KZALA,32.8
+2014,Percent,Almaty city,,35-44,,KZALA,39.1
+2014,Percent,Almaty city,,45-54,,KZALA,42.3
+2014,Percent,Almaty city,,55-64,,KZALA,35.1
+2014,Percent,Almaty city,,65 and older,,KZALA,0.0
+2015,Percent,,,,,,37.0
+2015,Percent,Akmola,,,,KZAKM,30.0
+2015,Percent,Aktobe,,,,KZAKT,34.3
+2015,Percent,Almaty,,,,KZALM,31.3
+2015,Percent,Atyrau,,,,KZATY,33.8
+2015,Percent,Batys Kazakhstan,,,,KZZAP,35.9
+2015,Percent,Zhambyl,,,,KZZHA,20.5
+2015,Percent,Karagandy,,,,KZKAR,38.9
+2015,Percent,Kostanay,,,,KZKUS,42.9
+2015,Percent,Kyzylorda,,,,KZKZY,32.6
+2015,Percent,Mangistau,,,,KZMAN,52.0
+2015,Percent,Ontustik Kazakhstan,,,,KZONT,28.7
+2015,Percent,Pavlodar,,,,KZPAV,39.1
+2015,Percent,Soltustik Kazakhstan,,,,KZSEV,39.6
+2015,Percent,Shygys Kazakhstan,,,,KZVOS,33.0
+2015,Percent,Nur-Sultan city,,,,KZNS,41.9
+2015,Percent,Almaty city,,,,KZALA,35.3
+2015,Percent,,urban,,,,38.4
+2015,Percent,Akmola,urban,,,KZAKM,29.8
+2015,Percent,Aktobe,urban,,,KZAKT,33.1
+2015,Percent,Almaty,urban,,,KZALM,34.3
+2015,Percent,Atyrau,urban,,,KZATY,33.6
+2015,Percent,Batys Kazakhstan,urban,,,KZZAP,38.4
+2015,Percent,Zhambyl,urban,,,KZZHA,20.3
+2015,Percent,Karagandy,urban,,,KZKAR,39.9
+2015,Percent,Kostanay,urban,,,KZKUS,44.7
+2015,Percent,Kyzylorda,urban,,,KZKZY,37.6
+2015,Percent,Mangistau,urban,,,KZMAN,51.6
+2015,Percent,Ontustik Kazakhstan,urban,,,KZONT,32.8
+2015,Percent,Pavlodar,urban,,,KZPAV,40.7
+2015,Percent,Soltustik Kazakhstan,urban,,,KZSEV,42.1
+2015,Percent,Shygys Kazakhstan,urban,,,KZVOS,34.6
+2015,Percent,Nur-Sultan city,urban,,,KZNS,41.9
+2015,Percent,Almaty city,urban,,,KZALA,35.3
+2015,Percent,,rural,,,,32.1
+2015,Percent,Akmola,rural,,,KZAKM,30.3
+2015,Percent,Aktobe,rural,,,KZAKT,38.1
+2015,Percent,Almaty,rural,,,KZALM,29.3
+2015,Percent,Atyrau,rural,,,KZATY,34.6
+2015,Percent,Batys Kazakhstan,rural,,,KZZAP,30.7
+2015,Percent,Zhambyl,rural,,,KZZHA,21.1
+2015,Percent,Karagandy,rural,,,KZKAR,30.9
+2015,Percent,Kostanay,rural,,,KZKUS,38.4
+2015,Percent,Kyzylorda,rural,,,KZKZY,26.3
+2015,Percent,Mangistau,rural,,,KZMAN,53.0
+2015,Percent,Ontustik Kazakhstan,rural,,,KZONT,23.7
+2015,Percent,Pavlodar,rural,,,KZPAV,31.6
+2015,Percent,Soltustik Kazakhstan,rural,,,KZSEV,32.9
+2015,Percent,Shygys Kazakhstan,rural,,,KZVOS,28.5
+2015,Percent,,,16-24,,,38.3
+2015,Percent,,,25-28,,,36.7
+2015,Percent,,,29-34,,,37.1
+2015,Percent,,,35-44,,,35.9
+2015,Percent,,,45-54,,,39.4
+2015,Percent,,,55-64,,,34.3
+2015,Percent,,,65 and older,,,28.4
+2015,Percent,Akmola,,16-24,,KZAKM,45.5
+2015,Percent,Akmola,,25-28,,KZAKM,15.1
+2015,Percent,Akmola,,29-34,,KZAKM,30.7
+2015,Percent,Akmola,,35-44,,KZAKM,29.0
+2015,Percent,Akmola,,45-54,,KZAKM,32.1
+2015,Percent,Akmola,,55-64,,KZAKM,30.3
+2015,Percent,Aktobe,,16-24,,KZAKT,33.0
+2015,Percent,Aktobe,,25-28,,KZAKT,42.2
+2015,Percent,Aktobe,,29-34,,KZAKT,27.3
+2015,Percent,Aktobe,,35-44,,KZAKT,24.5
+2015,Percent,Aktobe,,45-54,,KZAKT,52.7
+2015,Percent,Aktobe,,55-64,,KZAKT,29.9
+2015,Percent,Aktobe,,65 and older,,KZAKT,0.0
+2015,Percent,Almaty,,16-24,,KZALM,44.1
+2015,Percent,Almaty,,25-28,,KZALM,31.1
+2015,Percent,Almaty,,29-34,,KZALM,26.9
+2015,Percent,Almaty,,35-44,,KZALM,28.1
+2015,Percent,Almaty,,45-54,,KZALM,31.0
+2015,Percent,Almaty,,55-64,,KZALM,33.9
+2015,Percent,Almaty,,65 and older,,KZALM,9.8
+2015,Percent,Atyrau,,16-24,,KZATY,17.1
+2015,Percent,Atyrau,,25-28,,KZATY,0.0
+2015,Percent,Atyrau,,29-34,,KZATY,39.3
+2015,Percent,Atyrau,,35-44,,KZATY,50.5
+2015,Percent,Atyrau,,45-54,,KZATY,29.7
+2015,Percent,Atyrau,,55-64,,KZATY,18.5
+2015,Percent,Atyrau,,65 and older,,KZATY,0.0
+2015,Percent,Batys Kazakhstan,,16-24,,KZZAP,48.1
+2015,Percent,Batys Kazakhstan,,25-28,,KZZAP,43.0
+2015,Percent,Batys Kazakhstan,,29-34,,KZZAP,31.9
+2015,Percent,Batys Kazakhstan,,35-44,,KZZAP,24.9
+2015,Percent,Batys Kazakhstan,,45-54,,KZZAP,41.8
+2015,Percent,Batys Kazakhstan,,55-64,,KZZAP,36.7
+2015,Percent,Zhambyl,,16-24,,KZZHA,4.1
+2015,Percent,Zhambyl,,25-28,,KZZHA,32.7
+2015,Percent,Zhambyl,,29-34,,KZZHA,13.6
+2015,Percent,Zhambyl,,35-44,,KZZHA,18.4
+2015,Percent,Zhambyl,,45-54,,KZZHA,37.4
+2015,Percent,Zhambyl,,55-64,,KZZHA,10.4
+2015,Percent,Karagandy,,16-24,,KZKAR,49.8
+2015,Percent,Karagandy,,25-28,,KZKAR,34.3
+2015,Percent,Karagandy,,29-34,,KZKAR,36.7
+2015,Percent,Karagandy,,35-44,,KZKAR,34.4
+2015,Percent,Karagandy,,45-54,,KZKAR,46.8
+2015,Percent,Karagandy,,55-64,,KZKAR,38.1
+2015,Percent,Karagandy,,65 and older,,KZKAR,27.8
+2015,Percent,Kostanay,,16-24,,KZKUS,45.3
+2015,Percent,Kostanay,,25-28,,KZKUS,40.2
+2015,Percent,Kostanay,,29-34,,KZKUS,44.0
+2015,Percent,Kostanay,,35-44,,KZKUS,42.9
+2015,Percent,Kostanay,,45-54,,KZKUS,45.0
+2015,Percent,Kostanay,,55-64,,KZKUS,36.0
+2015,Percent,Kostanay,,65 and older,,KZKUS,17.7
+2015,Percent,Kyzylorda,,16-24,,KZKZY,0.0
+2015,Percent,Kyzylorda,,25-28,,KZKZY,33.8
+2015,Percent,Kyzylorda,,29-34,,KZKZY,33.6
+2015,Percent,Kyzylorda,,35-44,,KZKZY,44.2
+2015,Percent,Kyzylorda,,45-54,,KZKZY,30.3
+2015,Percent,Kyzylorda,,55-64,,KZKZY,13.0
+2015,Percent,Mangistau,,16-24,,KZMAN,36.3
+2015,Percent,Mangistau,,25-28,,KZMAN,63.3
+2015,Percent,Mangistau,,29-34,,KZMAN,47.5
+2015,Percent,Mangistau,,35-44,,KZMAN,62.3
+2015,Percent,Mangistau,,45-54,,KZMAN,46.5
+2015,Percent,Mangistau,,55-64,,KZMAN,41.6
+2015,Percent,Mangistau,,65 and older,,KZMAN,54.5
+2015,Percent,Ontustik Kazakhstan,,16-24,,KZONT,5.3
+2015,Percent,Ontustik Kazakhstan,,25-28,,KZONT,12.9
+2015,Percent,Ontustik Kazakhstan,,29-34,,KZONT,33.9
+2015,Percent,Ontustik Kazakhstan,,35-44,,KZONT,39.7
+2015,Percent,Ontustik Kazakhstan,,45-54,,KZONT,21.4
+2015,Percent,Ontustik Kazakhstan,,55-64,,KZONT,24.3
+2015,Percent,Ontustik Kazakhstan,,65 and older,,KZONT,0.0
+2015,Percent,Pavlodar,,16-24,,KZPAV,42.0
+2015,Percent,Pavlodar,,25-28,,KZPAV,32.5
+2015,Percent,Pavlodar,,29-34,,KZPAV,56.7
+2015,Percent,Pavlodar,,35-44,,KZPAV,38.6
+2015,Percent,Pavlodar,,45-54,,KZPAV,35.8
+2015,Percent,Pavlodar,,55-64,,KZPAV,30.6
+2015,Percent,Pavlodar,,65 and older,,KZPAV,11.8
+2015,Percent,Soltustik Kazakhstan,,16-24,,KZSEV,48.7
+2015,Percent,Soltustik Kazakhstan,,25-28,,KZSEV,37.7
+2015,Percent,Soltustik Kazakhstan,,29-34,,KZSEV,38.0
+2015,Percent,Soltustik Kazakhstan,,35-44,,KZSEV,38.2
+2015,Percent,Soltustik Kazakhstan,,45-54,,KZSEV,42.2
+2015,Percent,Soltustik Kazakhstan,,55-64,,KZSEV,40.6
+2015,Percent,Soltustik Kazakhstan,,65 and older,,KZSEV,2.8
+2015,Percent,Shygys Kazakhstan,,16-24,,KZVOS,29.9
+2015,Percent,Shygys Kazakhstan,,25-28,,KZVOS,13.7
+2015,Percent,Shygys Kazakhstan,,29-34,,KZVOS,32.2
+2015,Percent,Shygys Kazakhstan,,35-44,,KZVOS,34.8
+2015,Percent,Shygys Kazakhstan,,45-54,,KZVOS,36.9
+2015,Percent,Shygys Kazakhstan,,55-64,,KZVOS,38.3
+2015,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,0.0
+2015,Percent,Nur-Sultan city,,16-24,,KZNS,41.3
+2015,Percent,Nur-Sultan city,,25-28,,KZNS,52.4
+2015,Percent,Nur-Sultan city,,29-34,,KZNS,37.3
+2015,Percent,Nur-Sultan city,,35-44,,KZNS,37.2
+2015,Percent,Nur-Sultan city,,45-54,,KZNS,46.1
+2015,Percent,Nur-Sultan city,,55-64,,KZNS,41.1
+2015,Percent,Nur-Sultan city,,65 and older,,KZNS,55.6
+2015,Percent,Almaty city,,16-24,,KZALA,35.1
+2015,Percent,Almaty city,,25-28,,KZALA,22.9
+2015,Percent,Almaty city,,29-34,,KZALA,43.7
+2015,Percent,Almaty city,,35-44,,KZALA,35.1
+2015,Percent,Almaty city,,45-54,,KZALA,33.8
+2015,Percent,Almaty city,,55-64,,KZALA,35.8
+2015,Percent,Almaty city,,65 and older,,KZALA,32.1
+2016,Percent,,,,,,37.3
+2016,Percent,Akmola,,,,KZAKM,34.6
+2016,Percent,Aktobe,,,,KZAKT,34.1
+2016,Percent,Almaty,,,,KZALM,35.7
+2016,Percent,Atyrau,,,,KZATY,30.0
+2016,Percent,Batys Kazakhstan,,,,KZZAP,34.5
+2016,Percent,Zhambyl,,,,KZZHA,19.2
+2016,Percent,Karagandy,,,,KZKAR,33.8
+2016,Percent,Kostanay,,,,KZKUS,39.6
+2016,Percent,Kyzylorda,,,,KZKZY,31.1
+2016,Percent,Mangistau,,,,KZMAN,44.4
+2016,Percent,Ontustik Kazakhstan,,,,KZONT,40.9
+2016,Percent,Pavlodar,,,,KZPAV,40.0
+2016,Percent,Soltustik Kazakhstan,,,,KZSEV,32.6
+2016,Percent,Shygys Kazakhstan,,,,KZVOS,33.7
+2016,Percent,Nur-Sultan city,,,,KZNS,44.2
+2016,Percent,Almaty city,,,,KZALA,39.9
+2016,Percent,,urban,,,,38.3
+2016,Percent,Akmola,urban,,,KZAKM,31.8
+2016,Percent,Aktobe,urban,,,KZAKT,36.8
+2016,Percent,Almaty,urban,,,KZALM,42.2
+2016,Percent,Atyrau,urban,,,KZATY,30.5
+2016,Percent,Batys Kazakhstan,urban,,,KZZAP,35.0
+2016,Percent,Zhambyl,urban,,,KZZHA,16.2
+2016,Percent,Karagandy,urban,,,KZKAR,34.2
+2016,Percent,Kostanay,urban,,,KZKUS,41.4
+2016,Percent,Kyzylorda,urban,,,KZKZY,32.2
+2016,Percent,Mangistau,urban,,,KZMAN,43.8
+2016,Percent,Ontustik Kazakhstan,urban,,,KZONT,43.0
+2016,Percent,Pavlodar,urban,,,KZPAV,40.5
+2016,Percent,Soltustik Kazakhstan,urban,,,KZSEV,33.5
+2016,Percent,Shygys Kazakhstan,urban,,,KZVOS,35.2
+2016,Percent,Nur-Sultan city,urban,,,KZNS,44.2
+2016,Percent,Almaty city,urban,,,KZALA,39.9
+2016,Percent,,rural,,,,32.9
+2016,Percent,Akmola,rural,,,KZAKM,38.3
+2016,Percent,Aktobe,rural,,,KZAKT,27.0
+2016,Percent,Almaty,rural,,,KZALM,31.1
+2016,Percent,Atyrau,rural,,,KZATY,28.4
+2016,Percent,Batys Kazakhstan,rural,,,KZZAP,33.5
+2016,Percent,Zhambyl,rural,,,KZZHA,29.4
+2016,Percent,Karagandy,rural,,,KZKAR,30.7
+2016,Percent,Kostanay,rural,,,KZKUS,35.9
+2016,Percent,Kyzylorda,rural,,,KZKZY,27.3
+2016,Percent,Mangistau,rural,,,KZMAN,47.1
+2016,Percent,Ontustik Kazakhstan,rural,,,KZONT,33.7
+2016,Percent,Pavlodar,rural,,,KZPAV,37.6
+2016,Percent,Soltustik Kazakhstan,rural,,,KZSEV,30.4
+2016,Percent,Shygys Kazakhstan,rural,,,KZVOS,25.2
+2016,Percent,,,16-24,,,37.9
+2016,Percent,,,25-28,,,36.1
+2016,Percent,,,29-34,,,35.6
+2016,Percent,,,35-44,,,35.4
+2016,Percent,,,45-54,,,41.5
+2016,Percent,,,55-64,,,36.7
+2016,Percent,,,65 and older,,,29.8
+2016,Percent,Akmola,,16-24,,KZAKM,45.0
+2016,Percent,Akmola,,25-28,,KZAKM,15.8
+2016,Percent,Akmola,,29-34,,KZAKM,45.4
+2016,Percent,Akmola,,35-44,,KZAKM,28.7
+2016,Percent,Akmola,,45-54,,KZAKM,35.8
+2016,Percent,Akmola,,55-64,,KZAKM,44.0
+2016,Percent,Aktobe,,16-24,,KZAKT,25.1
+2016,Percent,Aktobe,,25-28,,KZAKT,35.2
+2016,Percent,Aktobe,,29-34,,KZAKT,42.9
+2016,Percent,Aktobe,,35-44,,KZAKT,32.2
+2016,Percent,Aktobe,,45-54,,KZAKT,47.6
+2016,Percent,Aktobe,,55-64,,KZAKT,24.0
+2016,Percent,Aktobe,,65 and older,,KZAKT,4.7
+2016,Percent,Almaty,,16-24,,KZALM,25.1
+2016,Percent,Almaty,,25-28,,KZALM,35.2
+2016,Percent,Almaty,,29-34,,KZALM,42.9
+2016,Percent,Almaty,,35-44,,KZALM,32.2
+2016,Percent,Almaty,,45-54,,KZALM,47.6
+2016,Percent,Almaty,,55-64,,KZALM,24.0
+2016,Percent,Almaty,,65 and older,,KZALM,4.7
+2016,Percent,Atyrau,,16-24,,KZATY,33.8
+2016,Percent,Atyrau,,25-28,,KZATY,49.1
+2016,Percent,Atyrau,,29-34,,KZATY,7.5
+2016,Percent,Atyrau,,35-44,,KZATY,34.1
+2016,Percent,Atyrau,,45-54,,KZATY,49.1
+2016,Percent,Atyrau,,55-64,,KZATY,23.4
+2016,Percent,Atyrau,,65 and older,,KZATY,0.0
+2016,Percent,Batys Kazakhstan,,16-24,,KZZAP,40.4
+2016,Percent,Batys Kazakhstan,,25-28,,KZZAP,47.7
+2016,Percent,Batys Kazakhstan,,29-34,,KZZAP,37.3
+2016,Percent,Batys Kazakhstan,,35-44,,KZZAP,31.4
+2016,Percent,Batys Kazakhstan,,45-54,,KZZAP,34.1
+2016,Percent,Batys Kazakhstan,,55-64,,KZZAP,31.1
+2016,Percent,Zhambyl,,16-24,,KZZHA,0.0
+2016,Percent,Zhambyl,,25-28,,KZZHA,9.7
+2016,Percent,Zhambyl,,29-34,,KZZHA,17.8
+2016,Percent,Zhambyl,,35-44,,KZZHA,13.3
+2016,Percent,Zhambyl,,45-54,,KZZHA,36.7
+2016,Percent,Zhambyl,,55-64,,KZZHA,22.5
+2016,Percent,Zhambyl,,65 and older,,KZZHA,100.0
+2016,Percent,Karagandy,,16-24,,KZKAR,47.9
+2016,Percent,Karagandy,,25-28,,KZKAR,26.9
+2016,Percent,Karagandy,,29-34,,KZKAR,36.3
+2016,Percent,Karagandy,,35-44,,KZKAR,28.6
+2016,Percent,Karagandy,,45-54,,KZKAR,37.2
+2016,Percent,Karagandy,,55-64,,KZKAR,36.3
+2016,Percent,Karagandy,,65 and older,,KZKAR,14.0
+2016,Percent,Kostanay,,16-24,,KZKUS,40.2
+2016,Percent,Kostanay,,25-28,,KZKUS,38.2
+2016,Percent,Kostanay,,29-34,,KZKUS,25.1
+2016,Percent,Kostanay,,35-44,,KZKUS,42.5
+2016,Percent,Kostanay,,45-54,,KZKUS,51.4
+2016,Percent,Kostanay,,55-64,,KZKUS,33.8
+2016,Percent,Kostanay,,65 and older,,KZKUS,15.9
+2016,Percent,Kyzylorda,,16-24,,KZKZY,21.7
+2016,Percent,Kyzylorda,,25-28,,KZKZY,22.9
+2016,Percent,Kyzylorda,,29-34,,KZKZY,31.0
+2016,Percent,Kyzylorda,,35-44,,KZKZY,22.8
+2016,Percent,Kyzylorda,,45-54,,KZKZY,42.5
+2016,Percent,Kyzylorda,,55-64,,KZKZY,30.8
+2016,Percent,Mangistau,,16-24,,KZMAN,40.7
+2016,Percent,Mangistau,,25-28,,KZMAN,46.0
+2016,Percent,Mangistau,,29-34,,KZMAN,47.4
+2016,Percent,Mangistau,,35-44,,KZMAN,41.9
+2016,Percent,Mangistau,,45-54,,KZMAN,47.1
+2016,Percent,Mangistau,,55-64,,KZMAN,37.6
+2016,Percent,Ontustik Kazakhstan,,16-24,,KZONT,5.2
+2016,Percent,Ontustik Kazakhstan,,25-28,,KZONT,10.9
+2016,Percent,Ontustik Kazakhstan,,29-34,,KZONT,46.9
+2016,Percent,Ontustik Kazakhstan,,35-44,,KZONT,60.7
+2016,Percent,Ontustik Kazakhstan,,45-54,,KZONT,39.8
+2016,Percent,Ontustik Kazakhstan,,55-64,,KZONT,67.2
+2016,Percent,Ontustik Kazakhstan,,65 and older,,KZONT,0.0
+2016,Percent,Pavlodar,,16-24,,KZPAV,72.0
+2016,Percent,Pavlodar,,25-28,,KZPAV,32.9
+2016,Percent,Pavlodar,,29-34,,KZPAV,31.7
+2016,Percent,Pavlodar,,35-44,,KZPAV,40.3
+2016,Percent,Pavlodar,,45-54,,KZPAV,44.9
+2016,Percent,Pavlodar,,55-64,,KZPAV,38.1
+2016,Percent,Pavlodar,,65 and older,,KZPAV,70.3
+2016,Percent,Soltustik Kazakhstan,,16-24,,KZSEV,0.0
+2016,Percent,Soltustik Kazakhstan,,25-28,,KZSEV,34.2
+2016,Percent,Soltustik Kazakhstan,,29-34,,KZSEV,27.1
+2016,Percent,Soltustik Kazakhstan,,35-44,,KZSEV,34.8
+2016,Percent,Soltustik Kazakhstan,,45-54,,KZSEV,37.3
+2016,Percent,Soltustik Kazakhstan,,55-64,,KZSEV,27.3
+2016,Percent,Soltustik Kazakhstan,,65 and older,,KZSEV,16.5
+2016,Percent,Shygys Kazakhstan,,16-24,,KZVOS,1.5
+2016,Percent,Shygys Kazakhstan,,25-28,,KZVOS,71.9
+2016,Percent,Shygys Kazakhstan,,29-34,,KZVOS,31.7
+2016,Percent,Shygys Kazakhstan,,35-44,,KZVOS,29.43
+2016,Percent,Shygys Kazakhstan,,45-54,,KZVOS,28.5
+2016,Percent,Shygys Kazakhstan,,55-64,,KZVOS,30.7
+2016,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,17.5
+2016,Percent,Nur-Sultan city,,16-24,,KZNS,61.6
+2016,Percent,Nur-Sultan city,,25-28,,KZNS,46.3
+2016,Percent,Nur-Sultan city,,29-34,,KZNS,40.6
+2016,Percent,Nur-Sultan city,,35-44,,KZNS,38.3
+2016,Percent,Nur-Sultan city,,45-54,,KZNS,48.7
+2016,Percent,Nur-Sultan city,,55-64,,KZNS,56.7
+2016,Percent,Nur-Sultan city,,65 and older,,KZNS,66.0
+2016,Percent,Almaty city,,16-24,,KZALA,40.6
+2016,Percent,Almaty city,,25-28,,KZALA,37.3
+2016,Percent,Almaty city,,29-34,,KZALA,36.8
+2016,Percent,Almaty city,,35-44,,KZALA,37.0
+2016,Percent,Almaty city,,45-54,,KZALA,43.2
+2016,Percent,Almaty city,,55-64,,KZALA,48.9
+2016,Percent,Almaty city,,65 and older,,KZALA,78.8
+2017,Percent,,,,,,37.0
+2017,Percent,Akmola,,,,KZAKM,35.8
+2017,Percent,Aktobe,,,,KZAKT,39.8
+2017,Percent,Almaty,,,,KZALM,33.8
+2017,Percent,Atyrau,,,,KZATY,31.0
+2017,Percent,Batys Kazakhstan,,,,KZZAP,35.8
+2017,Percent,Zhambyl,,,,KZZHA,18.5
+2017,Percent,Karagandy,,,,KZKAR,32.9
+2017,Percent,Kostanay,,,,KZKUS,38.8
+2017,Percent,Kyzylorda,,,,KZKZY,30.5
+2017,Percent,Mangistau,,,,KZMAN,42.0
+2017,Percent,Ontustik Kazakhstan,,,,KZONT,26.5
+2017,Percent,Pavlodar,,,,KZPAV,43.6
+2017,Percent,Soltustik Kazakhstan,,,,KZSEV,33.9
+2017,Percent,Shygys Kazakhstan,,,,KZVOS,41.1
+2017,Percent,Nur-Sultan city,,,,KZNS,43.2
+2017,Percent,Almaty city,,,,KZALA,36.1
+2017,Percent,,urban,,,,37.8
+2017,Percent,Akmola,urban,,,KZAKM,33.1
+2017,Percent,Aktobe,urban,,,KZAKT,42.3
+2017,Percent,Almaty,urban,,,KZALM,35.2
+2017,Percent,Atyrau,urban,,,KZATY,30.8
+2017,Percent,Batys Kazakhstan,urban,,,KZZAP,39.1
+2017,Percent,Zhambyl,urban,,,KZZHA,17.8
+2017,Percent,Karagandy,urban,,,KZKAR,33.3
+2017,Percent,Kostanay,urban,,,KZKUS,40.0
+2017,Percent,Kyzylorda,urban,,,KZKZY,29.6
+2017,Percent,Mangistau,urban,,,KZMAN,39.5
+2017,Percent,Ontustik Kazakhstan,urban,,,KZONT,24.9
+2017,Percent,Pavlodar,urban,,,KZPAV,46.1
+2017,Percent,Soltustik Kazakhstan,urban,,,KZSEV,37.2
+2017,Percent,Shygys Kazakhstan,urban,,,KZVOS,42.3
+2017,Percent,Nur-Sultan city,urban,,,KZNS,43.2
+2017,Percent,Almaty city,urban,,,KZALA,36.1
+2017,Percent,,rural,,,,33.3
+2017,Percent,Akmola,rural,,,KZAKM,39.8
+2017,Percent,Aktobe,rural,,,KZAKT,31.7
+2017,Percent,Almaty,rural,,,KZALM,33.0
+2017,Percent,Atyrau,rural,,,KZATY,32.6
+2017,Percent,Batys Kazakhstan,rural,,,KZZAP,28.8
+2017,Percent,Zhambyl,rural,,,KZZHA,20.9
+2017,Percent,Karagandy,rural,,,KZKAR,29.6
+2017,Percent,Kostanay,rural,,,KZKUS,36.5
+2017,Percent,Kyzylorda,rural,,,KZKZY,33.3
+2017,Percent,Mangistau,rural,,,KZMAN,49.1
+2017,Percent,Ontustik Kazakhstan,rural,,,KZONT,32.1
+2017,Percent,Pavlodar,rural,,,KZPAV,30.4
+2017,Percent,Soltustik Kazakhstan,rural,,,KZSEV,24.3
+2017,Percent,Shygys Kazakhstan,rural,,,KZVOS,33.3
+2017,Percent,,,16-24,,,41.2
+2017,Percent,,,25-28,,,35.0
+2017,Percent,,,29-34,,,36.9
+2017,Percent,,,35-44,,,37.0
+2017,Percent,,,45-54,,,39.6
+2017,Percent,,,55-64,,,31.4
+2017,Percent,,,65 and older,,,35.3
+2017,Percent,Akmola,,16-24,,KZAKM,49.3
+2017,Percent,Akmola,,25-28,,KZAKM,22.6
+2017,Percent,Akmola,,29-34,,KZAKM,32.2
+2017,Percent,Akmola,,35-44,,KZAKM,38.6
+2017,Percent,Akmola,,45-54,,KZAKM,43.4
+2017,Percent,Akmola,,55-64,,KZAKM,26.7
+2017,Percent,Aktobe,,16-24,,KZAKT,50.8
+2017,Percent,Aktobe,,25-28,,KZAKT,49.7
+2017,Percent,Aktobe,,29-34,,KZAKT,41.5
+2017,Percent,Aktobe,,35-44,,KZAKT,36.5
+2017,Percent,Aktobe,,45-54,,KZAKT,41.0
+2017,Percent,Aktobe,,55-64,,KZAKT,22.2
+2017,Percent,Aktobe,,65 and older,,KZAKT,0.0
+2017,Percent,Almaty,,16-24,,KZALM,35.9
+2017,Percent,Almaty,,25-28,,KZALM,31.9
+2017,Percent,Almaty,,29-34,,KZALM,32.6
+2017,Percent,Almaty,,35-44,,KZALM,30.1
+2017,Percent,Almaty,,45-54,,KZALM,40.2
+2017,Percent,Almaty,,55-64,,KZALM,27.4
+2017,Percent,Almaty,,65 and older,,KZALM,72.5
+2017,Percent,Atyrau,,16-24,,KZATY,2.2
+2017,Percent,Atyrau,,25-28,,KZATY,21.4
+2017,Percent,Atyrau,,29-34,,KZATY,32.8
+2017,Percent,Atyrau,,35-44,,KZATY,40.2
+2017,Percent,Atyrau,,45-54,,KZATY,28.7
+2017,Percent,Atyrau,,55-64,,KZATY,31.3
+2017,Percent,Batys Kazakhstan,,16-24,,KZZAP,44.1
+2017,Percent,Batys Kazakhstan,,25-28,,KZZAP,33.9
+2017,Percent,Batys Kazakhstan,,29-34,,KZZAP,25.9
+2017,Percent,Batys Kazakhstan,,35-44,,KZZAP,38.6
+2017,Percent,Batys Kazakhstan,,45-54,,KZZAP,40.3
+2017,Percent,Batys Kazakhstan,,55-64,,KZZAP,32.5
+2017,Percent,Zhambyl,,16-24,,KZZHA,31.1
+2017,Percent,Zhambyl,,25-28,,KZZHA,20.7
+2017,Percent,Zhambyl,,29-34,,KZZHA,9.0
+2017,Percent,Zhambyl,,35-44,,KZZHA,20.1
+2017,Percent,Zhambyl,,45-54,,KZZHA,12.0
+2017,Percent,Zhambyl,,55-64,,KZZHA,17.6
+2017,Percent,Karagandy,,16-24,,KZKAR,26.0
+2017,Percent,Karagandy,,25-28,,KZKAR,36.9
+2017,Percent,Karagandy,,29-34,,KZKAR,20.2
+2017,Percent,Karagandy,,35-44,,KZKAR,35.4
+2017,Percent,Karagandy,,45-54,,KZKAR,39.3
+2017,Percent,Karagandy,,55-64,,KZKAR,32.7
+2017,Percent,Karagandy,,65 and older,,KZKAR,26.9
+2017,Percent,Kostanay,,16-24,,KZKUS,40.1
+2017,Percent,Kostanay,,25-28,,KZKUS,30.8
+2017,Percent,Kostanay,,29-34,,KZKUS,29.9
+2017,Percent,Kostanay,,35-44,,KZKUS,49.6
+2017,Percent,Kostanay,,45-54,,KZKUS,44.0
+2017,Percent,Kostanay,,55-64,,KZKUS,25.1
+2017,Percent,Kostanay,,65 and older,,KZKUS,14.1
+2017,Percent,Kyzylorda,,16-24,,KZKZY,100.0
+2017,Percent,Kyzylorda,,25-28,,KZKZY,43.3
+2017,Percent,Kyzylorda,,29-34,,KZKZY,29.0
+2017,Percent,Kyzylorda,,35-44,,KZKZY,34.0
+2017,Percent,Kyzylorda,,45-54,,KZKZY,33.5
+2017,Percent,Kyzylorda,,55-64,,KZKZY,16.6
+2017,Percent,Mangistau,,16-24,,KZMAN,18.8
+2017,Percent,Mangistau,,25-28,,KZMAN,53.1
+2017,Percent,Mangistau,,29-34,,KZMAN,44.9
+2017,Percent,Mangistau,,35-44,,KZMAN,46.5
+2017,Percent,Mangistau,,45-54,,KZMAN,38.0
+2017,Percent,Mangistau,,55-64,,KZMAN,29.3
+2017,Percent,Mangistau,,65 and older,,KZMAN,0.0
+2017,Percent,Ontustik Kazakhstan,,16-24,,KZONT,12.4
+2017,Percent,Ontustik Kazakhstan,,25-28,,KZONT,14.9
+2017,Percent,Ontustik Kazakhstan,,29-34,,KZONT,21.1
+2017,Percent,Ontustik Kazakhstan,,35-44,,KZONT,29.9
+2017,Percent,Ontustik Kazakhstan,,45-54,,KZONT,40.2
+2017,Percent,Ontustik Kazakhstan,,55-64,,KZONT,11.3
+2017,Percent,Pavlodar,,16-24,,KZPAV,60.4
+2017,Percent,Pavlodar,,25-28,,KZPAV,54.5
+2017,Percent,Pavlodar,,29-34,,KZPAV,49.9
+2017,Percent,Pavlodar,,35-44,,KZPAV,41.8
+2017,Percent,Pavlodar,,45-54,,KZPAV,39.1
+2017,Percent,Pavlodar,,55-64,,KZPAV,36.0
+2017,Percent,Pavlodar,,65 and older,,KZPAV,0.0
+2017,Percent,Soltustik Kazakhstan,,16-24,,KZSEV,7.9
+2017,Percent,Soltustik Kazakhstan,,25-28,,KZSEV,24.7
+2017,Percent,Soltustik Kazakhstan,,29-34,,KZSEV,32.3
+2017,Percent,Soltustik Kazakhstan,,35-44,,KZSEV,37.9
+2017,Percent,Soltustik Kazakhstan,,45-54,,KZSEV,37.3
+2017,Percent,Soltustik Kazakhstan,,55-64,,KZSEV,27.4
+2017,Percent,Soltustik Kazakhstan,,65 and older,,KZSEV,14.4
+2017,Percent,Shygys Kazakhstan,,16-24,,KZVOS,67.7
+2017,Percent,Shygys Kazakhstan,,25-28,,KZVOS,54.5
+2017,Percent,Shygys Kazakhstan,,29-34,,KZVOS,35.2
+2017,Percent,Shygys Kazakhstan,,35-44,,KZVOS,46.5
+2017,Percent,Shygys Kazakhstan,,45-54,,KZVOS,39.0
+2017,Percent,Shygys Kazakhstan,,55-64,,KZVOS,30.4
+2017,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,12.5
+2017,Percent,Nur-Sultan city,,16-24,,KZNS,62.5
+2017,Percent,Nur-Sultan city,,25-28,,KZNS,25.4
+2017,Percent,Nur-Sultan city,,29-34,,KZNS,58.1
+2017,Percent,Nur-Sultan city,,35-44,,KZNS,29.8
+2017,Percent,Nur-Sultan city,,45-54,,KZNS,42.1
+2017,Percent,Nur-Sultan city,,55-64,,KZNS,51.1
+2017,Percent,Nur-Sultan city,,65 and older,,KZNS,66.7
+2017,Percent,Almaty city,,16-24,,KZALA,39.2
+2017,Percent,Almaty city,,25-28,,KZALA,34.3
+2017,Percent,Almaty city,,29-34,,KZALA,36.5
+2017,Percent,Almaty city,,35-44,,KZALA,32.4
+2017,Percent,Almaty city,,45-54,,KZALA,39.2
+2017,Percent,Almaty city,,55-64,,KZALA,38.4
+2017,Percent,Almaty city,,65 and older,,KZALA,42.5
+2018,Percent,,,,,,41.2
+2018,Percent,Akmola,,,,KZAKM,45.7
+2018,Percent,Aktobe,,,,KZAKT,33.7
+2018,Percent,Almaty,,,,KZALM,39.3
+2018,Percent,Atyrau,,,,KZATY,35.6
+2018,Percent,Batys Kazakhstan,,,,KZZAP,36.4
+2018,Percent,Zhambyl,,,,KZZHA,40.7
+2018,Percent,Karagandy,,,,KZKAR,36.3
+2018,Percent,Kostanay,,,,KZKUS,42.9
+2018,Percent,Kyzylorda,,,,KZKZY,37.2
+2018,Percent,Mangistau,,,,KZMAN,37.4
+2018,Percent,Pavlodar,,,,KZPAV,40.2
+2018,Percent,Soltustik Kazakhstan,,,,KZSEV,39.3
+2018,Percent,Turkistan,,,,KZYUZ,40.3
+2018,Percent,Shygys Kazakhstan,,,,KZVOS,45.1
+2018,Percent,Nur-Sultan city,,,,KZNS,43.3
+2018,Percent,Almaty city,,,,KZALA,43.2
+2018,Percent,Shymkent city,,,,KZSHY,46.7
+2018,Percent,,urban,,,,41.7
+2018,Percent,Akmola,urban,,,KZAKM,45.8
+2018,Percent,Aktobe,urban,,,KZAKT,34.1
+2018,Percent,Almaty,urban,,,KZALM,38.0
+2018,Percent,Atyrau,urban,,,KZATY,33.8
+2018,Percent,Batys Kazakhstan,urban,,,KZZAP,36.9
+2018,Percent,Zhambyl,urban,,,KZZHA,42.6
+2018,Percent,Karagandy,urban,,,KZKAR,37.0
+2018,Percent,Kostanay,urban,,,KZKUS,42.5
+2018,Percent,Kyzylorda,urban,,,KZKZY,38.2
+2018,Percent,Mangistau,urban,,,KZMAN,36.6
+2018,Percent,Pavlodar,urban,,,KZPAV,40.1
+2018,Percent,Soltustik Kazakhstan,urban,,,KZSEV,43.1
+2018,Percent,Turkistan,urban,,,KZYUZ,37.9
+2018,Percent,Shygys Kazakhstan,urban,,,KZVOS,46.7
+2018,Percent,Nur-Sultan city,urban,,,KZNS,43.3
+2018,Percent,Almaty city,urban,,,KZALA,43.2
+2018,Percent,Shymkent city,urban,,,KZSHY,46.7
+2018,Percent,,rural,,,,39.5
+2018,Percent,Akmola,rural,,,KZAKM,45.6
+2018,Percent,Aktobe,rural,,,KZAKT,32.4
+2018,Percent,Almaty,rural,,,KZALM,39.8
+2018,Percent,Atyrau,rural,,,KZATY,43.0
+2018,Percent,Batys Kazakhstan,rural,,,KZZAP,35.6
+2018,Percent,Zhambyl,rural,,,KZZHA,36.2
+2018,Percent,Karagandy,rural,,,KZKAR,33.6
+2018,Percent,Kostanay,rural,,,KZKUS,43.7
+2018,Percent,Kyzylorda,rural,,,KZKZY,34.9
+2018,Percent,Mangistau,rural,,,KZMAN,38.9
+2018,Percent,Pavlodar,rural,,,KZPAV,40.7
+2018,Percent,Soltustik Kazakhstan,rural,,,KZSEV,34.1
+2018,Percent,Turkistan,rural,,,KZYUZ,41.0
+2018,Percent,Shygys Kazakhstan,rural,,,KZVOS,41.5
+2018,Percent,,,16-24,,,45.2
+2018,Percent,,,25-28,,,42.0
+2018,Percent,,,29-34,,,37.2
+2018,Percent,,,35-44,,,41.7
+2018,Percent,,,45-54,,,44.5
+2018,Percent,,,55-64,,,37.8
+2018,Percent,,,65 and older,,,32.7
+2018,Percent,Akmola,,16-24,,KZAKM,38.3
+2018,Percent,Akmola,,25-28,,KZAKM,44.1
+2018,Percent,Akmola,,29-34,,KZAKM,47.2
+2018,Percent,Akmola,,35-44,,KZAKM,45.2
+2018,Percent,Akmola,,45-54,,KZAKM,48.1
+2018,Percent,Akmola,,55-64,,KZAKM,47.0
+2018,Percent,Aktobe,,16-24,,KZAKT,32.6
+2018,Percent,Aktobe,,25-28,,KZAKT,21.4
+2018,Percent,Aktobe,,29-34,,KZAKT,23.1
+2018,Percent,Aktobe,,35-44,,KZAKT,32.4
+2018,Percent,Aktobe,,45-54,,KZAKT,46.5
+2018,Percent,Aktobe,,55-64,,KZAKT,46.4
+2018,Percent,Aktobe,,65 and older,,KZAKT,0.0
+2018,Percent,Almaty,,16-24,,KZALM,46.5
+2018,Percent,Almaty,,25-28,,KZALM,37.9
+2018,Percent,Almaty,,29-34,,KZALM,39.0
+2018,Percent,Almaty,,35-44,,KZALM,41.6
+2018,Percent,Almaty,,45-54,,KZALM,37.9
+2018,Percent,Almaty,,55-64,,KZALM,35.8
+2018,Percent,Almaty,,65 and older,,KZALM,0.0
+2018,Percent,Atyrau,,16-24,,KZATY,23.0
+2018,Percent,Atyrau,,25-28,,KZATY,61.6
+2018,Percent,Atyrau,,29-34,,KZATY,24.6
+2018,Percent,Atyrau,,35-44,,KZATY,35.7
+2018,Percent,Atyrau,,45-54,,KZATY,41.4
+2018,Percent,Atyrau,,55-64,,KZATY,38.1
+2018,Percent,Atyrau,,65 and older,,KZATY,0.0
+2018,Percent,Batys Kazakhstan,,16-24,,KZZAP,56.1
+2018,Percent,Batys Kazakhstan,,25-28,,KZZAP,36.8
+2018,Percent,Batys Kazakhstan,,29-34,,KZZAP,47.3
+2018,Percent,Batys Kazakhstan,,35-44,,KZZAP,34.2
+2018,Percent,Batys Kazakhstan,,45-54,,KZZAP,31.6
+2018,Percent,Batys Kazakhstan,,55-64,,KZZAP,32.0
+2018,Percent,Zhambyl,,16-24,,KZZHA,23.6
+2018,Percent,Zhambyl,,25-28,,KZZHA,35.5
+2018,Percent,Zhambyl,,29-34,,KZZHA,39.6
+2018,Percent,Zhambyl,,35-44,,KZZHA,46.8
+2018,Percent,Zhambyl,,45-54,,KZZHA,47.8
+2018,Percent,Zhambyl,,55-64,,KZZHA,23.1
+2018,Percent,Karagandy,,16-24,,KZKAR,36.1
+2018,Percent,Karagandy,,25-28,,KZKAR,31.9
+2018,Percent,Karagandy,,29-34,,KZKAR,36.1
+2018,Percent,Karagandy,,35-44,,KZKAR,40.1
+2018,Percent,Karagandy,,45-54,,KZKAR,37.6
+2018,Percent,Karagandy,,55-64,,KZKAR,29.1
+2018,Percent,Karagandy,,65 and older,,KZKAR,37.8
+2018,Percent,Kostanay,,16-24,,KZKUS,48.6
+2018,Percent,Kostanay,,25-28,,KZKUS,44.5
+2018,Percent,Kostanay,,29-34,,KZKUS,35.0
+2018,Percent,Kostanay,,35-44,,KZKUS,45.3
+2018,Percent,Kostanay,,45-54,,KZKUS,47.9
+2018,Percent,Kostanay,,55-64,,KZKUS,37.4
+2018,Percent,Kostanay,,65 and older,,KZKUS,48.6
+2018,Percent,Kyzylorda,,16-24,,KZKZY,47.8
+2018,Percent,Kyzylorda,,25-28,,KZKZY,33.9
+2018,Percent,Kyzylorda,,29-34,,KZKZY,32.1
+2018,Percent,Kyzylorda,,35-44,,KZKZY,35.8
+2018,Percent,Kyzylorda,,45-54,,KZKZY,47.3
+2018,Percent,Kyzylorda,,55-64,,KZKZY,31.8
+2018,Percent,Mangistau,,16-24,,KZMAN,35.2
+2018,Percent,Mangistau,,25-28,,KZMAN,47.8
+2018,Percent,Mangistau,,29-34,,KZMAN,30.8
+2018,Percent,Mangistau,,35-44,,KZMAN,39.7
+2018,Percent,Mangistau,,45-54,,KZMAN,40.9
+2018,Percent,Mangistau,,55-64,,KZMAN,27.0
+2018,Percent,Pavlodar,,16-24,,KZPAV,63.4
+2018,Percent,Pavlodar,,25-28,,KZPAV,45.8
+2018,Percent,Pavlodar,,29-34,,KZPAV,36.1
+2018,Percent,Pavlodar,,35-44,,KZPAV,34.1
+2018,Percent,Pavlodar,,45-54,,KZPAV,50.2
+2018,Percent,Pavlodar,,55-64,,KZPAV,32.8
+2018,Percent,Pavlodar,,65 and older,,KZPAV,0.0
+2018,Percent,Soltustik Kazakhstan,,16-24,,KZSEV,50.1
+2018,Percent,Soltustik Kazakhstan,,25-28,,KZSEV,38.7
+2018,Percent,Soltustik Kazakhstan,,29-34,,KZSEV,29.1
+2018,Percent,Soltustik Kazakhstan,,35-44,,KZSEV,49.0
+2018,Percent,Soltustik Kazakhstan,,45-54,,KZSEV,42.3
+2018,Percent,Soltustik Kazakhstan,,55-64,,KZSEV,32.6
+2018,Percent,Soltustik Kazakhstan,,65 and older,,KZSEV,42.6
+2018,Percent,Turkistan,,16-24,,KZYUZ,46.9
+2018,Percent,Turkistan,,25-28,,KZYUZ,54.7
+2018,Percent,Turkistan,,29-34,,KZYUZ,29.5
+2018,Percent,Turkistan,,35-44,,KZYUZ,26.1
+2018,Percent,Turkistan,,45-54,,KZYUZ,64.4
+2018,Percent,Turkistan,,55-64,,KZYUZ,41.3
+2018,Percent,Shygys Kazakhstan,,16-24,,KZVOS,77.1
+2018,Percent,Shygys Kazakhstan,,25-28,,KZVOS,63.3
+2018,Percent,Shygys Kazakhstan,,29-34,,KZVOS,44.3
+2018,Percent,Shygys Kazakhstan,,35-44,,KZVOS,28.5
+2018,Percent,Shygys Kazakhstan,,45-54,,KZVOS,48.4
+2018,Percent,Shygys Kazakhstan,,55-64,,KZVOS,42.7
+2018,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,17.6
+2018,Percent,Nur-Sultan city,,16-24,,KZNS,42.8
+2018,Percent,Nur-Sultan city,,25-28,,KZNS,41.5
+2018,Percent,Nur-Sultan city,,29-34,,KZNS,44.3
+2018,Percent,Nur-Sultan city,,35-44,,KZNS,44.0
+2018,Percent,Nur-Sultan city,,45-54,,KZNS,44.6
+2018,Percent,Nur-Sultan city,,55-64,,KZNS,35.9
+2018,Percent,Nur-Sultan city,,65 and older,,KZNS,46.3
+2018,Percent,Almaty city,,16-24,,KZALA,45.3
+2018,Percent,Almaty city,,25-28,,KZALA,39.4
+2018,Percent,Almaty city,,29-34,,KZALA,39.3
+2018,Percent,Almaty city,,35-44,,KZALA,43.2
+2018,Percent,Almaty city,,45-54,,KZALA,44.6
+2018,Percent,Almaty city,,55-64,,KZALA,50.4
+2018,Percent,Almaty city,,65 and older,,KZALA,39.1
+2018,Percent,Shymkent city,,16-24,,KZSHY,31.4
+2018,Percent,Shymkent city,,25-28,,KZSHY,38.3
+2018,Percent,Shymkent city,,29-34,,KZSHY,18.8
+2018,Percent,Shymkent city,,35-44,,KZSHY,74.2
+2018,Percent,Shymkent city,,45-54,,KZSHY,43.2
+2018,Percent,Shymkent city,,55-64,,KZSHY,32.2
+2019,Percent,,,,,,43.0
+2019,Percent,Akmola,,,,KZAKM,43.5
+2019,Percent,Aktobe,,,,KZAKT,27.3
+2019,Percent,Almaty,,,,KZALM,43.6
+2019,Percent,Atyrau,,,,KZATY,41.3
+2019,Percent,Batys Kazakhstan,,,,KZZAP,38.9
+2019,Percent,Zhambyl,,,,KZZHA,35.2
+2019,Percent,Karagandy,,,,KZKAR,34.4
+2019,Percent,Kostanay,,,,KZKUS,40.1
+2019,Percent,Kyzylorda,,,,KZKZY,44.4
+2019,Percent,Mangistau,,,,KZMAN,34.5
+2019,Percent,Pavlodar,,,,KZPAV,45.0
+2019,Percent,Soltustik Kazakhstan,,,,KZSEV,40.8
+2019,Percent,Turkistan,,,,KZYUZ,34.7
+2019,Percent,Shygys Kazakhstan,,,,KZVOS,44.5
+2019,Percent,Nur-Sultan city,,,,KZNS,52.1
+2019,Percent,Almaty city,,,,KZALA,48.1
+2019,Percent,Shymkent city,,,,KZSHY,38.3
+2019,Percent,,urban,,,,43.9
+2019,Percent,Akmola,urban,,,KZAKM,45.6
+2019,Percent,Aktobe,urban,,,KZAKT,22.6
+2019,Percent,Almaty,urban,,,KZALM,41.0
+2019,Percent,Atyrau,urban,,,KZATY,36.8
+2019,Percent,Batys Kazakhstan,urban,,,KZZAP,41.1
+2019,Percent,Zhambyl,urban,,,KZZHA,37.3
+2019,Percent,Karagandy,urban,,,KZKAR,34.6
+2019,Percent,Kostanay,urban,,,KZKUS,38.2
+2019,Percent,Kyzylorda,urban,,,KZKZY,50.0
+2019,Percent,Mangistau,urban,,,KZMAN,33.2
+2019,Percent,Pavlodar,urban,,,KZPAV,45.9
+2019,Percent,Soltustik Kazakhstan,urban,,,KZSEV,44.9
+2019,Percent,Turkistan,urban,,,KZYUZ,27.5
+2019,Percent,Shygys Kazakhstan,urban,,,KZVOS,45.0
+2019,Percent,Nur-Sultan city,urban,,,KZNS,52.1
+2019,Percent,Almaty city,urban,,,KZALA,48.1
+2019,Percent,Shymkent city,urban,,,KZSHY,38.3
+2019,Percent,,rural,,,,40.0
+2019,Percent,Akmola,rural,,,KZAKM,40.7
+2019,Percent,Aktobe,rural,,,KZAKT,39.7
+2019,Percent,Almaty,rural,,,KZALM,44.5
+2019,Percent,Atyrau,rural,,,KZATY,48.5
+2019,Percent,Batys Kazakhstan,rural,,,KZZAP,35.4
+2019,Percent,Zhambyl,rural,,,KZZHA,26.5
+2019,Percent,Karagandy,rural,,,KZKAR,33.5
+2019,Percent,Kostanay,rural,,,KZKUS,42.4
+2019,Percent,Kyzylorda,rural,,,KZKZY,33.2
+2019,Percent,Mangistau,rural,,,KZMAN,37.4
+2019,Percent,Pavlodar,rural,,,KZPAV,41.7
+2019,Percent,Soltustik Kazakhstan,rural,,,KZSEV,35.9
+2019,Percent,Turkistan,rural,,,KZYUZ,36.6
+2019,Percent,Shygys Kazakhstan,rural,,,KZVOS,43.4
+2019,Percent,,,16-24,,,42.4
+2019,Percent,,,25-28,,,47.7
+2019,Percent,,,29-34,,,41.2
+2019,Percent,,,35-44,,,41.3
+2019,Percent,,,45-54,,,46.9
+2019,Percent,,,55-64,,,39.8
+2019,Percent,,,65 and older,,,42.5
+2019,Percent,Akmola,,16-24,,KZAKM,41.6
+2019,Percent,Akmola,,25-28,,KZAKM,43.2
+2019,Percent,Akmola,,29-34,,KZAKM,40.2
+2019,Percent,Akmola,,35-44,,KZAKM,41.4
+2019,Percent,Akmola,,45-54,,KZAKM,50.7
+2019,Percent,Akmola,,55-64,,KZAKM,42.2
+2019,Percent,Akmola,,65 and older,,KZAKM,37.0
+2019,Percent,Aktobe,,16-24,,KZAKT,11.0
+2019,Percent,Aktobe,,25-28,,KZAKT,15.7
+2019,Percent,Aktobe,,29-34,,KZAKT,19.4
+2019,Percent,Aktobe,,35-44,,KZAKT,26.7
+2019,Percent,Aktobe,,45-54,,KZAKT,37.1
+2019,Percent,Aktobe,,55-64,,KZAKT,34.1
+2019,Percent,Aktobe,,65 and older,,KZAKT,100.0
+2019,Percent,Almaty,,16-24,,KZALM,41.7
+2019,Percent,Almaty,,25-28,,KZALM,38.2
+2019,Percent,Almaty,,29-34,,KZALM,38.8
+2019,Percent,Almaty,,35-44,,KZALM,45.4
+2019,Percent,Almaty,,45-54,,KZALM,49.5
+2019,Percent,Almaty,,55-64,,KZALM,43.3
+2019,Percent,Almaty,,65 and older,,KZALM,34.0
+2019,Percent,Atyrau,,16-24,,KZATY,4.1
+2019,Percent,Atyrau,,25-28,,KZATY,55.2
+2019,Percent,Atyrau,,29-34,,KZATY,38.9
+2019,Percent,Atyrau,,35-44,,KZATY,43.5
+2019,Percent,Atyrau,,45-54,,KZATY,52.4
+2019,Percent,Atyrau,,55-64,,KZATY,18.8
+2019,Percent,Batys Kazakhstan,,16-24,,KZZAP,41.7
+2019,Percent,Batys Kazakhstan,,25-28,,KZZAP,55.6
+2019,Percent,Batys Kazakhstan,,29-34,,KZZAP,34.1
+2019,Percent,Batys Kazakhstan,,35-44,,KZZAP,44.7
+2019,Percent,Batys Kazakhstan,,45-54,,KZZAP,36.5
+2019,Percent,Batys Kazakhstan,,55-64,,KZZAP,31.8
+2019,Percent,Zhambyl,,16-24,,KZZHA,47.2
+2019,Percent,Zhambyl,,25-28,,KZZHA,31.6
+2019,Percent,Zhambyl,,29-34,,KZZHA,20.3
+2019,Percent,Zhambyl,,35-44,,KZZHA,36.2
+2019,Percent,Zhambyl,,45-54,,KZZHA,41.9
+2019,Percent,Zhambyl,,55-64,,KZZHA,33.7
+2019,Percent,Karagandy,,16-24,,KZKAR,21.7
+2019,Percent,Karagandy,,25-28,,KZKAR,32.2
+2019,Percent,Karagandy,,29-34,,KZKAR,22.3
+2019,Percent,Karagandy,,35-44,,KZKAR,40.0
+2019,Percent,Karagandy,,45-54,,KZKAR,41.6
+2019,Percent,Karagandy,,55-64,,KZKAR,34.2
+2019,Percent,Karagandy,,65 and older,,KZKAR,87.7
+2019,Percent,Kostanay,,16-24,,KZKUS,42.2
+2019,Percent,Kostanay,,25-28,,KZKUS,42.7
+2019,Percent,Kostanay,,29-34,,KZKUS,28.9
+2019,Percent,Kostanay,,35-44,,KZKUS,38.5
+2019,Percent,Kostanay,,45-54,,KZKUS,54.7
+2019,Percent,Kostanay,,55-64,,KZKUS,35.2
+2019,Percent,Kostanay,,65 and older,,KZKUS,47.8
+2019,Percent,Kyzylorda,,16-24,,KZKZY,11.7
+2019,Percent,Kyzylorda,,25-28,,KZKZY,34.0
+2019,Percent,Kyzylorda,,29-34,,KZKZY,53.1
+2019,Percent,Kyzylorda,,35-44,,KZKZY,49.9
+2019,Percent,Kyzylorda,,45-54,,KZKZY,45.1
+2019,Percent,Kyzylorda,,55-64,,KZKZY,27.0
+2019,Percent,Mangistau,,16-24,,KZMAN,51.8
+2019,Percent,Mangistau,,25-28,,KZMAN,32.7
+2019,Percent,Mangistau,,29-34,,KZMAN,35.8
+2019,Percent,Mangistau,,35-44,,KZMAN,28.3
+2019,Percent,Mangistau,,45-54,,KZMAN,39.0
+2019,Percent,Mangistau,,55-64,,KZMAN,38.5
+2019,Percent,Mangistau,,65 and older,,KZMAN,7.1
+2019,Percent,Pavlodar,,16-24,,KZPAV,24.5
+2019,Percent,Pavlodar,,25-28,,KZPAV,26.0
+2019,Percent,Pavlodar,,29-34,,KZPAV,33.8
+2019,Percent,Pavlodar,,35-44,,KZPAV,49.3
+2019,Percent,Pavlodar,,45-54,,KZPAV,56.3
+2019,Percent,Pavlodar,,55-64,,KZPAV,46.6
+2019,Percent,Pavlodar,,65 and older,,KZPAV,4.2
+2019,Percent,Soltustik Kazakhstan,,16-24,,KZSEV,24.9
+2019,Percent,Soltustik Kazakhstan,,25-28,,KZSEV,39.4
+2019,Percent,Soltustik Kazakhstan,,29-34,,KZSEV,44.2
+2019,Percent,Soltustik Kazakhstan,,35-44,,KZSEV,40.3
+2019,Percent,Soltustik Kazakhstan,,45-54,,KZSEV,46.7
+2019,Percent,Soltustik Kazakhstan,,55-64,,KZSEV,32.8
+2019,Percent,Soltustik Kazakhstan,,65 and older,,KZSEV,15.8
+2019,Percent,Turkistan,,16-24,,KZYUZ,38.2
+2019,Percent,Turkistan,,25-28,,KZYUZ,26.9
+2019,Percent,Turkistan,,29-34,,KZYUZ,28.0
+2019,Percent,Turkistan,,35-44,,KZYUZ,46.6
+2019,Percent,Turkistan,,45-54,,KZYUZ,36.7
+2019,Percent,Turkistan,,55-64,,KZYUZ,13.0
+2019,Percent,Shygys Kazakhstan,,16-24,,KZVOS,44.4
+2019,Percent,Shygys Kazakhstan,,25-28,,KZVOS,41.5
+2019,Percent,Shygys Kazakhstan,,29-34,,KZVOS,49.3
+2019,Percent,Shygys Kazakhstan,,35-44,,KZVOS,35.7
+2019,Percent,Shygys Kazakhstan,,45-54,,KZVOS,50.4
+2019,Percent,Shygys Kazakhstan,,55-64,,KZVOS,49.0
+2019,Percent,Nur-Sultan city,,16-24,,KZNS,41.3
+2019,Percent,Nur-Sultan city,,25-28,,KZNS,72.1
+2019,Percent,Nur-Sultan city,,29-34,,KZNS,64.5
+2019,Percent,Nur-Sultan city,,35-44,,KZNS,38.4
+2019,Percent,Nur-Sultan city,,45-54,,KZNS,43.8
+2019,Percent,Nur-Sultan city,,55-64,,KZNS,42.6
+2019,Percent,Nur-Sultan city,,65 and older,,KZNS,49.0
+2019,Percent,Almaty city,,16-24,,KZALA,41.3
+2019,Percent,Almaty city,,25-28,,KZALA,72.1
+2019,Percent,Almaty city,,29-34,,KZALA,64.5
+2019,Percent,Almaty city,,35-44,,KZALA,38.4
+2019,Percent,Almaty city,,45-54,,KZALA,43.8
+2019,Percent,Almaty city,,55-64,,KZALA,42.6
+2019,Percent,Almaty city,,65 and older,,KZALA,49.0
+2019,Percent,Shymkent city,,16-24,,KZSHY,30.5
+2019,Percent,Shymkent city,,25-28,,KZSHY,38.5
+2019,Percent,Shymkent city,,29-34,,KZSHY,29.7
+2019,Percent,Shymkent city,,35-44,,KZSHY,47.3
+2019,Percent,Shymkent city,,45-54,,KZSHY,37.5
+2019,Percent,Shymkent city,,55-64,,KZSHY,41.2
+2020,Percent,,,,,,41.1
+2020,Percent,Akmola,,,,KZAKM,44.6
+2020,Percent,Aktobe,,,,KZAKT,33.3
+2020,Percent,Almaty,,,,KZALM,41.2
+2020,Percent,Atyrau,,,,KZATY,35.8
+2020,Percent,Batys Kazakhstan,,,,KZZAP,42.5
+2020,Percent,Zhambyl,,,,KZZHA,43.6
+2020,Percent,Karagandy,,,,KZKAR,32.2
+2020,Percent,Kostanay,,,,KZKUS,45.3
+2020,Percent,Kyzylorda,,,,KZKZY,40.1
+2020,Percent,Mangistau,,,,KZMAN,30.5
+2020,Percent,Ontustik Kazakhstan,,,,KZONT,43.3
+2020,Percent,Pavlodar,,,,KZPAV,40.6
+2020,Percent,Turkistan,,,,KZYUZ,35.5
+2020,Percent,Shygys Kazakhstan,,,,KZVOS,46.0
+2020,Percent,Nur-Sultan city,,,,KZNS,40.9
+2020,Percent,Almaty city,,,,KZALA,46.1
+2020,Percent,Shymkent city,,,,KZSHY,36.3
+2020,Percent,,,,,,41.5
+2020,Percent,Akmola,urban,,,KZAKM,47.3
+2020,Percent,Aktobe,urban,,,KZAKT,29.7
+2020,Percent,Almaty,urban,,,KZALM,40.3
+2020,Percent,Atyrau,urban,,,KZATY,30.4
+2020,Percent,Batys Kazakhstan,urban,,,KZZAP,45.0
+2020,Percent,Zhambyl,urban,,,KZZHA,44.4
+2020,Percent,Karagandy,urban,,,KZKAR,31.0
+2020,Percent,Kostanay,urban,,,KZKUS,44.8
+2020,Percent,Kyzylorda,urban,,,KZKZY,44.1
+2020,Percent,Mangistau,urban,,,KZMAN,31.3
+2020,Percent,Ontustik Kazakhstan,urban,,,KZONT,45.0
+2020,Percent,Pavlodar,urban,,,KZPAV,44.8
+2020,Percent,Turkistan,urban,,,KZYUZ,43.3
+2020,Percent,Shygys Kazakhstan,urban,,,KZVOS,46.7
+2020,Percent,Nur-Sultan city,urban,,,KZNS,40.9
+2020,Percent,Almaty city,urban,,,KZALA,46.1
+2020,Percent,Shymkent city,urban,,,KZSHY,36.3
+2020,Percent,,,,,,40.0
+2020,Percent,Akmola,rural,,,KZAKM,40.5
+2020,Percent,Aktobe,rural,,,KZAKT,42.9
+2020,Percent,Almaty,rural,,,KZALM,41.5
+2020,Percent,Atyrau,rural,,,KZATY,52.6
+2020,Percent,Batys Kazakhstan,rural,,,KZZAP,38.8
+2020,Percent,Zhambyl,rural,,,KZZHA,41.3
+2020,Percent,Karagandy,rural,,,KZKAR,36.7
+2020,Percent,Kostanay,rural,,,KZKUS,46.0
+2020,Percent,Kyzylorda,rural,,,KZKZY,33.0
+2020,Percent,Mangistau,rural,,,KZMAN,28.9
+2020,Percent,Pavlodar,rural,,,KZPAV,36.2
+2020,Percent,Ontustik Kazakhstan,rural,,,KZONT,36.4
+2020,Percent,Turkistan,rural,,,KZYUZ,32.5
+2020,Percent,Shygys Kazakhstan,rural,,,KZVOS,45.5
+2020,Percent,,,,,,41.1
+2020,Percent,,,16-24,,,43.6
+2020,Percent,,,25-28,,,41.8
+2020,Percent,,,29-34,,,36.4
+2020,Percent,,,35-44,,,41.6
+2020,Percent,,,45-54,,,44.1
+2020,Percent,,,55-64,,,40.8
+2020,Percent,,,65 and older,,,30.4
+2020,Percent,Akmola,,,,KZAKM,44.6
+2020,Percent,Akmola,,16-24,,KZAKM,50.1
+2020,Percent,Akmola,,25-28,,KZAKM,39.7
+2020,Percent,Akmola,,29-34,,KZAKM,41.6
+2020,Percent,Akmola,,35-44,,KZAKM,43.3
+2020,Percent,Akmola,,45-54,,KZAKM,48.9
+2020,Percent,Akmola,,55-64,,KZAKM,48.7
+2020,Percent,Akmola,,65 and older,,KZAKM,27.7
+2020,Percent,Aktobe,,,,KZAKT,33.3
+2020,Percent,Aktobe,,16-24,,KZAKT,15.8
+2020,Percent,Aktobe,,25-28,,KZAKT,27.7
+2020,Percent,Aktobe,,29-34,,KZAKT,36.5
+2020,Percent,Aktobe,,35-44,,KZAKT,38.2
+2020,Percent,Aktobe,,45-54,,KZAKT,31.7
+2020,Percent,Aktobe,,55-64,,KZAKT,27.1
+2020,Percent,Aktobe,,65 and older,,KZAKT,0.0
+2020,Percent,Almaty,,,,KZALM,41.2
+2020,Percent,Almaty,,16-24,,KZALM,39.3
+2020,Percent,Almaty,,25-28,,KZALM,31.2
+2020,Percent,Almaty,,29-34,,KZALM,36.7
+2020,Percent,Almaty,,35-44,,KZALM,43.1
+2020,Percent,Almaty,,45-54,,KZALM,43.2
+2020,Percent,Almaty,,55-64,,KZALM,48.0
+2020,Percent,Almaty,,65 and older,,KZALM,46.9
+2020,Percent,Atyrau,,,,KZATY,35.8
+2020,Percent,Atyrau,,16-24,,KZATY,73.3
+2020,Percent,Atyrau,,25-28,,KZATY,55.9
+2020,Percent,Atyrau,,29-34,,KZATY,26.1
+2020,Percent,Atyrau,,35-44,,KZATY,34.2
+2020,Percent,Atyrau,,45-54,,KZATY,31.7
+2020,Percent,Atyrau,,55-64,,KZATY,35.3
+2020,Percent,Batys Kazakhstan,,,,KZZAP,42.5
+2020,Percent,Batys Kazakhstan,,16-24,,KZZAP,53.2
+2020,Percent,Batys Kazakhstan,,25-28,,KZZAP,57.5
+2020,Percent,Batys Kazakhstan,,29-34,,KZZAP,32.5
+2020,Percent,Batys Kazakhstan,,35-44,,KZZAP,34.4
+2020,Percent,Batys Kazakhstan,,45-54,,KZZAP,47.7
+2020,Percent,Batys Kazakhstan,,55-64,,KZZAP,44.8
+2020,Percent,Zhambyl,,,,KZZHA,43.6
+2020,Percent,Zhambyl,,16-24,,KZZHA,37.6
+2020,Percent,Zhambyl,,25-28,,KZZHA,21.0
+2020,Percent,Zhambyl,,29-34,,KZZHA,49.1
+2020,Percent,Zhambyl,,35-44,,KZZHA,46.3
+2020,Percent,Zhambyl,,45-54,,KZZHA,53.5
+2020,Percent,Zhambyl,,55-64,,KZZHA,46.9
+2020,Percent,Zhambyl,,65 and older,,KZZHA,100.0
+2020,Percent,Karagandy,,,,KZKAR,32.2
+2020,Percent,Karagandy,,16-24,,KZKAR,40.1
+2020,Percent,Karagandy,,25-28,,KZKAR,26.2
+2020,Percent,Karagandy,,29-34,,KZKAR,24.6
+2020,Percent,Karagandy,,35-44,,KZKAR,32.7
+2020,Percent,Karagandy,,45-54,,KZKAR,38.9
+2020,Percent,Karagandy,,55-64,,KZKAR,32.7
+2020,Percent,Karagandy,,65 and older,,KZKAR,8.6
+2020,Percent,Kostanay,,,,KZKUS,45.3
+2020,Percent,Kostanay,,16-24,,KZKUS,52.5
+2020,Percent,Kostanay,,25-28,,KZKUS,29.0
+2020,Percent,Kostanay,,29-34,,KZKUS,45.9
+2020,Percent,Kostanay,,35-44,,KZKUS,51.7
+2020,Percent,Kostanay,,45-54,,KZKUS,47.1
+2020,Percent,Kostanay,,55-64,,KZKUS,39.3
+2020,Percent,Kostanay,,65 and older,,KZKUS,26.0
+2020,Percent,Kyzylorda,,,,KZKZY,40.1
+2020,Percent,Kyzylorda,,16-24,,KZKZY,69.1
+2020,Percent,Kyzylorda,,25-28,,KZKZY,44.9
+2020,Percent,Kyzylorda,,29-34,,KZKZY,53.6
+2020,Percent,Kyzylorda,,35-44,,KZKZY,21.8
+2020,Percent,Kyzylorda,,45-54,,KZKZY,48.2
+2020,Percent,Kyzylorda,,55-64,,KZKZY,33.1
+2020,Percent,Mangistau,,,,KZMAN,30.5
+2020,Percent,Mangistau,,16-24,,KZMAN,22.8
+2020,Percent,Mangistau,,25-28,,KZMAN,23.7
+2020,Percent,Mangistau,,29-34,,KZMAN,31.6
+2020,Percent,Mangistau,,35-44,,KZMAN,26.5
+2020,Percent,Mangistau,,45-54,,KZMAN,40.0
+2020,Percent,Mangistau,,55-64,,KZMAN,30.1
+2020,Percent,Pavlodar,,,,KZPAV,43.3
+2020,Percent,Pavlodar,,16-24,,KZPAV,16.1
+2020,Percent,Pavlodar,,25-28,,KZPAV,41.0
+2020,Percent,Pavlodar,,29-34,,KZPAV,45.1
+2020,Percent,Pavlodar,,35-44,,KZPAV,49.2
+2020,Percent,Pavlodar,,45-54,,KZPAV,47.3
+2020,Percent,Pavlodar,,55-64,,KZPAV,30.5
+2020,Percent,Pavlodar,,65 and older,,KZPAV,3.0
+2020,Percent,Ontustik Kazakhstan,,,,KZONT,40.6
+2020,Percent,Ontustik Kazakhstan,,16-24,,KZONT,62.6
+2020,Percent,Ontustik Kazakhstan,,25-28,,KZONT,34.2
+2020,Percent,Ontustik Kazakhstan,,29-34,,KZONT,36.2
+2020,Percent,Ontustik Kazakhstan,,35-44,,KZONT,40.9
+2020,Percent,Ontustik Kazakhstan,,45-54,,KZONT,46.7
+2020,Percent,Ontustik Kazakhstan,,55-64,,KZONT,36.0
+2020,Percent,Ontustik Kazakhstan,,65 and older,,KZONT,20.9
+2020,Percent,Turkistan,,,,KZYUZ,35.5
+2020,Percent,Turkistan,,16-24,,KZYUZ,45.6
+2020,Percent,Turkistan,,25-28,,KZYUZ,26.9
+2020,Percent,Turkistan,,29-34,,KZYUZ,36.3
+2020,Percent,Turkistan,,35-44,,KZYUZ,31.6
+2020,Percent,Turkistan,,45-54,,KZYUZ,44.8
+2020,Percent,Turkistan,,55-64,,KZYUZ,20.5
+2020,Percent,Shygys Kazakhstan,,,,KZVOS,46.0
+2020,Percent,Shygys Kazakhstan,,16-24,,KZVOS,44.1
+2020,Percent,Shygys Kazakhstan,,25-28,,KZVOS,40.7
+2020,Percent,Shygys Kazakhstan,,29-34,,KZVOS,42.5
+2020,Percent,Shygys Kazakhstan,,35-44,,KZVOS,45.6
+2020,Percent,Shygys Kazakhstan,,45-54,,KZVOS,53.3
+2020,Percent,Shygys Kazakhstan,,55-64,,KZVOS,46.4
+2020,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,36.5
+2020,Percent,Nur-Sultan city,,,,KZNS,40.9
+2020,Percent,Nur-Sultan city,,16-24,,KZNS,39.8
+2020,Percent,Nur-Sultan city,,25-28,,KZNS,58.6
+2020,Percent,Nur-Sultan city,,29-34,,KZNS,27.4
+2020,Percent,Nur-Sultan city,,35-44,,KZNS,40.9
+2020,Percent,Nur-Sultan city,,45-54,,KZNS,42.8
+2020,Percent,Nur-Sultan city,,55-64,,KZNS,33.8
+2020,Percent,Nur-Sultan city,,65 and older,,KZNS,77.1
+2020,Percent,Almaty city,,,,KZALA,46.1
+2020,Percent,Almaty city,,16-24,,KZALA,46.6
+2020,Percent,Almaty city,,25-28,,KZALA,40.9
+2020,Percent,Almaty city,,29-34,,KZALA,41.5
+2020,Percent,Almaty city,,35-44,,KZALA,47.3
+2020,Percent,Almaty city,,45-54,,KZALA,43.3
+2020,Percent,Almaty city,,55-64,,KZALA,59.6
+2020,Percent,Almaty city,,65 and older,,KZALA,73.6
+2020,Percent,Shymkent city,,,,KZSHY,36.3
+2020,Percent,Shymkent city,,16-24,,KZSHY,25.3
+2020,Percent,Shymkent city,,25-28,,KZSHY,42.9
+2020,Percent,Shymkent city,,29-34,,KZSHY,30.0
+2020,Percent,Shymkent city,,35-44,,KZSHY,40.4
+2020,Percent,Shymkent city,,45-54,,KZSHY,47.1
+2020,Percent,Shymkent city,,55-64,,KZSHY,26.8

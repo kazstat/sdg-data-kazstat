@@ -11304,6 +11304,16 @@
             "title": "Возраст"
           },
           {
+            "name": "Unnamed: 6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 6"
+          },
+          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"

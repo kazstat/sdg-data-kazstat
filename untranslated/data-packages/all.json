@@ -10301,6 +10301,15 @@
             }
           },
           {
+            "name": "Unnamed: 6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "GeoCode",
             "type": "string"
           },
