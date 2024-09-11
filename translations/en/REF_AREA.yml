@@ -28,7 +28,7 @@ KZKUS: Kostanay
 KZKZL: city Kyzylorda
 KZKZY: Kyzylorda
 KZMAN: Mangistau
-KZNS: Nur-Sultan city
+KZNS: Astana city
 KZONT: Ontustik Kazakhstan
 KZPAV: Pavlodar
 KZPVL: city Pavlodar
@@ -37,7 +37,7 @@ KZRDN: city Rudny
 KZSEM: city Semey
 KZSEV: Soltustik Kazakhstan
 KZSHB: SHBKZ
-KZSHU: city Shu
+KZSHU: Shu city
 KZSHY: Shymkent city
 KZSRB: village Sarıbulak
 KZSRN: city Saran
@@ -59,4 +59,7 @@ KZZHO: city Zhanaozen
 KZZHR: city Zhitikara
 KZZHT: city Zhanatas
 KZZRV: city Zyryanovsk
+KZABY: Abai
+KZZHS: Zhetisu
+KZULU: Ulytau
 REF_AREA: Regions
