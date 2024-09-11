@@ -14,7 +14,7 @@ Year,Regions,GeoCode,Value
 2010,Pavlodar,KZPAV,169.0
 2010,Soltustik Kazakhstan,KZSEV,123.0
 2010,Shygys Kazakhstan,KZVOS,525.0
-2010,Nur-Sultan city,KZNS,1647.0
+2010,Astana city,KZNS,1647.0
 2010,Almaty city,KZALA,3973.0
 2011,,,694.0
 2011,Akmola,KZAKM,679.0
@@ -31,7 +31,7 @@ Year,Regions,GeoCode,Value
 2011,Pavlodar,KZPAV,260.0
 2011,Soltustik Kazakhstan,KZSEV,85.0
 2011,Shygys Kazakhstan,KZVOS,521.0
-2011,Nur-Sultan city,KZNS,1714.0
+2011,Astana city,KZNS,1714.0
 2011,Almaty city,KZALA,4031.0
 2012,,,611.0
 2012,Akmola,KZAKM,722.0
@@ -48,7 +48,7 @@ Year,Regions,GeoCode,Value
 2012,Pavlodar,KZPAV,231.0
 2012,Soltustik Kazakhstan,KZSEV,206.0
 2012,Shygys Kazakhstan,KZVOS,489.0
-2012,Nur-Sultan city,KZNS,3111.0
+2012,Astana city,KZNS,3111.0
 2012,Almaty city,KZALA,2472.0
 2013,,,737.0
 2013,Akmola,KZAKM,698.0
@@ -65,7 +65,7 @@ Year,Regions,GeoCode,Value
 2013,Pavlodar,KZPAV,439.0
 2013,Soltustik Kazakhstan,KZSEV,226.0
 2013,Shygys Kazakhstan,KZVOS,604.0
-2013,Nur-Sultan city,KZNS,2044.0
+2013,Astana city,KZNS,2044.0
 2013,Almaty city,KZALA,3703.0
 2014,,,799.0
 2014,Akmola,KZAKM,462.0
@@ -82,7 +82,7 @@ Year,Regions,GeoCode,Value
 2014,Pavlodar,KZPAV,388.0
 2014,Soltustik Kazakhstan,KZSEV,214.0
 2014,Shygys Kazakhstan,KZVOS,560.0
-2014,Nur-Sultan city,KZNS,2557.0
+2014,Astana city,KZNS,2557.0
 2014,Almaty city,KZALA,4556.0
 2015,,,778.0
 2015,Akmola,KZAKM,522.0
@@ -99,7 +99,7 @@ Year,Regions,GeoCode,Value
 2015,Pavlodar,KZPAV,337.0
 2015,Soltustik Kazakhstan,KZSEV,158.0
 2015,Shygys Kazakhstan,KZVOS,612.0
-2015,Nur-Sultan city,KZNS,2475.0
+2015,Astana city,KZNS,2475.0
 2015,Almaty city,KZALA,3823.0
 2016,,,695.0
 2016,Akmola,KZAKM,514.0
@@ -116,7 +116,7 @@ Year,Regions,GeoCode,Value
 2016,Pavlodar,KZPAV,421.0
 2016,Soltustik Kazakhstan,KZSEV,116.0
 2016,Shygys Kazakhstan,KZVOS,604.0
-2016,Nur-Sultan city,KZNS,2191.0
+2016,Astana city,KZNS,2191.0
 2016,Almaty city,KZALA,3275.0
 2017,,,668.0
 2017,Akmola,KZAKM,562.0
@@ -133,7 +133,7 @@ Year,Regions,GeoCode,Value
 2017,Pavlodar,KZPAV,337.0
 2017,Soltustik Kazakhstan,KZSEV,76.0
 2017,Shygys Kazakhstan,KZVOS,604.0
-2017,Nur-Sultan city,KZNS,2007.0
+2017,Astana city,KZNS,2007.0
 2017,Almaty city,KZALA,3099.0
 2018,,,668.0
 2018,Akmola,KZAKM,507.0
@@ -150,7 +150,7 @@ Year,Regions,GeoCode,Value
 2018,Soltustik Kazakhstan,KZSEV,70.0
 2018,Turkistan,KZYUZ,42.0
 2018,Shygys Kazakhstan,KZVOS,642.0
-2018,Nur-Sultan city,KZNS,1777.0
+2018,Astana city,KZNS,1777.0
 2018,Almaty city,KZALA,3235.0
 2018,Shymkent city,KZSHY,229.0
 2019,,,638.0
@@ -168,7 +168,7 @@ Year,Regions,GeoCode,Value
 2019,Soltustik Kazakhstan,KZSEV,71.0
 2019,Turkistan,KZYUZ,38.0
 2019,Shygys Kazakhstan,KZVOS,581.0
-2019,Nur-Sultan city,KZNS,1688.0
+2019,Astana city,KZNS,1688.0
 2019,Almaty city,KZALA,2843.0
 2019,Shymkent city,KZSHY,236.0
 2020,,,690.0
@@ -186,6 +186,6 @@ Year,Regions,GeoCode,Value
 2020,Soltustik Kazakhstan,KZSEV,101.0
 2020,Turkistan,KZYUZ,51.0
 2020,Shygys Kazakhstan,KZVOS,560.0
-2020,Nur-Sultan city,KZNS,2005.0
+2020,Astana city,KZNS,2005.0
 2020,Almaty city,KZALA,3082.0
 2020,Shymkent city,KZSHY,229.0

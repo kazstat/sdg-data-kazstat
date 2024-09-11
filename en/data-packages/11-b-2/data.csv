@@ -13,7 +13,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2016,Percent,Pavlodar,KZPAV,100.0
 2016,Percent,Soltustik Kazakhstan,KZSEV,100.0
 2016,Percent,Shygys Kazakhstan,KZVOS,100.0
-2016,Percent,Nur-Sultan city,KZNS,100.0
+2016,Percent,Astana city,KZNS,100.0
 2016,Percent,Almaty city,KZALA,100.0
 2017,Percent,Akmola,KZAKM,100.0
 2017,Percent,Aktobe,KZAKT,100.0
@@ -29,7 +29,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2017,Percent,Pavlodar,KZPAV,100.0
 2017,Percent,Soltustik Kazakhstan,KZSEV,100.0
 2017,Percent,Shygys Kazakhstan,KZVOS,100.0
-2017,Percent,Nur-Sultan city,KZNS,100.0
+2017,Percent,Astana city,KZNS,100.0
 2017,Percent,Almaty city,KZALA,100.0
 2018,Percent,Akmola,KZAKM,100.0
 2018,Percent,Aktobe,KZAKT,100.0
@@ -45,7 +45,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2018,Percent,Soltustik Kazakhstan,KZSEV,100.0
 2018,Percent,Turkistan,KZYUZ,100.0
 2018,Percent,Shygys Kazakhstan,KZVOS,100.0
-2018,Percent,Nur-Sultan city,KZNS,100.0
+2018,Percent,Astana city,KZNS,100.0
 2018,Percent,Almaty city,KZALA,100.0
 2018,Percent,Shymkent city,KZSHY,100.0
 2019,Percent,Akmola,KZAKM,100.0
@@ -62,7 +62,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2019,Percent,Soltustik Kazakhstan,KZSEV,100.0
 2019,Percent,Turkistan,KZYUZ,100.0
 2019,Percent,Shygys Kazakhstan,KZVOS,100.0
-2019,Percent,Nur-Sultan city,KZNS,100.0
+2019,Percent,Astana city,KZNS,100.0
 2019,Percent,Almaty city,KZALA,100.0
 2019,Percent,Shymkent city,KZSHY,100.0
 2020,Percent,Akmola,KZAKM,100.0
@@ -79,7 +79,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2020,Percent,Soltustik Kazakhstan,KZSEV,100.0
 2020,Percent,Turkistan,KZYUZ,100.0
 2020,Percent,Shygys Kazakhstan,KZVOS,100.0
-2020,Percent,Nur-Sultan city,KZNS,100.0
+2020,Percent,Astana city,KZNS,100.0
 2020,Percent,Almaty city,KZALA,100.0
 2020,Percent,Shymkent city,KZSHY,100.0
 2021,Percent,Akmola,KZAKM,100.0
@@ -96,6 +96,6 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2021,Percent,Soltustik Kazakhstan,KZSEV,100.0
 2021,Percent,Turkistan,KZYUZ,99.8
 2021,Percent,Shygys Kazakhstan,KZVOS,100.0
-2021,Percent,Nur-Sultan city,KZNS,100.0
+2021,Percent,Astana city,KZNS,100.0
 2021,Percent,Almaty city,KZALA,99.3
 2021,Percent,Shymkent city,KZSHY,100.0

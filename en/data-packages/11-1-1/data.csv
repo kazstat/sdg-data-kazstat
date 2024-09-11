@@ -13,7 +13,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2010,persons,Pavlodar,KZPAV,1040.0
 2010,persons,Soltustik Kazakhstan,KZSEV,497.0
 2010,persons,Shygys Kazakhstan,KZVOS,25021.0
-2010,persons,Nur-Sultan city,KZNS,3.0
+2010,persons,Astana city,KZNS,3.0
 2010,persons,Almaty city,KZALA,16347.0
 2011,persons,,,134568.0
 2011,persons,Akmola,KZAKM,1192.0
@@ -30,7 +30,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2011,persons,Pavlodar,KZPAV,857.0
 2011,persons,Soltustik Kazakhstan,KZSEV,3381.0
 2011,persons,Shygys Kazakhstan,KZVOS,25250.0
-2011,persons,Nur-Sultan city,KZNS,6545.0
+2011,persons,Astana city,KZNS,6545.0
 2011,persons,Almaty city,KZALA,40743.0
 2012,persons,,,114150.0
 2012,persons,Akmola,KZAKM,786.0
@@ -47,7 +47,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2012,persons,Pavlodar,KZPAV,826.0
 2012,persons,Soltustik Kazakhstan,KZSEV,3586.0
 2012,persons,Shygys Kazakhstan,KZVOS,16438.0
-2012,persons,Nur-Sultan city,KZNS,6791.0
+2012,persons,Astana city,KZNS,6791.0
 2012,persons,Almaty city,KZALA,42926.0
 2013,persons,,,111466.0
 2013,persons,Akmola,KZAKM,581.0
@@ -64,7 +64,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2013,persons,Pavlodar,KZPAV,810.0
 2013,persons,Soltustik Kazakhstan,KZSEV,3915.0
 2013,persons,Shygys Kazakhstan,KZVOS,13382.0
-2013,persons,Nur-Sultan city,KZNS,6918.0
+2013,persons,Astana city,KZNS,6918.0
 2013,persons,Almaty city,KZALA,44195.0
 2014,persons,,,120609.0
 2014,persons,Akmola,KZAKM,595.0
@@ -81,7 +81,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2014,persons,Pavlodar,KZPAV,802.0
 2014,persons,Soltustik Kazakhstan,KZSEV,3946.0
 2014,persons,Shygys Kazakhstan,KZVOS,13508.0
-2014,persons,Nur-Sultan city,KZNS,9393.0
+2014,persons,Astana city,KZNS,9393.0
 2014,persons,Almaty city,KZALA,49284.0
 2015,persons,,,108673.0
 2015,persons,Akmola,KZAKM,1586.0
@@ -98,7 +98,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2015,persons,Pavlodar,KZPAV,784.0
 2015,persons,Soltustik Kazakhstan,KZSEV,1239.0
 2015,persons,Shygys Kazakhstan,KZVOS,6051.0
-2015,persons,Nur-Sultan city,KZNS,7881.0
+2015,persons,Astana city,KZNS,7881.0
 2015,persons,Almaty city,KZALA,50246.0
 2016,persons,,,77947.0
 2016,persons,Akmola,KZAKM,371.0
@@ -115,7 +115,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2016,persons,Pavlodar,KZPAV,775.0
 2016,persons,Soltustik Kazakhstan,KZSEV,1347.0
 2016,persons,Shygys Kazakhstan,KZVOS,2265.0
-2016,persons,Nur-Sultan city,KZNS,9686.0
+2016,persons,Astana city,KZNS,9686.0
 2016,persons,Almaty city,KZALA,49914.0
 2017,persons,,,68392.0
 2017,persons,Akmola,KZAKM,389.0
@@ -132,7 +132,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2017,persons,Pavlodar,KZPAV,844.0
 2017,persons,Soltustik Kazakhstan,KZSEV,1379.0
 2017,persons,Shygys Kazakhstan,KZVOS,2320.0
-2017,persons,Nur-Sultan city,KZNS,4513.0
+2017,persons,Astana city,KZNS,4513.0
 2017,persons,Almaty city,KZALA,48834.0
 2018,persons,,,69510.0
 2018,persons,Akmola,KZAKM,417.0
@@ -148,7 +148,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2018,persons,Soltustik Kazakhstan,KZSEV,1209.0
 2018,persons,Turkistan,KZYUZ,326.0
 2018,persons,Shygys Kazakhstan,KZVOS,2246.0
-2018,persons,Nur-Sultan city,KZNS,5324.0
+2018,persons,Astana city,KZNS,5324.0
 2018,persons,Almaty city,KZALA,48779.0
 2018,persons,Shymkent city,KZSHY,123.0
 2019,persons,,,69389.0
@@ -165,7 +165,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2019,persons,Soltustik Kazakhstan,KZSEV,1383.0
 2019,persons,Turkistan,KZYUZ,303.0
 2019,persons,Shygys Kazakhstan,KZVOS,2114.0
-2019,persons,Nur-Sultan city,KZNS,5278.0
+2019,persons,Astana city,KZNS,5278.0
 2019,persons,Almaty city,KZALA,49589.0
 2019,persons,Shymkent city,KZSHY,124.0
 2020,persons,,,24441.0
@@ -183,7 +183,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2020,persons,Soltustik Kazakhstan,KZSEV,991.0
 2020,persons,Turkistan,KZYUZ,557.0
 2020,persons,Shygys Kazakhstan,KZVOS,2060.0
-2020,persons,Nur-Sultan city,KZNS,5723.0
+2020,persons,Astana city,KZNS,5723.0
 2020,persons,Almaty city,KZALA,17.0
 2020,persons,Shymkent city,KZSHY,1315.0
 2021,persons,,,25343.0
@@ -201,6 +201,6 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2021,persons,Soltustik Kazakhstan,KZSEV,678.0
 2021,persons,Turkistan,KZYUZ,259.0
 2021,persons,Shygys Kazakhstan,KZVOS,2134.0
-2021,persons,Nur-Sultan city,KZNS,4424.0
+2021,persons,Astana city,KZNS,4424.0
 2021,persons,Almaty city,KZALA,17.0
 2021,persons,Shymkent city,KZSHY,1559.0

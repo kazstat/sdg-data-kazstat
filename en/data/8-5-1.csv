@@ -18,7 +18,7 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2018,Percent,,Pavlodar,,,KZPAV,774.0
 2018,Percent,,Soltustik Kazakhstan,,,KZSEV,636.0
 2018,Percent,,Shygys Kazakhstan,,,KZVOS,741.0
-2018,Percent,,Nur-Sultan city,,,KZNS,1422.0
+2018,Percent,,Astana city,,,KZNS,1422.0
 2018,Percent,,Almaty city,,,KZALA,1335.0
 2018,Percent,,,Male,,,1122.0
 2018,Percent,,Akmola,Male,,KZAKM,792.0
@@ -35,7 +35,7 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2018,Percent,,Pavlodar,Male,,KZPAV,873.0
 2018,Percent,,Soltustik Kazakhstan,Male,,KZSEV,682.0
 2018,Percent,,Shygys Kazakhstan,Male,,KZVOS,828.0
-2018,Percent,,Nur-Sultan city,Male,,KZNS,1637.0
+2018,Percent,,Astana city,Male,,KZNS,1637.0
 2018,Percent,,Almaty city,Male,,KZALA,1438.0
 2018,Percent,,,Female,,,785.0
 2018,Percent,,Akmola,Female,,KZAKM,602.0
@@ -52,7 +52,7 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2018,Percent,,Pavlodar,Female,,KZPAV,667.0
 2018,Percent,,Soltustik Kazakhstan,Female,,KZSEV,590.0
 2018,Percent,,Shygys Kazakhstan,Female,,KZVOS,644.0
-2018,Percent,,Nur-Sultan city,Female,,KZNS,1179.0
+2018,Percent,,Astana city,Female,,KZNS,1179.0
 2018,Percent,,Almaty city,Female,,KZALA,1217.0
 2018,Percent,,,,16-24,,577.0
 2018,Percent,,,,25-28,,764.0
@@ -159,13 +159,13 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2018,Percent,,Shygys Kazakhstan,,45-54,KZVOS,757.0
 2018,Percent,,Shygys Kazakhstan,,55-64,KZVOS,714.0
 2018,Percent,,Shygys Kazakhstan,,65 and older,KZVOS,890.0
-2018,Percent,,Nur-Sultan city,,16-24,KZNS,724.0
-2018,Percent,,Nur-Sultan city,,25-28,KZNS,1019.0
-2018,Percent,,Nur-Sultan city,,29-34,KZNS,1403.0
-2018,Percent,,Nur-Sultan city,,35-44,KZNS,1654.0
-2018,Percent,,Nur-Sultan city,,45-54,KZNS,1561.0
-2018,Percent,,Nur-Sultan city,,55-64,KZNS,1461.0
-2018,Percent,,Nur-Sultan city,,65 and older,KZNS,1444.0
+2018,Percent,,Astana city,,16-24,KZNS,724.0
+2018,Percent,,Astana city,,25-28,KZNS,1019.0
+2018,Percent,,Astana city,,29-34,KZNS,1403.0
+2018,Percent,,Astana city,,35-44,KZNS,1654.0
+2018,Percent,,Astana city,,45-54,KZNS,1561.0
+2018,Percent,,Astana city,,55-64,KZNS,1461.0
+2018,Percent,,Astana city,,65 and older,KZNS,1444.0
 2018,Percent,,Almaty city,,16-24,KZALA,729.0
 2018,Percent,,Almaty city,,25-28,KZALA,1021.0
 2018,Percent,,Almaty city,,29-34,KZALA,1380.0
@@ -253,7 +253,7 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2019,Percent,,Soltustik Kazakhstan,,,KZSEV,689.0
 2019,Percent,,Turkistan,,,KZYUZ,644.0
 2019,Percent,,Shygys Kazakhstan,,,KZVOS,872.0
-2019,Percent,,Nur-Sultan city,,,KZNS,1436.0
+2019,Percent,,Astana city,,,KZNS,1436.0
 2019,Percent,,Almaty city,,,KZALA,1405.0
 2019,Percent,,Shymkent city,,,KZSHY,699.0
 2019,Percent,,,Male,,,1229.0
@@ -271,7 +271,7 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2019,Percent,,Soltustik Kazakhstan,Male,,KZSEV,745.0
 2019,Percent,,Turkistan,Male,,KZYUZ,726.0
 2019,Percent,,Shygys Kazakhstan,Male,,KZVOS,956.0
-2019,Percent,,Nur-Sultan city,Male,,KZNS,1672.0
+2019,Percent,,Astana city,Male,,KZNS,1672.0
 2019,Percent,,Almaty city,Male,,KZALA,1588.0
 2019,Percent,,Shymkent city,Male,,KZSHY,761.0
 2019,Percent,,,Female,,,842.0
@@ -289,7 +289,7 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2019,Percent,,Soltustik Kazakhstan,Female,,KZSEV,633.0
 2019,Percent,,Turkistan,Female,,KZYUZ,585.0
 2019,Percent,,Shygys Kazakhstan,Female,,KZVOS,774.0
-2019,Percent,,Nur-Sultan city,Female,,KZNS,1190.0
+2019,Percent,,Astana city,Female,,KZNS,1190.0
 2019,Percent,,Almaty city,Female,,KZALA,1222.0
 2019,Percent,,Shymkent city,Female,,KZSHY,630.0
 2019,Percent,,,,16-24,,671.0
@@ -397,13 +397,13 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2019,Percent,,Shygys Kazakhstan,,45-54,KZVOS,905.0
 2019,Percent,,Shygys Kazakhstan,,55-64,KZVOS,809.0
 2019,Percent,,Shygys Kazakhstan,,65 and older,KZVOS,1014.0
-2019,Percent,,Nur-Sultan city,,16-24,KZNS,764.0
-2019,Percent,,Nur-Sultan city,,25-28,KZNS,1056.0
-2019,Percent,,Nur-Sultan city,,29-34,KZNS,1391.0
-2019,Percent,,Nur-Sultan city,,35-44,KZNS,1738.0
-2019,Percent,,Nur-Sultan city,,45-54,KZNS,1532.0
-2019,Percent,,Nur-Sultan city,,55-64,KZNS,1423.0
-2019,Percent,,Nur-Sultan city,,65 and older,KZNS,1471.0
+2019,Percent,,Astana city,,16-24,KZNS,764.0
+2019,Percent,,Astana city,,25-28,KZNS,1056.0
+2019,Percent,,Astana city,,29-34,KZNS,1391.0
+2019,Percent,,Astana city,,35-44,KZNS,1738.0
+2019,Percent,,Astana city,,45-54,KZNS,1532.0
+2019,Percent,,Astana city,,55-64,KZNS,1423.0
+2019,Percent,,Astana city,,65 and older,KZNS,1471.0
 2019,Percent,,Almaty city,,16-24,KZALA,778.0
 2019,Percent,,Almaty city,,25-28,KZALA,1076.0
 2019,Percent,,Almaty city,,29-34,KZALA,1411.0
@@ -498,7 +498,7 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2020,Percent,,Soltustik Kazakhstan,,,KZSEV,851.0
 2020,Percent,,Turkistan,,,KZYUZ,858.0
 2020,Percent,,Shygys Kazakhstan,,,KZVOS,1082.0
-2020,Percent,,Nur-Sultan city,,,KZNS,1633.0
+2020,Percent,,Astana city,,,KZNS,1633.0
 2020,Percent,,Almaty city,,,KZALA,1461.0
 2020,Percent,,Shymkent city,,,KZSHY,970.0
 2020,Percent,,,Male,,,1339.0
@@ -516,7 +516,7 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2020,Percent,,Soltustik Kazakhstan,Male,,KZSEV,896.0
 2020,Percent,,Turkistan,Male,,KZYUZ,913.0
 2020,Percent,,Shygys Kazakhstan,Male,,KZVOS,1171.0
-2020,Percent,,Nur-Sultan city,Male,,KZNS,1817.0
+2020,Percent,,Astana city,Male,,KZNS,1817.0
 2020,Percent,,Almaty city,Male,,KZALA,1577.0
 2020,Percent,,Shymkent city,Male,,KZSHY,1012.0
 2020,Percent,,,Female,,,1037.0
@@ -534,7 +534,7 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2020,Percent,,Soltustik Kazakhstan,Female,,KZSEV,807.0
 2020,Percent,,Turkistan,Female,,KZYUZ,821.0
 2020,Percent,,Shygys Kazakhstan,Female,,KZVOS,981.0
-2020,Percent,,Nur-Sultan city,Female,,KZNS,1454.0
+2020,Percent,,Astana city,Female,,KZNS,1454.0
 2020,Percent,,Almaty city,Female,,KZALA,1352.0
 2020,Percent,,Shymkent city,Female,,KZSHY,938.0
 2020,Percent,,,,16-24,,800.0
@@ -642,13 +642,13 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2020,Percent,,Shygys Kazakhstan,,45-54,KZVOS,1107.0
 2020,Percent,,Shygys Kazakhstan,,55-64,KZVOS,997.0
 2020,Percent,,Shygys Kazakhstan,,65 and older,KZVOS,1188.0
-2020,Percent,,Nur-Sultan city,,16-24,KZNS,915.0
-2020,Percent,,Nur-Sultan city,,25-28,KZNS,1290.0
-2020,Percent,,Nur-Sultan city,,29-34,KZNS,1617.0
-2020,Percent,,Nur-Sultan city,,35-44,KZNS,1892.0
-2020,Percent,,Nur-Sultan city,,45-54,KZNS,1741.0
-2020,Percent,,Nur-Sultan city,,55-64,KZNS,1625.0
-2020,Percent,,Nur-Sultan city,,65 and older,KZNS,1646.0
+2020,Percent,,Astana city,,16-24,KZNS,915.0
+2020,Percent,,Astana city,,25-28,KZNS,1290.0
+2020,Percent,,Astana city,,29-34,KZNS,1617.0
+2020,Percent,,Astana city,,35-44,KZNS,1892.0
+2020,Percent,,Astana city,,45-54,KZNS,1741.0
+2020,Percent,,Astana city,,55-64,KZNS,1625.0
+2020,Percent,,Astana city,,65 and older,KZNS,1646.0
 2020,Percent,,Almaty city,,16-24,KZALA,848.0
 2020,Percent,,Almaty city,,25-28,KZALA,1159.0
 2020,Percent,,Almaty city,,29-34,KZALA,1483.0

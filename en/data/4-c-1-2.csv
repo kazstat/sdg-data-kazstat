@@ -14,7 +14,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2019,Percent,Soltustik Kazakhstan,KZSEV,24.2
 2019,Percent,Turkistan,KZYUZ,19.4
 2019,Percent,Shygys Kazakhstan,KZVOS,22.8
-2019,Percent,Nur-Sultan city,KZNS,26.0
+2019,Percent,Astana city,KZNS,26.0
 2019,Percent,Almaty city,KZALA,19.3
 2019,Percent,Shymkent city,KZSHY,25.9
 2020,Percent,41.0,41.0,
@@ -32,7 +32,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2020,Percent,Soltustik Kazakhstan,KZSEV,41.4
 2020,Percent,Turkistan,KZYUZ,37.6
 2020,Percent,Shygys Kazakhstan,KZVOS,31.8
-2020,Percent,Nur-Sultan city,KZNS,40.8
+2020,Percent,Astana city,KZNS,40.8
 2020,Percent,Almaty city,KZALA,32.0
 2020,Percent,Shymkent city,KZSHY,50.7
 2021,Percent,55.9,55.9,
@@ -50,7 +50,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2021,Percent,Soltustik Kazakhstan,KZSEV,54.0
 2021,Percent,Turkistan,KZYUZ,57.3
 2021,Percent,Shygys Kazakhstan,KZVOS,48.9
-2021,Percent,Nur-Sultan city,KZNS,51.5
+2021,Percent,Astana city,KZNS,51.5
 2021,Percent,Almaty city,KZALA,47.4
 2021,Percent,Shymkent city,KZSHY,63.4
 2022,Percent,60.7,60.7,
@@ -68,6 +68,6 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,Percent,Soltustik Kazakhstan,KZSEV,59.0
 2022,Percent,Turkistan,KZYUZ,64.6
 2022,Percent,Shygys Kazakhstan,KZVOS,58.7
-2022,Percent,Nur-Sultan city,KZNS,57.5
+2022,Percent,Astana city,KZNS,57.5
 2022,Percent,Almaty city,KZALA,54.7
 2022,Percent,Shymkent city,KZSHY,66.1

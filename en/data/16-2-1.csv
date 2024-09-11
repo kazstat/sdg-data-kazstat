@@ -21,7 +21,7 @@ Year,UNIT_MEASURE,Area,Sex,Age,Regions,GeoCode,Value
 2010,Percent,,,,Pavlodar,KZPAV,54.3
 2010,Percent,,,,Soltustik Kazakhstan,KZSEV,59.9
 2010,Percent,,,,Shygys Kazakhstan,KZVOS,42.7
-2010,Percent,,,,Nur-Sultan city,KZNS,38.6
+2010,Percent,,,,Astana city,KZNS,38.6
 2010,Percent,,,,Almaty city,KZALA,27.3
 2015,Percent,,,,,,52.7
 2015,Percent,urban,,,,,51.7
@@ -46,5 +46,5 @@ Year,UNIT_MEASURE,Area,Sex,Age,Regions,GeoCode,Value
 2015,Percent,,,,Pavlodar,KZPAV,60.1
 2015,Percent,,,,Soltustik Kazakhstan,KZSEV,41.1
 2015,Percent,,,,Shygys Kazakhstan,KZVOS,47.1
-2015,Percent,,,,Nur-Sultan city,KZNS,64.2
+2015,Percent,,,,Astana city,KZNS,64.2
 2015,Percent,,,,Almaty city,KZALA,38.4

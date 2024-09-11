@@ -18,7 +18,7 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,GeoCode,Value
 2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Pavlodar,KZPAV,8.9
 2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Soltustik Kazakhstan,KZSEV,10.6
 2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Shygys Kazakhstan,KZVOS,16.6
-2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Nur-Sultan city,KZNS,19.7
+2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Astana city,KZNS,19.7
 2010,Percent,Rate of deviation from the norm (moderate and strong),,,,Almaty city,KZALA,17.1
 2010,Percent,Rate of deviation from the norm (moderate and strong),M0T5,,,,,10.7
 2010,Percent,Rate of deviation from the norm (moderate and strong),M6T11,,,,,13.8
@@ -45,7 +45,7 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,GeoCode,Value
 2010,Percent,Strong deviation from the norm,,,,Pavlodar,KZPAV,2.5
 2010,Percent,Strong deviation from the norm,,,,Soltustik Kazakhstan,KZSEV,2.3
 2010,Percent,Strong deviation from the norm,,,,Shygys Kazakhstan,KZVOS,7.2
-2010,Percent,Strong deviation from the norm,,,,Nur-Sultan city,KZNS,10.1
+2010,Percent,Strong deviation from the norm,,,,Astana city,KZNS,10.1
 2010,Percent,Strong deviation from the norm,,,,Almaty city,KZALA,7.1
 2010,Percent,Strong deviation from the norm,M0T5,,,,,3.7
 2010,Percent,Strong deviation from the norm,M6T11,,,,,6.6
@@ -72,7 +72,7 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,GeoCode,Value
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Pavlodar,KZPAV,5.5
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Soltustik Kazakhstan,KZSEV,2.3
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Shygys Kazakhstan,KZVOS,7.2
-2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Nur-Sultan city,KZNS,7.1
+2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Astana city,KZNS,7.1
 2015,Percent,Rate of deviation from the norm (moderate and strong),,,,Almaty city,KZALA,6.3
 2015,Percent,Rate of deviation from the norm (moderate and strong),M0T5,,,,,5.0
 2015,Percent,Rate of deviation from the norm (moderate and strong),M6T11,,,,,5.8
@@ -100,7 +100,7 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,GeoCode,Value
 2015,Percent,Strong deviation from the norm,,,,Pavlodar,KZPAV,1.6
 2015,Percent,Strong deviation from the norm,,,,Soltustik Kazakhstan,KZSEV,0.0
 2015,Percent,Strong deviation from the norm,,,,Shygys Kazakhstan,KZVOS,2.2
-2015,Percent,Strong deviation from the norm,,,,Nur-Sultan city,KZNS,3.5
+2015,Percent,Strong deviation from the norm,,,,Astana city,KZNS,3.5
 2015,Percent,Strong deviation from the norm,,,,Almaty city,KZALA,2.7
 2015,Percent,Strong deviation from the norm,M0T5,,,,,1.9
 2015,Percent,Strong deviation from the norm,M6T11,,,,,1.6

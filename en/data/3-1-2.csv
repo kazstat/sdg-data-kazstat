@@ -14,7 +14,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2010,Percent,,Pavlodar,KZPAV,99.6
 2010,Percent,,Soltustik Kazakhstan,KZSEV,99.5
 2010,Percent,,Shygys Kazakhstan,KZVOS,99.2
-2010,Percent,,Nur-Sultan city,KZNS,99.3
+2010,Percent,,Astana city,KZNS,99.3
 2010,Percent,,Almaty city,KZALA,99.7
 2010,Percent,urban,,,99.8
 2010,Percent,urban,Akmola,KZAKM,100.0
@@ -31,7 +31,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2010,Percent,urban,Pavlodar,KZPAV,99.9
 2010,Percent,urban,Soltustik Kazakhstan,KZSEV,99.8
 2010,Percent,urban,Shygys Kazakhstan,KZVOS,99.8
-2010,Percent,urban,Nur-Sultan city,KZNS,99.7
+2010,Percent,urban,Astana city,KZNS,99.7
 2010,Percent,urban,Almaty city,KZALA,100.0
 2010,Percent,rural,,,99.7
 2010,Percent,rural,Akmola,KZAKM,99.9
@@ -63,7 +63,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2011,Percent,,Pavlodar,KZPAV,99.8
 2011,Percent,,Soltustik Kazakhstan,KZSEV,99.9
 2011,Percent,,Shygys Kazakhstan,KZVOS,99.8
-2011,Percent,,Nur-Sultan city,KZNS,99.6
+2011,Percent,,Astana city,KZNS,99.6
 2011,Percent,,Almaty city,KZALA,99.9
 2011,Percent,urban,,,99.9
 2011,Percent,urban,Akmola,KZAKM,100.0
@@ -80,7 +80,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2011,Percent,urban,Pavlodar,KZPAV,99.8
 2011,Percent,urban,Soltustik Kazakhstan,KZSEV,100.0
 2011,Percent,urban,Shygys Kazakhstan,KZVOS,100.0
-2011,Percent,urban,Nur-Sultan city,KZNS,99.6
+2011,Percent,urban,Astana city,KZNS,99.6
 2011,Percent,urban,Almaty city,KZALA,99.9
 2011,Percent,rural,,,99.8
 2011,Percent,rural,Akmola,KZAKM,99.9
@@ -112,7 +112,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2012,Percent,,Pavlodar,KZPAV,99.8
 2012,Percent,,Soltustik Kazakhstan,KZSEV,99.9
 2012,Percent,,Shygys Kazakhstan,KZVOS,99.8
-2012,Percent,,Nur-Sultan city,KZNS,99.6
+2012,Percent,,Astana city,KZNS,99.6
 2012,Percent,,Almaty city,KZALA,99.8
 2012,Percent,urban,,,99.9
 2012,Percent,urban,Akmola,KZAKM,100.0
@@ -129,7 +129,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2012,Percent,urban,Pavlodar,KZPAV,99.9
 2012,Percent,urban,Soltustik Kazakhstan,KZSEV,99.9
 2012,Percent,urban,Shygys Kazakhstan,KZVOS,99.8
-2012,Percent,urban,Nur-Sultan city,KZNS,99.6
+2012,Percent,urban,Astana city,KZNS,99.6
 2012,Percent,rural,,,99.5
 2012,Percent,rural,Akmola,KZAKM,99.9
 2012,Percent,rural,Aktobe,KZAKT,99.9
@@ -160,7 +160,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2013,Percent,,Pavlodar,KZPAV,99.9
 2013,Percent,,Soltustik Kazakhstan,KZSEV,99.9
 2013,Percent,,Shygys Kazakhstan,KZVOS,99.8
-2013,Percent,,Nur-Sultan city,KZNS,99.5
+2013,Percent,,Astana city,KZNS,99.5
 2013,Percent,,Almaty city,KZALA,100.0
 2013,Percent,urban,,,99.8
 2013,Percent,urban,Akmola,KZAKM,100.0
@@ -177,7 +177,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2013,Percent,urban,Pavlodar,KZPAV,99.9
 2013,Percent,urban,Soltustik Kazakhstan,KZSEV,100.0
 2013,Percent,urban,Shygys Kazakhstan,KZVOS,99.8
-2013,Percent,urban,Nur-Sultan city,KZNS,99.5
+2013,Percent,urban,Astana city,KZNS,99.5
 2013,Percent,urban,Almaty city,KZALA,100.0
 2013,Percent,rural,,,99.8
 2013,Percent,rural,Akmola,KZAKM,99.9
@@ -209,7 +209,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2014,Percent,,Pavlodar,KZPAV,99.9
 2014,Percent,,Soltustik Kazakhstan,KZSEV,99.7
 2014,Percent,,Shygys Kazakhstan,KZVOS,99.9
-2014,Percent,,Nur-Sultan city,KZNS,99.7
+2014,Percent,,Astana city,KZNS,99.7
 2014,Percent,,Almaty city,KZALA,99.9
 2014,Percent,urban,,,99.8
 2014,Percent,urban,Akmola,KZAKM,99.9
@@ -226,7 +226,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2014,Percent,urban,Pavlodar,KZPAV,99.9
 2014,Percent,urban,Soltustik Kazakhstan,KZSEV,99.8
 2014,Percent,urban,Shygys Kazakhstan,KZVOS,99.9
-2014,Percent,urban,Nur-Sultan city,KZNS,99.7
+2014,Percent,urban,Astana city,KZNS,99.7
 2014,Percent,urban,Almaty city,KZALA,99.9
 2014,Percent,rural,,,99.5
 2014,Percent,rural,Akmola,KZAKM,100.0
@@ -258,7 +258,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2015,Percent,,Pavlodar,KZPAV,99.9
 2015,Percent,,Soltustik Kazakhstan,KZSEV,99.9
 2015,Percent,,Shygys Kazakhstan,KZVOS,99.9
-2015,Percent,,Nur-Sultan city,KZNS,99.7
+2015,Percent,,Astana city,KZNS,99.7
 2015,Percent,,Almaty city,KZALA,100.0
 2015,Percent,urban,,,99.8
 2015,Percent,urban,Akmola,KZAKM,99.9
@@ -275,7 +275,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2015,Percent,urban,Pavlodar,KZPAV,99.9
 2015,Percent,urban,Soltustik Kazakhstan,KZSEV,99.9
 2015,Percent,urban,Shygys Kazakhstan,KZVOS,99.9
-2015,Percent,urban,Nur-Sultan city,KZNS,99.7
+2015,Percent,urban,Astana city,KZNS,99.7
 2015,Percent,urban,Almaty city,KZALA,100.0
 2015,Percent,rural,,,98.2
 2015,Percent,rural,Akmola,KZAKM,100.0
@@ -307,7 +307,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2016,Percent,,Pavlodar,KZPAV,99.7
 2016,Percent,,Soltustik Kazakhstan,KZSEV,99.8
 2016,Percent,,Shygys Kazakhstan,KZVOS,99.9
-2016,Percent,,Nur-Sultan city,KZNS,99.8
+2016,Percent,,Astana city,KZNS,99.8
 2016,Percent,,Almaty city,KZALA,100.0
 2016,Percent,urban,,,99.8
 2016,Percent,urban,Akmola,KZAKM,99.8
@@ -324,7 +324,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2016,Percent,urban,Pavlodar,KZPAV,99.6
 2016,Percent,urban,Soltustik Kazakhstan,KZSEV,99.9
 2016,Percent,urban,Shygys Kazakhstan,KZVOS,99.9
-2016,Percent,urban,Nur-Sultan city,KZNS,100.0
+2016,Percent,urban,Astana city,KZNS,100.0
 2016,Percent,urban,Almaty city,KZALA,100.0
 2016,Percent,rural,,,99.9
 2016,Percent,rural,Akmola,KZAKM,100.0
@@ -356,7 +356,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2017,Percent,,Pavlodar,KZPAV,99.9
 2017,Percent,,Soltustik Kazakhstan,KZSEV,99.8
 2017,Percent,,Shygys Kazakhstan,KZVOS,99.9
-2017,Percent,,Nur-Sultan city,KZNS,99.9
+2017,Percent,,Astana city,KZNS,99.9
 2017,Percent,,Almaty city,KZALA,100.0
 2017,Percent,urban,,,99.9
 2017,Percent,urban,Akmola,KZAKM,99.2
@@ -373,7 +373,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2017,Percent,urban,Pavlodar,KZPAV,99.9
 2017,Percent,urban,Soltustik Kazakhstan,KZSEV,99.8
 2017,Percent,urban,Shygys Kazakhstan,KZVOS,100.0
-2017,Percent,urban,Nur-Sultan city,KZNS,100.0
+2017,Percent,urban,Astana city,KZNS,100.0
 2017,Percent,urban,Almaty city,KZALA,100.0
 2017,Percent,rural,,,99.9
 2017,Percent,rural,Akmola,KZAKM,94.0
@@ -405,7 +405,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2018,Percent,,Soltustik Kazakhstan,KZSEV,99.9
 2018,Percent,,Turkistan,KZYUZ,99.9
 2018,Percent,,Shygys Kazakhstan,KZVOS,100.0
-2018,Percent,,Nur-Sultan city,KZNS,99.9
+2018,Percent,,Astana city,KZNS,99.9
 2018,Percent,,Almaty city,KZALA,100.0
 2018,Percent,,Shymkent city,KZSHY,99.9
 2018,Percent,urban,,,99.902853582859
@@ -423,7 +423,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2018,Percent,urban,Soltustik Kazakhstan,KZSEV,99.74137931034484
 2018,Percent,urban,Turkistan,KZYUZ,99.15737211985596
 2018,Percent,urban,Shygys Kazakhstan,KZVOS,99.8578102782856
-2018,Percent,urban,Nur-Sultan city,KZNS,99.8
+2018,Percent,urban,Astana city,KZNS,99.8
 2018,Percent,urban,Almaty city,KZALA,99.8
 2018,Percent,urban,Shymkent city,KZSHY,99.2
 2018,Percent,rural,,,99.8
@@ -456,7 +456,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2019,Percent,,Soltustik Kazakhstan,KZSEV,99.9
 2019,Percent,,Turkistan,KZYUZ,99.9
 2019,Percent,,Shygys Kazakhstan,KZVOS,100.0
-2019,Percent,,Nur-Sultan city,KZNS,100.0
+2019,Percent,,Astana city,KZNS,100.0
 2019,Percent,,Almaty city,KZALA,100.0
 2019,Percent,,Shymkent city,KZSHY,99.9
 2019,Percent,urban,,,99.902853582859
@@ -474,7 +474,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2019,Percent,urban,Soltustik Kazakhstan,KZSEV,99.8
 2019,Percent,urban,Turkistan,KZYUZ,99.4
 2019,Percent,urban,Shygys Kazakhstan,KZVOS,99.8578102782856
-2019,Percent,urban,Nur-Sultan city,KZNS,99.9
+2019,Percent,urban,Astana city,KZNS,99.9
 2019,Percent,urban,Almaty city,KZALA,99.9
 2019,Percent,urban,Shymkent city,KZSHY,99.3
 2019,Percent,rural,,,99.8

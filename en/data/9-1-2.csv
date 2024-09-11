@@ -20,7 +20,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2010,millions tonnes,,Pavlodar,KZPAV,78.5
 2010,millions tonnes,,Soltustik Kazakhstan,KZSEV,40.1
 2010,millions tonnes,,Shygys Kazakhstan,KZVOS,327.3
-2010,millions tonnes,,Nur-Sultan city,KZNS,66.7
+2010,millions tonnes,,Astana city,KZNS,66.7
 2010,millions tonnes,,Almaty city,KZALA,142.4
 2010,mln.people,Passengers transported by all means of transport,,,13186.5
 2010,mln.people,Railway transport,,,19.6
@@ -42,7 +42,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2010,mln.people,,Pavlodar,KZPAV,798.3
 2010,mln.people,,Soltustik Kazakhstan,KZSEV,365.5
 2010,mln.people,,Shygys Kazakhstan,KZVOS,1272.7
-2010,mln.people,,Nur-Sultan city,KZNS,1408.9
+2010,mln.people,,Astana city,KZNS,1408.9
 2010,mln.people,,Almaty city,KZALA,2595.5
 2010,millions tonnes,_L_KZ_090102_1J,,,1971.8
 2010,millions tonnes,_L_KZ_090102_1J,Akmola,KZAKM,95.8
@@ -59,7 +59,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2010,millions tonnes,_L_KZ_090102_1J,Pavlodar,KZPAV,57.8
 2010,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,KZSEV,40.0
 2010,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,KZVOS,327.1
-2010,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,KZNS,66.7
+2010,millions tonnes,_L_KZ_090102_1J,Astana city,KZNS,66.7
 2010,millions tonnes,_L_KZ_090102_1J,Almaty city,KZALA,142.4
 2010,mln.people,Passengers transported by all means of transport,,,13163.4
 2010,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1057.9
@@ -76,7 +76,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2010,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,798.2
 2010,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,365.5
 2010,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1272.7
-2010,mln.people,Passengers transported by all means of transport,Nur-Sultan city,KZNS,1408.9
+2010,mln.people,Passengers transported by all means of transport,Astana city,KZNS,1408.9
 2010,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,2592.9
 2010,tons,transported by air,,,28869.7
 2010,tons,transported by air,Karagandy,KZKAR,9.2
@@ -89,7 +89,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2010,thousand people,passengers transported by air,Karagandy,KZKAR,18.8
 2010,thousand people,passengers transported by air,Ontustik Kazakhstan,KZONT,668.5
 2010,thousand people,passengers transported by air,Pavlodar,KZPAV,4.0
-2010,thousand people,passengers transported by air,Nur-Sultan city,KZNS,16.1
+2010,thousand people,passengers transported by air,Astana city,KZNS,16.1
 2010,thousand people,passengers transported by air,Almaty city,KZALA,14.8
 2010,thousand people,passengers transported by air,Shymkent city,KZSHY,2623.1
 2010,millions tonnes,performance indicators of pipeline transport,,,194.0
@@ -118,7 +118,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2011,millions tonnes,,Pavlodar,KZPAV,97.0
 2011,millions tonnes,,Soltustik Kazakhstan,KZSEV,46.1
 2011,millions tonnes,,Shygys Kazakhstan,KZVOS,418.2
-2011,millions tonnes,,Nur-Sultan city,KZNS,97.2
+2011,millions tonnes,,Astana city,KZNS,97.2
 2011,millions tonnes,,Almaty city,KZALA,155.6
 2011,mln.people,Passengers transported by all means of transport,,,16647.2
 2011,mln.people,Railway transport,,,20.5
@@ -140,7 +140,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2011,mln.people,,Pavlodar,KZPAV,1044.1
 2011,mln.people,,Soltustik Kazakhstan,KZSEV,453.9
 2011,mln.people,,Shygys Kazakhstan,KZVOS,1419.3
-2011,mln.people,,Nur-Sultan city,KZNS,1647.9
+2011,mln.people,,Astana city,KZNS,1647.9
 2011,mln.people,,Almaty city,KZALA,3190.6
 2011,millions tonnes,_L_KZ_090102_1J,,,2475.5
 2011,millions tonnes,_L_KZ_090102_1J,Akmola,KZAKM,112.4
@@ -157,7 +157,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2011,millions tonnes,_L_KZ_090102_1J,Pavlodar,KZPAV,70.2
 2011,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,KZSEV,46.0
 2011,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,KZVOS,417.9
-2011,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,KZNS,97.2
+2011,millions tonnes,_L_KZ_090102_1J,Astana city,KZNS,97.2
 2011,millions tonnes,_L_KZ_090102_1J,Almaty city,KZALA,155.6
 2011,mln.people,Passengers transported by all means of transport,,,16622.4
 2011,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1385.8
@@ -174,7 +174,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2011,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1044.1
 2011,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,453.9
 2011,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1419.3
-2011,mln.people,Passengers transported by all means of transport,Nur-Sultan city,KZNS,1647.9
+2011,mln.people,Passengers transported by all means of transport,Astana city,KZNS,1647.9
 2011,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,3187.5
 2011,tons,transported by air,,,31554.9
 2011,tons,transported by air,Karagandy,KZKAR,6.6
@@ -188,7 +188,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2011,thousand people,passengers transported by air,Mangistau,KZMAN,23.8
 2011,thousand people,passengers transported by air,Ontustik Kazakhstan,KZONT,900.2
 2011,thousand people,passengers transported by air,Pavlodar,KZPAV,0.8
-2011,thousand people,passengers transported by air,Nur-Sultan city,KZNS,17.2
+2011,thousand people,passengers transported by air,Astana city,KZNS,17.2
 2011,thousand people,passengers transported by air,Almaty city,KZALA,24.2
 2011,thousand people,passengers transported by air,Shymkent city,KZSHY,3124.3
 2011,millions tonnes,performance indicators of pipeline transport,,,214.1
@@ -217,7 +217,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2012,millions tonnes,,Pavlodar,KZPAV,103.0
 2012,millions tonnes,,Soltustik Kazakhstan,KZSEV,46.2
 2012,millions tonnes,,Shygys Kazakhstan,KZVOS,476.9
-2012,millions tonnes,,Nur-Sultan city,KZNS,112.6
+2012,millions tonnes,,Astana city,KZNS,112.6
 2012,millions tonnes,,Almaty city,KZALA,168.3
 2012,mln.people,Passengers transported by all means of transport,,,18484.6
 2012,mln.people,Railway transport,,,24.4
@@ -239,7 +239,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2012,mln.people,,Pavlodar,KZPAV,1166.3
 2012,mln.people,,Soltustik Kazakhstan,KZSEV,470.7
 2012,mln.people,,Shygys Kazakhstan,KZVOS,1459.9
-2012,mln.people,,Nur-Sultan city,KZNS,1750.1
+2012,mln.people,,Astana city,KZNS,1750.1
 2012,mln.people,,Almaty city,KZALA,3802.8
 2012,millions tonnes,_L_KZ_090102_1J,,,2718.4
 2012,millions tonnes,_L_KZ_090102_1J,Akmola,KZAKM,112.6
@@ -256,7 +256,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2012,millions tonnes,_L_KZ_090102_1J,Pavlodar,KZPAV,76.6
 2012,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,KZSEV,46.1
 2012,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,KZVOS,476.6
-2012,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,KZNS,112.6
+2012,millions tonnes,_L_KZ_090102_1J,Astana city,KZNS,112.6
 2012,millions tonnes,_L_KZ_090102_1J,Almaty city,KZALA,168.3
 2012,mln.people,Passengers transported by all means of transport,,,18455.7
 2012,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1482.1
@@ -273,7 +273,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2012,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1166.3
 2012,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,4706.9
 2012,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1459.9
-2012,mln.people,Passengers transported by all means of transport,Nur-Sultan city,KZNS,1750.0
+2012,mln.people,Passengers transported by all means of transport,Astana city,KZNS,1750.0
 2012,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,3799.5
 2012,tons,transported by air,,,21954.2
 2012,tons,transported by air,Batys Kazakhstan,KZZAP,183.0
@@ -286,7 +286,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2012,thousand people,passengers transported by air,Karagandy,KZKAR,59.7
 2012,thousand people,passengers transported by air,Batys Kazakhstan,KZZAP,7.2
 2012,thousand people,passengers transported by air,Ontustik Kazakhstan,KZONT,1095.8
-2012,thousand people,passengers transported by air,Nur-Sultan city,KZNS,5.1
+2012,thousand people,passengers transported by air,Astana city,KZNS,5.1
 2012,thousand people,passengers transported by air,Almaty city,KZALA,5.5
 2012,thousand people,passengers transported by air,Shymkent city,KZSHY,3308.3
 2012,millions tonnes,performance indicators of pipeline transport,,,213.2
@@ -315,7 +315,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2013,millions tonnes,,Pavlodar,KZPAV,116.5
 2013,millions tonnes,,Soltustik Kazakhstan,KZSEV,49.3
 2013,millions tonnes,,Shygys Kazakhstan,KZVOS,553.7
-2013,millions tonnes,,Nur-Sultan city,KZNS,124.1
+2013,millions tonnes,,Astana city,KZNS,124.1
 2013,millions tonnes,,Almaty city,KZALA,194.4
 2013,mln.people,Passengers transported by all means of transport,,,20004.3
 2013,mln.people,Railway transport,,,28.6
@@ -337,7 +337,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2013,mln.people,,Pavlodar,KZPAV,1194.6
 2013,mln.people,,Soltustik Kazakhstan,KZSEV,492.8
 2013,mln.people,,Shygys Kazakhstan,KZVOS,1606.7
-2013,mln.people,,Nur-Sultan city,KZNS,1961.0
+2013,mln.people,,Astana city,KZNS,1961.0
 2013,mln.people,,Almaty city,KZALA,4238.8
 2013,millions tonnes,_L_KZ_090102_1J,,,2983.4
 2013,millions tonnes,_L_KZ_090102_1J,Akmola,KZAKM,121.5
@@ -354,7 +354,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2013,millions tonnes,_L_KZ_090102_1J,Pavlodar,KZPAV,83.3
 2013,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,KZSEV,49.3
 2013,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,KZVOS,553.3
-2013,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,KZNS,124.1
+2013,millions tonnes,_L_KZ_090102_1J,Astana city,KZNS,124.1
 2013,millions tonnes,_L_KZ_090102_1J,Almaty city,KZALA,194.4
 2013,mln.people,Passengers transported by all means of transport,,,19970.6
 2013,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1604.5
@@ -371,7 +371,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2013,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1194.6
 2013,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,492.8
 2013,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1606.7
-2013,mln.people,Passengers transported by all means of transport,Nur-Sultan city,KZNS,1961.0
+2013,mln.people,Passengers transported by all means of transport,Astana city,KZNS,1961.0
 2013,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,4235.1
 2013,tons,transported by air,,,23873.5
 2013,tons,transported by air,Batys Kazakhstan,KZZAP,227.2
@@ -410,7 +410,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2014,millions tonnes,,Pavlodar,KZPAV,128.1
 2014,millions tonnes,,Soltustik Kazakhstan,KZSEV,49.9
 2014,millions tonnes,,Shygys Kazakhstan,KZVOS,595.5
-2014,millions tonnes,,Nur-Sultan city,KZNS,136.7
+2014,millions tonnes,,Astana city,KZNS,136.7
 2014,millions tonnes,,Almaty city,KZALA,216.8
 2014,mln.people,Passengers transported by all means of transport,,,21281.2
 2014,mln.people,Railway transport,,,23.2
@@ -432,7 +432,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2014,mln.people,,Pavlodar,KZPAV,1195.6
 2014,mln.people,,Soltustik Kazakhstan,KZSEV,496.1
 2014,mln.people,,Shygys Kazakhstan,KZVOS,1654.2
-2014,mln.people,,Nur-Sultan city,KZNS,2180.3
+2014,mln.people,,Astana city,KZNS,2180.3
 2014,mln.people,,Almaty city,KZALA,4808.6
 2014,millions tonnes,_L_KZ_090102_1J,,,3129.1
 2014,millions tonnes,_L_KZ_090102_1J,Akmola,KZAKM,121.3
@@ -449,7 +449,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2014,millions tonnes,_L_KZ_090102_1J,Pavlodar,KZPAV,91.8
 2014,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,KZSEV,49.9
 2014,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,KZVOS,595.1
-2014,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,KZNS,136.7
+2014,millions tonnes,_L_KZ_090102_1J,Astana city,KZNS,136.7
 2014,millions tonnes,_L_KZ_090102_1J,Almaty city,KZALA,216.8
 2014,mln.people,Passengers transported by all means of transport,,,21252.4
 2014,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1723.9
@@ -466,7 +466,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2014,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1195.6
 2014,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,496.1
 2014,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1654.2
-2014,mln.people,Passengers transported by all means of transport,Nur-Sultan city,KZNS,2180.3
+2014,mln.people,Passengers transported by all means of transport,Astana city,KZNS,2180.3
 2014,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,4804.8
 2014,tons,transported by air,,,19082.4
 2014,tons,transported by air,Batys Kazakhstan,KZZAP,239.4
@@ -505,7 +505,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2015,millions tonnes,,Pavlodar,KZPAV,127.9
 2015,millions tonnes,,Soltustik Kazakhstan,KZSEV,49.7
 2015,millions tonnes,,Shygys Kazakhstan,KZVOS,598.8
-2015,millions tonnes,,Nur-Sultan city,KZNS,142.5
+2015,millions tonnes,,Astana city,KZNS,142.5
 2015,millions tonnes,,Almaty city,KZALA,232.1
 2015,mln.people,Passengers transported by all means of transport,,,21839.1
 2015,mln.people,Railway transport,,,22.5
@@ -527,7 +527,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2015,mln.people,,Pavlodar,KZPAV,1240.8
 2015,mln.people,,Soltustik Kazakhstan,KZSEV,495.2
 2015,mln.people,,Shygys Kazakhstan,KZVOS,1681.0
-2015,mln.people,,Nur-Sultan city,KZNS,2279.0
+2015,mln.people,,Astana city,KZNS,2279.0
 2015,mln.people,,Almaty city,KZALA,4984.8
 2015,millions tonnes,_L_KZ_090102_1J,,,3174.0
 2015,millions tonnes,_L_KZ_090102_1J,Akmola,KZAKM,120.3
@@ -544,7 +544,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2015,millions tonnes,_L_KZ_090102_1J,Pavlodar,KZPAV,93.6
 2015,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,KZSEV,49.7
 2015,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,KZVOS,598.3
-2015,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,KZNS,142.5
+2015,millions tonnes,_L_KZ_090102_1J,Astana city,KZNS,142.5
 2015,millions tonnes,_L_KZ_090102_1J,Almaty city,KZALA,232.1
 2015,mln.people,Passengers transported by all means of transport,,,21810.7
 2015,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1729.5
@@ -561,7 +561,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2015,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1240.8
 2015,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,495.2
 2015,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1681.0
-2015,mln.people,Passengers transported by all means of transport,Nur-Sultan city,KZNS,2279.0
+2015,mln.people,Passengers transported by all means of transport,Astana city,KZNS,2279.0
 2015,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,4980.4
 2015,tons,transported by air,,,17178.2
 2015,tons,transported by air,Batys Kazakhstan,KZZAP,131.0
@@ -598,7 +598,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2016,millions tonnes,,Pavlodar,KZPAV,131.5
 2016,millions tonnes,,Soltustik Kazakhstan,KZSEV,48.2
 2016,millions tonnes,,Shygys Kazakhstan,KZVOS,582.4
-2016,millions tonnes,,Nur-Sultan city,KZNS,142.6
+2016,millions tonnes,,Astana city,KZNS,142.6
 2016,millions tonnes,,Almaty city,KZALA,252.3
 2016,mln.people,Passengers transported by all means of transport,,,22332.8
 2016,mln.people,Railway transport,,,23.1
@@ -620,7 +620,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2016,mln.people,,Pavlodar,KZPAV,1244.5
 2016,mln.people,,Soltustik Kazakhstan,KZSEV,506.8
 2016,mln.people,,Shygys Kazakhstan,KZVOS,1705.2
-2016,mln.people,,Nur-Sultan city,KZNS,2441.1
+2016,mln.people,,Astana city,KZNS,2441.1
 2016,mln.people,,Almaty city,KZALA,4984.2
 2016,millions tonnes,_L_KZ_090102_1J,,,3180.7
 2016,millions tonnes,_L_KZ_090102_1J,Akmola,KZAKM,113.1
@@ -637,7 +637,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2016,millions tonnes,_L_KZ_090102_1J,Pavlodar,KZPAV,97.7
 2016,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,KZSEV,48.2
 2016,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,KZVOS,581.9
-2016,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,KZNS,142.6
+2016,millions tonnes,_L_KZ_090102_1J,Astana city,KZNS,142.6
 2016,millions tonnes,_L_KZ_090102_1J,Almaty city,KZALA,252.2
 2016,mln.people,Passengers transported by all means of transport,,,22303.6
 2016,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1700.1
@@ -654,7 +654,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2016,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1244.4
 2016,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,506.8
 2016,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1705.1
-2016,mln.people,Passengers transported by all means of transport,Nur-Sultan city,KZNS,2441.0
+2016,mln.people,Passengers transported by all means of transport,Astana city,KZNS,2441.0
 2016,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,4980.3
 2016,tons,transported by air,,,18015.9
 2016,tons,transported by air,Almaty city,KZALA,16810.9
@@ -738,7 +738,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2017,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1225.0
 2017,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,501.6
 2017,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1708.8
-2017,mln.people,Passengers transported by all means of transport,Nur-Sultan city,KZNS,2528.4
+2017,mln.people,Passengers transported by all means of transport,Astana city,KZNS,2528.4
 2017,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,5098.6
 2017,tons,transported by air,,,22449.9
 2017,tons,transported by air,Almaty city,KZALA,20345.2
@@ -771,7 +771,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2018,millions tonnes,,Soltustik Kazakhstan,KZSEV,51.5
 2018,millions tonnes,,Turkistan,KZYUZ,71.0
 2018,millions tonnes,,Shygys Kazakhstan,KZVOS,631.5
-2018,millions tonnes,,Nur-Sultan city,KZNS,154.2
+2018,millions tonnes,,Astana city,KZNS,154.2
 2018,millions tonnes,,Almaty city,KZALA,247.0
 2018,mln.people,Passengers transported by all means of transport,,,23021.6
 2018,mln.people,Railway transport,,,23.1
@@ -797,7 +797,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2018,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,KZSEV,51.5
 2018,millions tonnes,_L_KZ_090102_1J,Turkistan,KZYUZ,71.0
 2018,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,KZVOS,631.1
-2018,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,KZNS,154.2
+2018,millions tonnes,_L_KZ_090102_1J,Astana city,KZNS,154.2
 2018,millions tonnes,_L_KZ_090102_1J,Almaty city,KZALA,247.0
 2018,mln.people,Passengers transported by all means of transport,,,22982.2
 2018,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,304.3
@@ -835,7 +835,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2019,millions tonnes,,Soltustik Kazakhstan,KZSEV,52.3
 2019,millions tonnes,,Turkistan,KZYUZ,86.0
 2019,millions tonnes,,Shygys Kazakhstan,KZVOS,661.5
-2019,millions tonnes,,Nur-Sultan city,KZNS,155.1
+2019,millions tonnes,,Astana city,KZNS,155.1
 2019,millions tonnes,,Almaty city,KZALA,257.5
 2019,millions tonnes,,Shymkent city,KZSHY,111.2
 2019,mln.people,Passengers transported by all means of transport,,,23835.9
@@ -859,7 +859,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2019,mln.people,,Soltustik Kazakhstan,KZSEV,508.7
 2019,mln.people,,Turkistan,KZYUZ,997.9
 2019,mln.people,,Shygys Kazakhstan,KZVOS,1716.3
-2019,mln.people,,Nur-Sultan city,KZNS,2574.2
+2019,mln.people,,Astana city,KZNS,2574.2
 2019,mln.people,,Almaty city,KZALA,5588.9
 2019,mln.people,,Shymkent city,KZSHY,1667.6
 2019,millions tonnes,_L_KZ_090102_1J,,,3550.5
@@ -877,7 +877,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2019,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,KZSEV,52.3
 2019,millions tonnes,_L_KZ_090102_1J,Turkistan,KZYUZ,86.0
 2019,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,KZVOS,660.9
-2019,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,KZNS,155.1
+2019,millions tonnes,_L_KZ_090102_1J,Astana city,KZNS,155.1
 2019,millions tonnes,_L_KZ_090102_1J,Almaty city,KZALA,257.4
 2019,millions tonnes,_L_KZ_090102_1J,Shymkent city,KZSHY,111.2
 2019,mln.people,Passengers transported by all means of transport,,,23804.7
@@ -895,7 +895,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2019,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,508.7
 2019,mln.people,Passengers transported by all means of transport,Turkistan,KZYUZ,997.9
 2019,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1716.3
-2019,mln.people,Passengers transported by all means of transport,Nur-Sultan city,KZNS,2574.1
+2019,mln.people,Passengers transported by all means of transport,Astana city,KZNS,2574.1
 2019,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,5583.4
 2019,mln.people,Passengers transported by all means of transport,Shymkent city,KZSHY,1665.2
 2019,tons,transported by air,,,26721.1
@@ -931,7 +931,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2020,millions tonnes,,Soltustik Kazakhstan,KZSEV,61.0
 2020,millions tonnes,,Turkistan,KZYUZ,83.4
 2020,millions tonnes,,Shygys Kazakhstan,KZVOS,646.7
-2020,millions tonnes,,Nur-Sultan city,KZNS,141.7
+2020,millions tonnes,,Astana city,KZNS,141.7
 2020,millions tonnes,,Almaty city,KZALA,252.3
 2020,millions tonnes,,Shymkent city,KZSHY,116.8
 2020,mln.people,Passengers transported by all means of transport,,,8324.0
@@ -955,7 +955,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2020,mln.people,,Soltustik Kazakhstan,KZSEV,157.2
 2020,mln.people,,Turkistan,KZYUZ,346.1
 2020,mln.people,,Shygys Kazakhstan,KZVOS,722.7
-2020,mln.people,,Nur-Sultan city,KZNS,690.3
+2020,mln.people,,Astana city,KZNS,690.3
 2020,mln.people,,Almaty city,KZALA,1949.8
 2020,mln.people,,Shymkent city,KZSHY,495.5
 2020,millions tonnes,_L_KZ_090102_1J,,,3287.0
@@ -973,7 +973,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2020,millions tonnes,_L_KZ_090102_1J,Soltustik Kazakhstan,KZSEV,50.0
 2020,millions tonnes,_L_KZ_090102_1J,Turkistan,KZYUZ,75.9
 2020,millions tonnes,_L_KZ_090102_1J,Shygys Kazakhstan,KZVOS,646.5
-2020,millions tonnes,_L_KZ_090102_1J,Nur-Sultan city,KZNS,141.7
+2020,millions tonnes,_L_KZ_090102_1J,Astana city,KZNS,141.7
 2020,millions tonnes,_L_KZ_090102_1J,Almaty city,KZALA,252.3
 2020,millions tonnes,_L_KZ_090102_1J,Shymkent city,KZSHY,111.6
 2020,mln.people,Passengers transported by all means of transport,,,8377.7
@@ -991,7 +991,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2020,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,157.2
 2020,mln.people,Passengers transported by all means of transport,Turkistan,KZYUZ,346.1
 2020,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,722.7
-2020,mln.people,Passengers transported by all means of transport,Nur-Sultan city,KZNS,688.2
+2020,mln.people,Passengers transported by all means of transport,Astana city,KZNS,688.2
 2020,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,1946.1
 2020,mln.people,Passengers transported by all means of transport,Shymkent city,KZSHY,494.1
 2020,tons,transported by air,,,23421.6

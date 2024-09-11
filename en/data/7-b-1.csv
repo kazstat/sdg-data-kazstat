@@ -134,15 +134,15 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2016,thousand of tenge,State-owned enterprises and organizations,Shygys Kazakhstan,KZVOS,52059145.0
 2017,thousand of tenge,State-owned enterprises and organizations,Shygys Kazakhstan,KZVOS,88904888.0
 2018,thousand of tenge,State-owned enterprises and organizations,Shygys Kazakhstan,KZVOS,93736234.0
-2010,thousand of tenge,State-owned enterprises and organizations,Nur-Sultan city,KZNS,205944085.0
-2011,thousand of tenge,State-owned enterprises and organizations,Nur-Sultan city,KZNS,192182529.0
-2012,thousand of tenge,State-owned enterprises and organizations,Nur-Sultan city,KZNS,193395093.0
-2013,thousand of tenge,State-owned enterprises and organizations,Nur-Sultan city,KZNS,212481905.0
-2014,thousand of tenge,State-owned enterprises and organizations,Nur-Sultan city,KZNS,236923971.0
-2015,thousand of tenge,State-owned enterprises and organizations,Nur-Sultan city,KZNS,219770225.0
-2016,thousand of tenge,State-owned enterprises and organizations,Nur-Sultan city,KZNS,198683876.0
-2017,thousand of tenge,State-owned enterprises and organizations,Nur-Sultan city,KZNS,220265254.0
-2018,thousand of tenge,State-owned enterprises and organizations,Nur-Sultan city,KZNS,196351896.0
+2010,thousand of tenge,State-owned enterprises and organizations,Astana city,KZNS,205944085.0
+2011,thousand of tenge,State-owned enterprises and organizations,Astana city,KZNS,192182529.0
+2012,thousand of tenge,State-owned enterprises and organizations,Astana city,KZNS,193395093.0
+2013,thousand of tenge,State-owned enterprises and organizations,Astana city,KZNS,212481905.0
+2014,thousand of tenge,State-owned enterprises and organizations,Astana city,KZNS,236923971.0
+2015,thousand of tenge,State-owned enterprises and organizations,Astana city,KZNS,219770225.0
+2016,thousand of tenge,State-owned enterprises and organizations,Astana city,KZNS,198683876.0
+2017,thousand of tenge,State-owned enterprises and organizations,Astana city,KZNS,220265254.0
+2018,thousand of tenge,State-owned enterprises and organizations,Astana city,KZNS,196351896.0
 2010,thousand of tenge,State-owned enterprises and organizations,Almaty city,KZALA,133407670.0
 2011,thousand of tenge,State-owned enterprises and organizations,Almaty city,KZALA,127619205.0
 2012,thousand of tenge,State-owned enterprises and organizations,Almaty city,KZALA,128712886.0
@@ -288,15 +288,15 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2016,thousand of tenge,Private companies and organizations,Shygys Kazakhstan,KZVOS,155341765.0
 2017,thousand of tenge,Private companies and organizations,Shygys Kazakhstan,KZVOS,221341728.0
 2018,thousand of tenge,Private companies and organizations,Shygys Kazakhstan,KZVOS,242988628.0
-2010,thousand of tenge,Private companies and organizations,Nur-Sultan city,KZNS,179046694.0
-2011,thousand of tenge,Private companies and organizations,Nur-Sultan city,KZNS,362927597.0
-2012,thousand of tenge,Private companies and organizations,Nur-Sultan city,KZNS,401638616.0
-2013,thousand of tenge,Private companies and organizations,Nur-Sultan city,KZNS,315620454.0
-2014,thousand of tenge,Private companies and organizations,Nur-Sultan city,KZNS,347511021.0
-2015,thousand of tenge,Private companies and organizations,Nur-Sultan city,KZNS,513581780.0
-2016,thousand of tenge,Private companies and organizations,Nur-Sultan city,KZNS,623145859.0
-2017,thousand of tenge,Private companies and organizations,Nur-Sultan city,KZNS,545796587.0
-2018,thousand of tenge,Private companies and organizations,Nur-Sultan city,KZNS,620253444.0
+2010,thousand of tenge,Private companies and organizations,Astana city,KZNS,179046694.0
+2011,thousand of tenge,Private companies and organizations,Astana city,KZNS,362927597.0
+2012,thousand of tenge,Private companies and organizations,Astana city,KZNS,401638616.0
+2013,thousand of tenge,Private companies and organizations,Astana city,KZNS,315620454.0
+2014,thousand of tenge,Private companies and organizations,Astana city,KZNS,347511021.0
+2015,thousand of tenge,Private companies and organizations,Astana city,KZNS,513581780.0
+2016,thousand of tenge,Private companies and organizations,Astana city,KZNS,623145859.0
+2017,thousand of tenge,Private companies and organizations,Astana city,KZNS,545796587.0
+2018,thousand of tenge,Private companies and organizations,Astana city,KZNS,620253444.0
 2010,thousand of tenge,Private companies and organizations,Almaty city,KZALA,221486028.0
 2011,thousand of tenge,Private companies and organizations,Almaty city,KZALA,243330560.0
 2012,thousand of tenge,Private companies and organizations,Almaty city,KZALA,264489907.0
@@ -442,15 +442,15 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2016,thousand of tenge,Companies and organizations owned by foreigners,Shygys Kazakhstan,KZVOS,229350167.0
 2017,thousand of tenge,Companies and organizations owned by foreigners,Shygys Kazakhstan,KZVOS,125860404.0
 2018,thousand of tenge,Companies and organizations owned by foreigners,Shygys Kazakhstan,KZVOS,157871694.0
-2010,thousand of tenge,Companies and organizations owned by foreigners,Nur-Sultan city,KZNS,11565928.0
-2011,thousand of tenge,Companies and organizations owned by foreigners,Nur-Sultan city,KZNS,17053791.0
-2012,thousand of tenge,Companies and organizations owned by foreigners,Nur-Sultan city,KZNS,22436093.0
-2013,thousand of tenge,Companies and organizations owned by foreigners,Nur-Sultan city,KZNS,19387468.0
-2014,thousand of tenge,Companies and organizations owned by foreigners,Nur-Sultan city,KZNS,62198964.0
-2015,thousand of tenge,Companies and organizations owned by foreigners,Nur-Sultan city,KZNS,48974117.0
-2016,thousand of tenge,Companies and organizations owned by foreigners,Nur-Sultan city,KZNS,36849564.0
-2017,thousand of tenge,Companies and organizations owned by foreigners,Nur-Sultan city,KZNS,190828960.0
-2018,thousand of tenge,Companies and organizations owned by foreigners,Nur-Sultan city,KZNS,250849621.0
+2010,thousand of tenge,Companies and organizations owned by foreigners,Astana city,KZNS,11565928.0
+2011,thousand of tenge,Companies and organizations owned by foreigners,Astana city,KZNS,17053791.0
+2012,thousand of tenge,Companies and organizations owned by foreigners,Astana city,KZNS,22436093.0
+2013,thousand of tenge,Companies and organizations owned by foreigners,Astana city,KZNS,19387468.0
+2014,thousand of tenge,Companies and organizations owned by foreigners,Astana city,KZNS,62198964.0
+2015,thousand of tenge,Companies and organizations owned by foreigners,Astana city,KZNS,48974117.0
+2016,thousand of tenge,Companies and organizations owned by foreigners,Astana city,KZNS,36849564.0
+2017,thousand of tenge,Companies and organizations owned by foreigners,Astana city,KZNS,190828960.0
+2018,thousand of tenge,Companies and organizations owned by foreigners,Astana city,KZNS,250849621.0
 2010,thousand of tenge,Companies and organizations owned by foreigners,Almaty city,KZALA,43514799.0
 2011,thousand of tenge,Companies and organizations owned by foreigners,Almaty city,KZALA,44469260.0
 2012,thousand of tenge,Companies and organizations owned by foreigners,Almaty city,KZALA,65073021.0

@@ -18,7 +18,7 @@ Year,UNIT_MEASURE,Mother's education,Area,Regions,GeoCode,Value
 2010,Percent,Elementary education/ High education (incomplete),,Pavlodar,KZPAV,1.0
 2010,Percent,Elementary education/ High education (incomplete),,Soltustik Kazakhstan,KZSEV,1.01
 2010,Percent,Elementary education/ High education (incomplete),,Shygys Kazakhstan,KZVOS,1.0
-2010,Percent,Elementary education/ High education (incomplete),,Nur-Sultan city,KZNS,1.0
+2010,Percent,Elementary education/ High education (incomplete),,Astana city,KZNS,1.0
 2010,Percent,Elementary education/ High education (incomplete),,Almaty city,KZALA,1.0
 2010,Percent,secondary (high school),,,,1.0
 2010,Percent,secondary (high school),urban,,,0.99
@@ -37,7 +37,7 @@ Year,UNIT_MEASURE,Mother's education,Area,Regions,GeoCode,Value
 2010,Percent,secondary (high school),,Pavlodar,KZPAV,1.0
 2010,Percent,secondary (high school),,Soltustik Kazakhstan,KZSEV,0.98
 2010,Percent,secondary (high school),,Shygys Kazakhstan,KZVOS,0.97
-2010,Percent,secondary (high school),,Nur-Sultan city,KZNS,1.01
+2010,Percent,secondary (high school),,Astana city,KZNS,1.01
 2010,Percent,secondary (high school),,Almaty city,KZALA,0.99
 2015,,Elementary education/ High education (incomplete),,,,1.0
 2015,,secondary (high school),,,,1.0
@@ -60,7 +60,7 @@ Year,UNIT_MEASURE,Mother's education,Area,Regions,GeoCode,Value
 2015,Percent,Elementary education/ High education (incomplete),,Pavlodar,KZPAV,1.01
 2015,Percent,Elementary education/ High education (incomplete),,Soltustik Kazakhstan,KZSEV,1.01
 2015,Percent,Elementary education/ High education (incomplete),,Shygys Kazakhstan,KZVOS,1.0
-2015,Percent,Elementary education/ High education (incomplete),,Nur-Sultan city,KZNS,1.02
+2015,Percent,Elementary education/ High education (incomplete),,Astana city,KZNS,1.02
 2015,Percent,Elementary education/ High education (incomplete),,Almaty city,KZALA,0.98
 2015,Percent,High Education (Incomplete),,,,1.0
 2015,Percent,High Education (Incomplete),urban,,,1.0
@@ -79,7 +79,7 @@ Year,UNIT_MEASURE,Mother's education,Area,Regions,GeoCode,Value
 2015,Percent,High Education (Incomplete),,Pavlodar,KZPAV,0.99
 2015,Percent,High Education (Incomplete),,Soltustik Kazakhstan,KZSEV,1.01
 2015,Percent,High Education (Incomplete),,Shygys Kazakhstan,KZVOS,1.0
-2015,Percent,High Education (Incomplete),,Nur-Sultan city,KZNS,1.01
+2015,Percent,High Education (Incomplete),,Astana city,KZNS,1.01
 2015,Percent,High Education (Incomplete),,Almaty city,KZALA,1.02
 2015,Percent,secondary (high school),,,,1.01
 2015,Percent,secondary (high school),urban,,,1.03
@@ -94,5 +94,5 @@ Year,UNIT_MEASURE,Mother's education,Area,Regions,GeoCode,Value
 2015,Percent,secondary (high school),,Mangistau,KZMAN,1.03
 2015,Percent,secondary (high school),,Ontustik Kazakhstan,KZONT,0.98
 2015,Percent,secondary (high school),,Soltustik Kazakhstan,KZSEV,1.0
-2015,Percent,secondary (high school),,Nur-Sultan city,KZNS,1.18
+2015,Percent,secondary (high school),,Astana city,KZNS,1.18
 2015,Percent,secondary (high school),,Almaty city,KZALA,1.0

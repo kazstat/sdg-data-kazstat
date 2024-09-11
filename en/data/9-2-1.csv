@@ -14,7 +14,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2010,"percent, base year 2010",Pavlodar,KZPAV,28.3
 2010,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,8.5
 2010,"percent, base year 2010",Shygys Kazakhstan,KZVOS,19.8
-2010,"percent, base year 2010",Nur-Sultan city,KZNS,3.0
+2010,"percent, base year 2010",Astana city,KZNS,3.0
 2010,"percent, base year 2010",Almaty city,KZALA,5.2
 2010,tenge per US dollars in 2010 prices,,,1027.0
 2010,tenge per US dollars in 2010 prices,Akmola,KZAKM,728.0
@@ -31,7 +31,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2010,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,2660.1
 2010,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,455.6
 2010,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,1198.7
-2010,tenge per US dollars in 2010 prices,Nur-Sultan city,KZNS,528.2
+2010,tenge per US dollars in 2010 prices,Astana city,KZNS,528.2
 2010,tenge per US dollars in 2010 prices,Almaty city,KZALA,978.3
 2011,"percent, base year 2010",,,11.3
 2011,"percent, base year 2010",Akmola,KZAKM,13.0
@@ -48,7 +48,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2011,"percent, base year 2010",Pavlodar,KZPAV,26.0
 2011,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,7.8
 2011,"percent, base year 2010",Shygys Kazakhstan,KZVOS,21.4
-2011,"percent, base year 2010",Nur-Sultan city,KZNS,3.5
+2011,"percent, base year 2010",Astana city,KZNS,3.5
 2011,"percent, base year 2010",Almaty city,KZALA,5.1
 2011,tenge per US dollars in 2010 prices,,,1083.4
 2011,tenge per US dollars in 2010 prices,Akmola,KZAKM,817.5
@@ -65,7 +65,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2011,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,2694.6
 2011,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,486.1
 2011,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,1386.9
-2011,tenge per US dollars in 2010 prices,Nur-Sultan city,KZNS,637.6
+2011,tenge per US dollars in 2010 prices,Astana city,KZNS,637.6
 2011,tenge per US dollars in 2010 prices,Almaty city,KZALA,1033.1
 2012,"percent, base year 2010",,,11.1
 2012,"percent, base year 2010",Akmola,KZAKM,14.1
@@ -82,7 +82,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2012,"percent, base year 2010",Pavlodar,KZPAV,25.3
 2012,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,8.5
 2012,"percent, base year 2010",Shygys Kazakhstan,KZVOS,24.2
-2012,"percent, base year 2010",Nur-Sultan city,KZNS,4.2
+2012,"percent, base year 2010",Astana city,KZNS,4.2
 2012,"percent, base year 2010",Almaty city,KZALA,4.8
 2012,tenge per US dollars in 2010 prices,,,1100.9
 2012,tenge per US dollars in 2010 prices,Akmola,KZAKM,831.4
@@ -99,7 +99,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2012,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,2830.3
 2012,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,502.0
 2012,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,1770.5
-2012,tenge per US dollars in 2010 prices,Nur-Sultan city,KZNS,826.1
+2012,tenge per US dollars in 2010 prices,Astana city,KZNS,826.1
 2012,tenge per US dollars in 2010 prices,Almaty city,KZALA,1043.9
 2013,"percent, base year 2010",,,10.8
 2013,"percent, base year 2010",Akmola,KZAKM,13.4
@@ -116,7 +116,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2013,"percent, base year 2010",Pavlodar,KZPAV,25.2
 2013,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,8.2
 2013,"percent, base year 2010",Shygys Kazakhstan,KZVOS,24.1
-2013,"percent, base year 2010",Nur-Sultan city,KZNS,4.1
+2013,"percent, base year 2010",Astana city,KZNS,4.1
 2013,"percent, base year 2010",Almaty city,KZALA,4.6
 2013,tenge per US dollars in 2010 prices,,,1117.3
 2013,tenge per US dollars in 2010 prices,Akmola,KZAKM,830.6
@@ -133,7 +133,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2013,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,2814.3
 2013,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,528.0
 2013,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,1889.2
-2013,tenge per US dollars in 2010 prices,Nur-Sultan city,KZNS,856.8
+2013,tenge per US dollars in 2010 prices,Astana city,KZNS,856.8
 2013,tenge per US dollars in 2010 prices,Almaty city,KZALA,1107.5
 2014,"percent, base year 2010",,,10.5
 2014,"percent, base year 2010",Akmola,KZAKM,14.0
@@ -150,7 +150,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2014,"percent, base year 2010",Pavlodar,KZPAV,24.1
 2014,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,7.8
 2014,"percent, base year 2010",Shygys Kazakhstan,KZVOS,23.8
-2014,"percent, base year 2010",Nur-Sultan city,KZNS,3.6
+2014,"percent, base year 2010",Astana city,KZNS,3.6
 2014,"percent, base year 2010",Almaty city,KZALA,4.3
 2014,tenge per US dollars in 2010 prices,,,1118.4
 2014,tenge per US dollars in 2010 prices,Akmola,KZAKM,902.7
@@ -167,7 +167,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2014,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,2707.9
 2014,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,534.8
 2014,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,1913.2
-2014,tenge per US dollars in 2010 prices,Nur-Sultan city,KZNS,786.5
+2014,tenge per US dollars in 2010 prices,Astana city,KZNS,786.5
 2014,tenge per US dollars in 2010 prices,Almaty city,KZALA,1068.4
 2015,"percent, base year 2010",,,10.4
 2015,"percent, base year 2010",Akmola,KZAKM,14.8
@@ -184,7 +184,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2015,"percent, base year 2010",Pavlodar,KZPAV,23.3
 2015,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,7.8
 2015,"percent, base year 2010",Shygys Kazakhstan,KZVOS,21.6
-2015,"percent, base year 2010",Nur-Sultan city,KZNS,3.6
+2015,"percent, base year 2010",Astana city,KZNS,3.6
 2015,"percent, base year 2010",Almaty city,KZALA,3.9
 2015,tenge per US dollars in 2010 prices,,,1105.0
 2015,tenge per US dollars in 2010 prices,Akmola,KZAKM,968.9
@@ -201,7 +201,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2015,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,2612.2
 2015,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,541.2
 2015,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,1739.4
-2015,tenge per US dollars in 2010 prices,Nur-Sultan city,KZNS,798.1
+2015,tenge per US dollars in 2010 prices,Astana city,KZNS,798.1
 2015,tenge per US dollars in 2010 prices,Almaty city,KZALA,951.9
 2016,"percent, base year 2010",,,10.5
 2016,"percent, base year 2010",Akmola,KZAKM,14.8
@@ -218,7 +218,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2016,"percent, base year 2010",Pavlodar,KZPAV,23.5
 2016,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,7.6
 2016,"percent, base year 2010",Shygys Kazakhstan,KZVOS,21.6
-2016,"percent, base year 2010",Nur-Sultan city,KZNS,3.5
+2016,"percent, base year 2010",Astana city,KZNS,3.5
 2016,"percent, base year 2010",Almaty city,KZALA,3.8
 2016,tenge per US dollars in 2010 prices,,,1109.1
 2016,tenge per US dollars in 2010 prices,Akmola,KZAKM,998.8
@@ -235,7 +235,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2016,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,2614.8
 2016,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,535.3
 2016,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,1778.9
-2016,tenge per US dollars in 2010 prices,Nur-Sultan city,KZNS,750.1
+2016,tenge per US dollars in 2010 prices,Astana city,KZNS,750.1
 2016,tenge per US dollars in 2010 prices,Almaty city,KZALA,923.6
 2017,"percent, base year 2010",,,10.7
 2017,"percent, base year 2010",Akmola,KZAKM,14.9
@@ -252,7 +252,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2017,"percent, base year 2010",Pavlodar,KZPAV,23.7
 2017,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,8.0
 2017,"percent, base year 2010",Shygys Kazakhstan,KZVOS,21.6
-2017,"percent, base year 2010",Nur-Sultan city,KZNS,3.8
+2017,"percent, base year 2010",Astana city,KZNS,3.8
 2017,"percent, base year 2010",Almaty city,KZALA,3.9
 2017,tenge per US dollars in 2010 prices,,,1161.5
 2017,tenge per US dollars in 2010 prices,Akmola,KZAKM,1033.7
@@ -269,7 +269,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2017,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,2753.2
 2017,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,589.1
 2017,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,1814.9
-2017,tenge per US dollars in 2010 prices,Nur-Sultan city,KZNS,768.0
+2017,tenge per US dollars in 2010 prices,Astana city,KZNS,768.0
 2017,tenge per US dollars in 2010 prices,Almaty city,KZALA,942.1
 2018,"percent, base year 2010",,,10.7
 2018,"percent, base year 2010",Akmola,KZAKM,15.4
@@ -285,7 +285,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2018,"percent, base year 2010",Pavlodar,KZPAV,23.7
 2018,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,7.8
 2018,"percent, base year 2010",Shygys Kazakhstan,KZVOS,22.8
-2018,"percent, base year 2010",Nur-Sultan city,KZNS,4.1
+2018,"percent, base year 2010",Astana city,KZNS,4.1
 2018,"percent, base year 2010",Almaty city,KZALA,4.0
 2018,"percent, base year 2010",Shymkent city,KZSHY,22.6
 2018,tenge per US dollars in 2010 prices,,,1182.0
@@ -302,7 +302,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2018,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,2923.4
 2018,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,595.0
 2018,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,2019.9
-2018,tenge per US dollars in 2010 prices,Nur-Sultan city,KZNS,790.2
+2018,tenge per US dollars in 2010 prices,Astana city,KZNS,790.2
 2018,tenge per US dollars in 2010 prices,Almaty city,KZALA,963.7
 2019,"percent, base year 2010",,,10.9
 2019,"percent, base year 2010",Akmola,KZAKM,15.2
@@ -317,7 +317,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2019,"percent, base year 2010",Mangistau,KZMAN,4.4
 2019,"percent, base year 2010",Pavlodar,KZPAV,23.0
 2019,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,7.6
-2019,"percent, base year 2010",Nur-Sultan city,KZNS,22.9
+2019,"percent, base year 2010",Astana city,KZNS,22.9
 2019,"percent, base year 2010",Almaty city,KZALA,4.2
 2019,"percent, base year 2010",Shymkent city,KZSHY,4.0
 2019,tenge per US dollars in 2010 prices,,,1250.8
@@ -334,7 +334,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2019,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,3003.2
 2019,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,602.3
 2019,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,2149.3
-2019,tenge per US dollars in 2010 prices,Nur-Sultan city,KZNS,836.2
+2019,tenge per US dollars in 2010 prices,Astana city,KZNS,836.2
 2019,tenge per US dollars in 2010 prices,Almaty city,KZALA,984.2
 2020,"percent, base year 2010",,,11.6
 2020,"percent, base year 2010",Akmola,KZAKM,16.3
@@ -349,7 +349,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2020,"percent, base year 2010",Mangistau,KZMAN,4.7
 2020,"percent, base year 2010",Pavlodar,KZPAV,23.9
 2020,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,8.3
-2020,"percent, base year 2010",Nur-Sultan city,KZNS,23.0
+2020,"percent, base year 2010",Astana city,KZNS,23.0
 2020,"percent, base year 2010",Almaty city,KZALA,4.3
 2020,"percent, base year 2010",Shymkent city,KZSHY,4.5
 2020,tenge per US dollars in 2010 prices,,,1283.7
@@ -366,5 +366,5 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2020,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,1161.5
 2020,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,1483.9
 2020,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,1869.1
-2020,tenge per US dollars in 2010 prices,Nur-Sultan city,KZNS,1596.9
+2020,tenge per US dollars in 2010 prices,Astana city,KZNS,1596.9
 2020,tenge per US dollars in 2010 prices,Almaty city,KZALA,1069.1

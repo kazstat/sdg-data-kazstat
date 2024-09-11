@@ -14,7 +14,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2010,Percent,Pavlodar,,,,KZPAV,41.7
 2010,Percent,Soltustik Kazakhstan,,,,KZSEV,32.7
 2010,Percent,Shygys Kazakhstan,,,,KZVOS,35.7
-2010,Percent,Nur-Sultan city,,,,KZNS,40.4
+2010,Percent,Astana city,,,,KZNS,40.4
 2010,Percent,Almaty city,,,,KZALA,39.2
 2010,Percent,,urban,,,,38.0
 2010,Percent,Akmola,urban,,,KZAKM,40.5
@@ -31,7 +31,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2010,Percent,Pavlodar,urban,,,KZPAV,41.4
 2010,Percent,Soltustik Kazakhstan,urban,,,KZSEV,36.6
 2010,Percent,Shygys Kazakhstan,urban,,,KZVOS,39.5
-2010,Percent,Nur-Sultan city,urban,,,KZNS,40.4
+2010,Percent,Astana city,urban,,,KZNS,40.4
 2010,Percent,Almaty city,urban,,,KZALA,39.2
 2010,Percent,,rural,,,,33.4
 2010,Percent,Akmola,rural,,,KZAKM,37.5
@@ -140,13 +140,13 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2010,Percent,Shygys Kazakhstan,,35-44,,KZVOS,35.7
 2010,Percent,Shygys Kazakhstan,,45-54,,KZVOS,39.1
 2010,Percent,Shygys Kazakhstan,,55-64,,KZVOS,25.4
-2010,Percent,Nur-Sultan city,,16-24,,KZNS,44.0
-2010,Percent,Nur-Sultan city,,25-28,,KZNS,54.0
-2010,Percent,Nur-Sultan city,,29-34,,KZNS,28.9
-2010,Percent,Nur-Sultan city,,35-44,,KZNS,48.5
-2010,Percent,Nur-Sultan city,,45-54,,KZNS,34.6
-2010,Percent,Nur-Sultan city,,55-64,,KZNS,35.8
-2010,Percent,Nur-Sultan city,,65 and older,,KZNS,25.6
+2010,Percent,Astana city,,16-24,,KZNS,44.0
+2010,Percent,Astana city,,25-28,,KZNS,54.0
+2010,Percent,Astana city,,29-34,,KZNS,28.9
+2010,Percent,Astana city,,35-44,,KZNS,48.5
+2010,Percent,Astana city,,45-54,,KZNS,34.6
+2010,Percent,Astana city,,55-64,,KZNS,35.8
+2010,Percent,Astana city,,65 and older,,KZNS,25.6
 2010,Percent,Almaty city,,16-24,,KZALA,23.7
 2010,Percent,Almaty city,,25-28,,KZALA,42.7
 2010,Percent,Almaty city,,29-34,,KZALA,43.5
@@ -168,7 +168,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2011,Percent,Pavlodar,,,,KZPAV,41.9
 2011,Percent,Soltustik Kazakhstan,,,,KZSEV,35.0
 2011,Percent,Shygys Kazakhstan,,,,KZVOS,37.6
-2011,Percent,Nur-Sultan city,,,,KZNS,41.4
+2011,Percent,Astana city,,,,KZNS,41.4
 2011,Percent,Almaty city,,,,KZALA,40.3
 2011,Percent,,urban,,,,39.5
 2011,Percent,Akmola,urban,,,KZAKM,46.1
@@ -185,7 +185,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2011,Percent,Pavlodar,urban,,,KZPAV,39.0
 2011,Percent,Soltustik Kazakhstan,urban,,,KZSEV,35.1
 2011,Percent,Shygys Kazakhstan,urban,,,KZVOS,40.1
-2011,Percent,Nur-Sultan city,urban,,,KZNS,41.4
+2011,Percent,Astana city,urban,,,KZNS,41.4
 2011,Percent,Almaty city,urban,,,KZALA,40.3
 2011,Percent,,rural,,,,34.3
 2011,Percent,Akmola,rural,,,KZAKM,30.0
@@ -299,13 +299,13 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2011,Percent,Shygys Kazakhstan,,45-54,,KZVOS,36.2
 2011,Percent,Shygys Kazakhstan,,55-64,,KZVOS,33.9
 2011,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,0.0
-2011,Percent,Nur-Sultan city,,16-24,,KZNS,48.1
-2011,Percent,Nur-Sultan city,,25-28,,KZNS,46.7
-2011,Percent,Nur-Sultan city,,29-34,,KZNS,34.4
-2011,Percent,Nur-Sultan city,,35-44,,KZNS,45.9
-2011,Percent,Nur-Sultan city,,45-54,,KZNS,38.6
-2011,Percent,Nur-Sultan city,,55-64,,KZNS,36.1
-2011,Percent,Nur-Sultan city,,65 and older,,KZNS,42.2
+2011,Percent,Astana city,,16-24,,KZNS,48.1
+2011,Percent,Astana city,,25-28,,KZNS,46.7
+2011,Percent,Astana city,,29-34,,KZNS,34.4
+2011,Percent,Astana city,,35-44,,KZNS,45.9
+2011,Percent,Astana city,,45-54,,KZNS,38.6
+2011,Percent,Astana city,,55-64,,KZNS,36.1
+2011,Percent,Astana city,,65 and older,,KZNS,42.2
 2011,Percent,Almaty city,,16-24,,KZALA,72.3
 2011,Percent,Almaty city,,25-28,,KZALA,62.5
 2011,Percent,Almaty city,,29-34,,KZALA,40.6
@@ -327,7 +327,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2012,Percent,Pavlodar,,,,KZPAV,30.9
 2012,Percent,Soltustik Kazakhstan,,,,KZSEV,40.4
 2012,Percent,Shygys Kazakhstan,,,,KZVOS,38.1
-2012,Percent,Nur-Sultan city,,,,KZNS,46.2
+2012,Percent,Astana city,,,,KZNS,46.2
 2012,Percent,Almaty city,,,,KZALA,46.2
 2012,Percent,,urban,,,,41.9
 2012,Percent,Akmola,urban,,,KZAKM,44.6
@@ -344,7 +344,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2012,Percent,Pavlodar,urban,,,KZPAV,29.0
 2012,Percent,Soltustik Kazakhstan,urban,,,KZSEV,33.8
 2012,Percent,Shygys Kazakhstan,urban,,,KZVOS,34.4
-2012,Percent,Nur-Sultan city,urban,,,KZNS,46.2
+2012,Percent,Astana city,urban,,,KZNS,46.2
 2012,Percent,Almaty city,urban,,,KZALA,46.2
 2012,Percent,,rural,,,,32.2
 2012,Percent,Akmola,rural,,,KZAKM,12.8
@@ -455,13 +455,13 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2012,Percent,Shygys Kazakhstan,,35-44,,KZVOS,31.9
 2012,Percent,Shygys Kazakhstan,,45-54,,KZVOS,50.4
 2012,Percent,Shygys Kazakhstan,,55-64,,KZVOS,43.0
-2012,Percent,Nur-Sultan city,,16-24,,KZNS,68.5
-2012,Percent,Nur-Sultan city,,25-28,,KZNS,38.7
-2012,Percent,Nur-Sultan city,,29-34,,KZNS,40.0
-2012,Percent,Nur-Sultan city,,35-44,,KZNS,48.8
-2012,Percent,Nur-Sultan city,,45-54,,KZNS,46.0
-2012,Percent,Nur-Sultan city,,55-64,,KZNS,43.8
-2012,Percent,Nur-Sultan city,,65 and older,,KZNS,0.0
+2012,Percent,Astana city,,16-24,,KZNS,68.5
+2012,Percent,Astana city,,25-28,,KZNS,38.7
+2012,Percent,Astana city,,29-34,,KZNS,40.0
+2012,Percent,Astana city,,35-44,,KZNS,48.8
+2012,Percent,Astana city,,45-54,,KZNS,46.0
+2012,Percent,Astana city,,55-64,,KZNS,43.8
+2012,Percent,Astana city,,65 and older,,KZNS,0.0
 2012,Percent,Almaty city,,16-24,,KZALA,75.3
 2012,Percent,Almaty city,,25-28,,KZALA,52.9
 2012,Percent,Almaty city,,29-34,,KZALA,36.9
@@ -483,7 +483,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2013,Percent,Pavlodar,,,,KZPAV,36.3
 2013,Percent,Soltustik Kazakhstan,,,,KZSEV,27.5
 2013,Percent,Shygys Kazakhstan,,,,KZVOS,35.5
-2013,Percent,Nur-Sultan city,,,,KZNS,48.0
+2013,Percent,Astana city,,,,KZNS,48.0
 2013,Percent,Almaty city,,,,KZALA,39.5
 2013,Percent,,urban,,,,38.9
 2013,Percent,Akmola,urban,,,KZAKM,50.5
@@ -500,7 +500,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2013,Percent,Pavlodar,urban,,,KZPAV,33.9
 2013,Percent,Soltustik Kazakhstan,urban,,,KZSEV,29.4
 2013,Percent,Shygys Kazakhstan,urban,,,KZVOS,40.1
-2013,Percent,Nur-Sultan city,urban,,,KZNS,48.0
+2013,Percent,Astana city,urban,,,KZNS,48.0
 2013,Percent,Almaty city,urban,,,KZALA,39.5
 2013,Percent,,rural,,,,37.0
 2013,Percent,Akmola,rural,,,KZAKM,31.2
@@ -611,13 +611,13 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2013,Percent,Shygys Kazakhstan,,35-44,,KZVOS,43.0
 2013,Percent,Shygys Kazakhstan,,45-54,,KZVOS,38.3
 2013,Percent,Shygys Kazakhstan,,55-64,,KZVOS,37.8
-2013,Percent,Nur-Sultan city,,16-24,,KZNS,74.3
-2013,Percent,Nur-Sultan city,,25-28,,KZNS,42.8
-2013,Percent,Nur-Sultan city,,29-34,,KZNS,47.1
-2013,Percent,Nur-Sultan city,,35-44,,KZNS,46.3
-2013,Percent,Nur-Sultan city,,45-54,,KZNS,46.9
-2013,Percent,Nur-Sultan city,,55-64,,KZNS,27.7
-2013,Percent,Nur-Sultan city,,65 and older,,KZNS,0.0
+2013,Percent,Astana city,,16-24,,KZNS,74.3
+2013,Percent,Astana city,,25-28,,KZNS,42.8
+2013,Percent,Astana city,,29-34,,KZNS,47.1
+2013,Percent,Astana city,,35-44,,KZNS,46.3
+2013,Percent,Astana city,,45-54,,KZNS,46.9
+2013,Percent,Astana city,,55-64,,KZNS,27.7
+2013,Percent,Astana city,,65 and older,,KZNS,0.0
 2013,Percent,Almaty city,,16-24,,KZALA,62.3
 2013,Percent,Almaty city,,25-28,,KZALA,53.6
 2013,Percent,Almaty city,,29-34,,KZALA,32.5
@@ -639,7 +639,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2014,Percent,Pavlodar,,,,KZPAV,32.0
 2014,Percent,Soltustik Kazakhstan,,,,KZSEV,31.3
 2014,Percent,Shygys Kazakhstan,,,,KZVOS,35.0
-2014,Percent,Nur-Sultan city,,,,KZNS,35.9
+2014,Percent,Astana city,,,,KZNS,35.9
 2014,Percent,Almaty city,,,,KZALA,38.4
 2014,Percent,,urban,,,,37.1
 2014,Percent,Akmola,urban,,,KZAKM,37.7
@@ -656,7 +656,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2014,Percent,Pavlodar,urban,,,KZPAV,31.5
 2014,Percent,Soltustik Kazakhstan,urban,,,KZSEV,34.0
 2014,Percent,Shygys Kazakhstan,urban,,,KZVOS,37.8
-2014,Percent,Nur-Sultan city,urban,,,KZNS,37.6
+2014,Percent,Astana city,urban,,,KZNS,37.6
 2014,Percent,Almaty city,urban,,,KZALA,39.3
 2014,Percent,,rural,,,,30.2
 2014,Percent,Akmola,rural,,,KZAKM,29.6
@@ -775,12 +775,12 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2014,Percent,Shygys Kazakhstan,,45-54,,KZVOS,45.2
 2014,Percent,Shygys Kazakhstan,,55-64,,KZVOS,29.0
 2014,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,10.6
-2014,Percent,Nur-Sultan city,,16-24,,KZNS,20.8
-2014,Percent,Nur-Sultan city,,25-28,,KZNS,47.7
-2014,Percent,Nur-Sultan city,,29-34,,KZNS,43.1
-2014,Percent,Nur-Sultan city,,35-44,,KZNS,38.5
-2014,Percent,Nur-Sultan city,,45-54,,KZNS,28.3
-2014,Percent,Nur-Sultan city,,55-64,,KZNS,28.0
+2014,Percent,Astana city,,16-24,,KZNS,20.8
+2014,Percent,Astana city,,25-28,,KZNS,47.7
+2014,Percent,Astana city,,29-34,,KZNS,43.1
+2014,Percent,Astana city,,35-44,,KZNS,38.5
+2014,Percent,Astana city,,45-54,,KZNS,28.3
+2014,Percent,Astana city,,55-64,,KZNS,28.0
 2014,Percent,Almaty city,,16-24,,KZALA,37.0
 2014,Percent,Almaty city,,25-28,,KZALA,43.4
 2014,Percent,Almaty city,,29-34,,KZALA,32.8
@@ -803,7 +803,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2015,Percent,Pavlodar,,,,KZPAV,39.1
 2015,Percent,Soltustik Kazakhstan,,,,KZSEV,39.6
 2015,Percent,Shygys Kazakhstan,,,,KZVOS,33.0
-2015,Percent,Nur-Sultan city,,,,KZNS,41.9
+2015,Percent,Astana city,,,,KZNS,41.9
 2015,Percent,Almaty city,,,,KZALA,35.3
 2015,Percent,,urban,,,,38.4
 2015,Percent,Akmola,urban,,,KZAKM,29.8
@@ -820,7 +820,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2015,Percent,Pavlodar,urban,,,KZPAV,40.7
 2015,Percent,Soltustik Kazakhstan,urban,,,KZSEV,42.1
 2015,Percent,Shygys Kazakhstan,urban,,,KZVOS,34.6
-2015,Percent,Nur-Sultan city,urban,,,KZNS,41.9
+2015,Percent,Astana city,urban,,,KZNS,41.9
 2015,Percent,Almaty city,urban,,,KZALA,35.3
 2015,Percent,,rural,,,,32.1
 2015,Percent,Akmola,rural,,,KZAKM,30.3
@@ -938,13 +938,13 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2015,Percent,Shygys Kazakhstan,,45-54,,KZVOS,36.9
 2015,Percent,Shygys Kazakhstan,,55-64,,KZVOS,38.3
 2015,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,0.0
-2015,Percent,Nur-Sultan city,,16-24,,KZNS,41.3
-2015,Percent,Nur-Sultan city,,25-28,,KZNS,52.4
-2015,Percent,Nur-Sultan city,,29-34,,KZNS,37.3
-2015,Percent,Nur-Sultan city,,35-44,,KZNS,37.2
-2015,Percent,Nur-Sultan city,,45-54,,KZNS,46.1
-2015,Percent,Nur-Sultan city,,55-64,,KZNS,41.1
-2015,Percent,Nur-Sultan city,,65 and older,,KZNS,55.6
+2015,Percent,Astana city,,16-24,,KZNS,41.3
+2015,Percent,Astana city,,25-28,,KZNS,52.4
+2015,Percent,Astana city,,29-34,,KZNS,37.3
+2015,Percent,Astana city,,35-44,,KZNS,37.2
+2015,Percent,Astana city,,45-54,,KZNS,46.1
+2015,Percent,Astana city,,55-64,,KZNS,41.1
+2015,Percent,Astana city,,65 and older,,KZNS,55.6
 2015,Percent,Almaty city,,16-24,,KZALA,35.1
 2015,Percent,Almaty city,,25-28,,KZALA,22.9
 2015,Percent,Almaty city,,29-34,,KZALA,43.7
@@ -967,7 +967,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2016,Percent,Pavlodar,,,,KZPAV,40.0
 2016,Percent,Soltustik Kazakhstan,,,,KZSEV,32.6
 2016,Percent,Shygys Kazakhstan,,,,KZVOS,33.7
-2016,Percent,Nur-Sultan city,,,,KZNS,44.2
+2016,Percent,Astana city,,,,KZNS,44.2
 2016,Percent,Almaty city,,,,KZALA,39.9
 2016,Percent,,urban,,,,38.3
 2016,Percent,Akmola,urban,,,KZAKM,31.8
@@ -984,7 +984,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2016,Percent,Pavlodar,urban,,,KZPAV,40.5
 2016,Percent,Soltustik Kazakhstan,urban,,,KZSEV,33.5
 2016,Percent,Shygys Kazakhstan,urban,,,KZVOS,35.2
-2016,Percent,Nur-Sultan city,urban,,,KZNS,44.2
+2016,Percent,Astana city,urban,,,KZNS,44.2
 2016,Percent,Almaty city,urban,,,KZALA,39.9
 2016,Percent,,rural,,,,32.9
 2016,Percent,Akmola,rural,,,KZAKM,38.3
@@ -1102,13 +1102,13 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2016,Percent,Shygys Kazakhstan,,45-54,,KZVOS,28.5
 2016,Percent,Shygys Kazakhstan,,55-64,,KZVOS,30.7
 2016,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,17.5
-2016,Percent,Nur-Sultan city,,16-24,,KZNS,61.6
-2016,Percent,Nur-Sultan city,,25-28,,KZNS,46.3
-2016,Percent,Nur-Sultan city,,29-34,,KZNS,40.6
-2016,Percent,Nur-Sultan city,,35-44,,KZNS,38.3
-2016,Percent,Nur-Sultan city,,45-54,,KZNS,48.7
-2016,Percent,Nur-Sultan city,,55-64,,KZNS,56.7
-2016,Percent,Nur-Sultan city,,65 and older,,KZNS,66.0
+2016,Percent,Astana city,,16-24,,KZNS,61.6
+2016,Percent,Astana city,,25-28,,KZNS,46.3
+2016,Percent,Astana city,,29-34,,KZNS,40.6
+2016,Percent,Astana city,,35-44,,KZNS,38.3
+2016,Percent,Astana city,,45-54,,KZNS,48.7
+2016,Percent,Astana city,,55-64,,KZNS,56.7
+2016,Percent,Astana city,,65 and older,,KZNS,66.0
 2016,Percent,Almaty city,,16-24,,KZALA,40.6
 2016,Percent,Almaty city,,25-28,,KZALA,37.3
 2016,Percent,Almaty city,,29-34,,KZALA,36.8
@@ -1131,7 +1131,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2017,Percent,Pavlodar,,,,KZPAV,43.6
 2017,Percent,Soltustik Kazakhstan,,,,KZSEV,33.9
 2017,Percent,Shygys Kazakhstan,,,,KZVOS,41.1
-2017,Percent,Nur-Sultan city,,,,KZNS,43.2
+2017,Percent,Astana city,,,,KZNS,43.2
 2017,Percent,Almaty city,,,,KZALA,36.1
 2017,Percent,,urban,,,,37.8
 2017,Percent,Akmola,urban,,,KZAKM,33.1
@@ -1148,7 +1148,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2017,Percent,Pavlodar,urban,,,KZPAV,46.1
 2017,Percent,Soltustik Kazakhstan,urban,,,KZSEV,37.2
 2017,Percent,Shygys Kazakhstan,urban,,,KZVOS,42.3
-2017,Percent,Nur-Sultan city,urban,,,KZNS,43.2
+2017,Percent,Astana city,urban,,,KZNS,43.2
 2017,Percent,Almaty city,urban,,,KZALA,36.1
 2017,Percent,,rural,,,,33.3
 2017,Percent,Akmola,rural,,,KZAKM,39.8
@@ -1264,13 +1264,13 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2017,Percent,Shygys Kazakhstan,,45-54,,KZVOS,39.0
 2017,Percent,Shygys Kazakhstan,,55-64,,KZVOS,30.4
 2017,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,12.5
-2017,Percent,Nur-Sultan city,,16-24,,KZNS,62.5
-2017,Percent,Nur-Sultan city,,25-28,,KZNS,25.4
-2017,Percent,Nur-Sultan city,,29-34,,KZNS,58.1
-2017,Percent,Nur-Sultan city,,35-44,,KZNS,29.8
-2017,Percent,Nur-Sultan city,,45-54,,KZNS,42.1
-2017,Percent,Nur-Sultan city,,55-64,,KZNS,51.1
-2017,Percent,Nur-Sultan city,,65 and older,,KZNS,66.7
+2017,Percent,Astana city,,16-24,,KZNS,62.5
+2017,Percent,Astana city,,25-28,,KZNS,25.4
+2017,Percent,Astana city,,29-34,,KZNS,58.1
+2017,Percent,Astana city,,35-44,,KZNS,29.8
+2017,Percent,Astana city,,45-54,,KZNS,42.1
+2017,Percent,Astana city,,55-64,,KZNS,51.1
+2017,Percent,Astana city,,65 and older,,KZNS,66.7
 2017,Percent,Almaty city,,16-24,,KZALA,39.2
 2017,Percent,Almaty city,,25-28,,KZALA,34.3
 2017,Percent,Almaty city,,29-34,,KZALA,36.5
@@ -1293,7 +1293,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2018,Percent,Soltustik Kazakhstan,,,,KZSEV,39.3
 2018,Percent,Turkistan,,,,KZYUZ,40.3
 2018,Percent,Shygys Kazakhstan,,,,KZVOS,45.1
-2018,Percent,Nur-Sultan city,,,,KZNS,43.3
+2018,Percent,Astana city,,,,KZNS,43.3
 2018,Percent,Almaty city,,,,KZALA,43.2
 2018,Percent,Shymkent city,,,,KZSHY,46.7
 2018,Percent,,urban,,,,41.7
@@ -1311,7 +1311,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2018,Percent,Soltustik Kazakhstan,urban,,,KZSEV,43.1
 2018,Percent,Turkistan,urban,,,KZYUZ,37.9
 2018,Percent,Shygys Kazakhstan,urban,,,KZVOS,46.7
-2018,Percent,Nur-Sultan city,urban,,,KZNS,43.3
+2018,Percent,Astana city,urban,,,KZNS,43.3
 2018,Percent,Almaty city,urban,,,KZALA,43.2
 2018,Percent,Shymkent city,urban,,,KZSHY,46.7
 2018,Percent,,rural,,,,39.5
@@ -1428,13 +1428,13 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2018,Percent,Shygys Kazakhstan,,45-54,,KZVOS,48.4
 2018,Percent,Shygys Kazakhstan,,55-64,,KZVOS,42.7
 2018,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,17.6
-2018,Percent,Nur-Sultan city,,16-24,,KZNS,42.8
-2018,Percent,Nur-Sultan city,,25-28,,KZNS,41.5
-2018,Percent,Nur-Sultan city,,29-34,,KZNS,44.3
-2018,Percent,Nur-Sultan city,,35-44,,KZNS,44.0
-2018,Percent,Nur-Sultan city,,45-54,,KZNS,44.6
-2018,Percent,Nur-Sultan city,,55-64,,KZNS,35.9
-2018,Percent,Nur-Sultan city,,65 and older,,KZNS,46.3
+2018,Percent,Astana city,,16-24,,KZNS,42.8
+2018,Percent,Astana city,,25-28,,KZNS,41.5
+2018,Percent,Astana city,,29-34,,KZNS,44.3
+2018,Percent,Astana city,,35-44,,KZNS,44.0
+2018,Percent,Astana city,,45-54,,KZNS,44.6
+2018,Percent,Astana city,,55-64,,KZNS,35.9
+2018,Percent,Astana city,,65 and older,,KZNS,46.3
 2018,Percent,Almaty city,,16-24,,KZALA,45.3
 2018,Percent,Almaty city,,25-28,,KZALA,39.4
 2018,Percent,Almaty city,,29-34,,KZALA,39.3
@@ -1463,7 +1463,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2019,Percent,Soltustik Kazakhstan,,,,KZSEV,40.8
 2019,Percent,Turkistan,,,,KZYUZ,34.7
 2019,Percent,Shygys Kazakhstan,,,,KZVOS,44.5
-2019,Percent,Nur-Sultan city,,,,KZNS,52.1
+2019,Percent,Astana city,,,,KZNS,52.1
 2019,Percent,Almaty city,,,,KZALA,48.1
 2019,Percent,Shymkent city,,,,KZSHY,38.3
 2019,Percent,,urban,,,,43.9
@@ -1481,7 +1481,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2019,Percent,Soltustik Kazakhstan,urban,,,KZSEV,44.9
 2019,Percent,Turkistan,urban,,,KZYUZ,27.5
 2019,Percent,Shygys Kazakhstan,urban,,,KZVOS,45.0
-2019,Percent,Nur-Sultan city,urban,,,KZNS,52.1
+2019,Percent,Astana city,urban,,,KZNS,52.1
 2019,Percent,Almaty city,urban,,,KZALA,48.1
 2019,Percent,Shymkent city,urban,,,KZSHY,38.3
 2019,Percent,,rural,,,,40.0
@@ -1598,13 +1598,13 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2019,Percent,Shygys Kazakhstan,,35-44,,KZVOS,35.7
 2019,Percent,Shygys Kazakhstan,,45-54,,KZVOS,50.4
 2019,Percent,Shygys Kazakhstan,,55-64,,KZVOS,49.0
-2019,Percent,Nur-Sultan city,,16-24,,KZNS,41.3
-2019,Percent,Nur-Sultan city,,25-28,,KZNS,72.1
-2019,Percent,Nur-Sultan city,,29-34,,KZNS,64.5
-2019,Percent,Nur-Sultan city,,35-44,,KZNS,38.4
-2019,Percent,Nur-Sultan city,,45-54,,KZNS,43.8
-2019,Percent,Nur-Sultan city,,55-64,,KZNS,42.6
-2019,Percent,Nur-Sultan city,,65 and older,,KZNS,49.0
+2019,Percent,Astana city,,16-24,,KZNS,41.3
+2019,Percent,Astana city,,25-28,,KZNS,72.1
+2019,Percent,Astana city,,29-34,,KZNS,64.5
+2019,Percent,Astana city,,35-44,,KZNS,38.4
+2019,Percent,Astana city,,45-54,,KZNS,43.8
+2019,Percent,Astana city,,55-64,,KZNS,42.6
+2019,Percent,Astana city,,65 and older,,KZNS,49.0
 2019,Percent,Almaty city,,16-24,,KZALA,41.3
 2019,Percent,Almaty city,,25-28,,KZALA,72.1
 2019,Percent,Almaty city,,29-34,,KZALA,64.5
@@ -1633,7 +1633,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2020,Percent,Pavlodar,,,,KZPAV,40.6
 2020,Percent,Turkistan,,,,KZYUZ,35.5
 2020,Percent,Shygys Kazakhstan,,,,KZVOS,46.0
-2020,Percent,Nur-Sultan city,,,,KZNS,40.9
+2020,Percent,Astana city,,,,KZNS,40.9
 2020,Percent,Almaty city,,,,KZALA,46.1
 2020,Percent,Shymkent city,,,,KZSHY,36.3
 2020,Percent,,,,,,41.5
@@ -1651,7 +1651,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2020,Percent,Pavlodar,urban,,,KZPAV,44.8
 2020,Percent,Turkistan,urban,,,KZYUZ,43.3
 2020,Percent,Shygys Kazakhstan,urban,,,KZVOS,46.7
-2020,Percent,Nur-Sultan city,urban,,,KZNS,40.9
+2020,Percent,Astana city,urban,,,KZNS,40.9
 2020,Percent,Almaty city,urban,,,KZALA,46.1
 2020,Percent,Shymkent city,urban,,,KZSHY,36.3
 2020,Percent,,,,,,40.0
@@ -1784,14 +1784,14 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2020,Percent,Shygys Kazakhstan,,45-54,,KZVOS,53.3
 2020,Percent,Shygys Kazakhstan,,55-64,,KZVOS,46.4
 2020,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,36.5
-2020,Percent,Nur-Sultan city,,,,KZNS,40.9
-2020,Percent,Nur-Sultan city,,16-24,,KZNS,39.8
-2020,Percent,Nur-Sultan city,,25-28,,KZNS,58.6
-2020,Percent,Nur-Sultan city,,29-34,,KZNS,27.4
-2020,Percent,Nur-Sultan city,,35-44,,KZNS,40.9
-2020,Percent,Nur-Sultan city,,45-54,,KZNS,42.8
-2020,Percent,Nur-Sultan city,,55-64,,KZNS,33.8
-2020,Percent,Nur-Sultan city,,65 and older,,KZNS,77.1
+2020,Percent,Astana city,,,,KZNS,40.9
+2020,Percent,Astana city,,16-24,,KZNS,39.8
+2020,Percent,Astana city,,25-28,,KZNS,58.6
+2020,Percent,Astana city,,29-34,,KZNS,27.4
+2020,Percent,Astana city,,35-44,,KZNS,40.9
+2020,Percent,Astana city,,45-54,,KZNS,42.8
+2020,Percent,Astana city,,55-64,,KZNS,33.8
+2020,Percent,Astana city,,65 and older,,KZNS,77.1
 2020,Percent,Almaty city,,,,KZALA,46.1
 2020,Percent,Almaty city,,16-24,,KZALA,46.6
 2020,Percent,Almaty city,,25-28,,KZALA,40.9
@@ -1822,7 +1822,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2021,Percent,Pavlodar,,,,KZPAV,45.5
 2021,Percent,Turkistan,,,,KZYUZ,33.6
 2021,Percent,Shygys Kazakhstan,,,,KZVOS,35.3
-2021,Percent,Nur-Sultan city,,,,KZNS,39.3
+2021,Percent,Astana city,,,,KZNS,39.3
 2021,Percent,Almaty city,,,,KZALA,40.9
 2021,Percent,Shymkent city,,,,KZSHY,34.8
 2021,Percent,,,,,,39.3
@@ -1840,7 +1840,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2021,Percent,Pavlodar,urban,,,KZPAV,52.2
 2021,Percent,Turkistan,urban,,,KZYUZ,48.6
 2021,Percent,Shygys Kazakhstan,urban,,,KZVOS,34.6
-2021,Percent,Nur-Sultan city,urban,,,KZNS,39.3
+2021,Percent,Astana city,urban,,,KZNS,39.3
 2021,Percent,Almaty city,urban,,,KZALA,40.9
 2021,Percent,Shymkent city,urban,,,KZSHY,34.8
 2021,Percent,,,,,,38.2
@@ -1973,14 +1973,14 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2021,Percent,Shygys Kazakhstan,,45-54,,KZVOS,40.6
 2021,Percent,Shygys Kazakhstan,,55-64,,KZVOS,30.4
 2021,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,0.0
-2021,Percent,Nur-Sultan city,,,,KZNS,39.3
-2021,Percent,Nur-Sultan city,,16-24,,KZNS,44.7
-2021,Percent,Nur-Sultan city,,25-28,,KZNS,34.5
-2021,Percent,Nur-Sultan city,,29-34,,KZNS,33.3
-2021,Percent,Nur-Sultan city,,35-44,,KZNS,39.8
-2021,Percent,Nur-Sultan city,,45-54,,KZNS,39.6
-2021,Percent,Nur-Sultan city,,55-64,,KZNS,49.3
-2021,Percent,Nur-Sultan city,,65 and older,,KZNS,0.0
+2021,Percent,Astana city,,,,KZNS,39.3
+2021,Percent,Astana city,,16-24,,KZNS,44.7
+2021,Percent,Astana city,,25-28,,KZNS,34.5
+2021,Percent,Astana city,,29-34,,KZNS,33.3
+2021,Percent,Astana city,,35-44,,KZNS,39.8
+2021,Percent,Astana city,,45-54,,KZNS,39.6
+2021,Percent,Astana city,,55-64,,KZNS,49.3
+2021,Percent,Astana city,,65 and older,,KZNS,0.0
 2021,Percent,Almaty city,,,,KZALA,40.9
 2021,Percent,Almaty city,,16-24,,KZALA,45.3
 2021,Percent,Almaty city,,25-28,,KZALA,34.9
@@ -2011,7 +2011,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2022,Percent,Pavlodar,,,,KZPAV,38.7
 2022,Percent,Turkistan,,,,KZYUZ,27.4
 2022,Percent,Shygys Kazakhstan,,,,KZVOS,30.9
-2022,Percent,Nur-Sultan city,,,,KZNS,49.9
+2022,Percent,Astana city,,,,KZNS,49.9
 2022,Percent,Almaty city,,,,KZALA,40.8
 2022,Percent,Shymkent city,,,,KZSHY,38.1
 2022,Percent,,,,,,41.5
@@ -2029,7 +2029,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2022,Percent,Pavlodar,urban,,,KZPAV,42.9
 2022,Percent,Turkistan,urban,,,KZYUZ,31.3
 2022,Percent,Shygys Kazakhstan,urban,,,KZVOS,29.6
-2022,Percent,Nur-Sultan city,urban,,,KZNS,49.9
+2022,Percent,Astana city,urban,,,KZNS,49.9
 2022,Percent,Almaty city,urban,,,KZALA,40.8
 2022,Percent,Shymkent city,urban,,,KZSHY,38.1
 2022,Percent,,,,,,38.5
@@ -2162,14 +2162,14 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2022,Percent,Shygys Kazakhstan,,45-54,,KZVOS,36.3
 2022,Percent,Shygys Kazakhstan,,55-64,,KZVOS,30.2
 2022,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,33.9
-2022,Percent,Nur-Sultan city,,,,KZNS,49.9
-2022,Percent,Nur-Sultan city,,16-24,,KZNS,48.0
-2022,Percent,Nur-Sultan city,,25-28,,KZNS,48.8
-2022,Percent,Nur-Sultan city,,29-34,,KZNS,46.3
-2022,Percent,Nur-Sultan city,,35-44,,KZNS,49.3
-2022,Percent,Nur-Sultan city,,45-54,,KZNS,53.6
-2022,Percent,Nur-Sultan city,,55-64,,KZNS,54.0
-2022,Percent,Nur-Sultan city,,65 and older,,KZNS,0.0
+2022,Percent,Astana city,,,,KZNS,49.9
+2022,Percent,Astana city,,16-24,,KZNS,48.0
+2022,Percent,Astana city,,25-28,,KZNS,48.8
+2022,Percent,Astana city,,29-34,,KZNS,46.3
+2022,Percent,Astana city,,35-44,,KZNS,49.3
+2022,Percent,Astana city,,45-54,,KZNS,53.6
+2022,Percent,Astana city,,55-64,,KZNS,54.0
+2022,Percent,Astana city,,65 and older,,KZNS,0.0
 2022,Percent,Almaty city,,,,KZALA,40.8
 2022,Percent,Almaty city,,16-24,,KZALA,47.8
 2022,Percent,Almaty city,,25-28,,KZALA,40.7
@@ -2200,7 +2200,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2023,Percent,Pavlodar,,,,KZPAV,39.8
 2023,Percent,Turkistan,,,,KZYUZ,35.0
 2023,Percent,Shygys Kazakhstan,,,,KZVOS,39.3
-2023,Percent,Nur-Sultan city,,,,KZNS,46.7
+2023,Percent,Astana city,,,,KZNS,46.7
 2023,Percent,Almaty city,,,,KZALA,42.7
 2023,Percent,Shymkent city,,,,KZSHY,35.0
 2023,Percent,,,,,,41.5
@@ -2218,7 +2218,7 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2023,Percent,Pavlodar,urban,,,KZPAV,40.3
 2023,Percent,Turkistan,urban,,,KZYUZ,40.6
 2023,Percent,Shygys Kazakhstan,urban,,,KZVOS,36.0
-2023,Percent,Nur-Sultan city,urban,,,KZNS,46.7
+2023,Percent,Astana city,urban,,,KZNS,46.7
 2023,Percent,Almaty city,urban,,,KZALA,42.7
 2023,Percent,Shymkent city,urban,,,KZSHY,35.0
 2023,Percent,,,,,,40.1
@@ -2351,14 +2351,14 @@ Year,UNIT_MEASURE,Regions,Area,Age,Unnamed: 6,GeoCode,Value
 2023,Percent,Shygys Kazakhstan,,45-54,,KZVOS,51.8
 2023,Percent,Shygys Kazakhstan,,55-64,,KZVOS,34.2
 2023,Percent,Shygys Kazakhstan,,65 and older,,KZVOS,41.0
-2023,Percent,Nur-Sultan city,,,,KZNS,46.7
-2023,Percent,Nur-Sultan city,,16-24,,KZNS,39.3
-2023,Percent,Nur-Sultan city,,25-28,,KZNS,44.1
-2023,Percent,Nur-Sultan city,,29-34,,KZNS,45.6
-2023,Percent,Nur-Sultan city,,35-44,,KZNS,47.9
-2023,Percent,Nur-Sultan city,,45-54,,KZNS,49.1
-2023,Percent,Nur-Sultan city,,55-64,,KZNS,49.4
-2023,Percent,Nur-Sultan city,,65 and older,,KZNS,44.4
+2023,Percent,Astana city,,,,KZNS,46.7
+2023,Percent,Astana city,,16-24,,KZNS,39.3
+2023,Percent,Astana city,,25-28,,KZNS,44.1
+2023,Percent,Astana city,,29-34,,KZNS,45.6
+2023,Percent,Astana city,,35-44,,KZNS,47.9
+2023,Percent,Astana city,,45-54,,KZNS,49.1
+2023,Percent,Astana city,,55-64,,KZNS,49.4
+2023,Percent,Astana city,,65 and older,,KZNS,44.4
 2023,Percent,Almaty city,,,,KZALA,42.7
 2023,Percent,Almaty city,,16-24,,KZALA,49.8
 2023,Percent,Almaty city,,25-28,,KZALA,43.2

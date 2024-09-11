@@ -30,8 +30,8 @@ Year,UNIT_MEASURE,SERIES,Sex,Regions,GeoCode,Value
 2015,Percent,i) literacy (based on gender),Female,Soltustik Kazakhstan,KZSEV,78.0
 2015,Percent,i) literacy (based on gender),Male,Shygys Kazakhstan,KZVOS,57.0
 2015,Percent,i) literacy (based on gender),Female,Shygys Kazakhstan,KZVOS,63.0
-2015,Percent,i) literacy (based on gender),Male,Nur-Sultan city,KZNS,82.0
-2015,Percent,i) literacy (based on gender),Female,Nur-Sultan city,KZNS,85.0
+2015,Percent,i) literacy (based on gender),Male,Astana city,KZNS,82.0
+2015,Percent,i) literacy (based on gender),Female,Astana city,KZNS,85.0
 2015,Percent,i) literacy (based on gender),Male,Almaty city,KZALA,64.0
 2015,Percent,i) literacy (based on gender),Female,Almaty city,KZALA,78.0
 2015,Percent,ii) basic math skills (based on gender and 3rd grade),,,,99.977
@@ -74,8 +74,8 @@ Year,UNIT_MEASURE,SERIES,Sex,Regions,GeoCode,Value
 2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Soltustik Kazakhstan,KZSEV,70.0
 2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Shygys Kazakhstan,KZVOS,72.0
 2015,Percent,math skills,Female,Shygys Kazakhstan,KZVOS,72.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Nur-Sultan city,KZNS,85.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Nur-Sultan city,KZNS,82.0
+2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Astana city,KZNS,85.0
+2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Astana city,KZNS,82.0
 2015,Percent,math skills,Male,Almaty city,KZALA,66.0
 2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Almaty city,KZALA,75.0
 2015,Percent,math skills,,,,90.8
@@ -109,8 +109,8 @@ Year,UNIT_MEASURE,SERIES,Sex,Regions,GeoCode,Value
 2015,Percent,math skills,Female,Soltustik Kazakhstan,KZSEV,94.69
 2015,Percent,math skills,Male,Shygys Kazakhstan,KZVOS,98.99
 2015,Percent,math skills,Female,Shygys Kazakhstan,KZVOS,99.4
-2015,Percent,math skills,Male,Nur-Sultan city,KZNS,85.04
-2015,Percent,math skills,Female,Nur-Sultan city,KZNS,95.37
+2015,Percent,math skills,Male,Astana city,KZNS,85.04
+2015,Percent,math skills,Female,Astana city,KZNS,95.37
 2015,Percent,math skills,Male,Almaty city,KZALA,97.17
 2015,Percent,math skills,Female,Almaty city,KZALA,92.92
 2016,Percent,math skills,,,,98.0
@@ -147,8 +147,8 @@ Year,UNIT_MEASURE,SERIES,Sex,Regions,GeoCode,Value
 2018,Percent,i) literacy (based on gender),Female,Soltustik Kazakhstan,KZSEV,59.7
 2018,Percent,i) literacy (based on gender),Male,Shygys Kazakhstan,KZVOS,37.05
 2018,Percent,i) literacy (based on gender),Female,Shygys Kazakhstan,KZVOS,55.91
-2018,Percent,i) literacy (based on gender),Male,Nur-Sultan city,KZNS,53.4
-2018,Percent,i) literacy (based on gender),Female,Nur-Sultan city,KZNS,60.67
+2018,Percent,i) literacy (based on gender),Male,Astana city,KZNS,53.4
+2018,Percent,i) literacy (based on gender),Female,Astana city,KZNS,60.67
 2018,Percent,i) literacy (based on gender),Male,Almaty city,KZALA,48.11
 2018,Percent,i) literacy (based on gender),Female,Almaty city,KZALA,61.21
 2018,Percent,math skills,,,,50.9
@@ -182,7 +182,7 @@ Year,UNIT_MEASURE,SERIES,Sex,Regions,GeoCode,Value
 2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Soltustik Kazakhstan,KZSEV,53.4
 2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Shygys Kazakhstan,KZVOS,55.6
 2018,Percent,math skills,Female,Shygys Kazakhstan,KZVOS,60.7
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Nur-Sultan city,KZNS,65.2
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Nur-Sultan city,KZNS,59.8
+2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Astana city,KZNS,65.2
+2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Astana city,KZNS,59.8
 2018,Percent,math skills,Male,Almaty city,KZALA,62.1
 2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Almaty city,KZALA,60.9

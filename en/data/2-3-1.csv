@@ -14,7 +14,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2010,thousand of tenge,Pavlodar,KZPAV,473.6
 2010,thousand of tenge,Soltustik Kazakhstan,KZSEV,630.8
 2010,thousand of tenge,Shygys Kazakhstan,KZVOS,462.6
-2010,thousand of tenge,Nur-Sultan city,KZNS,453.7
+2010,thousand of tenge,Astana city,KZNS,453.7
 2010,thousand of tenge,Almaty city,KZALA,250.6
 2011,thousand of tenge,,,641.6
 2011,thousand of tenge,Akmola,KZAKM,1146.2
@@ -31,7 +31,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2011,thousand of tenge,Pavlodar,KZPAV,605.0
 2011,thousand of tenge,Soltustik Kazakhstan,KZSEV,1337.1
 2011,thousand of tenge,Shygys Kazakhstan,KZVOS,562.7
-2011,thousand of tenge,Nur-Sultan city,KZNS,1145.3
+2011,thousand of tenge,Astana city,KZNS,1145.3
 2011,thousand of tenge,Almaty city,KZALA,363.7
 2012,thousand of tenge,,,612.2
 2012,thousand of tenge,Akmola,KZAKM,682.4
@@ -48,7 +48,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2012,thousand of tenge,Pavlodar,KZPAV,594.6
 2012,thousand of tenge,Soltustik Kazakhstan,KZSEV,1200.6
 2012,thousand of tenge,Shygys Kazakhstan,KZVOS,903.5
-2012,thousand of tenge,Nur-Sultan city,KZNS,1044.9
+2012,thousand of tenge,Astana city,KZNS,1044.9
 2012,thousand of tenge,Almaty city,KZALA,147.7
 2013,thousand of tenge,,,781.9
 2013,thousand of tenge,Akmola,KZAKM,1018.0
@@ -65,7 +65,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2013,thousand of tenge,Pavlodar,KZPAV,840.7
 2013,thousand of tenge,Soltustik Kazakhstan,KZSEV,1254.4
 2013,thousand of tenge,Shygys Kazakhstan,KZVOS,1078.9
-2013,thousand of tenge,Nur-Sultan city,KZNS,762.8
+2013,thousand of tenge,Astana city,KZNS,762.8
 2013,thousand of tenge,Almaty city,KZALA,194.3
 2014,thousand of tenge,,,1070.2
 2014,thousand of tenge,Akmola,KZAKM,1075.3
@@ -82,7 +82,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2014,thousand of tenge,Pavlodar,KZPAV,753.0
 2014,thousand of tenge,Soltustik Kazakhstan,KZSEV,1567.0
 2014,thousand of tenge,Shygys Kazakhstan,KZVOS,1317.7
-2014,thousand of tenge,Nur-Sultan city,KZNS,648.8
+2014,thousand of tenge,Astana city,KZNS,648.8
 2014,thousand of tenge,Almaty city,KZALA,2416.8
 2015,thousand of tenge,,,1242.3
 2015,thousand of tenge,Akmola,KZAKM,1216.0
@@ -99,7 +99,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2015,thousand of tenge,Pavlodar,KZPAV,884.5
 2015,thousand of tenge,Soltustik Kazakhstan,KZSEV,1709.7
 2015,thousand of tenge,Shygys Kazakhstan,KZVOS,1733.9
-2015,thousand of tenge,Nur-Sultan city,KZNS,1533.5
+2015,thousand of tenge,Astana city,KZNS,1533.5
 2015,thousand of tenge,Almaty city,KZALA,2051.0
 2016,thousand of tenge,,,1401.9
 2016,thousand of tenge,Akmola,KZAKM,1365.9
@@ -116,7 +116,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2016,thousand of tenge,Pavlodar,KZPAV,1153.4
 2016,thousand of tenge,Soltustik Kazakhstan,KZSEV,1939.5
 2016,thousand of tenge,Shygys Kazakhstan,KZVOS,2032.7
-2016,thousand of tenge,Nur-Sultan city,KZNS,1002.9
+2016,thousand of tenge,Astana city,KZNS,1002.9
 2016,thousand of tenge,Almaty city,KZALA,2231.0
 2017,thousand of tenge,,,1735.9
 2017,thousand of tenge,Akmola,KZAKM,1657.0
@@ -133,7 +133,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2017,thousand of tenge,Pavlodar,KZPAV,1487.7
 2017,thousand of tenge,Soltustik Kazakhstan,KZSEV,2615.7
 2017,thousand of tenge,Shygys Kazakhstan,KZVOS,2550.6
-2017,thousand of tenge,Nur-Sultan city,KZNS,3141.7
+2017,thousand of tenge,Astana city,KZNS,3141.7
 2017,thousand of tenge,Almaty city,KZALA,2276.6
 2018,thousand of tenge,,,2076.6
 2018,thousand of tenge,Akmola,KZAKM,1921.8
@@ -150,7 +150,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2018,thousand of tenge,Soltustik Kazakhstan,KZSEV,2781.3
 2018,thousand of tenge,Turkistan,KZYUZ,1725.6
 2018,thousand of tenge,Shygys Kazakhstan,KZVOS,3077.7
-2018,thousand of tenge,Nur-Sultan city,KZNS,2134.8
+2018,thousand of tenge,Astana city,KZNS,2134.8
 2018,thousand of tenge,Almaty city,KZALA,2245.8
 2018,thousand of tenge,Shymkent city,KZSHY,2034.2
 2019,thousand of tenge,,,2466.0
@@ -168,7 +168,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2019,thousand of tenge,Soltustik Kazakhstan,KZSEV,3546.2
 2019,thousand of tenge,Turkistan,KZYUZ,2077.8
 2019,thousand of tenge,Shygys Kazakhstan,KZVOS,3487.2
-2019,thousand of tenge,Nur-Sultan city,KZNS,1907.5
+2019,thousand of tenge,Astana city,KZNS,1907.5
 2019,thousand of tenge,Almaty city,KZALA,2354.1
 2019,thousand of tenge,Shymkent city,KZSHY,2786.8
 2020,thousand of tenge,,,3004.8
@@ -186,7 +186,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2020,thousand of tenge,Soltustik Kazakhstan,KZSEV,4583.6
 2020,thousand of tenge,Turkistan,KZYUZ,2515.2
 2020,thousand of tenge,Shygys Kazakhstan,KZVOS,4246.1
-2020,thousand of tenge,Nur-Sultan city,KZNS,1423.9
+2020,thousand of tenge,Astana city,KZNS,1423.9
 2020,thousand of tenge,Almaty city,KZALA,2659.1
 2020,thousand of tenge,Shymkent city,KZSHY,3496.3
 2021,thousand of tenge,,,3350.7
@@ -204,7 +204,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2021,thousand of tenge,Soltustik Kazakhstan,KZSEV,5002.9
 2021,thousand of tenge,Turkistan,KZYUZ,2951.5
 2021,thousand of tenge,Shygys Kazakhstan,KZVOS,4978.6
-2021,thousand of tenge,Nur-Sultan city,KZNS,1952.2
+2021,thousand of tenge,Astana city,KZNS,1952.2
 2021,thousand of tenge,Almaty city,KZALA,2346.4
 2021,thousand of tenge,Shymkent city,KZSHY,4341.5
 2022,thousand of tenge,,,4608.2
@@ -222,6 +222,6 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,thousand of tenge,Soltustik Kazakhstan,KZSEV,7053.5
 2022,thousand of tenge,Turkistan,KZYUZ,3188.6
 2022,thousand of tenge,Shygys Kazakhstan,KZVOS,7196.9
-2022,thousand of tenge,Nur-Sultan city,KZNS,1503.6
+2022,thousand of tenge,Astana city,KZNS,1503.6
 2022,thousand of tenge,Almaty city,KZALA,1164.1
 2022,thousand of tenge,Shymkent city,KZSHY,3634.3

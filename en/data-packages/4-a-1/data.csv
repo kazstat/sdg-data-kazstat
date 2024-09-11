@@ -18,7 +18,7 @@ Year,UNIT_MEASURE,SERIES,Area,Regions,GeoCode,Value
 2019,Percent,access to the internet for education purposes,,Soltustik Kazakhstan,KZSEV,90.74074074074076
 2019,Percent,access to the internet for education purposes,,Turkistan,KZYUZ,83.04347826086956
 2019,Percent,access to the internet for education purposes,,Shygys Kazakhstan,KZVOS,99.11634756995582
-2019,Percent,access to the internet for education purposes,,Nur-Sultan city,KZNS,94.91525423728814
+2019,Percent,access to the internet for education purposes,,Astana city,KZNS,94.91525423728814
 2019,Percent,access to the internet for education purposes,,Almaty city,KZALA,98.6206896551724
 2019,Percent,access to the internet for education purposes,,Shymkent city,KZSHY,91.90751445086704
 2019,Percent,access to the internet for education purposes,urban,,,96.68717463322292
@@ -36,7 +36,7 @@ Year,UNIT_MEASURE,SERIES,Area,Regions,GeoCode,Value
 2019,Percent,access to the internet for education purposes,urban,Soltustik Kazakhstan,KZSEV,98.4375
 2019,Percent,access to the internet for education purposes,urban,Turkistan,KZYUZ,90.2439024390244
 2019,Percent,access to the internet for education purposes,urban,Shygys Kazakhstan,KZVOS,98.34254143646407
-2019,Percent,access to the internet for education purposes,urban,Nur-Sultan city,KZNS,94.91525423728814
+2019,Percent,access to the internet for education purposes,urban,Astana city,KZNS,94.91525423728814
 2019,Percent,access to the internet for education purposes,urban,Almaty city,KZALA,98.6206896551724
 2019,Percent,access to the internet for education purposes,urban,Shymkent city,KZSHY,91.90751445086704
 2019,Percent,access to the internet for education purposes,rural,,,93.01797540208136
@@ -69,7 +69,7 @@ Year,UNIT_MEASURE,SERIES,Area,Regions,GeoCode,Value
 2019,Percent,separate restrooms which meet minimum standards,,Soltustik Kazakhstan,KZSEV,100.0
 2019,Percent,separate restrooms which meet minimum standards,,Turkistan,KZYUZ,100.0
 2019,Percent,separate restrooms which meet minimum standards,,Shygys Kazakhstan,KZVOS,100.0
-2019,Percent,separate restrooms which meet minimum standards,,Nur-Sultan city,KZNS,100.0
+2019,Percent,separate restrooms which meet minimum standards,,Astana city,KZNS,100.0
 2019,Percent,separate restrooms which meet minimum standards,,Almaty city,KZALA,100.0
 2019,Percent,separate restrooms which meet minimum standards,,Shymkent city,KZSHY,100.0
 2019,Percent,_L_KZ_040a01_1A,,,,41.57880508245472
@@ -87,7 +87,7 @@ Year,UNIT_MEASURE,SERIES,Area,Regions,GeoCode,Value
 2019,Percent,_L_KZ_040a01_1A,,Soltustik Kazakhstan,KZSEV,62.96296296296296
 2019,Percent,_L_KZ_040a01_1A,,Turkistan,KZYUZ,34.891304347826086
 2019,Percent,_L_KZ_040a01_1A,,Shygys Kazakhstan,KZVOS,32.40058910162003
-2019,Percent,_L_KZ_040a01_1A,,Nur-Sultan city,KZNS,0.847457627118644
+2019,Percent,_L_KZ_040a01_1A,,Astana city,KZNS,0.847457627118644
 2019,Percent,_L_KZ_040a01_1A,,Almaty city,KZALA,3.103448275862069
 2019,Percent,_L_KZ_040a01_1A,,Shymkent city,KZSHY,46.24277456647399
 2019,Percent,_L_KZ_040a01_1B,,,,31.346309813463098
@@ -105,7 +105,7 @@ Year,UNIT_MEASURE,SERIES,Area,Regions,GeoCode,Value
 2019,Percent,_L_KZ_040a01_1B,,Soltustik Kazakhstan,KZSEV,13.580246913580249
 2019,Percent,_L_KZ_040a01_1B,,Turkistan,KZYUZ,59.130434782608695
 2019,Percent,_L_KZ_040a01_1B,,Shygys Kazakhstan,KZVOS,40.50073637702504
-2019,Percent,_L_KZ_040a01_1B,,Nur-Sultan city,KZNS,0.0
+2019,Percent,_L_KZ_040a01_1B,,Astana city,KZNS,0.0
 2019,Percent,_L_KZ_040a01_1B,,Almaty city,KZALA,1.0344827586206895
 2019,Percent,_L_KZ_040a01_1B,,Shymkent city,KZSHY,18.497109826589597
 2019,Percent,_L_KZ_040a01_1C,,,,27.074885104082185
@@ -123,6 +123,6 @@ Year,UNIT_MEASURE,SERIES,Area,Regions,GeoCode,Value
 2019,Percent,_L_KZ_040a01_1C,,Soltustik Kazakhstan,KZSEV,23.456790123456788
 2019,Percent,_L_KZ_040a01_1C,,Turkistan,KZYUZ,5.978260869565218
 2019,Percent,_L_KZ_040a01_1C,,Shygys Kazakhstan,KZVOS,27.098674521354933
-2019,Percent,_L_KZ_040a01_1C,,Nur-Sultan city,KZNS,99.15254237288136
+2019,Percent,_L_KZ_040a01_1C,,Astana city,KZNS,99.15254237288136
 2019,Percent,_L_KZ_040a01_1C,,Almaty city,KZALA,95.86206896551724
 2019,Percent,_L_KZ_040a01_1C,,Shymkent city,KZSHY,35.26011560693642

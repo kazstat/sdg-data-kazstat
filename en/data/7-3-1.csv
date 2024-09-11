@@ -15,7 +15,7 @@ Year,Regions,GeoCode,Value
 2012,Pavlodar,KZPAV,7.39
 2012,Soltustik Kazakhstan,KZSEV,0.29
 2012,Shygys Kazakhstan,KZVOS,0.96
-2012,Nur-Sultan city,KZNS,0.06
+2012,Astana city,KZNS,0.06
 2012,Almaty city,KZALA,0.23
 2013,,,0.46
 2013,Akmola,KZAKM,0.51
@@ -32,7 +32,7 @@ Year,Regions,GeoCode,Value
 2013,Pavlodar,KZPAV,6.58
 2013,Soltustik Kazakhstan,KZSEV,0.37
 2013,Shygys Kazakhstan,KZVOS,0.88
-2013,Nur-Sultan city,KZNS,0.04
+2013,Astana city,KZNS,0.04
 2013,Almaty city,KZALA,0.14
 2014,,,0.42
 2014,Akmola,KZAKM,0.67
@@ -49,7 +49,7 @@ Year,Regions,GeoCode,Value
 2014,Pavlodar,KZPAV,6.49
 2014,Soltustik Kazakhstan,KZSEV,0.54
 2014,Shygys Kazakhstan,KZVOS,0.82
-2014,Nur-Sultan city,KZNS,0.2
+2014,Astana city,KZNS,0.2
 2014,Almaty city,KZALA,0.12
 2015,,,0.42
 2015,Akmola,KZAKM,0.39
@@ -66,7 +66,7 @@ Year,Regions,GeoCode,Value
 2015,Pavlodar,KZPAV,6.22
 2015,Soltustik Kazakhstan,KZSEV,0.42
 2015,Shygys Kazakhstan,KZVOS,0.8
-2015,Nur-Sultan city,KZNS,0.1
+2015,Astana city,KZNS,0.1
 2015,Almaty city,KZALA,0.12
 2016,,,0.42
 2016,Akmola,KZAKM,0.45
@@ -83,7 +83,7 @@ Year,Regions,GeoCode,Value
 2016,Pavlodar,KZPAV,6.31
 2016,Soltustik Kazakhstan,KZSEV,0.22
 2016,Shygys Kazakhstan,KZVOS,0.84
-2016,Nur-Sultan city,KZNS,0.09
+2016,Astana city,KZNS,0.09
 2016,Almaty city,KZALA,0.11
 2017,,,0.42
 2017,Akmola,KZAKM,0.43
@@ -100,7 +100,7 @@ Year,Regions,GeoCode,Value
 2017,Pavlodar,KZPAV,6.1
 2017,Soltustik Kazakhstan,KZSEV,0.3
 2017,Shygys Kazakhstan,KZVOS,0.83
-2017,Nur-Sultan city,KZNS,0.1
+2017,Astana city,KZNS,0.1
 2017,Almaty city,KZALA,0.12
 2018,,,0.37
 2018,Akmola,KZAKM,0.3
@@ -117,7 +117,7 @@ Year,Regions,GeoCode,Value
 2018,Pavlodar,KZPAV,7.12
 2018,Soltustik Kazakhstan,KZSEV,0.06
 2018,Shygys Kazakhstan,KZVOS,0.79
-2018,Nur-Sultan city,KZNS,0.07
+2018,Astana city,KZNS,0.07
 2018,Almaty city,KZALA,0.09
 2019,,,0.34
 2019,Akmola,KZAKM,0.27
@@ -134,5 +134,5 @@ Year,Regions,GeoCode,Value
 2019,Pavlodar,KZPAV,5.26
 2019,Soltustik Kazakhstan,KZSEV,0.01
 2019,Shygys Kazakhstan,KZVOS,1.04
-2019,Nur-Sultan city,KZNS,0.06
+2019,Astana city,KZNS,0.06
 2019,Almaty city,KZALA,0.11

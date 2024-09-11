@@ -14,7 +14,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2010,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.09
 2010,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.06
 2010,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.07
-2010,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.12
+2010,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.12
 2010,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.06
 2010,age: 10-14 years old,urban,,,,,,,,,0.06
 2010,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.3
@@ -31,7 +31,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2010,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
 2010,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2010,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.1
-2010,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2010,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.0
 2010,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
 2010,age: 10-14 years old,rural,,,,,,,,,0.03
 2010,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
@@ -63,7 +63,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2010,15-19,,Pavlodar,,,,,,,KZPAV,27.56
 2010,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,31.22
 2010,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,24.94
-2010,15-19,,Nur-Sultan city,,,,,,,KZNS,22.6
+2010,15-19,,Astana city,,,,,,,KZNS,22.6
 2010,15-19,,Almaty city,,,,,,,KZALA,13.97
 2010,15-19,urban,,,,,,,,,25.76
 2010,15-19,urban,Akmola,,,,,,,KZAKM,31.14
@@ -80,7 +80,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2010,15-19,urban,Pavlodar,,,,,,,KZPAV,25.58
 2010,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,25.08
 2010,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,22.3
-2010,15-19,urban,Nur-Sultan city,,,,,,,KZNS,22.6
+2010,15-19,urban,Astana city,,,,,,,KZNS,22.6
 2010,15-19,urban,Almaty city,,,,,,,KZALA,13.97
 2010,15-19,rural,,,,,,,,,31.03
 2010,15-19,rural,Akmola,,,,,,,KZAKM,35.31
@@ -112,7 +112,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2011,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
 2011,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.12
 2011,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.03
-2011,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.05
+2011,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.05
 2011,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.03
 2011,age: 10-14 years old,urban,,,,,,,,,0.02
 2011,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.0
@@ -129,7 +129,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2011,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
 2011,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2011,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2011,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.05
+2011,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.05
 2011,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.03
 2011,age: 10-14 years old,rural,,,,,,,,,0.02
 2011,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
@@ -161,7 +161,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2011,15-19,,Pavlodar,,,,,,,KZPAV,30.66
 2011,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,31.56
 2011,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,25.4
-2011,15-19,,Nur-Sultan city,,,,,,,KZNS,23.46
+2011,15-19,,Astana city,,,,,,,KZNS,23.46
 2011,15-19,,Almaty city,,,,,,,KZALA,16.57
 2011,15-19,urban,,,,,,,,,29.93
 2011,15-19,urban,Akmola,,,,,,,KZAKM,31.76
@@ -178,7 +178,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2011,15-19,urban,Pavlodar,,,,,,,KZPAV,29.42
 2011,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,29.09
 2011,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,25.79
-2011,15-19,urban,Nur-Sultan city,,,,,,,KZNS,23.46
+2011,15-19,urban,Astana city,,,,,,,KZNS,23.46
 2011,15-19,urban,Almaty city,,,,,,,KZALA,16.57
 2011,15-19,rural,,,,,,,,,33.39
 2011,15-19,rural,Akmola,,,,,,,KZAKM,32.7
@@ -210,7 +210,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2012,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.1
 2012,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2012,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.08
-2012,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2012,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.0
 2012,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
 2012,age: 10-14 years old,urban,,,,,,,,,0.04
 2012,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.0
@@ -227,7 +227,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2012,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.08
 2012,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2012,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.1
-2012,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2012,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.0
 2012,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
 2012,age: 10-14 years old,rural,,,,,,,,,0.02
 2012,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
@@ -259,7 +259,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2012,15-19,,Pavlodar,,,,,,,KZPAV,31.49
 2012,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,28.25
 2012,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,25.69
-2012,15-19,,Nur-Sultan city,,,,,,,KZNS,26.03
+2012,15-19,,Astana city,,,,,,,KZNS,26.03
 2012,15-19,,Almaty city,,,,,,,KZALA,19.09
 2012,15-19,urban,,,,,,,,,32.8
 2012,15-19,urban,Akmola,,,,,,,KZAKM,33.93
@@ -276,7 +276,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2012,15-19,urban,Pavlodar,,,,,,,KZPAV,32.16
 2012,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,28.88
 2012,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,28.34
-2012,15-19,urban,Nur-Sultan city,,,,,,,KZNS,26.03
+2012,15-19,urban,Astana city,,,,,,,KZNS,26.03
 2012,15-19,urban,Almaty city,,,,,,,KZALA,19.09
 2012,15-19,rural,,,,,,,,,34.76
 2012,15-19,rural,Akmola,,,,,,,KZAKM,34.92
@@ -308,7 +308,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2013,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.1
 2013,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.06
 2013,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.05
-2013,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2013,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.0
 2013,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.03
 2013,age: 10-14 years old,urban,,,,,,,,,0.03
 2013,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.11
@@ -325,7 +325,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2013,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.08
 2013,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2013,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.05
-2013,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2013,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.0
 2013,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.03
 2013,age: 10-14 years old,rural,,,,,,,,,0.04
 2013,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.07
@@ -357,7 +357,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2013,15-19,,Pavlodar,,,,,,,KZPAV,30.0
 2013,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,27.35
 2013,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,26.45
-2013,15-19,,Nur-Sultan city,,,,,,,KZNS,26.41
+2013,15-19,,Astana city,,,,,,,KZNS,26.41
 2013,15-19,,Almaty city,,,,,,,KZALA,14.74
 2013,15-19,urban,,,,,,,,,30.78
 2013,15-19,urban,Akmola,,,,,,,KZAKM,31.36
@@ -374,7 +374,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2013,15-19,urban,Pavlodar,,,,,,,KZPAV,27.79
 2013,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,25.82
 2013,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,28.71
-2013,15-19,urban,Nur-Sultan city,,,,,,,KZNS,26.41
+2013,15-19,urban,Astana city,,,,,,,KZNS,26.41
 2013,15-19,urban,Almaty city,,,,,,,KZALA,14.74
 2013,15-19,rural,,,,,,,,,36.29
 2013,15-19,rural,Akmola,,,,,,,KZAKM,31.11
@@ -406,7 +406,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2014,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
 2014,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2014,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.05
-2014,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.1
+2014,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.1
 2014,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
 2014,age: 10-14 years old,urban,,,,,,,,,0.04
 2014,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.21
@@ -423,7 +423,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2014,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
 2014,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2014,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2014,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.1
+2014,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.1
 2014,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
 2014,age: 10-14 years old,rural,,,,,,,,,0.04
 2014,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
@@ -455,7 +455,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2014,15-19,,Pavlodar,,,,,,,KZPAV,30.04
 2014,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,29.49
 2014,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,28.75
-2014,15-19,,Nur-Sultan city,,,,,,,KZNS,26.62
+2014,15-19,,Astana city,,,,,,,KZNS,26.62
 2014,15-19,,Almaty city,,,,,,,KZALA,15.95
 2014,15-19,urban,,,,,,,,,31.92
 2014,15-19,urban,Akmola,,,,,,,KZAKM,32.71
@@ -472,7 +472,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2014,15-19,urban,Pavlodar,,,,,,,KZPAV,26.81
 2014,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,24.84
 2014,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,28.57
-2014,15-19,urban,Nur-Sultan city,,,,,,,KZNS,26.62
+2014,15-19,urban,Astana city,,,,,,,KZNS,26.62
 2014,15-19,urban,Almaty city,,,,,,,KZALA,15.95
 2014,15-19,rural,,,,,,,,,36.84
 2014,15-19,rural,Akmola,,,,,,,KZAKM,33.25
@@ -504,7 +504,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2015,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
 2015,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.18
 2015,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.03
-2015,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.04
+2015,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.04
 2015,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
 2015,age: 10-14 years old,urban,,,,,,,,,0.04
 2015,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.1
@@ -521,7 +521,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2015,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
 2015,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.35
 2015,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.05
-2015,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.04
+2015,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.04
 2015,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
 2015,age: 10-14 years old,rural,,,,,,,,,0.03
 2015,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
@@ -553,7 +553,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2015,15-19,,Pavlodar,,,,,,,KZPAV,29.56
 2015,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,26.52
 2015,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,24.07
-2015,15-19,,Nur-Sultan city,,,,,,,KZNS,23.0
+2015,15-19,,Astana city,,,,,,,KZNS,23.0
 2015,15-19,,Almaty city,,,,,,,KZALA,12.94
 2015,15-19,urban,,,,,,,,,27.56
 2015,15-19,urban,Akmola,,,,,,,KZAKM,29.03
@@ -570,7 +570,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2015,15-19,urban,Pavlodar,,,,,,,KZPAV,25.68
 2015,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,23.75
 2015,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,24.67
-2015,15-19,urban,Nur-Sultan city,,,,,,,KZNS,23.0
+2015,15-19,urban,Astana city,,,,,,,KZNS,23.0
 2015,15-19,urban,Almaty city,,,,,,,KZALA,12.94
 2015,15-19,rural,,,,,,,,,34.35
 2015,15-19,rural,Akmola,,,,,,,KZAKM,31.31
@@ -602,7 +602,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2016,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
 2016,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2016,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2016,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2016,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.0
 2016,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
 2016,age: 10-14 years old,urban,,,,,,,,,0.01
 2016,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.1
@@ -619,7 +619,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2016,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
 2016,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2016,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2016,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2016,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.0
 2016,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
 2016,age: 10-14 years old,rural,,,,,,,,,0.02
 2016,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
@@ -651,7 +651,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2016,15-19,,Pavlodar,,,,,,,KZPAV,25.18
 2016,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,26.13
 2016,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,22.96
-2016,15-19,,Nur-Sultan city,,,,,,,KZNS,18.71
+2016,15-19,,Astana city,,,,,,,KZNS,18.71
 2016,15-19,,Almaty city,,,,,,,KZALA,13.5
 2016,15-19,urban,,,,,,,,,25.18
 2016,15-19,urban,Akmola,,,,,,,KZAKM,25.88
@@ -668,7 +668,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2016,15-19,urban,Pavlodar,,,,,,,KZPAV,23.25
 2016,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,21.91
 2016,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,23.77
-2016,15-19,urban,Nur-Sultan city,,,,,,,KZNS,18.71
+2016,15-19,urban,Astana city,,,,,,,KZNS,18.71
 2016,15-19,urban,Almaty city,,,,,,,KZALA,13.5
 2016,15-19,rural,,,,,,,,,31.12
 2016,15-19,rural,Akmola,,,,,,,KZAKM,26.13
@@ -700,7 +700,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2017,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
 2017,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2017,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.07
-2017,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2017,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.0
 2017,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.02
 2017,age: 10-14 years old,urban,,,,,,,,,0.02
 2017,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.0
@@ -717,7 +717,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2017,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
 2017,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2017,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.04
-2017,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2017,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.0
 2017,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.02
 2017,age: 10-14 years old,rural,,,,,,,,,0.02
 2017,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
@@ -749,7 +749,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2017,15-19,,Pavlodar,,,,,,,KZPAV,22.08
 2017,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,20.54
 2017,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,20.39
-2017,15-19,,Nur-Sultan city,,,,,,,KZNS,14.99
+2017,15-19,,Astana city,,,,,,,KZNS,14.99
 2017,15-19,,Almaty city,,,,,,,KZALA,12.75
 2017,15-19,urban,,,,,,,,,22.38
 2017,15-19,urban,Akmola,,,,,,,KZAKM,23.27
@@ -766,7 +766,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2017,15-19,urban,Pavlodar,,,,,,,KZPAV,19.34
 2017,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,17.26
 2017,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,20.18
-2017,15-19,urban,Nur-Sultan city,,,,,,,KZNS,14.99
+2017,15-19,urban,Astana city,,,,,,,KZNS,14.99
 2017,15-19,urban,Almaty city,,,,,,,KZALA,12.75
 2017,15-19,rural,,,,,,,,,27.56
 2017,15-19,rural,Akmola,,,,,,,KZAKM,26.14
@@ -798,7 +798,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2018,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.06
 2018,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.0
 2018,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2018,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.06
+2018,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.06
 2018,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.02
 2018,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.02
 2018,age: 10-14 years old,urban,,,,,,,,,0.03
@@ -816,7 +816,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2018,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.16
 2018,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
 2018,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2018,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.06
+2018,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.06
 2018,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.02
 2018,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.02
 2018,age: 10-14 years old,rural,,,,,,,,,0.01
@@ -849,7 +849,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2018,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,19.55
 2018,15-19,,Turkistan,,,,,,,KZYUZ,30.92
 2018,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,19.52
-2018,15-19,,Nur-Sultan city,,,,,,,KZNS,15.07
+2018,15-19,,Astana city,,,,,,,KZNS,15.07
 2018,15-19,,Almaty city,,,,,,,KZALA,12.31
 2018,15-19,,Shymkent city,,,,,,,KZSHY,24.34
 2018,15-19,urban,,,,,,,,,21.09
@@ -867,7 +867,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2018,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,16.84
 2018,15-19,urban,Turkistan,,,,,,,KZYUZ,38.55
 2018,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,19.48
-2018,15-19,urban,Nur-Sultan city,,,,,,,KZNS,15.07
+2018,15-19,urban,Astana city,,,,,,,KZNS,15.07
 2018,15-19,urban,Almaty city,,,,,,,KZALA,12.31
 2018,15-19,urban,Shymkent city,,,,,,,KZSHY,24.34
 2018,15-19,rural,,,,,,,,,27.01
@@ -900,7 +900,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2019,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.0
 2019,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.04
-2019,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.03
+2019,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.03
 2019,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
 2019,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.07
 2019,age: 10-14 years old,urban,,,,,,,,,0.02
@@ -918,7 +918,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2019,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
 2019,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2019,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.03
+2019,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.03
 2019,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
 2019,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.07
 2019,age: 10-14 years old,rural,,,,,,,,,0.03
@@ -951,7 +951,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,19.15
 2019,15-19,,Turkistan,,,,,,,KZYUZ,31.97
 2019,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,17.23
-2019,15-19,,Nur-Sultan city,,,,,,,KZNS,11.69
+2019,15-19,,Astana city,,,,,,,KZNS,11.69
 2019,15-19,,Almaty city,,,,,,,KZALA,12.39
 2019,15-19,,Shymkent city,,,,,,,KZSHY,25.44
 2019,15-19,urban,,,,,,,,,20.61
@@ -969,7 +969,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2019,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,16.43
 2019,15-19,urban,Turkistan,,,,,,,KZYUZ,45.85
 2019,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,16.49
-2019,15-19,urban,Nur-Sultan city,,,,,,,KZNS,11.69
+2019,15-19,urban,Astana city,,,,,,,KZNS,11.69
 2019,15-19,urban,Almaty city,,,,,,,KZALA,12.39
 2019,15-19,urban,Shymkent city,,,,,,,KZSHY,20.61
 2019,15-19,rural,,,,,,,,,26.04
@@ -1002,7 +1002,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2020,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2020,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.01
 2020,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.02
-2020,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2020,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.0
 2020,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
 2020,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.04
 2020,age: 10-14 years old,urban,,,,,,,,,0.02
@@ -1020,7 +1020,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2020,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2020,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
 2020,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2020,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2020,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.0
 2020,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
 2020,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.04
 2020,age: 10-14 years old,rural,,,,,,,,,0.02
@@ -1053,7 +1053,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2020,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,17.95
 2020,15-19,,Turkistan,,,,,,,KZYUZ,33.38
 2020,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,16.96
-2020,15-19,,Nur-Sultan city,,,,,,,KZNS,10.71
+2020,15-19,,Astana city,,,,,,,KZNS,10.71
 2020,15-19,,Almaty city,,,,,,,KZALA,11.82
 2020,15-19,,Shymkent city,,,,,,,KZSHY,26.98
 2020,15-19,urban,,,,,,,,,19.88
@@ -1071,7 +1071,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2020,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,17.83
 2020,15-19,urban,Turkistan,,,,,,,KZYUZ,41.66
 2020,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,17.41
-2020,15-19,urban,Nur-Sultan city,,,,,,,KZNS,10.71
+2020,15-19,urban,Astana city,,,,,,,KZNS,10.71
 2020,15-19,urban,Almaty city,,,,,,,KZALA,11.82
 2020,15-19,urban,Shymkent city,,,,,,,KZSHY,26.98
 2020,15-19,rural,,,,,,,,,26.17
@@ -1104,7 +1104,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2021,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.05
 2021,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.01
 2021,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2021,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.02
+2021,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.02
 2021,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
 2021,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.02
 2021,age: 10-14 years old,urban,,,,,,,,,0.02
@@ -1122,7 +1122,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2021,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2021,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
 2021,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2021,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.02
+2021,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.02
 2021,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
 2021,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.02
 2021,age: 10-14 years old,rural,,,,,,,,,0.02
@@ -1155,7 +1155,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2021,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,16.08
 2021,15-19,,Turkistan,,,,,,,KZYUZ,36.32
 2021,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,15.59
-2021,15-19,,Nur-Sultan city,,,,,,,KZNS,12.78
+2021,15-19,,Astana city,,,,,,,KZNS,12.78
 2021,15-19,,Almaty city,,,,,,,KZALA,11.49
 2021,15-19,,Shymkent city,,,,,,,KZSHY,27.98
 2021,15-19,urban,,,,,,,,,19.83
@@ -1173,7 +1173,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2021,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,13.52
 2021,15-19,urban,Turkistan,,,,,,,KZYUZ,42.29
 2021,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,15.46
-2021,15-19,urban,Nur-Sultan city,,,,,,,KZNS,12.78
+2021,15-19,urban,Astana city,,,,,,,KZNS,12.78
 2021,15-19,urban,Almaty city,,,,,,,KZALA,11.49
 2021,15-19,urban,Shymkent city,,,,,,,KZSHY,27.98
 2021,15-19,rural,,,,,,,,,28.14
@@ -1206,7 +1206,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2022,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.05
 2022,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.0
 2022,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2022,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2022,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.0
 2022,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.01
 2022,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.05
 2022,age: 10-14 years old,urban,,,,,,,,,0.01
@@ -1224,7 +1224,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2022,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2022,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
 2022,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2022,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2022,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.0
 2022,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.01
 2022,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.05
 2022,age: 10-14 years old,rural,,,,,,,,,0.02
@@ -1257,7 +1257,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2022,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,15.25
 2022,15-19,,Turkistan,,,,,,,KZYUZ,30.16
 2022,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,15.05
-2022,15-19,,Nur-Sultan city,,,,,,,KZNS,9.14
+2022,15-19,,Astana city,,,,,,,KZNS,9.14
 2022,15-19,,Almaty city,,,,,,,KZALA,8.24
 2022,15-19,,Shymkent city,,,,,,,KZSHY,21.98
 2022,15-19,urban,,,,,,,,,15.25
@@ -1275,7 +1275,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2022,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,9.68
 2022,15-19,urban,Turkistan,,,,,,,KZYUZ,28.05
 2022,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,12.93
-2022,15-19,urban,Nur-Sultan city,,,,,,,KZNS,9.14
+2022,15-19,urban,Astana city,,,,,,,KZNS,9.14
 2022,15-19,urban,Almaty city,,,,,,,KZALA,8.24
 2022,15-19,urban,Shymkent city,,,,,,,KZSHY,21.98
 2022,15-19,rural,,,,,,,,,25.92
@@ -1308,7 +1308,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2023,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.05
 2023,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.02
 2023,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2023,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2023,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.0
 2023,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
 2023,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.0
 2023,age: 10-14 years old,urban,,,,,,,,,0.02
@@ -1326,7 +1326,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2023,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
 2023,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
 2023,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
-2023,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2023,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.0
 2023,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
 2023,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.0
 2023,age: 10-14 years old,rural,,,,,,,,,0.02
@@ -1359,7 +1359,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2023,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,13.64
 2023,15-19,,Turkistan,,,,,,,KZYUZ,26.72
 2023,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,12.45
-2023,15-19,,Nur-Sultan city,,,,,,,KZNS,8.15
+2023,15-19,,Astana city,,,,,,,KZNS,8.15
 2023,15-19,,Almaty city,,,,,,,KZALA,7.97
 2023,15-19,,Shymkent city,,,,,,,KZSHY,19.82
 2023,15-19,urban,,,,,,,,,13.61
@@ -1377,7 +1377,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2023,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,11.31
 2023,15-19,urban,Turkistan,,,,,,,KZYUZ,23.43
 2023,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,10.6
-2023,15-19,urban,Nur-Sultan city,,,,,,,KZNS,8.15
+2023,15-19,urban,Astana city,,,,,,,KZNS,8.15
 2023,15-19,urban,Almaty city,,,,,,,KZALA,7.97
 2023,15-19,urban,Shymkent city,,,,,,,KZSHY,19.82
 2023,15-19,rural,,,,,,,,,23.37

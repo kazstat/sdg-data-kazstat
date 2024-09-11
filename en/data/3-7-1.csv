@@ -16,7 +16,7 @@ Year,UNIT_MEASURE,Area,Regions,Age,Mother's education,Wealth index quintile,GeoC
 2010,Percent,,Pavlodar,,,,KZPAV,58.3
 2010,Percent,,Soltustik Kazakhstan,,,,KZSEV,60.5
 2010,Percent,,Shygys Kazakhstan,,,,KZVOS,50.2
-2010,Percent,,Nur-Sultan city,,,,KZNS,72.7
+2010,Percent,,Astana city,,,,KZNS,72.7
 2010,Percent,,Almaty city,,,,KZALA,62.6
 2010,Percent,,,15-19,,,,19.2
 2010,Percent,,,20-24,,,,35.3
@@ -51,7 +51,7 @@ Year,UNIT_MEASURE,Area,Regions,Age,Mother's education,Wealth index quintile,GeoC
 2015,Percent,,Pavlodar,,,,KZPAV,45.4
 2015,Percent,,Soltustik Kazakhstan,,,,KZSEV,625.0
 2015,Percent,,Shygys Kazakhstan,,,,KZVOS,57.8
-2015,Percent,,Nur-Sultan city,,,,KZNS,48.8
+2015,Percent,,Astana city,,,,KZNS,48.8
 2015,Percent,,Almaty city,,,,KZALA,63.0
 2015,Percent,,,15-19,,,,28.6
 2015,Percent,,,20-24,,,,44.3
