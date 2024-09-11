@@ -60,74 +60,74 @@ Year,Regions,GeoCode,Value
 2013,Shygys Kazakhstan,KZVOS,8.9
 2013,Nur-Sultan city,KZNS,17.7
 2013,Almaty city,KZALA,10.2
-2014,,,15.20931508
-2014,Akmola,KZAKM,16.93910392
-2014,Aktobe,KZAKT,10.10560356
-2014,Almaty,KZALM,14.49275362
-2014,Atyrau,KZATY,12.29558588
-2014,Batys Kazakhstan,KZZAP,23.09646624
-2014,Zhambyl,KZZHA,18.11331691
-2014,Karagandy,KZKAR,16.06554743
-2014,Kostanay,KZKUS,15.73069058
-2014,Kyzylorda,KZKZY,10.01201442
-2014,Mangistau,KZMAN,26.55478252
-2014,Ontustik Kazakhstan,KZONT,15.4870683
-2014,Pavlodar,KZPAV,0.0
-2014,Soltustik Kazakhstan,KZSEV,17.69173417
-2014,Shygys Kazakhstan,KZVOS,25.83200586
-2014,Nur-Sultan city,KZNS,16.33519827
-2014,Almaty city,KZALA,4.805035677
-2015,,,16.54969045
-2015,Akmola,KZAKM,25.89331952
-2015,Aktobe,KZAKT,15.02178158
-2015,Almaty,KZALM,17.17749258
-2015,Atyrau,KZATY,36.76245328
-2015,Batys Kazakhstan,KZZAP,38.58024691
-2015,Zhambyl,KZZHA,3.7811472
-2015,Karagandy,KZKAR,32.72519022
+2014,,,11.7
+2014,Akmola,KZAKM,16.9
+2014,Aktobe,KZAKT,5.1
+2014,Almaty,KZALM,9.7
+2014,Atyrau,KZATY,6.1
+2014,Batys Kazakhstan,KZZAP,15.4
+2014,Zhambyl,KZZHA,18.1
+2014,Karagandy,KZKAR,16.1
+2014,Kostanay,KZKUS,7.9
+2014,Kyzylorda,KZKZY,5.0
+2014,Mangistau,KZMAN,21.2
+2014,Ontustik Kazakhstan,KZONT,16.4
+2014,Pavlodar,KZPAV,15.5
+2014,Soltustik Kazakhstan,KZSEV,0.0
+2014,Shygys Kazakhstan,KZVOS,4.3
+2014,Nur-Sultan city,KZNS,16.3
+2014,Almaty city,KZALA,4.8
+2015,,,12.5
+2015,Akmola,KZAKM,25.9
+2015,Aktobe,KZAKT,10.0
+2015,Almaty,KZALM,9.8
+2015,Atyrau,KZATY,30.6
+2015,Batys Kazakhstan,KZZAP,7.7
+2015,Zhambyl,KZZHA,3.8
+2015,Karagandy,KZKAR,28.6
 2015,Kostanay,KZKUS,0.0
-2015,Kyzylorda,KZKZY,48.76198732
-2015,Mangistau,KZMAN,5.236424569
-2015,Ontustik Kazakhstan,KZONT,15.64822784
-2015,Pavlodar,KZPAV,13.05994515
-2015,Soltustik Kazakhstan,KZSEV,15.16587678
-2015,Shygys Kazakhstan,KZVOS,22.25189141
-2015,Nur-Sultan city,KZNS,7.659900421
-2015,Almaty city,KZALA,2.376651773
-2016,,,15.41663455
+2015,Kyzylorda,KZKZY,46.8
+2015,Mangistau,KZMAN,5.2
+2015,Ontustik Kazakhstan,KZONT,11.4
+2015,Pavlodar,KZPAV,15.6
+2015,Soltustik Kazakhstan,KZSEV,0.0
+2015,Shygys Kazakhstan,KZVOS,13.4
+2015,Nur-Sultan city,KZNS,7.7
+2015,Almaty city,KZALA,2.4
+2016,,,12.7
 2016,Akmola,KZAKM,0.0
-2016,Aktobe,KZAKT,20.19386107
-2016,Almaty,KZALM,14.47212909
-2016,Atyrau,KZATY,30.14045452
-2016,Batys Kazakhstan,KZZAP,22.77904328
-2016,Zhambyl,KZZHA,11.53313855
-2016,Karagandy,KZKAR,29.3735051
-2016,Kostanay,KZKUS,32.72519022
-2016,Kyzylorda,KZKZY,5.335325188
-2016,Mangistau,KZMAN,5.052801779
-2016,Ontustik Kazakhstan,KZONT,15.98976655
-2016,Pavlodar,KZPAV,0.0
-2016,Soltustik Kazakhstan,KZSEV,18.94058968
-2016,Shygys Kazakhstan,KZVOS,17.75568182
-2016,Nur-Sultan city,KZNS,11.0200933
-2016,Almaty city,KZALA,7.939343416
-2017,,,14.81220423
-2017,Akmola,KZAKM,17.809439
-2017,Aktobe,KZAKT,5.25210084
-2017,Almaty,KZALM,25.08591927
-2017,Atyrau,KZATY,18.40490798
-2017,Batys Kazakhstan,KZZAP,7.764577995
-2017,Zhambyl,KZZHA,12.22593528
-2017,Karagandy,KZKAR,13.22634688
-2017,Kostanay,KZKUS,17.08233686
+2016,Aktobe,KZAKT,15.1
+2016,Almaty,KZALM,4.8
+2016,Atyrau,KZATY,30.1
+2016,Batys Kazakhstan,KZZAP,22.8
+2016,Zhambyl,KZZHA,11.5
+2016,Karagandy,KZKAR,16.8
+2016,Kostanay,KZKUS,24.5
+2016,Kyzylorda,KZKZY,5.3
+2016,Mangistau,KZMAN,5.1
+2016,Ontustik Kazakhstan,KZONT,17.7
+2016,Pavlodar,KZPAV,6.0
+2016,Soltustik Kazakhstan,KZSEV,0.0
+2016,Shygys Kazakhstan,KZVOS,13.3
+2016,Nur-Sultan city,KZNS,11.0
+2016,Almaty city,KZALA,9.1
+2017,,,12.5
+2017,Akmola,KZAKM,17.8
+2017,Aktobe,KZAKT,5.3
+2017,Almaty,KZALM,17.6
+2017,Atyrau,KZATY,18.4
+2017,Batys Kazakhstan,KZZAP,7.8
+2017,Zhambyl,KZZHA,12.2
+2017,Karagandy,KZKAR,13.2
+2017,Kostanay,KZKUS,17.1
 2017,Kyzylorda,KZKZY,0.0
-2017,Mangistau,KZMAN,10.29813089
-2017,Ontustik Kazakhstan,KZONT,16.79825298
-2017,Pavlodar,KZPAV,28.49814762
-2017,Soltustik Kazakhstan,KZSEV,18.33588726
-2017,Shygys Kazakhstan,KZVOS,18.36884644
-2017,Nur-Sultan city,KZNS,6.503219093
-2017,Almaty city,KZALA,14.72970982
+2017,Mangistau,KZMAN,10.3
+2017,Ontustik Kazakhstan,KZONT,0.0
+2017,Pavlodar,KZPAV,16.8
+2017,Soltustik Kazakhstan,KZSEV,14.2
+2017,Shygys Kazakhstan,KZVOS,18.4
+2017,Nur-Sultan city,KZNS,7.3
+2017,Almaty city,KZALA,11.3
 2018,,,14.0
 2018,Akmola,KZAKM,35.9
 2018,Aktobe,KZAKT,5.1
@@ -182,3 +182,57 @@ Year,Regions,GeoCode,Value
 2020,Nur-Sultan city,KZNS,19.2
 2020,Almaty city,KZALA,23.0
 2020,Shymkent city,KZSHY,53.3
+2021,,,44.7
+2021,Akmola,KZAKM,40.5
+2021,Aktobe,KZAKT,53.9
+2021,Almaty,KZALM,51.9
+2021,Atyrau,KZATY,110.0
+2021,Batys Kazakhstan,KZZAP,63.3
+2021,Zhambyl,KZZHA,27.8
+2021,Karagandy,KZKAR,50.5
+2021,Kostanay,KZKUS,54.2
+2021,Kyzylorda,KZKZY,43.0
+2021,Mangistau,KZMAN,38.8
+2021,Pavlodar,KZPAV,26.1
+2021,Soltustik Kazakhstan,KZSEV,49.6
+2021,Turkistan,KZYUZ,23.1
+2021,Shygys Kazakhstan,KZVOS,71.2
+2021,Nur-Sultan city,KZNS,14.9
+2021,Almaty city,KZALA,53.8
+2021,Shymkent city,KZSHY,44.9
+2022,,,17.0
+2022,Akmola,KZAKM,17.7
+2022,Aktobe,KZAKT,14.7
+2022,Almaty,KZALM,10.5
+2022,Atyrau,KZATY,40.9
+2022,Batys Kazakhstan,KZZAP,23.8
+2022,Zhambyl,KZZHA,11.8
+2022,Karagandy,KZKAR,22.2
+2022,Kostanay,KZKUS,19.2
+2022,Kyzylorda,KZKZY,29.2
+2022,Mangistau,KZMAN,13.9
+2022,Pavlodar,KZPAV,37.3
+2022,Soltustik Kazakhstan,KZSEV,0.0
+2022,Turkistan,KZYUZ,5.2
+2022,Shygys Kazakhstan,KZVOS,10.1
+2022,Nur-Sultan city,KZNS,15.0
+2022,Almaty city,KZALA,10.0
+2022,Shymkent city,KZSHY,16.1
+2023,,,11.4
+2023,Akmola,KZAKM,28.7
+2023,Aktobe,KZAKT,10.2
+2023,Almaty,KZALM,3.7
+2023,Atyrau,KZATY,24.3
+2023,Batys Kazakhstan,KZZAP,0.0
+2023,Zhambyl,KZZHA,16.3
+2023,Karagandy,KZKAR,5.9
+2023,Kostanay,KZKUS,20.8
+2023,Kyzylorda,KZKZY,10.3
+2023,Mangistau,KZMAN,9.6
+2023,Pavlodar,KZPAV,0.0
+2023,Soltustik Kazakhstan,KZSEV,19.1
+2023,Turkistan,KZYUZ,3.7
+2023,Shygys Kazakhstan,KZVOS,33.9
+2023,Nur-Sultan city,KZNS,9.1
+2023,Almaty city,KZALA,16.3
+2023,Shymkent city,KZSHY,0.0
