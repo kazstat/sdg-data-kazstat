@@ -51,3 +51,7 @@ Year,UNIT_MEASURE,SERIES,Value
 2022,persons,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.6
 2022,persons,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",5.0
 2022,persons,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.03
+2023,persons,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",9.0
+2023,persons,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.04
+2023,persons,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",4.0
+2023,persons,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",0.02
