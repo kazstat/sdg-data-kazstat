@@ -1,989 +1,1397 @@
-Year,Age,Area,Regions,GeoCode,Value
-2010,age: 10-14 years old,,,,0.0443645094571824
-2010,age: 10-14 years old,,Akmola,KZAKM,0.1219586560156107
-2010,age: 10-14 years old,,Aktobe,KZAKT,0.0
-2010,age: 10-14 years old,,Almaty,KZALM,0.04647056089967
-2010,age: 10-14 years old,,Atyrau,KZATY,0.0
-2010,age: 10-14 years old,,Batys Kazakhstan,KZZAP,0.0
-2010,age: 10-14 years old,,Zhambyl,KZZHA,0.0241837968561064
-2010,age: 10-14 years old,,Karagandy,KZKAR,0.0715751300281528
-2010,age: 10-14 years old,,Kostanay,KZKUS,0.1171623284060065
-2010,age: 10-14 years old,,Kyzylorda,KZKZY,0.0325839035516454
-2010,age: 10-14 years old,,Mangistau,KZMAN,0.0
-2010,age: 10-14 years old,,Ontustik Kazakhstan,KZONT,0.0084840669223198
-2010,age: 10-14 years old,,Pavlodar,KZPAV,0.09388349058818
-2010,age: 10-14 years old,,Soltustik Kazakhstan,KZSEV,0.0575208513085993
-2010,age: 10-14 years old,,Shygys Kazakhstan,KZVOS,0.0749185261028631
-2010,age: 10-14 years old,,Nur-Sultan city,KZNS,0.1196530062817828
-2010,age: 10-14 years old,,Almaty city,KZALA,0.0591794765575298
-2010,age: 10-14 years old,urban,,,0.0607826526309391
-2010,age: 10-14 years old,urban,Akmola,KZAKM,0.2980477869951815
-2010,age: 10-14 years old,urban,Aktobe,KZAKT,0.0
-2010,age: 10-14 years old,urban,Almaty,KZALM,0.2098489087856743
-2010,age: 10-14 years old,urban,Atyrau,KZATY,0.0
-2010,age: 10-14 years old,urban,Batys Kazakhstan,KZZAP,0.0
-2010,age: 10-14 years old,urban,Zhambyl,KZZHA,0.0643045463314256
-2010,age: 10-14 years old,urban,Karagandy,KZKAR,0.0990769332386598
-2010,age: 10-14 years old,urban,Kostanay,KZKUS,0.2787974536499233
-2010,age: 10-14 years old,urban,Kyzylorda,KZKZY,0.0859217253082441
-2010,age: 10-14 years old,urban,Mangistau,KZMAN,0.0
-2010,age: 10-14 years old,urban,Ontustik Kazakhstan,KZONT,0.0
-2010,age: 10-14 years old,urban,Pavlodar,KZPAV,0.0
-2010,age: 10-14 years old,urban,Soltustik Kazakhstan,KZSEV,0.0
-2010,age: 10-14 years old,urban,Shygys Kazakhstan,KZVOS,0.1009107192411513
-2010,age: 10-14 years old,urban,Nur-Sultan city,KZNS,0.0
-2010,age: 10-14 years old,urban,Almaty city,KZALA,0.0
-2010,age: 10-14 years old,rural,,,0.0299719762022508
-2010,age: 10-14 years old,rural,Akmola,KZAKM,0.0
-2010,age: 10-14 years old,rural,Aktobe,KZAKT,0.0
-2010,age: 10-14 years old,rural,Almaty,KZALM,0.0
-2010,age: 10-14 years old,rural,Atyrau,KZATY,0.0
-2010,age: 10-14 years old,rural,Batys Kazakhstan,KZZAP,0.0
-2010,age: 10-14 years old,rural,Zhambyl,KZZHA,0.0
-2010,age: 10-14 years old,rural,Karagandy,KZKAR,0.0
-2010,age: 10-14 years old,rural,Kostanay,KZKUS,0.0
-2010,age: 10-14 years old,rural,Kyzylorda,KZKZY,0.0
-2010,age: 10-14 years old,rural,Mangistau,KZMAN,0.0
-2010,age: 10-14 years old,rural,Ontustik Kazakhstan,KZONT,0.0130032247997503
-2010,age: 10-14 years old,rural,Pavlodar,KZPAV,0.2499843759765014
-2010,age: 10-14 years old,rural,Soltustik Kazakhstan,KZSEV,0.082314689056262
-2010,age: 10-14 years old,rural,Shygys Kazakhstan,KZVOS,0.0494462025316455
-2010,15-19,,,,28.26355987484842
-2010,,,Akmola,KZAKM,33.42636895268474
-2010,,,Aktobe,KZAKT,21.83937167468964
-2010,,,Almaty,KZALM,30.749137046366265
-2010,,,Atyrau,KZATY,42.38024950967507
-2010,,,Batys Kazakhstan,KZZAP,26.085191949379237
-2010,,,Zhambyl,KZZHA,36.693411909928926
-2010,,,Karagandy,KZKAR,29.27261975162626
-2010,,,Kostanay,KZKUS,25.815217391304348
-2010,,,Kyzylorda,KZKZY,23.19021361645428
-2010,,,Mangistau,KZMAN,39.68056934789805
-2010,,,Ontustik Kazakhstan,KZONT,30.066937342258317
-2010,,,Pavlodar,KZPAV,27.55850506461753
-2010,,,Soltustik Kazakhstan,KZSEV,31.21505777115169
-2010,,,Shygys Kazakhstan,KZVOS,24.93887089352257
-2010,,,Nur-Sultan city,KZNS,22.6027397260274
-2010,,,Almaty city,KZALA,13.9711779772839
-2010,,urban,,,25.759867297653315
-2010,,urban,Akmola,KZAKM,31.138429828112923
-2010,,urban,Aktobe,KZAKT,20.66295368434129
-2010,,urban,Almaty,KZALM,32.142952966113064
-2010,,urban,Atyrau,KZATY,49.518066785436936
-2010,,urban,Batys Kazakhstan,KZZAP,30.549045865416804
-2010,,urban,Zhambyl,KZZHA,27.976146653905616
-2010,,urban,Karagandy,KZKAR,29.81473502800517
-2010,,urban,Kostanay,KZKUS,21.052010850336124
-2010,,urban,Kyzylorda,KZKZY,29.322548028311427
-2010,,urban,Mangistau,KZMAN,35.9752670039348
-2010,,urban,Ontustik Kazakhstan,KZONT,29.42766664092068
-2010,,urban,Pavlodar,KZPAV,25.58139534883721
-2010,,urban,Soltustik Kazakhstan,KZSEV,25.082672989330504
-2010,,urban,Shygys Kazakhstan,KZVOS,22.30483271375465
-2010,,urban,Nur-Sultan city,KZNS,22.6027397260274
-2010,,urban,Almaty city,KZALA,13.9711779772839
-2010,,rural,,,31.026544706337727
-2010,,rural,Akmola,KZAKM,35.308724222511586
-2010,,rural,Aktobe,KZAKT,23.69374367677295
-2010,,rural,Almaty,KZALM,30.32854575189857
-2010,,rural,Atyrau,KZATY,36.71189146049481
-2010,,rural,Batys Kazakhstan,KZZAP,22.56606512487216
-2010,,rural,Zhambyl,KZZHA,42.64299472405996
-2010,,rural,Karagandy,KZKAR,27.6408907332617
-2010,,rural,Kostanay,KZKUS,30.21230266739249
-2010,,rural,Kyzylorda,KZKZY,18.739144262054456
-2010,,rural,Mangistau,KZMAN,43.61929150661545
-2010,,rural,Ontustik Kazakhstan,KZONT,30.478964038804985
-2010,,rural,Pavlodar,KZPAV,31.16370808678501
-2010,,rural,Soltustik Kazakhstan,KZSEV,34.86859224564143
-2010,,rural,Shygys Kazakhstan,KZVOS,28.57756768371293
-2011,age: 10-14 years old,,,,0.0211100546310622
-2011,age: 10-14 years old,,Akmola,KZAKM,0.0
-2011,age: 10-14 years old,,Aktobe,KZAKT,0.0781188969611749
-2011,age: 10-14 years old,,Almaty,KZALM,0.0
-2011,age: 10-14 years old,,Atyrau,KZATY,0.0482648776485351
-2011,age: 10-14 years old,,Batys Kazakhstan,KZZAP,0.0517170045510963
-2011,age: 10-14 years old,,Zhambyl,KZZHA,0.0479639311237949
-2011,age: 10-14 years old,,Karagandy,KZKAR,0.0242789161891813
-2011,age: 10-14 years old,,Kostanay,KZKUS,0.0
-2011,age: 10-14 years old,,Kyzylorda,KZKZY,0.0
-2011,age: 10-14 years old,,Mangistau,KZMAN,0.0
-2011,age: 10-14 years old,,Ontustik Kazakhstan,KZONT,0.0
-2011,age: 10-14 years old,,Pavlodar,KZPAV,0.0
-2011,age: 10-14 years old,,Soltustik Kazakhstan,KZSEV,0.1171680482732358
-2011,age: 10-14 years old,,Shygys Kazakhstan,KZVOS,0.0254023090698944
-2011,age: 10-14 years old,,Nur-Sultan city,KZNS,0.0538227616459
-2011,age: 10-14 years old,,Almaty city,KZALA,0.0283177821513019
-2011,age: 10-14 years old,urban,,,0.0224340998317442
-2011,age: 10-14 years old,urban,Akmola,KZAKM,0.0
-2011,age: 10-14 years old,urban,Aktobe,KZAKT,0.0717900857891525
-2011,age: 10-14 years old,urban,Almaty,KZALM,0.0
-2011,age: 10-14 years old,urban,Atyrau,KZATY,0.1077934677158564
-2011,age: 10-14 years old,urban,Batys Kazakhstan,KZZAP,0.0
-2011,age: 10-14 years old,urban,Zhambyl,KZZHA,0.1302592158395206
-2011,age: 10-14 years old,urban,Karagandy,KZKAR,0.0
-2011,age: 10-14 years old,urban,Kostanay,KZKUS,0.0
-2011,age: 10-14 years old,urban,Kyzylorda,KZKZY,0.0
-2011,age: 10-14 years old,urban,Mangistau,KZMAN,0.0
-2011,age: 10-14 years old,urban,Ontustik Kazakhstan,KZONT,0.0
-2011,age: 10-14 years old,urban,Pavlodar,KZPAV,0.0
-2011,age: 10-14 years old,urban,Soltustik Kazakhstan,KZSEV,0.0
-2011,age: 10-14 years old,urban,Shygys Kazakhstan,KZVOS,0.0
-2011,age: 10-14 years old,urban,Nur-Sultan city,KZNS,0.0538227616459
-2011,age: 10-14 years old,urban,Almaty city,KZALA,0.0283177821513019
-2011,age: 10-14 years old,rural,,,0.019933587929548
-2011,age: 10-14 years old,rural,Akmola,KZAKM,0.0
-2011,age: 10-14 years old,rural,Aktobe,KZAKT,0.085671449989291
-2011,age: 10-14 years old,rural,Almaty,KZALM,0.0
-2011,age: 10-14 years old,rural,Atyrau,KZATY,0.0
-2011,age: 10-14 years old,rural,Batys Kazakhstan,KZZAP,0.0859623484913607
-2011,age: 10-14 years old,rural,Zhambyl,KZZHA,0.0
-2011,age: 10-14 years old,rural,Karagandy,KZKAR,0.0890828916306623
-2011,age: 10-14 years old,rural,Kostanay,KZKUS,0.0
-2011,age: 10-14 years old,rural,Kyzylorda,KZKZY,0.0
-2011,age: 10-14 years old,rural,Mangistau,KZMAN,0.0
-2011,age: 10-14 years old,rural,Ontustik Kazakhstan,KZONT,0.0
-2011,age: 10-14 years old,rural,Pavlodar,KZPAV,0.0
-2011,age: 10-14 years old,rural,Soltustik Kazakhstan,KZSEV,0.1714310204431492
-2011,age: 10-14 years old,rural,Shygys Kazakhstan,KZVOS,0.0506701122342986
-2011,15-19,,,,31.68097401793369
-2011,,,Akmola,KZAKM,32.29680542468082
-2011,,,Aktobe,KZAKT,26.613500083072783
-2011,,,Almaty,KZALM,35.26154742823838
-2011,,,Atyrau,KZATY,49.18951640024213
-2011,,,Batys Kazakhstan,KZZAP,29.708314441781635
-2011,,,Zhambyl,KZZHA,41.57690415003554
-2011,,,Karagandy,KZKAR,31.144693053142724
-2011,,,Kostanay,KZKUS,29.525140135000925
-2011,,,Kyzylorda,KZKZY,26.377580581221604
-2011,,,Mangistau,KZMAN,49.60176991150443
-2011,,,Ontustik Kazakhstan,KZONT,32.65544544156067
-2011,,,Pavlodar,KZPAV,30.659275953787738
-2011,,,Soltustik Kazakhstan,KZSEV,31.558592239267757
-2011,,,Shygys Kazakhstan,KZVOS,25.40156892043332
-2011,,,Nur-Sultan city,KZNS,23.458121973053
-2011,,,Almaty city,KZALA,16.570703178129392
-2011,,urban,,,29.92838451785309
-2011,,urban,Akmola,KZAKM,31.758393907926617
-2011,,urban,Aktobe,KZAKT,26.221630233226254
-2011,,urban,Almaty,KZALM,38.32709879192984
-2011,,urban,Atyrau,KZATY,55.72597137014315
-2011,,urban,Batys Kazakhstan,KZZAP,34.83370055608015
-2011,,urban,Zhambyl,KZZHA,31.532419268560485
-2011,,urban,Karagandy,KZKAR,32.23099352819856
-2011,,urban,Kostanay,KZKUS,28.197608842770133
-2011,,urban,Kyzylorda,KZKZY,33.40228300007661
-2011,,urban,Mangistau,KZMAN,44.57772009130377
-2011,,urban,Ontustik Kazakhstan,KZONT,33.541230502789624
-2011,,urban,Pavlodar,KZPAV,29.41741972697558
-2011,,urban,Soltustik Kazakhstan,KZSEV,29.085763697822497
-2011,,urban,Shygys Kazakhstan,KZVOS,25.78957956145645
-2011,,urban,Nur-Sultan city,KZNS,23.458121973053
-2011,,urban,Almaty city,KZALA,16.570703178129392
-2011,,rural,,,33.39098229810347
-2011,,rural,Akmola,KZAKM,32.69807487665667
-2011,,rural,Aktobe,KZAKT,27.150942044559063
-2011,,rural,Almaty,KZALM,34.364939152893484
-2011,,rural,Atyrau,KZATY,44.08417521862397
-2011,,rural,Batys Kazakhstan,KZZAP,26.123647037240872
-2011,,rural,Zhambyl,KZZHA,47.95622787254587
-2011,,rural,Karagandy,KZKAR,28.119925541605607
-2011,,rural,Kostanay,KZKUS,30.601359383096103
-2011,,rural,Kyzylorda,KZKZY,21.732522796352587
-2011,,rural,Mangistau,KZMAN,54.51284070525441
-2011,,rural,Ontustik Kazakhstan,KZONT,32.1462775341499
-2011,,rural,Pavlodar,KZPAV,32.80687170961485
-2011,,rural,Soltustik Kazakhstan,KZSEV,32.76550030693677
-2011,,rural,Shygys Kazakhstan,KZVOS,24.963055587131976
-2012,age: 10-14 years old,,,,0.0301062396067062
-2012,age: 10-14 years old,,Akmola,KZAKM,0.0
-2012,age: 10-14 years old,,Aktobe,KZAKT,0.040395063723213
-2012,age: 10-14 years old,,Almaty,KZALM,0.029852751304192
-2012,age: 10-14 years old,,Atyrau,KZATY,0.1459427904261529
-2012,age: 10-14 years old,,Batys Kazakhstan,KZZAP,0.0527648796960742
-2012,age: 10-14 years old,,Zhambyl,KZZHA,0.0
-2012,age: 10-14 years old,,Karagandy,KZKAR,0.0247582971243237
-2012,age: 10-14 years old,,Kostanay,KZKUS,0.0398747931495105
-2012,age: 10-14 years old,,Kyzylorda,KZKZY,0.0338615738859542
-2012,age: 10-14 years old,,Mangistau,KZMAN,0.0451029474776176
-2012,age: 10-14 years old,,Ontustik Kazakhstan,KZONT,0.0082942122986579
-2012,age: 10-14 years old,,Pavlodar,KZPAV,0.0964436407474382
-2012,age: 10-14 years old,,Soltustik Kazakhstan,KZSEV,0.0
-2012,age: 10-14 years old,,Shygys Kazakhstan,KZVOS,0.0780365991650084
-2012,age: 10-14 years old,,Nur-Sultan city,KZNS,0.0
-2012,age: 10-14 years old,,Almaty city,KZALA,0.0
-2012,age: 10-14 years old,urban,,,0.0375809164106466
-2012,age: 10-14 years old,urban,Akmola,KZAKM,0.0
-2012,age: 10-14 years old,urban,Aktobe,KZAKT,0.0737055463423622
-2012,age: 10-14 years old,urban,Almaty,KZALM,0.0
-2012,age: 10-14 years old,urban,Atyrau,KZATY,0.2160060481693487
-2012,age: 10-14 years old,urban,Batys Kazakhstan,KZZAP,0.1310015065173249
-2012,age: 10-14 years old,urban,Zhambyl,KZZHA,0.0
-2012,age: 10-14 years old,urban,Karagandy,KZKAR,0.0339379952826186
-2012,age: 10-14 years old,urban,Kostanay,KZKUS,0.0
-2012,age: 10-14 years old,urban,Kyzylorda,KZKZY,0.0896418806866568
-2012,age: 10-14 years old,urban,Mangistau,KZMAN,0.0
-2012,age: 10-14 years old,urban,Ontustik Kazakhstan,KZONT,0.0239091452480573
-2012,age: 10-14 years old,urban,Pavlodar,KZPAV,0.0759647523549073
-2012,age: 10-14 years old,urban,Soltustik Kazakhstan,KZSEV,0.0
-2012,age: 10-14 years old,urban,Shygys Kazakhstan,KZVOS,0.1039392994491217
-2012,age: 10-14 years old,urban,Nur-Sultan city,KZNS,0.0
-2012,age: 10-14 years old,urban,Almaty city,KZALA,0.0
-2012,age: 10-14 years old,rural,,,0.0234447348986601
-2012,age: 10-14 years old,rural,Akmola,KZAKM,0.0
-2012,age: 10-14 years old,rural,Aktobe,KZAKT,0.0
-2012,age: 10-14 years old,rural,Almaty,KZALM,0.0381228317639434
-2012,age: 10-14 years old,rural,Atyrau,KZATY,0.088519075860848
-2012,age: 10-14 years old,rural,Batys Kazakhstan,KZZAP,0.0
-2012,age: 10-14 years old,rural,Zhambyl,KZZHA,0.0
-2012,age: 10-14 years old,rural,Karagandy,KZKAR,0.0
-2012,age: 10-14 years old,rural,Kostanay,KZKUS,0.0694806322737536
-2012,age: 10-14 years old,rural,Kyzylorda,KZKZY,0.0
-2012,age: 10-14 years old,rural,Mangistau,KZMAN,0.0856274350301836
-2012,age: 10-14 years old,rural,Ontustik Kazakhstan,KZONT,0.0
-2012,age: 10-14 years old,rural,Pavlodar,KZPAV,0.1320393477256222
-2012,age: 10-14 years old,rural,Soltustik Kazakhstan,KZSEV,0.0
-2012,age: 10-14 years old,rural,Shygys Kazakhstan,KZVOS,0.0520792646407832
-2012,15-19,,,,33.820040047206206
-2012,,,Akmola,KZAKM,34.51160438106726
-2012,,,Aktobe,KZAKT,29.618242377658213
-2012,,,Almaty,KZALM,36.44040368376144
-2012,,,Atyrau,KZATY,54.24666526009799
-2012,,,Batys Kazakhstan,KZZAP,34.750547298075816
-2012,,,Zhambyl,KZZHA,45.43415498222892
-2012,,,Karagandy,KZKAR,32.02022329892564
-2012,,,Kostanay,KZKUS,30.18575851393189
-2012,,,Kyzylorda,KZKZY,29.289885100772278
-2012,,,Mangistau,KZMAN,54.89684343150269
-2012,,,Ontustik Kazakhstan,KZONT,34.49343188599587
-2012,,,Pavlodar,KZPAV,31.48986419996064
-2012,,,Soltustik Kazakhstan,KZSEV,28.247507171151483
-2012,,,Shygys Kazakhstan,KZVOS,25.68730423037064
-2012,,,Nur-Sultan city,KZNS,26.033616692426584
-2012,,,Almaty city,KZALA,19.094380796508457
-2012,,urban,,,32.79511883381278
-2012,,urban,Akmola,KZAKM,33.93194706994329
-2012,,urban,Aktobe,KZAKT,33.32384836700496
-2012,,urban,Almaty,KZALM,40.69087629038185
-2012,,urban,Atyrau,KZATY,59.61155646419541
-2012,,urban,Batys Kazakhstan,KZZAP,42.94788914497723
-2012,,urban,Zhambyl,KZZHA,35.640307054953084
-2012,,urban,Karagandy,KZKAR,33.62265874828689
-2012,,urban,Kostanay,KZKUS,31.248665955176094
-2012,,urban,Kyzylorda,KZKZY,35.407637582795
-2012,,urban,Mangistau,KZMAN,50.36814707123763
-2012,,urban,Ontustik Kazakhstan,KZONT,34.40895815350416
-2012,,urban,Pavlodar,KZPAV,32.16171158655182
-2012,,urban,Soltustik Kazakhstan,KZSEV,28.882785505448748
-2012,,urban,Shygys Kazakhstan,KZVOS,28.342940466154797
-2012,,urban,Nur-Sultan city,KZNS,26.033616692426584
-2012,,urban,Almaty city,KZALA,19.094380796508457
-2012,,rural,,,34.76437584972138
-2012,,rural,Akmola,KZAKM,34.917170915583775
-2012,,rural,Aktobe,KZAKT,25.263783623123796
-2012,,rural,Almaty,KZALM,35.2402961845022
-2012,,rural,Atyrau,KZATY,50.10386373078521
-2012,,rural,Batys Kazakhstan,KZZAP,29.055690072639223
-2012,,rural,Zhambyl,KZZHA,51.3758755151448
-2012,,rural,Karagandy,KZKAR,27.72907066835216
-2012,,rural,Kostanay,KZKUS,29.378384513116508
-2012,,rural,Kyzylorda,KZKZY,25.477707006369428
-2012,,rural,Mangistau,KZMAN,59.0728247708009
-2012,,rural,Ontustik Kazakhstan,KZONT,34.538722929451744
-2012,,rural,Pavlodar,KZPAV,30.34775934344925
-2012,,rural,Soltustik Kazakhstan,KZSEV,27.964294178055138
-2012,,rural,Shygys Kazakhstan,KZVOS,22.911307992759838
-2013,age: 10-14 years old,,,,0.0379838532448611
-2013,age: 10-14 years old,,Akmola,KZAKM,0.0876577840112202
-2013,age: 10-14 years old,,Aktobe,KZAKT,0.0822351514154725
-2013,age: 10-14 years old,,Almaty,KZALM,0.0306327970041124
-2013,age: 10-14 years old,,Atyrau,KZATY,0.0496339496215411
-2013,age: 10-14 years old,,Batys Kazakhstan,KZZAP,0.0541023074634133
-2013,age: 10-14 years old,,Zhambyl,KZZHA,0.0
-2013,age: 10-14 years old,,Karagandy,KZKAR,0.0252847697189597
-2013,age: 10-14 years old,,Kostanay,KZKUS,0.1215288327155617
-2013,age: 10-14 years old,,Kyzylorda,KZKZY,0.0343554066821265
-2013,age: 10-14 years old,,Mangistau,KZMAN,0.0459579943931246
-2013,age: 10-14 years old,,Ontustik Kazakhstan,KZONT,0.0084691574458714
-2013,age: 10-14 years old,,Pavlodar,KZPAV,0.0985197408930814
-2013,age: 10-14 years old,,Soltustik Kazakhstan,KZSEV,0.060560181680545
-2013,age: 10-14 years old,,Shygys Kazakhstan,KZVOS,0.0533560986020702
-2013,age: 10-14 years old,,Nur-Sultan city,KZNS,0.0
-2013,age: 10-14 years old,,Almaty city,KZALA,0.0288971406279348
-2013,age: 10-14 years old,urban,,,0.0307675740537047
-2013,age: 10-14 years old,urban,Akmola,KZAKM,0.1066098081023454
-2013,age: 10-14 years old,urban,Aktobe,KZAKT,0.0755829333736442
-2013,age: 10-14 years old,urban,Almaty,KZALM,0.0
-2013,age: 10-14 years old,urban,Atyrau,KZATY,0.112898673440587
-2013,age: 10-14 years old,urban,Batys Kazakhstan,KZZAP,0.0
-2013,age: 10-14 years old,urban,Zhambyl,KZZHA,0.0
-2013,age: 10-14 years old,urban,Karagandy,KZKAR,0.034676468548443
-2013,age: 10-14 years old,urban,Kostanay,KZKUS,0.0950344499881207
-2013,age: 10-14 years old,urban,Kyzylorda,KZKZY,0.0
-2013,age: 10-14 years old,urban,Mangistau,KZMAN,0.0
-2013,age: 10-14 years old,urban,Ontustik Kazakhstan,KZONT,0.0
-2013,age: 10-14 years old,urban,Pavlodar,KZPAV,0.0775674837108284
-2013,age: 10-14 years old,urban,Soltustik Kazakhstan,KZSEV,0.0
-2013,age: 10-14 years old,urban,Shygys Kazakhstan,KZVOS,0.0531985636387817
-2013,age: 10-14 years old,urban,Nur-Sultan city,KZNS,0.0
-2013,age: 10-14 years old,urban,Almaty city,KZALA,0.0288971406279348
-2013,age: 10-14 years old,rural,,,0.0443909476613653
-2013,age: 10-14 years old,rural,Akmola,KZAKM,0.0744269127716582
-2013,age: 10-14 years old,rural,Aktobe,KZAKT,0.0901713255184851
-2013,age: 10-14 years old,rural,Almaty,KZALM,0.0391171264558905
-2013,age: 10-14 years old,rural,Atyrau,KZATY,0.0
-2013,age: 10-14 years old,rural,Batys Kazakhstan,KZZAP,0.0898714837781971
-2013,age: 10-14 years old,rural,Zhambyl,KZZHA,0.0
-2013,age: 10-14 years old,rural,Karagandy,KZKAR,0.0
-2013,age: 10-14 years old,rural,Kostanay,KZKUS,0.1412130198404293
-2013,age: 10-14 years old,rural,Kyzylorda,KZKZY,0.0550266879436526
-2013,age: 10-14 years old,rural,Mangistau,KZMAN,0.0862849993528625
-2013,age: 10-14 years old,rural,Ontustik Kazakhstan,KZONT,0.0129495937064974
-2013,age: 10-14 years old,rural,Pavlodar,KZPAV,0.1349800904366606
-2013,age: 10-14 years old,rural,Soltustik Kazakhstan,KZSEV,0.0889323669349459
-2013,age: 10-14 years old,rural,Shygys Kazakhstan,KZVOS,0.0535145693415032
-2013,15-19,,,,33.61561193920943
-2013,,,Akmola,KZAKM,31.21202916160389
-2013,,,Aktobe,KZAKT,30.866878236178387
-2013,,,Almaty,KZALM,37.16566489998043
-2013,,,Atyrau,KZATY,51.92388219420276
-2013,,,Batys Kazakhstan,KZZAP,31.559062118013117
-2013,,,Zhambyl,KZZHA,46.20394407250535
-2013,,,Karagandy,KZKAR,30.561409196520238
-2013,,,Kostanay,KZKUS,29.647305529945587
-2013,,,Kyzylorda,KZKZY,28.17602239154097
-2013,,,Mangistau,KZMAN,53.41390261115032
-2013,,,Ontustik Kazakhstan,KZONT,37.75585696670777
-2013,,,Pavlodar,KZPAV,30.001714383679065
-2013,,,Soltustik Kazakhstan,KZSEV,27.34794756071352
-2013,,,Shygys Kazakhstan,KZVOS,26.450015404452454
-2013,,,Nur-Sultan city,KZNS,26.40558442427351
-2013,,,Almaty city,KZALA,14.738082270953974
-2013,,urban,,,30.784273157448624
-2013,,urban,Akmola,KZAKM,31.363531846401468
-2013,,urban,Aktobe,KZAKT,32.718822618125486
-2013,,urban,Almaty,KZALM,37.69821481998604
-2013,,urban,Atyrau,KZATY,55.26128979413531
-2013,,urban,Batys Kazakhstan,KZZAP,34.77985094349596
-2013,,urban,Zhambyl,KZZHA,35.296937735962125
-2013,,urban,Karagandy,KZKAR,31.34268891938554
-2013,,urban,Kostanay,KZKUS,28.228476821192054
-2013,,urban,Kyzylorda,KZKZY,30.1990391214825
-2013,,urban,Mangistau,KZMAN,45.243834600407936
-2013,,urban,Ontustik Kazakhstan,KZONT,38.465173424062
-2013,,urban,Pavlodar,KZPAV,27.79374471682164
-2013,,urban,Soltustik Kazakhstan,KZSEV,25.8230012825994
-2013,,urban,Shygys Kazakhstan,KZVOS,28.709811742532164
-2013,,urban,Nur-Sultan city,KZNS,26.40558442427351
-2013,,urban,Almaty city,KZALA,14.738082270953974
-2013,,rural,,,36.29177883652456
-2013,,rural,Akmola,KZAKM,31.105506515342583
-2013,,rural,Aktobe,KZAKT,28.700851603551367
-2013,,rural,Almaty,KZALM,37.017117635058696
-2013,,rural,Atyrau,KZATY,49.44676366878775
-2013,,rural,Batys Kazakhstan,KZZAP,29.22227335480902
-2013,,rural,Zhambyl,KZZHA,52.88867668123554
-2013,,rural,Karagandy,KZKAR,28.42377260981912
-2013,,rural,Kostanay,KZKUS,30.747504573611067
-2013,,rural,Kyzylorda,KZKZY,26.908778230191448
-2013,,rural,Mangistau,KZMAN,60.82786471479051
-2013,,rural,Ontustik Kazakhstan,KZONT,37.3774046340418
-2013,,rural,Pavlodar,KZPAV,33.82292702908304
-2013,,rural,Soltustik Kazakhstan,KZSEV,28.04653531278154
-2013,,rural,Shygys Kazakhstan,KZVOS,23.995429442011044
-2014,age: 10-14 years old,,,,0.0369105192343352
-2014,age: 10-14 years old,,Akmola,KZAKM,0.0864696599580622
-2014,age: 10-14 years old,,Aktobe,KZAKT,0.0808717979822486
-2014,age: 10-14 years old,,Almaty,KZALM,0.0451814033343875
-2014,age: 10-14 years old,,Atyrau,KZATY,0.0
-2014,age: 10-14 years old,,Batys Kazakhstan,KZZAP,0.0
-2014,age: 10-14 years old,,Zhambyl,KZZHA,0.0719165767709457
-2014,age: 10-14 years old,,Karagandy,KZKAR,0.0743153696570345
-2014,age: 10-14 years old,,Kostanay,KZKUS,0.1195266743694968
-2014,age: 10-14 years old,,Kyzylorda,KZKZY,0.033963930306015
-2014,age: 10-14 years old,,Mangistau,KZMAN,0.0
-2014,age: 10-14 years old,,Ontustik Kazakhstan,KZONT,0.0
-2014,age: 10-14 years old,,Pavlodar,KZPAV,0.0
-2014,age: 10-14 years old,,Soltustik Kazakhstan,KZSEV,0.0
-2014,age: 10-14 years old,,Shygys Kazakhstan,KZVOS,0.0521030076461163
-2014,age: 10-14 years old,,Nur-Sultan city,KZNS,0.0953743443013829
-2014,age: 10-14 years old,,Almaty city,KZALA,0.0
-2014,age: 10-14 years old,urban,,,0.0365290798872712
-2014,age: 10-14 years old,urban,Akmola,KZAKM,0.2083876009377442
-2014,age: 10-14 years old,urban,Aktobe,KZAKT,0.0731314904197747
-2014,age: 10-14 years old,urban,Almaty,KZALM,0.0684017921269537
-2014,age: 10-14 years old,urban,Atyrau,KZATY,0.0
-2014,age: 10-14 years old,urban,Batys Kazakhstan,KZZAP,0.0
-2014,age: 10-14 years old,urban,Zhambyl,KZZHA,0.0
-2014,age: 10-14 years old,urban,Karagandy,KZKAR,0.1013753252458351
-2014,age: 10-14 years old,urban,Kostanay,KZKUS,0.0922892344608001
-2014,age: 10-14 years old,urban,Kyzylorda,KZKZY,0.0
-2014,age: 10-14 years old,urban,Mangistau,KZMAN,0.0
-2014,age: 10-14 years old,urban,Ontustik Kazakhstan,KZONT,0.0
-2014,age: 10-14 years old,urban,Pavlodar,KZPAV,0.0
-2014,age: 10-14 years old,urban,Soltustik Kazakhstan,KZSEV,0.0
-2014,age: 10-14 years old,urban,Shygys Kazakhstan,KZVOS,0.0
-2014,age: 10-14 years old,urban,Nur-Sultan city,KZNS,0.0953743443013829
-2014,age: 10-14 years old,urban,Almaty city,KZALA,0.0
-2014,age: 10-14 years old,rural,,,0.037264261202145
-2014,age: 10-14 years old,rural,Akmola,KZAKM,0.0
-2014,age: 10-14 years old,rural,Aktobe,KZAKT,0.0904445348889793
-2014,age: 10-14 years old,rural,Almaty,KZALM,0.0386253246941357
-2014,age: 10-14 years old,rural,Atyrau,KZATY,0.0
-2014,age: 10-14 years old,rural,Batys Kazakhstan,KZZAP,0.0
-2014,age: 10-14 years old,rural,Zhambyl,KZZHA,0.1136988118474161
-2014,age: 10-14 years old,rural,Karagandy,KZKAR,0.0
-2014,age: 10-14 years old,rural,Kostanay,KZKUS,0.1402180390507238
-2014,age: 10-14 years old,rural,Kyzylorda,KZKZY,0.0548696844993141
-2014,age: 10-14 years old,rural,Mangistau,KZMAN,0.0
-2014,age: 10-14 years old,rural,Ontustik Kazakhstan,KZONT,0.0
-2014,age: 10-14 years old,rural,Pavlodar,KZPAV,0.0
-2014,age: 10-14 years old,rural,Soltustik Kazakhstan,KZSEV,0.0
-2014,age: 10-14 years old,rural,Shygys Kazakhstan,KZVOS,0.1054741061069507
-2014,15-19,,,,34.4240799755831
-2014,,,Akmola,KZAKM,33.03104918623506
-2014,,,Aktobe,KZAKT,31.70599891911367
-2014,,,Almaty,KZALM,39.74978719416482
-2014,,,Atyrau,KZATY,45.463357890655296
-2014,,,Batys Kazakhstan,KZZAP,32.38808461923728
-2014,,,Zhambyl,KZZHA,50.15628582807352
-2014,,,Karagandy,KZKAR,32.00235544583607
-2014,,,Kostanay,KZKUS,28.951187838973343
-2014,,,Kyzylorda,KZKZY,28.207179118852125
-2014,,,Mangistau,KZMAN,53.81555484431439
-2014,,,Ontustik Kazakhstan,KZONT,37.42960681899382
-2014,,,Pavlodar,KZPAV,30.0443837487197
-2014,,,Soltustik Kazakhstan,KZSEV,29.48992713244749
-2014,,,Shygys Kazakhstan,KZVOS,28.74603618161274
-2014,,,Nur-Sultan city,KZNS,26.615519405176293
-2014,,,Almaty city,KZALA,15.952255415577568
-2014,,urban,,,31.917575529974663
-2014,,urban,Akmola,KZAKM,32.71187265735287
-2014,,urban,Aktobe,KZAKT,33.807949254335654
-2014,,urban,Almaty,KZALM,41.21254599614509
-2014,,urban,Atyrau,KZATY,52.58302583025831
-2014,,urban,Batys Kazakhstan,KZZAP,34.0
-2014,,urban,Zhambyl,KZZHA,37.45222929936306
-2014,,urban,Karagandy,KZKAR,33.071301357243755
-2014,,urban,Kostanay,KZKUS,28.646288209606983
-2014,,urban,Kyzylorda,KZKZY,30.126668948990076
-2014,,urban,Mangistau,KZMAN,52.083333333333336
-2014,,urban,Ontustik Kazakhstan,KZONT,40.73333714089897
-2014,,urban,Pavlodar,KZPAV,26.81213677042108
-2014,,urban,Soltustik Kazakhstan,KZSEV,24.844720496894407
-2014,,urban,Shygys Kazakhstan,KZVOS,28.569424637037383
-2014,,urban,Nur-Sultan city,KZNS,26.615519405176293
-2014,,urban,Almaty city,KZALA,15.952255415577568
-2014,,rural,,,36.83573970079744
-2014,,rural,Akmola,KZAKM,33.253995239714385
-2014,,rural,Aktobe,KZAKT,29.298082869511443
-2014,,rural,Almaty,KZALM,39.33035893725632
-2014,,rural,Atyrau,KZATY,40.30100334448161
-2014,,rural,Batys Kazakhstan,KZZAP,31.288860363432143
-2014,,rural,Zhambyl,KZZHA,57.90793027729737
-2014,,rural,Karagandy,KZKAR,28.998015016829207
-2014,,rural,Kostanay,KZKUS,29.18816182459951
-2014,,rural,Kyzylorda,KZKZY,27.02346079750877
-2014,,rural,Mangistau,KZMAN,55.09992833824349
-2014,,rural,Ontustik Kazakhstan,KZONT,35.46959603694693
-2014,,rural,Pavlodar,KZPAV,35.750251762336354
-2014,,rural,Soltustik Kazakhstan,KZSEV,31.604773984280783
-2014,,rural,Shygys Kazakhstan,KZVOS,28.937117417918756
-2015,age: 10-14 years old,,,,0.0321787648943224
-2015,age: 10-14 years old,,Akmola,KZAKM,0.042158516020236
-2015,age: 10-14 years old,,Aktobe,KZAKT,0.0
-2015,age: 10-14 years old,,Almaty,KZALM,0.0590392832631011
-2015,age: 10-14 years old,,Atyrau,KZATY,0.092805271339412
-2015,age: 10-14 years old,,Batys Kazakhstan,KZZAP,0.0
-2015,age: 10-14 years old,,Zhambyl,KZZHA,0.0230648583817695
-2015,age: 10-14 years old,,Karagandy,KZKAR,0.0
-2015,age: 10-14 years old,,Kostanay,KZKUS,0.0786271696184616
-2015,age: 10-14 years old,,Kyzylorda,KZKZY,0.0
-2015,age: 10-14 years old,,Mangistau,KZMAN,0.0418699101890426
-2015,age: 10-14 years old,,Ontustik Kazakhstan,KZONT,0.0239444488786016
-2015,age: 10-14 years old,,Pavlodar,KZPAV,0.0
-2015,age: 10-14 years old,,Soltustik Kazakhstan,KZSEV,0.1784651992861392
-2015,age: 10-14 years old,,Shygys Kazakhstan,KZVOS,0.0251351011687822
-2015,age: 10-14 years old,,Nur-Sultan city,KZNS,0.0441666850694521
-2015,age: 10-14 years old,,Almaty city,KZALA,0.0
-2015,age: 10-14 years old,urban,,,0.0377585819249668
-2015,age: 10-14 years old,urban,Akmola,KZAKM,0.1008420309585035
-2015,age: 10-14 years old,urban,Aktobe,KZAKT,0.0
-2015,age: 10-14 years old,urban,Almaty,KZALM,0.0660022440762986
-2015,age: 10-14 years old,urban,Atyrau,KZATY,0.0
-2015,age: 10-14 years old,urban,Batys Kazakhstan,KZZAP,0.0
-2015,age: 10-14 years old,urban,Zhambyl,KZZHA,0.0
-2015,age: 10-14 years old,urban,Karagandy,KZKAR,0.0
-2015,age: 10-14 years old,urban,Kostanay,KZKUS,0.088754770568918
-2015,age: 10-14 years old,urban,Kyzylorda,KZKZY,0.0
-2015,age: 10-14 years old,urban,Mangistau,KZMAN,0.1065019436604718
-2015,age: 10-14 years old,urban,Ontustik Kazakhstan,KZONT,0.0587555572964609
-2015,age: 10-14 years old,urban,Pavlodar,KZPAV,0.0
-2015,age: 10-14 years old,urban,Soltustik Kazakhstan,KZSEV,0.3501400560224089
-2015,age: 10-14 years old,urban,Shygys Kazakhstan,KZVOS,0.0490677134445534
-2015,age: 10-14 years old,urban,Nur-Sultan city,KZNS,0.0441666850694521
-2015,age: 10-14 years old,urban,Almaty city,KZALA,0.0
-2015,age: 10-14 years old,rural,,,0.026744493141709
-2015,age: 10-14 years old,rural,Akmola,KZAKM,0.0
-2015,age: 10-14 years old,rural,Aktobe,KZAKT,0.0
-2015,age: 10-14 years old,rural,Almaty,KZALM,0.0570336783870875
-2015,age: 10-14 years old,rural,Atyrau,KZATY,0.166009545548869
-2015,age: 10-14 years old,rural,Batys Kazakhstan,KZZAP,0.0
-2015,age: 10-14 years old,rural,Zhambyl,KZZHA,0.0364404926754609
-2015,age: 10-14 years old,rural,Karagandy,KZKAR,0.0
-2015,age: 10-14 years old,rural,Kostanay,KZKUS,0.0705741204700236
-2015,age: 10-14 years old,rural,Kyzylorda,KZKZY,0.0
-2015,age: 10-14 years old,rural,Mangistau,KZMAN,0.0
-2015,age: 10-14 years old,rural,Ontustik Kazakhstan,KZONT,0.0
-2015,age: 10-14 years old,rural,Pavlodar,KZPAV,0.0
-2015,age: 10-14 years old,rural,Soltustik Kazakhstan,KZSEV,0.0901063254640475
-2015,age: 10-14 years old,rural,Shygys Kazakhstan,KZVOS,0.0
-2015,15-19,,,,30.947651865577136
-2015,,,Akmola,KZAKM,30.374421539756
-2015,,,Aktobe,KZAKT,30.162059103908483
-2015,,,Almaty,KZALM,36.08312184335503
-2015,,,Atyrau,KZATY,39.80300542997853
-2015,,,Batys Kazakhstan,KZZAP,25.955840064014403
-2015,,,Zhambyl,KZZHA,46.00266277816522
-2015,,,Karagandy,KZKAR,28.304355065052444
-2015,,,Kostanay,KZKUS,26.603476771739786
-2015,,,Kyzylorda,KZKZY,24.46757185195396
-2015,,,Mangistau,KZMAN,48.40312278211498
-2015,,,Ontustik Kazakhstan,KZONT,35.01186581720037
-2015,,,Pavlodar,KZPAV,29.561355333221904
-2015,,,Soltustik Kazakhstan,KZSEV,26.51594865165499
-2015,,,Shygys Kazakhstan,KZVOS,24.069402255058435
-2015,,,Nur-Sultan city,KZNS,23.002210795638025
-2015,,,Almaty city,KZALA,12.937644441564611
-2015,,urban,,,27.55982964303374
-2015,,urban,Akmola,KZAKM,29.029949913114585
-2015,,urban,Aktobe,KZAKT,34.56196769975615
-2015,,urban,Almaty,KZALM,36.72985781990521
-2015,,urban,Atyrau,KZATY,38.982647967672925
-2015,,urban,Batys Kazakhstan,KZZAP,25.035260930888576
-2015,,urban,Zhambyl,KZZHA,35.83486545211433
-2015,,urban,Karagandy,KZKAR,29.108356657337065
-2015,,urban,Kostanay,KZKUS,25.71133186497056
-2015,,urban,Kyzylorda,KZKZY,26.1820144855819
-2015,,urban,Mangistau,KZMAN,41.90067520666372
-2015,,urban,Ontustik Kazakhstan,KZONT,34.447062969407305
-2015,,urban,Pavlodar,KZPAV,25.68480439462549
-2015,,urban,Soltustik Kazakhstan,KZSEV,23.75212072506474
-2015,,urban,Shygys Kazakhstan,KZVOS,24.666031699514008
-2015,,urban,Nur-Sultan city,KZNS,23.002210795638025
-2015,,urban,Almaty city,KZALA,12.937644441564611
-2015,,rural,,,34.3547915612055
-2015,,rural,Akmola,KZAKM,31.314792307142348
-2015,,rural,Aktobe,KZAKT,25.00724547675237
-2015,,rural,Almaty,KZALM,35.89404977106177
-2015,,rural,Atyrau,KZATY,40.409364430974655
-2015,,rural,Batys Kazakhstan,KZZAP,26.63764961915125
-2015,,rural,Zhambyl,KZZHA,52.21654749744637
-2015,,rural,Karagandy,KZKAR,25.972821297713462
-2015,,rural,Kostanay,KZKUS,27.313027313027312
-2015,,rural,Kyzylorda,KZKZY,23.403245175524336
-2015,,rural,Mangistau,KZMAN,52.30291791242478
-2015,,rural,Ontustik Kazakhstan,KZONT,35.38810273113405
-2015,,rural,Pavlodar,KZPAV,36.55352480417755
-2015,,rural,Soltustik Kazakhstan,KZSEV,27.918781725888326
-2015,,rural,Shygys Kazakhstan,KZVOS,23.40454483603212
-2016,age: 10-14 years old,,,,0.0162248504677218
-2016,age: 10-14 years old,,Akmola,KZAKM,0.0414439056736706
-2016,age: 10-14 years old,,Aktobe,KZAKT,0.0
-2016,age: 10-14 years old,,Almaty,KZALM,0.0141013889868152
-2016,age: 10-14 years old,,Atyrau,KZATY,0.0
-2016,age: 10-14 years old,,Batys Kazakhstan,KZZAP,0.0
-2016,age: 10-14 years old,,Zhambyl,KZZHA,0.0440693651807945
-2016,age: 10-14 years old,,Karagandy,KZKAR,0.0229391996513241
-2016,age: 10-14 years old,,Kostanay,KZKUS,0.0389241368572651
-2016,age: 10-14 years old,,Kyzylorda,KZKZY,0.095568793603262
-2016,age: 10-14 years old,,Mangistau,KZMAN,0.0
-2016,age: 10-14 years old,,Ontustik Kazakhstan,KZONT,0.0077102191244275
-2016,age: 10-14 years old,,Pavlodar,KZPAV,0.0
-2016,age: 10-14 years old,,Soltustik Kazakhstan,KZSEV,0.0
-2016,age: 10-14 years old,,Shygys Kazakhstan,KZVOS,0.0
-2016,age: 10-14 years old,,Nur-Sultan city,KZNS,0.0
-2016,age: 10-14 years old,,Almaty city,KZALA,0.0
-2016,age: 10-14 years old,urban,,,0.0129748385443528
-2016,age: 10-14 years old,urban,Akmola,KZAKM,0.0980199960792001
-2016,age: 10-14 years old,urban,Aktobe,KZAKT,0.0
-2016,age: 10-14 years old,urban,Almaty,KZALM,0.0
-2016,age: 10-14 years old,urban,Atyrau,KZATY,0.0
-2016,age: 10-14 years old,urban,Batys Kazakhstan,KZZAP,0.0
-2016,age: 10-14 years old,urban,Zhambyl,KZZHA,0.0599970001499925
-2016,age: 10-14 years old,urban,Karagandy,KZKAR,0.0308475360530577
-2016,age: 10-14 years old,urban,Kostanay,KZKUS,0.0
-2016,age: 10-14 years old,urban,Kyzylorda,KZKZY,0.0
-2016,age: 10-14 years old,urban,Mangistau,KZMAN,0.0
-2016,age: 10-14 years old,urban,Ontustik Kazakhstan,KZONT,0.0186598496016122
-2016,age: 10-14 years old,urban,Pavlodar,KZPAV,0.0
-2016,age: 10-14 years old,urban,Soltustik Kazakhstan,KZSEV,0.0
-2016,age: 10-14 years old,urban,Shygys Kazakhstan,KZVOS,0.0
-2016,age: 10-14 years old,urban,Nur-Sultan city,KZNS,0.0
-2016,age: 10-14 years old,urban,Almaty city,KZALA,0.0
-2016,age: 10-14 years old,rural,,,0.0194773891858289
-2016,age: 10-14 years old,rural,Akmola,KZAKM,0.0
-2016,age: 10-14 years old,rural,Aktobe,KZAKT,0.0
-2016,age: 10-14 years old,rural,Almaty,KZALM,0.0181435517816967
-2016,age: 10-14 years old,rural,Atyrau,KZATY,0.0
-2016,age: 10-14 years old,rural,Batys Kazakhstan,KZZAP,0.0
-2016,age: 10-14 years old,rural,Zhambyl,KZZHA,0.03482439797322
-2016,age: 10-14 years old,rural,Karagandy,KZKAR,0.0
-2016,age: 10-14 years old,rural,Kostanay,KZKUS,0.0718003949021719
-2016,age: 10-14 years old,rural,Kyzylorda,KZKZY,0.1592737118738552
-2016,age: 10-14 years old,rural,Mangistau,KZMAN,0.0
-2016,age: 10-14 years old,rural,Ontustik Kazakhstan,KZONT,0.0
-2016,age: 10-14 years old,rural,Pavlodar,KZPAV,0.0
-2016,age: 10-14 years old,rural,Soltustik Kazakhstan,KZSEV,0.0
-2016,age: 10-14 years old,rural,Shygys Kazakhstan,KZVOS,0.0
-2016,15-19,,,,28.10458708900485
-2016,,,Akmola,KZAKM,26.028811201364267
-2016,,,Aktobe,KZAKT,25.86516584840139
-2016,,,Almaty,KZALM,35.01756005024482
-2016,,,Atyrau,KZATY,35.11327281712487
-2016,,,Batys Kazakhstan,KZZAP,26.18286774559324
-2016,,,Zhambyl,KZZHA,41.08942065491184
-2016,,,Karagandy,KZKAR,24.049562792575674
-2016,,,Kostanay,KZKUS,24.55622514655844
-2016,,,Kyzylorda,KZKZY,21.58428663932657
-2016,,,Mangistau,KZMAN,42.24941724941725
-2016,,,Ontustik Kazakhstan,KZONT,31.771182664043828
-2016,,,Pavlodar,KZPAV,25.180846537007834
-2016,,,Soltustik Kazakhstan,KZSEV,26.133217185701398
-2016,,,Shygys Kazakhstan,KZVOS,22.96335318987992
-2016,,,Nur-Sultan city,KZNS,18.71146076972145
-2016,,,Almaty city,KZALA,13.499080609110228
-2016,,urban,,,25.18400379322608
-2016,,urban,Akmola,KZAKM,25.883737098240548
-2016,,urban,Aktobe,KZAKT,30.060483140777222
-2016,,urban,Almaty,KZALM,37.002987818892215
-2016,,urban,Atyrau,KZATY,40.14554275318376
-2016,,urban,Batys Kazakhstan,KZZAP,25.696418419556565
-2016,,urban,Zhambyl,KZZHA,31.9368251860652
-2016,,urban,Karagandy,KZKAR,23.858675420488
-2016,,urban,Kostanay,KZKUS,22.08927749654855
-2016,,urban,Kyzylorda,KZKZY,22.544580984939483
-2016,,urban,Mangistau,KZMAN,40.10125233146815
-2016,,urban,Ontustik Kazakhstan,KZONT,31.73533672472459
-2016,,urban,Pavlodar,KZPAV,23.254912600286808
-2016,,urban,Soltustik Kazakhstan,KZSEV,21.914550242079333
-2016,,urban,Shygys Kazakhstan,KZVOS,23.7741456166419
-2016,,urban,Nur-Sultan city,KZNS,18.71146076972145
-2016,,urban,Almaty city,KZALA,13.499080609110228
-2016,,rural,,,31.119631844965497
-2016,,rural,Akmola,KZAKM,26.13368384428036
-2016,,rural,Aktobe,KZAKT,20.715714603245164
-2016,,rural,Almaty,KZALM,34.44748737915333
-2016,,rural,Atyrau,KZATY,31.333970943207174
-2016,,rural,Batys Kazakhstan,KZZAP,26.58621664938249
-2016,,rural,Zhambyl,KZZHA,46.59174456464657
-2016,,rural,Karagandy,KZKAR,24.609278094765564
-2016,,rural,Kostanay,KZKUS,26.537551744529864
-2016,,rural,Kyzylorda,KZKZY,20.9720176730486
-2016,,rural,Mangistau,KZMAN,43.48158337154211
-2016,,rural,Ontustik Kazakhstan,KZONT,31.795164610599397
-2016,,rural,Pavlodar,KZPAV,28.69257950530035
-2016,,rural,Soltustik Kazakhstan,KZSEV,28.57142857142857
-2016,,rural,Shygys Kazakhstan,KZVOS,22.02540496445636
-2017,age: 10-14 years old,,,,0.0200450705702128
-2017,age: 10-14 years old,,Akmola,KZAKM,0.0
-2017,age: 10-14 years old,,Aktobe,KZAKT,0.0
-2017,age: 10-14 years old,,Almaty,KZALM,0.0400069345353194
-2017,age: 10-14 years old,,Atyrau,KZATY,0.0
-2017,age: 10-14 years old,,Batys Kazakhstan,KZZAP,0.0943618778013682
-2017,age: 10-14 years old,,Zhambyl,KZZHA,0.0
-2017,age: 10-14 years old,,Karagandy,KZKAR,0.0220580125730671
-2017,age: 10-14 years old,,Kostanay,KZKUS,0.0384341910563637
-2017,age: 10-14 years old,,Kyzylorda,KZKZY,0.0
-2017,age: 10-14 years old,,Mangistau,KZMAN,0.0
-2017,age: 10-14 years old,,Ontustik Kazakhstan,KZONT,0.0147451847755967
-2017,age: 10-14 years old,,Pavlodar,KZPAV,0.0
-2017,age: 10-14 years old,,Soltustik Kazakhstan,KZSEV,0.0
-2017,age: 10-14 years old,,Shygys Kazakhstan,KZVOS,0.0690067626627409
-2017,age: 10-14 years old,,Nur-Sultan city,KZNS,0.0
-2017,age: 10-14 years old,,Almaty city,KZALA,0.0209305732884023
-2017,age: 10-14 years old,urban,,,0.0182590039713333
-2017,age: 10-14 years old,urban,Akmola,KZAKM,0.0
-2017,age: 10-14 years old,urban,Aktobe,KZAKT,0.0
-2017,age: 10-14 years old,urban,Almaty,KZALM,0.1217952621643018
-2017,age: 10-14 years old,urban,Atyrau,KZATY,0.0
-2017,age: 10-14 years old,urban,Batys Kazakhstan,KZZAP,0.1081314878892733
-2017,age: 10-14 years old,urban,Zhambyl,KZZHA,0.0
-2017,age: 10-14 years old,urban,Karagandy,KZKAR,0.0
-2017,age: 10-14 years old,urban,Kostanay,KZKUS,0.0814597588791137
-2017,age: 10-14 years old,urban,Kyzylorda,KZKZY,0.0
-2017,age: 10-14 years old,urban,Mangistau,KZMAN,0.0
-2017,age: 10-14 years old,urban,Ontustik Kazakhstan,KZONT,0.0
-2017,age: 10-14 years old,urban,Pavlodar,KZPAV,0.0
-2017,age: 10-14 years old,urban,Soltustik Kazakhstan,KZSEV,0.0
-2017,age: 10-14 years old,urban,Shygys Kazakhstan,KZVOS,0.0435094741880044
-2017,age: 10-14 years old,urban,Nur-Sultan city,KZNS,0.0
-2017,age: 10-14 years old,urban,Almaty city,KZALA,0.0209305732884023
-2017,age: 10-14 years old,rural,,,0.0218795468433283
-2017,age: 10-14 years old,rural,Akmola,KZAKM,0.0
-2017,age: 10-14 years old,rural,Aktobe,KZAKT,0.0
-2017,age: 10-14 years old,rural,Almaty,KZALM,0.0170747532698152
-2017,age: 10-14 years old,rural,Atyrau,KZATY,0.0
-2017,age: 10-14 years old,rural,Batys Kazakhstan,KZZAP,0.0837030216790826
-2017,age: 10-14 years old,rural,Zhambyl,KZZHA,0.0
-2017,age: 10-14 years old,rural,Karagandy,KZKAR,0.0886760663296976
-2017,age: 10-14 years old,rural,Kostanay,KZKUS,0.0
-2017,age: 10-14 years old,rural,Kyzylorda,KZKZY,0.0
-2017,age: 10-14 years old,rural,Mangistau,KZMAN,0.0
-2017,age: 10-14 years old,rural,Ontustik Kazakhstan,KZONT,0.0254224900057836
-2017,age: 10-14 years old,rural,Pavlodar,KZPAV,0.0
-2017,age: 10-14 years old,rural,Soltustik Kazakhstan,KZSEV,0.0
-2017,age: 10-14 years old,rural,Shygys Kazakhstan,KZVOS,0.0999125764955663
-2017,15-19,,,,24.904794458158783
-2017,,,Akmola,KZAKM,24.91103202846975
-2017,,,Aktobe,KZAKT,21.32996186708538
-2017,,,Almaty,KZALM,29.718658867555583
-2017,,,Atyrau,KZATY,30.987023200943767
-2017,,,Batys Kazakhstan,KZZAP,20.482343264970417
-2017,,,Zhambyl,KZZHA,35.465970943860995
-2017,,,Karagandy,KZKAR,20.458821070234112
-2017,,,Kostanay,KZKUS,20.098612736085578
-2017,,,Kyzylorda,KZKZY,19.796525507768024
-2017,,,Mangistau,KZMAN,39.81042654028436
-2017,,,Ontustik Kazakhstan,KZONT,30.00188521720396
-2017,,,Pavlodar,KZPAV,22.077554486272287
-2017,,,Soltustik Kazakhstan,KZSEV,20.537024044900825
-2017,,,Shygys Kazakhstan,KZVOS,20.39030488228349
-2017,,,Nur-Sultan city,KZNS,14.987845223081282
-2017,,,Almaty city,KZALA,12.750264661059342
-2017,,urban,,,22.376501618855627
-2017,,urban,Akmola,KZAKM,23.27127659574468
-2017,,urban,Aktobe,KZAKT,25.45857617906819
-2017,,urban,Almaty,KZALM,33.22412796299865
-2017,,urban,Atyrau,KZATY,33.21614741180749
-2017,,urban,Batys Kazakhstan,KZZAP,19.05504791620236
-2017,,urban,Zhambyl,KZZHA,26.831193055455916
-2017,,urban,Karagandy,KZKAR,20.31712841958529
-2017,,urban,Kostanay,KZKUS,16.93425253319761
-2017,,urban,Kyzylorda,KZKZY,21.29845866417562
-2017,,urban,Mangistau,KZMAN,41.15170446828738
-2017,,urban,Ontustik Kazakhstan,KZONT,31.088540516670346
-2017,,urban,Pavlodar,KZPAV,19.34281977089857
-2017,,urban,Soltustik Kazakhstan,KZSEV,17.260918838810912
-2017,,urban,Shygys Kazakhstan,KZVOS,20.179874934602257
-2017,,urban,Nur-Sultan city,KZNS,14.987845223081282
-2017,,urban,Almaty city,KZALA,12.750264661059342
-2017,,rural,,,27.55834981793084
-2017,,rural,Akmola,KZAKM,26.138909634055263
-2017,,rural,Aktobe,KZAKT,15.85041761579347
-2017,,rural,Almaty,KZALM,28.737554071692863
-2017,,rural,Atyrau,KZATY,29.288123065551808
-2017,,rural,Batys Kazakhstan,KZZAP,21.779871346806463
-2017,,rural,Zhambyl,KZZHA,40.51982952278978
-2017,,rural,Karagandy,KZKAR,20.883366398663465
-2017,,rural,Kostanay,KZKUS,22.70389699440021
-2017,,rural,Kyzylorda,KZKZY,18.823386999152643
-2017,,rural,Mangistau,KZMAN,39.06279571520497
-2017,,rural,Ontustik Kazakhstan,KZONT,29.25737107241729
-2017,,rural,Pavlodar,KZPAV,27.138037259791695
-2017,,rural,Soltustik Kazakhstan,KZSEV,22.42671091667924
-2017,,rural,Shygys Kazakhstan,KZVOS,20.05975245411865
-2018,age: 10-14 years old,,,,0.0217718829195224
-2018,age: 10-14 years old,,Akmola,KZAKM,0.0778104149240375
-2018,age: 10-14 years old,,Aktobe,KZAKT,0.0646443751313088
-2018,age: 10-14 years old,,Almaty,KZALM,0.0250239291322326
-2018,age: 10-14 years old,,Atyrau,KZATY,0.0386585483715086
-2018,age: 10-14 years old,,Batys Kazakhstan,KZZAP,0.0452427272315975
-2018,age: 10-14 years old,,Zhambyl,KZZHA,0.0195646857422352
-2018,age: 10-14 years old,,Karagandy,KZKAR,0.0
-2018,age: 10-14 years old,,Kostanay,KZKUS,0.0
-2018,age: 10-14 years old,,Kyzylorda,KZKZY,0.0284831308657447
-2018,age: 10-14 years old,,Mangistau,KZMAN,0.0
-2018,age: 10-14 years old,,Pavlodar,KZPAV,0.0
-2018,age: 10-14 years old,,Soltustik Kazakhstan,KZSEV,0.0570011685239547
-2018,age: 10-14 years old,,Turkistan,KZYUZ,0.0
-2018,age: 10-14 years old,,Shygys Kazakhstan,KZVOS,0.0
-2018,age: 10-14 years old,,Nur-Sultan city,KZNS,0.0626959247648902
-2018,age: 10-14 years old,,Almaty city,KZALA,0.0190000285000427
-2018,age: 10-14 years old,,Shymkent city,KZSHY,0.02
-2018,age: 10-14 years old,urban,,,0.0281344206349094
-2018,age: 10-14 years old,urban,Akmola,KZAKM,0.1840434342504831
-2018,age: 10-14 years old,urban,Aktobe,KZAKT,0.0495970241785492
-2018,age: 10-14 years old,urban,Almaty,KZALM,0.0
-2018,age: 10-14 years old,urban,Atyrau,KZATY,0.0
-2018,age: 10-14 years old,urban,Batys Kazakhstan,KZZAP,0.1008318628686665
-2018,age: 10-14 years old,urban,Zhambyl,KZZHA,0.0537331076542811
-2018,age: 10-14 years old,urban,Karagandy,KZKAR,0.0
-2018,age: 10-14 years old,urban,Kostanay,KZKUS,0.0
-2018,age: 10-14 years old,urban,Kyzylorda,KZKZY,0.0
-2018,age: 10-14 years old,urban,Mangistau,KZMAN,0.0
-2018,age: 10-14 years old,urban,Pavlodar,KZPAV,0.0
-2018,age: 10-14 years old,urban,Soltustik Kazakhstan,KZSEV,0.1557996416608241
-2018,age: 10-14 years old,urban,Turkistan,KZYUZ,0.0
-2018,age: 10-14 years old,urban,Shygys Kazakhstan,KZVOS,0.0
-2018,age: 10-14 years old,urban,Nur-Sultan city,KZNS,0.0626959247648902
-2018,age: 10-14 years old,urban,Almaty city,KZALA,0.0190000285000427
-2018,age: 10-14 years old,urban,Shymkent city,KZSHY,0.02
-2018,age: 10-14 years old,rural,,,0.0149913574824113
-2018,age: 10-14 years old,rural,Akmola,KZAKM,0.0
-2018,age: 10-14 years old,rural,Aktobe,KZAKT,0.0927988121752041
-2018,age: 10-14 years old,rural,Almaty,KZALM,0.0317727612118131
-2018,age: 10-14 years old,rural,Atyrau,KZATY,0.0759762953958365
-2018,age: 10-14 years old,rural,Batys Kazakhstan,KZZAP,0.0
-2018,age: 10-14 years old,rural,Zhambyl,KZZHA,0.0
-2018,age: 10-14 years old,rural,Karagandy,KZKAR,0.0
-2018,age: 10-14 years old,rural,Kostanay,KZKUS,0.0
-2018,age: 10-14 years old,rural,Kyzylorda,KZKZY,0.048344210780759
-2018,age: 10-14 years old,rural,Mangistau,KZMAN,0.0
-2018,age: 10-14 years old,rural,Pavlodar,KZPAV,0.0
-2018,age: 10-14 years old,rural,Soltustik Kazakhstan,KZSEV,0.0
-2018,age: 10-14 years old,rural,Turkistan,KZYUZ,0.0
-2018,age: 10-14 years old,rural,Shygys Kazakhstan,KZVOS,0.0
-2018,15-19,,,,23.93
-2018,,,Akmola,KZAKM,21.61
-2018,,,Aktobe,KZAKT,17.74
-2018,,,Almaty,KZALM,28.76
-2018,,,Atyrau,KZATY,28.21
-2018,,,Batys Kazakhstan,KZZAP,20.94
-2018,,,Zhambyl,KZZHA,36.64
-2018,,,Karagandy,KZKAR,20.41
-2018,,,Kostanay,KZKUS,18.63
-2018,,,Kyzylorda,KZKZY,20.65
-2018,,,Mangistau,KZMAN,35.04
-2018,,,Pavlodar,KZPAV,18.47
-2018,,,Soltustik Kazakhstan,KZSEV,19.55
-2018,,,Turkistan,KZYUZ,30.92
-2018,,,Shygys Kazakhstan,KZVOS,19.52
-2018,,,Nur-Sultan city,KZNS,15.07
-2018,,,Almaty city,KZALA,12.31
-2018,,,Shymkent city,KZSHY,24.34
-2018,,urban,,,21.09
-2018,,urban,Akmola,KZAKM,20.1
-2018,,urban,Aktobe,KZAKT,18.9
-2018,,urban,Almaty,KZALM,31.06
-2018,,urban,Atyrau,KZATY,28.76
-2018,,urban,Batys Kazakhstan,KZZAP,20.77
-2018,,urban,Zhambyl,KZZHA,29.45
-2018,,urban,Karagandy,KZKAR,20.1
-2018,,urban,Kostanay,KZKUS,14.14
-2018,,urban,Kyzylorda,KZKZY,20.81
-2018,,urban,Mangistau,KZMAN,36.41
-2018,,urban,Pavlodar,KZPAV,16.43
-2018,,urban,Soltustik Kazakhstan,KZSEV,16.84
-2018,,urban,Turkistan,KZYUZ,38.55
-2018,,urban,Shygys Kazakhstan,KZVOS,19.48
-2018,,urban,Nur-Sultan city,KZNS,15.07
-2018,,urban,Almaty city,KZALA,12.31
-2018,,urban,Shymkent city,KZSHY,24.34
-2018,,rural,,,27.01
-2018,,rural,Akmola,KZAKM,22.74
-2018,,rural,Aktobe,KZAKT,15.65
-2018,,rural,Almaty,KZALM,28.14
-2018,,rural,Atyrau,KZATY,27.68
-2018,,rural,Batys Kazakhstan,KZZAP,21.1
-2018,,rural,Zhambyl,KZZHA,40.8
-2018,,rural,Karagandy,KZKAR,21.36
-2018,,rural,Kostanay,KZKUS,22.51
-2018,,rural,Kyzylorda,KZKZY,20.54
-2018,,rural,Mangistau,KZMAN,34.27
-2018,,rural,Pavlodar,KZPAV,22.26
-2018,,rural,Soltustik Kazakhstan,KZSEV,21.07
-2018,,rural,Turkistan,KZYUZ,29.23
-2018,,rural,Shygys Kazakhstan,KZVOS,19.57
-2019,age: 10-14 years old,,,,0.024606669227583
-2019,age: 10-14 years old,,Akmola,KZAKM,0.037500937523438
-2019,age: 10-14 years old,,Aktobe,KZAKT,0.0302411733575262
-2019,age: 10-14 years old,,Almaty,KZALM,0.0469819941507417
-2019,age: 10-14 years old,,Atyrau,KZATY,0.0360405816949885
-2019,age: 10-14 years old,,Batys Kazakhstan,KZZAP,0.0
-2019,age: 10-14 years old,,Zhambyl,KZZHA,0.0551343900758097
-2019,age: 10-14 years old,,Karagandy,KZKAR,0.0412711514651258
-2019,age: 10-14 years old,,Kostanay,KZKUS,0.0
-2019,age: 10-14 years old,,Kyzylorda,KZKZY,0.0
-2019,age: 10-14 years old,,Mangistau,KZMAN,0.0
-2019,age: 10-14 years old,,Pavlodar,KZPAV,0.0
-2019,age: 10-14 years old,,Soltustik Kazakhstan,KZSEV,0.0
-2019,age: 10-14 years old,,Turkistan,KZYUZ,0.0
-2019,age: 10-14 years old,,Shygys Kazakhstan,KZVOS,0.0419498280057051
-2019,age: 10-14 years old,,Nur-Sultan city,KZNS,0.0277611981733131
-2019,age: 10-14 years old,,Almaty city,KZALA,0.0
-2019,age: 10-14 years old,,Shymkent city,KZSHY,0.0661346501477007
-2019,age: 10-14 years old,urban,,,0.0182181835690202
-2019,age: 10-14 years old,urban,Akmola,KZAKM,0.0
-2019,age: 10-14 years old,urban,Aktobe,KZAKT,0.0456266824839165
-2019,age: 10-14 years old,urban,Almaty,KZALM,0.0
-2019,age: 10-14 years old,urban,Atyrau,KZATY,0.0692281066112841
-2019,age: 10-14 years old,urban,Batys Kazakhstan,KZZAP,0.0
-2019,age: 10-14 years old,urban,Zhambyl,KZZHA,0.0
-2019,age: 10-14 years old,urban,Karagandy,KZKAR,0.0270244706581809
-2019,age: 10-14 years old,urban,Kostanay,KZKUS,0.0
-2019,age: 10-14 years old,urban,Kyzylorda,KZKZY,0.0
-2019,age: 10-14 years old,urban,Mangistau,KZMAN,0.0
-2019,age: 10-14 years old,urban,Pavlodar,KZPAV,0.0
-2019,age: 10-14 years old,urban,Soltustik Kazakhstan,KZSEV,0.0
-2019,age: 10-14 years old,urban,Turkistan,KZYUZ,0.0
-2019,age: 10-14 years old,urban,Shygys Kazakhstan,KZVOS,0.0
-2019,age: 10-14 years old,urban,Nur-Sultan city,KZNS,0.0277611981733131
-2019,age: 10-14 years old,urban,Almaty city,KZALA,0.0
-2019,age: 10-14 years old,urban,Shymkent city,KZSHY,0.0661346501477007
-2019,age: 10-14 years old,rural,,,0.0316749573467903
-2019,age: 10-14 years old,rural,Akmola,KZAKM,0.0660218532334202
-2019,age: 10-14 years old,rural,Aktobe,KZAKT,0.0
-2019,age: 10-14 years old,rural,Almaty,KZALM,0.0594018236359856
-2019,age: 10-14 years old,rural,Atyrau,KZATY,0.0
-2019,age: 10-14 years old,rural,Batys Kazakhstan,KZZAP,0.0
-2019,age: 10-14 years old,rural,Zhambyl,KZZHA,0.0869590422910809
-2019,age: 10-14 years old,rural,Karagandy,KZKAR,0.0872866931436302
-2019,age: 10-14 years old,rural,Kostanay,KZKUS,0.0
-2019,age: 10-14 years old,rural,Kyzylorda,KZKZY,0.0
-2019,age: 10-14 years old,rural,Mangistau,KZMAN,0.0
-2019,age: 10-14 years old,rural,Pavlodar,KZPAV,0.0
-2019,age: 10-14 years old,rural,Soltustik Kazakhstan,KZSEV,0.0
-2019,age: 10-14 years old,rural,Turkistan,KZYUZ,0.0
-2019,age: 10-14 years old,rural,Shygys Kazakhstan,KZVOS,0.0920683146894996
-2019,15-19,,,,23.2
-2019,,,Akmola,KZAKM,21.6
-2019,,,Aktobe,KZAKT,18.06
-2019,,,Almaty,KZALM,27.35
-2019,,,Atyrau,KZATY,25.96
-2019,,,Batys Kazakhstan,KZZAP,18.71
-2019,,,Zhambyl,KZZHA,33.73
-2019,,,Karagandy,KZKAR,19.91
-2019,,,Kostanay,KZKUS,18.48
-2019,,,Kyzylorda,KZKZY,18.95
-2019,,,Mangistau,KZMAN,33.98
-2019,,,Pavlodar,KZPAV,18.24
-2019,,,Soltustik Kazakhstan,KZSEV,19.15
-2019,,,Turkistan,KZYUZ,31.97
-2019,,,Shygys Kazakhstan,KZVOS,17.23
-2019,,,Nur-Sultan city,KZNS,11.69
-2019,,,Almaty city,KZALA,12.39
-2019,,,Shymkent city,KZSHY,25.44
-2019,,urban,,,20.61
-2019,,urban,Akmola,KZAKM,19.76
-2019,,urban,Aktobe,KZAKT,20.01
-2019,,urban,Almaty,KZALM,30.27
-2019,,urban,Atyrau,KZATY,24.43
-2019,,urban,Batys Kazakhstan,KZZAP,19.1
-2019,,urban,Zhambyl,KZZHA,27.77
-2019,,urban,Karagandy,KZKAR,19.23
-2019,,urban,Kostanay,KZKUS,15.33
-2019,,urban,Kyzylorda,KZKZY,19.44
-2019,,urban,Mangistau,KZMAN,29.86
-2019,,urban,Pavlodar,KZPAV,16.52
-2019,,urban,Soltustik Kazakhstan,KZSEV,16.43
-2019,,urban,Turkistan,KZYUZ,45.85
-2019,,urban,Shygys Kazakhstan,KZVOS,16.49
-2019,,urban,Nur-Sultan city,KZNS,11.69
-2019,,urban,Almaty city,KZALA,12.39
-2019,,urban,Shymkent city,KZSHY,20.61
-2019,,rural,,,26.04
-2019,,rural,Akmola,KZAKM,22.95
-2019,,rural,Aktobe,KZAKT,14.49
-2019,,rural,Almaty,KZALM,26.57
-2019,,rural,Atyrau,KZATY,27.53
-2019,,rural,Batys Kazakhstan,KZZAP,18.36
-2019,,rural,Zhambyl,KZZHA,37.14
-2019,,rural,Karagandy,KZKAR,21.96
-2019,,rural,Kostanay,KZKUS,21.61
-2019,,rural,Kyzylorda,KZKZY,18.64
-2019,,rural,Mangistau,KZMAN,36.34
-2019,,rural,Pavlodar,KZPAV,21.43
-2019,,rural,Soltustik Kazakhstan,KZSEV,20.7
-2019,,rural,Turkistan,KZYUZ,28.85
-2019,,rural,Shygys Kazakhstan,KZVOS,18.16
+Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,GeoCode,Value
+2010,age: 10-14 years old,,,,,,,,,,0.04
+2010,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.12
+2010,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.0
+2010,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.05
+2010,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.0
+2010,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2010,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.02
+2010,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.07
+2010,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.12
+2010,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.03
+2010,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.0
+2010,age: 10-14 years old,,Ontustik Kazakhstan,,,,,,,KZONT,0.01
+2010,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.09
+2010,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.06
+2010,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.07
+2010,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.12
+2010,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.06
+2010,age: 10-14 years old,urban,,,,,,,,,0.06
+2010,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.3
+2010,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.0
+2010,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.21
+2010,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.0
+2010,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2010,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.06
+2010,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.1
+2010,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.28
+2010,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.09
+2010,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2010,age: 10-14 years old,urban,Ontustik Kazakhstan,,,,,,,KZONT,0.0
+2010,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
+2010,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2010,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.1
+2010,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2010,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
+2010,age: 10-14 years old,rural,,,,,,,,,0.03
+2010,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
+2010,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.0
+2010,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.0
+2010,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.0
+2010,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2010,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.0
+2010,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.0
+2010,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.0
+2010,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.0
+2010,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.0
+2010,age: 10-14 years old,rural,Ontustik Kazakhstan,,,,,,,KZONT,0.01
+2010,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.25
+2010,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.08
+2010,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.05
+2010,15-19,,,,,,,,,,28.26
+2010,15-19,,Akmola,,,,,,,KZAKM,33.43
+2010,15-19,,Aktobe,,,,,,,KZAKT,21.84
+2010,15-19,,Almaty,,,,,,,KZALM,30.75
+2010,15-19,,Atyrau,,,,,,,KZATY,42.38
+2010,15-19,,Batys Kazakhstan,,,,,,,KZZAP,26.09
+2010,15-19,,Zhambyl,,,,,,,KZZHA,36.69
+2010,15-19,,Karagandy,,,,,,,KZKAR,29.27
+2010,15-19,,Kostanay,,,,,,,KZKUS,25.82
+2010,15-19,,Kyzylorda,,,,,,,KZKZY,23.19
+2010,15-19,,Mangistau,,,,,,,KZMAN,39.68
+2010,15-19,,Ontustik Kazakhstan,,,,,,,KZONT,30.07
+2010,15-19,,Pavlodar,,,,,,,KZPAV,27.56
+2010,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,31.22
+2010,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,24.94
+2010,15-19,,Nur-Sultan city,,,,,,,KZNS,22.6
+2010,15-19,,Almaty city,,,,,,,KZALA,13.97
+2010,15-19,urban,,,,,,,,,25.76
+2010,15-19,urban,Akmola,,,,,,,KZAKM,31.14
+2010,15-19,urban,Aktobe,,,,,,,KZAKT,20.66
+2010,15-19,urban,Almaty,,,,,,,KZALM,32.14
+2010,15-19,urban,Atyrau,,,,,,,KZATY,49.52
+2010,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,30.55
+2010,15-19,urban,Zhambyl,,,,,,,KZZHA,27.98
+2010,15-19,urban,Karagandy,,,,,,,KZKAR,29.81
+2010,15-19,urban,Kostanay,,,,,,,KZKUS,21.05
+2010,15-19,urban,Kyzylorda,,,,,,,KZKZY,29.32
+2010,15-19,urban,Mangistau,,,,,,,KZMAN,35.98
+2010,15-19,urban,Ontustik Kazakhstan,,,,,,,KZONT,29.43
+2010,15-19,urban,Pavlodar,,,,,,,KZPAV,25.58
+2010,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,25.08
+2010,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,22.3
+2010,15-19,urban,Nur-Sultan city,,,,,,,KZNS,22.6
+2010,15-19,urban,Almaty city,,,,,,,KZALA,13.97
+2010,15-19,rural,,,,,,,,,31.03
+2010,15-19,rural,Akmola,,,,,,,KZAKM,35.31
+2010,15-19,rural,Aktobe,,,,,,,KZAKT,23.69
+2010,15-19,rural,Almaty,,,,,,,KZALM,30.33
+2010,15-19,rural,Atyrau,,,,,,,KZATY,36.71
+2010,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,22.57
+2010,15-19,rural,Zhambyl,,,,,,,KZZHA,42.64
+2010,15-19,rural,Karagandy,,,,,,,KZKAR,27.64
+2010,15-19,rural,Kostanay,,,,,,,KZKUS,30.21
+2010,15-19,rural,Kyzylorda,,,,,,,KZKZY,18.74
+2010,15-19,rural,Mangistau,,,,,,,KZMAN,43.62
+2010,15-19,rural,Ontustik Kazakhstan,,,,,,,KZONT,30.48
+2010,15-19,rural,Pavlodar,,,,,,,KZPAV,31.16
+2010,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,34.87
+2010,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,28.58
+2011,age: 10-14 years old,,,,,,,,,,0.02
+2011,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.0
+2011,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.08
+2011,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.0
+2011,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.05
+2011,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.05
+2011,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.05
+2011,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.02
+2011,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.0
+2011,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.0
+2011,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.0
+2011,age: 10-14 years old,,Ontustik Kazakhstan,,,,,,,KZONT,0.0
+2011,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
+2011,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.12
+2011,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.03
+2011,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.05
+2011,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.03
+2011,age: 10-14 years old,urban,,,,,,,,,0.02
+2011,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.0
+2011,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.07
+2011,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.0
+2011,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.11
+2011,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2011,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.13
+2011,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.0
+2011,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.0
+2011,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2011,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2011,age: 10-14 years old,urban,Ontustik Kazakhstan,,,,,,,KZONT,0.0
+2011,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
+2011,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2011,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2011,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.05
+2011,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.03
+2011,age: 10-14 years old,rural,,,,,,,,,0.02
+2011,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
+2011,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.09
+2011,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.0
+2011,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.0
+2011,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.09
+2011,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.0
+2011,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.09
+2011,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.0
+2011,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.0
+2011,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.0
+2011,age: 10-14 years old,rural,Ontustik Kazakhstan,,,,,,,KZONT,0.0
+2011,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.0
+2011,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.17
+2011,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.05
+2011,15-19,,,,,,,,,,31.68
+2011,15-19,,Akmola,,,,,,,KZAKM,32.3
+2011,15-19,,Aktobe,,,,,,,KZAKT,26.61
+2011,15-19,,Almaty,,,,,,,KZALM,35.26
+2011,15-19,,Atyrau,,,,,,,KZATY,49.19
+2011,15-19,,Batys Kazakhstan,,,,,,,KZZAP,29.71
+2011,15-19,,Zhambyl,,,,,,,KZZHA,41.58
+2011,15-19,,Karagandy,,,,,,,KZKAR,31.14
+2011,15-19,,Kostanay,,,,,,,KZKUS,29.53
+2011,15-19,,Kyzylorda,,,,,,,KZKZY,26.38
+2011,15-19,,Mangistau,,,,,,,KZMAN,49.6
+2011,15-19,,Ontustik Kazakhstan,,,,,,,KZONT,32.66
+2011,15-19,,Pavlodar,,,,,,,KZPAV,30.66
+2011,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,31.56
+2011,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,25.4
+2011,15-19,,Nur-Sultan city,,,,,,,KZNS,23.46
+2011,15-19,,Almaty city,,,,,,,KZALA,16.57
+2011,15-19,urban,,,,,,,,,29.93
+2011,15-19,urban,Akmola,,,,,,,KZAKM,31.76
+2011,15-19,urban,Aktobe,,,,,,,KZAKT,26.22
+2011,15-19,urban,Almaty,,,,,,,KZALM,38.33
+2011,15-19,urban,Atyrau,,,,,,,KZATY,55.73
+2011,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,34.83
+2011,15-19,urban,Zhambyl,,,,,,,KZZHA,31.53
+2011,15-19,urban,Karagandy,,,,,,,KZKAR,32.23
+2011,15-19,urban,Kostanay,,,,,,,KZKUS,28.2
+2011,15-19,urban,Kyzylorda,,,,,,,KZKZY,33.4
+2011,15-19,urban,Mangistau,,,,,,,KZMAN,44.58
+2011,15-19,urban,Ontustik Kazakhstan,,,,,,,KZONT,33.54
+2011,15-19,urban,Pavlodar,,,,,,,KZPAV,29.42
+2011,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,29.09
+2011,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,25.79
+2011,15-19,urban,Nur-Sultan city,,,,,,,KZNS,23.46
+2011,15-19,urban,Almaty city,,,,,,,KZALA,16.57
+2011,15-19,rural,,,,,,,,,33.39
+2011,15-19,rural,Akmola,,,,,,,KZAKM,32.7
+2011,15-19,rural,Aktobe,,,,,,,KZAKT,27.15
+2011,15-19,rural,Almaty,,,,,,,KZALM,34.36
+2011,15-19,rural,Atyrau,,,,,,,KZATY,44.08
+2011,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,26.12
+2011,15-19,rural,Zhambyl,,,,,,,KZZHA,47.96
+2011,15-19,rural,Karagandy,,,,,,,KZKAR,28.12
+2011,15-19,rural,Kostanay,,,,,,,KZKUS,30.6
+2011,15-19,rural,Kyzylorda,,,,,,,KZKZY,21.73
+2011,15-19,rural,Mangistau,,,,,,,KZMAN,54.51
+2011,15-19,rural,Ontustik Kazakhstan,,,,,,,KZONT,32.15
+2011,15-19,rural,Pavlodar,,,,,,,KZPAV,32.81
+2011,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,32.77
+2011,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,24.96
+2012,age: 10-14 years old,,,,,,,,,,0.03
+2012,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.0
+2012,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.04
+2012,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.03
+2012,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.15
+2012,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.05
+2012,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.0
+2012,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.02
+2012,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.04
+2012,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.03
+2012,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.05
+2012,age: 10-14 years old,,Ontustik Kazakhstan,,,,,,,KZONT,0.01
+2012,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.1
+2012,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2012,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.08
+2012,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2012,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
+2012,age: 10-14 years old,urban,,,,,,,,,0.04
+2012,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.0
+2012,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.07
+2012,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.0
+2012,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.22
+2012,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.13
+2012,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.0
+2012,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.03
+2012,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.0
+2012,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.09
+2012,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2012,age: 10-14 years old,urban,Ontustik Kazakhstan,,,,,,,KZONT,0.02
+2012,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.08
+2012,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2012,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.1
+2012,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2012,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
+2012,age: 10-14 years old,rural,,,,,,,,,0.02
+2012,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
+2012,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.0
+2012,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.04
+2012,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.09
+2012,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2012,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.0
+2012,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.0
+2012,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.07
+2012,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.0
+2012,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.09
+2012,age: 10-14 years old,rural,Ontustik Kazakhstan,,,,,,,KZONT,0.0
+2012,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.13
+2012,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2012,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.05
+2012,15-19,,,,,,,,,,33.82
+2012,15-19,,Akmola,,,,,,,KZAKM,34.51
+2012,15-19,,Aktobe,,,,,,,KZAKT,29.62
+2012,15-19,,Almaty,,,,,,,KZALM,36.44
+2012,15-19,,Atyrau,,,,,,,KZATY,54.25
+2012,15-19,,Batys Kazakhstan,,,,,,,KZZAP,34.75
+2012,15-19,,Zhambyl,,,,,,,KZZHA,45.43
+2012,15-19,,Karagandy,,,,,,,KZKAR,32.02
+2012,15-19,,Kostanay,,,,,,,KZKUS,30.19
+2012,15-19,,Kyzylorda,,,,,,,KZKZY,29.29
+2012,15-19,,Mangistau,,,,,,,KZMAN,54.9
+2012,15-19,,Ontustik Kazakhstan,,,,,,,KZONT,34.49
+2012,15-19,,Pavlodar,,,,,,,KZPAV,31.49
+2012,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,28.25
+2012,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,25.69
+2012,15-19,,Nur-Sultan city,,,,,,,KZNS,26.03
+2012,15-19,,Almaty city,,,,,,,KZALA,19.09
+2012,15-19,urban,,,,,,,,,32.8
+2012,15-19,urban,Akmola,,,,,,,KZAKM,33.93
+2012,15-19,urban,Aktobe,,,,,,,KZAKT,33.32
+2012,15-19,urban,Almaty,,,,,,,KZALM,40.69
+2012,15-19,urban,Atyrau,,,,,,,KZATY,59.61
+2012,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,42.95
+2012,15-19,urban,Zhambyl,,,,,,,KZZHA,35.64
+2012,15-19,urban,Karagandy,,,,,,,KZKAR,33.62
+2012,15-19,urban,Kostanay,,,,,,,KZKUS,31.25
+2012,15-19,urban,Kyzylorda,,,,,,,KZKZY,35.41
+2012,15-19,urban,Mangistau,,,,,,,KZMAN,50.37
+2012,15-19,urban,Ontustik Kazakhstan,,,,,,,KZONT,34.41
+2012,15-19,urban,Pavlodar,,,,,,,KZPAV,32.16
+2012,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,28.88
+2012,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,28.34
+2012,15-19,urban,Nur-Sultan city,,,,,,,KZNS,26.03
+2012,15-19,urban,Almaty city,,,,,,,KZALA,19.09
+2012,15-19,rural,,,,,,,,,34.76
+2012,15-19,rural,Akmola,,,,,,,KZAKM,34.92
+2012,15-19,rural,Aktobe,,,,,,,KZAKT,25.26
+2012,15-19,rural,Almaty,,,,,,,KZALM,35.24
+2012,15-19,rural,Atyrau,,,,,,,KZATY,50.1
+2012,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,29.06
+2012,15-19,rural,Zhambyl,,,,,,,KZZHA,51.38
+2012,15-19,rural,Karagandy,,,,,,,KZKAR,27.73
+2012,15-19,rural,Kostanay,,,,,,,KZKUS,29.38
+2012,15-19,rural,Kyzylorda,,,,,,,KZKZY,25.48
+2012,15-19,rural,Mangistau,,,,,,,KZMAN,59.07
+2012,15-19,rural,Ontustik Kazakhstan,,,,,,,KZONT,34.54
+2012,15-19,rural,Pavlodar,,,,,,,KZPAV,30.35
+2012,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,27.96
+2012,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,22.91
+2013,age: 10-14 years old,,,,,,,,,,0.04
+2013,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.09
+2013,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.08
+2013,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.03
+2013,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.05
+2013,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.05
+2013,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.0
+2013,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.03
+2013,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.12
+2013,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.03
+2013,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.05
+2013,age: 10-14 years old,,Ontustik Kazakhstan,,,,,,,KZONT,0.01
+2013,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.1
+2013,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.06
+2013,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.05
+2013,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2013,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.03
+2013,age: 10-14 years old,urban,,,,,,,,,0.03
+2013,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.11
+2013,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.08
+2013,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.0
+2013,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.11
+2013,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2013,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.0
+2013,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.03
+2013,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.1
+2013,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2013,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2013,age: 10-14 years old,urban,Ontustik Kazakhstan,,,,,,,KZONT,0.0
+2013,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.08
+2013,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2013,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.05
+2013,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2013,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.03
+2013,age: 10-14 years old,rural,,,,,,,,,0.04
+2013,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.07
+2013,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.09
+2013,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.04
+2013,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.0
+2013,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.09
+2013,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.0
+2013,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.0
+2013,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.14
+2013,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.06
+2013,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.09
+2013,age: 10-14 years old,rural,Ontustik Kazakhstan,,,,,,,KZONT,0.01
+2013,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.13
+2013,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.09
+2013,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.05
+2013,15-19,,,,,,,,,,33.62
+2013,15-19,,Akmola,,,,,,,KZAKM,31.21
+2013,15-19,,Aktobe,,,,,,,KZAKT,30.87
+2013,15-19,,Almaty,,,,,,,KZALM,37.17
+2013,15-19,,Atyrau,,,,,,,KZATY,51.92
+2013,15-19,,Batys Kazakhstan,,,,,,,KZZAP,31.56
+2013,15-19,,Zhambyl,,,,,,,KZZHA,46.2
+2013,15-19,,Karagandy,,,,,,,KZKAR,30.56
+2013,15-19,,Kostanay,,,,,,,KZKUS,29.65
+2013,15-19,,Kyzylorda,,,,,,,KZKZY,28.18
+2013,15-19,,Mangistau,,,,,,,KZMAN,53.41
+2013,15-19,,Ontustik Kazakhstan,,,,,,,KZONT,37.76
+2013,15-19,,Pavlodar,,,,,,,KZPAV,30.0
+2013,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,27.35
+2013,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,26.45
+2013,15-19,,Nur-Sultan city,,,,,,,KZNS,26.41
+2013,15-19,,Almaty city,,,,,,,KZALA,14.74
+2013,15-19,urban,,,,,,,,,30.78
+2013,15-19,urban,Akmola,,,,,,,KZAKM,31.36
+2013,15-19,urban,Aktobe,,,,,,,KZAKT,32.72
+2013,15-19,urban,Almaty,,,,,,,KZALM,37.7
+2013,15-19,urban,Atyrau,,,,,,,KZATY,55.26
+2013,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,34.78
+2013,15-19,urban,Zhambyl,,,,,,,KZZHA,35.3
+2013,15-19,urban,Karagandy,,,,,,,KZKAR,31.34
+2013,15-19,urban,Kostanay,,,,,,,KZKUS,28.23
+2013,15-19,urban,Kyzylorda,,,,,,,KZKZY,30.2
+2013,15-19,urban,Mangistau,,,,,,,KZMAN,45.24
+2013,15-19,urban,Ontustik Kazakhstan,,,,,,,KZONT,38.47
+2013,15-19,urban,Pavlodar,,,,,,,KZPAV,27.79
+2013,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,25.82
+2013,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,28.71
+2013,15-19,urban,Nur-Sultan city,,,,,,,KZNS,26.41
+2013,15-19,urban,Almaty city,,,,,,,KZALA,14.74
+2013,15-19,rural,,,,,,,,,36.29
+2013,15-19,rural,Akmola,,,,,,,KZAKM,31.11
+2013,15-19,rural,Aktobe,,,,,,,KZAKT,28.7
+2013,15-19,rural,Almaty,,,,,,,KZALM,37.02
+2013,15-19,rural,Atyrau,,,,,,,KZATY,49.45
+2013,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,29.22
+2013,15-19,rural,Zhambyl,,,,,,,KZZHA,52.89
+2013,15-19,rural,Karagandy,,,,,,,KZKAR,28.42
+2013,15-19,rural,Kostanay,,,,,,,KZKUS,30.75
+2013,15-19,rural,Kyzylorda,,,,,,,KZKZY,26.91
+2013,15-19,rural,Mangistau,,,,,,,KZMAN,60.83
+2013,15-19,rural,Ontustik Kazakhstan,,,,,,,KZONT,37.38
+2013,15-19,rural,Pavlodar,,,,,,,KZPAV,33.82
+2013,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,28.05
+2013,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,24.0
+2014,age: 10-14 years old,,,,,,,,,,0.04
+2014,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.09
+2014,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.08
+2014,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.05
+2014,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.0
+2014,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2014,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.07
+2014,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.07
+2014,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.12
+2014,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.03
+2014,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.0
+2014,age: 10-14 years old,,Ontustik Kazakhstan,,,,,,,KZONT,0.0
+2014,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
+2014,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2014,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.05
+2014,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.1
+2014,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
+2014,age: 10-14 years old,urban,,,,,,,,,0.04
+2014,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.21
+2014,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.07
+2014,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.07
+2014,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.0
+2014,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2014,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.0
+2014,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.1
+2014,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.09
+2014,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2014,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2014,age: 10-14 years old,urban,Ontustik Kazakhstan,,,,,,,KZONT,0.0
+2014,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
+2014,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2014,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2014,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.1
+2014,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
+2014,age: 10-14 years old,rural,,,,,,,,,0.04
+2014,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
+2014,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.09
+2014,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.04
+2014,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.0
+2014,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2014,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.11
+2014,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.0
+2014,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.14
+2014,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.05
+2014,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.0
+2014,age: 10-14 years old,rural,Ontustik Kazakhstan,,,,,,,KZONT,0.0
+2014,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.0
+2014,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2014,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.11
+2014,15-19,,,,,,,,,,34.42
+2014,15-19,,Akmola,,,,,,,KZAKM,33.03
+2014,15-19,,Aktobe,,,,,,,KZAKT,31.71
+2014,15-19,,Almaty,,,,,,,KZALM,39.75
+2014,15-19,,Atyrau,,,,,,,KZATY,45.46
+2014,15-19,,Batys Kazakhstan,,,,,,,KZZAP,32.39
+2014,15-19,,Zhambyl,,,,,,,KZZHA,50.16
+2014,15-19,,Karagandy,,,,,,,KZKAR,32.0
+2014,15-19,,Kostanay,,,,,,,KZKUS,28.95
+2014,15-19,,Kyzylorda,,,,,,,KZKZY,28.21
+2014,15-19,,Mangistau,,,,,,,KZMAN,53.82
+2014,15-19,,Ontustik Kazakhstan,,,,,,,KZONT,37.43
+2014,15-19,,Pavlodar,,,,,,,KZPAV,30.04
+2014,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,29.49
+2014,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,28.75
+2014,15-19,,Nur-Sultan city,,,,,,,KZNS,26.62
+2014,15-19,,Almaty city,,,,,,,KZALA,15.95
+2014,15-19,urban,,,,,,,,,31.92
+2014,15-19,urban,Akmola,,,,,,,KZAKM,32.71
+2014,15-19,urban,Aktobe,,,,,,,KZAKT,33.81
+2014,15-19,urban,Almaty,,,,,,,KZALM,41.21
+2014,15-19,urban,Atyrau,,,,,,,KZATY,52.58
+2014,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,34.0
+2014,15-19,urban,Zhambyl,,,,,,,KZZHA,37.45
+2014,15-19,urban,Karagandy,,,,,,,KZKAR,33.07
+2014,15-19,urban,Kostanay,,,,,,,KZKUS,28.65
+2014,15-19,urban,Kyzylorda,,,,,,,KZKZY,30.13
+2014,15-19,urban,Mangistau,,,,,,,KZMAN,52.08
+2014,15-19,urban,Ontustik Kazakhstan,,,,,,,KZONT,40.73
+2014,15-19,urban,Pavlodar,,,,,,,KZPAV,26.81
+2014,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,24.84
+2014,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,28.57
+2014,15-19,urban,Nur-Sultan city,,,,,,,KZNS,26.62
+2014,15-19,urban,Almaty city,,,,,,,KZALA,15.95
+2014,15-19,rural,,,,,,,,,36.84
+2014,15-19,rural,Akmola,,,,,,,KZAKM,33.25
+2014,15-19,rural,Aktobe,,,,,,,KZAKT,29.3
+2014,15-19,rural,Almaty,,,,,,,KZALM,39.33
+2014,15-19,rural,Atyrau,,,,,,,KZATY,40.3
+2014,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,31.29
+2014,15-19,rural,Zhambyl,,,,,,,KZZHA,57.91
+2014,15-19,rural,Karagandy,,,,,,,KZKAR,29.0
+2014,15-19,rural,Kostanay,,,,,,,KZKUS,29.19
+2014,15-19,rural,Kyzylorda,,,,,,,KZKZY,27.02
+2014,15-19,rural,Mangistau,,,,,,,KZMAN,55.1
+2014,15-19,rural,Ontustik Kazakhstan,,,,,,,KZONT,35.47
+2014,15-19,rural,Pavlodar,,,,,,,KZPAV,35.75
+2014,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,31.6
+2014,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,28.94
+2015,age: 10-14 years old,,,,,,,,,,0.03
+2015,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.04
+2015,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.0
+2015,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.06
+2015,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.09
+2015,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2015,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.02
+2015,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.0
+2015,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.08
+2015,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.0
+2015,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.04
+2015,age: 10-14 years old,,Ontustik Kazakhstan,,,,,,,KZONT,0.02
+2015,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
+2015,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.18
+2015,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.03
+2015,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.04
+2015,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
+2015,age: 10-14 years old,urban,,,,,,,,,0.04
+2015,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.1
+2015,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.0
+2015,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.07
+2015,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.0
+2015,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2015,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.0
+2015,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.0
+2015,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.09
+2015,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2015,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.11
+2015,age: 10-14 years old,urban,Ontustik Kazakhstan,,,,,,,KZONT,0.06
+2015,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
+2015,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.35
+2015,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.05
+2015,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.04
+2015,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
+2015,age: 10-14 years old,rural,,,,,,,,,0.03
+2015,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
+2015,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.0
+2015,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.06
+2015,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.17
+2015,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2015,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.04
+2015,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.0
+2015,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.07
+2015,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.0
+2015,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.0
+2015,age: 10-14 years old,rural,Ontustik Kazakhstan,,,,,,,KZONT,0.0
+2015,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.0
+2015,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.09
+2015,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2015,15-19,,,,,,,,,,30.95
+2015,15-19,,Akmola,,,,,,,KZAKM,30.37
+2015,15-19,,Aktobe,,,,,,,KZAKT,30.16
+2015,15-19,,Almaty,,,,,,,KZALM,36.08
+2015,15-19,,Atyrau,,,,,,,KZATY,39.8
+2015,15-19,,Batys Kazakhstan,,,,,,,KZZAP,25.96
+2015,15-19,,Zhambyl,,,,,,,KZZHA,46.0
+2015,15-19,,Karagandy,,,,,,,KZKAR,28.3
+2015,15-19,,Kostanay,,,,,,,KZKUS,26.6
+2015,15-19,,Kyzylorda,,,,,,,KZKZY,24.47
+2015,15-19,,Mangistau,,,,,,,KZMAN,48.4
+2015,15-19,,Ontustik Kazakhstan,,,,,,,KZONT,35.01
+2015,15-19,,Pavlodar,,,,,,,KZPAV,29.56
+2015,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,26.52
+2015,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,24.07
+2015,15-19,,Nur-Sultan city,,,,,,,KZNS,23.0
+2015,15-19,,Almaty city,,,,,,,KZALA,12.94
+2015,15-19,urban,,,,,,,,,27.56
+2015,15-19,urban,Akmola,,,,,,,KZAKM,29.03
+2015,15-19,urban,Aktobe,,,,,,,KZAKT,34.56
+2015,15-19,urban,Almaty,,,,,,,KZALM,36.73
+2015,15-19,urban,Atyrau,,,,,,,KZATY,38.98
+2015,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,25.04
+2015,15-19,urban,Zhambyl,,,,,,,KZZHA,35.83
+2015,15-19,urban,Karagandy,,,,,,,KZKAR,29.11
+2015,15-19,urban,Kostanay,,,,,,,KZKUS,25.71
+2015,15-19,urban,Kyzylorda,,,,,,,KZKZY,26.18
+2015,15-19,urban,Mangistau,,,,,,,KZMAN,41.9
+2015,15-19,urban,Ontustik Kazakhstan,,,,,,,KZONT,34.45
+2015,15-19,urban,Pavlodar,,,,,,,KZPAV,25.68
+2015,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,23.75
+2015,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,24.67
+2015,15-19,urban,Nur-Sultan city,,,,,,,KZNS,23.0
+2015,15-19,urban,Almaty city,,,,,,,KZALA,12.94
+2015,15-19,rural,,,,,,,,,34.35
+2015,15-19,rural,Akmola,,,,,,,KZAKM,31.31
+2015,15-19,rural,Aktobe,,,,,,,KZAKT,25.01
+2015,15-19,rural,Almaty,,,,,,,KZALM,35.89
+2015,15-19,rural,Atyrau,,,,,,,KZATY,40.41
+2015,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,26.64
+2015,15-19,rural,Zhambyl,,,,,,,KZZHA,52.22
+2015,15-19,rural,Karagandy,,,,,,,KZKAR,25.97
+2015,15-19,rural,Kostanay,,,,,,,KZKUS,27.31
+2015,15-19,rural,Kyzylorda,,,,,,,KZKZY,23.4
+2015,15-19,rural,Mangistau,,,,,,,KZMAN,52.3
+2015,15-19,rural,Ontustik Kazakhstan,,,,,,,KZONT,35.39
+2015,15-19,rural,Pavlodar,,,,,,,KZPAV,36.55
+2015,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,27.92
+2015,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,23.4
+2016,age: 10-14 years old,,,,,,,,,,0.02
+2016,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.04
+2016,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.0
+2016,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.01
+2016,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.0
+2016,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2016,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.04
+2016,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.02
+2016,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.04
+2016,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.1
+2016,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.0
+2016,age: 10-14 years old,,Ontustik Kazakhstan,,,,,,,KZONT,0.01
+2016,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
+2016,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2016,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2016,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2016,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
+2016,age: 10-14 years old,urban,,,,,,,,,0.01
+2016,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.1
+2016,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.0
+2016,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.0
+2016,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.0
+2016,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2016,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.06
+2016,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.03
+2016,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.0
+2016,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2016,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2016,age: 10-14 years old,urban,Ontustik Kazakhstan,,,,,,,KZONT,0.02
+2016,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
+2016,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2016,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2016,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2016,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
+2016,age: 10-14 years old,rural,,,,,,,,,0.02
+2016,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
+2016,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.0
+2016,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.02
+2016,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.0
+2016,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2016,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.03
+2016,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.0
+2016,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.07
+2016,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.16
+2016,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.0
+2016,age: 10-14 years old,rural,Ontustik Kazakhstan,,,,,,,KZONT,0.0
+2016,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.0
+2016,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2016,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2016,15-19,,,,,,,,,,28.1
+2016,15-19,,Akmola,,,,,,,KZAKM,26.03
+2016,15-19,,Aktobe,,,,,,,KZAKT,25.87
+2016,15-19,,Almaty,,,,,,,KZALM,35.02
+2016,15-19,,Atyrau,,,,,,,KZATY,35.11
+2016,15-19,,Batys Kazakhstan,,,,,,,KZZAP,26.18
+2016,15-19,,Zhambyl,,,,,,,KZZHA,41.09
+2016,15-19,,Karagandy,,,,,,,KZKAR,24.05
+2016,15-19,,Kostanay,,,,,,,KZKUS,24.56
+2016,15-19,,Kyzylorda,,,,,,,KZKZY,21.58
+2016,15-19,,Mangistau,,,,,,,KZMAN,42.25
+2016,15-19,,Ontustik Kazakhstan,,,,,,,KZONT,31.77
+2016,15-19,,Pavlodar,,,,,,,KZPAV,25.18
+2016,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,26.13
+2016,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,22.96
+2016,15-19,,Nur-Sultan city,,,,,,,KZNS,18.71
+2016,15-19,,Almaty city,,,,,,,KZALA,13.5
+2016,15-19,urban,,,,,,,,,25.18
+2016,15-19,urban,Akmola,,,,,,,KZAKM,25.88
+2016,15-19,urban,Aktobe,,,,,,,KZAKT,30.06
+2016,15-19,urban,Almaty,,,,,,,KZALM,37.0
+2016,15-19,urban,Atyrau,,,,,,,KZATY,40.15
+2016,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,25.7
+2016,15-19,urban,Zhambyl,,,,,,,KZZHA,31.94
+2016,15-19,urban,Karagandy,,,,,,,KZKAR,23.86
+2016,15-19,urban,Kostanay,,,,,,,KZKUS,22.09
+2016,15-19,urban,Kyzylorda,,,,,,,KZKZY,22.54
+2016,15-19,urban,Mangistau,,,,,,,KZMAN,40.1
+2016,15-19,urban,Ontustik Kazakhstan,,,,,,,KZONT,31.74
+2016,15-19,urban,Pavlodar,,,,,,,KZPAV,23.25
+2016,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,21.91
+2016,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,23.77
+2016,15-19,urban,Nur-Sultan city,,,,,,,KZNS,18.71
+2016,15-19,urban,Almaty city,,,,,,,KZALA,13.5
+2016,15-19,rural,,,,,,,,,31.12
+2016,15-19,rural,Akmola,,,,,,,KZAKM,26.13
+2016,15-19,rural,Aktobe,,,,,,,KZAKT,20.72
+2016,15-19,rural,Almaty,,,,,,,KZALM,34.45
+2016,15-19,rural,Atyrau,,,,,,,KZATY,31.33
+2016,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,26.59
+2016,15-19,rural,Zhambyl,,,,,,,KZZHA,46.59
+2016,15-19,rural,Karagandy,,,,,,,KZKAR,24.61
+2016,15-19,rural,Kostanay,,,,,,,KZKUS,26.54
+2016,15-19,rural,Kyzylorda,,,,,,,KZKZY,20.97
+2016,15-19,rural,Mangistau,,,,,,,KZMAN,43.48
+2016,15-19,rural,Ontustik Kazakhstan,,,,,,,KZONT,31.8
+2016,15-19,rural,Pavlodar,,,,,,,KZPAV,28.69
+2016,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,28.57
+2016,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,22.03
+2017,age: 10-14 years old,,,,,,,,,,0.02
+2017,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.0
+2017,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.0
+2017,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.04
+2017,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.0
+2017,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.09
+2017,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.0
+2017,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.02
+2017,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.04
+2017,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.0
+2017,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.0
+2017,age: 10-14 years old,,Ontustik Kazakhstan,,,,,,,KZONT,0.01
+2017,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
+2017,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2017,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.07
+2017,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2017,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.02
+2017,age: 10-14 years old,urban,,,,,,,,,0.02
+2017,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.0
+2017,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.0
+2017,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.12
+2017,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.0
+2017,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.11
+2017,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.0
+2017,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.0
+2017,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.08
+2017,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2017,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2017,age: 10-14 years old,urban,Ontustik Kazakhstan,,,,,,,KZONT,0.0
+2017,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
+2017,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2017,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.04
+2017,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2017,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.02
+2017,age: 10-14 years old,rural,,,,,,,,,0.02
+2017,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
+2017,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.0
+2017,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.02
+2017,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.0
+2017,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.08
+2017,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.0
+2017,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.09
+2017,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.0
+2017,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.0
+2017,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.0
+2017,age: 10-14 years old,rural,Ontustik Kazakhstan,,,,,,,KZONT,0.03
+2017,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.0
+2017,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2017,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.1
+2017,15-19,,,,,,,,,,24.9
+2017,15-19,,Akmola,,,,,,,KZAKM,24.91
+2017,15-19,,Aktobe,,,,,,,KZAKT,21.33
+2017,15-19,,Almaty,,,,,,,KZALM,29.72
+2017,15-19,,Atyrau,,,,,,,KZATY,30.99
+2017,15-19,,Batys Kazakhstan,,,,,,,KZZAP,20.48
+2017,15-19,,Zhambyl,,,,,,,KZZHA,35.47
+2017,15-19,,Karagandy,,,,,,,KZKAR,20.46
+2017,15-19,,Kostanay,,,,,,,KZKUS,20.1
+2017,15-19,,Kyzylorda,,,,,,,KZKZY,19.8
+2017,15-19,,Mangistau,,,,,,,KZMAN,39.81
+2017,15-19,,Ontustik Kazakhstan,,,,,,,KZONT,30.0
+2017,15-19,,Pavlodar,,,,,,,KZPAV,22.08
+2017,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,20.54
+2017,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,20.39
+2017,15-19,,Nur-Sultan city,,,,,,,KZNS,14.99
+2017,15-19,,Almaty city,,,,,,,KZALA,12.75
+2017,15-19,urban,,,,,,,,,22.38
+2017,15-19,urban,Akmola,,,,,,,KZAKM,23.27
+2017,15-19,urban,Aktobe,,,,,,,KZAKT,25.46
+2017,15-19,urban,Almaty,,,,,,,KZALM,33.22
+2017,15-19,urban,Atyrau,,,,,,,KZATY,33.22
+2017,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,19.06
+2017,15-19,urban,Zhambyl,,,,,,,KZZHA,26.83
+2017,15-19,urban,Karagandy,,,,,,,KZKAR,20.32
+2017,15-19,urban,Kostanay,,,,,,,KZKUS,16.93
+2017,15-19,urban,Kyzylorda,,,,,,,KZKZY,21.3
+2017,15-19,urban,Mangistau,,,,,,,KZMAN,41.15
+2017,15-19,urban,Ontustik Kazakhstan,,,,,,,KZONT,31.09
+2017,15-19,urban,Pavlodar,,,,,,,KZPAV,19.34
+2017,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,17.26
+2017,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,20.18
+2017,15-19,urban,Nur-Sultan city,,,,,,,KZNS,14.99
+2017,15-19,urban,Almaty city,,,,,,,KZALA,12.75
+2017,15-19,rural,,,,,,,,,27.56
+2017,15-19,rural,Akmola,,,,,,,KZAKM,26.14
+2017,15-19,rural,Aktobe,,,,,,,KZAKT,15.85
+2017,15-19,rural,Almaty,,,,,,,KZALM,28.74
+2017,15-19,rural,Atyrau,,,,,,,KZATY,29.29
+2017,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,21.78
+2017,15-19,rural,Zhambyl,,,,,,,KZZHA,40.52
+2017,15-19,rural,Karagandy,,,,,,,KZKAR,20.88
+2017,15-19,rural,Kostanay,,,,,,,KZKUS,22.7
+2017,15-19,rural,Kyzylorda,,,,,,,KZKZY,18.82
+2017,15-19,rural,Mangistau,,,,,,,KZMAN,39.06
+2017,15-19,rural,Ontustik Kazakhstan,,,,,,,KZONT,29.26
+2017,15-19,rural,Pavlodar,,,,,,,KZPAV,27.14
+2017,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,22.43
+2017,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,20.06
+2018,age: 10-14 years old,,,,,,,,,,0.02
+2018,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.08
+2018,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.06
+2018,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.03
+2018,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.04
+2018,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.05
+2018,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.02
+2018,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.0
+2018,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.0
+2018,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.03
+2018,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.0
+2018,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
+2018,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.06
+2018,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.0
+2018,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2018,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.06
+2018,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.02
+2018,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.02
+2018,age: 10-14 years old,urban,,,,,,,,,0.03
+2018,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.18
+2018,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.05
+2018,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.0
+2018,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.0
+2018,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.1
+2018,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.05
+2018,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.0
+2018,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.0
+2018,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2018,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2018,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
+2018,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.16
+2018,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
+2018,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2018,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.06
+2018,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.02
+2018,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.02
+2018,age: 10-14 years old,rural,,,,,,,,,0.01
+2018,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
+2018,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.09
+2018,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.03
+2018,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.08
+2018,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2018,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.0
+2018,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.0
+2018,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.0
+2018,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.05
+2018,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.0
+2018,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.0
+2018,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2018,age: 10-14 years old,rural,Turkistan,,,,,,,KZYUZ,0.0
+2018,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2018,15-19,,,,,,,,,,23.93
+2018,15-19,,Akmola,,,,,,,KZAKM,21.61
+2018,15-19,,Aktobe,,,,,,,KZAKT,17.74
+2018,15-19,,Almaty,,,,,,,KZALM,28.76
+2018,15-19,,Atyrau,,,,,,,KZATY,28.21
+2018,15-19,,Batys Kazakhstan,,,,,,,KZZAP,20.94
+2018,15-19,,Zhambyl,,,,,,,KZZHA,36.64
+2018,15-19,,Karagandy,,,,,,,KZKAR,20.41
+2018,15-19,,Kostanay,,,,,,,KZKUS,18.63
+2018,15-19,,Kyzylorda,,,,,,,KZKZY,20.65
+2018,15-19,,Mangistau,,,,,,,KZMAN,35.04
+2018,15-19,,Pavlodar,,,,,,,KZPAV,18.47
+2018,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,19.55
+2018,15-19,,Turkistan,,,,,,,KZYUZ,30.92
+2018,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,19.52
+2018,15-19,,Nur-Sultan city,,,,,,,KZNS,15.07
+2018,15-19,,Almaty city,,,,,,,KZALA,12.31
+2018,15-19,,Shymkent city,,,,,,,KZSHY,24.34
+2018,15-19,urban,,,,,,,,,21.09
+2018,15-19,urban,Akmola,,,,,,,KZAKM,20.1
+2018,15-19,urban,Aktobe,,,,,,,KZAKT,18.9
+2018,15-19,urban,Almaty,,,,,,,KZALM,31.06
+2018,15-19,urban,Atyrau,,,,,,,KZATY,28.76
+2018,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,20.77
+2018,15-19,urban,Zhambyl,,,,,,,KZZHA,29.45
+2018,15-19,urban,Karagandy,,,,,,,KZKAR,20.1
+2018,15-19,urban,Kostanay,,,,,,,KZKUS,14.14
+2018,15-19,urban,Kyzylorda,,,,,,,KZKZY,20.81
+2018,15-19,urban,Mangistau,,,,,,,KZMAN,36.41
+2018,15-19,urban,Pavlodar,,,,,,,KZPAV,16.43
+2018,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,16.84
+2018,15-19,urban,Turkistan,,,,,,,KZYUZ,38.55
+2018,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,19.48
+2018,15-19,urban,Nur-Sultan city,,,,,,,KZNS,15.07
+2018,15-19,urban,Almaty city,,,,,,,KZALA,12.31
+2018,15-19,urban,Shymkent city,,,,,,,KZSHY,24.34
+2018,15-19,rural,,,,,,,,,27.01
+2018,15-19,rural,Akmola,,,,,,,KZAKM,22.74
+2018,15-19,rural,Aktobe,,,,,,,KZAKT,15.65
+2018,15-19,rural,Almaty,,,,,,,KZALM,28.14
+2018,15-19,rural,Atyrau,,,,,,,KZATY,27.68
+2018,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,21.1
+2018,15-19,rural,Zhambyl,,,,,,,KZZHA,40.8
+2018,15-19,rural,Karagandy,,,,,,,KZKAR,21.36
+2018,15-19,rural,Kostanay,,,,,,,KZKUS,22.51
+2018,15-19,rural,Kyzylorda,,,,,,,KZKZY,20.54
+2018,15-19,rural,Mangistau,,,,,,,KZMAN,34.27
+2018,15-19,rural,Pavlodar,,,,,,,KZPAV,22.26
+2018,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,21.07
+2018,15-19,rural,Turkistan,,,,,,,KZYUZ,29.23
+2018,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,19.57
+2019,age: 10-14 years old,,,,,,,,,,0.02
+2019,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.04
+2019,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.03
+2019,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.05
+2019,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.04
+2019,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2019,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.06
+2019,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.04
+2019,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.0
+2019,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.0
+2019,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.0
+2019,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
+2019,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2019,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.0
+2019,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.04
+2019,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.03
+2019,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
+2019,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.07
+2019,age: 10-14 years old,urban,,,,,,,,,0.02
+2019,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.0
+2019,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.05
+2019,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.0
+2019,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.07
+2019,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2019,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.0
+2019,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.03
+2019,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.0
+2019,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2019,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2019,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
+2019,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2019,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
+2019,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2019,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.03
+2019,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
+2019,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.07
+2019,age: 10-14 years old,rural,,,,,,,,,0.03
+2019,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.07
+2019,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.0
+2019,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.06
+2019,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.0
+2019,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2019,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.09
+2019,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.09
+2019,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.0
+2019,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.0
+2019,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.0
+2019,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.0
+2019,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2019,age: 10-14 years old,rural,Turkistan,,,,,,,KZYUZ,0.0
+2019,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.09
+2019,15-19,,,,,,,,,,23.2
+2019,15-19,,Akmola,,,,,,,KZAKM,21.6
+2019,15-19,,Aktobe,,,,,,,KZAKT,18.06
+2019,15-19,,Almaty,,,,,,,KZALM,27.35
+2019,15-19,,Atyrau,,,,,,,KZATY,25.96
+2019,15-19,,Batys Kazakhstan,,,,,,,KZZAP,18.71
+2019,15-19,,Zhambyl,,,,,,,KZZHA,33.73
+2019,15-19,,Karagandy,,,,,,,KZKAR,19.91
+2019,15-19,,Kostanay,,,,,,,KZKUS,18.48
+2019,15-19,,Kyzylorda,,,,,,,KZKZY,18.95
+2019,15-19,,Mangistau,,,,,,,KZMAN,33.98
+2019,15-19,,Pavlodar,,,,,,,KZPAV,18.24
+2019,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,19.15
+2019,15-19,,Turkistan,,,,,,,KZYUZ,31.97
+2019,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,17.23
+2019,15-19,,Nur-Sultan city,,,,,,,KZNS,11.69
+2019,15-19,,Almaty city,,,,,,,KZALA,12.39
+2019,15-19,,Shymkent city,,,,,,,KZSHY,25.44
+2019,15-19,urban,,,,,,,,,20.61
+2019,15-19,urban,Akmola,,,,,,,KZAKM,19.76
+2019,15-19,urban,Aktobe,,,,,,,KZAKT,20.01
+2019,15-19,urban,Almaty,,,,,,,KZALM,30.27
+2019,15-19,urban,Atyrau,,,,,,,KZATY,24.43
+2019,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,19.1
+2019,15-19,urban,Zhambyl,,,,,,,KZZHA,27.77
+2019,15-19,urban,Karagandy,,,,,,,KZKAR,19.23
+2019,15-19,urban,Kostanay,,,,,,,KZKUS,15.33
+2019,15-19,urban,Kyzylorda,,,,,,,KZKZY,19.44
+2019,15-19,urban,Mangistau,,,,,,,KZMAN,29.86
+2019,15-19,urban,Pavlodar,,,,,,,KZPAV,16.52
+2019,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,16.43
+2019,15-19,urban,Turkistan,,,,,,,KZYUZ,45.85
+2019,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,16.49
+2019,15-19,urban,Nur-Sultan city,,,,,,,KZNS,11.69
+2019,15-19,urban,Almaty city,,,,,,,KZALA,12.39
+2019,15-19,urban,Shymkent city,,,,,,,KZSHY,20.61
+2019,15-19,rural,,,,,,,,,26.04
+2019,15-19,rural,Akmola,,,,,,,KZAKM,22.95
+2019,15-19,rural,Aktobe,,,,,,,KZAKT,14.49
+2019,15-19,rural,Almaty,,,,,,,KZALM,26.57
+2019,15-19,rural,Atyrau,,,,,,,KZATY,27.53
+2019,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,18.36
+2019,15-19,rural,Zhambyl,,,,,,,KZZHA,37.14
+2019,15-19,rural,Karagandy,,,,,,,KZKAR,21.96
+2019,15-19,rural,Kostanay,,,,,,,KZKUS,21.61
+2019,15-19,rural,Kyzylorda,,,,,,,KZKZY,18.64
+2019,15-19,rural,Mangistau,,,,,,,KZMAN,36.34
+2019,15-19,rural,Pavlodar,,,,,,,KZPAV,21.43
+2019,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,20.7
+2019,15-19,rural,Turkistan,,,,,,,KZYUZ,28.85
+2019,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,18.16
+2020,age: 10-14 years old,,,,,,,,,,0.02
+2020,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.07
+2020,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.03
+2020,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.03
+2020,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.0
+2020,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2020,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.02
+2020,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.02
+2020,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.07
+2020,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.0
+2020,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.0
+2020,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.08
+2020,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2020,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.01
+2020,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.02
+2020,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2020,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
+2020,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.04
+2020,age: 10-14 years old,urban,,,,,,,,,0.02
+2020,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.0
+2020,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.04
+2020,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.11
+2020,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.0
+2020,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2020,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.0
+2020,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.03
+2020,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.13
+2020,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2020,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2020,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.06
+2020,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2020,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
+2020,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2020,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2020,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
+2020,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.04
+2020,age: 10-14 years old,rural,,,,,,,,,0.02
+2020,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.13
+2020,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.0
+2020,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.01
+2020,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.0
+2020,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2020,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.03
+2020,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.0
+2020,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.0
+2020,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.0
+2020,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.0
+2020,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.12
+2020,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2020,age: 10-14 years old,rural,Turkistan,,,,,,,KZYUZ,0.01
+2020,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.05
+2020,15-19,,,,,,,,,,22.89
+2020,15-19,,Akmola,,,,,,,KZAKM,18.04
+2020,15-19,,Aktobe,,,,,,,KZAKT,18.34
+2020,15-19,,Almaty,,,,,,,KZALM,26.67
+2020,15-19,,Atyrau,,,,,,,KZATY,24.96
+2020,15-19,,Batys Kazakhstan,,,,,,,KZZAP,15.79
+2020,15-19,,Zhambyl,,,,,,,KZZHA,33.22
+2020,15-19,,Karagandy,,,,,,,KZKAR,17.65
+2020,15-19,,Kostanay,,,,,,,KZKUS,18.99
+2020,15-19,,Kyzylorda,,,,,,,KZKZY,19.82
+2020,15-19,,Mangistau,,,,,,,KZMAN,33.14
+2020,15-19,,Pavlodar,,,,,,,KZPAV,17.95
+2020,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,17.95
+2020,15-19,,Turkistan,,,,,,,KZYUZ,33.38
+2020,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,16.96
+2020,15-19,,Nur-Sultan city,,,,,,,KZNS,10.71
+2020,15-19,,Almaty city,,,,,,,KZALA,11.82
+2020,15-19,,Shymkent city,,,,,,,KZSHY,26.98
+2020,15-19,urban,,,,,,,,,19.88
+2020,15-19,urban,Akmola,,,,,,,KZAKM,17.94
+2020,15-19,urban,Aktobe,,,,,,,KZAKT,18.47
+2020,15-19,urban,Almaty,,,,,,,KZALM,27.85
+2020,15-19,urban,Atyrau,,,,,,,KZATY,24.76
+2020,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,14.9
+2020,15-19,urban,Zhambyl,,,,,,,KZZHA,30.05
+2020,15-19,urban,Karagandy,,,,,,,KZKAR,16.92
+2020,15-19,urban,Kostanay,,,,,,,KZKUS,17.19
+2020,15-19,urban,Kyzylorda,,,,,,,KZKZY,17.11
+2020,15-19,urban,Mangistau,,,,,,,KZMAN,26.53
+2020,15-19,urban,Pavlodar,,,,,,,KZPAV,16.11
+2020,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,17.83
+2020,15-19,urban,Turkistan,,,,,,,KZYUZ,41.66
+2020,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,17.41
+2020,15-19,urban,Nur-Sultan city,,,,,,,KZNS,10.71
+2020,15-19,urban,Almaty city,,,,,,,KZALA,11.82
+2020,15-19,urban,Shymkent city,,,,,,,KZSHY,26.98
+2020,15-19,rural,,,,,,,,,26.17
+2020,15-19,rural,Akmola,,,,,,,KZAKM,18.11
+2020,15-19,rural,Aktobe,,,,,,,KZAKT,18.09
+2020,15-19,rural,Almaty,,,,,,,KZALM,26.37
+2020,15-19,rural,Atyrau,,,,,,,KZATY,25.17
+2020,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,16.55
+2020,15-19,rural,Zhambyl,,,,,,,KZZHA,35.03
+2020,15-19,rural,Karagandy,,,,,,,KZKAR,19.88
+2020,15-19,rural,Kostanay,,,,,,,KZKUS,20.83
+2020,15-19,rural,Kyzylorda,,,,,,,KZKZY,21.63
+2020,15-19,rural,Mangistau,,,,,,,KZMAN,37.08
+2020,15-19,rural,Pavlodar,,,,,,,KZPAV,21.4
+2020,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,18.03
+2020,15-19,rural,Turkistan,,,,,,,KZYUZ,31.49
+2020,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,16.41
+2021,age: 10-14 years old,,,,,,,,,,0.02
+2021,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.0
+2021,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.0
+2021,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.04
+2021,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.09
+2021,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2021,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.0
+2021,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.04
+2021,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.04
+2021,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.0
+2021,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.03
+2021,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
+2021,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.05
+2021,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.01
+2021,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2021,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.02
+2021,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
+2021,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.02
+2021,age: 10-14 years old,urban,,,,,,,,,0.02
+2021,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.0
+2021,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.0
+2021,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.05
+2021,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.12
+2021,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2021,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.0
+2021,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.05
+2021,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.06
+2021,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2021,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2021,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
+2021,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2021,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
+2021,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2021,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.02
+2021,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
+2021,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.02
+2021,age: 10-14 years old,rural,,,,,,,,,0.02
+2021,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
+2021,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.0
+2021,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.04
+2021,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.07
+2021,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2021,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.0
+2021,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.0
+2021,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.0
+2021,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.0
+2021,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.05
+2021,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.0
+2021,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.09
+2021,age: 10-14 years old,rural,Turkistan,,,,,,,KZYUZ,0.01
+2021,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2021,15-19,,,,,,,,,,23.77
+2021,15-19,,Akmola,,,,,,,KZAKM,18.81
+2021,15-19,,Aktobe,,,,,,,KZAKT,20.07
+2021,15-19,,Almaty,,,,,,,KZALM,26.56
+2021,15-19,,Atyrau,,,,,,,KZATY,25.82
+2021,15-19,,Batys Kazakhstan,,,,,,,KZZAP,19.28
+2021,15-19,,Zhambyl,,,,,,,KZZHA,34.31
+2021,15-19,,Karagandy,,,,,,,KZKAR,17.86
+2021,15-19,,Kostanay,,,,,,,KZKUS,17.62
+2021,15-19,,Kyzylorda,,,,,,,KZKZY,21.89
+2021,15-19,,Mangistau,,,,,,,KZMAN,36.24
+2021,15-19,,Pavlodar,,,,,,,KZPAV,17.07
+2021,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,16.08
+2021,15-19,,Turkistan,,,,,,,KZYUZ,36.32
+2021,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,15.59
+2021,15-19,,Nur-Sultan city,,,,,,,KZNS,12.78
+2021,15-19,,Almaty city,,,,,,,KZALA,11.49
+2021,15-19,,Shymkent city,,,,,,,KZSHY,27.98
+2021,15-19,urban,,,,,,,,,19.83
+2021,15-19,urban,Akmola,,,,,,,KZAKM,16.61
+2021,15-19,urban,Aktobe,,,,,,,KZAKT,20.14
+2021,15-19,urban,Almaty,,,,,,,KZALM,27.29
+2021,15-19,urban,Atyrau,,,,,,,KZATY,22.92
+2021,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,15.57
+2021,15-19,urban,Zhambyl,,,,,,,KZZHA,26.76
+2021,15-19,urban,Karagandy,,,,,,,KZKAR,17.48
+2021,15-19,urban,Kostanay,,,,,,,KZKUS,16.29
+2021,15-19,urban,Kyzylorda,,,,,,,KZKZY,18.52
+2021,15-19,urban,Mangistau,,,,,,,KZMAN,26.4
+2021,15-19,urban,Pavlodar,,,,,,,KZPAV,16.28
+2021,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,13.52
+2021,15-19,urban,Turkistan,,,,,,,KZYUZ,42.29
+2021,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,15.46
+2021,15-19,urban,Nur-Sultan city,,,,,,,KZNS,12.78
+2021,15-19,urban,Almaty city,,,,,,,KZALA,11.49
+2021,15-19,urban,Shymkent city,,,,,,,KZSHY,27.98
+2021,15-19,rural,,,,,,,,,28.14
+2021,15-19,rural,Akmola,,,,,,,KZAKM,20.48
+2021,15-19,rural,Aktobe,,,,,,,KZAKT,19.94
+2021,15-19,rural,Almaty,,,,,,,KZALM,26.36
+2021,15-19,rural,Atyrau,,,,,,,KZATY,28.83
+2021,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,22.44
+2021,15-19,rural,Zhambyl,,,,,,,KZZHA,38.69
+2021,15-19,rural,Karagandy,,,,,,,KZKAR,19.04
+2021,15-19,rural,Kostanay,,,,,,,KZKUS,19.04
+2021,15-19,rural,Kyzylorda,,,,,,,KZKZY,24.2
+2021,15-19,rural,Mangistau,,,,,,,KZMAN,42.34
+2021,15-19,rural,Pavlodar,,,,,,,KZPAV,18.59
+2021,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,17.62
+2021,15-19,rural,Turkistan,,,,,,,KZYUZ,34.92
+2021,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,15.75
+2022,age: 10-14 years old,,,,,,,,,,0.02
+2022,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.0
+2022,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.0
+2022,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.06
+2022,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.06
+2022,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2022,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.02
+2022,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.0
+2022,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.0
+2022,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.0
+2022,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.0
+2022,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.07
+2022,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.05
+2022,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.0
+2022,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2022,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2022,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.01
+2022,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.05
+2022,age: 10-14 years old,urban,,,,,,,,,0.01
+2022,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.0
+2022,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.0
+2022,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.0
+2022,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.05
+2022,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2022,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.04
+2022,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.0
+2022,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.0
+2022,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2022,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2022,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.05
+2022,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2022,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
+2022,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2022,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2022,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.01
+2022,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.05
+2022,age: 10-14 years old,rural,,,,,,,,,0.02
+2022,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
+2022,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.0
+2022,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.0
+2022,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.06
+2022,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.06
+2022,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.0
+2022,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.0
+2022,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.0
+2022,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.0
+2022,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.0
+2022,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.11
+2022,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.1
+2022,age: 10-14 years old,rural,Turkistan,,,,,,,KZYUZ,0.0
+2022,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2022,15-19,,,,,,,,,,19.71
+2022,15-19,,Akmola,,,,,,,KZAKM,16.59
+2022,15-19,,Aktobe,,,,,,,KZAKT,14.84
+2022,15-19,,Almaty,,,,,,,KZALM,23.87
+2022,15-19,,Atyrau,,,,,,,KZATY,22.47
+2022,15-19,,Batys Kazakhstan,,,,,,,KZZAP,17.8
+2022,15-19,,Zhambyl,,,,,,,KZZHA,29.33
+2022,15-19,,Karagandy,,,,,,,KZKAR,14.61
+2022,15-19,,Kostanay,,,,,,,KZKUS,15.98
+2022,15-19,,Kyzylorda,,,,,,,KZKZY,18.32
+2022,15-19,,Mangistau,,,,,,,KZMAN,30.79
+2022,15-19,,Pavlodar,,,,,,,KZPAV,15.3
+2022,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,15.25
+2022,15-19,,Turkistan,,,,,,,KZYUZ,30.16
+2022,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,15.05
+2022,15-19,,Nur-Sultan city,,,,,,,KZNS,9.14
+2022,15-19,,Almaty city,,,,,,,KZALA,8.24
+2022,15-19,,Shymkent city,,,,,,,KZSHY,21.98
+2022,15-19,urban,,,,,,,,,15.25
+2022,15-19,urban,Akmola,,,,,,,KZAKM,14.96
+2022,15-19,urban,Aktobe,,,,,,,KZAKT,13.7
+2022,15-19,urban,Almaty,,,,,,,KZALM,23.51
+2022,15-19,urban,Atyrau,,,,,,,KZATY,18.51
+2022,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,15.26
+2022,15-19,urban,Zhambyl,,,,,,,KZZHA,20.77
+2022,15-19,urban,Karagandy,,,,,,,KZKAR,12.97
+2022,15-19,urban,Kostanay,,,,,,,KZKUS,13.33
+2022,15-19,urban,Kyzylorda,,,,,,,KZKZY,15.66
+2022,15-19,urban,Mangistau,,,,,,,KZMAN,24.24
+2022,15-19,urban,Pavlodar,,,,,,,KZPAV,12.53
+2022,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,9.68
+2022,15-19,urban,Turkistan,,,,,,,KZYUZ,28.05
+2022,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,12.93
+2022,15-19,urban,Nur-Sultan city,,,,,,,KZNS,9.14
+2022,15-19,urban,Almaty city,,,,,,,KZALA,8.24
+2022,15-19,urban,Shymkent city,,,,,,,KZSHY,21.98
+2022,15-19,rural,,,,,,,,,25.92
+2022,15-19,rural,Akmola,,,,,,,KZAKM,18.4
+2022,15-19,rural,Aktobe,,,,,,,KZAKT,17.8
+2022,15-19,rural,Almaty,,,,,,,KZALM,23.91
+2022,15-19,rural,Atyrau,,,,,,,KZATY,26.67
+2022,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,20.54
+2022,15-19,rural,Zhambyl,,,,,,,KZZHA,35.09
+2022,15-19,rural,Karagandy,,,,,,,KZKAR,20.93
+2022,15-19,rural,Kostanay,,,,,,,KZKUS,19.67
+2022,15-19,rural,Kyzylorda,,,,,,,KZKZY,20.3
+2022,15-19,rural,Mangistau,,,,,,,KZMAN,35.33
+2022,15-19,rural,Pavlodar,,,,,,,KZPAV,20.98
+2022,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,19.81
+2022,15-19,rural,Turkistan,,,,,,,KZYUZ,30.77
+2022,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,18.4
+2023,age: 10-14 years old,,,,,,,,,,0.02
+2023,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.06
+2023,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.0
+2023,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.03
+2023,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.03
+2023,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.04
+2023,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.03
+2023,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.0
+2023,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.0
+2023,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.0
+2023,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.03
+2023,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.0
+2023,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.05
+2023,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.02
+2023,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2023,age: 10-14 years old,,Nur-Sultan city,,,,,,,KZNS,0.0
+2023,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
+2023,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.0
+2023,age: 10-14 years old,urban,,,,,,,,,0.02
+2023,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.12
+2023,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.0
+2023,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.1
+2023,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.05
+2023,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.07
+2023,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.08
+2023,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.0
+2023,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.0
+2023,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2023,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.06
+2023,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
+2023,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2023,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
+2023,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2023,age: 10-14 years old,urban,Nur-Sultan city,,,,,,,KZNS,0.0
+2023,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
+2023,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.0
+2023,age: 10-14 years old,rural,,,,,,,,,0.02
+2023,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
+2023,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.0
+2023,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.02
+2023,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.0
+2023,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2023,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.0
+2023,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.0
+2023,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.0
+2023,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.0
+2023,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.0
+2023,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.0
+2023,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.1
+2023,age: 10-14 years old,rural,Turkistan,,,,,,,KZYUZ,0.03
+2023,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2023,15-19,,,,,,,,,,17.71
+2023,15-19,,Akmola,,,,,,,KZAKM,13.47
+2023,15-19,,Aktobe,,,,,,,KZAKT,15.1
+2023,15-19,,Almaty,,,,,,,KZALM,21.91
+2023,15-19,,Atyrau,,,,,,,KZATY,18.65
+2023,15-19,,Batys Kazakhstan,,,,,,,KZZAP,14.17
+2023,15-19,,Zhambyl,,,,,,,KZZHA,27.28
+2023,15-19,,Karagandy,,,,,,,KZKAR,14.53
+2023,15-19,,Kostanay,,,,,,,KZKUS,14.31
+2023,15-19,,Kyzylorda,,,,,,,KZKZY,16.82
+2023,15-19,,Mangistau,,,,,,,KZMAN,26.43
+2023,15-19,,Pavlodar,,,,,,,KZPAV,12.79
+2023,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,13.64
+2023,15-19,,Turkistan,,,,,,,KZYUZ,26.72
+2023,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,12.45
+2023,15-19,,Nur-Sultan city,,,,,,,KZNS,8.15
+2023,15-19,,Almaty city,,,,,,,KZALA,7.97
+2023,15-19,,Shymkent city,,,,,,,KZSHY,19.82
+2023,15-19,urban,,,,,,,,,13.61
+2023,15-19,urban,Akmola,,,,,,,KZAKM,10.6
+2023,15-19,urban,Aktobe,,,,,,,KZAKT,13.28
+2023,15-19,urban,Almaty,,,,,,,KZALM,17.91
+2023,15-19,urban,Atyrau,,,,,,,KZATY,15.22
+2023,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,12.45
+2023,15-19,urban,Zhambyl,,,,,,,KZZHA,19.28
+2023,15-19,urban,Karagandy,,,,,,,KZKAR,13.88
+2023,15-19,urban,Kostanay,,,,,,,KZKUS,10.88
+2023,15-19,urban,Kyzylorda,,,,,,,KZKZY,16.66
+2023,15-19,urban,Mangistau,,,,,,,KZMAN,17.55
+2023,15-19,urban,Pavlodar,,,,,,,KZPAV,11.06
+2023,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,11.31
+2023,15-19,urban,Turkistan,,,,,,,KZYUZ,23.43
+2023,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,10.6
+2023,15-19,urban,Nur-Sultan city,,,,,,,KZNS,8.15
+2023,15-19,urban,Almaty city,,,,,,,KZALA,7.97
+2023,15-19,urban,Shymkent city,,,,,,,KZSHY,19.82
+2023,15-19,rural,,,,,,,,,23.37
+2023,15-19,rural,Akmola,,,,,,,KZAKM,16.84
+2023,15-19,rural,Aktobe,,,,,,,KZAKT,20.09
+2023,15-19,rural,Almaty,,,,,,,KZALM,22.6
+2023,15-19,rural,Atyrau,,,,,,,KZATY,22.44
+2023,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,16.14
+2023,15-19,rural,Zhambyl,,,,,,,KZZHA,32.73
+2023,15-19,rural,Karagandy,,,,,,,KZKAR,17.13
+2023,15-19,rural,Kostanay,,,,,,,KZKUS,19.33
+2023,15-19,rural,Kyzylorda,,,,,,,KZKZY,16.94
+2023,15-19,rural,Mangistau,,,,,,,KZMAN,32.77
+2023,15-19,rural,Pavlodar,,,,,,,KZPAV,16.46
+2023,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,15.59
+2023,15-19,rural,Turkistan,,,,,,,KZYUZ,27.69
+2023,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,15.49
