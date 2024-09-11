@@ -1,494 +1,716 @@
-Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
-2010,Percent,,,,99.4
-2010,Percent,,Akmola,KZAKM,99.7
-2010,Percent,,Aktobe,KZAKT,99.7
-2010,Percent,,Almaty,KZALM,99.8
-2010,Percent,,Atyrau,KZATY,99.5
-2010,Percent,,Batys Kazakhstan,KZZAP,99.4
-2010,Percent,,Zhambyl,KZZHA,99.3
-2010,Percent,,Karagandy,KZKAR,99.5
-2010,Percent,,Kostanay,KZKUS,99.3
-2010,Percent,,Kyzylorda,KZKZY,99.7
-2010,Percent,,Mangistau,KZMAN,99.5
-2010,Percent,,Ontustik Kazakhstan,KZONT,98.8
-2010,Percent,,Pavlodar,KZPAV,99.6
-2010,Percent,,Soltustik Kazakhstan,KZSEV,99.5
-2010,Percent,,Shygys Kazakhstan,KZVOS,99.2
-2010,Percent,,Astana city,KZNS,99.3
-2010,Percent,,Almaty city,KZALA,99.7
-2010,Percent,urban,,,99.8
-2010,Percent,urban,Akmola,KZAKM,100.0
-2010,Percent,urban,Aktobe,KZAKT,100.0
-2010,Percent,urban,Almaty,KZALM,100.0
-2010,Percent,urban,Atyrau,KZATY,100.0
-2010,Percent,urban,Batys Kazakhstan,KZZAP,99.7
-2010,Percent,urban,Zhambyl,KZZHA,99.7
-2010,Percent,urban,Karagandy,KZKAR,99.8
-2010,Percent,urban,Kostanay,KZKUS,99.6
-2010,Percent,urban,Kyzylorda,KZKZY,100.0
-2010,Percent,urban,Mangistau,KZMAN,99.8
-2010,Percent,urban,Ontustik Kazakhstan,KZONT,99.6
-2010,Percent,urban,Pavlodar,KZPAV,99.9
-2010,Percent,urban,Soltustik Kazakhstan,KZSEV,99.8
-2010,Percent,urban,Shygys Kazakhstan,KZVOS,99.8
-2010,Percent,urban,Astana city,KZNS,99.7
-2010,Percent,urban,Almaty city,KZALA,100.0
-2010,Percent,rural,,,99.7
-2010,Percent,rural,Akmola,KZAKM,99.9
-2010,Percent,rural,Aktobe,KZAKT,99.9
-2010,Percent,rural,Almaty,KZALM,100.0
-2010,Percent,rural,Atyrau,KZATY,99.7
-2010,Percent,rural,Batys Kazakhstan,KZZAP,99.8
-2010,Percent,rural,Zhambyl,KZZHA,99.6
-2010,Percent,rural,Karagandy,KZKAR,99.4
-2010,Percent,rural,Kostanay,KZKUS,99.9
-2010,Percent,rural,Kyzylorda,KZKZY,99.8
-2010,Percent,rural,Mangistau,KZMAN,100.0
-2010,Percent,rural,Ontustik Kazakhstan,KZONT,99.6
-2010,Percent,rural,Pavlodar,KZPAV,99.9
-2010,Percent,rural,Soltustik Kazakhstan,KZSEV,99.9
-2010,Percent,rural,Shygys Kazakhstan,KZVOS,99.1
-2011,Percent,,,,99.9
-2011,Percent,,Akmola,KZAKM,99.9
-2011,Percent,,Aktobe,KZAKT,100.0
-2011,Percent,,Almaty,KZALM,100.0
-2011,Percent,,Atyrau,KZATY,100.0
-2011,Percent,,Batys Kazakhstan,KZZAP,99.9
-2011,Percent,,Zhambyl,KZZHA,99.8
-2011,Percent,,Karagandy,KZKAR,99.8
-2011,Percent,,Kostanay,KZKUS,99.9
-2011,Percent,,Kyzylorda,KZKZY,99.9
-2011,Percent,,Mangistau,KZMAN,99.8
-2011,Percent,,Ontustik Kazakhstan,KZONT,99.8
-2011,Percent,,Pavlodar,KZPAV,99.8
-2011,Percent,,Soltustik Kazakhstan,KZSEV,99.9
-2011,Percent,,Shygys Kazakhstan,KZVOS,99.8
-2011,Percent,,Astana city,KZNS,99.6
-2011,Percent,,Almaty city,KZALA,99.9
-2011,Percent,urban,,,99.9
-2011,Percent,urban,Akmola,KZAKM,100.0
-2011,Percent,urban,Aktobe,KZAKT,100.0
-2011,Percent,urban,Almaty,KZALM,100.0
-2011,Percent,urban,Atyrau,KZATY,100.0
-2011,Percent,urban,Batys Kazakhstan,KZZAP,99.9
-2011,Percent,urban,Zhambyl,KZZHA,100.0
-2011,Percent,urban,Karagandy,KZKAR,99.9
-2011,Percent,urban,Kostanay,KZKUS,99.9
-2011,Percent,urban,Kyzylorda,KZKZY,99.9
-2011,Percent,urban,Mangistau,KZMAN,99.8
-2011,Percent,urban,Ontustik Kazakhstan,KZONT,99.6
-2011,Percent,urban,Pavlodar,KZPAV,99.8
-2011,Percent,urban,Soltustik Kazakhstan,KZSEV,100.0
-2011,Percent,urban,Shygys Kazakhstan,KZVOS,100.0
-2011,Percent,urban,Astana city,KZNS,99.6
-2011,Percent,urban,Almaty city,KZALA,99.9
-2011,Percent,rural,,,99.8
-2011,Percent,rural,Akmola,KZAKM,99.9
-2011,Percent,rural,Aktobe,KZAKT,99.9
-2011,Percent,rural,Almaty,KZALM,100.0
-2011,Percent,rural,Atyrau,KZATY,100.0
-2011,Percent,rural,Batys Kazakhstan,KZZAP,100.0
-2011,Percent,rural,Zhambyl,KZZHA,99.6
-2011,Percent,rural,Karagandy,KZKAR,99.1
-2011,Percent,rural,Kostanay,KZKUS,99.9
-2011,Percent,rural,Kyzylorda,KZKZY,100.0
-2011,Percent,rural,Mangistau,KZMAN,99.7
-2011,Percent,rural,Ontustik Kazakhstan,KZONT,99.9
-2011,Percent,rural,Pavlodar,KZPAV,99.6
-2011,Percent,rural,Soltustik Kazakhstan,KZSEV,99.9
-2011,Percent,rural,Shygys Kazakhstan,KZVOS,98.9
-2012,Percent,,,,99.8
-2012,Percent,,Akmola,KZAKM,99.9
-2012,Percent,,Aktobe,KZAKT,100.0
-2012,Percent,,Almaty,KZALM,100.0
-2012,Percent,,Atyrau,KZATY,99.9
-2012,Percent,,Batys Kazakhstan,KZZAP,99.8
-2012,Percent,,Zhambyl,KZZHA,99.9
-2012,Percent,,Karagandy,KZKAR,99.9
-2012,Percent,,Kostanay,KZKUS,99.9
-2012,Percent,,Kyzylorda,KZKZY,99.8
-2012,Percent,,Mangistau,KZMAN,99.8
-2012,Percent,,Ontustik Kazakhstan,KZONT,99.7
-2012,Percent,,Pavlodar,KZPAV,99.8
-2012,Percent,,Soltustik Kazakhstan,KZSEV,99.9
-2012,Percent,,Shygys Kazakhstan,KZVOS,99.8
-2012,Percent,,Astana city,KZNS,99.6
-2012,Percent,,Almaty city,KZALA,99.8
-2012,Percent,urban,,,99.9
-2012,Percent,urban,Akmola,KZAKM,100.0
-2012,Percent,urban,Aktobe,KZAKT,100.0
-2012,Percent,urban,Almaty,KZALM,100.0
-2012,Percent,urban,Atyrau,KZATY,99.9
-2012,Percent,urban,Batys Kazakhstan,KZZAP,99.8
-2012,Percent,urban,Zhambyl,KZZHA,100.0
-2012,Percent,urban,Karagandy,KZKAR,99.9
-2012,Percent,urban,Kostanay,KZKUS,100.0
-2012,Percent,urban,Kyzylorda,KZKZY,99.9
-2012,Percent,urban,Mangistau,KZMAN,99.8
-2012,Percent,urban,Ontustik Kazakhstan,KZONT,100.0
-2012,Percent,urban,Pavlodar,KZPAV,99.9
-2012,Percent,urban,Soltustik Kazakhstan,KZSEV,99.9
-2012,Percent,urban,Shygys Kazakhstan,KZVOS,99.8
-2012,Percent,urban,Astana city,KZNS,99.6
-2012,Percent,rural,,,99.5
-2012,Percent,rural,Akmola,KZAKM,99.9
-2012,Percent,rural,Aktobe,KZAKT,99.9
-2012,Percent,rural,Almaty,KZALM,100.0
-2012,Percent,rural,Atyrau,KZATY,99.7
-2012,Percent,rural,Batys Kazakhstan,KZZAP,99.7
-2012,Percent,rural,Zhambyl,KZZHA,99.7
-2012,Percent,rural,Karagandy,KZKAR,99.5
-2012,Percent,rural,Kostanay,KZKUS,99.8
-2012,Percent,rural,Kyzylorda,KZKZY,99.7
-2012,Percent,rural,Mangistau,KZMAN,99.8
-2012,Percent,rural,Ontustik Kazakhstan,KZONT,99.1
-2012,Percent,rural,Pavlodar,KZPAV,99.1
-2012,Percent,rural,Soltustik Kazakhstan,KZSEV,99.9
-2012,Percent,rural,Shygys Kazakhstan,KZVOS,99.4
-2013,Percent,,,,99.8
-2013,Percent,,Akmola,KZAKM,99.9
-2013,Percent,,Aktobe,KZAKT,100.0
-2013,Percent,,Almaty,KZALM,100.0
-2013,Percent,,Atyrau,KZATY,100.0
-2013,Percent,,Batys Kazakhstan,KZZAP,99.8
-2013,Percent,,Zhambyl,KZZHA,99.8
-2013,Percent,,Karagandy,KZKAR,99.8
-2013,Percent,,Kostanay,KZKUS,100.0
-2013,Percent,,Kyzylorda,KZKZY,99.6
-2013,Percent,,Mangistau,KZMAN,99.7
-2013,Percent,,Ontustik Kazakhstan,KZONT,99.8
-2013,Percent,,Pavlodar,KZPAV,99.9
-2013,Percent,,Soltustik Kazakhstan,KZSEV,99.9
-2013,Percent,,Shygys Kazakhstan,KZVOS,99.8
-2013,Percent,,Astana city,KZNS,99.5
-2013,Percent,,Almaty city,KZALA,100.0
-2013,Percent,urban,,,99.8
-2013,Percent,urban,Akmola,KZAKM,100.0
-2013,Percent,urban,Aktobe,KZAKT,100.0
-2013,Percent,urban,Almaty,KZALM,100.0
-2013,Percent,urban,Atyrau,KZATY,100.0
-2013,Percent,urban,Batys Kazakhstan,KZZAP,99.8
-2013,Percent,urban,Zhambyl,KZZHA,100.0
-2013,Percent,urban,Karagandy,KZKAR,99.8
-2013,Percent,urban,Kostanay,KZKUS,100.0
-2013,Percent,urban,Kyzylorda,KZKZY,99.4
-2013,Percent,urban,Mangistau,KZMAN,99.7
-2013,Percent,urban,Ontustik Kazakhstan,KZONT,99.7
-2013,Percent,urban,Pavlodar,KZPAV,99.9
-2013,Percent,urban,Soltustik Kazakhstan,KZSEV,100.0
-2013,Percent,urban,Shygys Kazakhstan,KZVOS,99.8
-2013,Percent,urban,Astana city,KZNS,99.5
-2013,Percent,urban,Almaty city,KZALA,100.0
-2013,Percent,rural,,,99.8
-2013,Percent,rural,Akmola,KZAKM,99.9
-2013,Percent,rural,Aktobe,KZAKT,99.9
-2013,Percent,rural,Almaty,KZALM,100.0
-2013,Percent,rural,Atyrau,KZATY,99.8
-2013,Percent,rural,Batys Kazakhstan,KZZAP,99.7
-2013,Percent,rural,Zhambyl,KZZHA,99.4
-2013,Percent,rural,Karagandy,KZKAR,99.4
-2013,Percent,rural,Kostanay,KZKUS,100.0
-2013,Percent,rural,Kyzylorda,KZKZY,99.8
-2013,Percent,rural,Mangistau,KZMAN,99.7
-2013,Percent,rural,Ontustik Kazakhstan,KZONT,99.9
-2013,Percent,rural,Pavlodar,KZPAV,99.3
-2013,Percent,rural,Soltustik Kazakhstan,KZSEV,99.8
-2013,Percent,rural,Shygys Kazakhstan,KZVOS,99.8
-2014,Percent,,,,99.7
-2014,Percent,,Akmola,KZAKM,99.9
-2014,Percent,,Aktobe,KZAKT,100.0
-2014,Percent,,Almaty,KZALM,100.0
-2014,Percent,,Atyrau,KZATY,99.9
-2014,Percent,,Batys Kazakhstan,KZZAP,99.8
-2014,Percent,,Zhambyl,KZZHA,99.7
-2014,Percent,,Karagandy,KZKAR,99.8
-2014,Percent,,Kostanay,KZKUS,99.9
-2014,Percent,,Kyzylorda,KZKZY,98.8
-2014,Percent,,Mangistau,KZMAN,99.8
-2014,Percent,,Ontustik Kazakhstan,KZONT,99.4
-2014,Percent,,Pavlodar,KZPAV,99.9
-2014,Percent,,Soltustik Kazakhstan,KZSEV,99.7
-2014,Percent,,Shygys Kazakhstan,KZVOS,99.9
-2014,Percent,,Astana city,KZNS,99.7
-2014,Percent,,Almaty city,KZALA,99.9
-2014,Percent,urban,,,99.8
-2014,Percent,urban,Akmola,KZAKM,99.9
-2014,Percent,urban,Aktobe,KZAKT,100.0
-2014,Percent,urban,Almaty,KZALM,100.0
-2014,Percent,urban,Atyrau,KZATY,99.9
-2014,Percent,urban,Batys Kazakhstan,KZZAP,99.8
-2014,Percent,urban,Zhambyl,KZZHA,99.7
-2014,Percent,urban,Karagandy,KZKAR,99.8
-2014,Percent,urban,Kostanay,KZKUS,100.0
-2014,Percent,urban,Kyzylorda,KZKZY,98.6
-2014,Percent,urban,Mangistau,KZMAN,99.8
-2014,Percent,urban,Ontustik Kazakhstan,KZONT,99.4
-2014,Percent,urban,Pavlodar,KZPAV,99.9
-2014,Percent,urban,Soltustik Kazakhstan,KZSEV,99.8
-2014,Percent,urban,Shygys Kazakhstan,KZVOS,99.9
-2014,Percent,urban,Astana city,KZNS,99.7
-2014,Percent,urban,Almaty city,KZALA,99.9
-2014,Percent,rural,,,99.5
-2014,Percent,rural,Akmola,KZAKM,100.0
-2014,Percent,rural,Aktobe,KZAKT,99.9
-2014,Percent,rural,Almaty,KZALM,100.0
-2014,Percent,rural,Atyrau,KZATY,99.9
-2014,Percent,rural,Batys Kazakhstan,KZZAP,99.6
-2014,Percent,rural,Zhambyl,KZZHA,99.6
-2014,Percent,rural,Karagandy,KZKAR,99.6
-2014,Percent,rural,Kostanay,KZKUS,99.7
-2014,Percent,rural,Kyzylorda,KZKZY,99.0
-2014,Percent,rural,Mangistau,KZMAN,99.5
-2014,Percent,rural,Ontustik Kazakhstan,KZONT,99.3
-2014,Percent,rural,Pavlodar,KZPAV,99.8
-2014,Percent,rural,Soltustik Kazakhstan,KZSEV,99.4
-2014,Percent,rural,Shygys Kazakhstan,KZVOS,99.4
-2015,Percent,,,,99.5
-2015,Percent,,Akmola,KZAKM,100.0
-2015,Percent,,Aktobe,KZAKT,100.0
-2015,Percent,,Almaty,KZALM,100.0
-2015,Percent,,Atyrau,KZATY,99.9
-2015,Percent,,Batys Kazakhstan,KZZAP,99.8
-2015,Percent,,Zhambyl,KZZHA,99.8
-2015,Percent,,Karagandy,KZKAR,99.7
-2015,Percent,,Kostanay,KZKUS,99.9
-2015,Percent,,Kyzylorda,KZKZY,98.9
-2015,Percent,,Mangistau,KZMAN,99.6
-2015,Percent,,Ontustik Kazakhstan,KZONT,98.3
-2015,Percent,,Pavlodar,KZPAV,99.9
-2015,Percent,,Soltustik Kazakhstan,KZSEV,99.9
-2015,Percent,,Shygys Kazakhstan,KZVOS,99.9
-2015,Percent,,Astana city,KZNS,99.7
-2015,Percent,,Almaty city,KZALA,100.0
-2015,Percent,urban,,,99.8
-2015,Percent,urban,Akmola,KZAKM,99.9
-2015,Percent,urban,Aktobe,KZAKT,100.0
-2015,Percent,urban,Almaty,KZALM,100.0
-2015,Percent,urban,Atyrau,KZATY,99.9
-2015,Percent,urban,Batys Kazakhstan,KZZAP,99.8
-2015,Percent,urban,Zhambyl,KZZHA,99.8
-2015,Percent,urban,Karagandy,KZKAR,99.8
-2015,Percent,urban,Kostanay,KZKUS,99.9
-2015,Percent,urban,Kyzylorda,KZKZY,99.1
-2015,Percent,urban,Mangistau,KZMAN,99.7
-2015,Percent,urban,Ontustik Kazakhstan,KZONT,99.8
-2015,Percent,urban,Pavlodar,KZPAV,99.9
-2015,Percent,urban,Soltustik Kazakhstan,KZSEV,99.9
-2015,Percent,urban,Shygys Kazakhstan,KZVOS,99.9
-2015,Percent,urban,Astana city,KZNS,99.7
-2015,Percent,urban,Almaty city,KZALA,100.0
-2015,Percent,rural,,,98.2
-2015,Percent,rural,Akmola,KZAKM,100.0
-2015,Percent,rural,Aktobe,KZAKT,100.0
-2015,Percent,rural,Almaty,KZALM,100.0
-2015,Percent,rural,Atyrau,KZATY,99.4
-2015,Percent,rural,Batys Kazakhstan,KZZAP,99.8
-2015,Percent,rural,Zhambyl,KZZHA,99.7
-2015,Percent,rural,Karagandy,KZKAR,99.0
-2015,Percent,rural,Kostanay,KZKUS,99.8
-2015,Percent,rural,Kyzylorda,KZKZY,98.7
-2015,Percent,rural,Mangistau,KZMAN,99.0
-2015,Percent,rural,Ontustik Kazakhstan,KZONT,96.2
-2015,Percent,rural,Pavlodar,KZPAV,99.3
-2015,Percent,rural,Soltustik Kazakhstan,KZSEV,99.9
-2015,Percent,rural,Shygys Kazakhstan,KZVOS,99.4
-2016,Percent,,,,99.9
-2016,Percent,,Akmola,KZAKM,99.9
-2016,Percent,,Aktobe,KZAKT,100.0
-2016,Percent,,Almaty,KZALM,100.0
-2016,Percent,,Atyrau,KZATY,99.9
-2016,Percent,,Batys Kazakhstan,KZZAP,99.7
-2016,Percent,,Zhambyl,KZZHA,99.7
-2016,Percent,,Karagandy,KZKAR,99.7
-2016,Percent,,Kostanay,KZKUS,100.0
-2016,Percent,,Kyzylorda,KZKZY,99.3
-2016,Percent,,Mangistau,KZMAN,99.7
-2016,Percent,,Ontustik Kazakhstan,KZONT,100.0
-2016,Percent,,Pavlodar,KZPAV,99.7
-2016,Percent,,Soltustik Kazakhstan,KZSEV,99.8
-2016,Percent,,Shygys Kazakhstan,KZVOS,99.9
-2016,Percent,,Astana city,KZNS,99.8
-2016,Percent,,Almaty city,KZALA,100.0
-2016,Percent,urban,,,99.8
-2016,Percent,urban,Akmola,KZAKM,99.8
-2016,Percent,urban,Aktobe,KZAKT,100.0
-2016,Percent,urban,Almaty,KZALM,99.9
-2016,Percent,urban,Atyrau,KZATY,99.9
-2016,Percent,urban,Batys Kazakhstan,KZZAP,99.8
-2016,Percent,urban,Zhambyl,KZZHA,99.8
-2016,Percent,urban,Karagandy,KZKAR,99.7
-2016,Percent,urban,Kostanay,KZKUS,100.0
-2016,Percent,urban,Kyzylorda,KZKZY,98.7
-2016,Percent,urban,Mangistau,KZMAN,99.8
-2016,Percent,urban,Ontustik Kazakhstan,KZONT,100.0
-2016,Percent,urban,Pavlodar,KZPAV,99.6
-2016,Percent,urban,Soltustik Kazakhstan,KZSEV,99.9
-2016,Percent,urban,Shygys Kazakhstan,KZVOS,99.9
-2016,Percent,urban,Astana city,KZNS,100.0
-2016,Percent,urban,Almaty city,KZALA,100.0
-2016,Percent,rural,,,99.9
-2016,Percent,rural,Akmola,KZAKM,100.0
-2016,Percent,rural,Aktobe,KZAKT,99.9
-2016,Percent,rural,Almaty,KZALM,99.9
-2016,Percent,rural,Atyrau,KZATY,99.9
-2016,Percent,rural,Batys Kazakhstan,KZZAP,99.9
-2016,Percent,rural,Zhambyl,KZZHA,99.9
-2016,Percent,rural,Karagandy,KZKAR,99.7
-2016,Percent,rural,Kostanay,KZKUS,99.9
-2016,Percent,rural,Kyzylorda,KZKZY,99.8
-2016,Percent,rural,Mangistau,KZMAN,100.0
-2016,Percent,rural,Ontustik Kazakhstan,KZONT,99.1
-2016,Percent,rural,Pavlodar,KZPAV,99.9
-2016,Percent,rural,Soltustik Kazakhstan,KZSEV,99.7
-2016,Percent,rural,Shygys Kazakhstan,KZVOS,99.9
-2017,Percent,,,,99.9
-2017,Percent,,Akmola,KZAKM,99.8
-2017,Percent,,Aktobe,KZAKT,100.0
-2017,Percent,,Almaty,KZALM,99.9
-2017,Percent,,Atyrau,KZATY,100.0
-2017,Percent,,Batys Kazakhstan,KZZAP,99.7
-2017,Percent,,Zhambyl,KZZHA,99.9
-2017,Percent,,Karagandy,KZKAR,99.7
-2017,Percent,,Kostanay,KZKUS,100.0
-2017,Percent,,Kyzylorda,KZKZY,100.0
-2017,Percent,,Mangistau,KZMAN,99.7
-2017,Percent,,Ontustik Kazakhstan,KZONT,99.8
-2017,Percent,,Pavlodar,KZPAV,99.9
-2017,Percent,,Soltustik Kazakhstan,KZSEV,99.8
-2017,Percent,,Shygys Kazakhstan,KZVOS,99.9
-2017,Percent,,Astana city,KZNS,99.9
-2017,Percent,,Almaty city,KZALA,100.0
-2017,Percent,urban,,,99.9
-2017,Percent,urban,Akmola,KZAKM,99.2
-2017,Percent,urban,Aktobe,KZAKT,99.9
-2017,Percent,urban,Almaty,KZALM,99.9
-2017,Percent,urban,Atyrau,KZATY,99.9
-2017,Percent,urban,Batys Kazakhstan,KZZAP,99.6
-2017,Percent,urban,Zhambyl,KZZHA,99.9
-2017,Percent,urban,Karagandy,KZKAR,99.8
-2017,Percent,urban,Kostanay,KZKUS,99.9
-2017,Percent,urban,Kyzylorda,KZKZY,99.9
-2017,Percent,urban,Mangistau,KZMAN,99.7
-2017,Percent,urban,Ontustik Kazakhstan,KZONT,99.7
-2017,Percent,urban,Pavlodar,KZPAV,99.9
-2017,Percent,urban,Soltustik Kazakhstan,KZSEV,99.8
-2017,Percent,urban,Shygys Kazakhstan,KZVOS,100.0
-2017,Percent,urban,Astana city,KZNS,100.0
-2017,Percent,urban,Almaty city,KZALA,100.0
-2017,Percent,rural,,,99.9
-2017,Percent,rural,Akmola,KZAKM,94.0
-2017,Percent,rural,Aktobe,KZAKT,100.0
-2017,Percent,rural,Almaty,KZALM,99.9
-2017,Percent,rural,Atyrau,KZATY,99.8
-2017,Percent,rural,Batys Kazakhstan,KZZAP,99.9
-2017,Percent,rural,Zhambyl,KZZHA,99.9
-2017,Percent,rural,Karagandy,KZKAR,98.2
-2017,Percent,rural,Kostanay,KZKUS,99.9
-2017,Percent,rural,Kyzylorda,KZKZY,99.9
-2017,Percent,rural,Mangistau,KZMAN,99.9
-2017,Percent,rural,Ontustik Kazakhstan,KZONT,99.9
-2017,Percent,rural,Pavlodar,KZPAV,99.1
-2017,Percent,rural,Soltustik Kazakhstan,KZSEV,99.3
-2017,Percent,rural,Shygys Kazakhstan,KZVOS,99.4
-2018,Percent,,,,99.9
-2018,Percent,,Akmola,KZAKM,99.9
-2018,Percent,,Aktobe,KZAKT,100.0
-2018,Percent,,Almaty,KZALM,100.0
-2018,Percent,,Atyrau,KZATY,100.0
-2018,Percent,,Batys Kazakhstan,KZZAP,99.8
-2018,Percent,,Zhambyl,KZZHA,99.9
-2018,Percent,,Karagandy,KZKAR,99.8
-2018,Percent,,Kostanay,KZKUS,100.0
-2018,Percent,,Kyzylorda,KZKZY,100.0
-2018,Percent,,Mangistau,KZMAN,99.8
-2018,Percent,,Pavlodar,KZPAV,99.9
-2018,Percent,,Soltustik Kazakhstan,KZSEV,99.9
-2018,Percent,,Turkistan,KZYUZ,99.9
-2018,Percent,,Shygys Kazakhstan,KZVOS,100.0
-2018,Percent,,Astana city,KZNS,99.9
-2018,Percent,,Almaty city,KZALA,100.0
-2018,Percent,,Shymkent city,KZSHY,99.9
-2018,Percent,urban,,,99.902853582859
-2018,Percent,urban,Akmola,KZAKM,99.67732177069678
-2018,Percent,urban,Aktobe,KZAKT,99.57688453401626
-2018,Percent,urban,Almaty,KZALM,99.95825360932336
-2018,Percent,urban,Atyrau,KZATY,99.66018123667378
-2018,Percent,urban,Batys Kazakhstan,KZZAP,99.79395604395604
-2018,Percent,urban,Zhambyl,KZZHA,99.92751603010872
-2018,Percent,urban,Karagandy,KZKAR,99.71934271875423
-2018,Percent,urban,Kostanay,KZKUS,99.96871415163208
-2018,Percent,urban,Kyzylorda,KZKZY,99.7690736299849
-2018,Percent,urban,Mangistau,KZMAN,99.71410953528785
-2018,Percent,urban,Pavlodar,KZPAV,99.83043284248104
-2018,Percent,urban,Soltustik Kazakhstan,KZSEV,99.74137931034484
-2018,Percent,urban,Turkistan,KZYUZ,99.15737211985596
-2018,Percent,urban,Shygys Kazakhstan,KZVOS,99.8578102782856
-2018,Percent,urban,Astana city,KZNS,99.8
-2018,Percent,urban,Almaty city,KZALA,99.8
-2018,Percent,urban,Shymkent city,KZSHY,99.2
-2018,Percent,rural,,,99.8
-2018,Percent,rural,Akmola,KZAKM,99.9
-2018,Percent,rural,Aktobe,KZAKT,99.9
-2018,Percent,rural,Almaty,KZALM,100.0
-2018,Percent,rural,Atyrau,KZATY,100.0
-2018,Percent,rural,Batys Kazakhstan,KZZAP,100.0
-2018,Percent,rural,Zhambyl,KZZHA,99.9
-2018,Percent,rural,Karagandy,KZKAR,99.6
-2018,Percent,rural,Kostanay,KZKUS,99.9
-2018,Percent,rural,Kyzylorda,KZKZY,99.7
-2018,Percent,rural,Mangistau,KZMAN,99.3
-2018,Percent,rural,Pavlodar,KZPAV,99.8
-2018,Percent,rural,Soltustik Kazakhstan,KZSEV,100.0
-2018,Percent,rural,Turkistan,KZYUZ,99.7
-2018,Percent,rural,Shygys Kazakhstan,KZVOS,100.0
-2019,Percent,,,,99.9
-2019,Percent,,Akmola,KZAKM,99.9
-2019,Percent,,Aktobe,KZAKT,100.0
-2019,Percent,,Almaty,KZALM,100.0
-2019,Percent,,Atyrau,KZATY,100.0
-2019,Percent,,Batys Kazakhstan,KZZAP,99.8
-2019,Percent,,Zhambyl,KZZHA,99.9
-2019,Percent,,Karagandy,KZKAR,99.9
-2019,Percent,,Kostanay,KZKUS,100.0
-2019,Percent,,Kyzylorda,KZKZY,100.0
-2019,Percent,,Mangistau,KZMAN,99.9
-2019,Percent,,Pavlodar,KZPAV,99.9
-2019,Percent,,Soltustik Kazakhstan,KZSEV,99.9
-2019,Percent,,Turkistan,KZYUZ,99.9
-2019,Percent,,Shygys Kazakhstan,KZVOS,100.0
-2019,Percent,,Astana city,KZNS,100.0
-2019,Percent,,Almaty city,KZALA,100.0
-2019,Percent,,Shymkent city,KZSHY,99.9
-2019,Percent,urban,,,99.902853582859
-2019,Percent,urban,Akmola,KZAKM,99.8
-2019,Percent,urban,Aktobe,KZAKT,99.7
-2019,Percent,urban,Almaty,KZALM,99.95825360932336
-2019,Percent,urban,Atyrau,KZATY,99.8
-2019,Percent,urban,Batys Kazakhstan,KZZAP,99.9
-2019,Percent,urban,Zhambyl,KZZHA,99.92751603010872
-2019,Percent,urban,Karagandy,KZKAR,99.8
-2019,Percent,urban,Kostanay,KZKUS,99.96871415163208
-2019,Percent,urban,Kyzylorda,KZKZY,99.9
-2019,Percent,urban,Mangistau,KZMAN,99.8
-2019,Percent,urban,Pavlodar,KZPAV,99.9
-2019,Percent,urban,Soltustik Kazakhstan,KZSEV,99.8
-2019,Percent,urban,Turkistan,KZYUZ,99.4
-2019,Percent,urban,Shygys Kazakhstan,KZVOS,99.8578102782856
-2019,Percent,urban,Astana city,KZNS,99.9
-2019,Percent,urban,Almaty city,KZALA,99.9
-2019,Percent,urban,Shymkent city,KZSHY,99.3
-2019,Percent,rural,,,99.8
-2019,Percent,rural,Akmola,KZAKM,99.9
-2019,Percent,rural,Aktobe,KZAKT,99.9
-2019,Percent,rural,Almaty,KZALM,100.0
-2019,Percent,rural,Atyrau,KZATY,100.0
-2019,Percent,rural,Batys Kazakhstan,KZZAP,100.0
-2019,Percent,rural,Zhambyl,KZZHA,99.9
-2019,Percent,rural,Karagandy,KZKAR,99.6
-2019,Percent,rural,Kostanay,KZKUS,99.9
-2019,Percent,rural,Kyzylorda,KZKZY,99.8
-2019,Percent,rural,Mangistau,KZMAN,99.4
-2019,Percent,rural,Pavlodar,KZPAV,99.9
-2019,Percent,rural,Soltustik Kazakhstan,KZSEV,100.0
-2019,Percent,rural,Turkistan,KZYUZ,99.8
-2019,Percent,rural,Shygys Kazakhstan,KZVOS,100.0
+Year,UNIT_MEASURE,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,GeoCode,Value
+2010,Percent,,,,,,,,99.4
+2010,Percent,,Akmola,,,,,KZAKM,99.7
+2010,Percent,,Aktobe,,,,,KZAKT,99.7
+2010,Percent,,Almaty,,,,,KZALM,99.8
+2010,Percent,,Atyrau,,,,,KZATY,99.5
+2010,Percent,,Batys Kazakhstan,,,,,KZZAP,99.4
+2010,Percent,,Zhambyl,,,,,KZZHA,99.3
+2010,Percent,,Karagandy,,,,,KZKAR,99.5
+2010,Percent,,Kostanay,,,,,KZKUS,99.3
+2010,Percent,,Kyzylorda,,,,,KZKZY,99.7
+2010,Percent,,Mangistau,,,,,KZMAN,99.5
+2010,Percent,,Ontustik Kazakhstan,,,,,KZONT,98.8
+2010,Percent,,Pavlodar,,,,,KZPAV,99.6
+2010,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.5
+2010,Percent,,Shygys Kazakhstan,,,,,KZVOS,99.2
+2010,Percent,,Astana city,,,,,KZNS,99.3
+2010,Percent,,Almaty city,,,,,KZALA,99.7
+2010,Percent,urban,,,,,,,99.8
+2010,Percent,urban,Akmola,,,,,KZAKM,100.0
+2010,Percent,urban,Aktobe,,,,,KZAKT,100.0
+2010,Percent,urban,Almaty,,,,,KZALM,100.0
+2010,Percent,urban,Atyrau,,,,,KZATY,100.0
+2010,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.7
+2010,Percent,urban,Zhambyl,,,,,KZZHA,99.7
+2010,Percent,urban,Karagandy,,,,,KZKAR,99.8
+2010,Percent,urban,Kostanay,,,,,KZKUS,99.6
+2010,Percent,urban,Kyzylorda,,,,,KZKZY,100.0
+2010,Percent,urban,Mangistau,,,,,KZMAN,99.8
+2010,Percent,urban,Ontustik Kazakhstan,,,,,KZONT,99.6
+2010,Percent,urban,Pavlodar,,,,,KZPAV,99.9
+2010,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,99.8
+2010,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,99.8
+2010,Percent,urban,Astana city,,,,,KZNS,99.7
+2010,Percent,urban,Almaty city,,,,,KZALA,100.0
+2010,Percent,rural,,,,,,,99.7
+2010,Percent,rural,Akmola,,,,,KZAKM,99.9
+2010,Percent,rural,Aktobe,,,,,KZAKT,99.9
+2010,Percent,rural,Almaty,,,,,KZALM,100.0
+2010,Percent,rural,Atyrau,,,,,KZATY,99.7
+2010,Percent,rural,Batys Kazakhstan,,,,,KZZAP,99.8
+2010,Percent,rural,Zhambyl,,,,,KZZHA,99.6
+2010,Percent,rural,Karagandy,,,,,KZKAR,99.4
+2010,Percent,rural,Kostanay,,,,,KZKUS,99.9
+2010,Percent,rural,Kyzylorda,,,,,KZKZY,99.8
+2010,Percent,rural,Mangistau,,,,,KZMAN,100.0
+2010,Percent,rural,Ontustik Kazakhstan,,,,,KZONT,99.6
+2010,Percent,rural,Pavlodar,,,,,KZPAV,99.9
+2010,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2010,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,99.1
+2011,Percent,,,,,,,,99.9
+2011,Percent,,Akmola,,,,,KZAKM,99.9
+2011,Percent,,Aktobe,,,,,KZAKT,100.0
+2011,Percent,,Almaty,,,,,KZALM,100.0
+2011,Percent,,Atyrau,,,,,KZATY,100.0
+2011,Percent,,Batys Kazakhstan,,,,,KZZAP,99.9
+2011,Percent,,Zhambyl,,,,,KZZHA,99.8
+2011,Percent,,Karagandy,,,,,KZKAR,99.8
+2011,Percent,,Kostanay,,,,,KZKUS,99.9
+2011,Percent,,Kyzylorda,,,,,KZKZY,99.9
+2011,Percent,,Mangistau,,,,,KZMAN,99.8
+2011,Percent,,Ontustik Kazakhstan,,,,,KZONT,99.8
+2011,Percent,,Pavlodar,,,,,KZPAV,99.8
+2011,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2011,Percent,,Shygys Kazakhstan,,,,,KZVOS,99.8
+2011,Percent,,Astana city,,,,,KZNS,99.6
+2011,Percent,,Almaty city,,,,,KZALA,99.9
+2011,Percent,urban,,,,,,,99.9
+2011,Percent,urban,Akmola,,,,,KZAKM,100.0
+2011,Percent,urban,Aktobe,,,,,KZAKT,100.0
+2011,Percent,urban,Almaty,,,,,KZALM,100.0
+2011,Percent,urban,Atyrau,,,,,KZATY,100.0
+2011,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.9
+2011,Percent,urban,Zhambyl,,,,,KZZHA,100.0
+2011,Percent,urban,Karagandy,,,,,KZKAR,99.9
+2011,Percent,urban,Kostanay,,,,,KZKUS,99.9
+2011,Percent,urban,Kyzylorda,,,,,KZKZY,99.9
+2011,Percent,urban,Mangistau,,,,,KZMAN,99.8
+2011,Percent,urban,Ontustik Kazakhstan,,,,,KZONT,99.6
+2011,Percent,urban,Pavlodar,,,,,KZPAV,99.8
+2011,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,100.0
+2011,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,100.0
+2011,Percent,urban,Astana city,,,,,KZNS,99.6
+2011,Percent,urban,Almaty city,,,,,KZALA,99.9
+2011,Percent,rural,,,,,,,99.8
+2011,Percent,rural,Akmola,,,,,KZAKM,99.9
+2011,Percent,rural,Aktobe,,,,,KZAKT,99.9
+2011,Percent,rural,Almaty,,,,,KZALM,100.0
+2011,Percent,rural,Atyrau,,,,,KZATY,100.0
+2011,Percent,rural,Batys Kazakhstan,,,,,KZZAP,100.0
+2011,Percent,rural,Zhambyl,,,,,KZZHA,99.6
+2011,Percent,rural,Karagandy,,,,,KZKAR,99.1
+2011,Percent,rural,Kostanay,,,,,KZKUS,99.9
+2011,Percent,rural,Kyzylorda,,,,,KZKZY,100.0
+2011,Percent,rural,Mangistau,,,,,KZMAN,99.7
+2011,Percent,rural,Ontustik Kazakhstan,,,,,KZONT,99.9
+2011,Percent,rural,Pavlodar,,,,,KZPAV,99.6
+2011,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2011,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,98.9
+2012,Percent,,,,,,,,99.8
+2012,Percent,,Akmola,,,,,KZAKM,99.9
+2012,Percent,,Aktobe,,,,,KZAKT,100.0
+2012,Percent,,Almaty,,,,,KZALM,100.0
+2012,Percent,,Atyrau,,,,,KZATY,99.9
+2012,Percent,,Batys Kazakhstan,,,,,KZZAP,99.8
+2012,Percent,,Zhambyl,,,,,KZZHA,99.9
+2012,Percent,,Karagandy,,,,,KZKAR,99.9
+2012,Percent,,Kostanay,,,,,KZKUS,99.9
+2012,Percent,,Kyzylorda,,,,,KZKZY,99.8
+2012,Percent,,Mangistau,,,,,KZMAN,99.8
+2012,Percent,,Ontustik Kazakhstan,,,,,KZONT,99.7
+2012,Percent,,Pavlodar,,,,,KZPAV,99.8
+2012,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2012,Percent,,Shygys Kazakhstan,,,,,KZVOS,99.8
+2012,Percent,,Astana city,,,,,KZNS,99.6
+2012,Percent,,Almaty city,,,,,KZALA,99.8
+2012,Percent,urban,,,,,,,99.9
+2012,Percent,urban,Akmola,,,,,KZAKM,100.0
+2012,Percent,urban,Aktobe,,,,,KZAKT,100.0
+2012,Percent,urban,Almaty,,,,,KZALM,100.0
+2012,Percent,urban,Atyrau,,,,,KZATY,99.9
+2012,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.8
+2012,Percent,urban,Zhambyl,,,,,KZZHA,100.0
+2012,Percent,urban,Karagandy,,,,,KZKAR,99.9
+2012,Percent,urban,Kostanay,,,,,KZKUS,100.0
+2012,Percent,urban,Kyzylorda,,,,,KZKZY,99.9
+2012,Percent,urban,Mangistau,,,,,KZMAN,99.8
+2012,Percent,urban,Ontustik Kazakhstan,,,,,KZONT,100.0
+2012,Percent,urban,Pavlodar,,,,,KZPAV,99.9
+2012,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2012,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,99.8
+2012,Percent,urban,Astana city,,,,,KZNS,99.6
+2012,Percent,rural,,,,,,,99.5
+2012,Percent,rural,Akmola,,,,,KZAKM,99.9
+2012,Percent,rural,Aktobe,,,,,KZAKT,99.9
+2012,Percent,rural,Almaty,,,,,KZALM,100.0
+2012,Percent,rural,Atyrau,,,,,KZATY,99.7
+2012,Percent,rural,Batys Kazakhstan,,,,,KZZAP,99.7
+2012,Percent,rural,Zhambyl,,,,,KZZHA,99.7
+2012,Percent,rural,Karagandy,,,,,KZKAR,99.5
+2012,Percent,rural,Kostanay,,,,,KZKUS,99.8
+2012,Percent,rural,Kyzylorda,,,,,KZKZY,99.7
+2012,Percent,rural,Mangistau,,,,,KZMAN,99.8
+2012,Percent,rural,Ontustik Kazakhstan,,,,,KZONT,99.1
+2012,Percent,rural,Pavlodar,,,,,KZPAV,99.1
+2012,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2012,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,99.4
+2013,Percent,,,,,,,,99.8
+2013,Percent,,Akmola,,,,,KZAKM,99.9
+2013,Percent,,Aktobe,,,,,KZAKT,100.0
+2013,Percent,,Almaty,,,,,KZALM,100.0
+2013,Percent,,Atyrau,,,,,KZATY,100.0
+2013,Percent,,Batys Kazakhstan,,,,,KZZAP,99.8
+2013,Percent,,Zhambyl,,,,,KZZHA,99.8
+2013,Percent,,Karagandy,,,,,KZKAR,99.8
+2013,Percent,,Kostanay,,,,,KZKUS,100.0
+2013,Percent,,Kyzylorda,,,,,KZKZY,99.6
+2013,Percent,,Mangistau,,,,,KZMAN,99.7
+2013,Percent,,Ontustik Kazakhstan,,,,,KZONT,99.8
+2013,Percent,,Pavlodar,,,,,KZPAV,99.9
+2013,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2013,Percent,,Shygys Kazakhstan,,,,,KZVOS,99.8
+2013,Percent,,Astana city,,,,,KZNS,99.5
+2013,Percent,,Almaty city,,,,,KZALA,100.0
+2013,Percent,urban,,,,,,,99.8
+2013,Percent,urban,Akmola,,,,,KZAKM,100.0
+2013,Percent,urban,Aktobe,,,,,KZAKT,100.0
+2013,Percent,urban,Almaty,,,,,KZALM,100.0
+2013,Percent,urban,Atyrau,,,,,KZATY,100.0
+2013,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.8
+2013,Percent,urban,Zhambyl,,,,,KZZHA,100.0
+2013,Percent,urban,Karagandy,,,,,KZKAR,99.8
+2013,Percent,urban,Kostanay,,,,,KZKUS,100.0
+2013,Percent,urban,Kyzylorda,,,,,KZKZY,99.4
+2013,Percent,urban,Mangistau,,,,,KZMAN,99.7
+2013,Percent,urban,Ontustik Kazakhstan,,,,,KZONT,99.7
+2013,Percent,urban,Pavlodar,,,,,KZPAV,99.9
+2013,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,100.0
+2013,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,99.8
+2013,Percent,urban,Astana city,,,,,KZNS,99.5
+2013,Percent,urban,Almaty city,,,,,KZALA,100.0
+2013,Percent,rural,,,,,,,99.8
+2013,Percent,rural,Akmola,,,,,KZAKM,99.9
+2013,Percent,rural,Aktobe,,,,,KZAKT,99.9
+2013,Percent,rural,Almaty,,,,,KZALM,100.0
+2013,Percent,rural,Atyrau,,,,,KZATY,99.8
+2013,Percent,rural,Batys Kazakhstan,,,,,KZZAP,99.7
+2013,Percent,rural,Zhambyl,,,,,KZZHA,99.4
+2013,Percent,rural,Karagandy,,,,,KZKAR,99.4
+2013,Percent,rural,Kostanay,,,,,KZKUS,100.0
+2013,Percent,rural,Kyzylorda,,,,,KZKZY,99.8
+2013,Percent,rural,Mangistau,,,,,KZMAN,99.7
+2013,Percent,rural,Ontustik Kazakhstan,,,,,KZONT,99.9
+2013,Percent,rural,Pavlodar,,,,,KZPAV,99.3
+2013,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,99.8
+2013,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,99.8
+2014,Percent,,,,,,,,99.7
+2014,Percent,,Akmola,,,,,KZAKM,99.9
+2014,Percent,,Aktobe,,,,,KZAKT,100.0
+2014,Percent,,Almaty,,,,,KZALM,100.0
+2014,Percent,,Atyrau,,,,,KZATY,99.9
+2014,Percent,,Batys Kazakhstan,,,,,KZZAP,99.8
+2014,Percent,,Zhambyl,,,,,KZZHA,99.7
+2014,Percent,,Karagandy,,,,,KZKAR,99.8
+2014,Percent,,Kostanay,,,,,KZKUS,99.9
+2014,Percent,,Kyzylorda,,,,,KZKZY,98.8
+2014,Percent,,Mangistau,,,,,KZMAN,99.8
+2014,Percent,,Ontustik Kazakhstan,,,,,KZONT,99.4
+2014,Percent,,Pavlodar,,,,,KZPAV,99.9
+2014,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.7
+2014,Percent,,Shygys Kazakhstan,,,,,KZVOS,99.9
+2014,Percent,,Astana city,,,,,KZNS,99.7
+2014,Percent,,Almaty city,,,,,KZALA,99.9
+2014,Percent,urban,,,,,,,99.8
+2014,Percent,urban,Akmola,,,,,KZAKM,99.9
+2014,Percent,urban,Aktobe,,,,,KZAKT,100.0
+2014,Percent,urban,Almaty,,,,,KZALM,100.0
+2014,Percent,urban,Atyrau,,,,,KZATY,99.9
+2014,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.8
+2014,Percent,urban,Zhambyl,,,,,KZZHA,99.7
+2014,Percent,urban,Karagandy,,,,,KZKAR,99.8
+2014,Percent,urban,Kostanay,,,,,KZKUS,100.0
+2014,Percent,urban,Kyzylorda,,,,,KZKZY,98.6
+2014,Percent,urban,Mangistau,,,,,KZMAN,99.8
+2014,Percent,urban,Ontustik Kazakhstan,,,,,KZONT,99.4
+2014,Percent,urban,Pavlodar,,,,,KZPAV,99.9
+2014,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,99.8
+2014,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,99.9
+2014,Percent,urban,Astana city,,,,,KZNS,99.7
+2014,Percent,urban,Almaty city,,,,,KZALA,99.9
+2014,Percent,rural,,,,,,,99.5
+2014,Percent,rural,Akmola,,,,,KZAKM,100.0
+2014,Percent,rural,Aktobe,,,,,KZAKT,99.9
+2014,Percent,rural,Almaty,,,,,KZALM,100.0
+2014,Percent,rural,Atyrau,,,,,KZATY,99.9
+2014,Percent,rural,Batys Kazakhstan,,,,,KZZAP,99.6
+2014,Percent,rural,Zhambyl,,,,,KZZHA,99.6
+2014,Percent,rural,Karagandy,,,,,KZKAR,99.6
+2014,Percent,rural,Kostanay,,,,,KZKUS,99.7
+2014,Percent,rural,Kyzylorda,,,,,KZKZY,99.0
+2014,Percent,rural,Mangistau,,,,,KZMAN,99.5
+2014,Percent,rural,Ontustik Kazakhstan,,,,,KZONT,99.3
+2014,Percent,rural,Pavlodar,,,,,KZPAV,99.8
+2014,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,99.4
+2014,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,99.4
+2015,Percent,,,,,,,,99.5
+2015,Percent,,Akmola,,,,,KZAKM,100.0
+2015,Percent,,Aktobe,,,,,KZAKT,100.0
+2015,Percent,,Almaty,,,,,KZALM,100.0
+2015,Percent,,Atyrau,,,,,KZATY,99.9
+2015,Percent,,Batys Kazakhstan,,,,,KZZAP,99.8
+2015,Percent,,Zhambyl,,,,,KZZHA,99.8
+2015,Percent,,Karagandy,,,,,KZKAR,99.7
+2015,Percent,,Kostanay,,,,,KZKUS,99.9
+2015,Percent,,Kyzylorda,,,,,KZKZY,98.9
+2015,Percent,,Mangistau,,,,,KZMAN,99.6
+2015,Percent,,Ontustik Kazakhstan,,,,,KZONT,98.3
+2015,Percent,,Pavlodar,,,,,KZPAV,99.9
+2015,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2015,Percent,,Shygys Kazakhstan,,,,,KZVOS,99.9
+2015,Percent,,Astana city,,,,,KZNS,99.7
+2015,Percent,,Almaty city,,,,,KZALA,100.0
+2015,Percent,urban,,,,,,,99.8
+2015,Percent,urban,Akmola,,,,,KZAKM,99.9
+2015,Percent,urban,Aktobe,,,,,KZAKT,100.0
+2015,Percent,urban,Almaty,,,,,KZALM,100.0
+2015,Percent,urban,Atyrau,,,,,KZATY,99.9
+2015,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.8
+2015,Percent,urban,Zhambyl,,,,,KZZHA,99.8
+2015,Percent,urban,Karagandy,,,,,KZKAR,99.8
+2015,Percent,urban,Kostanay,,,,,KZKUS,99.9
+2015,Percent,urban,Kyzylorda,,,,,KZKZY,99.1
+2015,Percent,urban,Mangistau,,,,,KZMAN,99.7
+2015,Percent,urban,Ontustik Kazakhstan,,,,,KZONT,99.8
+2015,Percent,urban,Pavlodar,,,,,KZPAV,99.9
+2015,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2015,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,99.9
+2015,Percent,urban,Astana city,,,,,KZNS,99.7
+2015,Percent,urban,Almaty city,,,,,KZALA,100.0
+2015,Percent,rural,,,,,,,98.2
+2015,Percent,rural,Akmola,,,,,KZAKM,100.0
+2015,Percent,rural,Aktobe,,,,,KZAKT,100.0
+2015,Percent,rural,Almaty,,,,,KZALM,100.0
+2015,Percent,rural,Atyrau,,,,,KZATY,99.4
+2015,Percent,rural,Batys Kazakhstan,,,,,KZZAP,99.8
+2015,Percent,rural,Zhambyl,,,,,KZZHA,99.7
+2015,Percent,rural,Karagandy,,,,,KZKAR,99.0
+2015,Percent,rural,Kostanay,,,,,KZKUS,99.8
+2015,Percent,rural,Kyzylorda,,,,,KZKZY,98.7
+2015,Percent,rural,Mangistau,,,,,KZMAN,99.0
+2015,Percent,rural,Ontustik Kazakhstan,,,,,KZONT,96.2
+2015,Percent,rural,Pavlodar,,,,,KZPAV,99.3
+2015,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2015,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,99.4
+2016,Percent,,,,,,,,99.9
+2016,Percent,,Akmola,,,,,KZAKM,99.9
+2016,Percent,,Aktobe,,,,,KZAKT,100.0
+2016,Percent,,Almaty,,,,,KZALM,100.0
+2016,Percent,,Atyrau,,,,,KZATY,99.9
+2016,Percent,,Batys Kazakhstan,,,,,KZZAP,99.7
+2016,Percent,,Zhambyl,,,,,KZZHA,99.7
+2016,Percent,,Karagandy,,,,,KZKAR,99.7
+2016,Percent,,Kostanay,,,,,KZKUS,100.0
+2016,Percent,,Kyzylorda,,,,,KZKZY,99.3
+2016,Percent,,Mangistau,,,,,KZMAN,99.7
+2016,Percent,,Ontustik Kazakhstan,,,,,KZONT,100.0
+2016,Percent,,Pavlodar,,,,,KZPAV,99.7
+2016,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.8
+2016,Percent,,Shygys Kazakhstan,,,,,KZVOS,99.9
+2016,Percent,,Astana city,,,,,KZNS,99.8
+2016,Percent,,Almaty city,,,,,KZALA,100.0
+2016,Percent,urban,,,,,,,99.8
+2016,Percent,urban,Akmola,,,,,KZAKM,99.8
+2016,Percent,urban,Aktobe,,,,,KZAKT,100.0
+2016,Percent,urban,Almaty,,,,,KZALM,99.9
+2016,Percent,urban,Atyrau,,,,,KZATY,99.9
+2016,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.8
+2016,Percent,urban,Zhambyl,,,,,KZZHA,99.8
+2016,Percent,urban,Karagandy,,,,,KZKAR,99.7
+2016,Percent,urban,Kostanay,,,,,KZKUS,100.0
+2016,Percent,urban,Kyzylorda,,,,,KZKZY,98.7
+2016,Percent,urban,Mangistau,,,,,KZMAN,99.8
+2016,Percent,urban,Ontustik Kazakhstan,,,,,KZONT,100.0
+2016,Percent,urban,Pavlodar,,,,,KZPAV,99.6
+2016,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2016,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,99.9
+2016,Percent,urban,Astana city,,,,,KZNS,100.0
+2016,Percent,urban,Almaty city,,,,,KZALA,100.0
+2016,Percent,rural,,,,,,,99.9
+2016,Percent,rural,Akmola,,,,,KZAKM,100.0
+2016,Percent,rural,Aktobe,,,,,KZAKT,99.9
+2016,Percent,rural,Almaty,,,,,KZALM,99.9
+2016,Percent,rural,Atyrau,,,,,KZATY,99.9
+2016,Percent,rural,Batys Kazakhstan,,,,,KZZAP,99.9
+2016,Percent,rural,Zhambyl,,,,,KZZHA,99.9
+2016,Percent,rural,Karagandy,,,,,KZKAR,99.7
+2016,Percent,rural,Kostanay,,,,,KZKUS,99.9
+2016,Percent,rural,Kyzylorda,,,,,KZKZY,99.8
+2016,Percent,rural,Mangistau,,,,,KZMAN,100.0
+2016,Percent,rural,Ontustik Kazakhstan,,,,,KZONT,99.1
+2016,Percent,rural,Pavlodar,,,,,KZPAV,99.9
+2016,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,99.7
+2016,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,99.9
+2017,Percent,,,,,,,,99.9
+2017,Percent,,Akmola,,,,,KZAKM,99.8
+2017,Percent,,Aktobe,,,,,KZAKT,100.0
+2017,Percent,,Almaty,,,,,KZALM,99.9
+2017,Percent,,Atyrau,,,,,KZATY,100.0
+2017,Percent,,Batys Kazakhstan,,,,,KZZAP,99.7
+2017,Percent,,Zhambyl,,,,,KZZHA,99.9
+2017,Percent,,Karagandy,,,,,KZKAR,99.7
+2017,Percent,,Kostanay,,,,,KZKUS,100.0
+2017,Percent,,Kyzylorda,,,,,KZKZY,100.0
+2017,Percent,,Mangistau,,,,,KZMAN,99.7
+2017,Percent,,Ontustik Kazakhstan,,,,,KZONT,99.8
+2017,Percent,,Pavlodar,,,,,KZPAV,99.9
+2017,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.8
+2017,Percent,,Shygys Kazakhstan,,,,,KZVOS,99.9
+2017,Percent,,Astana city,,,,,KZNS,99.9
+2017,Percent,,Almaty city,,,,,KZALA,100.0
+2017,Percent,urban,,,,,,,99.9
+2017,Percent,urban,Akmola,,,,,KZAKM,99.2
+2017,Percent,urban,Aktobe,,,,,KZAKT,99.9
+2017,Percent,urban,Almaty,,,,,KZALM,99.9
+2017,Percent,urban,Atyrau,,,,,KZATY,99.9
+2017,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.6
+2017,Percent,urban,Zhambyl,,,,,KZZHA,99.9
+2017,Percent,urban,Karagandy,,,,,KZKAR,99.8
+2017,Percent,urban,Kostanay,,,,,KZKUS,99.9
+2017,Percent,urban,Kyzylorda,,,,,KZKZY,99.9
+2017,Percent,urban,Mangistau,,,,,KZMAN,99.7
+2017,Percent,urban,Ontustik Kazakhstan,,,,,KZONT,99.7
+2017,Percent,urban,Pavlodar,,,,,KZPAV,99.9
+2017,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,99.8
+2017,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,100.0
+2017,Percent,urban,Astana city,,,,,KZNS,100.0
+2017,Percent,urban,Almaty city,,,,,KZALA,100.0
+2017,Percent,rural,,,,,,,99.9
+2017,Percent,rural,Akmola,,,,,KZAKM,94.0
+2017,Percent,rural,Aktobe,,,,,KZAKT,100.0
+2017,Percent,rural,Almaty,,,,,KZALM,99.9
+2017,Percent,rural,Atyrau,,,,,KZATY,99.8
+2017,Percent,rural,Batys Kazakhstan,,,,,KZZAP,99.9
+2017,Percent,rural,Zhambyl,,,,,KZZHA,99.9
+2017,Percent,rural,Karagandy,,,,,KZKAR,98.2
+2017,Percent,rural,Kostanay,,,,,KZKUS,99.9
+2017,Percent,rural,Kyzylorda,,,,,KZKZY,99.9
+2017,Percent,rural,Mangistau,,,,,KZMAN,99.9
+2017,Percent,rural,Ontustik Kazakhstan,,,,,KZONT,99.9
+2017,Percent,rural,Pavlodar,,,,,KZPAV,99.1
+2017,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,99.3
+2017,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,99.4
+2018,Percent,,,,,,,,99.9
+2018,Percent,,Akmola,,,,,KZAKM,99.9
+2018,Percent,,Aktobe,,,,,KZAKT,100.0
+2018,Percent,,Almaty,,,,,KZALM,100.0
+2018,Percent,,Atyrau,,,,,KZATY,100.0
+2018,Percent,,Batys Kazakhstan,,,,,KZZAP,99.8
+2018,Percent,,Zhambyl,,,,,KZZHA,99.9
+2018,Percent,,Karagandy,,,,,KZKAR,99.8
+2018,Percent,,Kostanay,,,,,KZKUS,100.0
+2018,Percent,,Kyzylorda,,,,,KZKZY,100.0
+2018,Percent,,Mangistau,,,,,KZMAN,99.8
+2018,Percent,,Pavlodar,,,,,KZPAV,99.9
+2018,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2018,Percent,,Turkistan,,,,,KZYUZ,99.9
+2018,Percent,,Shygys Kazakhstan,,,,,KZVOS,100.0
+2018,Percent,,Astana city,,,,,KZNS,99.9
+2018,Percent,,Almaty city,,,,,KZALA,100.0
+2018,Percent,,Shymkent city,,,,,KZSHY,99.9
+2018,Percent,urban,,,,,,,99.90285358
+2018,Percent,urban,Akmola,,,,,KZAKM,99.67732177
+2018,Percent,urban,Aktobe,,,,,KZAKT,99.57688453
+2018,Percent,urban,Almaty,,,,,KZALM,99.95825361
+2018,Percent,urban,Atyrau,,,,,KZATY,99.66018124
+2018,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.79395604
+2018,Percent,urban,Zhambyl,,,,,KZZHA,99.92751603
+2018,Percent,urban,Karagandy,,,,,KZKAR,99.71934272
+2018,Percent,urban,Kostanay,,,,,KZKUS,99.96871415
+2018,Percent,urban,Kyzylorda,,,,,KZKZY,99.76907363
+2018,Percent,urban,Mangistau,,,,,KZMAN,99.71410954
+2018,Percent,urban,Pavlodar,,,,,KZPAV,99.83043284
+2018,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,99.74137931
+2018,Percent,urban,Turkistan,,,,,KZYUZ,99.15737212
+2018,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,99.85781028
+2018,Percent,urban,Astana city,,,,,KZNS,99.8
+2018,Percent,urban,Almaty city,,,,,KZALA,99.8
+2018,Percent,urban,Shymkent city,,,,,KZSHY,99.2
+2018,Percent,rural,,,,,,,99.8
+2018,Percent,rural,Akmola,,,,,KZAKM,99.9
+2018,Percent,rural,Aktobe,,,,,KZAKT,99.9
+2018,Percent,rural,Almaty,,,,,KZALM,100.0
+2018,Percent,rural,Atyrau,,,,,KZATY,100.0
+2018,Percent,rural,Batys Kazakhstan,,,,,KZZAP,100.0
+2018,Percent,rural,Zhambyl,,,,,KZZHA,99.9
+2018,Percent,rural,Karagandy,,,,,KZKAR,99.6
+2018,Percent,rural,Kostanay,,,,,KZKUS,99.9
+2018,Percent,rural,Kyzylorda,,,,,KZKZY,99.7
+2018,Percent,rural,Mangistau,,,,,KZMAN,99.3
+2018,Percent,rural,Pavlodar,,,,,KZPAV,99.8
+2018,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,100.0
+2018,Percent,rural,Turkistan,,,,,KZYUZ,99.7
+2018,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,100.0
+2019,Percent,,,,,,,,99.9
+2019,Percent,,Akmola,,,,,KZAKM,99.9
+2019,Percent,,Aktobe,,,,,KZAKT,100.0
+2019,Percent,,Almaty,,,,,KZALM,100.0
+2019,Percent,,Atyrau,,,,,KZATY,100.0
+2019,Percent,,Batys Kazakhstan,,,,,KZZAP,99.8
+2019,Percent,,Zhambyl,,,,,KZZHA,99.9
+2019,Percent,,Karagandy,,,,,KZKAR,99.9
+2019,Percent,,Kostanay,,,,,KZKUS,100.0
+2019,Percent,,Kyzylorda,,,,,KZKZY,100.0
+2019,Percent,,Mangistau,,,,,KZMAN,99.9
+2019,Percent,,Pavlodar,,,,,KZPAV,99.9
+2019,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2019,Percent,,Turkistan,,,,,KZYUZ,99.9
+2019,Percent,,Shygys Kazakhstan,,,,,KZVOS,100.0
+2019,Percent,,Astana city,,,,,KZNS,100.0
+2019,Percent,,Almaty city,,,,,KZALA,100.0
+2019,Percent,,Shymkent city,,,,,KZSHY,99.9
+2019,Percent,urban,,,,,,,99.9
+2019,Percent,urban,Akmola,,,,,KZAKM,99.8
+2019,Percent,urban,Aktobe,,,,,KZAKT,99.7
+2019,Percent,urban,Almaty,,,,,KZALM,100.0
+2019,Percent,urban,Atyrau,,,,,KZATY,99.8
+2019,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.9
+2019,Percent,urban,Zhambyl,,,,,KZZHA,99.9
+2019,Percent,urban,Karagandy,,,,,KZKAR,99.8
+2019,Percent,urban,Kostanay,,,,,KZKUS,100.0
+2019,Percent,urban,Kyzylorda,,,,,KZKZY,99.9
+2019,Percent,urban,Mangistau,,,,,KZMAN,99.8
+2019,Percent,urban,Pavlodar,,,,,KZPAV,99.9
+2019,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,99.8
+2019,Percent,urban,Turkistan,,,,,KZYUZ,99.4
+2019,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,99.9
+2019,Percent,urban,Astana city,,,,,KZNS,99.9
+2019,Percent,urban,Almaty city,,,,,KZALA,99.9
+2019,Percent,urban,Shymkent city,,,,,KZSHY,99.3
+2019,Percent,rural,,,,,,,99.8
+2019,Percent,rural,Akmola,,,,,KZAKM,99.9
+2019,Percent,rural,Aktobe,,,,,KZAKT,99.9
+2019,Percent,rural,Almaty,,,,,KZALM,100.0
+2019,Percent,rural,Atyrau,,,,,KZATY,100.0
+2019,Percent,rural,Batys Kazakhstan,,,,,KZZAP,100.0
+2019,Percent,rural,Zhambyl,,,,,KZZHA,99.9
+2019,Percent,rural,Karagandy,,,,,KZKAR,99.6
+2019,Percent,rural,Kostanay,,,,,KZKUS,99.9
+2019,Percent,rural,Kyzylorda,,,,,KZKZY,99.8
+2019,Percent,rural,Mangistau,,,,,KZMAN,99.4
+2019,Percent,rural,Pavlodar,,,,,KZPAV,99.9
+2019,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,100.0
+2019,Percent,rural,Turkistan,,,,,KZYUZ,99.8
+2019,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,100.0
+2020,Percent,,,,,,,,99.9
+2020,Percent,,Akmola,,,,,KZAKM,99.8
+2020,Percent,,Aktobe,,,,,KZAKT,100.0
+2020,Percent,,Almaty,,,,,KZALM,99.9
+2020,Percent,,Atyrau,,,,,KZATY,99.9
+2020,Percent,,Batys Kazakhstan,,,,,KZZAP,99.7
+2020,Percent,,Zhambyl,,,,,KZZHA,99.7
+2020,Percent,,Karagandy,,,,,KZKAR,99.7
+2020,Percent,,Kostanay,,,,,KZKUS,99.7
+2020,Percent,,Kyzylorda,,,,,KZKZY,99.9
+2020,Percent,,Mangistau,,,,,KZMAN,99.8
+2020,Percent,,Pavlodar,,,,,KZPAV,99.9
+2020,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.8
+2020,Percent,,Turkistan,,,,,KZYUZ,99.9
+2020,Percent,,Shygys Kazakhstan,,,,,KZVOS,99.9
+2020,Percent,,Astana city,,,,,KZNS,99.9
+2020,Percent,,Almaty city,,,,,KZALA,100.0
+2020,Percent,,Shymkent city,,,,,KZSHY,99.9
+2020,Percent,urban,,,,,,,99.9
+2020,Percent,urban,Akmola,,,,,KZAKM,99.9
+2020,Percent,urban,Aktobe,,,,,KZAKT,100.0
+2020,Percent,urban,Almaty,,,,,KZALM,100.0
+2020,Percent,urban,Atyrau,,,,,KZATY,100.0
+2020,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.7
+2020,Percent,urban,Zhambyl,,,,,KZZHA,99.7
+2020,Percent,urban,Karagandy,,,,,KZKAR,99.8
+2020,Percent,urban,Kostanay,,,,,KZKUS,99.8
+2020,Percent,urban,Kyzylorda,,,,,KZKZY,100.0
+2020,Percent,urban,Mangistau,,,,,KZMAN,99.8
+2020,Percent,urban,Pavlodar,,,,,KZPAV,99.9
+2020,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2020,Percent,urban,Turkistan,,,,,KZYUZ,99.9
+2020,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,100.0
+2020,Percent,urban,Astana city,,,,,KZNS,100.0
+2020,Percent,urban,Almaty city,,,,,KZALA,100.0
+2020,Percent,urban,Shymkent city,,,,,KZSHY,100.0
+2020,Percent,rural,,,,,,,99.8
+2020,Percent,rural,Akmola,,,,,KZAKM,99.4
+2020,Percent,rural,Aktobe,,,,,KZAKT,100.0
+2020,Percent,rural,Almaty,,,,,KZALM,99.9
+2020,Percent,rural,Atyrau,,,,,KZATY,99.7
+2020,Percent,rural,Batys Kazakhstan,,,,,KZZAP,99.7
+2020,Percent,rural,Zhambyl,,,,,KZZHA,99.7
+2020,Percent,rural,Karagandy,,,,,KZKAR,98.0
+2020,Percent,rural,Kostanay,,,,,KZKUS,99.5
+2020,Percent,rural,Kyzylorda,,,,,KZKZY,99.8
+2020,Percent,rural,Mangistau,,,,,KZMAN,99.7
+2020,Percent,rural,Pavlodar,,,,,KZPAV,99.2
+2020,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,99.4
+2020,Percent,rural,Turkistan,,,,,KZYUZ,100.0
+2020,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,99.8
+2021,Percent,,,,,,,,99.9
+2021,Percent,,Akmola,,,,,KZAKM,100.0
+2021,Percent,,Aktobe,,,,,KZAKT,99.9
+2021,Percent,,Almaty,,,,,KZALM,100.0
+2021,Percent,,Atyrau,,,,,KZATY,99.9
+2021,Percent,,Batys Kazakhstan,,,,,KZZAP,99.6
+2021,Percent,,Zhambyl,,,,,KZZHA,99.9
+2021,Percent,,Karagandy,,,,,KZKAR,99.8
+2021,Percent,,Kostanay,,,,,KZKUS,99.7
+2021,Percent,,Kyzylorda,,,,,KZKZY,99.9
+2021,Percent,,Mangistau,,,,,KZMAN,99.7
+2021,Percent,,Pavlodar,,,,,KZPAV,100.0
+2021,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2021,Percent,,Turkistan,,,,,KZYUZ,100.0
+2021,Percent,,Shygys Kazakhstan,,,,,KZVOS,99.9
+2021,Percent,,Astana city,,,,,KZNS,99.9
+2021,Percent,,Almaty city,,,,,KZALA,99.9
+2021,Percent,,Shymkent city,,,,,KZSHY,99.9
+2021,Percent,urban,,,,,,,99.9
+2021,Percent,urban,Akmola,,,,,KZAKM,100.0
+2021,Percent,urban,Aktobe,,,,,KZAKT,100.0
+2021,Percent,urban,Almaty,,,,,KZALM,99.9
+2021,Percent,urban,Atyrau,,,,,KZATY,100.0
+2021,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.6
+2021,Percent,urban,Zhambyl,,,,,KZZHA,100.0
+2021,Percent,urban,Karagandy,,,,,KZKAR,99.9
+2021,Percent,urban,Kostanay,,,,,KZKUS,99.8
+2021,Percent,urban,Kyzylorda,,,,,KZKZY,100.0
+2021,Percent,urban,Mangistau,,,,,KZMAN,99.7
+2021,Percent,urban,Pavlodar,,,,,KZPAV,100.0
+2021,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,99.9
+2021,Percent,urban,Turkistan,,,,,KZYUZ,100.0
+2021,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,100.0
+2021,Percent,urban,Astana city,,,,,KZNS,99.9
+2021,Percent,urban,Almaty city,,,,,KZALA,99.9
+2021,Percent,urban,Shymkent city,,,,,KZSHY,99.9
+2021,Percent,rural,,,,,,,99.9
+2021,Percent,rural,Akmola,,,,,KZAKM,100.0
+2021,Percent,rural,Aktobe,,,,,KZAKT,99.6
+2021,Percent,rural,Almaty,,,,,KZALM,100.0
+2021,Percent,rural,Atyrau,,,,,KZATY,99.7
+2021,Percent,rural,Batys Kazakhstan,,,,,KZZAP,99.6
+2021,Percent,rural,Zhambyl,,,,,KZZHA,99.8
+2021,Percent,rural,Karagandy,,,,,KZKAR,95.8
+2021,Percent,rural,Kostanay,,,,,KZKUS,99.5
+2021,Percent,rural,Kyzylorda,,,,,KZKZY,99.7
+2021,Percent,rural,Mangistau,,,,,KZMAN,99.8
+2021,Percent,rural,Pavlodar,,,,,KZPAV,100.0
+2021,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,99.8
+2021,Percent,rural,Turkistan,,,,,KZYUZ,99.9
+2021,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,99.6
+2022,Percent,,,,,,,,99.7
+2022,Percent,,Abai,,,,,KZABY,99.8
+2022,Percent,,Akmola,,,,,KZAKM,100.0
+2022,Percent,,Aktobe,,,,,KZAKT,100.0
+2022,Percent,,Almaty,,,,,KZALM,100.0
+2022,Percent,,Atyrau,,,,,KZATY,99.7
+2022,Percent,,Batys Kazakhstan,,,,,KZZAP,100.0
+2022,Percent,,Zhambyl,,,,,KZZHA,99.9
+2022,Percent,,Zhetisu,,,,,KZZHS,100.0
+2022,Percent,,Karagandy,,,,,KZKAR,99.6
+2022,Percent,,Kostanay,,,,,KZKUS,99.6
+2022,Percent,,Kyzylorda,,,,,KZKZY,99.6
+2022,Percent,,Mangistau,,,,,KZMAN,99.6
+2022,Percent,,Pavlodar,,,,,KZPAV,99.8
+2022,Percent,,Soltustik Kazakhstan,,,,,KZSEV,100.0
+2022,Percent,,Turkistan,,,,,KZYUZ,99.4
+2022,Percent,,Shygys Kazakhstan,,,,,KZVOS,99.7
+2022,Percent,,Ulytau,,,,,KZULU,99.6
+2022,Percent,,Astana city,,,,,KZNS,99.9
+2022,Percent,,Almaty city,,,,,KZALA,99.8
+2022,Percent,,Shymkent city,,,,,KZSHY,99.4
+2022,Percent,urban,,,,,,,99.7
+2022,Percent,urban,Abai,,,,,KZABY,99.8
+2022,Percent,urban,Akmola,,,,,KZAKM,100.1
+2022,Percent,urban,Aktobe,,,,,KZAKT,100.0
+2022,Percent,urban,Almaty,,,,,KZALM,100.3
+2022,Percent,urban,Atyrau,,,,,KZATY,99.7
+2022,Percent,urban,Batys Kazakhstan,,,,,KZZAP,100.0
+2022,Percent,urban,Zhambyl,,,,,KZZHA,99.9
+2022,Percent,urban,Zhetisu,,,,,KZZHS,100.0
+2022,Percent,urban,Karagandy,,,,,KZKAR,99.6
+2022,Percent,urban,Kostanay,,,,,KZKUS,99.6
+2022,Percent,urban,Kyzylorda,,,,,KZKZY,99.3
+2022,Percent,urban,Mangistau,,,,,KZMAN,99.6
+2022,Percent,urban,Pavlodar,,,,,KZPAV,99.8
+2022,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,100.0
+2022,Percent,urban,Turkistan,,,,,KZYUZ,99.5
+2022,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,99.7
+2022,Percent,urban,Ulytau,,,,,KZULU,99.6
+2022,Percent,urban,Astana city,,,,,KZNS,99.9
+2022,Percent,urban,Almaty city,,,,,KZALA,99.8
+2022,Percent,urban,Shymkent city,,,,,KZSHY,99.3
+2022,Percent,rural,,,,,,,99.5
+2022,Percent,rural,Abai,,,,,KZABY,99.6
+2022,Percent,rural,Akmola,,,,,KZAKM,99.5
+2022,Percent,rural,Aktobe,,,,,KZAKT,100.0
+2022,Percent,rural,Almaty,,,,,KZALM,99.8
+2022,Percent,rural,Atyrau,,,,,KZATY,100.0
+2022,Percent,rural,Batys Kazakhstan,,,,,KZZAP,100.0
+2022,Percent,rural,Zhambyl,,,,,KZZHA,100.0
+2022,Percent,rural,Zhetisu,,,,,KZZHS,100.0
+2022,Percent,rural,Karagandy,,,,,KZKAR,100.0
+2022,Percent,rural,Kostanay,,,,,KZKUS,100.0
+2022,Percent,rural,Kyzylorda,,,,,KZKZY,100.0
+2022,Percent,rural,Mangistau,,,,,KZMAN,100.0
+2022,Percent,rural,Pavlodar,,,,,KZPAV,99.8
+2022,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,100.0
+2022,Percent,rural,Turkistan,,,,,KZYUZ,99.3
+2022,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,100.0
+2022,Percent,rural,Ulytau,,,,,KZULU,100.0
+2023,Percent,,,,,,,,98.7
+2023,Percent,,Abai,,,,,KZABY,100.0
+2023,Percent,,Akmola,,,,,KZAKM,94.3
+2023,Percent,,Aktobe,,,,,KZAKT,100.0
+2023,Percent,,Almaty,,,,,KZALM,99.7
+2023,Percent,,Atyrau,,,,,KZATY,98.2
+2023,Percent,,Batys Kazakhstan,,,,,KZZAP,100.0
+2023,Percent,,Zhambyl,,,,,KZZHA,98.6
+2023,Percent,,Zhetisu,,,,,KZZHS,99.0
+2023,Percent,,Karagandy,,,,,KZKAR,99.3
+2023,Percent,,Kostanay,,,,,KZKUS,99.1
+2023,Percent,,Kyzylorda,,,,,KZKZY,98.8
+2023,Percent,,Mangistau,,,,,KZMAN,97.9
+2023,Percent,,Pavlodar,,,,,KZPAV,99.7
+2023,Percent,,Soltustik Kazakhstan,,,,,KZSEV,99.0
+2023,Percent,,Turkistan,,,,,KZYUZ,99.8
+2023,Percent,,Shygys Kazakhstan,,,,,KZVOS,99.8
+2023,Percent,,Ulytau,,,,,KZULU,97.9
+2023,Percent,,Astana city,,,,,KZNS,93.7
+2023,Percent,,Almaty city,,,,,KZALA,98.6
+2023,Percent,,Shymkent city,,,,,KZSHY,100.0
+2023,Percent,urban,,,,,,,98.3
+2023,Percent,urban,Abai,,,,,KZABY,100.0
+2023,Percent,urban,Akmola,,,,,KZAKM,94.2
+2023,Percent,urban,Aktobe,,,,,KZAKT,100.0
+2023,Percent,urban,Almaty,,,,,KZALM,100.0
+2023,Percent,urban,Atyrau,,,,,KZATY,97.5
+2023,Percent,urban,Batys Kazakhstan,,,,,KZZAP,99.9
+2023,Percent,urban,Zhambyl,,,,,KZZHA,99.1
+2023,Percent,urban,Zhetisu,,,,,KZZHS,98.4
+2023,Percent,urban,Karagandy,,,,,KZKAR,99.4
+2023,Percent,urban,Kostanay,,,,,KZKUS,99.0
+2023,Percent,urban,Kyzylorda,,,,,KZKZY,98.4
+2023,Percent,urban,Mangistau,,,,,KZMAN,96.6
+2023,Percent,urban,Pavlodar,,,,,KZPAV,100.1
+2023,Percent,urban,Soltustik Kazakhstan,,,,,KZSEV,99.1
+2023,Percent,urban,Turkistan,,,,,KZYUZ,99.2
+2023,Percent,urban,Shygys Kazakhstan,,,,,KZVOS,99.9
+2023,Percent,urban,Ulytau,,,,,KZULU,97.5
+2023,Percent,urban,Astana city,,,,,KZNS,93.7
+2023,Percent,urban,Almaty city,,,,,KZALA,98.6
+2023,Percent,urban,Shymkent city,,,,,KZSHY,100.0
+2023,Percent,rural,,,,,,,99.3
+2023,Percent,rural,Abai,,,,,KZABY,100.0
+2023,Percent,rural,Akmola,,,,,KZAKM,94.5
+2023,Percent,rural,Aktobe,,,,,KZAKT,100.0
+2023,Percent,rural,Almaty,,,,,KZALM,99.4
+2023,Percent,rural,Atyrau,,,,,KZATY,99.4
+2023,Percent,rural,Batys Kazakhstan,,,,,KZZAP,100.0
+2023,Percent,rural,Zhambyl,,,,,KZZHA,98.2
+2023,Percent,rural,Zhetisu,,,,,KZZHS,99.6
+2023,Percent,rural,Karagandy,,,,,KZKAR,98.6
+2023,Percent,rural,Kostanay,,,,,KZKUS,99.4
+2023,Percent,rural,Kyzylorda,,,,,KZKZY,99.3
+2023,Percent,rural,Mangistau,,,,,KZMAN,99.7
+2023,Percent,rural,Pavlodar,,,,,KZPAV,98.4
+2023,Percent,rural,Soltustik Kazakhstan,,,,,KZSEV,98.8
+2023,Percent,rural,Turkistan,,,,,KZYUZ,100.0
+2023,Percent,rural,Shygys Kazakhstan,,,,,KZVOS,99.7
+2023,Percent,rural,Ulytau,,,,,KZULU,99.8
