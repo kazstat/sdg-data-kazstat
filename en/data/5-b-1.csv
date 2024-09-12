@@ -575,3 +575,633 @@ Year,UNIT_MEASURE,Area,Sex,Regions,GeoCode,Value
 2019,Percent,,,Shymkent city,KZSHY,88.6
 2019,Percent,,Male,Shymkent city,KZSHY,89.3
 2019,Percent,,Female,Shymkent city,KZSHY,88.0
+2020,Percent,,,,,90.5
+2020,Percent,,Male,,,90.9
+2020,Percent,,Female,,,90.1
+2020,Percent,urban,,,,91.8
+2020,Percent,urban,Male,,,92.0
+2020,Percent,urban,Female,,,91.7
+2020,Percent,rural,,,,88.6
+2020,Percent,rural,Male,,,89.5
+2020,Percent,rural,Female,,,87.8
+2020,Percent,,,Akmola,KZAKM,91.0
+2020,Percent,,Male,Akmola,KZAKM,92.5
+2020,Percent,,Female,Akmola,KZAKM,89.5
+2020,Percent,urban,,Akmola,KZAKM,92.6
+2020,Percent,urban,Male,Akmola,KZAKM,94.0
+2020,Percent,urban,Female,Akmola,KZAKM,91.4
+2020,Percent,rural,,Akmola,KZAKM,89.5
+2020,Percent,rural,Male,Akmola,KZAKM,91.3
+2020,Percent,rural,Female,Akmola,KZAKM,87.8
+2020,Percent,,,Aktobe,KZAKT,91.3
+2020,Percent,,Male,Aktobe,KZAKT,90.5
+2020,Percent,,Female,Aktobe,KZAKT,92.1
+2020,Percent,urban,,Aktobe,KZAKT,93.3
+2020,Percent,urban,Male,Aktobe,KZAKT,92.1
+2020,Percent,urban,Female,Aktobe,KZAKT,94.5
+2020,Percent,rural,,Aktobe,KZAKT,86.5
+2020,Percent,rural,Male,Aktobe,KZAKT,86.9
+2020,Percent,rural,Female,Aktobe,KZAKT,86.0
+2020,Percent,,,Almaty,KZALM,95.5
+2020,Percent,,Male,Almaty,KZALM,96.3
+2020,Percent,,Female,Almaty,KZALM,94.6
+2020,Percent,urban,,Almaty,KZALM,93.6
+2020,Percent,urban,Male,Almaty,KZALM,95.0
+2020,Percent,urban,Female,Almaty,KZALM,92.3
+2020,Percent,rural,,Almaty,KZALM,96.0
+2020,Percent,rural,Male,Almaty,KZALM,96.7
+2020,Percent,rural,Female,Almaty,KZALM,95.3
+2020,Percent,,,Atyrau,KZATY,86.6
+2020,Percent,,Male,Atyrau,KZATY,87.6
+2020,Percent,,Female,Atyrau,KZATY,85.6
+2020,Percent,urban,,Atyrau,KZATY,89.1
+2020,Percent,urban,Male,Atyrau,KZATY,89.6
+2020,Percent,urban,Female,Atyrau,KZATY,88.6
+2020,Percent,rural,,Atyrau,KZATY,83.6
+2020,Percent,rural,Male,Atyrau,KZATY,85.3
+2020,Percent,rural,Female,Atyrau,KZATY,81.9
+2020,Percent,,,Batys Kazakhstan,KZZAP,91.0
+2020,Percent,,Male,Batys Kazakhstan,KZZAP,91.2
+2020,Percent,,Female,Batys Kazakhstan,KZZAP,90.9
+2020,Percent,urban,,Batys Kazakhstan,KZZAP,97.2
+2020,Percent,urban,Male,Batys Kazakhstan,KZZAP,97.5
+2020,Percent,urban,Female,Batys Kazakhstan,KZZAP,96.9
+2020,Percent,rural,,Batys Kazakhstan,KZZAP,84.4
+2020,Percent,rural,Male,Batys Kazakhstan,KZZAP,84.9
+2020,Percent,rural,Female,Batys Kazakhstan,KZZAP,83.8
+2020,Percent,,,Zhambyl,KZZHA,83.0
+2020,Percent,,Male,Zhambyl,KZZHA,83.1
+2020,Percent,,Female,Zhambyl,KZZHA,82.9
+2020,Percent,urban,,Zhambyl,KZZHA,78.5
+2020,Percent,urban,Male,Zhambyl,KZZHA,78.0
+2020,Percent,urban,Female,Zhambyl,KZZHA,78.9
+2020,Percent,rural,,Zhambyl,KZZHA,86.0
+2020,Percent,rural,Male,Zhambyl,KZZHA,86.3
+2020,Percent,rural,Female,Zhambyl,KZZHA,85.7
+2020,Percent,,,Karagandy,KZKAR,91.9
+2020,Percent,,Male,Karagandy,KZKAR,93.2
+2020,Percent,,Female,Karagandy,KZKAR,90.8
+2020,Percent,urban,,Karagandy,KZKAR,92.3
+2020,Percent,urban,Male,Karagandy,KZKAR,93.9
+2020,Percent,urban,Female,Karagandy,KZKAR,91.0
+2020,Percent,rural,,Karagandy,KZKAR,90.5
+2020,Percent,rural,Male,Karagandy,KZKAR,90.7
+2020,Percent,rural,Female,Karagandy,KZKAR,90.3
+2020,Percent,,,Kostanay,KZKUS,89.2
+2020,Percent,,Male,Kostanay,KZKUS,87.9
+2020,Percent,,Female,Kostanay,KZKUS,90.4
+2020,Percent,urban,,Kostanay,KZKUS,92.2
+2020,Percent,urban,Male,Kostanay,KZKUS,88.8
+2020,Percent,urban,Female,Kostanay,KZKUS,95.0
+2020,Percent,rural,,Kostanay,KZKUS,85.1
+2020,Percent,rural,Male,Kostanay,KZKUS,86.7
+2020,Percent,rural,Female,Kostanay,KZKUS,83.6
+2020,Percent,,,Kyzylorda,KZKZY,84.7
+2020,Percent,,Male,Kyzylorda,KZKZY,83.9
+2020,Percent,,Female,Kyzylorda,KZKZY,85.5
+2020,Percent,urban,,Kyzylorda,KZKZY,86.3
+2020,Percent,urban,Male,Kyzylorda,KZKZY,85.1
+2020,Percent,urban,Female,Kyzylorda,KZKZY,87.6
+2020,Percent,rural,,Kyzylorda,KZKZY,83.4
+2020,Percent,rural,Male,Kyzylorda,KZKZY,83.0
+2020,Percent,rural,Female,Kyzylorda,KZKZY,83.8
+2020,Percent,,,Mangistau,KZMAN,96.8
+2020,Percent,,Male,Mangistau,KZMAN,97.7
+2020,Percent,,Female,Mangistau,KZMAN,95.9
+2020,Percent,urban,,Mangistau,KZMAN,98.9
+2020,Percent,urban,Male,Mangistau,KZMAN,99.2
+2020,Percent,urban,Female,Mangistau,KZMAN,98.5
+2020,Percent,rural,,Mangistau,KZMAN,95.4
+2020,Percent,rural,Male,Mangistau,KZMAN,96.7
+2020,Percent,rural,Female,Mangistau,KZMAN,94.1
+2020,Percent,,,Pavlodar,KZPAV,90.4
+2020,Percent,,Male,Pavlodar,KZPAV,90.7
+2020,Percent,,Female,Pavlodar,KZPAV,90.2
+2020,Percent,urban,,Pavlodar,KZPAV,91.7
+2020,Percent,urban,Male,Pavlodar,KZPAV,91.3
+2020,Percent,urban,Female,Pavlodar,KZPAV,92.1
+2020,Percent,rural,,Pavlodar,KZPAV,87.3
+2020,Percent,rural,Male,Pavlodar,KZPAV,89.4
+2020,Percent,rural,Female,Pavlodar,KZPAV,85.2
+2020,Percent,,,Soltustik Kazakhstan,KZSEV,91.5
+2020,Percent,,Male,Soltustik Kazakhstan,KZSEV,92.5
+2020,Percent,,Female,Soltustik Kazakhstan,KZSEV,90.6
+2020,Percent,urban,,Soltustik Kazakhstan,KZSEV,92.9
+2020,Percent,urban,Male,Soltustik Kazakhstan,KZSEV,93.6
+2020,Percent,urban,Female,Soltustik Kazakhstan,KZSEV,92.4
+2020,Percent,rural,,Soltustik Kazakhstan,KZSEV,90.3
+2020,Percent,rural,Male,Soltustik Kazakhstan,KZSEV,91.6
+2020,Percent,rural,Female,Soltustik Kazakhstan,KZSEV,89.0
+2020,Percent,,,Turkistan,KZYUZ,86.7
+2020,Percent,,Male,Turkistan,KZYUZ,87.4
+2020,Percent,,Female,Turkistan,KZYUZ,85.9
+2020,Percent,urban,,Turkistan,KZYUZ,90.6
+2020,Percent,urban,Male,Turkistan,KZYUZ,89.7
+2020,Percent,urban,Female,Turkistan,KZYUZ,91.5
+2020,Percent,rural,,Turkistan,KZYUZ,85.7
+2020,Percent,rural,Male,Turkistan,KZYUZ,86.8
+2020,Percent,rural,Female,Turkistan,KZYUZ,84.5
+2020,Percent,,,Shygys Kazakhstan,KZVOS,91.3
+2020,Percent,,Male,Shygys Kazakhstan,KZVOS,91.3
+2020,Percent,,Female,Shygys Kazakhstan,KZVOS,91.2
+2020,Percent,urban,,Shygys Kazakhstan,KZVOS,95.2
+2020,Percent,urban,Male,Shygys Kazakhstan,KZVOS,95.3
+2020,Percent,urban,Female,Shygys Kazakhstan,KZVOS,95.0
+2020,Percent,rural,,Shygys Kazakhstan,KZVOS,84.9
+2020,Percent,rural,Male,Shygys Kazakhstan,KZVOS,85.3
+2020,Percent,rural,Female,Shygys Kazakhstan,KZVOS,84.5
+2020,Percent,,,Astana city,KZNS,96.9
+2020,Percent,,Male,Astana city,KZNS,97.9
+2020,Percent,,Female,Astana city,KZNS,95.9
+2020,Percent,,,Almaty city,KZALA,90.5
+2020,Percent,,Male,Almaty city,KZALA,90.8
+2020,Percent,,Female,Almaty city,KZALA,90.2
+2020,Percent,,,Shymkent city,KZSHY,88.6
+2020,Percent,,Male,Shymkent city,KZSHY,89.1
+2020,Percent,,Female,Shymkent city,KZSHY,88.0
+2021,Percent,,,,,92.6
+2021,Percent,,Male,,,92.7
+2021,Percent,,Female,,,92.5
+2021,Percent,urban,,,,94.0
+2021,Percent,urban,Male,,,93.9
+2021,Percent,urban,Female,,,94.0
+2021,Percent,rural,,,,90.6
+2021,Percent,rural,Male,,,91.0
+2021,Percent,rural,Female,,,90.1
+2021,Percent,,,Akmola,KZAKM,92.9
+2021,Percent,,Male,Akmola,KZAKM,93.0
+2021,Percent,,Female,Akmola,KZAKM,92.8
+2021,Percent,urban,,Akmola,KZAKM,99.2
+2021,Percent,urban,Male,Akmola,KZAKM,98.7
+2021,Percent,urban,Female,Akmola,KZAKM,99.7
+2021,Percent,rural,,Akmola,KZAKM,87.3
+2021,Percent,rural,Male,Akmola,KZAKM,88.3
+2021,Percent,rural,Female,Akmola,KZAKM,86.3
+2021,Percent,,,Aktobe,KZAKT,88.8
+2021,Percent,,Male,Aktobe,KZAKT,89.6
+2021,Percent,,Female,Aktobe,KZAKT,88.0
+2021,Percent,urban,,Aktobe,KZAKT,90.5
+2021,Percent,urban,Male,Aktobe,KZAKT,91.3
+2021,Percent,urban,Female,Aktobe,KZAKT,89.7
+2021,Percent,rural,,Aktobe,KZAKT,84.6
+2021,Percent,rural,Male,Aktobe,KZAKT,85.6
+2021,Percent,rural,Female,Aktobe,KZAKT,83.5
+2021,Percent,,,Almaty,KZALM,93.9
+2021,Percent,,Male,Almaty,KZALM,94.0
+2021,Percent,,Female,Almaty,KZALM,93.8
+2021,Percent,urban,,Almaty,KZALM,91.9
+2021,Percent,urban,Male,Almaty,KZALM,92.1
+2021,Percent,urban,Female,Almaty,KZALM,91.7
+2021,Percent,rural,,Almaty,KZALM,94.5
+2021,Percent,rural,Male,Almaty,KZALM,94.5
+2021,Percent,rural,Female,Almaty,KZALM,94.4
+2021,Percent,,,Atyrau,KZATY,87.7
+2021,Percent,,Male,Atyrau,KZATY,88.6
+2021,Percent,,Female,Atyrau,KZATY,87.0
+2021,Percent,urban,,Atyrau,KZATY,93.1
+2021,Percent,urban,Male,Atyrau,KZATY,94.2
+2021,Percent,urban,Female,Atyrau,KZATY,92.1
+2021,Percent,rural,,Atyrau,KZATY,81.8
+2021,Percent,rural,Male,Atyrau,KZATY,82.7
+2021,Percent,rural,Female,Atyrau,KZATY,81.0
+2021,Percent,,,Batys Kazakhstan,KZZAP,90.1
+2021,Percent,,Male,Batys Kazakhstan,KZZAP,90.3
+2021,Percent,,Female,Batys Kazakhstan,KZZAP,90.0
+2021,Percent,urban,,Batys Kazakhstan,KZZAP,94.3
+2021,Percent,urban,Male,Batys Kazakhstan,KZZAP,94.6
+2021,Percent,urban,Female,Batys Kazakhstan,KZZAP,94.0
+2021,Percent,rural,,Batys Kazakhstan,KZZAP,85.6
+2021,Percent,rural,Male,Batys Kazakhstan,KZZAP,86.0
+2021,Percent,rural,Female,Batys Kazakhstan,KZZAP,85.3
+2021,Percent,,,Zhambyl,KZZHA,91.8
+2021,Percent,,Male,Zhambyl,KZZHA,91.3
+2021,Percent,,Female,Zhambyl,KZZHA,92.3
+2021,Percent,urban,,Zhambyl,KZZHA,94.6
+2021,Percent,urban,Male,Zhambyl,KZZHA,93.7
+2021,Percent,urban,Female,Zhambyl,KZZHA,95.4
+2021,Percent,rural,,Zhambyl,KZZHA,90.0
+2021,Percent,rural,Male,Zhambyl,KZZHA,89.9
+2021,Percent,rural,Female,Zhambyl,KZZHA,90.1
+2021,Percent,,,Karagandy,KZKAR,94.6
+2021,Percent,,Male,Karagandy,KZKAR,95.6
+2021,Percent,,Female,Karagandy,KZKAR,93.6
+2021,Percent,urban,,Karagandy,KZKAR,94.7
+2021,Percent,urban,Male,Karagandy,KZKAR,95.8
+2021,Percent,urban,Female,Karagandy,KZKAR,93.8
+2021,Percent,rural,,Karagandy,KZKAR,94.0
+2021,Percent,rural,Male,Karagandy,KZKAR,95.1
+2021,Percent,rural,Female,Karagandy,KZKAR,92.8
+2021,Percent,,,Kostanay,KZKUS,92.9
+2021,Percent,,Male,Kostanay,KZKUS,91.4
+2021,Percent,,Female,Kostanay,KZKUS,94.2
+2021,Percent,urban,,Kostanay,KZKUS,94.3
+2021,Percent,urban,Male,Kostanay,KZKUS,91.7
+2021,Percent,urban,Female,Kostanay,KZKUS,96.5
+2021,Percent,rural,,Kostanay,KZKUS,90.8
+2021,Percent,rural,Male,Kostanay,KZKUS,90.9
+2021,Percent,rural,Female,Kostanay,KZKUS,90.8
+2021,Percent,,,Kyzylorda,KZKZY,90.4
+2021,Percent,,Male,Kyzylorda,KZKZY,87.9
+2021,Percent,,Female,Kyzylorda,KZKZY,92.9
+2021,Percent,urban,,Kyzylorda,KZKZY,83.7
+2021,Percent,urban,Male,Kyzylorda,KZKZY,78.1
+2021,Percent,urban,Female,Kyzylorda,KZKZY,89.0
+2021,Percent,rural,,Kyzylorda,KZKZY,95.8
+2021,Percent,rural,Male,Kyzylorda,KZKZY,95.3
+2021,Percent,rural,Female,Kyzylorda,KZKZY,96.3
+2021,Percent,,,Mangistau,KZMAN,94.1
+2021,Percent,,Male,Mangistau,KZMAN,94.2
+2021,Percent,,Female,Mangistau,KZMAN,93.9
+2021,Percent,urban,,Mangistau,KZMAN,95.6
+2021,Percent,urban,Male,Mangistau,KZMAN,96.3
+2021,Percent,urban,Female,Mangistau,KZMAN,94.9
+2021,Percent,rural,,Mangistau,KZMAN,93.0
+2021,Percent,rural,Male,Mangistau,KZMAN,92.8
+2021,Percent,rural,Female,Mangistau,KZMAN,93.2
+2021,Percent,,,Pavlodar,KZPAV,94.0
+2021,Percent,,Male,Pavlodar,KZPAV,94.5
+2021,Percent,,Female,Pavlodar,KZPAV,93.5
+2021,Percent,urban,,Pavlodar,KZPAV,94.9
+2021,Percent,urban,Male,Pavlodar,KZPAV,96.0
+2021,Percent,urban,Female,Pavlodar,KZPAV,94.0
+2021,Percent,rural,,Pavlodar,KZPAV,91.7
+2021,Percent,rural,Male,Pavlodar,KZPAV,91.2
+2021,Percent,rural,Female,Pavlodar,KZPAV,92.3
+2021,Percent,,,Soltustik Kazakhstan,KZSEV,92.0
+2021,Percent,,Male,Soltustik Kazakhstan,KZSEV,91.9
+2021,Percent,,Female,Soltustik Kazakhstan,KZSEV,92.1
+2021,Percent,urban,,Soltustik Kazakhstan,KZSEV,91.0
+2021,Percent,urban,Male,Soltustik Kazakhstan,KZSEV,90.9
+2021,Percent,urban,Female,Soltustik Kazakhstan,KZSEV,91.2
+2021,Percent,rural,,Soltustik Kazakhstan,KZSEV,92.9
+2021,Percent,rural,Male,Soltustik Kazakhstan,KZSEV,92.7
+2021,Percent,rural,Female,Soltustik Kazakhstan,KZSEV,93.0
+2021,Percent,,,Turkistan,KZYUZ,88.9
+2021,Percent,,Male,Turkistan,KZYUZ,90.1
+2021,Percent,,Female,Turkistan,KZYUZ,87.6
+2021,Percent,urban,,Turkistan,KZYUZ,91.9
+2021,Percent,urban,Male,Turkistan,KZYUZ,91.1
+2021,Percent,urban,Female,Turkistan,KZYUZ,92.7
+2021,Percent,rural,,Turkistan,KZYUZ,88.1
+2021,Percent,rural,Male,Turkistan,KZYUZ,89.8
+2021,Percent,rural,Female,Turkistan,KZYUZ,86.3
+2021,Percent,,,Shygys Kazakhstan,KZVOS,94.0
+2021,Percent,,Male,Shygys Kazakhstan,KZVOS,93.8
+2021,Percent,,Female,Shygys Kazakhstan,KZVOS,94.2
+2021,Percent,urban,,Shygys Kazakhstan,KZVOS,96.4
+2021,Percent,urban,Male,Shygys Kazakhstan,KZVOS,86.2
+2021,Percent,urban,Female,Shygys Kazakhstan,KZVOS,96.5
+2021,Percent,rural,,Shygys Kazakhstan,KZVOS,90.1
+2021,Percent,rural,Male,Shygys Kazakhstan,KZVOS,90.0
+2021,Percent,rural,Female,Shygys Kazakhstan,KZVOS,90.1
+2021,Percent,,,Astana city,KZNS,96.6
+2021,Percent,,Male,Astana city,KZNS,96.1
+2021,Percent,,Female,Astana city,KZNS,97.0
+2021,Percent,,,Almaty city,KZALA,92.9
+2021,Percent,,Male,Almaty city,KZALA,92.5
+2021,Percent,,Female,Almaty city,KZALA,93.3
+2021,Percent,,,Shymkent city,KZSHY,95.4
+2021,Percent,,Male,Shymkent city,KZSHY,97.4
+2021,Percent,,Female,Shymkent city,KZSHY,93.6
+2022,Percent,,,,,92.7
+2022,Percent,,Male,,,92.8
+2022,Percent,,Female,,,92.6
+2022,Percent,urban,,,,93.9
+2022,Percent,urban,Male,,,93.8
+2022,Percent,urban,Female,,,94.0
+2022,Percent,rural,,,,90.8
+2022,Percent,rural,Male,,,91.4
+2022,Percent,rural,Female,,,90.2
+2022,Percent,,,Akmola,KZAKM,95.0
+2022,Percent,,Male,Akmola,KZAKM,95.2
+2022,Percent,,Female,Akmola,KZAKM,94.7
+2022,Percent,urban,,Akmola,KZAKM,95.7
+2022,Percent,urban,Male,Akmola,KZAKM,95.5
+2022,Percent,urban,Female,Akmola,KZAKM,95.9
+2022,Percent,rural,,Akmola,KZAKM,94.0
+2022,Percent,rural,Male,Akmola,KZAKM,94.9
+2022,Percent,rural,Female,Akmola,KZAKM,93.1
+2022,Percent,,,Aktobe,KZAKT,91.5
+2022,Percent,,Male,Aktobe,KZAKT,91.8
+2022,Percent,,Female,Aktobe,KZAKT,91.3
+2022,Percent,urban,,Aktobe,KZAKT,91.4
+2022,Percent,urban,Male,Aktobe,KZAKT,91.6
+2022,Percent,urban,Female,Aktobe,KZAKT,91.3
+2022,Percent,rural,,Aktobe,KZAKT,91.9
+2022,Percent,rural,Male,Aktobe,KZAKT,92.4
+2022,Percent,rural,Female,Aktobe,KZAKT,91.3
+2022,Percent,,,Almaty,KZALM,96.9
+2022,Percent,,Male,Almaty,KZALM,95.9
+2022,Percent,,Female,Almaty,KZALM,97.9
+2022,Percent,urban,,Almaty,KZALM,96.1
+2022,Percent,urban,Male,Almaty,KZALM,95.0
+2022,Percent,urban,Female,Almaty,KZALM,97.2
+2022,Percent,rural,,Almaty,KZALM,97.1
+2022,Percent,rural,Male,Almaty,KZALM,96.0
+2022,Percent,rural,Female,Almaty,KZALM,98.1
+2022,Percent,,,Atyrau,KZATY,88.9
+2022,Percent,,Male,Atyrau,KZATY,88.0
+2022,Percent,,Female,Atyrau,KZATY,89.9
+2022,Percent,urban,,Atyrau,KZATY,91.5
+2022,Percent,urban,Male,Atyrau,KZATY,90.6
+2022,Percent,urban,Female,Atyrau,KZATY,92.3
+2022,Percent,rural,,Atyrau,KZATY,85.8
+2022,Percent,rural,Male,Atyrau,KZATY,85.0
+2022,Percent,rural,Female,Atyrau,KZATY,86.7
+2022,Percent,,,Batys Kazakhstan,KZZAP,92.1
+2022,Percent,,Male,Batys Kazakhstan,KZZAP,92.2
+2022,Percent,,Female,Batys Kazakhstan,KZZAP,91.9
+2022,Percent,urban,,Batys Kazakhstan,KZZAP,93.4
+2022,Percent,urban,Male,Batys Kazakhstan,KZZAP,92.8
+2022,Percent,urban,Female,Batys Kazakhstan,KZZAP,94.0
+2022,Percent,rural,,Batys Kazakhstan,KZZAP,90.3
+2022,Percent,rural,Male,Batys Kazakhstan,KZZAP,91.6
+2022,Percent,rural,Female,Batys Kazakhstan,KZZAP,89.1
+2022,Percent,,,Zhambyl,KZZHA,87.7
+2022,Percent,,Male,Zhambyl,KZZHA,87.4
+2022,Percent,,Female,Zhambyl,KZZHA,88.0
+2022,Percent,urban,,Zhambyl,KZZHA,95.2
+2022,Percent,urban,Male,Zhambyl,KZZHA,95.2
+2022,Percent,urban,Female,Zhambyl,KZZHA,95.2
+2022,Percent,rural,,Zhambyl,KZZHA,82.0
+2022,Percent,rural,Male,Zhambyl,KZZHA,81.8
+2022,Percent,rural,Female,Zhambyl,KZZHA,82.2
+2022,Percent,,,Karagandy,KZKAR,94.7
+2022,Percent,,Male,Karagandy,KZKAR,95.3
+2022,Percent,,Female,Karagandy,KZKAR,94.1
+2022,Percent,urban,,Karagandy,KZKAR,95.0
+2022,Percent,urban,Male,Karagandy,KZKAR,95.6
+2022,Percent,urban,Female,Karagandy,KZKAR,94.4
+2022,Percent,rural,,Karagandy,KZKAR,93.3
+2022,Percent,rural,Male,Karagandy,KZKAR,94.1
+2022,Percent,rural,Female,Karagandy,KZKAR,92.5
+2022,Percent,,,Kostanay,KZKUS,93.1
+2022,Percent,,Male,Kostanay,KZKUS,93.1
+2022,Percent,,Female,Kostanay,KZKUS,93.2
+2022,Percent,urban,,Kostanay,KZKUS,94.1
+2022,Percent,urban,Male,Kostanay,KZKUS,94.3
+2022,Percent,urban,Female,Kostanay,KZKUS,93.9
+2022,Percent,rural,,Kostanay,KZKUS,91.6
+2022,Percent,rural,Male,Kostanay,KZKUS,91.3
+2022,Percent,rural,Female,Kostanay,KZKUS,91.9
+2022,Percent,,,Kyzylorda,KZKZY,86.9
+2022,Percent,,Male,Kyzylorda,KZKZY,87.4
+2022,Percent,,Female,Kyzylorda,KZKZY,86.4
+2022,Percent,urban,,Kyzylorda,KZKZY,84.1
+2022,Percent,urban,Male,Kyzylorda,KZKZY,84.9
+2022,Percent,urban,Female,Kyzylorda,KZKZY,83.3
+2022,Percent,rural,,Kyzylorda,KZKZY,89.4
+2022,Percent,rural,Male,Kyzylorda,KZKZY,89.6
+2022,Percent,rural,Female,Kyzylorda,KZKZY,89.3
+2022,Percent,,,Mangistau,KZMAN,91.5
+2022,Percent,,Male,Mangistau,KZMAN,92.1
+2022,Percent,,Female,Mangistau,KZMAN,90.9
+2022,Percent,urban,,Mangistau,KZMAN,91.9
+2022,Percent,urban,Male,Mangistau,KZMAN,92.2
+2022,Percent,urban,Female,Mangistau,KZMAN,91.6
+2022,Percent,rural,,Mangistau,KZMAN,91.2
+2022,Percent,rural,Male,Mangistau,KZMAN,92.0
+2022,Percent,rural,Female,Mangistau,KZMAN,90.3
+2022,Percent,,,Pavlodar,KZPAV,95.3
+2022,Percent,,Male,Pavlodar,KZPAV,94.7
+2022,Percent,,Female,Pavlodar,KZPAV,95.8
+2022,Percent,urban,,Pavlodar,KZPAV,96.2
+2022,Percent,urban,Male,Pavlodar,KZPAV,95.8
+2022,Percent,urban,Female,Pavlodar,KZPAV,96.5
+2022,Percent,rural,,Pavlodar,KZPAV,92.9
+2022,Percent,rural,Male,Pavlodar,KZPAV,92.1
+2022,Percent,rural,Female,Pavlodar,KZPAV,93.8
+2022,Percent,,,Soltustik Kazakhstan,KZSEV,91.6
+2022,Percent,,Male,Soltustik Kazakhstan,KZSEV,90.3
+2022,Percent,,Female,Soltustik Kazakhstan,KZSEV,92.8
+2022,Percent,urban,,Soltustik Kazakhstan,KZSEV,92.0
+2022,Percent,urban,Male,Soltustik Kazakhstan,KZSEV,90.1
+2022,Percent,urban,Female,Soltustik Kazakhstan,KZSEV,93.6
+2022,Percent,rural,,Soltustik Kazakhstan,KZSEV,91.1
+2022,Percent,rural,Male,Soltustik Kazakhstan,KZSEV,90.4
+2022,Percent,rural,Female,Soltustik Kazakhstan,KZSEV,91.9
+2022,Percent,,,Turkistan,KZYUZ,86.6
+2022,Percent,,Male,Turkistan,KZYUZ,88.6
+2022,Percent,,Female,Turkistan,KZYUZ,84.6
+2022,Percent,urban,,Turkistan,KZYUZ,87.2
+2022,Percent,urban,Male,Turkistan,KZYUZ,86.4
+2022,Percent,urban,Female,Turkistan,KZYUZ,88.1
+2022,Percent,rural,,Turkistan,KZYUZ,86.4
+2022,Percent,rural,Male,Turkistan,KZYUZ,89.2
+2022,Percent,rural,Female,Turkistan,KZYUZ,83.5
+2022,Percent,,,Shygys Kazakhstan,KZVOS,96.3
+2022,Percent,,Male,Shygys Kazakhstan,KZVOS,97.1
+2022,Percent,,Female,Shygys Kazakhstan,KZVOS,95.6
+2022,Percent,urban,,Shygys Kazakhstan,KZVOS,96.0
+2022,Percent,urban,Male,Shygys Kazakhstan,KZVOS,96.6
+2022,Percent,urban,Female,Shygys Kazakhstan,KZVOS,95.4
+2022,Percent,rural,,Shygys Kazakhstan,KZVOS,96.9
+2022,Percent,rural,Male,Shygys Kazakhstan,KZVOS,97.9
+2022,Percent,rural,Female,Shygys Kazakhstan,KZVOS,95.9
+2022,Percent,,,Astana city,KZNS,99.0
+2022,Percent,,Male,Astana city,KZNS,98.8
+2022,Percent,,Female,Astana city,KZNS,99.3
+2022,Percent,,,Almaty city,KZALA,94.1
+2022,Percent,,Male,Almaty city,KZALA,93.9
+2022,Percent,,Female,Almaty city,KZALA,94.3
+2022,Percent,,,Shymkent city,KZSHY,91.7
+2022,Percent,,Male,Shymkent city,KZSHY,91.7
+2022,Percent,,Female,Shymkent city,KZSHY,91.7
+2022,Percent,,,Abai,KZABY,95.7
+2022,Percent,,Male,Abai,KZABY,96.7
+2022,Percent,,Female,Abai,KZABY,94.8
+2022,Percent,urban,,Abai,KZABY,95.5
+2022,Percent,urban,Male,Abai,KZABY,95.7
+2022,Percent,urban,Female,Abai,KZABY,95.3
+2022,Percent,rural,,Abai,KZABY,96.0
+2022,Percent,rural,Male,Abai,KZABY,98.0
+2022,Percent,rural,Female,Abai,KZABY,94.0
+2022,Percent,,,Zhetisu,KZZHS,93.3
+2022,Percent,,Male,Zhetisu,KZZHS,94.6
+2022,Percent,,Female,Zhetisu,KZZHS,92.1
+2022,Percent,urban,,Zhetisu,KZZHS,91.3
+2022,Percent,urban,Male,Zhetisu,KZZHS,92.8
+2022,Percent,urban,Female,Zhetisu,KZZHS,90.0
+2022,Percent,rural,,Zhetisu,KZZHS,94.9
+2022,Percent,rural,Male,Zhetisu,KZZHS,95.9
+2022,Percent,rural,Female,Zhetisu,KZZHS,93.9
+2022,Percent,,,Ulytau,KZULU,95.8
+2022,Percent,,Male,Ulytau,KZULU,95.5
+2022,Percent,,Female,Ulytau,KZULU,96.1
+2022,Percent,urban,,Ulytau,KZULU,97.8
+2022,Percent,urban,Male,Ulytau,KZULU,97.1
+2022,Percent,urban,Female,Ulytau,KZULU,98.4
+2022,Percent,rural,,Ulytau,KZULU,88.3
+2022,Percent,rural,Male,Ulytau,KZULU,89.8
+2022,Percent,rural,Female,Ulytau,KZULU,86.8
+2023,Percent,,,,,92.8
+2023,Percent,,Male,,,93.4
+2023,Percent,,Female,,,92.2
+2023,Percent,urban,,,,94.3
+2023,Percent,urban,Male,,,95.2
+2023,Percent,urban,Female,,,93.6
+2023,Percent,rural,,,,90.2
+2023,Percent,rural,Male,,,90.7
+2023,Percent,rural,Female,,,89.7
+2023,Percent,,,Akmola,KZAKM,97.0
+2023,Percent,,Male,Akmola,KZAKM,98.0
+2023,Percent,,Female,Akmola,KZAKM,96.1
+2023,Percent,urban,,Akmola,KZAKM,96.9
+2023,Percent,urban,Male,Akmola,KZAKM,98.2
+2023,Percent,urban,Female,Akmola,KZAKM,95.8
+2023,Percent,rural,,Akmola,KZAKM,97.1
+2023,Percent,rural,Male,Akmola,KZAKM,97.7
+2023,Percent,rural,Female,Akmola,KZAKM,96.5
+2023,Percent,,,Aktobe,KZAKT,95.3
+2023,Percent,,Male,Aktobe,KZAKT,95.7
+2023,Percent,,Female,Aktobe,KZAKT,94.9
+2023,Percent,urban,,Aktobe,KZAKT,97.1
+2023,Percent,urban,Male,Aktobe,KZAKT,97.8
+2023,Percent,urban,Female,Aktobe,KZAKT,96.5
+2023,Percent,rural,,Aktobe,KZAKT,89.9
+2023,Percent,rural,Male,Aktobe,KZAKT,90.0
+2023,Percent,rural,Female,Aktobe,KZAKT,89.7
+2023,Percent,,,Almaty,KZALM,94.3
+2023,Percent,,Male,Almaty,KZALM,94.5
+2023,Percent,,Female,Almaty,KZALM,94.1
+2023,Percent,urban,,Almaty,KZALM,97.9
+2023,Percent,urban,Male,Almaty,KZALM,98.1
+2023,Percent,urban,Female,Almaty,KZALM,97.7
+2023,Percent,rural,,Almaty,KZALM,93.7
+2023,Percent,rural,Male,Almaty,KZALM,93.9
+2023,Percent,rural,Female,Almaty,KZALM,93.4
+2023,Percent,,,Atyrau,KZATY,88.9
+2023,Percent,,Male,Atyrau,KZATY,89.4
+2023,Percent,,Female,Atyrau,KZATY,88.5
+2023,Percent,urban,,Atyrau,KZATY,92.8
+2023,Percent,urban,Male,Atyrau,KZATY,93.1
+2023,Percent,urban,Female,Atyrau,KZATY,92.6
+2023,Percent,rural,,Atyrau,KZATY,84.2
+2023,Percent,rural,Male,Atyrau,KZATY,85.2
+2023,Percent,rural,Female,Atyrau,KZATY,83.1
+2023,Percent,,,Batys Kazakhstan,KZZAP,97.5
+2023,Percent,,Male,Batys Kazakhstan,KZZAP,97.5
+2023,Percent,,Female,Batys Kazakhstan,KZZAP,97.4
+2023,Percent,urban,,Batys Kazakhstan,KZZAP,98.7
+2023,Percent,urban,Male,Batys Kazakhstan,KZZAP,99.2
+2023,Percent,urban,Female,Batys Kazakhstan,KZZAP,98.3
+2023,Percent,rural,,Batys Kazakhstan,KZZAP,95.8
+2023,Percent,rural,Male,Batys Kazakhstan,KZZAP,95.5
+2023,Percent,rural,Female,Batys Kazakhstan,KZZAP,96.2
+2023,Percent,,,Zhambyl,KZZHA,85.6
+2023,Percent,,Male,Zhambyl,KZZHA,86.8
+2023,Percent,,Female,Zhambyl,KZZHA,84.5
+2023,Percent,urban,,Zhambyl,KZZHA,93.1
+2023,Percent,urban,Male,Zhambyl,KZZHA,95.0
+2023,Percent,urban,Female,Zhambyl,KZZHA,91.4
+2023,Percent,rural,,Zhambyl,KZZHA,79.9
+2023,Percent,rural,Male,Zhambyl,KZZHA,81.0
+2023,Percent,rural,Female,Zhambyl,KZZHA,78.9
+2023,Percent,,,Karagandy,KZKAR,92.5
+2023,Percent,,Male,Karagandy,KZKAR,92.1
+2023,Percent,,Female,Karagandy,KZKAR,92.8
+2023,Percent,urban,,Karagandy,KZKAR,96.5
+2023,Percent,urban,Male,Karagandy,KZKAR,96.4
+2023,Percent,urban,Female,Karagandy,KZKAR,96.6
+2023,Percent,rural,,Karagandy,KZKAR,74.8
+2023,Percent,rural,Male,Karagandy,KZKAR,74.9
+2023,Percent,rural,Female,Karagandy,KZKAR,74.7
+2023,Percent,,,Kostanay,KZKUS,98.4
+2023,Percent,,Male,Kostanay,KZKUS,98.2
+2023,Percent,,Female,Kostanay,KZKUS,98.6
+2023,Percent,urban,,Kostanay,KZKUS,98.8
+2023,Percent,urban,Male,Kostanay,KZKUS,98.3
+2023,Percent,urban,Female,Kostanay,KZKUS,99.2
+2023,Percent,rural,,Kostanay,KZKUS,97.8
+2023,Percent,rural,Male,Kostanay,KZKUS,97.9
+2023,Percent,rural,Female,Kostanay,KZKUS,97.7
+2023,Percent,,,Kyzylorda,KZKZY,93.6
+2023,Percent,,Male,Kyzylorda,KZKZY,93.5
+2023,Percent,,Female,Kyzylorda,KZKZY,93.6
+2023,Percent,urban,,Kyzylorda,KZKZY,96.0
+2023,Percent,urban,Male,Kyzylorda,KZKZY,95.7
+2023,Percent,urban,Female,Kyzylorda,KZKZY,96.3
+2023,Percent,rural,,Kyzylorda,KZKZY,91.4
+2023,Percent,rural,Male,Kyzylorda,KZKZY,91.7
+2023,Percent,rural,Female,Kyzylorda,KZKZY,91.1
+2023,Percent,,,Mangistau,KZMAN,93.7
+2023,Percent,,Male,Mangistau,KZMAN,94.2
+2023,Percent,,Female,Mangistau,KZMAN,93.2
+2023,Percent,urban,,Mangistau,KZMAN,92.8
+2023,Percent,urban,Male,Mangistau,KZMAN,93.4
+2023,Percent,urban,Female,Mangistau,KZMAN,92.2
+2023,Percent,rural,,Mangistau,KZMAN,94.4
+2023,Percent,rural,Male,Mangistau,KZMAN,94.8
+2023,Percent,rural,Female,Mangistau,KZMAN,94.0
+2023,Percent,,,Pavlodar,KZPAV,95.1
+2023,Percent,,Male,Pavlodar,KZPAV,95.3
+2023,Percent,,Female,Pavlodar,KZPAV,94.9
+2023,Percent,urban,,Pavlodar,KZPAV,96.2
+2023,Percent,urban,Male,Pavlodar,KZPAV,96.6
+2023,Percent,urban,Female,Pavlodar,KZPAV,95.8
+2023,Percent,rural,,Pavlodar,KZPAV,92.4
+2023,Percent,rural,Male,Pavlodar,KZPAV,92.3
+2023,Percent,rural,Female,Pavlodar,KZPAV,92.4
+2023,Percent,,,Soltustik Kazakhstan,KZSEV,94.9
+2023,Percent,,Male,Soltustik Kazakhstan,KZSEV,95.7
+2023,Percent,,Female,Soltustik Kazakhstan,KZSEV,94.1
+2023,Percent,urban,,Soltustik Kazakhstan,KZSEV,97.4
+2023,Percent,urban,Male,Soltustik Kazakhstan,KZSEV,97.6
+2023,Percent,urban,Female,Soltustik Kazakhstan,KZSEV,97.3
+2023,Percent,rural,,Soltustik Kazakhstan,KZSEV,92.5
+2023,Percent,rural,Male,Soltustik Kazakhstan,KZSEV,94.0
+2023,Percent,rural,Female,Soltustik Kazakhstan,KZSEV,91.0
+2023,Percent,,,Turkistan,KZYUZ,88.6
+2023,Percent,,Male,Turkistan,KZYUZ,89.0
+2023,Percent,,Female,Turkistan,KZYUZ,88.2
+2023,Percent,urban,,Turkistan,KZYUZ,91.7
+2023,Percent,urban,Male,Turkistan,KZYUZ,91.1
+2023,Percent,urban,Female,Turkistan,KZYUZ,92.3
+2023,Percent,rural,,Turkistan,KZYUZ,87.6
+2023,Percent,rural,Male,Turkistan,KZYUZ,88.4
+2023,Percent,rural,Female,Turkistan,KZYUZ,86.9
+2023,Percent,,,Shygys Kazakhstan,KZVOS,93.2
+2023,Percent,,Male,Shygys Kazakhstan,KZVOS,93.4
+2023,Percent,,Female,Shygys Kazakhstan,KZVOS,93.0
+2023,Percent,urban,,Shygys Kazakhstan,KZVOS,94.2
+2023,Percent,urban,Male,Shygys Kazakhstan,KZVOS,95.3
+2023,Percent,urban,Female,Shygys Kazakhstan,KZVOS,93.3
+2023,Percent,rural,,Shygys Kazakhstan,KZVOS,91.2
+2023,Percent,rural,Male,Shygys Kazakhstan,KZVOS,90.0
+2023,Percent,rural,Female,Shygys Kazakhstan,KZVOS,92.4
+2023,Percent,,,Astana city,KZNS,96.9
+2023,Percent,,Male,Astana city,KZNS,97.3
+2023,Percent,,Female,Astana city,KZNS,96.6
+2023,Percent,,,Almaty city,KZALA,86.4
+2023,Percent,,Male,Almaty city,KZALA,88.6
+2023,Percent,,Female,Almaty city,KZALA,84.6
+2023,Percent,,,Shymkent city,KZSHY,97.6
+2023,Percent,,Male,Shymkent city,KZSHY,98.4
+2023,Percent,,Female,Shymkent city,KZSHY,96.9
+2023,Percent,,,Abai,KZABY,94.1
+2023,Percent,,Male,Abai,KZABY,95.2
+2023,Percent,,Female,Abai,KZABY,93.0
+2023,Percent,urban,,Abai,KZABY,94.9
+2023,Percent,urban,Male,Abai,KZABY,96.5
+2023,Percent,urban,Female,Abai,KZABY,93.5
+2023,Percent,rural,,Abai,KZABY,92.8
+2023,Percent,rural,Male,Abai,KZABY,93.4
+2023,Percent,rural,Female,Abai,KZABY,92.3
+2023,Percent,,,Zhetisu,KZZHS,93.3
+2023,Percent,,Male,Zhetisu,KZZHS,94.5
+2023,Percent,,Female,Zhetisu,KZZHS,92.1
+2023,Percent,urban,,Zhetisu,KZZHS,93.4
+2023,Percent,urban,Male,Zhetisu,KZZHS,94.2
+2023,Percent,urban,Female,Zhetisu,KZZHS,92.7
+2023,Percent,rural,,Zhetisu,KZZHS,93.2
+2023,Percent,rural,Male,Zhetisu,KZZHS,94.8
+2023,Percent,rural,Female,Zhetisu,KZZHS,91.6
+2023,Percent,,,Ulytau,KZULU,97.1
+2023,Percent,,Male,Ulytau,KZULU,98.2
+2023,Percent,,Female,Ulytau,KZULU,96.1
+2023,Percent,urban,,Ulytau,KZULU,98.6
+2023,Percent,urban,Male,Ulytau,KZULU,99.1
+2023,Percent,urban,Female,Ulytau,KZULU,98.2
+2023,Percent,rural,,Ulytau,KZULU,91.3
+2023,Percent,rural,Male,Ulytau,KZULU,95.0
+2023,Percent,rural,Female,Ulytau,KZULU,87.4
