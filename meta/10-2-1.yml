@@ -1,5 +1,5 @@
 availability: 1
-classification: 3
+classification: 2
 comments_limitations: comments_limitations.10-2-1
 computation_calculations: computation_calculations.10-2-1
 computation_definitions: computation_definitions.10-2-1
@@ -21,4 +21,4 @@ source_compilation_1: sources.10-2-1-source_compilation_1
 source_data_1: null
 source_implementation_1: sources.10-2-1-source_implementation_1
 un_custodian_agency: United Nations Children's Fund (UNICEF) World Bank (WB)
-un_designated_tier: '3'
+un_designated_tier: '2'
