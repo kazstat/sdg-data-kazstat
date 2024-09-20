@@ -1,6 +1,6 @@
 Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
 _L_ACT_ELWPP,без учета больших ГЭС,үлкен ГЭС есепке алмағанда,excluding large water-power-plant,1,1
-_L_ACT_ILWPP,с учетом больших ГЭС,ірі ГЭС есепке алғанда,including large water-power-plant,17,1
+_L_ACT_ILWPP,с учетом больших ГЭС,ірі ГЭС есепке алғанда,including large water-power-plant,20,1
 _L_ACT_IND,промышленность,өнеркәсіп,Industry,4,2
 _T,всего,барлығы,No breakdown,3,1
 ISIC4_A,"сельское, лесное и рыбное хозяйство","ауыл, орман және балық шаруашылығы","agriculture, forestry and fishery",4,2
