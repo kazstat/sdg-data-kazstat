@@ -12,17 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "Unit of measure"
           },
           {
             "name": "SERIES",
-            "type": "string",
+            "type": "number",
             "title": "SDG Series"
           },
           {
@@ -30,17 +30,18 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Abai",
                 "Akmola",
                 "Aktobe",
                 "Almaty",
                 "Atyrau",
                 "Batys Kazakhstan",
                 "Zhambyl",
+                "Zhetisu",
                 "Karagandy",
                 "Kostanay",
                 "Kyzylorda",
                 "Mangistau",
-                "Ontustik Kazakhstan",
                 "Pavlodar",
                 "Soltustik Kazakhstan",
                 "Turkistan",

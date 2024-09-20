@@ -4626,32 +4626,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "KZABY",
                 "KZAKM",
                 "KZAKT",
                 "KZALM",
                 "KZATY",
                 "KZZAP",
                 "KZZHA",
+                "KZZHS",
                 "KZKAR",
                 "KZKUS",
                 "KZKZY",
                 "KZMAN",
-                "KZONT",
                 "KZPAV",
                 "KZSEV",
                 "KZYUZ",

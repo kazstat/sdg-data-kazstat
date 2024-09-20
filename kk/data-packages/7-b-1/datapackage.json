@@ -12,17 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Жыл"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "UNIT_MEASURE"
           },
           {
             "name": "SERIES",
-            "type": "string",
+            "type": "number",
             "title": "SERIES"
           },
           {
@@ -30,17 +30,18 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Абай",
                 "Ақмола",
                 "Ақтөбе",
                 "Алматы",
                 "Атырау",
                 "Батыс Қазақстан",
                 "Жамбыл",
+                "Жетісу",
                 "Қарағанды",
                 "Қостанай",
                 "Қызылорда",
                 "Маңғыстау",
-                "Оңтүстік Қазақстан",
                 "Павлодар",
                 "Солтүстік Қазақстан",
                 "Түркістан",
