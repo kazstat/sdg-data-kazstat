@@ -5072,18 +5072,13 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number",
+            "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "SERIES",
-            "type": "number",
-            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",

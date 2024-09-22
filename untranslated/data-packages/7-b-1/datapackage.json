@@ -12,15 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number"
-          },
-          {
-            "name": "SERIES",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "REF_AREA",
