@@ -3698,7 +3698,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -10605,6 +10605,9 @@
                 "KZALA",
                 "KZYUZ",
                 "KZSHY",
+                "KZABY",
+                "KZZHS",
+                "KZULU",
                 ""
               ]
             }
