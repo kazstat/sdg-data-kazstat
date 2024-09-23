@@ -5,7 +5,7 @@ COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,Composite breakdown,
 EDUCATION_LEV,образование матери,ана білімі,Mother's education,5,8
 INCOME_WEALTH_QUANTILE,квинтиль индекса благосостояния,Квинтильді әл-ауқат индексі,Wealth index quintile,3,5
 REF_AREA,Регионы,Өңірлер,Regions,71,74
-SERIES,SERIES,SERIES,SDG Series,27,107
+SERIES,SERIES,SERIES,SDG Series,27,108
 SEX,Пол,Жынысы,Sex,31,5
 UNIT_MEASURE,UNIT_MEASURE,UNIT_MEASURE,Unit of measure,181,32
 Units,Units,Units,Units,1,1
