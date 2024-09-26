@@ -4,7 +4,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2010,thousand of tenge,_L_KZ_010502_1A,Aktobe,KZAKT,5055.0
 2010,thousand of tenge,_L_KZ_010502_1A,Almaty,KZALM,900.0
 2010,thousand of tenge,_L_KZ_010502_1A,Atyrau,KZATY,0.0
-2010,thousand of tenge,_L_KZ_010502_1AKZZAP,0.0,0.0,
+2010,thousand of tenge,_L_KZ_010502_1AKZZAP,,,0.0
 2010,thousand of tenge,_L_KZ_010502_1A,Zhambyl,KZZHA,60.8
 2010,thousand of tenge,_L_KZ_010502_1A,Karagandy,KZKAR,11256.0
 2010,thousand of tenge,_L_KZ_010502_1A,Kostanay,KZKUS,20900.0
@@ -430,3 +430,58 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2021,thousand of tenge,_L_KZ_010502_1B,Astana city,KZNS,0.0
 2021,thousand of tenge,_L_KZ_010502_1B,Almaty city,KZALA,1897224.3
 2021,thousand of tenge,_L_KZ_010502_1B,Shymkent city,KZSHY,373171.7
+2022,thousand of tenge,_L_KZ_010502_1A,,,16433075.2
+2022,thousand of tenge,_L_KZ_010502_1A,Abai,KZABY,783379.4
+2022,thousand of tenge,_L_KZ_010502_1A,Akmola,KZAKM,60534.3
+2022,thousand of tenge,_L_KZ_010502_1A,Aktobe,KZAKT,1020331.5
+2022,thousand of tenge,_L_KZ_010502_1A,Almaty,KZALM,266769.0
+2022,thousand of tenge,_L_KZ_010502_1A,Atyrau,KZATY,334914.0
+2022,thousand of tenge,_L_KZ_010502_1A,Batys Kazakhstan,KZZAP,1054607.4
+2022,thousand of tenge,_L_KZ_010502_1A,Zhambyl,KZZHA,141218.0
+2022,thousand of tenge,_L_KZ_010502_1A,Zhetisu,KZZHS,244716.7
+2022,thousand of tenge,_L_KZ_010502_1A,Karagandy,KZKAR,156206.6
+2022,thousand of tenge,_L_KZ_010502_1A,Kostanay,KZKUS,631204.5
+2022,thousand of tenge,_L_KZ_010502_1A,Kyzylorda,KZKZY,30698.4
+2022,thousand of tenge,_L_KZ_010502_1A,Mangistau,KZMAN,3893.3
+2022,thousand of tenge,_L_KZ_010502_1A,Pavlodar,KZPAV,491405.4
+2022,thousand of tenge,_L_KZ_010502_1A,Soltustik Kazakhstan,KZSEV,48080.1
+2022,thousand of tenge,_L_KZ_010502_1A,Turkistan,KZYUZ,1860077.3
+2022,thousand of tenge,_L_KZ_010502_1A,Ulytau,KZULU,53388.4
+2022,thousand of tenge,_L_KZ_010502_1A,Shygys Kazakhstan,KZVOS,109849.2
+2022,thousand of tenge,_L_KZ_010502_1A,Almaty city,KZALA,9141801.7
+2022,thousand of tenge,_L_KZ_010502_1B,,,29195289.3
+2022,thousand of tenge,_L_KZ_010502_1B,Abai,KZABY,26890766.8
+2022,thousand of tenge,_L_KZ_010502_1B,Almaty,KZALM,333447.0
+2022,thousand of tenge,_L_KZ_010502_1B,Batys Kazakhstan,KZZAP,43610.8
+2022,thousand of tenge,_L_KZ_010502_1B,Zhambyl,KZZHA,491873.3
+2022,thousand of tenge,_L_KZ_010502_1B,Zhetisu,KZZHS,249342.4
+2022,thousand of tenge,_L_KZ_010502_1B,Karagandy,KZKAR,81985.9
+2022,thousand of tenge,_L_KZ_010502_1B,Kyzylorda,KZKZY,332261.0
+2022,thousand of tenge,_L_KZ_010502_1B,Pavlodar,KZPAV,321796.1
+2022,thousand of tenge,_L_KZ_010502_1B,Ulytau,KZULU,16033.0
+2022,thousand of tenge,_L_KZ_010502_1B,Shygys Kazakhstan,KZVOS,269319.2
+2022,thousand of tenge,_L_KZ_010502_1B,Almaty city,KZALA,164853.8
+2023,thousand of tenge,_L_KZ_010502_1A,,,16778361.5
+2023,thousand of tenge,_L_KZ_010502_1A,Abai,KZABY,71020.6
+2023,thousand of tenge,_L_KZ_010502_1A,Akmola,KZAKM,192490.1
+2023,thousand of tenge,_L_KZ_010502_1A,Aktobe,KZAKT,6708704.8
+2023,thousand of tenge,_L_KZ_010502_1A,Zhambyl,KZZHA,903983.3
+2023,thousand of tenge,_L_KZ_010502_1A,Zhetisu,KZZHS,526088.4
+2023,thousand of tenge,_L_KZ_010502_1A,Karagandy,KZKAR,1151618.2
+2023,thousand of tenge,_L_KZ_010502_1A,Kostanay,KZKUS,403317.0
+2023,thousand of tenge,_L_KZ_010502_1A,Kyzylorda,KZKZY,223357.6
+2023,thousand of tenge,_L_KZ_010502_1A,Pavlodar,KZPAV,1074471.9
+2023,thousand of tenge,_L_KZ_010502_1A,Turkistan,KZYUZ,174171.0
+2023,thousand of tenge,_L_KZ_010502_1A,Ulytau,KZULU,106643.8
+2023,thousand of tenge,_L_KZ_010502_1A,Shygys Kazakhstan,KZVOS,134986.6
+2023,thousand of tenge,_L_KZ_010502_1A,Almaty city,KZALA,5107508.2
+2023,thousand of tenge,_L_KZ_010502_1B,,,5948765.2
+2023,thousand of tenge,_L_KZ_010502_1B,Abai,KZABY,40000.0
+2023,thousand of tenge,_L_KZ_010502_1B,Akmola,KZAKM,8328.6
+2023,thousand of tenge,_L_KZ_010502_1B,Atyrau,KZATY,86203.7
+2023,thousand of tenge,_L_KZ_010502_1B,Zhambyl,KZZHA,92248.5
+2023,thousand of tenge,_L_KZ_010502_1B,Karagandy,KZKAR,225604.2
+2023,thousand of tenge,_L_KZ_010502_1B,Pavlodar,KZPAV,179065.7
+2023,thousand of tenge,_L_KZ_010502_1B,Ulytau,KZULU,59907.0
+2023,thousand of tenge,_L_KZ_010502_1B,Shygys Kazakhstan,KZVOS,1274149.8
+2023,thousand of tenge,_L_KZ_010502_1B,Almaty city,KZALA,3983257.7
