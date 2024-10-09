@@ -22,7 +22,7 @@ PT_PREV_Y,в процентах к предыдущему году,өткен ж
 SQ_METER,кв.метр,шаршы метр,square meter,60,1
 T,тонн,тонна,tons,10,1
 T_PERCAP,тонн на душу населения,T_PERCAP,T_PERCAP,1,1
-TH_HA,тыс.гектар,мың.гектар,thousands hectares,72,4
+TH_HA,тыс.гектар,мың.гектар,thousands hectares,75,4
 TH_PEOPLE,тыс.человек,мың.адам,thousand people,46,3
 TH_TNG,тыс.тенге,мың теңге,thousand of tenge,62,2
 TH_UNITS,тыс.единиц,мың бірлік,thousands,66,1
