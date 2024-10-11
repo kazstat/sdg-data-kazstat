@@ -1886,3 +1886,472 @@ Year,UNIT_MEASURE,Regions,Sex,Area,Age,GeoCode,Value
 2020,Percent,Shymkent city,,,35-44,KZSHY,7.8
 2020,Percent,Shymkent city,,,45-54,KZSHY,7.1
 2020,Percent,Shymkent city,,,55-64,KZSHY,4.7
+2021,Percent,,,,,,13.6
+2021,Percent,Akmola,,,,KZAKM,18.9
+2021,Percent,Aktobe,,,,KZAKT,6.8
+2021,Percent,Almaty,,,,KZALM,18.9
+2021,Percent,Atyrau,,,,KZATY,9.1
+2021,Percent,Batys Kazakhstan,,,,KZZAP,28.4
+2021,Percent,Zhambyl,,,,KZZHA,25.3
+2021,Percent,Karagandy,,,,KZKAR,16.9
+2021,Percent,Kostanay,,,,KZKUS,16.7
+2021,Percent,Kyzylorda,,,,KZKZY,11.8
+2021,Percent,Mangistau,,,,KZMAN,1.8
+2021,Percent,Pavlodar,,,,KZPAV,15.0
+2021,Percent,Soltustik Kazakhstan,,,,KZSEV,19.2
+2021,Percent,Turkistan,,,,KZYUZ,17.7
+2021,Percent,Shygys Kazakhstan,,,,KZVOS,9.7
+2021,Percent,Astana city,,,,KZNS,7.1
+2021,Percent,Almaty city,,,,KZALA,6.1
+2021,Percent,Shymkent city,,,,KZSHY,3.9
+2021,Percent,,Male,,,,13.7
+2021,Percent,Akmola,Male,,,KZAKM,16.4
+2021,Percent,Aktobe,Male,,,KZAKT,6.8
+2021,Percent,Almaty,Male,,,KZALM,20.5
+2021,Percent,Atyrau,Male,,,KZATY,8.3
+2021,Percent,Batys Kazakhstan,Male,,,KZZAP,30.6
+2021,Percent,Zhambyl,Male,,,KZZHA,27.5
+2021,Percent,Karagandy,Male,,,KZKAR,14.6
+2021,Percent,Kostanay,Male,,,KZKUS,14.3
+2021,Percent,Kyzylorda,Male,,,KZKZY,14.3
+2021,Percent,Mangistau,Male,,,KZMAN,1.3
+2021,Percent,Pavlodar,Male,,,KZPAV,14.1
+2021,Percent,Soltustik Kazakhstan,Male,,,KZSEV,16.2
+2021,Percent,Turkistan,Male,,,KZYUZ,17.2
+2021,Percent,Shygys Kazakhstan,Male,,,KZVOS,10.1
+2021,Percent,Astana city,Male,,,KZNS,7.6
+2021,Percent,Almaty city,Male,,,KZALA,6.3
+2021,Percent,Shymkent city,Male,,,KZSHY,4.4
+2021,Percent,,Female,,,,13.6
+2021,Percent,Akmola,Female,,,KZAKM,21.5
+2021,Percent,Aktobe,Female,,,KZAKT,6.7
+2021,Percent,Almaty,Female,,,KZALM,17.1
+2021,Percent,Atyrau,Female,,,KZATY,9.9
+2021,Percent,Batys Kazakhstan,Female,,,KZZAP,26.1
+2021,Percent,Zhambyl,Female,,,KZZHA,22.7
+2021,Percent,Karagandy,Female,,,KZKAR,19.6
+2021,Percent,Kostanay,Female,,,KZKUS,19.1
+2021,Percent,Kyzylorda,Female,,,KZKZY,8.9
+2021,Percent,Mangistau,Female,,,KZMAN,2.4
+2021,Percent,Pavlodar,Female,,,KZPAV,15.8
+2021,Percent,Soltustik Kazakhstan,Female,,,KZSEV,22.4
+2021,Percent,Turkistan,Female,,,KZYUZ,18.2
+2021,Percent,Shygys Kazakhstan,Female,,,KZVOS,9.2
+2021,Percent,Astana city,Female,,,KZNS,6.5
+2021,Percent,Almaty city,Female,,,KZALA,6.0
+2021,Percent,Shymkent city,Female,,,KZSHY,3.3
+2021,Percent,,,urban,,,8.2
+2021,Percent,Akmola,,urban,,KZAKM,12.7
+2021,Percent,Aktobe,,urban,,KZAKT,2.0
+2021,Percent,Almaty,,urban,,KZALM,15.6
+2021,Percent,Atyrau,,urban,,KZATY,10.5
+2021,Percent,Batys Kazakhstan,,urban,,KZZAP,16.5
+2021,Percent,Zhambyl,,urban,,KZZHA,16.5
+2021,Percent,Karagandy,,urban,,KZKAR,16.0
+2021,Percent,Kostanay,,urban,,KZKUS,10.8
+2021,Percent,Kyzylorda,,urban,,KZKZY,6.2
+2021,Percent,Mangistau,,urban,,KZMAN,1.1
+2021,Percent,Pavlodar,,urban,,KZPAV,6.2
+2021,Percent,Soltustik Kazakhstan,,urban,,KZSEV,7.4
+2021,Percent,Turkistan,,urban,,KZYUZ,8.7
+2021,Percent,Shygys Kazakhstan,,urban,,KZVOS,2.7
+2021,Percent,Astana city,,urban,,KZNS,7.1
+2021,Percent,Almaty city,,urban,,KZALA,6.1
+2021,Percent,Shymkent city,,urban,,KZSHY,3.9
+2021,Percent,,,rural,,,21.5
+2021,Percent,Akmola,,rural,,KZAKM,24.3
+2021,Percent,Aktobe,,rural,,KZAKT,18.4
+2021,Percent,Almaty,,rural,,KZALM,19.8
+2021,Percent,Atyrau,,rural,,KZATY,7.3
+2021,Percent,Batys Kazakhstan,,rural,,KZZAP,39.9
+2021,Percent,Zhambyl,,rural,,KZZHA,31.1
+2021,Percent,Karagandy,,rural,,KZKAR,20.1
+2021,Percent,Kostanay,,rural,,KZKUS,25.2
+2021,Percent,Kyzylorda,,rural,,KZKZY,16.2
+2021,Percent,Mangistau,,rural,,KZMAN,2.3
+2021,Percent,Pavlodar,,rural,,KZPAV,35.2
+2021,Percent,Soltustik Kazakhstan,,rural,,KZSEV,28.7
+2021,Percent,Turkistan,,rural,,KZYUZ,19.6
+2021,Percent,Shygys Kazakhstan,,rural,,KZVOS,20.8
+2021,Percent,,,,Y15,,100.0
+2021,Percent,,,,16-24,,15.5
+2021,Percent,,,,25-28,,11.5
+2021,Percent,,,,29-34,,11.3
+2021,Percent,,,,35-44,,11.3
+2021,Percent,,,,45-54,,13.2
+2021,Percent,,,,55-64,,19.6
+2021,Percent,,,,65 and older,,73.4
+2021,Percent,,,,Y15,,100.0
+2021,Percent,Akmola,,,16-24,KZAKM,19.2
+2021,Percent,Akmola,,,25-28,KZAKM,12.4
+2021,Percent,Akmola,,,29-34,KZAKM,13.1
+2021,Percent,Akmola,,,35-44,KZAKM,13.5
+2021,Percent,Akmola,,,45-54,KZAKM,14.0
+2021,Percent,Akmola,,,55-64,KZAKM,29.2
+2021,Percent,Akmola,,,65 and older,KZAKM,77.8
+2021,Percent,Aktobe,,,16-24,KZAKT,7.9
+2021,Percent,Aktobe,,,25-28,KZAKT,5.0
+2021,Percent,Aktobe,,,29-34,KZAKT,6.8
+2021,Percent,Aktobe,,,35-44,KZAKT,6.5
+2021,Percent,Aktobe,,,45-54,KZAKT,7.9
+2021,Percent,Aktobe,,,55-64,KZAKT,6.5
+2021,Percent,Aktobe,,,65 and older,KZAKT,8.8
+2021,Percent,,,,Y15,,100.0
+2021,Percent,Almaty,,,16-24,KZALM,15.9
+2021,Percent,Almaty,,,25-28,KZALM,10.5
+2021,Percent,Almaty,,,29-34,KZALM,14.2
+2021,Percent,Almaty,,,35-44,KZALM,18.1
+2021,Percent,Almaty,,,45-54,KZALM,18.5
+2021,Percent,Almaty,,,55-64,KZALM,35.0
+2021,Percent,Almaty,,,65 and older,KZALM,96.7
+2021,Percent,Atyrau,,,16-24,KZATY,6.5
+2021,Percent,Atyrau,,,25-28,KZATY,6.1
+2021,Percent,Atyrau,,,29-34,KZATY,7.5
+2021,Percent,Atyrau,,,35-44,KZATY,8.7
+2021,Percent,Atyrau,,,45-54,KZATY,11.1
+2021,Percent,Atyrau,,,55-64,KZATY,12.0
+2021,Percent,Atyrau,,,65 and older,KZATY,58.2
+2021,Percent,Batys Kazakhstan,,,16-24,KZZAP,38.5
+2021,Percent,Batys Kazakhstan,,,25-28,KZZAP,28.8
+2021,Percent,Batys Kazakhstan,,,29-34,KZZAP,26.6
+2021,Percent,Batys Kazakhstan,,,35-44,KZZAP,23.6
+2021,Percent,Batys Kazakhstan,,,45-54,KZZAP,24.4
+2021,Percent,Batys Kazakhstan,,,55-64,KZZAP,33.0
+2021,Percent,Batys Kazakhstan,,,65 and older,KZZAP,40.0
+2021,Percent,Zhambyl,,,16-24,KZZHA,32.6
+2021,Percent,Zhambyl,,,25-28,KZZHA,22.7
+2021,Percent,Zhambyl,,,29-34,KZZHA,25.2
+2021,Percent,Zhambyl,,,35-44,KZZHA,22.5
+2021,Percent,Zhambyl,,,45-54,KZZHA,23.4
+2021,Percent,Zhambyl,,,55-64,KZZHA,27.1
+2021,Percent,Zhambyl,,,65 and older,KZZHA,43.4
+2021,Percent,,,,Y15,,100.0
+2021,Percent,Karagandy,,,16-24,KZKAR,28.3
+2021,Percent,Karagandy,,,25-28,KZKAR,15.7
+2021,Percent,Karagandy,,,29-34,KZKAR,16.4
+2021,Percent,Karagandy,,,35-44,KZKAR,15.3
+2021,Percent,Karagandy,,,45-54,KZKAR,14.8
+2021,Percent,Karagandy,,,55-64,KZKAR,17.2
+2021,Percent,Karagandy,,,65 and older,KZKAR,60.4
+2021,Percent,Kostanay,,,Y15,KZKUS,100.0
+2021,Percent,Kostanay,,,16-24,KZKUS,13.6
+2021,Percent,Kostanay,,,25-28,KZKUS,11.3
+2021,Percent,Kostanay,,,29-34,KZKUS,9.9
+2021,Percent,Kostanay,,,35-44,KZKUS,10.5
+2021,Percent,Kostanay,,,45-54,KZKUS,11.7
+2021,Percent,Kostanay,,,55-64,KZKUS,26.5
+2021,Percent,Kostanay,,,65 and older,KZKUS,87.1
+2021,Percent,Kyzylorda,,,16-24,KZKZY,11.9
+2021,Percent,Kyzylorda,,,25-28,KZKZY,12.7
+2021,Percent,Kyzylorda,,,29-34,KZKZY,11.2
+2021,Percent,Kyzylorda,,,35-44,KZKZY,10.4
+2021,Percent,Kyzylorda,,,45-54,KZKZY,12.1
+2021,Percent,Kyzylorda,,,55-64,KZKZY,14.8
+2021,Percent,Kyzylorda,,,65 and older,KZKZY,100.0
+2021,Percent,Mangistau,,,16-24,KZMAN,2.1
+2021,Percent,Mangistau,,,25-28,KZMAN,4.3
+2021,Percent,Mangistau,,,29-34,KZMAN,1.1
+2021,Percent,Mangistau,,,35-44,KZMAN,1.5
+2021,Percent,Mangistau,,,45-54,KZMAN,1.6
+2021,Percent,Mangistau,,,55-64,KZMAN,1.3
+2021,Percent,Pavlodar,,,Y15,KZPAV,100.0
+2021,Percent,Pavlodar,,,16-24,KZPAV,20.2
+2021,Percent,Pavlodar,,,25-28,KZPAV,8.4
+2021,Percent,Pavlodar,,,29-34,KZPAV,12.0
+2021,Percent,Pavlodar,,,35-44,KZPAV,12.2
+2021,Percent,Pavlodar,,,45-54,KZPAV,13.8
+2021,Percent,Pavlodar,,,55-64,KZPAV,19.3
+2021,Percent,Pavlodar,,,65 and older,KZPAV,79.2
+2021,Percent,Soltustik Kazakhstan,,,16-24,KZSEV,18.8
+2021,Percent,Soltustik Kazakhstan,,,25-28,KZSEV,12.6
+2021,Percent,Soltustik Kazakhstan,,,29-34,KZSEV,10.9
+2021,Percent,Soltustik Kazakhstan,,,35-44,KZSEV,14.1
+2021,Percent,Soltustik Kazakhstan,,,45-54,KZSEV,15.2
+2021,Percent,Soltustik Kazakhstan,,,55-64,KZSEV,32.3
+2021,Percent,Soltustik Kazakhstan,,,65 and older,KZSEV,93.7
+2021,Percent,Turkistan,,,16-24,KZYUZ,19.9
+2021,Percent,Turkistan,,,25-28,KZYUZ,19.9
+2021,Percent,Turkistan,,,29-34,KZYUZ,18.5
+2021,Percent,Turkistan,,,35-44,KZYUZ,15.1
+2021,Percent,Turkistan,,,45-54,KZYUZ,17.8
+2021,Percent,Turkistan,,,55-64,KZYUZ,17.4
+2021,Percent,Turkistan,,,65 and older,KZYUZ,0.0
+2021,Percent,Shygys Kazakhstan,,,16-24,KZVOS,8.9
+2021,Percent,Shygys Kazakhstan,,,25-28,KZVOS,7.0
+2021,Percent,Shygys Kazakhstan,,,29-34,KZVOS,7.2
+2021,Percent,Shygys Kazakhstan,,,35-44,KZVOS,8.5
+2021,Percent,Shygys Kazakhstan,,,45-54,KZVOS,11.3
+2021,Percent,Shygys Kazakhstan,,,55-64,KZVOS,14.0
+2021,Percent,Shygys Kazakhstan,,,65 and older,KZVOS,55.9
+2021,Percent,Astana city,,,16-24,KZNS,8.6
+2021,Percent,Astana city,,,25-28,KZNS,7.1
+2021,Percent,Astana city,,,29-34,KZNS,5.1
+2021,Percent,Astana city,,,35-44,KZNS,6.9
+2021,Percent,Astana city,,,45-54,KZNS,7.4
+2021,Percent,Astana city,,,55-64,KZNS,9.1
+2021,Percent,Astana city,,,65 and older,KZNS,0.0
+2021,Percent,Almaty city,,,16-24,KZALA,6.8
+2021,Percent,Almaty city,,,25-28,KZALA,6.7
+2021,Percent,Almaty city,,,29-34,KZALA,6.9
+2021,Percent,Almaty city,,,35-44,KZALA,5.1
+2021,Percent,Almaty city,,,45-54,KZALA,6.6
+2021,Percent,Almaty city,,,55-64,KZALA,5.3
+2021,Percent,Almaty city,,,65 and older,KZALA,0.5
+2021,Percent,Shymkent city,,,16-24,KZSHY,5.6
+2021,Percent,Shymkent city,,,25-28,KZSHY,5.1
+2021,Percent,Shymkent city,,,29-34,KZSHY,3.7
+2021,Percent,Shymkent city,,,35-44,KZSHY,3.8
+2021,Percent,Shymkent city,,,45-54,KZSHY,2.9
+2021,Percent,Shymkent city,,,55-64,KZSHY,3.4
+2022,Percent,,,,,,12.9
+2022,Percent,Abai,,,,KZABY,9.6
+2022,Percent,Akmola,,,,KZAKM,17.6
+2022,Percent,Aktobe,,,,KZAKT,7.0
+2022,Percent,Almaty,,,,KZALM,19.2
+2022,Percent,Atyrau,,,,KZATY,5.5
+2022,Percent,Batys Kazakhstan,,,,KZZAP,25.5
+2022,Percent,Zhambyl,,,,KZZHA,21.0
+2022,Percent,Zhetisu,,,,KZZHS,21.9
+2022,Percent,Karagandy,,,,KZKAR,16.9
+2022,Percent,Kostanay,,,,KZKUS,15.8
+2022,Percent,Kyzylorda,,,,KZKZY,9.6
+2022,Percent,Mangistau,,,,KZMAN,2.3
+2022,Percent,Pavlodar,,,,KZPAV,16.4
+2022,Percent,Soltustik Kazakhstan,,,,KZSEV,18.4
+2022,Percent,Turkistan,,,,KZYUZ,15.5
+2022,Percent,Ulytau,,,,KZULU,12.7
+2022,Percent,Shygys Kazakhstan,,,,KZVOS,7.2
+2022,Percent,Astana city,,,,KZNS,9.9
+2022,Percent,Almaty city,,,,KZALA,4.3
+2022,Percent,Shymkent city,,,,KZSHY,4.5
+2022,Percent,,Male,,,,13.2
+2022,Percent,Abai,Male,,,KZABY,9.6
+2022,Percent,Akmola,Male,,,KZAKM,15.5
+2022,Percent,Aktobe,Male,,,KZAKT,7.9
+2022,Percent,Almaty,Male,,,KZALM,21.0
+2022,Percent,Atyrau,Male,,,KZATY,5.1
+2022,Percent,Batys Kazakhstan,Male,,,KZZAP,27.2
+2022,Percent,Zhambyl,Male,,,KZZHA,25.4
+2022,Percent,Zhetisu,Male,,,KZZHS,24.0
+2022,Percent,Karagandy,Male,,,KZKAR,15.3
+2022,Percent,Kostanay,Male,,,KZKUS,15.8
+2022,Percent,Kyzylorda,Male,,,KZKZY,11.2
+2022,Percent,Mangistau,Male,,,KZMAN,1.7
+2022,Percent,Pavlodar,Male,,,KZPAV,15.7
+2022,Percent,Soltustik Kazakhstan,Male,,,KZSEV,15.8
+2022,Percent,Turkistan,Male,,,KZYUZ,14.5
+2022,Percent,Shygys Kazakhstan,Male,,,KZVOS,6.9
+2022,Percent,Astana city,Male,,,KZNS,10.7
+2022,Percent,Almaty city,Male,,,KZALA,4.4
+2022,Percent,Shymkent city,Male,,,KZSHY,5.2
+2022,Percent,,Female,,,,12.5
+2022,Percent,Akmola,Female,,,KZAKM,19.9
+2022,Percent,Aktobe,Female,,,KZAKT,6.0
+2022,Percent,Almaty,Female,,,KZALM,17.1
+2022,Percent,Atyrau,Female,,,KZATY,6.0
+2022,Percent,Batys Kazakhstan,Female,,,KZZAP,23.7
+2022,Percent,Zhambyl,Female,,,KZZHA,16.1
+2022,Percent,Zhetisu,Female,,,KZZHS,19.6
+2022,Percent,Karagandy,Female,,,KZKAR,18.8
+2022,Percent,Kostanay,Female,,,KZKUS,15.9
+2022,Percent,Kyzylorda,Female,,,KZKZY,7.7
+2022,Percent,Mangistau,Female,,,KZMAN,3.1
+2022,Percent,Pavlodar,Female,,,KZPAV,17.2
+2022,Percent,Soltustik Kazakhstan,Female,,,KZSEV,21.1
+2022,Percent,Turkistan,Female,,,KZYUZ,16.8
+2022,Percent,Ulytau,Female,,,KZULU,15.8
+2022,Percent,Shygys Kazakhstan,Female,,,KZVOS,7.6
+2022,Percent,Astana city,Female,,,KZNS,9.1
+2022,Percent,Almaty city,Female,,,KZALA,4.1
+2022,Percent,Shymkent city,Female,,,KZSHY,3.8
+2022,Percent,,,urban,,,7.9
+2022,Percent,Abai,,urban,,KZABY,3.3
+2022,Percent,Akmola,,urban,,KZAKM,12.4
+2022,Percent,Aktobe,,urban,,KZAKT,3.7
+2022,Percent,Almaty,,urban,,KZALM,10.9
+2022,Percent,Atyrau,,urban,,KZATY,4.7
+2022,Percent,Batys Kazakhstan,,urban,,KZZAP,14.7
+2022,Percent,Zhambyl,,urban,,KZZHA,13.9
+2022,Percent,Zhetisu,,urban,,KZZHS,19.7
+2022,Percent,Karagandy,,urban,,KZKAR,17.3
+2022,Percent,Kostanay,,urban,,KZKUS,8.8
+2022,Percent,Kyzylorda,,urban,,KZKZY,4.6
+2022,Percent,Mangistau,,urban,,KZMAN,2.5
+2022,Percent,Pavlodar,,urban,,KZPAV,7.8
+2022,Percent,Soltustik Kazakhstan,,urban,,KZSEV,6.0
+2022,Percent,Turkistan,,urban,,KZYUZ,6.6
+2022,Percent,Ulytau,,urban,,KZULU,11.2
+2022,Percent,Shygys Kazakhstan,,urban,,KZVOS,1.5
+2022,Percent,Astana city,,urban,,KZNS,9.9
+2022,Percent,Almaty city,,urban,,KZALA,4.3
+2022,Percent,Shymkent city,,urban,,KZSHY,4.5
+2022,Percent,,,rural,,,20.6
+2022,Percent,Abai,,rural,,KZABY,18.5
+2022,Percent,Akmola,,rural,,KZAKM,24.0
+2022,Percent,Aktobe,,rural,,KZAKT,16.7
+2022,Percent,Almaty,,rural,,KZALM,20.3
+2022,Percent,Atyrau,,rural,,KZATY,6.6
+2022,Percent,Batys Kazakhstan,,rural,,KZZAP,37.8
+2022,Percent,Zhambyl,,rural,,KZZHA,26.5
+2022,Percent,Zhetisu,,rural,,KZZHS,23.7
+2022,Percent,Karagandy,,rural,,KZKAR,15.5
+2022,Percent,Kostanay,,rural,,KZKUS,27.1
+2022,Percent,Kyzylorda,,rural,,KZKZY,14.0
+2022,Percent,Mangistau,,rural,,KZMAN,2.2
+2022,Percent,Pavlodar,,rural,,KZPAV,36.4
+2022,Percent,Soltustik Kazakhstan,,rural,,KZSEV,28.7
+2022,Percent,Turkistan,,rural,,KZYUZ,18.2
+2022,Percent,Ulytau,,rural,,KZULU,18.4
+2022,Percent,Shygys Kazakhstan,,rural,,KZVOS,17.5
+2022,Percent,,,,Y15,,100.0
+2022,Percent,,,,16-24,,14.6
+2022,Percent,,,,25-28,,12.0
+2022,Percent,,,,29-34,,10.5
+2022,Percent,,,,35-44,,10.9
+2022,Percent,,,,45-54,,12.5
+2022,Percent,,,,55-64,,17.5
+2022,Percent,,,,65 and older,,65.0
+2022,Percent,,,,Y15,,0.0
+2022,Percent,Abai,,,16-24,KZABY,5.7
+2022,Percent,Abai,,,25-28,KZABY,9.5
+2022,Percent,Abai,,,29-34,KZABY,8.9
+2022,Percent,Abai,,,35-44,KZABY,9.4
+2022,Percent,Abai,,,45-54,KZABY,10.5
+2022,Percent,Abai,,,55-64,KZABY,16.8
+2022,Percent,Abai,,,65 and older,KZABY,76.3
+2022,Percent,,,,Y15,,100.0
+2022,Percent,Akmola,,,16-24,KZAKM,19.4
+2022,Percent,Akmola,,,25-28,KZAKM,13.4
+2022,Percent,Akmola,,,29-34,KZAKM,11.2
+2022,Percent,Akmola,,,35-44,KZAKM,11.4
+2022,Percent,Akmola,,,45-54,KZAKM,13.3
+2022,Percent,Akmola,,,55-64,KZAKM,24.3
+2022,Percent,Akmola,,,65 and older,KZAKM,82.5
+2022,Percent,Aktobe,,,16-24,KZAKT,7.5
+2022,Percent,Aktobe,,,25-28,KZAKT,7.0
+2022,Percent,Aktobe,,,29-34,KZAKT,5.9
+2022,Percent,Aktobe,,,35-44,KZAKT,6.3
+2022,Percent,Aktobe,,,45-54,KZAKT,8.1
+2022,Percent,Aktobe,,,55-64,KZAKT,8.4
+2022,Percent,Aktobe,,,65 and older,KZAKT,34.7
+2022,Percent,,,,Y15,,100.0
+2022,Percent,Almaty,,,16-24,KZALM,18.2
+2022,Percent,Almaty,,,25-28,KZALM,12.4
+2022,Percent,Almaty,,,29-34,KZALM,17.3
+2022,Percent,Almaty,,,35-44,KZALM,19.2
+2022,Percent,Almaty,,,45-54,KZALM,18.5
+2022,Percent,Almaty,,,55-64,KZALM,31.4
+2022,Percent,Almaty,,,65 and older,KZALM,0.0
+2022,Percent,Atyrau,,,16-24,KZATY,3.1
+2022,Percent,Atyrau,,,25-28,KZATY,4.5
+2022,Percent,Atyrau,,,29-34,KZATY,5.5
+2022,Percent,Atyrau,,,35-44,KZATY,5.2
+2022,Percent,Atyrau,,,45-54,KZATY,5.3
+2022,Percent,Atyrau,,,55-64,KZATY,7.8
+2022,Percent,Atyrau,,,65 and older,KZATY,36.6
+2022,Percent,Batys Kazakhstan,,,16-24,KZZAP,38.7
+2022,Percent,Batys Kazakhstan,,,25-28,KZZAP,25.8
+2022,Percent,Batys Kazakhstan,,,29-34,KZZAP,20.2
+2022,Percent,Batys Kazakhstan,,,35-44,KZZAP,19.5
+2022,Percent,Batys Kazakhstan,,,45-54,KZZAP,25.4
+2022,Percent,Batys Kazakhstan,,,55-64,KZZAP,30.4
+2022,Percent,Batys Kazakhstan,,,65 and older,KZZAP,0.0
+2022,Percent,Zhambyl,,,16-24,KZZHA,26.6
+2022,Percent,Zhambyl,,,25-28,KZZHA,20.9
+2022,Percent,Zhambyl,,,29-34,KZZHA,21.7
+2022,Percent,Zhambyl,,,35-44,KZZHA,19.0
+2022,Percent,Zhambyl,,,45-54,KZZHA,19.7
+2022,Percent,Zhambyl,,,55-64,KZZHA,20.4
+2022,Percent,Zhambyl,,,65 and older,KZZHA,29.5
+2022,Percent,Zhetisu,,,16-24,KZZHS,18.3
+2022,Percent,Zhetisu,,,25-28,KZZHS,15.7
+2022,Percent,Zhetisu,,,29-34,KZZHS,13.2
+2022,Percent,Zhetisu,,,35-44,KZZHS,20.2
+2022,Percent,Zhetisu,,,45-54,KZZHS,26.8
+2022,Percent,Zhetisu,,,55-64,KZZHS,36.3
+2022,Percent,Zhetisu,,,65 and older,KZZHS,88.4
+2022,Percent,,,,Y15,,100.0
+2022,Percent,Karagandy,,,16-24,KZKAR,26.6
+2022,Percent,Karagandy,,,25-28,KZKAR,14.2
+2022,Percent,Karagandy,,,29-34,KZKAR,14.0
+2022,Percent,Karagandy,,,35-44,KZKAR,17.0
+2022,Percent,Karagandy,,,45-54,KZKAR,14.6
+2022,Percent,Karagandy,,,55-64,KZKAR,17.8
+2022,Percent,Karagandy,,,65 and older,KZKAR,53.7
+2022,Percent,Kostanay,,,Y15,KZKUS,100.0
+2022,Percent,Kostanay,,,16-24,KZKUS,13.4
+2022,Percent,Kostanay,,,25-28,KZKUS,10.3
+2022,Percent,Kostanay,,,29-34,KZKUS,10.0
+2022,Percent,Kostanay,,,35-44,KZKUS,11.9
+2022,Percent,Kostanay,,,45-54,KZKUS,12.4
+2022,Percent,Kostanay,,,55-64,KZKUS,21.3
+2022,Percent,Kostanay,,,65 and older,KZKUS,73.2
+2022,Percent,Kyzylorda,,,16-24,KZKZY,14.3
+2022,Percent,Kyzylorda,,,25-28,KZKZY,9.8
+2022,Percent,Kyzylorda,,,29-34,KZKZY,8.7
+2022,Percent,Kyzylorda,,,35-44,KZKZY,7.5
+2022,Percent,Kyzylorda,,,45-54,KZKZY,10.1
+2022,Percent,Kyzylorda,,,55-64,KZKZY,11.1
+2022,Percent,Kyzylorda,,,65 and older,KZKZY,0.0
+2022,Percent,Mangistau,,,16-24,KZMAN,8.1
+2022,Percent,Mangistau,,,25-28,KZMAN,5.9
+2022,Percent,Mangistau,,,29-34,KZMAN,1.6
+2022,Percent,Mangistau,,,35-44,KZMAN,1.5
+2022,Percent,Mangistau,,,45-54,KZMAN,0.8
+2022,Percent,Mangistau,,,55-64,KZMAN,1.4
+2022,Percent,Pavlodar,,,Y15,KZPAV,100.0
+2022,Percent,Pavlodar,,,16-24,KZPAV,15.0
+2022,Percent,Pavlodar,,,25-28,KZPAV,14.9
+2022,Percent,Pavlodar,,,29-34,KZPAV,13.7
+2022,Percent,Pavlodar,,,35-44,KZPAV,14.2
+2022,Percent,Pavlodar,,,45-54,KZPAV,14.0
+2022,Percent,Pavlodar,,,55-64,KZPAV,20.1
+2022,Percent,Pavlodar,,,65 and older,KZPAV,69.0
+2022,Percent,Soltustik Kazakhstan,,,16-24,KZSEV,16.3
+2022,Percent,Soltustik Kazakhstan,,,25-28,KZSEV,13.1
+2022,Percent,Soltustik Kazakhstan,,,29-34,KZSEV,12.9
+2022,Percent,Soltustik Kazakhstan,,,35-44,KZSEV,12.3
+2022,Percent,Soltustik Kazakhstan,,,45-54,KZSEV,14.8
+2022,Percent,Soltustik Kazakhstan,,,55-64,KZSEV,28.2
+2022,Percent,Soltustik Kazakhstan,,,65 and older,KZSEV,95.8
+2022,Percent,Turkistan,,,16-24,KZYUZ,16.1
+2022,Percent,Turkistan,,,25-28,KZYUZ,19.8
+2022,Percent,Turkistan,,,29-34,KZYUZ,15.7
+2022,Percent,Turkistan,,,35-44,KZYUZ,13.1
+2022,Percent,Turkistan,,,45-54,KZYUZ,15.1
+2022,Percent,Turkistan,,,55-64,KZYUZ,17.2
+2022,Percent,Turkistan,,,65 and older,KZYUZ,0.0
+2022,Percent,Ulytau,,,16-24,KZULU,16.8
+2022,Percent,Ulytau,,,25-28,KZULU,14.0
+2022,Percent,Ulytau,,,29-34,KZULU,11.2
+2022,Percent,Ulytau,,,35-44,KZULU,12.2
+2022,Percent,Ulytau,,,45-54,KZULU,12.7
+2022,Percent,Ulytau,,,55-64,KZULU,12.9
+2022,Percent,Ulytau,,,65 and older,KZULU,32.8
+2022,Percent,Shygys Kazakhstan,,,16-24,KZVOS,10.2
+2022,Percent,Shygys Kazakhstan,,,25-28,KZVOS,6.7
+2022,Percent,Shygys Kazakhstan,,,29-34,KZVOS,3.5
+2022,Percent,Shygys Kazakhstan,,,35-44,KZVOS,4.9
+2022,Percent,Shygys Kazakhstan,,,45-54,KZVOS,9.0
+2022,Percent,Shygys Kazakhstan,,,55-64,KZVOS,10.1
+2022,Percent,Shygys Kazakhstan,,,65 and older,KZVOS,20.4
+2022,Percent,Astana city,,,16-24,KZNS,13.8
+2022,Percent,Astana city,,,25-28,KZNS,11.2
+2022,Percent,Astana city,,,29-34,KZNS,11.3
+2022,Percent,Astana city,,,35-44,KZNS,9.2
+2022,Percent,Astana city,,,45-54,KZNS,6.6
+2022,Percent,Astana city,,,55-64,KZNS,8.6
+2022,Percent,Astana city,,,65 and older,KZNS,0.0
+2022,Percent,Almaty city,,,16-24,KZALA,4.6
+2022,Percent,Almaty city,,,25-28,KZALA,4.4
+2022,Percent,Almaty city,,,29-34,KZALA,3.9
+2022,Percent,Almaty city,,,35-44,KZALA,4.5
+2022,Percent,Almaty city,,,45-54,KZALA,4.0
+2022,Percent,Almaty city,,,55-64,KZALA,4.2
+2022,Percent,Almaty city,,,65 and older,KZALA,1.4
+2022,Percent,Shymkent city,,,16-24,KZSHY,5.8
+2022,Percent,Shymkent city,,,25-28,KZSHY,8.1
+2022,Percent,Shymkent city,,,29-34,KZSHY,4.4
+2022,Percent,Shymkent city,,,35-44,KZSHY,3.9
+2022,Percent,Shymkent city,,,45-54,KZSHY,3.4
+2022,Percent,Shymkent city,,,55-64,KZSHY,3.4
