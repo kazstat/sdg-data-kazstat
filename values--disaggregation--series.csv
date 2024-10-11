@@ -54,8 +54,8 @@ _L_KZ_100101_1C,Расходы домохозяйств на душу насел
 _L_KZ_100101_1D,Расходы домохозяйств на душу населения среди наименее обеспеченных 40 процентов населения,Халықтың ең аз қамтылған 40 пайыз арасындағы үй шаруашылықтарының жан басына шаққандағы шығыстары,Household expenditure per capita among the poorest 40 percent of the population,1,1
 _L_KZ_110602_1A,взвешенные частицы РМ-10,РМ-10 өлшенген бөлшектері,suspended particles PM-10,49,1
 _L_KZ_110602_1B,"взвешенные частицы РМ-2,5","РМ-2,5 өлшенген бөлшектері",PM2.5,41,1
-_L_KZ_150201_1A,"Площадь территории, покрытой лесом",_L_KZ_150201_1A,_L_KZ_150201_1A,15,1
-_L_KZ_150201_1B,Изменение чистой площади лесов,_L_KZ_150201_1B,_L_KZ_150201_1B,15,1
+_L_KZ_150201_1A,"Площадь территории, покрытой лесом",_L_KZ_150201_1A,_L_KZ_150201_1A,18,1
+_L_KZ_150201_1B,Изменение чистой площади лесов,_L_KZ_150201_1B,_L_KZ_150201_1B,18,1
 _L_KZ_160104_1A,в полной безопасности,толық қауіпсіз,Total security,15,1
 _L_KZ_160104_1B,достаточно безопасно,жеткілікті қауіпсіз,Relatively safe,15,1
 _L_KZ_160104_1C,не безопасно,қауіпсіз емес,Not safe,15,1
@@ -77,9 +77,9 @@ _L_KZ_171201_1A,наименее развитых стран,аз дамыған
 _L_KZ_171201_1B,развивающихся стран,дамушы елдер,developing countries,1,1
 _L_KZ_DD_MSD,умеренная и сильная степень отклонения от нормы,қалыпты және қатал ауытқушылық,Rate of deviation from the norm (moderate and strong),58,2
 _L_KZ_DD_SDD,сильная степень отклонения от нормы,нормадан күшті ауытқу,Strong deviation from the norm,58,2
-AG_LND_FRSTBIOM,Запасы наземной биомассы в лесах,AG_LND_FRSTBIOM,Above-ground biomass in forest (tonnes) [15.2.1],15,1
+AG_LND_FRSTBIOM,Запасы наземной биомассы в лесах,AG_LND_FRSTBIOM,Above-ground biomass in forest (tonnes) [15.2.1],17,1
 AG_LND_FRSTMGT,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",AG_LND_FRSTMGT,Proportion of forest area with a long-term management plan [15.2.1],15,1
-AG_LND_FRSTPRCT,"Доля лесной площади, находящейся в охраняемых законом зонах",AG_LND_FRSTPRCT,Proportion of forest area within legally established protected areas [15.2.1],15,1
+AG_LND_FRSTPRCT,"Доля лесной площади, находящейся в охраняемых законом зонах",AG_LND_FRSTPRCT,Proportion of forest area within legally established protected areas [15.2.1],18,1
 SD_XPD_ESED,Образование,SD_XPD_ESED,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",1,1
 SE_ACS_H2O,базовыми источниками питьевой воды,базалық ауыз су көздерімен,sources of drinking water,1,1
 SE_ACS_INTNT,доступом к Интернету для учебных целей,Оқу мақсаттары үшін Интернетке қол жетімділікпен,access to the internet for education purposes,51,1

@@ -1,5 +1,5 @@
 Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
-M_METER3,млн.м3,млн.метр куб,M_METER3,15,1
+M_METER3,млн.м3,млн.метр куб,M_METER3,17,1
 M_T,млн.тонн,млн.тонна,millions tonnes,73,1
 M_TNG,млн.тенге,млн.теңге,million tenge,1,1
 M_USD,млн.долл.США,млн АҚШ доллары,million US dollars,36,10
@@ -15,14 +15,14 @@ PER_1000_LIVE_BIRTHS,на 1000 родившихся,1000 туылғанға,per 
 PER_1000_POP,на 1000 населения,1000 халыққа,per 1000 population,4,1
 PER_1000_UNINFECTED_POP,на 1000 неинфицированных,1000 жұқтырмағандарға,per 1000 non immunized,1,1
 PERSONS,человек,адам,persons,29,5
-PT,процент,пайыз,Percent,3445,124
+PT,процент,пайыз,Percent,3448,124
 PT_BY_2005,в процентах к 2005 году,2005 жылға пайызбен,as a percentage to 2005,17,1
 PT_IN_2010_PRICE,"процент, в ценах 2010 года",2010 жылғы бағаларда пайызбен,"percent, base year 2010",18,1
 PT_PREV_Y,в процентах к предыдущему году,өткен жылға пайызбен,as a percentage to the previous year,50,5
 SQ_METER,кв.метр,шаршы метр,square meter,60,1
 T,тонн,тонна,tons,10,1
 T_PERCAP,тонн на душу населения,T_PERCAP,T_PERCAP,1,1
-TH_HA,тыс.гектар,мың.гектар,thousands hectares,75,4
+TH_HA,тыс.гектар,мың.гектар,thousands hectares,81,4
 TH_PEOPLE,тыс.человек,мың.адам,thousand people,46,3
 TH_TNG,тыс.тенге,мың теңге,thousand of tenge,62,2
 TH_UNITS,тыс.единиц,мың бірлік,thousands,66,1
