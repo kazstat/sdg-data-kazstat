@@ -973,3 +973,523 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,Sex,Age,GeoCode,Value
 2021,Percent,health care and social care,,Female,,,1112.0
 2021,Percent,"culture, entertainment and leisure",,Female,,,766.0
 2021,Percent,provision of other types of services,,Female,,,1891.0
+2022,Percent,,,,,,1644.0
+2022,Percent,,Akmola,,,KZAKM,1387.0
+2022,Percent,,Aktobe,,,KZAKT,1444.0
+2022,Percent,,Almaty,,,KZALM,1377.0
+2022,Percent,,Atyrau,,,KZATY,2474.0
+2022,Percent,,Batys Kazakhstan,,,KZZAP,1501.0
+2022,Percent,,Zhambyl,,,KZZHA,1282.0
+2022,Percent,,Karagandy,,,KZKAR,1717.0
+2022,Percent,,Kostanay,,,KZKUS,1343.0
+2022,Percent,,Kyzylorda,,,KZKZY,1417.0
+2022,Percent,,Mangistau,,,KZMAN,2302.0
+2022,Percent,,Pavlodar,,,KZPAV,1485.0
+2022,Percent,,Soltustik Kazakhstan,,,KZSEV,1224.0
+2022,Percent,,Turkistan,,,KZYUZ,1335.0
+2022,Percent,,Shygys Kazakhstan,,,KZVOS,1493.0
+2022,Percent,,Astana city,,,KZNS,2030.0
+2022,Percent,,Almaty city,,,KZALA,1913.0
+2022,Percent,,Shymkent city,,,KZSHY,1298.0
+2022,Percent,,,Male,,,1802.0
+2022,Percent,,Akmola,Male,,KZAKM,1397.0
+2022,Percent,,Aktobe,Male,,KZAKT,1607.0
+2022,Percent,,Almaty,Male,,KZALM,1372.0
+2022,Percent,,Atyrau,Male,,KZATY,2915.0
+2022,Percent,,Batys Kazakhstan,Male,,KZZAP,1630.0
+2022,Percent,,Zhambyl,Male,,KZZHA,1240.0
+2022,Percent,,Karagandy,Male,,KZKAR,1994.0
+2022,Percent,,Kostanay,Male,,KZKUS,1391.0
+2022,Percent,,Kyzylorda,Male,,KZKZY,1387.0
+2022,Percent,,Mangistau,Male,,KZMAN,2741.0
+2022,Percent,,Pavlodar,Male,,KZPAV,1616.0
+2022,Percent,,Soltustik Kazakhstan,Male,,KZSEV,1182.0
+2022,Percent,,Turkistan,Male,,KZYUZ,1332.0
+2022,Percent,,Shygys Kazakhstan,Male,,KZVOS,1528.0
+2022,Percent,,Astana city,Male,,KZNS,2233.0
+2022,Percent,,Almaty city,Male,,KZALA,2043.0
+2022,Percent,,Shymkent city,Male,,KZSHY,1342.0
+2022,Percent,,,Female,,,1486.0
+2022,Percent,,Akmola,Female,,KZAKM,1377.0
+2022,Percent,,Aktobe,Female,,KZAKT,1254.0
+2022,Percent,,Almaty,Female,,KZALM,1381.0
+2022,Percent,,Atyrau,Female,,KZATY,1799.0
+2022,Percent,,Batys Kazakhstan,Female,,KZZAP,1388.0
+2022,Percent,,Zhambyl,Female,,KZZHA,1315.0
+2022,Percent,,Karagandy,Female,,KZKAR,1391.0
+2022,Percent,,Kostanay,Female,,KZKUS,1295.0
+2022,Percent,,Kyzylorda,Female,,KZKZY,1446.0
+2022,Percent,,Mangistau,Female,,KZMAN,1742.0
+2022,Percent,,Pavlodar,Female,,KZPAV,1343.0
+2022,Percent,,Soltustik Kazakhstan,Female,,KZSEV,1265.0
+2022,Percent,,Turkistan,Female,,KZYUZ,1337.0
+2022,Percent,,Shygys Kazakhstan,Female,,KZVOS,1455.0
+2022,Percent,,Astana city,Female,,KZNS,1831.0
+2022,Percent,,Almaty city,Female,,KZALA,1791.0
+2022,Percent,,Shymkent city,Female,,KZSHY,1257.0
+2022,Percent,,,,16-24,,1196.0
+2022,Percent,,,,25-28,,1447.0
+2022,Percent,,,,29-34,,1671.0
+2022,Percent,,,,35-44,,1808.0
+2022,Percent,,,,45-54,,1679.0
+2022,Percent,,,,55-64,,1581.0
+2022,Percent,,,,65 and older,,1562.0
+2022,Percent,,Akmola,,16-24,KZAKM,1127.0
+2022,Percent,,Akmola,,25-28,KZAKM,1334.0
+2022,Percent,,Akmola,,29-34,KZAKM,1433.0
+2022,Percent,,Akmola,,35-44,KZAKM,1501.0
+2022,Percent,,Akmola,,45-54,KZAKM,1372.0
+2022,Percent,,Akmola,,55-64,KZAKM,1305.0
+2022,Percent,,Akmola,,65 and older,KZAKM,1358.0
+2022,Percent,,Aktobe,,16-24,KZAKT,1144.0
+2022,Percent,,Aktobe,,25-28,KZAKT,1355.0
+2022,Percent,,Aktobe,,29-34,KZAKT,1485.0
+2022,Percent,,Aktobe,,35-44,KZAKT,1555.0
+2022,Percent,,Aktobe,,45-54,KZAKT,1421.0
+2022,Percent,,Aktobe,,55-64,KZAKT,1392.0
+2022,Percent,,Aktobe,,65 and older,KZAKT,1569.0
+2022,Percent,,Almaty,,16-24,KZALM,1060.0
+2022,Percent,,Almaty,,25-28,KZALM,1220.0
+2022,Percent,,Almaty,,29-34,KZALM,1400.0
+2022,Percent,,Almaty,,35-44,KZALM,1518.0
+2022,Percent,,Almaty,,45-54,KZALM,1382.0
+2022,Percent,,Almaty,,55-64,KZALM,1299.0
+2022,Percent,,Almaty,,65 and older,KZALM,1369.0
+2022,Percent,,Atyrau,,16-24,KZATY,1520.0
+2022,Percent,,Atyrau,,25-28,KZATY,2009.0
+2022,Percent,,Atyrau,,29-34,KZATY,2372.0
+2022,Percent,,Atyrau,,35-44,KZATY,2708.0
+2022,Percent,,Atyrau,,45-54,KZATY,2721.0
+2022,Percent,,Atyrau,,55-64,KZATY,2752.0
+2022,Percent,,Atyrau,,65 and older,KZATY,1488.0
+2022,Percent,,Batys Kazakhstan,,16-24,KZZAP,1088.0
+2022,Percent,,Batys Kazakhstan,,25-28,KZZAP,1302.0
+2022,Percent,,Batys Kazakhstan,,29-34,KZZAP,1483.0
+2022,Percent,,Batys Kazakhstan,,35-44,KZZAP,1693.0
+2022,Percent,,Batys Kazakhstan,,45-54,KZZAP,1514.0
+2022,Percent,,Batys Kazakhstan,,55-64,KZZAP,1415.0
+2022,Percent,,Batys Kazakhstan,,65 and older,KZZAP,1429.0
+2022,Percent,,Zhambyl,,16-24,KZZHA,977.0
+2022,Percent,,Zhambyl,,25-28,KZZHA,1160.0
+2022,Percent,,Zhambyl,,29-34,KZZHA,1270.0
+2022,Percent,,Zhambyl,,35-44,KZZHA,1345.0
+2022,Percent,,Zhambyl,,45-54,KZZHA,1314.0
+2022,Percent,,Zhambyl,,55-64,KZZHA,1301.0
+2022,Percent,,Zhambyl,,65 and older,KZZHA,1445.0
+2022,Percent,,Karagandy,,16-24,KZKAR,1320.0
+2022,Percent,,Karagandy,,25-28,KZKAR,1547.0
+2022,Percent,,Karagandy,,29-34,KZKAR,1822.0
+2022,Percent,,Karagandy,,35-44,KZKAR,1857.0
+2022,Percent,,Karagandy,,45-54,KZKAR,1723.0
+2022,Percent,,Karagandy,,55-64,KZKAR,1652.0
+2022,Percent,,Karagandy,,65 and older,KZKAR,1320.0
+2022,Percent,,Kostanay,,16-24,KZKUS,1083.0
+2022,Percent,,Kostanay,,25-28,KZKUS,1330.0
+2022,Percent,,Kostanay,,29-34,KZKUS,1431.0
+2022,Percent,,Kostanay,,35-44,KZKUS,1433.0
+2022,Percent,,Kostanay,,45-54,KZKUS,1324.0
+2022,Percent,,Kostanay,,55-64,KZKUS,1258.0
+2022,Percent,,Kostanay,,65 and older,KZKUS,1305.0
+2022,Percent,,Kyzylorda,,16-24,KZKZY,950.0
+2022,Percent,,Kyzylorda,,25-28,KZKZY,1206.0
+2022,Percent,,Kyzylorda,,29-34,KZKZY,1365.0
+2022,Percent,,Kyzylorda,,35-44,KZKZY,1491.0
+2022,Percent,,Kyzylorda,,45-54,KZKZY,1503.0
+2022,Percent,,Kyzylorda,,55-64,KZKZY,1525.0
+2022,Percent,,Kyzylorda,,65 and older,KZKZY,1341.0
+2022,Percent,,Mangistau,,16-24,KZMAN,1198.0
+2022,Percent,,Mangistau,,25-28,KZMAN,1534.0
+2022,Percent,,Mangistau,,29-34,KZMAN,2069.0
+2022,Percent,,Mangistau,,35-44,KZMAN,2558.0
+2022,Percent,,Mangistau,,45-54,KZMAN,2643.0
+2022,Percent,,Mangistau,,55-64,KZMAN,2668.0
+2022,Percent,,Mangistau,,65 and older,KZMAN,2030.0
+2022,Percent,,Pavlodar,,16-24,KZPAV,1223.0
+2022,Percent,,Pavlodar,,25-28,KZPAV,1439.0
+2022,Percent,,Pavlodar,,29-34,KZPAV,1549.0
+2022,Percent,,Pavlodar,,35-44,KZPAV,1615.0
+2022,Percent,,Pavlodar,,45-54,KZPAV,1471.0
+2022,Percent,,Pavlodar,,55-64,KZPAV,1372.0
+2022,Percent,,Pavlodar,,65 and older,KZPAV,1440.0
+2022,Percent,,Soltustik Kazakhstan,,16-24,KZSEV,1027.0
+2022,Percent,,Soltustik Kazakhstan,,25-28,KZSEV,1177.0
+2022,Percent,,Soltustik Kazakhstan,,29-34,KZSEV,1258.0
+2022,Percent,,Soltustik Kazakhstan,,35-44,KZSEV,1302.0
+2022,Percent,,Soltustik Kazakhstan,,45-54,KZSEV,1202.0
+2022,Percent,,Soltustik Kazakhstan,,55-64,KZSEV,1185.0
+2022,Percent,,Soltustik Kazakhstan,,65 and older,KZSEV,1127.0
+2022,Percent,,Turkistan,,16-24,KZYUZ,898.0
+2022,Percent,,Turkistan,,25-28,KZYUZ,1093.0
+2022,Percent,,Turkistan,,29-34,KZYUZ,1270.0
+2022,Percent,,Turkistan,,35-44,KZYUZ,1442.0
+2022,Percent,,Turkistan,,45-54,KZYUZ,1388.0
+2022,Percent,,Turkistan,,55-64,KZYUZ,1355.0
+2022,Percent,,Turkistan,,65 and older,KZYUZ,2159.0
+2022,Percent,,Shygys Kazakhstan,,16-24,KZVOS,1204.0
+2022,Percent,,Shygys Kazakhstan,,25-28,KZVOS,1354.0
+2022,Percent,,Shygys Kazakhstan,,29-34,KZVOS,1527.0
+2022,Percent,,Shygys Kazakhstan,,35-44,KZVOS,1614.0
+2022,Percent,,Shygys Kazakhstan,,45-54,KZVOS,1506.0
+2022,Percent,,Shygys Kazakhstan,,55-64,KZVOS,1391.0
+2022,Percent,,Shygys Kazakhstan,,65 and older,KZVOS,1717.0
+2022,Percent,,Astana city,,16-24,KZNS,1320.0
+2022,Percent,,Astana city,,25-28,KZNS,1706.0
+2022,Percent,,Astana city,,29-34,KZNS,2033.0
+2022,Percent,,Astana city,,35-44,KZNS,2365.0
+2022,Percent,,Astana city,,45-54,KZNS,2107.0
+2022,Percent,,Astana city,,55-64,KZNS,1937.0
+2022,Percent,,Astana city,,65 and older,KZNS,1748.0
+2022,Percent,,Almaty city,,16-24,KZALA,1292.0
+2022,Percent,,Almaty city,,25-28,KZALA,1644.0
+2022,Percent,,Almaty city,,29-34,KZALA,2010.0
+2022,Percent,,Almaty city,,35-44,KZALA,2205.0
+2022,Percent,,Almaty city,,45-54,KZALA,2047.0
+2022,Percent,,Almaty city,,55-64,KZALA,1742.0
+2022,Percent,,Almaty city,,65 and older,KZALA,1764.0
+2022,Percent,,Shymkent city,,16-24,KZSHY,903.0
+2022,Percent,,Shymkent city,,25-28,KZSHY,1116.0
+2022,Percent,,Shymkent city,,29-34,KZSHY,1275.0
+2022,Percent,,Shymkent city,,35-44,KZSHY,1391.0
+2022,Percent,,Shymkent city,,45-54,KZSHY,1363.0
+2022,Percent,,Shymkent city,,55-64,KZSHY,1374.0
+2022,Percent,,Shymkent city,,65 and older,KZSHY,927.0
+2022,Percent,,,Male,16-24,,1250.0
+2022,Percent,,,Male,25-28,,1535.0
+2022,Percent,,,Male,29-34,,1835.0
+2022,Percent,,,Male,35-44,,2038.0
+2022,Percent,,,Male,45-54,,1881.0
+2022,Percent,,,Male,55-64,,1695.0
+2022,Percent,,,Male,65 and older,,1573.0
+2022,Percent,,,Female,16-24,,1134.0
+2022,Percent,,,Female,25-28,,1333.0
+2022,Percent,,,Female,29-34,,1472.0
+2022,Percent,,,Female,35-44,,1591.0
+2022,Percent,,,Female,45-54,,1524.0
+2022,Percent,,,Female,55-64,,1461.0
+2022,Percent,,,Female,65 and older,,1546.0
+2022,Percent,No breakdown,,,,,1644.0
+2022,Percent,"agriculture, forestry and fishery",,,,,990.0
+2022,Percent,Industry,,,,,2159.0
+2022,Percent,Construction,,,,,2142.0
+2022,Percent,wholesale and retail trade; car and motorcycle repair,,,,,1474.0
+2022,Percent,transport and storage,,,,,1833.0
+2022,Percent,services (food and dwelling),,,,,1700.0
+2022,Percent,information and communication,,,,,2211.0
+2022,Percent,finance and insurance,,,,,2866.0
+2022,Percent,real estate transactions,,,,,1433.0
+2022,Percent,"Professional, scientific and technical activities",,,,,2405.0
+2022,Percent,management and support activities,,,,,1559.0
+2022,Percent,government administration and defence,,,,,1231.0
+2022,Percent,education,,,,,1412.0
+2022,Percent,health care and social care,,,,,1398.0
+2022,Percent,"culture, entertainment and leisure",,,,,949.0
+2022,Percent,provision of other types of services,,,,,2398.0
+2022,Percent,No breakdown,,Male,,,1802.0
+2022,Percent,"agriculture, forestry and fishery",,Male,,,1002.0
+2022,Percent,Industry,,Male,,,2294.0
+2022,Percent,Construction,,Male,,,2138.0
+2022,Percent,wholesale and retail trade; car and motorcycle repair,,Male,,,1583.0
+2022,Percent,transport and storage,,Male,,,1910.0
+2022,Percent,services (food and dwelling),,Male,,,2433.0
+2022,Percent,information and communication,,Male,,,2328.0
+2022,Percent,finance and insurance,,Male,,,3573.0
+2022,Percent,real estate transactions,,Male,,,1472.0
+2022,Percent,"Professional, scientific and technical activities",,Male,,,2480.0
+2022,Percent,management and support activities,,Male,,,1588.0
+2022,Percent,government administration and defence,,Male,,,1268.0
+2022,Percent,education,,Male,,,1348.0
+2022,Percent,health care and social care,,Male,,,1496.0
+2022,Percent,"culture, entertainment and leisure",,Male,,,984.0
+2022,Percent,provision of other types of services,,Male,,,2513.0
+2022,Percent,No breakdown,,Female,,,1486.0
+2022,Percent,"agriculture, forestry and fishery",,Female,,,958.0
+2022,Percent,Industry,,Female,,,1810.0
+2022,Percent,Construction,,Female,,,2160.0
+2022,Percent,wholesale and retail trade; car and motorcycle repair,,Female,,,1361.0
+2022,Percent,transport and storage,,Female,,,1612.0
+2022,Percent,services (food and dwelling),,Female,,,1201.0
+2022,Percent,information and communication,,Female,,,2027.0
+2022,Percent,finance and insurance,,Female,,,2409.0
+2022,Percent,real estate transactions,,Female,,,1380.0
+2022,Percent,"Professional, scientific and technical activities",,Female,,,2312.0
+2022,Percent,management and support activities,,Female,,,1470.0
+2022,Percent,government administration and defence,,Female,,,1166.0
+2022,Percent,education,,Female,,,1434.0
+2022,Percent,health care and social care,,Female,,,1362.0
+2022,Percent,"culture, entertainment and leisure",,Female,,,914.0
+2022,Percent,provision of other types of services,,Female,,,2249.0
+2023,Percent,,,,,,2016.0
+2023,Percent,,Abai,,,KZABY,1626.0
+2023,Percent,,Akmola,,,KZAKM,1709.0
+2023,Percent,,Aktobe,,,KZAKT,1781.0
+2023,Percent,,Almaty,,,KZALM,1677.0
+2023,Percent,,Atyrau,,,KZATY,3118.0
+2023,Percent,,Batys Kazakhstan,,,KZZAP,1812.0
+2023,Percent,,Zhambyl,,,KZZHA,1544.0
+2023,Percent,,Zhetisu,,,KZZHS,1494.0
+2023,Percent,,Karagandy,,,KZKAR,1969.0
+2023,Percent,,Kostanay,,,KZKUS,1667.0
+2023,Percent,,Kyzylorda,,,KZKZY,1788.0
+2023,Percent,,Mangistau,,,KZMAN,2868.0
+2023,Percent,,Pavlodar,,,KZPAV,1849.0
+2023,Percent,,Soltustik Kazakhstan,,,KZSEV,1432.0
+2023,Percent,,Turkistan,,,KZYUZ,1619.0
+2023,Percent,,Ulytau,,,KZULU,2805.0
+2023,Percent,,Shygys Kazakhstan,,,KZVOS,1905.0
+2023,Percent,,Astana city,,,KZNS,2348.0
+2023,Percent,,Almaty city,,,KZALA,2392.0
+2023,Percent,,Shymkent city,,,KZSHY,1650.0
+2023,Percent,,,Male,,,2235.0
+2023,Percent,,Abai,Male,,KZABY,1667.0
+2023,Percent,,Akmola,Male,,KZAKM,1769.0
+2023,Percent,,Aktobe,Male,,KZAKT,2015.0
+2023,Percent,,Almaty,Male,,KZALM,1784.0
+2023,Percent,,Atyrau,Male,,KZATY,3705.0
+2023,Percent,,Batys Kazakhstan,Male,,KZZAP,1937.0
+2023,Percent,,Zhambyl,Male,,KZZHA,1555.0
+2023,Percent,,Zhetisu,Male,,KZZHS,1435.0
+2023,Percent,,Karagandy,Male,,KZKAR,2259.0
+2023,Percent,,Kostanay,Male,,KZKUS,1763.0
+2023,Percent,,Kyzylorda,Male,,KZKZY,1774.0
+2023,Percent,,Mangistau,Male,,KZMAN,3445.0
+2023,Percent,,Pavlodar,Male,,KZPAV,2008.0
+2023,Percent,,Soltustik Kazakhstan,Male,,KZSEV,1442.0
+2023,Percent,,Turkistan,Male,,KZYUZ,1609.0
+2023,Percent,,Ulytau,Male,,KZULU,3342.0
+2023,Percent,,Shygys Kazakhstan,Male,,KZVOS,2050.0
+2023,Percent,,Astana city,Male,,KZNS,2618.0
+2023,Percent,,Almaty city,Male,,KZALA,2571.0
+2023,Percent,,Shymkent city,Male,,KZSHY,1675.0
+2023,Percent,,,Female,,,1800.0
+2023,Percent,,Abai,Female,,KZABY,1579.0
+2023,Percent,,Akmola,Female,,KZAKM,1653.0
+2023,Percent,,Aktobe,Female,,KZAKT,1536.0
+2023,Percent,,Almaty,Female,,KZALM,1596.0
+2023,Percent,,Atyrau,Female,,KZATY,2155.0
+2023,Percent,,Batys Kazakhstan,Female,,KZZAP,1692.0
+2023,Percent,,Zhambyl,Female,,KZZHA,1535.0
+2023,Percent,,Zhetisu,Female,,KZZHS,1541.0
+2023,Percent,,Karagandy,Female,,KZKAR,1617.0
+2023,Percent,,Kostanay,Female,,KZKUS,1567.0
+2023,Percent,,Kyzylorda,Female,,KZKZY,1802.0
+2023,Percent,,Mangistau,Female,,KZMAN,2099.0
+2023,Percent,,Pavlodar,Female,,KZPAV,1669.0
+2023,Percent,,Soltustik Kazakhstan,Female,,KZSEV,1422.0
+2023,Percent,,Turkistan,Female,,KZYUZ,1627.0
+2023,Percent,,Ulytau,Female,,KZULU,2192.0
+2023,Percent,,Shygys Kazakhstan,Female,,KZVOS,1751.0
+2023,Percent,,Astana city,Female,,KZNS,2098.0
+2023,Percent,,Almaty city,Female,,KZALA,2231.0
+2023,Percent,,Shymkent city,Female,,KZSHY,1629.0
+2023,Percent,,,,16-24,,1396.0
+2023,Percent,,,,25-28,,1776.0
+2023,Percent,,,,29-34,,2024.0
+2023,Percent,,,,35-44,,2225.0
+2023,Percent,,,,45-54,,2064.0
+2023,Percent,,,,55-64,,1906.0
+2023,Percent,,,,65 and older,,1778.0
+2023,Percent,,Abai,,16-24,KZABY,1299.0
+2023,Percent,,Abai,,25-28,KZABY,1600.0
+2023,Percent,,Abai,,29-34,KZABY,1671.0
+2023,Percent,,Abai,,35-44,KZABY,1738.0
+2023,Percent,,Abai,,45-54,KZABY,1629.0
+2023,Percent,,Abai,,55-64,KZABY,1523.0
+2023,Percent,,Abai,,65 and older,KZABY,1349.0
+2023,Percent,,Akmola,,16-24,KZAKM,1358.0
+2023,Percent,,Akmola,,25-28,KZAKM,1622.0
+2023,Percent,,Akmola,,29-34,KZAKM,1732.0
+2023,Percent,,Akmola,,35-44,KZAKM,1842.0
+2023,Percent,,Akmola,,45-54,KZAKM,1737.0
+2023,Percent,,Akmola,,55-64,KZAKM,1603.0
+2023,Percent,,Akmola,,65 and older,KZAKM,1587.0
+2023,Percent,,Aktobe,,16-24,KZAKT,1376.0
+2023,Percent,,Aktobe,,25-28,KZAKT,1603.0
+2023,Percent,,Aktobe,,29-34,KZAKT,1811.0
+2023,Percent,,Aktobe,,35-44,KZAKT,1901.0
+2023,Percent,,Aktobe,,45-54,KZAKT,1782.0
+2023,Percent,,Aktobe,,55-64,KZAKT,1754.0
+2023,Percent,,Aktobe,,65 and older,KZAKT,1712.0
+2023,Percent,,Almaty,,16-24,KZALM,1221.0
+2023,Percent,,Almaty,,25-28,KZALM,1540.0
+2023,Percent,,Almaty,,29-34,KZALM,1638.0
+2023,Percent,,Almaty,,35-44,KZALM,1850.0
+2023,Percent,,Almaty,,45-54,KZALM,1727.0
+2023,Percent,,Almaty,,55-64,KZALM,1557.0
+2023,Percent,,Almaty,,65 and older,KZALM,1416.0
+2023,Percent,,Atyrau,,16-24,KZATY,1508.0
+2023,Percent,,Atyrau,,25-28,KZATY,2421.0
+2023,Percent,,Atyrau,,29-34,KZATY,2968.0
+2023,Percent,,Atyrau,,35-44,KZATY,3383.0
+2023,Percent,,Atyrau,,45-54,KZATY,3255.0
+2023,Percent,,Atyrau,,55-64,KZATY,3531.0
+2023,Percent,,Atyrau,,65 and older,KZATY,3503.0
+2023,Percent,,Batys Kazakhstan,,16-24,KZZAP,1248.0
+2023,Percent,,Batys Kazakhstan,,25-28,KZZAP,1438.0
+2023,Percent,,Batys Kazakhstan,,29-34,KZZAP,1702.0
+2023,Percent,,Batys Kazakhstan,,35-44,KZZAP,2030.0
+2023,Percent,,Batys Kazakhstan,,45-54,KZZAP,1933.0
+2023,Percent,,Batys Kazakhstan,,55-64,KZZAP,1667.0
+2023,Percent,,Batys Kazakhstan,,65 and older,KZZAP,1612.0
+2023,Percent,,Zhambyl,,16-24,KZZHA,1139.0
+2023,Percent,,Zhambyl,,25-28,KZZHA,1354.0
+2023,Percent,,Zhambyl,,29-34,KZZHA,1530.0
+2023,Percent,,Zhambyl,,35-44,KZZHA,1617.0
+2023,Percent,,Zhambyl,,45-54,KZZHA,1546.0
+2023,Percent,,Zhambyl,,55-64,KZZHA,1580.0
+2023,Percent,,Zhambyl,,65 and older,KZZHA,1506.0
+2023,Percent,,Zhetisu,,16-24,KZZHS,1117.0
+2023,Percent,,Zhetisu,,25-28,KZZHS,1306.0
+2023,Percent,,Zhetisu,,29-34,KZZHS,1516.0
+2023,Percent,,Zhetisu,,35-44,KZZHS,1592.0
+2023,Percent,,Zhetisu,,45-54,KZZHS,1493.0
+2023,Percent,,Zhetisu,,55-64,KZZHS,1462.0
+2023,Percent,,Zhetisu,,65 and older,KZZHS,1709.0
+2023,Percent,,Karagandy,,16-24,KZKAR,1400.0
+2023,Percent,,Karagandy,,25-28,KZKAR,1778.0
+2023,Percent,,Karagandy,,29-34,KZKAR,2041.0
+2023,Percent,,Karagandy,,35-44,KZKAR,2135.0
+2023,Percent,,Karagandy,,45-54,KZKAR,2031.0
+2023,Percent,,Karagandy,,55-64,KZKAR,1872.0
+2023,Percent,,Karagandy,,65 and older,KZKAR,1549.0
+2023,Percent,,Kostanay,,16-24,KZKUS,1294.0
+2023,Percent,,Kostanay,,25-28,KZKUS,1571.0
+2023,Percent,,Kostanay,,29-34,KZKUS,1757.0
+2023,Percent,,Kostanay,,35-44,KZKUS,1788.0
+2023,Percent,,Kostanay,,45-54,KZKUS,1687.0
+2023,Percent,,Kostanay,,55-64,KZKUS,1570.0
+2023,Percent,,Kostanay,,65 and older,KZKUS,1328.0
+2023,Percent,,Kyzylorda,,16-24,KZKZY,1300.0
+2023,Percent,,Kyzylorda,,25-28,KZKZY,1517.0
+2023,Percent,,Kyzylorda,,29-34,KZKZY,1778.0
+2023,Percent,,Kyzylorda,,35-44,KZKZY,1894.0
+2023,Percent,,Kyzylorda,,45-54,KZKZY,1805.0
+2023,Percent,,Kyzylorda,,55-64,KZKZY,1813.0
+2023,Percent,,Kyzylorda,,65 and older,KZKZY,1363.0
+2023,Percent,,Mangistau,,16-24,KZMAN,1562.0
+2023,Percent,,Mangistau,,25-28,KZMAN,1946.0
+2023,Percent,,Mangistau,,29-34,KZMAN,2453.0
+2023,Percent,,Mangistau,,35-44,KZMAN,3135.0
+2023,Percent,,Mangistau,,45-54,KZMAN,3208.0
+2023,Percent,,Mangistau,,55-64,KZMAN,3163.0
+2023,Percent,,Mangistau,,65 and older,KZMAN,1757.0
+2023,Percent,,Pavlodar,,16-24,KZPAV,1416.0
+2023,Percent,,Pavlodar,,25-28,KZPAV,1769.0
+2023,Percent,,Pavlodar,,29-34,KZPAV,1890.0
+2023,Percent,,Pavlodar,,35-44,KZPAV,1985.0
+2023,Percent,,Pavlodar,,45-54,KZPAV,1883.0
+2023,Percent,,Pavlodar,,55-64,KZPAV,1733.0
+2023,Percent,,Pavlodar,,65 and older,KZPAV,1639.0
+2023,Percent,,Soltustik Kazakhstan,,16-24,KZSEV,1190.0
+2023,Percent,,Soltustik Kazakhstan,,25-28,KZSEV,1391.0
+2023,Percent,,Soltustik Kazakhstan,,29-34,KZSEV,1470.0
+2023,Percent,,Soltustik Kazakhstan,,35-44,KZSEV,1529.0
+2023,Percent,,Soltustik Kazakhstan,,45-54,KZSEV,1426.0
+2023,Percent,,Soltustik Kazakhstan,,55-64,KZSEV,1355.0
+2023,Percent,,Soltustik Kazakhstan,,65 and older,KZSEV,1152.0
+2023,Percent,,Turkistan,,16-24,KZYUZ,1087.0
+2023,Percent,,Turkistan,,25-28,KZYUZ,1317.0
+2023,Percent,,Turkistan,,29-34,KZYUZ,1511.0
+2023,Percent,,Turkistan,,35-44,KZYUZ,1724.0
+2023,Percent,,Turkistan,,45-54,KZYUZ,1669.0
+2023,Percent,,Turkistan,,55-64,KZYUZ,1657.0
+2023,Percent,,Turkistan,,65 and older,KZYUZ,1830.0
+2023,Percent,,Ulytau,,16-24,KZULU,2144.0
+2023,Percent,,Ulytau,,25-28,KZULU,2535.0
+2023,Percent,,Ulytau,,29-34,KZULU,3112.0
+2023,Percent,,Ulytau,,35-44,KZULU,3232.0
+2023,Percent,,Ulytau,,45-54,KZULU,2610.0
+2023,Percent,,Ulytau,,55-64,KZULU,2486.0
+2023,Percent,,Ulytau,,65 and older,KZULU,2062.0
+2023,Percent,,Shygys Kazakhstan,,16-24,KZVOS,1422.0
+2023,Percent,,Shygys Kazakhstan,,25-28,KZVOS,1803.0
+2023,Percent,,Shygys Kazakhstan,,29-34,KZVOS,1958.0
+2023,Percent,,Shygys Kazakhstan,,35-44,KZVOS,2146.0
+2023,Percent,,Shygys Kazakhstan,,45-54,KZVOS,1937.0
+2023,Percent,,Shygys Kazakhstan,,55-64,KZVOS,1694.0
+2023,Percent,,Shygys Kazakhstan,,65 and older,KZVOS,1610.0
+2023,Percent,,Astana city,,16-24,KZNS,1450.0
+2023,Percent,,Astana city,,25-28,KZNS,1988.0
+2023,Percent,,Astana city,,29-34,KZNS,2316.0
+2023,Percent,,Astana city,,35-44,KZNS,2704.0
+2023,Percent,,Astana city,,45-54,KZNS,2523.0
+2023,Percent,,Astana city,,55-64,KZNS,2136.0
+2023,Percent,,Astana city,,65 and older,KZNS,1783.0
+2023,Percent,,Almaty city,,16-24,KZALA,1521.0
+2023,Percent,,Almaty city,,25-28,KZALA,2076.0
+2023,Percent,,Almaty city,,29-34,KZALA,2422.0
+2023,Percent,,Almaty city,,35-44,KZALA,2788.0
+2023,Percent,,Almaty city,,45-54,KZALA,2562.0
+2023,Percent,,Almaty city,,55-64,KZALA,2120.0
+2023,Percent,,Almaty city,,65 and older,KZALA,2278.0
+2023,Percent,,Shymkent city,,16-24,KZSHY,1093.0
+2023,Percent,,Shymkent city,,25-28,KZSHY,1397.0
+2023,Percent,,Shymkent city,,29-34,KZSHY,1595.0
+2023,Percent,,Shymkent city,,35-44,KZSHY,1739.0
+2023,Percent,,Shymkent city,,45-54,KZSHY,1747.0
+2023,Percent,,Shymkent city,,55-64,KZSHY,1691.0
+2023,Percent,,Shymkent city,,65 and older,KZSHY,1566.0
+2023,Percent,,,Male,16-24,,1480.0
+2023,Percent,,,Male,25-28,,1915.0
+2023,Percent,,,Male,29-34,,2235.0
+2023,Percent,,,Male,35-44,,2541.0
+2023,Percent,,,Male,45-54,,2335.0
+2023,Percent,,,Male,55-64,,2037.0
+2023,Percent,,,Male,65 and older,,1801.0
+2023,Percent,,,Female,16-24,,1303.0
+2023,Percent,,,Female,25-28,,1595.0
+2023,Percent,,,Female,29-34,,1757.0
+2023,Percent,,,Female,35-44,,1910.0
+2023,Percent,,,Female,45-54,,1857.0
+2023,Percent,,,Female,55-64,,1784.0
+2023,Percent,,,Female,65 and older,,1749.0
+2023,Percent,No breakdown,,,,,2016.0
+2023,Percent,"agriculture, forestry and fishery",,,,,1219.0
+2023,Percent,Industry,,,,,2631.0
+2023,Percent,Construction,,,,,2812.0
+2023,Percent,wholesale and retail trade; car and motorcycle repair,,,,,1882.0
+2023,Percent,transport and storage,,,,,2298.0
+2023,Percent,services (food and dwelling),,,,,1979.0
+2023,Percent,information and communication,,,,,3152.0
+2023,Percent,finance and insurance,,,,,3542.0
+2023,Percent,real estate transactions,,,,,1616.0
+2023,Percent,"Professional, scientific and technical activities",,,,,2483.0
+2023,Percent,management and support activities,,,,,1794.0
+2023,Percent,government administration and defence,,,,,1551.0
+2023,Percent,education,,,,,1689.0
+2023,Percent,health care and social care,,,,,1776.0
+2023,Percent,"culture, entertainment and leisure",,,,,1317.0
+2023,Percent,provision of other types of services,,,,,2304.0
+2023,Percent,No breakdown,,Male,,,2235.0
+2023,Percent,"agriculture, forestry and fishery",,Male,,,1245.0
+2023,Percent,Industry,,Male,,,2797.0
+2023,Percent,Construction,,Male,,,2897.0
+2023,Percent,wholesale and retail trade; car and motorcycle repair,,Male,,,2056.0
+2023,Percent,transport and storage,,Male,,,2383.0
+2023,Percent,services (food and dwelling),,Male,,,2650.0
+2023,Percent,information and communication,,Male,,,3400.0
+2023,Percent,finance and insurance,,Male,,,4320.0
+2023,Percent,real estate transactions,,Male,,,1676.0
+2023,Percent,"Professional, scientific and technical activities",,Male,,,2697.0
+2023,Percent,management and support activities,,Male,,,1857.0
+2023,Percent,government administration and defence,,Male,,,1632.0
+2023,Percent,education,,Male,,,1591.0
+2023,Percent,health care and social care,,Male,,,1924.0
+2023,Percent,"culture, entertainment and leisure",,Male,,,1395.0
+2023,Percent,provision of other types of services,,Male,,,2410.0
+2023,Percent,No breakdown,,Female,,,1800.0
+2023,Percent,"agriculture, forestry and fishery",,Female,,,1156.0
+2023,Percent,Industry,,Female,,,2197.0
+2023,Percent,Construction,,Female,,,2382.0
+2023,Percent,wholesale and retail trade; car and motorcycle repair,,Female,,,1702.0
+2023,Percent,transport and storage,,Female,,,2062.0
+2023,Percent,services (food and dwelling),,Female,,,1541.0
+2023,Percent,information and communication,,Female,,,2804.0
+2023,Percent,finance and insurance,,Female,,,3045.0
+2023,Percent,real estate transactions,,Female,,,1535.0
+2023,Percent,"Professional, scientific and technical activities",,Female,,,2177.0
+2023,Percent,management and support activities,,Female,,,1619.0
+2023,Percent,government administration and defence,,Female,,,1406.0
+2023,Percent,education,,Female,,,1723.0
+2023,Percent,health care and social care,,Female,,,1722.0
+2023,Percent,"culture, entertainment and leisure",,Female,,,1245.0
+2023,Percent,provision of other types of services,,Female,,,2190.0
