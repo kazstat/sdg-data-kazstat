@@ -5120,33 +5120,9 @@
             "title": "Жыл"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "KZAKM",
-                "KZAKT",
-                "KZALM",
-                "KZATY",
-                "KZZHA",
-                "KZKAR",
-                "KZKUS",
-                "KZKZY",
-                "KZMAN",
-                "KZPAV",
-                "KZSEV",
-                "YUZ",
-                "VOS",
-                "NS",
-                "ALA",
-                "SHY",
-                "ABY",
-                "ZHS",
-                "ULU",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "REF_AREA",

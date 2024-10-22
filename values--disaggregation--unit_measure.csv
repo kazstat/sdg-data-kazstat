@@ -1,4 +1,17 @@
 Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
+ABY,ABY,ABY,ABY,1,1
+ALA,ALA,ALA,ALA,1,1
+KZAKM,KZAKM,KZAKM,KZAKM,1,1
+KZAKT,KZAKT,KZAKT,KZAKT,1,1
+KZALM,KZALM,KZALM,KZALM,1,1
+KZATY,KZATY,KZATY,KZATY,2,1
+KZKAR,KZKAR,KZKAR,KZKAR,1,1
+KZKUS,KZKUS,KZKUS,KZKUS,1,1
+KZKZY,KZKZY,KZKZY,KZKZY,1,1
+KZMAN,KZMAN,KZMAN,KZMAN,1,1
+KZPAV,KZPAV,KZPAV,KZPAV,1,1
+KZSEV,KZSEV,KZSEV,KZSEV,1,1
+KZZHA,KZZHA,KZZHA,KZZHA,1,1
 M_METER3,млн.м3,млн.метр куб,M_METER3,17,1
 M_T,млн.тонн,млн.тонна,millions tonnes,73,1
 M_TNG,млн.тенге,млн.теңге,million tenge,1,1
@@ -6,6 +19,7 @@ M_USD,млн.долл.США,млн АҚШ доллары,million US dollars,36,
 METER3_TH_TNG,м³/тыс.тенге,м3 / мың теңге,METER3_TH_TNG,3,1
 MG_CUB_METER,мг/метр куб,мг/метр куб,mg per cube meters,90,1
 MW,Мвт,Мвт,Megawatts,21,1
+NS,NS,NS,NS,1,1
 NUM_ATM_PER_100000_ADL,число банкоматов на 100 000 взрослых,100 000 ересекке шаққандағы банкоматтар саны,number of ATMs per 100 000 adults,1,1
 NUM_CBBR_PER_100000_ADL,число филиалов коммерческих банков на 100 000 взрослых,100 000 ересекке шаққандағы коммерциялық банктер саны,the number of branches of commercial banks per 100 000 adults,1,1
 PER_1000000_POP,млн.человек,млн.адам,mln.people,50,1
@@ -19,6 +33,7 @@ PT,процент,пайыз,Percent,3519,124
 PT_BY_2005,в процентах к 2005 году,2005 жылға пайызбен,as a percentage to 2005,17,1
 PT_IN_2010_PRICE,"процент, в ценах 2010 года",2010 жылғы бағаларда пайызбен,"percent, base year 2010",18,1
 PT_PREV_Y,в процентах к предыдущему году,өткен жылға пайызбен,as a percentage to the previous year,50,5
+SHY,SHY,SHY,SHY,1,1
 SQ_METER,кв.метр,шаршы метр,square meter,60,1
 T,тонн,тонна,tons,10,1
 T_PERCAP,тонн на душу населения,T_PERCAP,T_PERCAP,1,1
@@ -26,8 +41,12 @@ TH_HA,тыс.гектар,мың.гектар,thousands hectares,81,4
 TH_PEOPLE,тыс.человек,мың.адам,thousand people,46,3
 TH_TNG,тыс.тенге,мың теңге,thousand of tenge,62,2
 TH_UNITS,тыс.единиц,мың бірлік,thousands,66,1
+ULU,ULU,ULU,ULU,1,1
 UNITS,единиц,бірлік,units,5,4
 USD_IN_2010_PRICE,"в долларах США, в ценах 2010 года","2010 жылғы бағаларда, АҚШ доллар",tenge per US dollars in 2010 prices,17,1
+VOS,VOS,VOS,VOS,1,1
+YUZ,YUZ,YUZ,YUZ,1,1
+ZHS,ZHS,ZHS,ZHS,1,1
 кг СО2-экв/межд.доллар,кг СО2-экв/межд.доллар,кг СО2-экв/межд.доллар,кг СО2-экв/межд.доллар,1,1
 млрд.тенге,млрд.тенге,млрд.тенге,млрд.тенге,1,1
 тонн СО2-экв/душу населения,тонн СО2-экв/душу населения,тонн СО2-экв/душу населения,тонн СО2-экв/душу населения,1,1

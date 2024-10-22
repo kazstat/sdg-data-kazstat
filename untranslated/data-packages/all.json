@@ -4664,32 +4664,8 @@
             "type": "string"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KZAKM",
-                "KZAKT",
-                "KZALM",
-                "KZATY",
-                "KZZHA",
-                "KZKAR",
-                "KZKUS",
-                "KZKZY",
-                "KZMAN",
-                "KZPAV",
-                "KZSEV",
-                "YUZ",
-                "VOS",
-                "NS",
-                "ALA",
-                "SHY",
-                "ABY",
-                "ZHS",
-                "ULU",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "REF_AREA",
