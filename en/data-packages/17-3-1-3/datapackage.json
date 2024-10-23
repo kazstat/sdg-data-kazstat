@@ -16,33 +16,9 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "KZAKM",
-                "KZAKT",
-                "KZALM",
-                "KZATY",
-                "KZZHA",
-                "KZKAR",
-                "KZKUS",
-                "KZKZY",
-                "KZMAN",
-                "KZPAV",
-                "KZSEV",
-                "YUZ",
-                "VOS",
-                "NS",
-                "ALA",
-                "SHY",
-                "ABY",
-                "ZHS",
-                "ULU",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit of measure"
           },
           {
             "name": "REF_AREA",
