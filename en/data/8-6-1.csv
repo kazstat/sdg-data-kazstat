@@ -1012,12 +1012,14 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2021,Percent,Shygys Kazakhstan,rural,,KZVOS,6.8
 2021,Percent,Turkistan,rural,,KZYUZ,6.9
 2022,Percent,,,,,4.6
+2022,Percent,Abai,,,KZABY,4.2
 2022,Percent,Akmola,,,KZAKM,3.9
 2022,Percent,Aktobe,,,KZAKT,4.7
 2022,Percent,Almaty,,,KZALM,6.1
 2022,Percent,Atyrau,,,KZATY,5.4
 2022,Percent,Batys Kazakhstan,,,KZZAP,2.1
 2022,Percent,Zhambyl,,,KZZHA,5.5
+2022,Percent,Zhetisu,,,KZZHS,3.5
 2022,Percent,Karagandy,,,KZKAR,6.5
 2022,Percent,Kostanay,,,KZKUS,3.2
 2022,Percent,Kyzylorda,,,KZKZY,5.5
@@ -1025,17 +1027,20 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2022,Percent,Pavlodar,,,KZPAV,3.4
 2022,Percent,Soltustik Kazakhstan,,,KZSEV,6.6
 2022,Percent,Turkistan,,,KZYUZ,6.1
+2022,Percent,Ulytau,,,KZULU,8.7
 2022,Percent,Shygys Kazakhstan,,,KZVOS,4.9
 2022,Percent,Astana city,,,KZNS,3.0
 2022,Percent,Almaty city,,,KZALA,3.8
 2022,Percent,Shymkent city,,,KZSHY,2.6
 2022,Percent,,,Male,,3.4
+2022,Percent,Abai,,Male,KZABY,3.3
 2022,Percent,Akmola,,Male,KZAKM,1.9
 2022,Percent,Aktobe,,Male,KZAKT,3.0
 2022,Percent,Almaty,,Male,KZALM,5.6
 2022,Percent,Atyrau,,Male,KZATY,3.6
 2022,Percent,Batys Kazakhstan,,Male,KZZAP,1.5
 2022,Percent,Zhambyl,,Male,KZZHA,4.3
+2022,Percent,Zhetisu,,Male,KZZHS,1.6
 2022,Percent,Karagandy,,Male,KZKAR,4.3
 2022,Percent,Kostanay,,Male,KZKUS,2.1
 2022,Percent,Kyzylorda,,Male,KZKZY,3.8
@@ -1043,17 +1048,20 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2022,Percent,Pavlodar,,Male,KZPAV,2.9
 2022,Percent,Soltustik Kazakhstan,,Male,KZSEV,3.6
 2022,Percent,Turkistan,,Male,KZYUZ,5.2
+2022,Percent,Ulytau,,Male,KZULU,3.5
 2022,Percent,Shygys Kazakhstan,,Male,KZVOS,3.5
 2022,Percent,Astana city,,Male,KZNS,3.1
 2022,Percent,Almaty city,,Male,KZALA,2.5
 2022,Percent,Shymkent city,,Male,KZSHY,2.2
 2022,Percent,,,Female,,5.8
+2022,Percent,Akmola,,Female,KZAKM,5.1
 2022,Percent,Akmola,,Female,KZAKM,5.9
 2022,Percent,Aktobe,,Female,KZAKT,6.5
 2022,Percent,Almaty,,Female,KZALM,6.6
 2022,Percent,Atyrau,,Female,KZATY,7.3
 2022,Percent,Batys Kazakhstan,,Female,KZZAP,2.6
 2022,Percent,Zhambyl,,Female,KZZHA,6.9
+2022,Percent,Zhetisu,,Female,KZZHS,5.8
 2022,Percent,Karagandy,,Female,KZKAR,8.8
 2022,Percent,Kostanay,,Female,KZKUS,4.4
 2022,Percent,Kyzylorda,,Female,KZKZY,7.3
@@ -1061,17 +1069,20 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2022,Percent,Pavlodar,,Female,KZPAV,3.9
 2022,Percent,Soltustik Kazakhstan,,Female,KZSEV,9.9
 2022,Percent,Turkistan,,Female,KZYUZ,7.1
+2022,Percent,Ulytau,,Female,KZULU,13.9
 2022,Percent,Shygys Kazakhstan,,Female,KZVOS,6.4
 2022,Percent,Astana city,,Female,KZNS,2.9
 2022,Percent,Almaty city,,Female,KZALA,4.8
 2022,Percent,Shymkent city,,Female,KZSHY,3.0
 2022,Percent,,urban,,,3.8
+2022,Percent,Abai,urban,,KZABY,3.3
 2022,Percent,Akmola,urban,,KZAKM,2.9
 2022,Percent,Aktobe,urban,,KZAKT,4.5
 2022,Percent,Almaty,urban,,KZALM,5.9
 2022,Percent,Atyrau,urban,,KZATY,6.7
 2022,Percent,Batys Kazakhstan,urban,,KZZAP,1.3
 2022,Percent,Zhambyl,urban,,KZZHA,4.2
+2022,Percent,Zhetisu,urban,,KZZHS,4.7
 2022,Percent,Karagandy,urban,,KZKAR,6.8
 2022,Percent,Kostanay,urban,,KZKUS,2.6
 2022,Percent,Kyzylorda,urban,,KZKZY,4.1
@@ -1079,17 +1090,20 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2022,Percent,Pavlodar,urban,,KZPAV,2.4
 2022,Percent,Soltustik Kazakhstan,urban,,KZSEV,6.1
 2022,Percent,Turkistan,urban,,KZYUZ,2.9
+2022,Percent,Ulytau,urban,,KZULU,7.7
 2022,Percent,Shygys Kazakhstan,urban,,KZVOS,5.2
 2022,Percent,Astana city,urban,,KZNS,3.0
 2022,Percent,Almaty city,urban,,KZALA,3.8
 2022,Percent,Shymkent city,urban,,KZSHY,2.6
 2022,Percent,,rural,,,5.9
+2022,Percent,Akmola,rural,,KZAKM,7.0
 2022,Percent,Akmola,rural,,KZAKM,5.2
 2022,Percent,Aktobe,rural,,KZAKT,5.6
 2022,Percent,Almaty,rural,,KZALM,6.1
 2022,Percent,Atyrau,rural,,KZATY,4.2
 2022,Percent,Batys Kazakhstan,rural,,KZZAP,3.1
 2022,Percent,Zhambyl,rural,,KZZHA,6.6
+2022,Percent,Zhetisu,rural,,KZZHS,2.7
 2022,Percent,Karagandy,rural,,KZKAR,5.1
 2022,Percent,Kostanay,rural,,KZKUS,4.2
 2022,Percent,Kyzylorda,rural,,KZKZY,6.4
@@ -1097,14 +1111,17 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2022,Percent,Pavlodar,rural,,KZPAV,6.0
 2022,Percent,Soltustik Kazakhstan,rural,,KZSEV,7.1
 2022,Percent,Shygys Kazakhstan,rural,,KZVOS,7.1
+2022,Percent,Ulytau,rural,,KZULU,12.0
 2022,Percent,Turkistan,rural,,KZYUZ,4.3
 2023,Percent,,,,,6.0
+2023,Percent,Abai,,,KZABY,4.3
 2023,Percent,Akmola,,,KZAKM,5.0
 2023,Percent,Aktobe,,,KZAKT,8.2
 2023,Percent,Almaty,,,KZALM,6.3
 2023,Percent,Atyrau,,,KZATY,6.4
 2023,Percent,Batys Kazakhstan,,,KZZAP,3.1
 2023,Percent,Zhambyl,,,KZZHA,4.1
+2023,Percent,Zhetisu,,,KZZHS,2.0
 2023,Percent,Karagandy,,,KZKAR,6.8
 2023,Percent,Kostanay,,,KZKUS,3.8
 2023,Percent,Kyzylorda,,,KZKZY,6.1
@@ -1112,17 +1129,20 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2023,Percent,Pavlodar,,,KZPAV,3.7
 2023,Percent,Soltustik Kazakhstan,,,KZSEV,8.3
 2023,Percent,Turkistan,,,KZYUZ,8.9
+2023,Percent,Ulytau,,,KZULU,8.0
 2023,Percent,Shygys Kazakhstan,,,KZVOS,4.6
 2023,Percent,Astana city,,,KZNS,5.8
 2023,Percent,Almaty city,,,KZALA,5.2
 2023,Percent,Shymkent city,,,KZSHY,6.5
 2023,Percent,,,Male,,3.3
+2023,Percent,Abai,,Male,KZABY,1.8
 2023,Percent,Akmola,,Male,KZAKM,2.6
 2023,Percent,Aktobe,,Male,KZAKT,3.1
 2023,Percent,Almaty,,Male,KZALM,4.8
 2023,Percent,Atyrau,,Male,KZATY,3.6
 2023,Percent,Batys Kazakhstan,,Male,KZZAP,1.6
 2023,Percent,Zhambyl,,Male,KZZHA,2.4
+2023,Percent,Zhetisu,,Male,KZZHS,0.6
 2023,Percent,Karagandy,,Male,KZKAR,2.5
 2023,Percent,Kostanay,,Male,KZKUS,2.0
 2023,Percent,Kyzylorda,,Male,KZKZY,4.3
@@ -1130,17 +1150,20 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2023,Percent,Pavlodar,,Male,KZPAV,2.0
 2023,Percent,Soltustik Kazakhstan,,Male,KZSEV,4.2
 2023,Percent,Turkistan,,Male,KZYUZ,4.7
+2023,Percent,Ulytau,,Male,KZULU,2.5
 2023,Percent,Shygys Kazakhstan,,Male,KZVOS,2.4
 2023,Percent,Astana city,,Male,KZNS,3.1
 2023,Percent,Almaty city,,Male,KZALA,3.0
 2023,Percent,Shymkent city,,Male,KZSHY,4.0
 2023,Percent,,,Female,,4.2
+2023,Percent,Abai,,Female,KZABY,4.4
 2023,Percent,Akmola,,Female,KZAKM,4.2
 2023,Percent,Aktobe,,Female,KZAKT,5.0
 2023,Percent,Almaty,,Female,KZALM,7.5
 2023,Percent,Atyrau,,Female,KZATY,6.4
 2023,Percent,Batys Kazakhstan,,Female,KZZAP,2.3
 2023,Percent,Zhambyl,,Female,KZZHA,3.4
+2023,Percent,Zhetisu,,Female,KZZHS,2.5
 2023,Percent,Karagandy,,Female,KZKAR,4.7
 2023,Percent,Kostanay,,Female,KZKUS,2.8
 2023,Percent,Kyzylorda,,Female,KZKZY,4.3
@@ -1148,17 +1171,20 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2023,Percent,Pavlodar,,Female,KZPAV,2.4
 2023,Percent,Soltustik Kazakhstan,,Female,KZSEV,7.2
 2023,Percent,Turkistan,,Female,KZYUZ,9.7
+2023,Percent,Ulytau,,Female,KZULU,5.9
 2023,Percent,Shygys Kazakhstan,,Female,KZVOS,4.4
 2023,Percent,Astana city,,Female,KZNS,3.0
 2023,Percent,Almaty city,,Female,KZALA,2.8
 2023,Percent,Shymkent city,,Female,KZSHY,1.7
 2023,Percent,,urban,,,5.8
+2023,Percent,Abai,urban,,KZABY,3.5
 2023,Percent,Akmola,urban,,KZAKM,4.1
 2023,Percent,Aktobe,urban,,KZAKT,17.7
 2023,Percent,Almaty,urban,,KZALM,2.4
 2023,Percent,Atyrau,urban,,KZATY,5.5
 2023,Percent,Batys Kazakhstan,urban,,KZZAP,0.3
 2023,Percent,Zhambyl,urban,,KZZHA,4.7
+2023,Percent,Ulytau,urban,,KZULU,0.8
 2023,Percent,Karagandy,urban,,KZKAR,10.1
 2023,Percent,Kostanay,urban,,KZKUS,4.4
 2023,Percent,Kyzylorda,urban,,KZKZY,6.1
@@ -1166,17 +1192,20 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2023,Percent,Pavlodar,urban,,KZPAV,2.6
 2023,Percent,Soltustik Kazakhstan,urban,,KZSEV,15.8
 2023,Percent,Turkistan,urban,,KZYUZ,23.2
+2023,Percent,Ulytau,urban,,KZULU,10.6
 2023,Percent,Shygys Kazakhstan,urban,,KZVOS,1.5
 2023,Percent,Astana city,urban,,KZNS,4.4
 2023,Percent,Almaty city,urban,,KZALA,2.7
 2023,Percent,Shymkent city,urban,18.8,KZSHY,
 2023,Percent,,rural,,,13.1
+2023,Percent,Abai,rural,,KZABY,5.4
 2023,Percent,Akmola,rural,,KZAKM,13.4
 2023,Percent,Aktobe,rural,,KZAKT,19.9
 2023,Percent,Almaty,rural,,KZALM,5.7
 2023,Percent,Atyrau,rural,,KZATY,12.7
 2023,Percent,Batys Kazakhstan,rural,,KZZAP,3.5
 2023,Percent,Zhambyl,rural,,KZZHA,3.4
+2023,Percent,Zhetisu,rural,,KZZHS,4.3
 2023,Percent,Karagandy,rural,,KZKAR,38.1
 2023,Percent,Kostanay,rural,,KZKUS,10.1
 2023,Percent,Kyzylorda,rural,,KZKZY,12.4
@@ -1184,4 +1213,5 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2023,Percent,Pavlodar,rural,,KZPAV,15.4
 2023,Percent,Soltustik Kazakhstan,rural,,KZSEV,12.7
 2023,Percent,Shygys Kazakhstan,rural,,KZVOS,18.9
+2023,Percent,Ulytau,rural,,KZULU,25.9
 2023,Percent,Turkistan,rural,,KZYUZ,9.1

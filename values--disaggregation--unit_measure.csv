@@ -15,7 +15,7 @@ PER_1000_LIVE_BIRTHS,на 1000 родившихся,1000 туылғанға,per 
 PER_1000_POP,на 1000 населения,1000 халыққа,per 1000 population,4,1
 PER_1000_UNINFECTED_POP,на 1000 неинфицированных,1000 жұқтырмағандарға,per 1000 non immunized,1,1
 PERSONS,человек,адам,persons,29,5
-PT,процент,пайыз,Percent,3553,125
+PT,процент,пайыз,Percent,3568,125
 PT_BY_2005,в процентах к 2005 году,2005 жылға пайызбен,as a percentage to 2005,17,1
 PT_IN_2010_PRICE,"процент, в ценах 2010 года",2010 жылғы бағаларда пайызбен,"percent, base year 2010",18,1
 PT_PREV_Y,в процентах к предыдущему году,өткен жылға пайызбен,as a percentage to the previous year,50,5
