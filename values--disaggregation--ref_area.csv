@@ -1,40 +1,21 @@
 Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
--13.0,-13.0,-13.0,-13.0,1,1
--22.0,-22.0,-22.0,-22.0,1,1
-105.0,105.0,105.0,105.0,1,1
-113.0,113.0,113.0,113.0,1,1
-122.0,122.0,122.0,122.0,1,1
-128.0,128.0,128.0,128.0,1,1
-1433.0,1433.0,1433.0,1433.0,1,1
-1612.0,1612.0,1612.0,1612.0,1,1
-1673.0,1673.0,1673.0,1673.0,1,1
-2601.0,2601.0,2601.0,2601.0,1,1
-285.0,285.0,285.0,285.0,1,1
 32.8,32.8,32.8,32.8,1,1
-335.0,335.0,335.0,335.0,1,1
-368.0,368.0,368.0,368.0,1,1
-37.0,37.0,37.0,37.0,1,1
-41.0,41.0,41.0,41.0,2,2
-4958.0,4958.0,4958.0,4958.0,1,1
+41.0,41.0,41.0,41.0,1,1
 55.9,55.9,55.9,55.9,1,1
-6.0,6.0,6.0,6.0,1,1
 60.7,60.7,60.7,60.7,1,1
-705.0,705.0,705.0,705.0,1,1
-9222.0,9222.0,9222.0,9222.0,1,1
-94.0,94.0,94.0,94.0,1,1
 KZABY,Абай,Абай,Abai,75,28
-KZAKM,Акмолинская,Ақмола,Akmola,253,70
+KZAKM,Акмолинская,Ақмола,Akmola,254,71
 KZAKS,г.Аксай,Ақсай,city Aksay,1,1
 KZAKSU,г.Аксу,Ақсу,city Aksu,1,1
-KZAKT,Актюбинская,Ақтөбе,Aktobe,249,69
+KZAKT,Актюбинская,Ақтөбе,Aktobe,250,70
 KZAKY,п.Акай,Ақай кенті,village Akay,1,1
-KZALA,г_Алматы,Алматы қаласы,Almaty city,200,64
-KZALM,Алматинская,Алматы,Almaty,255,70
+KZALA,г_Алматы,Алматы қаласы,Almaty city,201,65
+KZALM,Алматинская,Алматы,Almaty,256,71
 KZAP,KZAP,KZAP,KZAP,1,1
 KZARK,г.Аркалык,Арқалық,city Arkalık,1,1
 KZATB,г.Актобе,Ақтөбе,city Aktobe,2,1
 KZATR,г.Атырау,Атырау,city Atyrau,2,1
-KZATY,Атырауская,Атырау,Atyrau,246,68
+KZATY,Атырауская,Атырау,Atyrau,247,69
 KZAYB,KZAYB,KZAYB,KZAYB,1,1
 KZBEI,п.Бейнеу,Бейнеу кенті,village Beineu,2,1
 KZBER,п.Березовка,Березовка кенті,village Berezovka,2,1
@@ -43,7 +24,7 @@ KZBOR,СКФМ «Боровое»,«Бурабай» МКҚК,SKFM «Borovoe»,2
 KZDMB,KZDMB,KZDMB,KZDMB,1,1
 KZEBT,г.Экибастуз,Екібастұз,city Ekibastuz,2,1
 KZGLU,п.Глубокое,Глубокое кенті,village Glubokoye,2,1
-KZKAR,Карагандинская,Қарағанды,Karagandy,255,70
+KZKAR,Карагандинская,Қарағанды,Karagandy,256,71
 KZKAT,г.Каратау,Қаратау,city Karatau,2,1
 KZKBL,п.Карабалык,Қарабалық кенті,Karabalyk,2,1
 KZKET,г.Кентау,Кентау,city Kentau,2,1
@@ -52,22 +33,22 @@ KZKOR,п.Кордай,Қордай кенті,village Kordai,2,1
 KZKOS,г.Костанай,Қостанай,city Kostanay,2,1
 KZKRG,г.Караганда,Қарағанды,city Karagandy,2,1
 KZKSH,г.Кокшетау,Көкшетау,City Kokshetau,2,1
-KZKUS,Костанайская,Қостанай,Kostanay,251,67
+KZKUS,Костанайская,Қостанай,Kostanay,252,68
 KZKZL,г.Кызылорда,Қызылорда,city Kyzylorda,2,1
-KZKZY,Кызылординская,Қызылорда,Kyzylorda,250,68
+KZKZY,Кызылординская,Қызылорда,Kyzylorda,251,69
 KZLIS,г_Лисаковск,KZLIS,KZLIS,2,1
-KZMAN,Мангистауская,Маңғыстау,Mangistau,250,68
-KZNS,г_Астана,Астана қаласы,Astana city,202,63
+KZMAN,Мангистауская,Маңғыстау,Mangistau,251,69
+KZNS,г_Астана,Астана қаласы,Astana city,203,64
 KZONT,Южно-Казахстанская,Оңтүстік Қазақстан,Ontustik Kazakhstan,199,52
-KZPAV,Павлодарская,Павлодар,Pavlodar,255,70
+KZPAV,Павлодарская,Павлодар,Pavlodar,256,71
 KZPVL,г.Павлодар,Павлодар,city Pavlodar,2,1
 KZRDD,г.Риддер,Риддер,city Ridder,1,1
 KZRDN,г.Рудный,Рудный,city Rudny,1,1
 KZSEM,г.Семей,Семей,city Semey,2,1
-KZSEV,Северо-Казахстанская,Солтүстік Қазақстан,Soltustik Kazakhstan,254,70
+KZSEV,Северо-Казахстанская,Солтүстік Қазақстан,Soltustik Kazakhstan,255,71
 KZSHB,ЩБКЗ,ЩБКЗ,SHBKZ,2,1
 KZSHU,г.Чу,Шу,Shu city,2,1
-KZSHY,г_Шымкент,Шымкент қаласы,Shymkent city,177,53
+KZSHY,г_Шымкент,Шымкент қаласы,Shymkent city,178,54
 KZSRB,п.Сарыбулак,Сарыбұлақ кенті,village Sarıbulak,2,1
 KZSRN,г.Сарань,Саран,city Saran,2,1
 KZSTG,г.Степногорск,Степногорск,City Stepnogorsk,2,1
@@ -80,11 +61,11 @@ KZUKK,KZUKK,KZUKK,KZUKK,1,1
 KZULU,Ұлытау,Ұлытау,Ulytau,72,28
 KZURL,г.Уральск,Орал,city Uralsk,2,1
 KZUSK,г.Усть-Каменогорск,Өскемен,city Ust-Kamenogorsk,1,1
-KZVOS,Восточно-Казахстанская,Шығыс Қазақстан,Shygys Kazakhstan,253,70
+KZVOS,Восточно-Казахстанская,Шығыс Қазақстан,Shygys Kazakhstan,254,71
 KZYAN,п.Январцево,Январцев кенті,village Yanvartsevo,2,1
-KZYUZ,Туркестанская,Түркістан,Turkistan,230,59
-KZZAP,Западно-Казахстанская,Батыс Қазақстан,Batys Kazakhstan,248,67
-KZZHA,Жымбылская,Жамбыл,Zhambyl,254,70
+KZYUZ,Туркестанская,Түркістан,Turkistan,231,60
+KZZAP,Западно-Казахстанская,Батыс Қазақстан,Batys Kazakhstan,249,68
+KZZHA,Жымбылская,Жамбыл,Zhambyl,255,71
 KZZHK,г.Жезказган,Жезқазған,city Zhezkazgan,2,1
 KZZHO,г.Жанаозен,Жаңаөзен,city Zhanaozen,1,1
 KZZHR,г.Житикара,Жетіқара,city Zhitikara,2,1
