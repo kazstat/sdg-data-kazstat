@@ -16,9 +16,33 @@
             "title": "Жыл"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Units",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "constraints": {
+              "enum": [
+                "KZAKM",
+                "KZAKT",
+                "KZALM",
+                "KZATY",
+                "KZZHA",
+                "KZKAR",
+                "KZKUS",
+                "KZKZY",
+                "KZMAN",
+                "KZPAV",
+                "KZSEV",
+                "YUZ",
+                "VOS",
+                "NS",
+                "ALA",
+                "SHY",
+                "ABY",
+                "ZHS",
+                "ULU",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "REF_AREA",
