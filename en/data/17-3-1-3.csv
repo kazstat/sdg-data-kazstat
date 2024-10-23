@@ -1,55 +1,89 @@
 Year,UNIT_MEASURE,Regions,GeoCode,Value
-,,,,15.0
-,,,,13.7
-,,,,13.9
-,,,,10.2
-,,,,10.8
-,,,,8.3
-,,,,15.6
-,,,,12.6
-,,,,13.5
-,,,,13.5
-,,,,10.0
-,,,,12.1
-,,,,12.5
-,,,,9.0
-KZAKM,-13.0,2.0,2.0,
-KZAKT,1433.0,4.0,4.0,
-KZALM,122.0,0.0,0.0,
-KZATY,9222.0,0.0,0.0,
-KZATY,1673.0,5.0,5.0,
-KZZHA,41.0,1.0,1.0,
-KZKAR,94.0,0.0,0.0,
-KZKUS,335.0,2.0,2.0,
-KZKZY,285.0,6.0,6.0,
-KZMAN,1612.0,8.0,8.0,
-KZPAV,368.0,4.0,4.0,
-KZSEV,6.0,7.0,7.0,
-YUZ,128.0,8.0,8.0,
-VOS,2601.0,0.0,0.0,
-NS,705.0,3.0,3.0,
-ALA,4958.0,6.0,6.0,
-SHY,105.0,8.0,8.0,
-ABY,37.0,5.0,5.0,
-ZHS,113.0,4.0,4.0,
-ULU,-22.0,9.0,9.0,
-KZAKM,-13.0,2.0,2.0,
-KZAKT,1433.0,4.0,4.0,
-KZALM,122.0,0.0,0.0,
-KZATY,9222.0,0.0,0.0,
-KZATY,1673.0,5.0,5.0,
-KZZHA,41.0,1.0,1.0,
-KZKAR,94.0,0.0,0.0,
-KZKUS,335.0,2.0,2.0,
-KZKZY,285.0,6.0,6.0,
-KZMAN,1612.0,8.0,8.0,
-KZPAV,368.0,4.0,4.0,
-KZSEV,6.0,7.0,7.0,
-YUZ,128.0,8.0,8.0,
-VOS,2601.0,0.0,0.0,
-NS,705.0,3.0,3.0,
-ALA,4958.0,6.0,6.0,
-SHY,105.0,8.0,8.0,
-ABY,37.0,5.0,5.0,
-ZHS,113.0,4.0,4.0,
-ULU,-22.0,9.0,9.0,
+2013,Percent,,,1.0
+2014,Percent,,,1.7
+2015,Percent,,,0.4
+2016,Percent,,,-3.8
+2017,Percent,,,0.5
+2018,Percent,,,-0.6
+2019,Percent,,,-1.4
+2020,Percent,,,-1.3
+2021,Percent,,,0.7
+2022,Percent,,,-0.6
+2023,Percent,,,0.4
+2021,Percent,,,1.32
+2014,million US dollars,,,1.5
+2015,million US dollars,,,0.85
+2016,million US dollars,,,1.32
+2017,million US dollars,,,1.22
+2018,million US dollars,,,0.77
+2019,million US dollars,,,1.5
+2020,million US dollars,,,0.85
+2021,million US dollars,,,1.32
+2014,million US dollars,Akmola,KZAKM,-13.2
+2015,million US dollars,Akmola,KZAKM,15.6
+2016,million US dollars,Akmola,KZAKM,253.4
+2017,million US dollars,Akmola,KZAKM,75.0
+2014,million US dollars,Aktobe,KZAKT,1418.9
+2015,million US dollars,Aktobe,KZAKT,368.0
+2016,million US dollars,Aktobe,KZAKT,1201.0
+2017,million US dollars,Aktobe,KZAKT,1997.9
+2014,million US dollars,Almaty,KZALM,235.3
+2015,million US dollars,Almaty,KZALM,131.2
+2016,million US dollars,Almaty,KZALM,99.9
+2017,million US dollars,Almaty,KZALM,175.5
+2014,million US dollars,Atyrau,KZATY,9135.7
+2015,million US dollars,Atyrau,KZATY,6821.0
+2016,million US dollars,Atyrau,KZATY,8581.6
+2017,million US dollars,Atyrau,KZATY,7668.5
+2014,million US dollars,Batys Kazakhstan,KZZAP,1628.1
+2015,million US dollars,Batys Kazakhstan,KZZAP,1396.7
+2016,million US dollars,Batys Kazakhstan,KZZAP,1356.8
+2017,million US dollars,Batys Kazakhstan,KZZAP,1201.6
+2014,million US dollars,Zhambyl,KZZHA,94.4
+2015,million US dollars,Zhambyl,KZZHA,-30.9
+2016,million US dollars,Zhambyl,KZZHA,149.6
+2017,million US dollars,Zhambyl,KZZHA,85.5
+2014,million US dollars,Karagandy,KZKAR,71.1
+2015,million US dollars,Karagandy,KZKAR,31.7
+2016,million US dollars,Karagandy,KZKAR,304.2
+2017,million US dollars,Karagandy,KZKAR,461.8
+2014,million US dollars,Kostanay,KZKUS,335.2
+2015,million US dollars,Kostanay,KZKUS,14.4
+2016,million US dollars,Kostanay,KZKUS,358.1
+2017,million US dollars,Kostanay,KZKUS,-120.3
+2014,million US dollars,Kyzylorda,KZKZY,359.0
+2015,million US dollars,Kyzylorda,KZKZY,169.2
+2016,million US dollars,Kyzylorda,KZKZY,206.8
+2017,million US dollars,Kyzylorda,KZKZY,99.3
+2014,million US dollars,Mangistau,KZMAN,1609.4
+2015,million US dollars,Mangistau,KZMAN,227.0
+2016,million US dollars,Mangistau,KZMAN,450.2
+2017,million US dollars,Mangistau,KZMAN,623.1
+2014,million US dollars,Pavlodar,KZPAV,346.9
+2015,million US dollars,Pavlodar,KZPAV,792.7
+2016,million US dollars,Pavlodar,KZPAV,472.4
+2017,million US dollars,Pavlodar,KZPAV,593.8
+2014,million US dollars,Soltustik Kazakhstan,KZSEV,6.7
+2015,million US dollars,Soltustik Kazakhstan,KZSEV,-13.5
+2016,million US dollars,Soltustik Kazakhstan,KZSEV,2.5
+2017,million US dollars,Soltustik Kazakhstan,KZSEV,18.0
+2014,million US dollars,Turkistan,KZYUZ,128.8
+2015,million US dollars,Turkistan,KZYUZ,170.4
+2016,million US dollars,Turkistan,KZYUZ,208.0
+2017,million US dollars,Turkistan,KZYUZ,151.4
+2014,million US dollars,Shygys Kazakhstan,KZVOS,2638.5
+2015,million US dollars,Shygys Kazakhstan,KZVOS,1796.1
+2016,million US dollars,Shygys Kazakhstan,KZVOS,2458.5
+2017,million US dollars,Shygys Kazakhstan,KZVOS,2927.6
+2014,million US dollars,Astana city,KZNS,676.1
+2015,million US dollars,Astana city,KZNS,424.0
+2016,million US dollars,Astana city,KZNS,208.1
+2017,million US dollars,Astana city,KZNS,583.7
+2014,million US dollars,Almaty city,KZALA,4949.2
+2015,million US dollars,Almaty city,KZALA,2742.5
+2016,million US dollars,Almaty city,KZALA,4671.1
+2017,million US dollars,Almaty city,KZALA,4016.0
+2014,million US dollars,Shymkent city,KZSHY,105.5
+2015,million US dollars,Shymkent city,KZSHY,113.2
+2016,million US dollars,Shymkent city,KZSHY,64.2
+2017,million US dollars,Shymkent city,KZSHY,340.9
