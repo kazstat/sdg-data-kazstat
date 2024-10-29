@@ -1829,22 +1829,6 @@
             "constraints": {
               "enum": [
                 "KZAKM",
-                "KZAKT",
-                "KZALM",
-                "KZATY",
-                "KZZAP",
-                "KZZHA",
-                "KZKAR",
-                "KZKUS",
-                "KZKZY",
-                "KZMAN",
-                "KZPAV",
-                "KZSEV",
-                "KZYUZ",
-                "KZVOS",
-                "KZNS",
-                "KZALA",
-                "KZSHY",
                 ""
               ]
             }

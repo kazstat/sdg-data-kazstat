@@ -2005,22 +2005,6 @@
             "constraints": {
               "enum": [
                 "Akmola",
-                "Aktobe",
-                "Almaty",
-                "Atyrau",
-                "Batys Kazakhstan",
-                "Zhambyl",
-                "Karagandy",
-                "Kostanay",
-                "Kyzylorda",
-                "Mangistau",
-                "Pavlodar",
-                "Soltustik Kazakhstan",
-                "Turkistan",
-                "Shygys Kazakhstan",
-                "Astana city",
-                "Almaty city",
-                "Shymkent city",
                 ""
               ]
             },
