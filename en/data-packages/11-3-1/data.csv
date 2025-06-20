@@ -665,7 +665,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2023,square meter,,Atyrau,KZATY,25.4
 2023,square meter,,Batys Kazakhstan,KZZAP,22.9
 2023,square meter,,Zhambyl,KZZHA,18.5
-2022,square meter,,Zhetisu,KZZHS,19.3
+2023,square meter,,Zhetisu,KZZHS,19.3
 2023,square meter,,Karagandy,KZKAR,24.5
 2023,square meter,,Kostanay,KZKUS,23.2
 2023,square meter,,Kyzylorda,KZKZY,21.2
@@ -673,7 +673,7 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2023,square meter,,Pavlodar,KZPAV,23.0
 2023,square meter,,Soltustik Kazakhstan,KZSEV,22.7
 2023,square meter,,Turkistan,KZYUZ,20.0
-2022,square meter,,Ulytau,KZULU,22.2
+2023,square meter,,Ulytau,KZULU,22.2
 2023,square meter,,Shygys Kazakhstan,KZVOS,22.7
 2023,square meter,,Astana city,KZNS,31.3
 2023,square meter,,Almaty city,KZALA,30.0
@@ -715,3 +715,63 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2023,square meter,rural,Turkistan,KZYUZ,18.7
 2023,square meter,urban,Ulytau,KZULU,22.7
 2023,square meter,rural,Shygys Kazakhstan,KZVOS,19.4
+2024,square meter,,,,24.5
+2024,square meter,urban,,,26.9
+2024,square meter,rural,,,20.7
+2024,square meter,,Abai,KZABY,20.4
+2024,square meter,,Akmola,KZAKM,25.1
+2024,square meter,,Aktobe,KZAKT,24.8
+2024,square meter,,Almaty,KZALM,22.7
+2024,square meter,,Atyrau,KZATY,26.4
+2024,square meter,,Batys Kazakhstan,KZZAP,23.4
+2024,square meter,,Zhambyl,KZZHA,18.8
+2024,square meter,,Zhetisu,KZZHS,19.9
+2024,square meter,,Karagandy,KZKAR,24.7
+2024,square meter,,Kostanay,KZKUS,23.6
+2024,square meter,,Kyzylorda,KZKZY,21.6
+2024,square meter,,Mangistau,KZMAN,29.0
+2024,square meter,,Pavlodar,KZPAV,23.1
+2024,square meter,,Soltustik Kazakhstan,KZSEV,23.1
+2024,square meter,,Turkistan,KZYUZ,20.6
+2024,square meter,,Ulytau,KZULU,22.5
+2024,square meter,,Shygys Kazakhstan,KZVOS,23.0
+2024,square meter,,Astana city,KZNS,32.0
+2024,square meter,,Almaty city,KZALA,30.4
+2024,square meter,,Shymkent city,KZSHY,26.6
+2024,square meter,urban,Abai,KZABY,22.0
+2024,square meter,urban,Akmola,KZAKM,26.9
+2024,square meter,urban,Aktobe,KZAKT,26.6
+2024,square meter,urban,Almaty,KZALM,24.8
+2024,square meter,urban,Atyrau,KZATY,28.3
+2024,square meter,urban,Batys Kazakhstan,KZZAP,27.1
+2024,square meter,urban,Zhambyl,KZZHA,22.3
+2024,square meter,urban,Zhetisu,KZZHS,23.4
+2024,square meter,urban,Karagandy,KZKAR,25.6
+2024,square meter,urban,Kostanay,KZKUS,24.3
+2024,square meter,urban,Kyzylorda,KZKZY,23.1
+2024,square meter,urban,Mangistau,KZMAN,29.9
+2024,square meter,urban,Pavlodar,KZPAV,23.4
+2024,square meter,urban,Soltustik Kazakhstan,KZSEV,23.5
+2024,square meter,urban,Turkistan,KZYUZ,25.6
+2024,square meter,urban,Ulytau,KZULU,22.4
+2024,square meter,urban,Shygys Kazakhstan,KZVOS,24.7
+2024,square meter,urban,Astana city,KZNS,32.0
+2024,square meter,urban,Almaty city,KZALA,30.4
+2024,square meter,urban,Shymkent city,KZSHY,26.6
+2024,square meter,urban,Abai,KZABY,18.1
+2024,square meter,rural,Akmola,KZAKM,23.4
+2024,square meter,rural,Aktobe,KZAKT,19.6
+2024,square meter,rural,Almaty,KZALM,22.3
+2024,square meter,rural,Atyrau,KZATY,24.3
+2024,square meter,rural,Batys Kazakhstan,KZZAP,19.1
+2024,square meter,rural,Zhambyl,KZZHA,16.2
+2024,square meter,urban,Zhetisu,KZZHS,17.5
+2024,square meter,rural,Karagandy,KZKAR,21.2
+2024,square meter,rural,Kostanay,KZKUS,22.2
+2024,square meter,rural,Kyzylorda,KZKZY,20.2
+2024,square meter,rural,Mangistau,KZMAN,28.2
+2024,square meter,rural,Pavlodar,KZPAV,22.5
+2024,square meter,rural,Soltustik Kazakhstan,KZSEV,22.8
+2024,square meter,rural,Turkistan,KZYUZ,19.2
+2024,square meter,urban,Ulytau,KZULU,23.0
+2024,square meter,rural,Shygys Kazakhstan,KZVOS,19.8
