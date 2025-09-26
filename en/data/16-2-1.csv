@@ -48,3 +48,32 @@ Year,UNIT_MEASURE,Area,Sex,Age,Regions,GeoCode,Value
 2015,Percent,,,,Shygys Kazakhstan,KZVOS,47.1
 2015,Percent,,,,Astana city,KZNS,64.2
 2015,Percent,,,,Almaty city,KZALA,38.4
+2024,Percent,,,,,,37.9
+2024,Percent,urban,,,,,36.8
+2024,Percent,rural,,,,,39.6
+2024,Percent,,Male,,,,41.5
+2024,Percent,,Female,,,,34.0
+2024,Percent,,,Y1T2,,,19.7
+2024,Percent,,,Y3T4,,,33.6
+2024,Percent,,,5 to 9 years old,,,43.3
+2024,Percent,,,age: 10-14 years old,,,41.1
+2024,Percent,,,,Abai,KZABY,24.0
+2024,Percent,,,,Akmola,KZAKM,19.8
+2024,Percent,,,,Aktobe,KZAKT,50.9
+2024,Percent,,,,Almaty,KZALM,49.7
+2024,Percent,,,,Atyrau,KZATY,35.6
+2024,Percent,,,,Batys Kazakhstan,KZZAP,47.9
+2024,Percent,,,,Zhambyl,KZZHA,36.6
+2024,Percent,,,,Karagandy,KZKAR,30.1
+2024,Percent,,,,Kostanay,KZKUS,41.3
+2024,Percent,,,,Kyzylorda,KZKZY,37.6
+2024,Percent,,,,Mangistau,KZMAN,33.5
+2024,Percent,,,,Ontustik Kazakhstan,KZONT,69.7
+2024,Percent,,,,Pavlodar,KZPAV,37.0
+2024,Percent,,,,Soltustik Kazakhstan,KZSEV,39.3
+2024,Percent,,,,Shygys Kazakhstan,KZVOS,45.4
+2024,Percent,,,,Astana city,KZNS,13.2
+2024,Percent,,,,Almaty city,KZALA,34.0
+2024,Percent,,,,Shymkent city,KZSHY,29.1
+2024,Percent,,,,Ulytau,KZULU,53.7
+2024,Percent,,,,Zhetisu,KZZHS,25.6
