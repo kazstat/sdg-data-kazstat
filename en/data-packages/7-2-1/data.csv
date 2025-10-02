@@ -161,4 +161,24 @@ Year,UNIT_MEASURE,Type of economic activity,Regions,GeoCode,Value
 2023,Percent,including large water-power-plant,Astana city,KZNS,0.0
 2023,Percent,including large water-power-plant,Almaty city,KZALA,5.5
 2023,Percent,including large water-power-plant,Shymkent city,KZSHY,4.6
-2023,Percent,excluding large water-power-plant,,,4.99
+2023,Percent,excluding large water-power-plant,,,5.9
+2024,Percent,including large water-power-plant,,,14.9
+2024,Percent,including large water-power-plant,Abai,KZABY,99.2
+2024,Percent,including large water-power-plant,Akmola,KZAKM,78.7
+2024,Percent,including large water-power-plant,Aktobe,KZAKT,8.2
+2024,Percent,including large water-power-plant,Almaty,KZALM,77.5
+2024,Percent,including large water-power-plant,Atyrau,KZATY,2.4
+2024,Percent,including large water-power-plant,Shygys Kazakhstan,KZVOS,69.7
+2024,Percent,including large water-power-plant,Zhambyl,KZZHA,28.6
+2024,Percent,including large water-power-plant,Zhetisu,KZZHS,81.0
+2024,Percent,including large water-power-plant,Karagandy,KZKAR,3.1
+2024,Percent,including large water-power-plant,Kyzylorda,KZKZY,9.1
+2024,Percent,including large water-power-plant,Mangistau,KZMAN,2.1
+2024,Percent,including large water-power-plant,Pavlodar,KZPAV,0.0
+2024,Percent,including large water-power-plant,Soltustik Kazakhstan,KZSEV,1.0
+2024,Percent,including large water-power-plant,Turkistan,KZYUZ,100.0
+2024,Percent,including large water-power-plant,Ulytau,KZULU,1.4
+2024,Percent,including large water-power-plant,Astana city,KZNS,0.0
+2024,Percent,including large water-power-plant,Almaty city,KZALA,6.5
+2024,Percent,including large water-power-plant,Shymkent city,KZSHY,3.6
+2024,Percent,excluding large water-power-plant,,,6.2
