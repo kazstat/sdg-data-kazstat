@@ -23,3 +23,6 @@ Year,UNIT_MEASURE,SERIES,Value
 2023,Percent,GSM standard (percentage of coverage by cellular network),98.2
 2023,Percent,UMTS standard (percentage of coverage by 3G mobile network),95.0
 2023,Percent,LTE standard (percentage of coverage by 4G mobile network),89.2
+2024,Percent,GSM standard (percentage of coverage by cellular network),98.2
+2024,Percent,UMTS standard (percentage of coverage by 3G mobile network),92.2
+2024,Percent,LTE standard (percentage of coverage by 4G mobile network),91.6
