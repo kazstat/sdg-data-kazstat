@@ -215,7 +215,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,Percent,Akmola,KZAKM,0.05
 2022,Percent,Aktobe,KZAKT,0.04
 2022,Percent,Almaty,KZALM,0.03
-2022,Percent,Atyrau,KZATY,0.0
+2022,Percent,Atyrau,KZATY,0.003
 2022,Percent,Batys Kazakhstan,KZZAP,0.02
 2022,Percent,Zhambyl,KZZHA,0.13
 2022,Percent,Zhetisu,KZZHS,0.01
@@ -236,7 +236,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2023,Percent,Akmola,KZAKM,0.08
 2023,Percent,Aktobe,KZAKT,0.05
 2023,Percent,Almaty,KZALM,0.04
-2023,Percent,Atyrau,KZATY,0.0
+2023,Percent,Atyrau,KZATY,0.004
 2023,Percent,Batys Kazakhstan,KZZAP,0.03
 2023,Percent,Zhambyl,KZZHA,0.16
 2023,Percent,Zhetisu,KZZHS,0.01
@@ -252,3 +252,24 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2023,Percent,Astana city,KZNS,0.28
 2023,Percent,Almaty city,KZALA,0.31
 2023,Percent,Shymkent city,KZSHY,0.07
+2024,Percent,,,0.16
+2024,Percent,Abai,KZABY,0.22
+2024,Percent,Akmola,KZAKM,0.11
+2024,Percent,Aktobe,KZAKT,0.07
+2024,Percent,Almaty,KZALM,0.06
+2024,Percent,Atyrau,KZATY,0.01
+2024,Percent,Batys Kazakhstan,KZZAP,0.04
+2024,Percent,Zhambyl,KZZHA,0.17
+2024,Percent,Zhetisu,KZZHS,0.04
+2024,Percent,Karagandy,KZKAR,0.11
+2024,Percent,Kostanay,KZKUS,0.05
+2024,Percent,Kyzylorda,KZKZY,0.05
+2024,Percent,Mangistau,KZMAN,0.34
+2024,Percent,Pavlodar,KZPAV,0.03
+2024,Percent,Soltustik Kazakhstan,KZSEV,0.11
+2024,Percent,Turkistan,KZYUZ,0.06
+2024,Percent,Shygys Kazakhstan,KZVOS,0.22
+2024,Percent,Ulytau,KZULU,0.001
+2024,Percent,Astana city,KZNS,0.3
+2024,Percent,Almaty city,KZALA,0.3
+2024,Percent,Shymkent city,KZSHY,0.07
