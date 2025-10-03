@@ -207,7 +207,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2021,thousand people,Astana city,KZNS,0.2
 2021,thousand people,Almaty city,KZALA,0.5
 2021,thousand people,Shymkent city,KZSHY,0.6
-2022,thousand people,,,14.4
+2022,thousand people,,,12.5
 2022,thousand people,Akmola,KZAKM,2.4
 2022,thousand people,Aktobe,KZAKT,0.9
 2021,thousand people,Almaty,KZALM,1.0
@@ -225,3 +225,45 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,thousand people,Astana city,KZNS,1.0
 2022,thousand people,Almaty city,KZALA,0.1
 2022,thousand people,Shymkent city,KZSHY,1.2
+2023,thousand people,,,13.2
+2023,thousand people,Abai,KZABY,0.2
+2023,thousand people,Akmola,KZAKM,0.2
+2023,thousand people,Aktobe,KZAKT,0.8
+2021,thousand people,Almaty,KZALM,1.8
+2023,thousand people,Atyrau,KZATY,0.1
+2023,thousand people,Batys Kazakhstan,KZZAP,0.1
+2023,thousand people,Zhambyl,KZZHA,1.1
+2023,thousand people,Zhetisu,KZZHS,0.1
+2023,thousand people,Karagandy,KZKAR,1.0
+2023,thousand people,Kostanay,KZKUS,1.5
+2023,thousand people,Kyzylorda,KZKZY,0.2
+2023,thousand people,Mangistau,KZMAN,0.1
+2023,thousand people,Pavlodar,KZPAV,0.2
+2023,thousand people,Soltustik Kazakhstan,KZSEV,0.7
+2023,thousand people,Turkistan,KZYUZ,1.0
+2023,thousand people,Ulytau,KZULU,0.3
+2023,thousand people,Shygys Kazakhstan,KZVOS,0.2
+2023,thousand people,Astana city,KZNS,0.6
+2023,thousand people,Almaty city,KZALA,1.5
+2023,thousand people,Shymkent city,KZSHY,1.5
+2024,thousand people,,,14.4
+2024,thousand people,Abai,KZABY,0.4
+2024,thousand people,Akmola,KZAKM,0.2
+2024,thousand people,Aktobe,KZAKT,1.0
+2021,thousand people,Almaty,KZALM,1.9
+2024,thousand people,Atyrau,KZATY,0.1
+2024,thousand people,Batys Kazakhstan,KZZAP,0.2
+2024,thousand people,Zhambyl,KZZHA,1.2
+2024,thousand people,Zhetisu,KZZHS,0.1
+2024,thousand people,Karagandy,KZKAR,1.1
+2024,thousand people,Kostanay,KZKUS,1.6
+2024,thousand people,Kyzylorda,KZKZY,0.2
+2024,thousand people,Mangistau,KZMAN,0.1
+2024,thousand people,Pavlodar,KZPAV,0.2
+2024,thousand people,Soltustik Kazakhstan,KZSEV,0.8
+2024,thousand people,Turkistan,KZYUZ,1.0
+2024,thousand people,Ulytau,KZULU,0.4
+2024,thousand people,Shygys Kazakhstan,KZVOS,0.2
+2024,thousand people,Astana city,KZNS,0.6
+2024,thousand people,Almaty city,KZALA,1.6
+2024,thousand people,Shymkent city,KZSHY,1.5
