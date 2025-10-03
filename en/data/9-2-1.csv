@@ -437,8 +437,8 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,tenge per US dollars in 2010 prices,Astana city,KZNS,743.2
 2022,tenge per US dollars in 2010 prices,Almaty city,KZALA,1019.4
 2023,"percent, base year 2010",,,11.6
-2023,"percent, base year 2010",Akmola,KZAKM,19.6
-2023,"percent, base year 2010",Aktobe,KZAKT,9.9
+2023,"percent, base year 2010",Akmola,KZAKM,19.7
+2023,"percent, base year 2010",Aktobe,KZAKT,10.0
 2023,"percent, base year 2010",Almaty,KZALM,0.0
 2023,"percent, base year 2010",Atyrau,KZATY,4.6
 2023,"percent, base year 2010",Batys Kazakhstan,KZZAP,5.3
@@ -447,10 +447,10 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2023,"percent, base year 2010",Kostanay,KZKUS,14.5
 2023,"percent, base year 2010",Kyzylorda,KZKZY,5.5
 2023,"percent, base year 2010",Mangistau,KZMAN,4.4
-2023,"percent, base year 2010",Pavlodar,KZPAV,23.8
+2023,"percent, base year 2010",Pavlodar,KZPAV,23.9
 2023,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,10.0
 2023,"percent, base year 2010",Shygys Kazakhstan,KZVOS,0.0
-2023,"percent, base year 2010",Astana city,KZNS,3.8
+2023,"percent, base year 2010",Astana city,KZNS,3.9
 2023,"percent, base year 2010",Almaty city,KZALA,4.6
 2023,"percent, base year 2010",Shymkent city,KZSHY,0.0
 2023,tenge per US dollars in 2010 prices,,,1364.8
@@ -462,10 +462,43 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2023,tenge per US dollars in 2010 prices,Zhambyl,KZZHA,655.4
 2023,tenge per US dollars in 2010 prices,Karagandy,KZKAR,0.0
 2023,tenge per US dollars in 2010 prices,Kostanay,KZKUS,1550.6
-2023,tenge per US dollars in 2010 prices,Kyzylorda,KZKZY,291.4
+2023,tenge per US dollars in 2010 prices,Kyzylorda,KZKZY,391.4
 2023,tenge per US dollars in 2010 prices,Mangistau,KZMAN,642.5
 2023,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,3224.0
-2023,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,0.0
+2023,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,867.9
 2023,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,0.0
 2023,tenge per US dollars in 2010 prices,Astana city,KZNS,725.2
 2023,tenge per US dollars in 2010 prices,Almaty city,KZALA,1110.4
+2024,"percent, base year 2010",,,11.7
+2024,"percent, base year 2010",Akmola,KZAKM,17.8
+2024,"percent, base year 2010",Aktobe,KZAKT,10.3
+2024,"percent, base year 2010",Almaty,KZALM,0.0
+2024,"percent, base year 2010",Atyrau,KZATY,5.0
+2024,"percent, base year 2010",Batys Kazakhstan,KZZAP,4.9
+2024,"percent, base year 2010",Zhambyl,KZZHA,14.8
+2024,"percent, base year 2010",Karagandy,KZKAR,0.0
+2024,"percent, base year 2010",Kostanay,KZKUS,13.6
+2024,"percent, base year 2010",Kyzylorda,KZKZY,6.2
+2024,"percent, base year 2010",Mangistau,KZMAN,4.9
+2024,"percent, base year 2010",Pavlodar,KZPAV,24.3
+2024,"percent, base year 2010",Soltustik Kazakhstan,KZSEV,9.3
+2024,"percent, base year 2010",Shygys Kazakhstan,KZVOS,0.0
+2024,"percent, base year 2010",Astana city,KZNS,3.9
+2024,"percent, base year 2010",Almaty city,KZALA,4.3
+2024,"percent, base year 2010",Shymkent city,KZSHY,0.0
+2024,tenge per US dollars in 2010 prices,,,1426.4
+2024,tenge per US dollars in 2010 prices,Akmola,KZAKM,1544.0
+2024,tenge per US dollars in 2010 prices,Aktobe,KZAKT,1334.1
+2024,tenge per US dollars in 2010 prices,Almaty,KZALM,1493.7
+2024,tenge per US dollars in 2010 prices,Atyrau,KZATY,2209.4
+2024,tenge per US dollars in 2010 prices,Batys Kazakhstan,KZZAP,664.7
+2024,tenge per US dollars in 2010 prices,Zhambyl,KZZHA,643.5
+2024,tenge per US dollars in 2010 prices,Karagandy,KZKAR,0.0
+2024,tenge per US dollars in 2010 prices,Kostanay,KZKUS,1555.0
+2024,tenge per US dollars in 2010 prices,Kyzylorda,KZKZY,464.7
+2024,tenge per US dollars in 2010 prices,Mangistau,KZMAN,707.2
+2024,tenge per US dollars in 2010 prices,Pavlodar,KZPAV,3540.5
+2024,tenge per US dollars in 2010 prices,Soltustik Kazakhstan,KZSEV,931.2
+2024,tenge per US dollars in 2010 prices,Shygys Kazakhstan,KZVOS,0.0
+2024,tenge per US dollars in 2010 prices,Astana city,KZNS,749.0
+2024,tenge per US dollars in 2010 prices,Almaty city,KZALA,1064.4
