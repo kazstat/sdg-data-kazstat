@@ -1,5 +1,5 @@
 Year,UNIT_MEASURE,Area,Sex,Regions,Age,Mother's education,Wealth index quintile,GeoCode,Value
-2010,Percent,,,,,,,,861.0
+2010,Percent,,,,,,,,86.1
 2010,Percent,urban,,,,,,,87.2
 2010,Percent,rural,,,,,,,85.1
 2010,Percent,,Male,,,,,,83.5
@@ -31,7 +31,7 @@ Year,UNIT_MEASURE,Area,Sex,Regions,Age,Mother's education,Wealth index quintile,
 2010,Percent,,,,,,third,,88.6
 2010,Percent,,,,,,fourth,,85.3
 2010,Percent,,,,,,wealthy,,92.1
-2015,Percent,,,,,,,,855.0
+2015,Percent,,,,,,,,85.5
 2015,Percent,urban,,,,,,,86.0
 2015,Percent,rural,,,,,,,85.1
 2015,Percent,,Male,,,,,,84.8
@@ -63,3 +63,40 @@ Year,UNIT_MEASURE,Area,Sex,Regions,Age,Mother's education,Wealth index quintile,
 2015,Percent,,,,,,third,,83.2
 2015,Percent,,,,,,fourth,,87.3
 2015,Percent,,,,,,wealthy,,87.9
+2024,Percent,,,,,,,,75.2
+2024,Percent,urban,,,,,,,76.4
+2024,Percent,rural,,,,,,,73.4
+2024,Percent,,Male,,,,,,71.8
+2024,Percent,,Female,,,,,,78.7
+2024,Percent,,,Abai,,,,KZABY,87.8
+2024,Percent,,,Akmola,,,,KZAKM,87.3
+2024,Percent,,,Aktobe,,,,KZAKT,83.1
+2024,Percent,,,Almaty,,,,KZALM,40.9
+2024,Percent,,,Atyrau,,,,KZATY,83.7
+2024,Percent,,,Batys Kazakhstan,,,,KZZAP,86.1
+2024,Percent,,,Zhambyl,,,,KZZHA,79.7
+2024,Percent,,,Zhetisu,,,,KZZHS,59.2
+2024,Percent,,,Karagandy,,,,KZKAR,76.1
+2024,Percent,,,Kostanay,,,,KZKUS,88.9
+2024,Percent,,,Kyzylorda,,,,KZKZY,79.3
+2024,Percent,,,Mangistau,,,,KZMAN,43.6
+2024,Percent,,,Ontustik Kazakhstan,,,,KZONT,0.0
+2024,Percent,,,Pavlodar,,,,KZPAV,76.7
+2024,Percent,,,Soltustik Kazakhstan,,,,KZSEV,84.4
+2024,Percent,,,Turkistan,,,,KZYUZ,84.3
+2024,Percent,,,Ulytau,,,,KZULU,81.9
+2024,Percent,,,Shygys Kazakhstan,,,,KZVOS,67.4
+2024,Percent,,,Astana city,,,,KZNS,91.4
+2024,Percent,,,Almaty city,,,,KZALA,66.7
+2024,Percent,,,Shymkent city,,,,KZSHY,61.0
+2024,Percent,,,,36-47 months,,,,83.0
+2024,Percent,,,,48-59 months,,,,0.0
+2024,Percent,,,,,basic secondary (middle-school),,,73.7
+2024,Percent,,,,,High Education (General),,,72.6
+2024,Percent,,,,,Community College and Vocational type of Education,,,70.5
+2024,Percent,,,,,Higher education,,,76.9
+2024,Percent,,,,,,extreme poverty,,70.8
+2024,Percent,,,,,,second,,70.2
+2024,Percent,,,,,,third,,74.4
+2024,Percent,,,,,,fourth,,78.2
+2024,Percent,,,,,,wealthy,,80.3
