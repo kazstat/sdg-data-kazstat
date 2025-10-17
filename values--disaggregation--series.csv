@@ -75,8 +75,8 @@ _L_KZ_170602_1B,от 2 Мбит/сек до менее 10 Мбит/сек,_L_KZ_
 _L_KZ_170602_1C,от 256 кБит/сек до менее 2 Мбит/сек,_L_KZ_170602_1C,_L_KZ_170602_1C,22,1
 _L_KZ_171201_1A,наименее развитых стран,аз дамыған елдер,developed countries,1,1
 _L_KZ_171201_1B,развивающихся стран,дамушы елдер,developing countries,1,1
-_L_KZ_DD_MSD,умеренная и сильная степень отклонения от нормы,қалыпты және қатал ауытқушылық,Rate of deviation from the norm (moderate and strong),58,2
-_L_KZ_DD_SDD,сильная степень отклонения от нормы,нормадан күшті ауытқу,Strong deviation from the norm,58,2
+_L_KZ_DD_MSD,умеренная и сильная степень отклонения от нормы,қалыпты және қатал ауытқушылық,Rate of deviation from the norm (moderate and strong),63,2
+_L_KZ_DD_SDD,сильная степень отклонения от нормы,нормадан күшті ауытқу,Strong deviation from the norm,63,2
 AG_LND_FRSTBIOM,Запасы наземной биомассы в лесах,AG_LND_FRSTBIOM,Above-ground biomass in forest (tonnes) [15.2.1],17,1
 AG_LND_FRSTMGT,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",AG_LND_FRSTMGT,Proportion of forest area with a long-term management plan [15.2.1],15,1
 AG_LND_FRSTPRCT,"Доля лесной площади, находящейся в охраняемых законом зонах",AG_LND_FRSTPRCT,Proportion of forest area within legally established protected areas [15.2.1],18,1
@@ -101,7 +101,7 @@ SI_COV_UEMP,"Численность населения, охваченного �
 SKILL_MATH,навыков счета,есептеу машығы,math skills,35,1
 SL_EMP_FTLINJUR,Уровень производственного травматизма со смертельным исходом,Өлімге әкелетін өндірістік жарақаттың деңгейі,Fatal occupational injuries,1,1
 SL_EMP_INJUR,Уровень производственного травматизма,Өндірістік жарақаттану деңгейі,Work injury rate,1,1
-SN_STA_OVWGTN,Избыточный вес: Умеренная и сильная степень отклонения от нормы,SN_STA_OVWGTN,Children moderately or severely overweight (number) [2.2.2],29,1
+SN_STA_OVWGTN,Избыточный вес: Умеренная и сильная степень отклонения от нормы,SN_STA_OVWGTN,Children moderately or severely overweight (number) [2.2.2],34,1
 SP_DYN_MRBF15,"Доля женщин в возрасте 20-24 года, вступивших в брак до наступления полных 15 лет",SP_DYN_MRBF15,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],1,1
 SP_DYN_MRBF18,"Доля женщин в возрасте 20-24 года, вступивших в брак до наступления полных 18 лет",SP_DYN_MRBF18,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],1,1
 VC_DSR_DAFF,пострадало на 100 000 человек,VC_DSR_DAFF,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",1,1
