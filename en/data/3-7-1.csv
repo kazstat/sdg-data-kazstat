@@ -44,12 +44,12 @@ Year,UNIT_MEASURE,Area,Regions,Age,Mother's education,Wealth index quintile,GeoC
 2015,Percent,,Batys Kazakhstan,,,,KZZAP,57.6
 2015,Percent,,Zhambyl,,,,KZZHA,50.6
 2015,Percent,,Karagandy,,,,KZKAR,55.4
-2015,Percent,,Kostanay,,,,KZKUS,604.0
+2015,Percent,,Kostanay,,,,KZKUS,60.4
 2015,Percent,,Kyzylorda,,,,KZKZY,54.9
 2015,Percent,,Mangistau,,,,KZMAN,37.1
 2015,Percent,,Ontustik Kazakhstan,,,,KZONT,60.4
 2015,Percent,,Pavlodar,,,,KZPAV,45.4
-2015,Percent,,Soltustik Kazakhstan,,,,KZSEV,625.0
+2015,Percent,,Soltustik Kazakhstan,,,,KZSEV,62.5
 2015,Percent,,Shygys Kazakhstan,,,,KZVOS,57.8
 2015,Percent,,Astana city,,,,KZNS,48.8
 2015,Percent,,Almaty city,,,,KZALA,63.0
@@ -69,3 +69,43 @@ Year,UNIT_MEASURE,Area,Regions,Age,Mother's education,Wealth index quintile,GeoC
 2015,Percent,,,,,third,,55.4
 2015,Percent,,,,,fourth,,56.2
 2015,Percent,,,,,wealthy,,56.2
+2024,Percent,,,,,,,69.2
+2024,Percent,urban,,,,,,69.1
+2024,Percent,rural,,,,,,69.4
+2024,Percent,,Abai,,,,KZABY,81.7
+2024,Percent,,Akmola,,,,KZAKM,64.9
+2024,Percent,,Aktobe,,,,KZAKT,61.0
+2024,Percent,,Almaty,,,,KZALM,64.8
+2024,Percent,,Atyrau,,,,KZATY,57.0
+2024,Percent,,Batys Kazakhstan,,,,KZZAP,53.9
+2024,Percent,,Zhambyl,,,,KZZHA,70.7
+2024,Percent,,Zhetisu,,,,KZZHS,63.5
+2024,Percent,,Karagandy,,,,KZKAR,71.9
+2024,Percent,,Kostanay,,,,KZKUS,70.4
+2024,Percent,,Kyzylorda,,,,KZKZY,73.4
+2024,Percent,,Mangistau,,,,KZMAN,77.4
+2024,Percent,,Pavlodar,,,,KZPAV,63.2
+2024,Percent,,Soltustik Kazakhstan,,,,KZSEV,74.7
+2024,Percent,,Turkistan,,,,KZYUZ,77.6
+2024,Percent,,Ulytau,,,,KZULU,73.5
+2024,Percent,,Shygys Kazakhstan,,,,KZVOS,70.5
+2024,Percent,,Astana city,,,,KZNS,66.2
+2024,Percent,,Almaty city,,,,KZALA,77.6
+2024,Percent,,Shymkent city,,,,KZSHY,66.5
+2024,Percent,,,15-19,,,,63.0
+2024,Percent,,,18 to 19 years old,,,,67.4
+2024,Percent,,,20-24,,,,52.1
+2024,Percent,,,25-29,,,,60.6
+2024,Percent,,,30-34,,,,67.4
+2024,Percent,,,35-39,,,,73.1
+2024,Percent,,,40-44,,,,76.2
+2024,Percent,,,45-49,,,,75.2
+2024,Percent,,,,basic secondary (middle-school),,,64.6
+2024,Percent,,,,High Education (General),,,71.4
+2024,Percent,,,,Community College and Vocational type of Education,,,56.4
+2024,Percent,,,,Higher education,,,69.0
+2024,Percent,,,,,extreme poverty,,67.6
+2024,Percent,,,,,second,,66.9
+2024,Percent,,,,,third,,67.8
+2024,Percent,,,,,fourth,,69.0
+2024,Percent,,,,,wealthy,,73.0
