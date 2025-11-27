@@ -109,3 +109,67 @@ Year,UNIT_MEASURE,SERIES,Age,Area,Sex,Regions,GeoCode,Value
 2015,Percent,Strong deviation from the norm,24 to 35 months,,,,,3.0
 2015,Percent,Strong deviation from the norm,36-47 months,,,,,2.0
 2015,Percent,Strong deviation from the norm,48-59 months,,,,,1.4
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,,,2.9
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,Male,,,3.1
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,Female,,,2.8
+2024,Percent,Rate of deviation from the norm (moderate and strong),,urban,,,,2.9
+2024,Percent,Rate of deviation from the norm (moderate and strong),,rural,,,,2.9
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Abai,KZABY,4.2
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Akmola,KZAKM,0.0
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Aktobe,KZAKT,2.8
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Almaty,KZALM,3.6
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Atyrau,KZATY,5.6
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Batys Kazakhstan,KZZAP,5.0
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Zhambyl,KZZHA,1.6
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Zhetisu,KZZHS,2.2
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Karagandy,KZKAR,4.3
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Kostanay,KZKUS,2.1
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Kyzylorda,KZKZY,4.0
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Mangistau,KZMAN,2.8
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Pavlodar,KZPAV,1.4
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Soltustik Kazakhstan,KZSEV,2.1
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Shygys Kazakhstan,KZVOS,2.1
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Astana city,KZNS,3.7
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Almaty city,KZALA,0.4
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Shymkent city,KZSHY,4.5
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Turkistan,KZYUZ,1.5
+2024,Percent,Rate of deviation from the norm (moderate and strong),,,,Ulytau,KZULU,2.3
+2024,Percent,Rate of deviation from the norm (moderate and strong),M0T5,,,,,3.4
+2024,Percent,Rate of deviation from the norm (moderate and strong),6 to 11 months old,,,,,4.1
+2024,Percent,Rate of deviation from the norm (moderate and strong),M12T17,,,,,2.6
+2024,Percent,Rate of deviation from the norm (moderate and strong),M18T23,,,,,7.9
+2024,Percent,Rate of deviation from the norm (moderate and strong),24 to 35 months,,,,,2.5
+2024,Percent,Rate of deviation from the norm (moderate and strong),36-47 months,,,,,2.1
+2024,Percent,Rate of deviation from the norm (moderate and strong),48-59 months,,,,,1.6
+2024,Percent,Strong deviation from the norm,,,,,,2.9
+2024,Percent,Strong deviation from the norm,,,Male,,,3.1
+2024,Percent,Strong deviation from the norm,,,Female,,,2.8
+2024,Percent,Strong deviation from the norm,,urban,,,,2.9
+2024,Percent,Strong deviation from the norm,,rural,,,,2.9
+2024,Percent,Strong deviation from the norm,,,,Abai,KZABY,4.2
+2024,Percent,Strong deviation from the norm,,,,Akmola,KZAKM,0.1
+2024,Percent,Strong deviation from the norm,,,,Aktobe,KZAKT,2.8
+2024,Percent,Strong deviation from the norm,,,,Almaty,KZALM,3.6
+2024,Percent,Strong deviation from the norm,,,,Atyrau,KZATY,5.6
+2024,Percent,Strong deviation from the norm,,,,Batys Kazakhstan,KZZAP,5.0
+2024,Percent,Strong deviation from the norm,,,,Zhambyl,KZZHA,1.6
+2024,Percent,Strong deviation from the norm,,,,Zhetisu,KZZHS,2.2
+2024,Percent,Strong deviation from the norm,,,,Karagandy,KZKAR,4.3
+2024,Percent,Strong deviation from the norm,,,,Kostanay,KZKUS,2.1
+2024,Percent,Strong deviation from the norm,,,,Kyzylorda,KZKZY,4.0
+2024,Percent,Strong deviation from the norm,,,,Mangistau,KZMAN,2.8
+2024,Percent,Strong deviation from the norm,,,,Pavlodar,KZPAV,1.4
+2024,Percent,Strong deviation from the norm,,,,Soltustik Kazakhstan,KZSEV,2.1
+2024,Percent,Strong deviation from the norm,,,,Turkistan,KZYUZ,1.5
+2024,Percent,Strong deviation from the norm,,,,Ulytau,KZULU,2.3
+2024,Percent,Strong deviation from the norm,,,,Shygys Kazakhstan,KZVOS,2.1
+2024,Percent,Strong deviation from the norm,,,,Astana city,KZNS,3.7
+2024,Percent,Strong deviation from the norm,,,,Almaty city,KZALA,0.4
+2024,Percent,Strong deviation from the norm,,,,Shymkent city,KZSHY,4.5
+2024,Percent,Strong deviation from the norm,M0T5,,,,,3.4
+2024,Percent,Strong deviation from the norm,6 to 11 months old,,,,,4.1
+2024,Percent,Strong deviation from the norm,M12T17,,,,,2.6
+2024,Percent,Strong deviation from the norm,M18T23,,,,,7.9
+2024,Percent,Strong deviation from the norm,24 to 35 months,,,,,2.5
+2024,Percent,Strong deviation from the norm,36-47 months,,,,,2.1
+2024,Percent,Strong deviation from the norm,48-59 months,,,,,1.6
