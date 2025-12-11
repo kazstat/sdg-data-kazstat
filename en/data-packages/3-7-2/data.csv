@@ -1294,6 +1294,7 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2022,15-19,rural,Turkistan,,,,,,,KZYUZ,30.77
 2022,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,18.4
 2023,age: 10-14 years old,,,,,,,,,,0.02
+2023,age: 10-14 years old,,Abai,,,,,,,KZABY,0.04
 2023,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.06
 2023,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.0
 2023,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.03
@@ -1395,3 +1396,122 @@ Year,Age,Area,Regions,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unn
 2023,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,15.59
 2023,15-19,rural,Turkistan,,,,,,,KZYUZ,27.69
 2023,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,15.49
+2024,age: 10-14 years old,,,,,,,,,,0.02
+2024,age: 10-14 years old,,Abai,,,,,,,KZABY,0.04
+2024,age: 10-14 years old,,Akmola,,,,,,,KZAKM,0.0
+2024,age: 10-14 years old,,Aktobe,,,,,,,KZAKT,0.02
+2024,age: 10-14 years old,,Almaty,,,,,,,KZALM,0.03
+2024,age: 10-14 years old,,Atyrau,,,,,,,KZATY,0.0
+2024,age: 10-14 years old,,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2024,age: 10-14 years old,,Zhambyl,,,,,,,KZZHA,0.03
+2024,age: 10-14 years old,,Zhetisu,,,,,,,KZZHS,0.03
+2024,age: 10-14 years old,,Karagandy,,,,,,,KZKAR,0.07
+2024,age: 10-14 years old,,Kostanay,,,,,,,KZKUS,0.0
+2024,age: 10-14 years old,,Kyzylorda,,,,,,,KZKZY,0.0
+2024,age: 10-14 years old,,Mangistau,,,,,,,KZMAN,0.0
+2024,age: 10-14 years old,,Pavlodar,,,,,,,KZPAV,0.07
+2024,age: 10-14 years old,,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2024,age: 10-14 years old,,Turkistan,,,,,,,KZYUZ,0.02
+2024,age: 10-14 years old,,Ulytau,,,,,,,KZULU,0.02
+2024,age: 10-14 years old,,Shygys Kazakhstan,,,,,,,KZVOS,0.04
+2024,age: 10-14 years old,,Astana city,,,,,,,KZNS,0.0
+2024,age: 10-14 years old,,Almaty city,,,,,,,KZALA,0.0
+2024,age: 10-14 years old,,Shymkent city,,,,,,,KZSHY,0.03
+2024,age: 10-14 years old,urban,,,,,,,,,0.02
+2024,age: 10-14 years old,urban,Abai,,,,,,,KZABY,0.07
+2024,age: 10-14 years old,urban,Akmola,,,,,,,KZAKM,0.0
+2024,age: 10-14 years old,urban,Aktobe,,,,,,,KZAKT,0.03
+2024,age: 10-14 years old,urban,Almaty,,,,,,,KZALM,0.0
+2024,age: 10-14 years old,urban,Atyrau,,,,,,,KZATY,0.0
+2024,age: 10-14 years old,urban,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2024,age: 10-14 years old,urban,Zhambyl,,,,,,,KZZHA,0.0
+2024,age: 10-14 years old,urban,Zhetisu,,,,,,,KZZHS,0.07
+2024,age: 10-14 years old,urban,Karagandy,,,,,,,KZKAR,0.09
+2024,age: 10-14 years old,urban,Kostanay,,,,,,,KZKUS,0.0
+2024,age: 10-14 years old,urban,Kyzylorda,,,,,,,KZKZY,0.0
+2024,age: 10-14 years old,urban,Mangistau,,,,,,,KZMAN,0.0
+2024,age: 10-14 years old,urban,Pavlodar,,,,,,,KZPAV,0.0
+2024,age: 10-14 years old,urban,Soltustik Kazakhstan,,,,,,,KZSEV,0.0
+2024,age: 10-14 years old,urban,Turkistan,,,,,,,KZYUZ,0.0
+2024,age: 10-14 years old,urban,Ulytau,,,,,,,KZULU,0.0
+2024,age: 10-14 years old,urban,Shygys Kazakhstan,,,,,,,KZVOS,0.0
+2024,age: 10-14 years old,urban,Astana city,,,,,,,KZNS,0.0
+2024,age: 10-14 years old,urban,Almaty city,,,,,,,KZALA,0.0
+2024,age: 10-14 years old,urban,Shymkent city,,,,,,,KZSHY,0.03
+2024,age: 10-14 years old,rural,,,,,,,,,0.03
+2024,age: 10-14 years old,rural,Abai,,,,,,,KZABY,0.0
+2024,age: 10-14 years old,rural,Akmola,,,,,,,KZAKM,0.0
+2024,age: 10-14 years old,rural,Aktobe,,,,,,,KZAKT,0.0
+2024,age: 10-14 years old,rural,Almaty,,,,,,,KZALM,0.03
+2024,age: 10-14 years old,rural,Atyrau,,,,,,,KZATY,0.0
+2024,age: 10-14 years old,rural,Batys Kazakhstan,,,,,,,KZZAP,0.0
+2024,age: 10-14 years old,rural,Zhambyl,,,,,,,KZZHA,0.05
+2024,age: 10-14 years old,rural,Zhetisu,,,,,,,KZZHS,0.0
+2024,age: 10-14 years old,rural,Karagandy,,,,,,,KZKAR,0.0
+2024,age: 10-14 years old,rural,Kostanay,,,,,,,KZKUS,0.0
+2024,age: 10-14 years old,rural,Kyzylorda,,,,,,,KZKZY,0.04
+2024,age: 10-14 years old,rural,Mangistau,,,,,,,KZMAN,0.0
+2024,age: 10-14 years old,rural,Pavlodar,,,,,,,KZPAV,0.22
+2024,age: 10-14 years old,rural,Soltustik Kazakhstan,,,,,,,KZSEV,0.1
+2024,age: 10-14 years old,rural,Turkistan,,,,,,,KZYUZ,0.03
+2024,age: 10-14 years old,rural,Ulytau,,,,,,,KZULU,0.0
+2024,age: 10-14 years old,rural,Shygys Kazakhstan,,,,,,,KZVOS,0.11
+2024,15-19,,,,,,,,,,16.64
+2024,15-19,,Abai,,,,,,,KZABY,13.02
+2024,15-19,,Akmola,,,,,,,KZAKM,12.14
+2024,15-19,,Aktobe,,,,,,,KZAKT,13.83
+2024,15-19,,Almaty,,,,,,,KZALM,19.47
+2024,15-19,,Atyrau,,,,,,,KZATY,17.8
+2024,15-19,,Batys Kazakhstan,,,,,,,KZZAP,13.63
+2024,15-19,,Zhambyl,,,,,,,KZZHA,25.36
+2024,15-19,,Zhetisu,,,,,,,KZZHS,17.4
+2024,15-19,,Karagandy,,,,,,,KZKAR,13.13
+2024,15-19,,Kostanay,,,,,,,KZKUS,14.95
+2024,15-19,,Kyzylorda,,,,,,,KZKZY,14.58
+2024,15-19,,Mangistau,,,,,,,KZMAN,27.61
+2024,15-19,,Pavlodar,,,,,,,KZPAV,10.57
+2024,15-19,,Soltustik Kazakhstan,,,,,,,KZSEV,13.95
+2024,15-19,,Turkistan,,,,,,,KZYUZ,25.39
+2024,15-19,,Ulytau,,,,,,,KZULU,17.96
+2024,15-19,,Shygys Kazakhstan,,,,,,,KZVOS,12.12
+2024,15-19,,Astana city,,,,,,,KZNS,7.67
+2024,15-19,,Almaty city,,,,,,,KZALA,7.77
+2024,15-19,,Shymkent city,,,,,,,KZSHY,17.97
+2024,15-19,urban,,,,,,,,,12.96
+2024,15-19,urban,Abai,,,,,,,KZABY,13.41
+2024,15-19,urban,Akmola,,,,,,,KZAKM,9.75
+2024,15-19,urban,Aktobe,,,,,,,KZAKT,12.77
+2024,15-19,urban,Almaty,,,,,,,KZALM,17.25
+2024,15-19,urban,Atyrau,,,,,,,KZATY,14.62
+2024,15-19,urban,Batys Kazakhstan,,,,,,,KZZAP,11.87
+2024,15-19,urban,Zhambyl,,,,,,,KZZHA,19.72
+2024,15-19,urban,Karagandy,,,,,,,KZKAR,12.5
+2024,15-19,urban,Kostanay,,,,,,,KZKUS,12.22
+2024,15-19,urban,Kyzylorda,,,,,,,KZKZY,13.4
+2024,15-19,urban,Mangistau,,,,,,,KZMAN,20.554
+2024,15-19,urban,Pavlodar,,,,,,,KZPAV,8.4
+2024,15-19,urban,Soltustik Kazakhstan,,,,,,,KZSEV,8.58
+2024,15-19,urban,Turkistan,,,,,,,KZYUZ,23.01
+2024,15-19,urban,Ulytau,,,,,,,KZULU,16.95
+2024,15-19,urban,Shygys Kazakhstan,,,,,,,KZVOS,10.13
+2024,15-19,urban,Astana city,,,,,,,KZNS,7.67
+2024,15-19,urban,Almaty city,,,,,,,KZALA,7.77
+2024,15-19,urban,Shymkent city,,,,,,,KZSHY,17.97
+2024,15-19,rural,,,,,,,,,21.78
+2024,15-19,rural,Abai,,,,,,,KZABY,12.44
+2024,15-19,rural,Akmola,,,,,,,KZAKM,14.94
+2024,15-19,rural,Aktobe,,,,,,,KZAKT,16.75
+2024,15-19,rural,Almaty,,,,,,,KZALM,19.95
+2024,15-19,rural,Atyrau,,,,,,,KZATY,21.3
+2024,15-19,rural,Batys Kazakhstan,,,,,,,KZZAP,15.66
+2024,15-19,rural,Zhambyl,,,,,,,KZZHA,29.21
+2024,15-19,rural,Zhetisu,,,,,,,KZZHS,18.06
+2024,15-19,rural,Karagandy,,,,,,,KZKAR,15.65
+2024,15-19,rural,Kostanay,,,,,,,KZKUS,18.94
+2024,15-19,rural,Kyzylorda,,,,,,,KZKZY,15.51
+2024,15-19,rural,Mangistau,,,,,,,KZMAN,32.66
+2024,15-19,rural,Pavlodar,,,,,,,KZPAV,15.15
+2024,15-19,rural,Soltustik Kazakhstan,,,,,,,KZSEV,18.43
+2024,15-19,rural,Turkistan,,,,,,,KZYUZ,26.11
+2024,15-19,rural,Ulytau,,,,,,,KZULU,21.25
+2024,15-19,rural,Shygys Kazakhstan,,,,,,,KZVOS,15.37
