@@ -1,4 +1,7 @@
 Year,UNIT_MEASURE,SERIES,Sex,Regions,GeoCode,Value
+2012,Percent,i) literacy (based on gender),,,,43.0
+2012,Percent,i) literacy (based on gender),Male,,,33.0
+2012,Percent,i) literacy (based on gender),Female,,,53.0
 2015,Percent,i) literacy (based on gender),,,,58.7
 2015,Percent,i) literacy (based on gender),Male,,,54.7
 2015,Percent,i) literacy (based on gender),Female,,,63.0
