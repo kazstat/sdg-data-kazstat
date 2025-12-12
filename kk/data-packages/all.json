@@ -8411,12 +8411,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Жыл"
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "number",
+            "type": "string",
             "title": "UNIT_MEASURE"
           },
           {
