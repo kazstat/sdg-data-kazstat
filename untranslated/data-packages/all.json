@@ -8111,7 +8111,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
