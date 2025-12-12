@@ -8416,7 +8416,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string",
+            "type": "number",
             "title": "Unit of measure"
           },
           {

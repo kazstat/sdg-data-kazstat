@@ -16,7 +16,7 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",
