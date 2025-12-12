@@ -3505,6 +3505,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "55.0",
                 ""
               ]
             },
@@ -3533,6 +3534,7 @@
                 "Almaty city",
                 "Turkistan",
                 "Shymkent city",
+                "55.0",
                 ""
               ]
             },

@@ -119,44 +119,27 @@ Year,UNIT_MEASURE,SERIES,Sex,Regions,GeoCode,Value
 2022,Percent,i) literacy (based on gender),,Shymkent city,KZSHY,26.3
 2022,Percent,i) literacy (based on gender),Male,Shymkent city,KZSHY,20.4
 2022,Percent,i) literacy (based on gender),Female,Shymkent city,KZSHY,32.5
-2015,Percent,i) literacy (based on gender),Male,Akmola,KZAKM,57.0
-2015,Percent,i) literacy (based on gender),Female,Akmola,KZAKM,60.0
-2015,Percent,i) literacy (based on gender),Male,Aktobe,KZAKT,39.0
-2015,Percent,i) literacy (based on gender),Female,Aktobe,KZAKT,62.0
-2015,Percent,i) literacy (based on gender),Male,Almaty,KZALM,51.0
-2015,Percent,i) literacy (based on gender),Female,Almaty,KZALM,58.0
-2015,Percent,i) literacy (based on gender),Male,Atyrau,KZATY,33.0
-2015,Percent,i) literacy (based on gender),Female,Atyrau,KZATY,51.0
-2015,Percent,i) literacy (based on gender),Male,Batys Kazakhstan,KZZAP,59.0
-2015,Percent,i) literacy (based on gender),Female,Batys Kazakhstan,KZZAP,66.0
-2015,Percent,i) literacy (based on gender),Male,Zhambyl,KZZHA,58.0
-2015,Percent,i) literacy (based on gender),Female,Zhambyl,KZZHA,63.0
-2015,Percent,i) literacy (based on gender),Male,Karagandy,KZKAR,71.0
-2015,Percent,i) literacy (based on gender),Female,Karagandy,KZKAR,74.0
-2015,Percent,i) literacy (based on gender),Male,Kostanay,KZKUS,57.0
-2015,Percent,i) literacy (based on gender),Female,Kostanay,KZKUS,63.0
-2015,Percent,i) literacy (based on gender),Male,Kyzylorda,KZKZY,59.0
-2015,Percent,i) literacy (based on gender),Female,Kyzylorda,KZKZY,65.0
-2015,Percent,i) literacy (based on gender),Male,Mangistau,KZMAN,45.0
-2015,Percent,i) literacy (based on gender),Female,Mangistau,KZMAN,45.0
-2015,Percent,i) literacy (based on gender),Male,Ontustik Kazakhstan,KZONT,42.0
-2015,Percent,i) literacy (based on gender),Female,Ontustik Kazakhstan,KZONT,48.0
-2015,Percent,i) literacy (based on gender),Male,Pavlodar,KZPAV,70.0
-2015,Percent,i) literacy (based on gender),Female,Pavlodar,KZPAV,79.0
-2015,Percent,i) literacy (based on gender),Male,Soltustik Kazakhstan,KZSEV,57.0
-2015,Percent,i) literacy (based on gender),Female,Soltustik Kazakhstan,KZSEV,78.0
-2015,Percent,i) literacy (based on gender),Male,Shygys Kazakhstan,KZVOS,57.0
-2015,Percent,i) literacy (based on gender),Female,Shygys Kazakhstan,KZVOS,63.0
-2015,Percent,i) literacy (based on gender),Male,Astana city,KZNS,82.0
-2015,Percent,i) literacy (based on gender),Female,Astana city,KZNS,85.0
-2015,Percent,i) literacy (based on gender),Male,Almaty city,KZALA,64.0
-2015,Percent,i) literacy (based on gender),Female,Almaty city,KZALA,78.0
-2015,Percent,ii) basic math skills (based on gender and 3rd grade),,,,99.977
-2015,Percent,ii) basic math skills (based on gender and 3rd grade),Male,,,99.977
-2015,Percent,ii) basic math skills (based on gender and 3rd grade),Female,,,99.977
-2015,Percent,ii) basic math skills (based on gender and 2nd grade),,,,99.973
-2015,Percent,ii) basic math skills (based on gender and 2nd grade),Male,,,99.978
-2015,Percent,ii) basic math skills (based on gender and 2nd grade),Female,,,99.968
+2011,Percent,math skills (based on gender and TIMSS 4th grade),,,,88.0
+2011,Percent,math skills (based on gender and TIMSS 4th grade),Male,,,87.0
+2011,Percent,math skills (based on gender and TIMSS 4th grade),Female,,,89.0
+2015,Percent,math skills (based on gender and TIMSS 4th grade),,,,96.0
+2015,Percent,math skills (based on gender and TIMSS 4th grade),Male,,,96.0
+2015,Percent,math skills (based on gender and TIMSS 4th grade),Female,,,97.0
+2020,Percent,math skills (based on gender and TIMSS 4th grade),,,,95.0
+2020,Percent,math skills (based on gender and TIMSS 4th grade),Male,,,95.0
+2020,Percent,math skills (based on gender and TIMSS 4th grade),Female,,,95.0
+2011,Percent,math skills (based on gender and TIMSS 8th grade),,,,85.0
+2011,Percent,math skills (based on gender and TIMSS 8th grade),Male,,,85.0
+2011,Percent,math skills (based on gender and TIMSS 8th grade),Female,,,86.0
+2015,Percent,math skills (based on gender and TIMSS 8th grade),,,,91.0
+2015,Percent,math skills (based on gender and TIMSS 8th grade),Male,,,90.0
+2015,Percent,math skills (based on gender and TIMSS 8th grade),Female,,,92.0
+2020,Percent,math skills (based on gender and TIMSS 8th grade),,,,85.0
+2020,Percent,math skills (based on gender and TIMSS 8th grade),Male,,,84.0
+2020,Percent,math skills (based on gender and TIMSS 8th grade),Female,,,86.0
+2012,_L_KZ_040101_1D,,,55.0,55.0,
+2012,_L_KZ_040101_1D,M,55.0,,,
+2012,_L_KZ_040101_1D,F,55.0,,,
 2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,96.5
 2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,,,96.5
 2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,,,96.5
