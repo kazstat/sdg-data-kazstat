@@ -140,149 +140,66 @@ Year,UNIT_MEASURE,SERIES,Sex,Regions,GeoCode,Value
 2012,Percent,math skills (based on gender and PISA),,,,55.0
 2012,Percent,math skills (based on gender and PISA),Male,55.0,55.0,
 2012,Percent,math skills (based on gender and PISA),Female,55.0,55.0,
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,96.5
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,,,96.5
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,,,96.5
-2015,Percent,math skills,,,,67.8
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,,,68.5
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,,,67.2
-2015,Percent,math skills,Male,Akmola,KZAKM,62.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Akmola,KZAKM,57.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Aktobe,KZAKT,59.0
-2015,Percent,math skills,Female,Aktobe,KZAKT,65.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Almaty,KZALM,77.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Almaty,KZALM,76.0
-2015,Percent,math skills,Male,Atyrau,KZATY,38.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Atyrau,KZATY,51.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Batys Kazakhstan,KZZAP,80.0
-2015,Percent,math skills,Female,Batys Kazakhstan,KZZAP,74.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Zhambyl,KZZHA,79.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Zhambyl,KZZHA,83.0
-2015,Percent,math skills,Male,Karagandy,KZKAR,75.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Karagandy,KZKAR,71.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Kostanay,KZKUS,57.0
-2015,Percent,math skills,Female,Kostanay,KZKUS,58.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Kyzylorda,KZKZY,76.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Kyzylorda,KZKZY,77.0
-2015,Percent,math skills,Male,Mangistau,KZMAN,60.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Mangistau,KZMAN,62.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Ontustik Kazakhstan,KZONT,56.0
-2015,Percent,math skills,Female,Ontustik Kazakhstan,KZONT,57.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Pavlodar,KZPAV,69.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Pavlodar,KZPAV,64.0
-2015,Percent,math skills,Male,Soltustik Kazakhstan,KZSEV,65.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Soltustik Kazakhstan,KZSEV,70.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Shygys Kazakhstan,KZVOS,72.0
-2015,Percent,math skills,Female,Shygys Kazakhstan,KZVOS,72.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Astana city,KZNS,85.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Astana city,KZNS,82.0
-2015,Percent,math skills,Male,Almaty city,KZALA,66.0
-2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Almaty city,KZALA,75.0
-2015,Percent,math skills,,,,90.8
-2015,Percent,math skills,Male,,,91.9
-2015,Percent,math skills,Female,,,89.7
-2015,Percent,math skills,Male,Akmola,KZAKM,89.36
-2015,Percent,math skills,Female,Akmola,KZAKM,90.76
-2015,Percent,math skills,Male,Aktobe,KZAKT,90.81
-2015,Percent,math skills,Female,Aktobe,KZAKT,89.19
-2015,Percent,math skills,Male,Almaty,KZALM,85.36
-2015,Percent,math skills,Female,Almaty,KZALM,87.63
-2015,Percent,math skills,Male,Atyrau,KZATY,70.78
-2015,Percent,math skills,Female,Atyrau,KZATY,78.48
-2015,Percent,math skills,Male,Batys Kazakhstan,KZZAP,97.04
-2015,Percent,math skills,Female,Batys Kazakhstan,KZZAP,97.91
-2015,Percent,math skills,Male,Zhambyl,KZZHA,94.57
-2015,Percent,math skills,Female,Zhambyl,KZZHA,97.43
-2015,Percent,math skills,Male,Karagandy,KZKAR,93.69
-2015,Percent,math skills,Female,Karagandy,KZKAR,93.33
-2015,Percent,math skills,Male,Kostanay,KZKUS,82.12
-2015,Percent,math skills,Female,Kostanay,KZKUS,89.48
-2015,Percent,math skills,Male,Kyzylorda,KZKZY,98.02
-2015,Percent,math skills,Female,Kyzylorda,KZKZY,98.78
-2015,Percent,math skills,Male,Mangistau,KZMAN,82.36
-2015,Percent,math skills,Female,Mangistau,KZMAN,88.87
-2015,Percent,math skills,Male,Ontustik Kazakhstan,KZONT,85.74
-2015,Percent,math skills,Female,Ontustik Kazakhstan,KZONT,88.95
-2015,Percent,math skills,Male,Pavlodar,KZPAV,91.1
-2015,Percent,math skills,Female,Pavlodar,KZPAV,93.79
-2015,Percent,math skills,Male,Soltustik Kazakhstan,KZSEV,93.04
-2015,Percent,math skills,Female,Soltustik Kazakhstan,KZSEV,94.69
-2015,Percent,math skills,Male,Shygys Kazakhstan,KZVOS,98.99
-2015,Percent,math skills,Female,Shygys Kazakhstan,KZVOS,99.4
-2015,Percent,math skills,Male,Astana city,KZNS,85.04
-2015,Percent,math skills,Female,Astana city,KZNS,95.37
-2015,Percent,math skills,Male,Almaty city,KZALA,97.17
-2015,Percent,math skills,Female,Almaty city,KZALA,92.92
-2016,Percent,math skills,,,,98.0
-2016,Percent,math skills,Male,,,98.0
-2016,Percent,math skills,Female,,,98.0
-2018,Percent,i) literacy (based on gender),,,,35.8
-2018,Percent,i) literacy (based on gender),Male,,,29.34
-2018,Percent,i) literacy (based on gender),Female,,,42.66
-2018,Percent,i) literacy (based on gender),Male,Akmola,KZAKM,37.25
-2018,Percent,i) literacy (based on gender),Female,Akmola,KZAKM,48.81
-2018,Percent,i) literacy (based on gender),Male,Aktobe,KZAKT,22.52
-2018,Percent,i) literacy (based on gender),Female,Aktobe,KZAKT,42.35
-2018,Percent,i) literacy (based on gender),Male,Almaty,KZALM,15.42
-2018,Percent,i) literacy (based on gender),Female,Almaty,KZALM,30.1
-2018,Percent,i) literacy (based on gender),Male,Atyrau,KZATY,9.88
-2018,Percent,i) literacy (based on gender),Female,Atyrau,KZATY,23.02
-2018,Percent,i) literacy (based on gender),Male,Batys Kazakhstan,KZZAP,23.66
-2018,Percent,i) literacy (based on gender),Female,Batys Kazakhstan,KZZAP,38.99
-2018,Percent,i) literacy (based on gender),Male,Zhambyl,KZZHA,20.86
-2018,Percent,i) literacy (based on gender),Female,Zhambyl,KZZHA,28.49
-2018,Percent,i) literacy (based on gender),Male,Karagandy,KZKAR,45.62
-2018,Percent,i) literacy (based on gender),Female,Karagandy,KZKAR,61.58
-2018,Percent,i) literacy (based on gender),Male,Kostanay,KZKUS,47.43
-2018,Percent,i) literacy (based on gender),Female,Kostanay,KZKUS,60.8
-2018,Percent,i) literacy (based on gender),Male,Kyzylorda,KZKZY,15.91
-2018,Percent,i) literacy (based on gender),Female,Kyzylorda,KZKZY,28.81
-2018,Percent,i) literacy (based on gender),Male,Mangistau,KZMAN,15.74
-2018,Percent,i) literacy (based on gender),Female,Mangistau,KZMAN,28.06
-2018,Percent,i) literacy (based on gender),Male,Ontustik Kazakhstan,KZONT,18.02
-2018,Percent,i) literacy (based on gender),Female,Ontustik Kazakhstan,KZONT,32.52
-2018,Percent,i) literacy (based on gender),Male,Pavlodar,KZPAV,38.13
-2018,Percent,i) literacy (based on gender),Female,Pavlodar,KZPAV,42.06
-2018,Percent,i) literacy (based on gender),Male,Soltustik Kazakhstan,KZSEV,45.38
-2018,Percent,i) literacy (based on gender),Female,Soltustik Kazakhstan,KZSEV,59.7
-2018,Percent,i) literacy (based on gender),Male,Shygys Kazakhstan,KZVOS,37.05
-2018,Percent,i) literacy (based on gender),Female,Shygys Kazakhstan,KZVOS,55.91
-2018,Percent,i) literacy (based on gender),Male,Astana city,KZNS,53.4
-2018,Percent,i) literacy (based on gender),Female,Astana city,KZNS,60.67
-2018,Percent,i) literacy (based on gender),Male,Almaty city,KZALA,48.11
-2018,Percent,i) literacy (based on gender),Female,Almaty city,KZALA,61.21
-2018,Percent,math skills,,,,50.9
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,,,50.9
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,,,51.0
-2018,Percent,math skills,Male,Akmola,KZAKM,47.5
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Akmola,KZAKM,44.1
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Aktobe,KZAKT,49.4
-2018,Percent,math skills,Female,Aktobe,KZAKT,52.0
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Almaty,KZALM,40.0
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Almaty,KZALM,38.6
-2018,Percent,math skills,Male,Atyrau,KZATY,28.9
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Atyrau,KZATY,33.3
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Batys Kazakhstan,KZZAP,47.0
-2018,Percent,math skills,Female,Batys Kazakhstan,KZZAP,50.3
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Zhambyl,KZZHA,68.6
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Zhambyl,KZZHA,68.3
-2018,Percent,math skills,Male,Karagandy,KZKAR,61.6
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Karagandy,KZKAR,58.1
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Kostanay,KZKUS,64.4
-2018,Percent,math skills,Female,Kostanay,KZKUS,62.8
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Kyzylorda,KZKZY,47.7
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Kyzylorda,KZKZY,53.3
-2018,Percent,math skills,Male,Mangistau,KZMAN,32.9
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Mangistau,KZMAN,37.2
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Ontustik Kazakhstan,KZONT,40.4
-2018,Percent,math skills,Female,Ontustik Kazakhstan,KZONT,40.6
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Pavlodar,KZPAV,61.9
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Pavlodar,KZPAV,54.8
-2018,Percent,math skills,Male,Soltustik Kazakhstan,KZSEV,56.4
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Soltustik Kazakhstan,KZSEV,53.4
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Shygys Kazakhstan,KZVOS,55.6
-2018,Percent,math skills,Female,Shygys Kazakhstan,KZVOS,60.7
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,Astana city,KZNS,65.2
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Astana city,KZNS,59.8
-2018,Percent,math skills,Male,Almaty city,KZALA,62.1
-2018,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,Almaty city,KZALA,60.9
+2015,Percent,math skills (based on gender and PISA),,,,67.8
+2015,Percent,math skills (based on gender and PISA),Male,67.2,67.2,
+2015,Percent,math skills (based on gender and PISA),Female,68.5,68.5,
+2015,Percent,i) literacy (based on gender),,Akmola,KZAKM,67.8
+2015,Percent,i) literacy (based on gender),,Aktobe,KZAKT,68.5
+2015,Percent,i) literacy (based on gender),,Almaty,KZALM,67.2
+2015,Percent,i) literacy (based on gender),,Atyrau,KZATY,0.0
+2015,Percent,i) literacy (based on gender),,Batys Kazakhstan,KZZAP,0.0
+2015,Percent,i) literacy (based on gender),,Zhambyl,KZZHA,62.0
+2015,Percent,i) literacy (based on gender),,Karagandy,KZKAR,57.0
+2015,Percent,i) literacy (based on gender),,Kostanay,KZKUS,0.0
+2015,Percent,i) literacy (based on gender),,Kyzylorda,KZKZY,59.0
+2015,Percent,i) literacy (based on gender),,Mangistau,KZMAN,65.0
+2015,Percent,i) literacy (based on gender),,Ontustik Kazakhstan,KZONT,0.0
+2015,Percent,i) literacy (based on gender),,Pavlodar,KZPAV,77.0
+2015,Percent,i) literacy (based on gender),,Soltustik Kazakhstan,KZSEV,76.0
+2015,Percent,i) literacy (based on gender),,Shygys Kazakhstan,KZVOS,0.0
+2015,Percent,i) literacy (based on gender),,Turkistan,KZYUZ,0.0
+2015,Percent,i) literacy (based on gender),,Astana city,KZNS,38.0
+2015,Percent,i) literacy (based on gender),,Almaty city,KZALA,51.0
+2015,Percent,i) literacy (based on gender),,Shymkent city,KZSHY,0.0
+2018,Percent,math skills (based on gender and PISA),,,,51.0
+2018,Percent,math skills (based on gender and PISA),Male,51.0,51.0,
+2018,Percent,math skills (based on gender and PISA),Female,51.0,51.0,
+2018,Percent,i) literacy (based on gender),,Akmola,KZAKM,46.0
+2018,Percent,i) literacy (based on gender),,Aktobe,KZAKT,51.0
+2018,Percent,i) literacy (based on gender),,Almaty,KZALM,39.0
+2018,Percent,i) literacy (based on gender),,Atyrau,KZATY,31.0
+2018,Percent,i) literacy (based on gender),,Batys Kazakhstan,KZZAP,49.0
+2018,Percent,i) literacy (based on gender),,Zhambyl,KZZHA,68.0
+2018,Percent,i) literacy (based on gender),,Karagandy,KZKAR,60.0
+2018,Percent,i) literacy (based on gender),,Kostanay,KZKUS,64.0
+2018,Percent,i) literacy (based on gender),,Kyzylorda,KZKZY,50.0
+2018,Percent,i) literacy (based on gender),,Mangistau,KZMAN,35.0
+2018,Percent,i) literacy (based on gender),,Ontustik Kazakhstan,KZONT,41.0
+2018,Percent,i) literacy (based on gender),,Pavlodar,KZPAV,58.0
+2018,Percent,i) literacy (based on gender),,Soltustik Kazakhstan,KZSEV,55.0
+2018,Percent,i) literacy (based on gender),,Shygys Kazakhstan,KZVOS,58.0
+2018,Percent,i) literacy (based on gender),,Turkistan,KZYUZ,0.0
+2018,Percent,i) literacy (based on gender),,Astana city,KZNS,63.0
+2018,Percent,i) literacy (based on gender),,Almaty city,KZALA,62.0
+2018,Percent,i) literacy (based on gender),,Shymkent city,KZSHY,0.0
+2022,Percent,math skills (based on gender and PISA),,,,51.0
+2022,Percent,math skills (based on gender and PISA),Male,51.0,51.0,
+2022,Percent,math skills (based on gender and PISA),Female,51.0,51.0,
+2022,Percent,i) literacy (based on gender),,Akmola,KZAKM,46.9
+2022,Percent,i) literacy (based on gender),,Aktobe,KZAKT,59.7
+2022,Percent,i) literacy (based on gender),,Almaty,KZALM,43.8
+2022,Percent,i) literacy (based on gender),,Atyrau,KZATY,38.4
+2022,Percent,i) literacy (based on gender),,Batys Kazakhstan,KZZAP,49.6
+2022,Percent,i) literacy (based on gender),,Zhambyl,KZZHA,58.6
+2022,Percent,i) literacy (based on gender),,Karagandy,KZKAR,48.0
+2022,Percent,i) literacy (based on gender),,Kostanay,KZKUS,56.4
+2022,Percent,i) literacy (based on gender),,Kyzylorda,KZKZY,44.5
+2022,Percent,i) literacy (based on gender),,Mangistau,KZMAN,0.0
+2022,Percent,i) literacy (based on gender),,Ontustik Kazakhstan,KZONT,0.0
+2022,Percent,i) literacy (based on gender),,Pavlodar,KZPAV,49.6
+2022,Percent,i) literacy (based on gender),,Soltustik Kazakhstan,KZSEV,58.2
+2022,Percent,i) literacy (based on gender),,Shygys Kazakhstan,KZVOS,52.2
+2022,Percent,i) literacy (based on gender),,Turkistan,KZYUZ,31.0
+2022,Percent,i) literacy (based on gender),,Astana city,KZNS,61.1
+2022,Percent,i) literacy (based on gender),,Almaty city,KZALA,62.6
+2022,Percent,i) literacy (based on gender),,Shymkent city,KZSHY,40.4
