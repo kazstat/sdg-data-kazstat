@@ -137,9 +137,9 @@ Year,UNIT_MEASURE,SERIES,Sex,Regions,GeoCode,Value
 2020,Percent,math skills (based on gender and TIMSS 8th grade),,,,85.0
 2020,Percent,math skills (based on gender and TIMSS 8th grade),Male,,,84.0
 2020,Percent,math skills (based on gender and TIMSS 8th grade),Female,,,86.0
-2012,_L_KZ_040101_1D,,,55.0,55.0,
-2012,_L_KZ_040101_1D,M,55.0,,,
-2012,_L_KZ_040101_1D,F,55.0,,,
+2012,Percent,math skills (based on gender and PISA),,,,55.0
+2012,Percent,math skills (based on gender and PISA),Male,55.0,55.0,
+2012,Percent,math skills (based on gender and PISA),Female,55.0,55.0,
 2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,96.5
 2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,,,96.5
 2015,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,,,96.5
