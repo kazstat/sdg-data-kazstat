@@ -973,7 +973,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2023,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,KZVOS,166.9
 2023,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Abai,KZABY,38.4
 2023,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhetisu,KZZHS,17.4
-2023,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhetisu,KZZHS,0.5
+2023,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Ulytau,KZULU,0.5
 2023,Percent,_L_KZ_150201_1B,,,23.7
 2023,Percent,_L_KZ_150201_1B,Akmola,KZAKM,8.1
 2023,Percent,_L_KZ_150201_1B,Aktobe,KZAKT,0.9
@@ -1010,3 +1010,75 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2023,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Abai,KZABY,3.3
 2023,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhetisu,KZZHS,1.0
 2023,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Ulytau,KZULU,0.1
+2024,thousands hectares,_L_KZ_150201_1A,,,13898.7
+2024,thousands hectares,_L_KZ_150201_1A,Akmola,KZAKM,445.9
+2024,thousands hectares,_L_KZ_150201_1A,Aktobe,KZAKT,60.2
+2024,thousands hectares,_L_KZ_150201_1A,Almaty,KZALM,1582.0
+2024,thousands hectares,_L_KZ_150201_1A,Atyrau,KZATY,18.4
+2024,thousands hectares,_L_KZ_150201_1A,Batys Kazakhstan,KZZAP,90.2
+2024,thousands hectares,_L_KZ_150201_1A,Zhambyl,KZZHA,2315.1
+2024,thousands hectares,_L_KZ_150201_1A,Karagandy,KZKAR,137.5
+2024,thousands hectares,_L_KZ_150201_1A,Kostanay,KZKUS,237.7
+2024,thousands hectares,_L_KZ_150201_1A,Kyzylorda,KZKZY,3882.3
+2024,thousands hectares,_L_KZ_150201_1A,Mangistau,KZMAN,138.1
+2024,thousands hectares,_L_KZ_150201_1A,Pavlodar,KZPAV,309.4
+2024,thousands hectares,_L_KZ_150201_1A,Soltustik Kazakhstan,KZSEV,518.8
+2024,thousands hectares,_L_KZ_150201_1A,Turkistan,KZYUZ,1595.7
+2024,thousands hectares,_L_KZ_150201_1A,Shygys Kazakhstan,KZVOS,1669.8
+2024,thousands hectares,_L_KZ_150201_1A,Abai,KZABY,437.5
+2024,thousands hectares,_L_KZ_150201_1A,Zhetisu,KZZHS,445.9
+2024,thousands hectares,_L_KZ_150201_1A,Ulytau,KZULU,14.2
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,,457.2
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,KZAKM,51.4
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,KZAKT,1.4
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,KZALM,40.4
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,KZATY,0.5
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,KZZAP,8.8
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,KZZHA,4.8
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,KZKAR,5.6
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,KZKUS,17.5
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,KZKZY,11.2
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,KZMAN,0.1
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,KZPAV,31.3
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,KZSEV,49.4
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,KZYUZ,3.6
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,KZVOS,167.3
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Abai,KZABY,47.5
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhetisu,KZZHS,16.3
+2024,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Ulytau,KZULU,0.4
+2024,Percent,_L_KZ_150201_1B,,,201.5
+2024,Percent,_L_KZ_150201_1B,Akmola,KZAKM,0.6
+2024,Percent,_L_KZ_150201_1B,Aktobe,KZAKT,0.7
+2024,Percent,_L_KZ_150201_1B,Almaty,KZALM,6.9
+2024,Percent,_L_KZ_150201_1B,Atyrau,KZATY,-0.04
+2024,Percent,_L_KZ_150201_1B,Batys Kazakhstan,KZZAP,0.0
+2024,Percent,_L_KZ_150201_1B,Zhambyl,KZZHA,0.6
+2024,Percent,_L_KZ_150201_1B,Karagandy,KZKAR,0.2
+2024,Percent,_L_KZ_150201_1B,Kostanay,KZKUS,0.8
+2024,Percent,_L_KZ_150201_1B,Kyzylorda,KZKZY,48.5
+2024,Percent,_L_KZ_150201_1B,Mangistau,KZMAN,12.2
+2024,Percent,_L_KZ_150201_1B,Pavlodar,KZPAV,33.8
+2024,Percent,_L_KZ_150201_1B,Soltustik Kazakhstan,KZSEV,0.3
+2024,Percent,_L_KZ_150201_1B,Turkistan,KZYUZ,8.1
+2024,Percent,_L_KZ_150201_1B,Shygys Kazakhstan,KZVOS,28.3
+2024,Percent,_L_KZ_150201_1B,Abai,KZABY,61.1
+2024,Percent,_L_KZ_150201_1B,Zhetisu,KZZHS,0.1
+2024,Percent,_L_KZ_150201_1B,Ulytau,KZULU,0.0
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],,,100.0
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Akmola,KZAKM,3.3
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Aktobe,KZAKT,0.1
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Almaty,KZALM,9.7
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Atyrau,KZATY,0.0
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Batys Kazakhstan,KZZAP,0.0
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhambyl,KZZHA,10.1
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Karagandy,KZKAR,1.7
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kostanay,KZKUS,0.7
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Kyzylorda,KZKZY,18.2
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Mangistau,KZMAN,0.1
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Pavlodar,KZPAV,5.4
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Soltustik Kazakhstan,KZSEV,2.6
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Turkistan,KZYUZ,25.9
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Shygys Kazakhstan,KZVOS,8.4
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Abai,KZABY,11.1
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Zhetisu,KZZHS,2.8
+2024,thousands hectares,Proportion of forest area within legally established protected areas [15.2.1],Ulytau,KZULU,0.2
