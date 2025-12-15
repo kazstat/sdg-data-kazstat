@@ -1,4 +1,4 @@
-Year,Value
-2019,14.6
-2021,16.57
-2023,1.5
+Year,UNIT_MEASURE,Value
+2019,Percent,14.6
+2021,Percent,16.57
+2023,Percent,1.5
