@@ -1,16 +1,16 @@
-Year,Value
-2010,64236.0
-2011,64236.0
-2012,64236.0
-2013,64236.0
-2014,64236.0
-2015,64236.0
-2016,64236.0
-2017,64236.0
-2018,64236.0
-2019,64236.0
-2020,64236.0
-2021,63493.0
-2022,63493.0
-2023,63493.0
-2024,63493.0
+Year,Value,UNIT_MEASURE
+2010,64236.0,thousands hectares
+2011,64236.0,thousands hectares
+2012,64236.0,thousands hectares
+2013,64236.0,thousands hectares
+2014,64236.0,thousands hectares
+2015,64236.0,thousands hectares
+2016,64236.0,thousands hectares
+2017,64236.0,thousands hectares
+2018,64236.0,thousands hectares
+2019,64236.0,thousands hectares
+2020,64236.0,thousands hectares
+2021,63493.0,thousands hectares
+2022,63493.0,thousands hectares
+2023,63493.0,thousands hectares
+2024,63493.0,thousands hectares

@@ -6051,6 +6051,10 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -9274,6 +9278,10 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",
