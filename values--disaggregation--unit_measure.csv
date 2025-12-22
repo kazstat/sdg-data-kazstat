@@ -25,7 +25,7 @@ T,тонн,тонна,tons,10,1
 T_PERCAP,тонн на душу населения,T_PERCAP,T_PERCAP,1,1
 TH_HA,тыс.гектар,мың.гектар,thousands hectares,103,5
 TH_PEOPLE,тыс.человек,мың.адам,thousand people,49,3
-TH_TNG,тыс.тенге,мың теңге,thousand of tenge,65,2
+TH_TNG,тыс.тенге,мың теңге,thousand of tenge,64,2
 TH_UNITS,тыс.единиц,мың бірлік,thousands,66,1
 UNITS,единиц,бірлік,units,6,5
 USD_IN_2010_PRICE,"в долларах США, в ценах 2010 года","2010 жылғы бағаларда, АҚШ доллар",tenge per US dollars in 2010 prices,17,1
