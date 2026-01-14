@@ -1592,159 +1592,186 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2018,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,7.85
 2018,per 100000 population,Turkistan,rural,Female,KZYUZ,9.56
 2018,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,7.5
-2019,per 100000 population,,,,,14.56
-2019,per 100000 population,Akmola,,,KZAKM,14.37
-2019,per 100000 population,Aktobe,,,KZAKT,14.05
-2019,per 100000 population,Almaty,,,KZALM,20.12
-2019,per 100000 population,Atyrau,,,KZATY,11.57
-2019,per 100000 population,Batys Kazakhstan,,,KZZAP,20.01
-2019,per 100000 population,Zhambyl,,,KZZHA,19.51
-2019,per 100000 population,Karagandy,,,KZKAR,12.99
-2019,per 100000 population,Kostanay,,,KZKUS,10.22
-2019,per 100000 population,Kyzylorda,,,KZKZY,15.77
-2019,per 100000 population,Mangistau,,,KZMAN,11.33
-2019,per 100000 population,Pavlodar,,,KZPAV,10.62
-2019,per 100000 population,Soltustik Kazakhstan,,,KZSEV,7.25
-2019,per 100000 population,Turkistan,,,KZYUZ,24.1
-2019,per 100000 population,Shygys Kazakhstan,,,KZVOS,9.9
-2019,per 100000 population,Astana city,,,KZNS,6.5
-2019,per 100000 population,Almaty city,,,KZALA,11.08
-2019,per 100000 population,Shymkent city,,,KZSHY,13.58
-2019,per 100000 population,,urban,,,12.02
-2019,per 100000 population,Akmola,urban,,KZAKM,14.93
-2019,per 100000 population,Aktobe,urban,,KZAKT,12.39
-2019,per 100000 population,Almaty,urban,,KZALM,20.02
-2019,per 100000 population,Atyrau,urban,,KZATY,9.72
-2019,per 100000 population,Batys Kazakhstan,urban,,KZZAP,17.85
-2019,per 100000 population,Zhambyl,urban,,KZZHA,18.77
-2019,per 100000 population,Karagandy,urban,,KZKAR,11.84
-2019,per 100000 population,Kostanay,urban,,KZKUS,9.96
-2019,per 100000 population,Kyzylorda,urban,,KZKZY,15.77
-2019,per 100000 population,Mangistau,urban,,KZMAN,13.51
-2019,per 100000 population,Pavlodar,urban,,KZPAV,7.72
+2019,per 100000 population,,,,,13.97
+2019,per 100000 population,Abai,,,KZABY,6.52
+2019,per 100000 population,Akmola,,,KZAKM,14.26
+2019,per 100000 population,Aktobe,,,KZAKT,8.68
+2019,per 100000 population,Almaty,,,KZALM,18.45
+2019,per 100000 population,Atyrau,,,KZATY,11.41
+2019,per 100000 population,Batys Kazakhstan,,,KZZAP,20.17
+2019,per 100000 population,Zhambyl,,,KZZHA,18.64
+2019,per 100000 population,Zhetisu,,,KZZHS,22.5
+2019,per 100000 population,Karagandy,,,KZKAR,12.0
+2019,per 100000 population,Kostanay,,,KZKUS,9.66
+2019,per 100000 population,Kyzylorda,,,KZKZY,15.78
+2019,per 100000 population,Mangistau,,,KZMAN,11.32
+2019,per 100000 population,Pavlodar,,,KZPAV,10.76
+2019,per 100000 population,Soltustik Kazakhstan,,,KZSEV,7.08
+2019,per 100000 population,Turkistan,,,KZYUZ,23.78
+2019,per 100000 population,Shygys Kazakhstan,,,KZVOS,12.76
+2019,per 100000 population,Ulytau,,,KZULU,15.42
+2019,per 100000 population,Astana city,,,KZNS,6.29
+2019,per 100000 population,Almaty city,,,KZALA,9.95
+2019,per 100000 population,Shymkent city,,,KZSHY,13.39
+2019,per 100000 population,,urban,,,11.3
+2019,per 100000 population,Abai,urban,,KZABY,5.19
+2019,per 100000 population,Akmola,urban,,KZAKM,14.65
+2019,per 100000 population,Aktobe,urban,,KZAKT,7.25
+2019,per 100000 population,Almaty,urban,,KZALM,11.88
+2019,per 100000 population,Atyrau,urban,,KZATY,9.35
+2019,per 100000 population,Batys Kazakhstan,urban,,KZZAP,17.82
+2019,per 100000 population,Zhambyl,urban,,KZZHA,17.88
+2019,per 100000 population,Zhetisu,urban,,KZZHS,23.75
+2019,per 100000 population,Karagandy,urban,,KZKAR,10.18
+2019,per 100000 population,Kostanay,urban,,KZKUS,9.76
+2019,per 100000 population,Kyzylorda,urban,,KZKZY,15.79
+2019,per 100000 population,Mangistau,urban,,KZMAN,12.4
+2019,per 100000 population,Pavlodar,urban,,KZPAV,7.71
 2019,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,5.54
-2019,per 100000 population,Turkistan,urban,,KZYUZ,23.15
-2019,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,7.53
-2019,per 100000 population,Astana city,urban,,KZNS,6.5
-2019,per 100000 population,Almaty city,urban,,KZALA,11.08
-2019,per 100000 population,Shymkent city,urban,,KZSHY,13.58
-2019,per 100000 population,,rural,,,18.15
-2019,per 100000 population,Akmola,rural,,KZAKM,13.87
-2019,per 100000 population,Aktobe,rural,,KZAKT,18.08
-2019,per 100000 population,Almaty,rural,,KZALM,20.15
-2019,per 100000 population,Atyrau,rural,,KZATY,13.81
-2019,per 100000 population,Batys Kazakhstan,rural,,KZZAP,22.38
-2019,per 100000 population,Zhambyl,rural,,KZZHA,19.99
-2019,per 100000 population,Karagandy,rural,,KZKAR,17.5
-2019,per 100000 population,Kostanay,rural,,KZKUS,10.57
-2019,per 100000 population,Kyzylorda,rural,,KZKZY,15.77
-2019,per 100000 population,Mangistau,rural,,KZMAN,9.89
-2019,per 100000 population,Pavlodar,rural,,KZPAV,17.6
-2019,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,8.7
-2019,per 100000 population,Turkistan,rural,,KZYUZ,24.34
-2019,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,13.72
-2019,per 100000 population,,,Male,,22.16
-2019,per 100000 population,Akmola,,Male,KZAKM,21.22
-2019,per 100000 population,Aktobe,,Male,KZAKT,20.74
-2019,per 100000 population,Almaty,,Male,KZALM,28.92
-2019,per 100000 population,Atyrau,,Male,KZATY,19.34
-2019,per 100000 population,Batys Kazakhstan,,Male,KZZAP,29.6
-2019,per 100000 population,Zhambyl,,Male,KZZHA,30.05
-2019,per 100000 population,Karagandy,,Male,KZKAR,19.11
-2019,per 100000 population,Kostanay,,Male,KZKUS,15.0
-2019,per 100000 population,Kyzylorda,,Male,KZKZY,26.7
-2019,per 100000 population,Mangistau,,Male,KZMAN,17.78
-2019,per 100000 population,Pavlodar,,Male,KZPAV,15.99
-2019,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,11.37
-2019,per 100000 population,Turkistan,,Male,KZYUZ,37.27
-2019,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,15.25
-2019,per 100000 population,Astana city,,Male,KZNS,10.16
-2019,per 100000 population,Almaty city,,Male,KZALA,15.87
-2019,per 100000 population,Shymkent city,,Male,KZSHY,20.1
-2019,per 100000 population,,urban,Male,,18.05
-2019,per 100000 population,Akmola,urban,Male,KZAKM,21.94
-2019,per 100000 population,Aktobe,urban,Male,KZAKT,19.24
-2019,per 100000 population,Almaty,urban,Male,KZALM,26.24
-2019,per 100000 population,Atyrau,urban,Male,KZATY,17.14
-2019,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,23.84
-2019,per 100000 population,Zhambyl,urban,Male,KZZHA,28.21
-2019,per 100000 population,Karagandy,urban,Male,KZKAR,18.15
-2019,per 100000 population,Kostanay,urban,Male,KZKUS,14.29
-2019,per 100000 population,Kyzylorda,urban,Male,KZKZY,26.39
-2019,per 100000 population,Mangistau,urban,Male,KZMAN,21.22
-2019,per 100000 population,Pavlodar,urban,Male,KZPAV,11.01
-2019,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,8.7
-2019,per 100000 population,Turkistan,urban,Male,KZYUZ,35.96
-2019,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,11.71
-2019,per 100000 population,Astana city,urban,Male,KZNS,10.16
-2019,per 100000 population,Almaty city,urban,Male,KZALA,15.87
-2019,per 100000 population,Shymkent city,urban,Male,KZSHY,20.1
-2019,per 100000 population,,rural,Male,,27.62
-2019,per 100000 population,Akmola,rural,Male,KZAKM,20.62
-2019,per 100000 population,Aktobe,rural,Male,KZAKT,24.2
-2019,per 100000 population,Almaty,rural,Male,KZALM,29.65
-2019,per 100000 population,Atyrau,rural,Male,KZATY,21.89
-2019,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,35.41
-2019,per 100000 population,Zhambyl,rural,Male,KZZHA,31.2
-2019,per 100000 population,Karagandy,rural,Male,KZKAR,22.58
-2019,per 100000 population,Kostanay,rural,Male,KZKUS,15.9
-2019,per 100000 population,Kyzylorda,rural,Male,KZKZY,26.93
-2019,per 100000 population,Mangistau,rural,Male,KZMAN,15.51
-2019,per 100000 population,Pavlodar,rural,Male,KZPAV,26.95
-2019,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,13.43
-2019,per 100000 population,Turkistan,rural,Male,KZYUZ,37.59
-2019,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,20.54
-2019,per 100000 population,,,Female,,7.41
-2019,per 100000 population,Akmola,,Female,KZAKM,7.9
-2019,per 100000 population,Aktobe,,Female,KZAKT,7.76
-2019,per 100000 population,Almaty,,Female,KZALM,11.51
+2019,per 100000 population,Turkistan,urban,,KZYUZ,22.82
+2019,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,9.68
+2019,per 100000 population,Ulytau,urban,,KZULU,17.69
+2019,per 100000 population,Astana city,urban,,KZNS,6.29
+2019,per 100000 population,Almaty city,urban,,KZALA,9.95
+2019,per 100000 population,Shymkent city,urban,,KZSHY,13.39
+2019,per 100000 population,,rural,,,17.78
+2019,per 100000 population,Abai,rural,,KZABY,8.49
+2019,per 100000 population,Akmola,rural,,KZAKM,13.88
+2019,per 100000 population,Aktobe,rural,,KZAKT,12.21
+2019,per 100000 population,Almaty,rural,,KZALM,19.46
+2019,per 100000 population,Atyrau,rural,,KZATY,13.96
+2019,per 100000 population,Batys Kazakhstan,rural,,KZZAP,22.75
+2019,per 100000 population,Zhambyl,rural,,KZZHA,19.15
+2019,per 100000 population,Zhetisu,rural,,KZZHS,21.65
+2019,per 100000 population,Karagandy,rural,,KZKAR,19.37
+2019,per 100000 population,Kostanay,rural,,KZKUS,9.51
+2019,per 100000 population,Kyzylorda,rural,,KZKZY,15.78
+2019,per 100000 population,Mangistau,rural,,KZMAN,10.53
+2019,per 100000 population,Pavlodar,rural,,KZPAV,18.1
+2019,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,8.39
+2019,per 100000 population,Turkistan,rural,,KZYUZ,24.01
+2019,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,18.18
+2019,per 100000 population,Ulytau,rural,,KZULU,7.74
+2019,per 100000 population,,,Male,,21.2
+2019,per 100000 population,Abai,,Male,KZABY,8.02
+2019,per 100000 population,Akmola,,Male,KZAKM,20.98
+2019,per 100000 population,Aktobe,,Male,KZAKT,11.32
+2019,per 100000 population,Almaty,,Male,KZALM,27.59
+2019,per 100000 population,Atyrau,,Male,KZATY,19.03
+2019,per 100000 population,Batys Kazakhstan,,Male,KZZAP,29.93
+2019,per 100000 population,Zhambyl,,Male,KZZHA,29.18
+2019,per 100000 population,Zhetisu,,Male,KZZHS,29.36
+2019,per 100000 population,Karagandy,,Male,KZKAR,18.03
+2019,per 100000 population,Kostanay,,Male,KZKUS,13.8
+2019,per 100000 population,Kyzylorda,,Male,KZKZY,26.72
+2019,per 100000 population,Mangistau,,Male,KZMAN,17.77
+2019,per 100000 population,Pavlodar,,Male,KZPAV,16.27
+2019,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,11.0
+2019,per 100000 population,Turkistan,,Male,KZYUZ,36.71
+2019,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,21.52
+2019,per 100000 population,Ulytau,,Male,KZULU,21.75
+2019,per 100000 population,Astana city,,Male,KZNS,9.74
+2019,per 100000 population,Almaty city,,Male,KZALA,14.1
+2019,per 100000 population,Shymkent city,,Male,KZSHY,19.91
+2019,per 100000 population,,urban,Male,,16.89
+2019,per 100000 population,Abai,urban,Male,KZABY,6.63
+2019,per 100000 population,Akmola,urban,Male,KZAKM,22.27
+2019,per 100000 population,Aktobe,urban,Male,KZAKT,9.79
+2019,per 100000 population,Almaty,urban,Male,KZALM,18.08
+2019,per 100000 population,Atyrau,urban,Male,KZATY,16.4
+2019,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,23.81
+2019,per 100000 population,Zhambyl,urban,Male,KZZHA,27.27
+2019,per 100000 population,Zhetisu,urban,Male,KZZHS,27.95
+2019,per 100000 population,Karagandy,urban,Male,KZKAR,15.85
+2019,per 100000 population,Kostanay,urban,Male,KZKUS,13.85
+2019,per 100000 population,Kyzylorda,urban,Male,KZKZY,26.42
+2019,per 100000 population,Mangistau,urban,Male,KZMAN,19.87
+2019,per 100000 population,Pavlodar,urban,Male,KZPAV,11.0
+2019,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,8.69
+2019,per 100000 population,Turkistan,urban,Male,KZYUZ,35.34
+2019,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,16.5
+2019,per 100000 population,Ulytau,urban,Male,KZULU,27.48
+2019,per 100000 population,Astana city,urban,Male,KZNS,9.74
+2019,per 100000 population,Almaty city,urban,Male,KZALA,14.1
+2019,per 100000 population,Shymkent city,urban,Male,KZSHY,19.91
+2019,per 100000 population,,rural,Male,,26.95
+2019,per 100000 population,Abai,rural,Male,KZABY,9.97
+2019,per 100000 population,Akmola,rural,Male,KZAKM,19.8
+2019,per 100000 population,Aktobe,rural,Male,KZAKT,14.85
+2019,per 100000 population,Almaty,rural,Male,KZALM,29.0
+2019,per 100000 population,Atyrau,rural,Male,KZATY,22.13
+2019,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,36.11
+2019,per 100000 population,Zhambyl,rural,Male,KZZHA,30.37
+2019,per 100000 population,Zhetisu,rural,Male,KZZHS,30.28
+2019,per 100000 population,Karagandy,rural,Male,KZKAR,26.18
+2019,per 100000 population,Kostanay,rural,Male,KZKUS,13.73
+2019,per 100000 population,Kyzylorda,rural,Male,KZKZY,26.95
+2019,per 100000 population,Mangistau,rural,Male,KZMAN,16.3
+2019,per 100000 population,Pavlodar,rural,Male,KZPAV,27.92
+2019,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,12.79
+2019,per 100000 population,Turkistan,rural,Male,KZYUZ,37.06
+2019,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,29.58
+2019,per 100000 population,Ulytau,rural,Male,KZULU,3.75
+2019,per 100000 population,,,Female,,7.17
+2019,per 100000 population,Abai,,Female,KZABY,5.11
+2019,per 100000 population,Akmola,,Female,KZAKM,7.92
+2019,per 100000 population,Aktobe,,Female,KZAKT,6.21
+2019,per 100000 population,Almaty,,Female,KZALM,9.46
 2019,per 100000 population,Atyrau,,Female,KZATY,4.01
 2019,per 100000 population,Batys Kazakhstan,,Female,KZZAP,10.98
-2019,per 100000 population,Zhambyl,,Female,KZZHA,9.26
-2019,per 100000 population,Karagandy,,Female,KZKAR,7.46
+2019,per 100000 population,Zhambyl,,Female,KZZHA,8.4
+2019,per 100000 population,Zhetisu,,Female,KZZHS,15.81
+2019,per 100000 population,Karagandy,,Female,KZKAR,6.59
 2019,per 100000 population,Kostanay,,Female,KZKUS,5.91
-2019,per 100000 population,Kyzylorda,,Female,KZKZY,4.77
+2019,per 100000 population,Kyzylorda,,Female,KZKZY,4.78
 2019,per 100000 population,Mangistau,,Female,KZMAN,4.92
 2019,per 100000 population,Pavlodar,,Female,KZPAV,5.8
 2019,per 100000 population,Soltustik Kazakhstan,,Female,KZSEV,3.48
-2019,per 100000 population,Turkistan,,Female,KZYUZ,10.55
-2019,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,5.01
-2019,per 100000 population,Astana city,,Female,KZNS,3.13
-2019,per 100000 population,Almaty city,,Female,KZALA,7.04
-2019,per 100000 population,Shymkent city,,Female,KZSHY,7.53
-2019,per 100000 population,,urban,Female,,6.64
-2019,per 100000 population,Akmola,urban,Female,KZAKM,8.69
-2019,per 100000 population,Aktobe,urban,Female,KZAKT,6.15
-2019,per 100000 population,Almaty,urban,Female,KZALM,14.33
-2019,per 100000 population,Atyrau,urban,Female,KZATY,2.77
-2019,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,12.61
-2019,per 100000 population,Zhambyl,urban,Female,KZZHA,10.22
-2019,per 100000 population,Karagandy,urban,Female,KZKAR,6.32
-2019,per 100000 population,Kostanay,urban,Female,KZKUS,6.28
-2019,per 100000 population,Kyzylorda,urban,Female,KZKZY,5.53
-2019,per 100000 population,Mangistau,urban,Female,KZMAN,5.83
+2019,per 100000 population,Turkistan,,Female,KZYUZ,10.46
+2019,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,4.94
+2019,per 100000 population,Ulytau,,Female,KZULU,9.43
+2019,per 100000 population,Astana city,,Female,KZNS,3.11
+2019,per 100000 population,Almaty city,,Female,KZALA,6.44
+2019,per 100000 population,Shymkent city,,Female,KZSHY,7.34
+2019,per 100000 population,,urban,Female,,6.31
+2019,per 100000 population,Abai,urban,Female,KZABY,3.92
+2019,per 100000 population,Akmola,urban,Female,KZAKM,7.85
+2019,per 100000 population,Aktobe,urban,Female,KZAKT,4.92
+2019,per 100000 population,Almaty,urban,Female,KZALM,6.2
+2019,per 100000 population,Atyrau,urban,Female,KZATY,2.74
+2019,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,12.59
+2019,per 100000 population,Zhambyl,urban,Female,KZZHA,9.37
+2019,per 100000 population,Zhetisu,urban,Female,KZZHS,19.89
+2019,per 100000 population,Karagandy,urban,Female,KZKAR,5.26
+2019,per 100000 population,Kostanay,urban,Female,KZKUS,6.27
+2019,per 100000 population,Kyzylorda,urban,Female,KZKZY,5.54
+2019,per 100000 population,Mangistau,urban,Female,KZMAN,5.35
 2019,per 100000 population,Pavlodar,urban,Female,KZPAV,4.89
 2019,per 100000 population,Soltustik Kazakhstan,urban,Female,KZSEV,2.9
-2019,per 100000 population,Turkistan,urban,Female,KZYUZ,10.14
-2019,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,3.94
-2019,per 100000 population,Astana city,urban,Female,KZNS,3.13
-2019,per 100000 population,Almaty city,urban,Female,KZALA,7.04
-2019,per 100000 population,Shymkent city,urban,Female,KZSHY,7.53
-2019,per 100000 population,,rural,Female,,8.57
-2019,per 100000 population,Akmola,rural,Female,KZAKM,7.16
-2019,per 100000 population,Aktobe,rural,Female,KZAKT,11.88
-2019,per 100000 population,Almaty,rural,Female,KZALM,10.67
-2019,per 100000 population,Atyrau,rural,Female,KZATY,5.58
-2019,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,9.05
-2019,per 100000 population,Zhambyl,rural,Female,KZZHA,8.6
-2019,per 100000 population,Karagandy,rural,Female,KZKAR,12.3
-2019,per 100000 population,Kostanay,rural,Female,KZKUS,5.37
+2019,per 100000 population,Turkistan,urban,Female,KZYUZ,10.11
+2019,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,3.96
+2019,per 100000 population,Ulytau,urban,Female,KZULU,8.73
+2019,per 100000 population,Astana city,urban,Female,KZNS,3.11
+2019,per 100000 population,Almaty city,urban,Female,KZALA,6.44
+2019,per 100000 population,Shymkent city,urban,Female,KZSHY,7.34
+2019,per 100000 population,,rural,Female,,8.48
+2019,per 100000 population,Abai,rural,Female,KZABY,6.99
+2019,per 100000 population,Akmola,rural,Female,KZAKM,7.99
+2019,per 100000 population,Aktobe,rural,Female,KZAKT,9.52
+2019,per 100000 population,Almaty,rural,Female,KZALM,9.99
+2019,per 100000 population,Atyrau,rural,Female,KZATY,5.64
+2019,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,9.07
+2019,per 100000 population,Zhambyl,rural,Female,KZZHA,7.72
+2019,per 100000 population,Zhetisu,rural,Female,KZZHS,12.85
+2019,per 100000 population,Karagandy,rural,Female,KZKAR,12.43
+2019,per 100000 population,Kostanay,rural,Female,KZKUS,5.38
 2019,per 100000 population,Kyzylorda,rural,Female,KZKZY,4.14
-2019,per 100000 population,Mangistau,rural,Female,KZMAN,4.32
-2019,per 100000 population,Pavlodar,rural,Female,KZPAV,8.16
-2019,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,4.0
-2019,per 100000 population,Turkistan,rural,Female,KZYUZ,10.65
-2019,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,6.88
+2019,per 100000 population,Mangistau,rural,Female,KZMAN,4.59
+2019,per 100000 population,Pavlodar,rural,Female,KZPAV,8.18
+2019,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,4.01
+2019,per 100000 population,Turkistan,rural,Female,KZYUZ,10.55
+2019,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,6.81
+2019,per 100000 population,Ulytau,rural,Female,KZULU,11.98
 2020,per 100000 population,,,,,10.98
 2020,per 100000 population,Abai,,,KZABY,6.08
 2020,per 100000 population,Akmola,,,KZAKM,11.98
