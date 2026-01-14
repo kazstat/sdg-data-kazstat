@@ -1423,27 +1423,28 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "KZABY",
                 "KZAKM",
                 "KZAKT",
                 "KZALM",
                 "KZATY",
                 "KZZAP",
                 "KZZHA",
+                "KZZHS",
                 "KZKAR",
                 "KZKUS",
                 "KZKZY",
                 "KZMAN",
-                "KZONT",
                 "KZPAV",
                 "KZSEV",
+                "KZ YUZ",
                 "KZVOS",
+                "KZULU",
                 "KZNS",
                 "KZALA",
-                "KZYUZ",
                 "KZSHY",
-                "KZABY",
-                "KZZHS",
-                "KZULU",
+                "KZYUZ",
+                "KZONT",
                 ""
               ]
             }
