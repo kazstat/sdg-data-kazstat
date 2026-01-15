@@ -2899,24 +2899,27 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "KZABY",
                 "KZAKM",
                 "KZAKT",
                 "KZALM",
                 "KZATY",
                 "KZZAP",
                 "KZZHA",
+                "KZZHS",
                 "KZKAR",
                 "KZKUS",
                 "KZKZY",
                 "KZMAN",
-                "KZONT",
                 "KZPAV",
                 "KZSEV",
+                "KZYUZ",
+                "KZULU",
                 "KZVOS",
                 "KZNS",
                 "KZALA",
-                "KZYUZ",
                 "KZSHY",
+                "KZONT",
                 ""
               ]
             }
