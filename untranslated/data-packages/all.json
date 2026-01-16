@@ -5362,6 +5362,40 @@
             "type": "string"
           },
           {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KZAKM",
+                "KZAKT",
+                "KZALM",
+                "KZATY",
+                "KZZHA",
+                "KZZAP",
+                "KZKAR",
+                "KZKUS",
+                "KZKZY",
+                "KZMAN",
+                "KZPAV",
+                "KZSEV",
+                "KZONT",
+                "KZVOS",
+                "KZNS",
+                "KZALA",
+                "KZSHY",
+                "KZYUZ",
+                "KZABY",
+                "KZZHS",
+                "KZULU",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
