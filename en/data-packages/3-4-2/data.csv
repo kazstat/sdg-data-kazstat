@@ -1,886 +1,1084 @@
 Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
-2010,per 100000 population,,,,,22.26
-2010,per 100000 population,Akmola,,,KZAKM,44.13
-2010,per 100000 population,Aktobe,,,KZAKT,18.56
-2010,per 100000 population,Almaty,,,KZALM,21.52
-2010,per 100000 population,Atyrau,,,KZATY,17.66
-2010,per 100000 population,Batys Kazakhstan,,,KZZAP,28.54
-2010,per 100000 population,Zhambyl,,,KZZHA,17.4
-2010,per 100000 population,Karagandy,,,KZKAR,33.57
-2010,per 100000 population,Kostanay,,,KZKUS,38.19
+2010,per 100000 population,,,,,22.38
+2010,per 100000 population,Abai,,,KZABY,33.28
+2010,per 100000 population,Akmola,,,KZAKM,44.2
+2010,per 100000 population,Aktobe,,,KZAKT,18.7
+2010,per 100000 population,Almaty,,,KZALM,19.85
+2010,per 100000 population,Atyrau,,,KZATY,17.85
+2010,per 100000 population,Batys Kazakhstan,,,KZZAP,29.05
+2010,per 100000 population,Zhambyl,,,KZZHA,17.51
+2010,per 100000 population,Zhetisu,,,KZZHS,26.39
+2010,per 100000 population,Karagandy,,,KZKAR,35.01
+2010,per 100000 population,Kostanay,,,KZKUS,38.33
 2010,per 100000 population,Kyzylorda,,,KZKZY,8.64
-2010,per 100000 population,Mangistau,,,KZMAN,13.24
-2010,per 100000 population,Ontustik Kazakhstan,,,KZONT,11.46
-2010,per 100000 population,Pavlodar,,,KZPAV,27.1
-2010,per 100000 population,Soltustik Kazakhstan,,,KZSEV,26.22
-2010,per 100000 population,Shygys Kazakhstan,,,KZVOS,40.41
-2010,per 100000 population,Astana city,,,KZNS,12.18
-2010,per 100000 population,Almaty city,,,KZALA,7.63
-2010,per 100000 population,,urban,,,19.38
-2010,per 100000 population,Akmola,urban,,KZAKM,39.43
-2010,per 100000 population,Aktobe,urban,,KZAKT,15.05
-2010,per 100000 population,Almaty,urban,,KZALM,22.07
-2010,per 100000 population,Atyrau,urban,,KZATY,9.97
-2010,per 100000 population,Batys Kazakhstan,urban,,KZZAP,24.75
+2010,per 100000 population,Mangistau,,,KZMAN,13.22
+2010,per 100000 population,Pavlodar,,,KZPAV,27.25
+2010,per 100000 population,Soltustik Kazakhstan,,,KZSEV,26.25
+2010,per 100000 population,Turkistan,,,KZYUZ,11.21
+2010,per 100000 population,Ulytau,,,KZULU,26.39
+2010,per 100000 population,Shygys Kazakhstan,,,KZVOS,46.89
+2010,per 100000 population,Astana city,,,KZNS,12.22
+2010,per 100000 population,Almaty city,,,KZALA,7.92
+2010,per 100000 population,Shymkent city,,,KZSHY,12.74
+2010,per 100000 population,,urban,,,19.21
+2010,per 100000 population,Abai,urban,,KZABY,29.49
+2010,per 100000 population,Akmola,urban,,KZAKM,39.18
+2010,per 100000 population,Aktobe,urban,,KZAKT,14.84
+2010,per 100000 population,Almaty,urban,,KZALM,21.82
+2010,per 100000 population,Atyrau,urban,,KZATY,9.73
+2010,per 100000 population,Batys Kazakhstan,urban,,KZZAP,24.55
 2010,per 100000 population,Zhambyl,urban,,KZZHA,16.13
-2010,per 100000 population,Karagandy,urban,,KZKAR,31.09
-2010,per 100000 population,Kostanay,urban,,KZKUS,26.23
-2010,per 100000 population,Kyzylorda,urban,,KZKZY,6.48
-2010,per 100000 population,Mangistau,urban,,KZMAN,11.0
-2010,per 100000 population,Ontustik Kazakhstan,urban,,KZONT,11.02
-2010,per 100000 population,Pavlodar,urban,,KZPAV,23.91
-2010,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,26.42
-2010,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,34.97
-2010,per 100000 population,Astana city,urban,,KZNS,12.18
-2010,per 100000 population,Almaty city,urban,,KZALA,7.63
-2010,per 100000 population,,rural,,,25.71
-2010,per 100000 population,Akmola,rural,,KZAKM,48.24
-2010,per 100000 population,Aktobe,rural,,KZAKT,24.1
-2010,per 100000 population,Almaty,rural,,KZALM,21.35
-2010,per 100000 population,Atyrau,rural,,KZATY,24.66
-2010,per 100000 population,Batys Kazakhstan,rural,,KZZAP,31.95
-2010,per 100000 population,Zhambyl,rural,,KZZHA,18.26
-2010,per 100000 population,Karagandy,rural,,KZKAR,42.34
-2010,per 100000 population,Kostanay,rural,,KZKUS,50.2
+2010,per 100000 population,Zhetisu,urban,,KZZHS,21.91
+2010,per 100000 population,Karagandy,urban,,KZKAR,32.22
+2010,per 100000 population,Kostanay,urban,,KZKUS,25.76
+2010,per 100000 population,Kyzylorda,urban,,KZKZY,6.49
+2010,per 100000 population,Mangistau,urban,,KZMAN,11.68
+2010,per 100000 population,Pavlodar,urban,,KZPAV,23.89
+2010,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,26.29
+2010,per 100000 population,Turkistan,urban,,KZYUZ,9.54
+2010,per 100000 population,Ulytau,urban,,KZULU,25.24
+2010,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,39.41
+2010,per 100000 population,Astana city,urban,,KZNS,12.22
+2010,per 100000 population,Almaty city,urban,,KZALA,7.92
+2010,per 100000 population,Shymkent city,urban,,KZSHY,12.74
+2010,per 100000 population,,rural,,,26.48
+2010,per 100000 population,Abai,rural,,KZABY,37.99
+2010,per 100000 population,Akmola,rural,,KZAKM,48.73
+2010,per 100000 population,Aktobe,rural,,KZAKT,26.66
+2010,per 100000 population,Almaty,rural,,KZALM,19.47
+2010,per 100000 population,Atyrau,rural,,KZATY,26.89
+2010,per 100000 population,Batys Kazakhstan,rural,,KZZAP,33.05
+2010,per 100000 population,Zhambyl,rural,,KZZHA,18.46
+2010,per 100000 population,Zhetisu,rural,,KZZHS,29.37
+2010,per 100000 population,Karagandy,rural,,KZKAR,44.9
+2010,per 100000 population,Kostanay,rural,,KZKUS,52.38
 2010,per 100000 population,Kyzylorda,rural,,KZKZY,10.21
-2010,per 100000 population,Mangistau,rural,,KZMAN,15.76
-2010,per 100000 population,Ontustik Kazakhstan,rural,,KZONT,11.74
-2010,per 100000 population,Pavlodar,rural,,KZPAV,34.05
-2010,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,26.09
-2010,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,47.83
-2010,per 100000 population,,,Male,,37.97
-2010,per 100000 population,Akmola,,Male,KZAKM,76.88
-2010,per 100000 population,Aktobe,,Male,KZAKT,33.17
-2010,per 100000 population,Almaty,,Male,KZALM,36.16
-2010,per 100000 population,Atyrau,,Male,KZATY,31.03
-2010,per 100000 population,Batys Kazakhstan,,Male,KZZAP,47.89
-2010,per 100000 population,Zhambyl,,Male,KZZHA,29.19
-2010,per 100000 population,Karagandy,,Male,KZKAR,56.33
-2010,per 100000 population,Kostanay,,Male,KZKUS,67.75
-2010,per 100000 population,Kyzylorda,,Male,KZKZY,14.44
-2010,per 100000 population,Mangistau,,Male,KZMAN,21.22
-2010,per 100000 population,Ontustik Kazakhstan,,Male,KZONT,16.97
-2010,per 100000 population,Pavlodar,,Male,KZPAV,47.92
-2010,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,48.33
-2010,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,72.91
-2010,per 100000 population,Astana city,,Male,KZNS,20.44
-2010,per 100000 population,Almaty city,,Male,KZALA,12.77
-2010,per 100000 population,,urban,Male,,33.68
-2010,per 100000 population,Akmola,urban,Male,KZAKM,67.59
-2010,per 100000 population,Aktobe,urban,Male,KZAKT,28.41
-2010,per 100000 population,Almaty,urban,Male,KZALM,40.21
-2010,per 100000 population,Atyrau,urban,Male,KZATY,18.4
-2010,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,42.86
+2010,per 100000 population,Mangistau,rural,,KZMAN,14.76
+2010,per 100000 population,Pavlodar,rural,,KZPAV,34.56
+2010,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,26.22
+2010,per 100000 population,Turkistan,rural,,KZYUZ,11.66
+2010,per 100000 population,Ulytau,rural,,KZULU,30.44
+2010,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,58.04
+2010,per 100000 population,,,Male,,38.19
+2010,per 100000 population,Abai,,Male,KZABY,57.22
+2010,per 100000 population,Akmola,,Male,KZAKM,76.99
+2010,per 100000 population,Aktobe,,Male,KZAKT,33.47
+2010,per 100000 population,Almaty,,Male,KZALM,32.87
+2010,per 100000 population,Atyrau,,Male,KZATY,31.42
+2010,per 100000 population,Batys Kazakhstan,,Male,KZZAP,48.93
+2010,per 100000 population,Zhambyl,,Male,KZZHA,29.22
+2010,per 100000 population,Zhetisu,,Male,KZZHS,44.87
+2010,per 100000 population,Karagandy,,Male,KZKAR,58.97
+2010,per 100000 population,Kostanay,,Male,KZKUS,68.03
+2010,per 100000 population,Kyzylorda,,Male,KZKZY,14.46
+2010,per 100000 population,Mangistau,,Male,KZMAN,21.2
+2010,per 100000 population,Pavlodar,,Male,KZPAV,48.23
+2010,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,48.38
+2010,per 100000 population,Turkistan,,Male,KZYUZ,16.79
+2010,per 100000 population,Ulytau,,Male,KZULU,43.49
+2010,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,87.41
+2010,per 100000 population,Astana city,,Male,KZNS,20.57
+2010,per 100000 population,Almaty city,,Male,KZALA,13.57
+2010,per 100000 population,Shymkent city,,Male,KZSHY,18.58
+2010,per 100000 population,,urban,Male,,33.36
+2010,per 100000 population,Abai,urban,Male,KZABY,52.22
+2010,per 100000 population,Akmola,urban,Male,KZAKM,67.18
+2010,per 100000 population,Aktobe,urban,Male,KZAKT,27.77
+2010,per 100000 population,Almaty,urban,Male,KZALM,39.95
+2010,per 100000 population,Atyrau,urban,Male,KZATY,18.08
+2010,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,42.37
 2010,per 100000 population,Zhambyl,urban,Male,KZZHA,27.75
-2010,per 100000 population,Karagandy,urban,Male,KZKAR,53.04
-2010,per 100000 population,Kostanay,urban,Male,KZKUS,46.09
-2010,per 100000 population,Kyzylorda,urban,Male,KZKZY,10.53
-2010,per 100000 population,Mangistau,urban,Male,KZMAN,18.89
-2010,per 100000 population,Ontustik Kazakhstan,urban,Male,KZONT,16.48
-2010,per 100000 population,Pavlodar,urban,Male,KZPAV,43.9
-2010,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,51.0
-2010,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,64.02
-2010,per 100000 population,Astana city,urban,Male,KZNS,20.44
-2010,per 100000 population,Almaty city,urban,Male,KZALA,12.77
-2010,per 100000 population,,rural,Male,,42.8
-2010,per 100000 population,Akmola,rural,Male,KZAKM,84.52
-2010,per 100000 population,Aktobe,rural,Male,KZAKT,40.26
-2010,per 100000 population,Almaty,rural,Male,KZALM,34.97
-2010,per 100000 population,Atyrau,rural,Male,KZATY,41.96
-2010,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,52.09
-2010,per 100000 population,Zhambyl,rural,Male,KZZHA,30.11
-2010,per 100000 population,Karagandy,rural,Male,KZKAR,67.11
-2010,per 100000 population,Kostanay,rural,Male,KZKUS,88.12
-2010,per 100000 population,Kyzylorda,rural,Male,KZKZY,17.18
-2010,per 100000 population,Mangistau,rural,Male,KZMAN,23.75
-2010,per 100000 population,Ontustik Kazakhstan,rural,Male,KZONT,17.28
-2010,per 100000 population,Pavlodar,rural,Male,KZPAV,56.05
+2010,per 100000 population,Zhetisu,urban,Male,KZZHS,39.71
+2010,per 100000 population,Karagandy,urban,Male,KZKAR,55.21
+2010,per 100000 population,Kostanay,urban,Male,KZKUS,44.63
+2010,per 100000 population,Kyzylorda,urban,Male,KZKZY,10.54
+2010,per 100000 population,Mangistau,urban,Male,KZMAN,20.11
+2010,per 100000 population,Pavlodar,urban,Male,KZPAV,43.88
+2010,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,50.72
+2010,per 100000 population,Turkistan,urban,Male,KZYUZ,16.2
+2010,per 100000 population,Ulytau,urban,Male,KZULU,42.24
+2010,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,73.81
+2010,per 100000 population,Astana city,urban,Male,KZNS,20.57
+2010,per 100000 population,Almaty city,urban,Male,KZALA,13.57
+2010,per 100000 population,Shymkent city,urban,Male,KZSHY,18.58
+2010,per 100000 population,,rural,Male,,44.07
+2010,per 100000 population,Abai,rural,Male,KZABY,63.0
+2010,per 100000 population,Akmola,rural,Male,KZAKM,85.32
+2010,per 100000 population,Aktobe,rural,Male,KZAKT,44.56
+2010,per 100000 population,Almaty,rural,Male,KZALM,31.56
+2010,per 100000 population,Atyrau,rural,Male,KZATY,45.58
+2010,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,54.35
+2010,per 100000 population,Zhambyl,rural,Male,KZZHA,30.16
+2010,per 100000 population,Zhetisu,rural,Male,KZZHS,48.1
+2010,per 100000 population,Karagandy,rural,Male,KZKAR,71.36
+2010,per 100000 population,Kostanay,rural,Male,KZKUS,92.54
+2010,per 100000 population,Kyzylorda,rural,Male,KZKZY,17.19
+2010,per 100000 population,Mangistau,rural,Male,KZMAN,22.24
+2010,per 100000 population,Pavlodar,rural,Male,KZPAV,57.04
 2010,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,46.67
-2010,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,84.1
-2010,per 100000 population,,,Female,,7.64
-2010,per 100000 population,Akmola,,Female,KZAKM,13.67
-2010,per 100000 population,Aktobe,,Female,KZAKT,5.0
-2010,per 100000 population,Almaty,,Female,KZALM,7.41
+2010,per 100000 population,Turkistan,rural,Male,KZYUZ,16.95
+2010,per 100000 population,Ulytau,rural,Male,KZULU,47.59
+2010,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,106.08
+2010,per 100000 population,,,Female,,7.66
+2010,per 100000 population,Abai,,Female,KZABY,11.16
+2010,per 100000 population,Akmola,,Female,KZAKM,13.7
+2010,per 100000 population,Aktobe,,Female,KZAKT,5.01
+2010,per 100000 population,Almaty,,Female,KZALM,7.25
 2010,per 100000 population,Atyrau,,Female,KZATY,4.84
 2010,per 100000 population,Batys Kazakhstan,,Female,KZZAP,10.52
-2010,per 100000 population,Zhambyl,,Female,KZZHA,6.19
-2010,per 100000 population,Karagandy,,Female,KZKAR,13.2
+2010,per 100000 population,Zhambyl,,Female,KZZHA,6.38
+2010,per 100000 population,Zhetisu,,Female,KZZHS,8.71
+2010,per 100000 population,Karagandy,,Female,KZKAR,13.75
 2010,per 100000 population,Kostanay,,Female,KZKUS,11.8
 2010,per 100000 population,Kyzylorda,,Female,KZKZY,2.87
-2010,per 100000 population,Mangistau,,Female,KZMAN,5.4
-2010,per 100000 population,Ontustik Kazakhstan,,Female,KZONT,6.07
-2010,per 100000 population,Pavlodar,,Female,KZPAV,8.61
-2010,per 100000 population,Soltustik Kazakhstan,,Female,KZSEV,6.13
-2010,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,11.03
-2010,per 100000 population,Astana city,,Female,KZNS,4.34
-2010,per 100000 population,Almaty city,,Female,KZALA,3.29
-2010,per 100000 population,,urban,Female,,6.78
-2010,per 100000 population,Akmola,urban,Female,KZAKM,14.79
-2010,per 100000 population,Aktobe,urban,Female,KZAKT,3.2
-2010,per 100000 population,Almaty,urban,Female,KZALM,5.68
-2010,per 100000 population,Atyrau,urban,Female,KZATY,2.29
-2010,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,9.1
+2010,per 100000 population,Mangistau,,Female,KZMAN,5.39
+2010,per 100000 population,Pavlodar,,Female,KZPAV,8.62
+2010,per 100000 population,Soltustik Kazakhstan,,Female,KZSEV,6.14
+2010,per 100000 population,Turkistan,,Female,KZYUZ,5.62
+2010,per 100000 population,Ulytau,,Female,KZULU,10.39
+2010,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,10.94
+2010,per 100000 population,Astana city,,Female,KZNS,4.3
+2010,per 100000 population,Almaty city,,Female,KZALA,3.11
+2010,per 100000 population,Shymkent city,,Female,KZSHY,7.38
+2010,per 100000 population,,urban,Female,,6.71
+2010,per 100000 population,Abai,urban,Female,KZABY,9.78
+2010,per 100000 population,Akmola,urban,Female,KZAKM,14.6
+2010,per 100000 population,Aktobe,urban,Female,KZAKT,3.29
+2010,per 100000 population,Almaty,urban,Female,KZALM,5.23
+2010,per 100000 population,Atyrau,urban,Female,KZATY,2.07
+2010,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,9.15
 2010,per 100000 population,Zhambyl,urban,Female,KZZHA,5.82
-2010,per 100000 population,Karagandy,urban,Female,KZKAR,12.06
-2010,per 100000 population,Kostanay,urban,Female,KZKUS,9.56
-2010,per 100000 population,Kyzylorda,urban,Female,KZKZY,2.65
-2010,per 100000 population,Mangistau,urban,Female,KZMAN,3.56
-2010,per 100000 population,Ontustik Kazakhstan,urban,Female,KZONT,5.97
+2010,per 100000 population,Zhetisu,urban,Female,KZZHS,6.03
+2010,per 100000 population,Karagandy,urban,Female,KZKAR,12.49
+2010,per 100000 population,Kostanay,urban,Female,KZKUS,9.88
+2010,per 100000 population,Kyzylorda,urban,Female,KZKZY,2.66
+2010,per 100000 population,Mangistau,urban,Female,KZMAN,3.78
 2010,per 100000 population,Pavlodar,urban,Female,KZPAV,6.89
-2010,per 100000 population,Soltustik Kazakhstan,urban,Female,KZSEV,6.13
-2010,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,10.32
-2010,per 100000 population,Astana city,urban,Female,KZNS,4.34
-2010,per 100000 population,Almaty city,urban,Female,KZALA,3.29
-2010,per 100000 population,,rural,Female,,8.73
-2010,per 100000 population,Akmola,rural,Female,KZAKM,12.64
-2010,per 100000 population,Aktobe,rural,Female,KZAKT,8.01
-2010,per 100000 population,Almaty,rural,Female,KZALM,7.96
-2010,per 100000 population,Atyrau,rural,Female,KZATY,7.27
-2010,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,11.88
-2010,per 100000 population,Zhambyl,rural,Female,KZZHA,6.45
-2010,per 100000 population,Karagandy,rural,Female,KZKAR,17.5
-2010,per 100000 population,Kostanay,rural,Female,KZKUS,14.17
+2010,per 100000 population,Soltustik Kazakhstan,urban,Female,KZSEV,6.1
+2010,per 100000 population,Turkistan,urban,Female,KZYUZ,3.12
+2010,per 100000 population,Ulytau,urban,Female,KZULU,9.84
+2010,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,10.74
+2010,per 100000 population,Astana city,urban,Female,KZNS,4.3
+2010,per 100000 population,Almaty city,urban,Female,KZALA,3.11
+2010,per 100000 population,Shymkent city,urban,Female,KZSHY,7.38
+2010,per 100000 population,,rural,Female,,8.98
+2010,per 100000 population,Abai,rural,Female,KZABY,13.0
+2010,per 100000 population,Akmola,rural,Female,KZAKM,12.84
+2010,per 100000 population,Aktobe,rural,Female,KZAKT,8.76
+2010,per 100000 population,Almaty,rural,Female,KZALM,7.66
+2010,per 100000 population,Atyrau,rural,Female,KZATY,8.06
+2010,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,11.82
+2010,per 100000 population,Zhambyl,rural,Female,KZZHA,6.79
+2010,per 100000 population,Zhetisu,rural,Female,KZZHS,10.59
+2010,per 100000 population,Karagandy,rural,Female,KZKAR,18.56
+2010,per 100000 population,Kostanay,rural,Female,KZKUS,14.08
 2010,per 100000 population,Kyzylorda,rural,Female,KZKZY,3.03
-2010,per 100000 population,Mangistau,rural,Female,KZMAN,7.56
-2010,per 100000 population,Ontustik Kazakhstan,rural,Female,KZONT,6.14
-2010,per 100000 population,Pavlodar,rural,Female,KZPAV,12.6
-2010,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,6.14
-2010,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,12.08
-2011,per 100000 population,,,,,20.8
-2011,per 100000 population,Akmola,,,KZAKM,34.96
-2011,per 100000 population,Aktobe,,,KZAKT,17.39
-2011,per 100000 population,Almaty,,,KZALM,20.47
-2011,per 100000 population,Atyrau,,,KZATY,13.4
+2010,per 100000 population,Mangistau,rural,Female,KZMAN,7.08
+2010,per 100000 population,Pavlodar,rural,Female,KZPAV,12.64
+2010,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,6.17
+2010,per 100000 population,Turkistan,rural,Female,KZYUZ,6.3
+2010,per 100000 population,Ulytau,rural,Female,KZULU,12.47
+2010,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,11.26
+2011,per 100000 population,,,,,20.87
+2011,per 100000 population,Abai,,,KZABY,24.43
+2011,per 100000 population,Akmola,,,KZAKM,35.02
+2011,per 100000 population,Aktobe,,,KZAKT,17.53
+2011,per 100000 population,Almaty,,,KZALM,18.86
+2011,per 100000 population,Atyrau,,,KZATY,13.39
 2011,per 100000 population,Batys Kazakhstan,,,KZZAP,33.75
-2011,per 100000 population,Zhambyl,,,KZZHA,17.89
-2011,per 100000 population,Karagandy,,,KZKAR,29.0
-2011,per 100000 population,Kostanay,,,KZKUS,40.99
+2011,per 100000 population,Zhambyl,,,KZZHA,17.91
+2011,per 100000 population,Zhetisu,,,KZZHS,24.1
+2011,per 100000 population,Karagandy,,,KZKAR,30.6
+2011,per 100000 population,Kostanay,,,KZKUS,41.13
 2011,per 100000 population,Kyzylorda,,,KZKZY,7.22
-2011,per 100000 population,Mangistau,,,KZMAN,10.65
-2011,per 100000 population,Ontustik Kazakhstan,,,KZONT,10.68
-2011,per 100000 population,Pavlodar,,,KZPAV,32.01
-2011,per 100000 population,Soltustik Kazakhstan,,,KZSEV,17.56
-2011,per 100000 population,Shygys Kazakhstan,,,KZVOS,36.88
-2011,per 100000 population,Astana city,,,KZNS,11.81
-2011,per 100000 population,Almaty city,,,KZALA,8.24
-2011,per 100000 population,,urban,,,18.21
-2011,per 100000 population,Akmola,urban,,KZAKM,27.77
-2011,per 100000 population,Aktobe,urban,,KZAKT,15.57
-2011,per 100000 population,Almaty,urban,,KZALM,22.19
-2011,per 100000 population,Atyrau,urban,,KZATY,12.04
-2011,per 100000 population,Batys Kazakhstan,urban,,KZZAP,26.91
+2011,per 100000 population,Mangistau,,,KZMAN,10.64
+2011,per 100000 population,Pavlodar,,,KZPAV,32.15
+2011,per 100000 population,Soltustik Kazakhstan,,,KZSEV,17.58
+2011,per 100000 population,Turkistan,,,KZYUZ,10.05
+2011,per 100000 population,Ulytau,,,KZULU,21.45
+2011,per 100000 population,Shygys Kazakhstan,,,KZVOS,48.06
+2011,per 100000 population,Astana city,,,KZNS,11.7
+2011,per 100000 population,Almaty city,,,KZALA,8.8
+2011,per 100000 population,Shymkent city,,,KZSHY,12.84
+2011,per 100000 population,,urban,,,18.23
+2011,per 100000 population,Abai,urban,,KZABY,16.98
+2011,per 100000 population,Akmola,urban,,KZAKM,27.38
+2011,per 100000 population,Aktobe,urban,,KZAKT,15.49
+2011,per 100000 population,Almaty,urban,,KZALM,23.06
+2011,per 100000 population,Atyrau,urban,,KZATY,10.88
+2011,per 100000 population,Batys Kazakhstan,urban,,KZZAP,27.07
 2011,per 100000 population,Zhambyl,urban,,KZZHA,20.36
-2011,per 100000 population,Karagandy,urban,,KZKAR,26.52
-2011,per 100000 population,Kostanay,urban,,KZKUS,31.92
-2011,per 100000 population,Kyzylorda,urban,,KZKZY,6.02
-2011,per 100000 population,Mangistau,urban,,KZMAN,11.12
-2011,per 100000 population,Ontustik Kazakhstan,urban,,KZONT,10.23
-2011,per 100000 population,Pavlodar,urban,,KZPAV,25.33
-2011,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,12.57
-2011,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,30.25
-2011,per 100000 population,Astana city,urban,,KZNS,11.81
-2011,per 100000 population,Almaty city,urban,,KZALA,8.24
-2011,per 100000 population,,rural,,,23.93
-2011,per 100000 population,Akmola,rural,,KZAKM,41.26
-2011,per 100000 population,Aktobe,rural,,KZAKT,20.31
-2011,per 100000 population,Almaty,rural,,KZALM,19.94
-2011,per 100000 population,Atyrau,rural,,KZATY,14.64
-2011,per 100000 population,Batys Kazakhstan,rural,,KZZAP,40.08
-2011,per 100000 population,Zhambyl,rural,,KZZHA,16.23
-2011,per 100000 population,Karagandy,rural,,KZKAR,37.89
-2011,per 100000 population,Kostanay,rural,,KZKUS,50.26
-2011,per 100000 population,Kyzylorda,rural,,KZKZY,8.09
-2011,per 100000 population,Mangistau,rural,,KZMAN,10.15
-2011,per 100000 population,Ontustik Kazakhstan,rural,,KZONT,10.96
-2011,per 100000 population,Pavlodar,rural,,KZPAV,46.68
-2011,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,20.98
-2011,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,46.03
-2011,per 100000 population,,,Male,,35.42
-2011,per 100000 population,Akmola,,Male,KZAKM,59.15
-2011,per 100000 population,Aktobe,,Male,KZAKT,30.03
-2011,per 100000 population,Almaty,,Male,KZALM,34.69
+2011,per 100000 population,Zhetisu,urban,,KZZHS,21.62
+2011,per 100000 population,Karagandy,urban,,KZKAR,27.65
+2011,per 100000 population,Kostanay,urban,,KZKUS,32.22
+2011,per 100000 population,Kyzylorda,urban,,KZKZY,6.03
+2011,per 100000 population,Mangistau,urban,,KZMAN,11.79
+2011,per 100000 population,Pavlodar,urban,,KZPAV,25.32
+2011,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,12.51
+2011,per 100000 population,Turkistan,urban,,KZYUZ,8.9
+2011,per 100000 population,Ulytau,urban,,KZULU,20.67
+2011,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,41.1
+2011,per 100000 population,Astana city,urban,,KZNS,11.7
+2011,per 100000 population,Almaty city,urban,,KZALA,8.8
+2011,per 100000 population,Shymkent city,urban,,KZSHY,12.84
+2011,per 100000 population,,rural,,,24.32
+2011,per 100000 population,Abai,rural,,KZABY,33.83
+2011,per 100000 population,Akmola,rural,,KZAKM,41.92
+2011,per 100000 population,Aktobe,rural,,KZAKT,21.83
+2011,per 100000 population,Almaty,rural,,KZALM,18.06
+2011,per 100000 population,Atyrau,rural,,KZATY,16.23
+2011,per 100000 population,Batys Kazakhstan,rural,,KZZAP,39.89
+2011,per 100000 population,Zhambyl,rural,,KZZHA,16.26
+2011,per 100000 population,Zhetisu,rural,,KZZHS,25.75
+2011,per 100000 population,Karagandy,rural,,KZKAR,41.24
+2011,per 100000 population,Kostanay,rural,,KZKUS,51.28
+2011,per 100000 population,Kyzylorda,rural,,KZKZY,8.1
+2011,per 100000 population,Mangistau,rural,,KZMAN,9.54
+2011,per 100000 population,Pavlodar,rural,,KZPAV,47.23
+2011,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,21.09
+2011,per 100000 population,Turkistan,rural,,KZYUZ,10.36
+2011,per 100000 population,Ulytau,rural,,KZULU,24.21
+2011,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,58.55
+2011,per 100000 population,,,Male,,35.55
+2011,per 100000 population,Abai,,Male,KZABY,44.8
+2011,per 100000 population,Akmola,,Male,KZAKM,59.23
+2011,per 100000 population,Aktobe,,Male,KZAKT,30.32
+2011,per 100000 population,Almaty,,Male,KZALM,30.86
 2011,per 100000 population,Atyrau,,Male,KZATY,24.68
-2011,per 100000 population,Batys Kazakhstan,,Male,KZZAP,57.37
-2011,per 100000 population,Zhambyl,,Male,KZZHA,29.62
-2011,per 100000 population,Karagandy,,Male,KZKAR,50.94
-2011,per 100000 population,Kostanay,,Male,KZKUS,72.19
-2011,per 100000 population,Kyzylorda,,Male,KZKZY,12.48
-2011,per 100000 population,Mangistau,,Male,KZMAN,14.7
-2011,per 100000 population,Ontustik Kazakhstan,,Male,KZONT,16.51
-2011,per 100000 population,Pavlodar,,Male,KZPAV,54.08
-2011,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,30.07
-2011,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,65.41
-2011,per 100000 population,Astana city,,Male,KZNS,20.34
-2011,per 100000 population,Almaty city,,Male,KZALA,14.99
+2011,per 100000 population,Batys Kazakhstan,,Male,KZZAP,57.39
+2011,per 100000 population,Zhambyl,,Male,KZZHA,29.65
+2011,per 100000 population,Zhetisu,,Male,KZZHS,42.43
+2011,per 100000 population,Karagandy,,Male,KZKAR,54.0
+2011,per 100000 population,Kostanay,,Male,KZKUS,72.48
+2011,per 100000 population,Kyzylorda,,Male,KZKZY,12.49
+2011,per 100000 population,Mangistau,,Male,KZMAN,14.68
+2011,per 100000 population,Pavlodar,,Male,KZPAV,54.39
+2011,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,30.1
+2011,per 100000 population,Turkistan,,Male,KZYUZ,15.11
+2011,per 100000 population,Ulytau,,Male,KZULU,36.94
+2011,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,84.37
+2011,per 100000 population,Astana city,,Male,KZNS,20.18
+2011,per 100000 population,Almaty city,,Male,KZALA,16.04
+2011,per 100000 population,Shymkent city,,Male,KZSHY,21.13
 2011,per 100000 population,,urban,Male,,31.55
-2011,per 100000 population,Akmola,urban,Male,KZAKM,48.13
-2011,per 100000 population,Aktobe,urban,Male,KZAKT,26.5
-2011,per 100000 population,Almaty,urban,Male,KZALM,38.14
-2011,per 100000 population,Atyrau,urban,Male,KZATY,23.61
-2011,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,43.41
+2011,per 100000 population,Abai,urban,Male,KZABY,32.41
+2011,per 100000 population,Akmola,urban,Male,KZAKM,47.38
+2011,per 100000 population,Aktobe,urban,Male,KZAKT,26.81
+2011,per 100000 population,Almaty,urban,Male,KZALM,34.77
+2011,per 100000 population,Atyrau,urban,Male,KZATY,21.25
+2011,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,43.68
 2011,per 100000 population,Zhambyl,urban,Male,KZZHA,34.66
-2011,per 100000 population,Karagandy,urban,Male,KZKAR,46.58
-2011,per 100000 population,Kostanay,urban,Male,KZKUS,57.58
-2011,per 100000 population,Kyzylorda,urban,Male,KZKZY,9.62
-2011,per 100000 population,Mangistau,urban,Male,KZMAN,15.48
-2011,per 100000 population,Ontustik Kazakhstan,urban,Male,KZONT,16.36
-2011,per 100000 population,Pavlodar,urban,Male,KZPAV,42.8
-2011,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,23.16
-2011,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,55.64
-2011,per 100000 population,Astana city,urban,Male,KZNS,20.34
-2011,per 100000 population,Almaty city,urban,Male,KZALA,14.99
-2011,per 100000 population,,rural,Male,,39.81
-2011,per 100000 population,Akmola,rural,Male,KZAKM,68.26
-2011,per 100000 population,Aktobe,rural,Male,KZAKT,35.36
-2011,per 100000 population,Almaty,rural,Male,KZALM,33.68
-2011,per 100000 population,Atyrau,rural,Male,KZATY,25.62
-2011,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,69.34
-2011,per 100000 population,Zhambyl,rural,Male,KZZHA,26.42
-2011,per 100000 population,Karagandy,rural,Male,KZKAR,65.42
-2011,per 100000 population,Kostanay,rural,Male,KZKUS,86.18
-2011,per 100000 population,Kyzylorda,rural,Male,KZKZY,14.49
-2011,per 100000 population,Mangistau,rural,Male,KZMAN,13.88
-2011,per 100000 population,Ontustik Kazakhstan,rural,Male,KZONT,16.61
-2011,per 100000 population,Pavlodar,rural,Male,KZPAV,77.18
-2011,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,34.43
-2011,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,77.87
-2011,per 100000 population,,,Female,,7.18
-2011,per 100000 population,Akmola,,Female,KZAKM,12.4
+2011,per 100000 population,Zhetisu,urban,Male,KZZHS,40.77
+2011,per 100000 population,Karagandy,urban,Male,KZKAR,48.64
+2011,per 100000 population,Kostanay,urban,Male,KZKUS,57.38
+2011,per 100000 population,Kyzylorda,urban,Male,KZKZY,9.63
+2011,per 100000 population,Mangistau,urban,Male,KZMAN,16.45
+2011,per 100000 population,Pavlodar,urban,Male,KZPAV,42.78
+2011,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,23.03
+2011,per 100000 population,Turkistan,urban,Male,KZYUZ,13.29
+2011,per 100000 population,Ulytau,urban,Male,KZULU,36.19
+2011,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,75.05
+2011,per 100000 population,Astana city,urban,Male,KZNS,20.18
+2011,per 100000 population,Almaty city,urban,Male,KZALA,16.04
+2011,per 100000 population,Shymkent city,urban,Male,KZSHY,21.13
+2011,per 100000 population,,rural,Male,,40.45
+2011,per 100000 population,Abai,rural,Male,KZABY,59.31
+2011,per 100000 population,Akmola,rural,Male,KZAKM,69.35
+2011,per 100000 population,Aktobe,rural,Male,KZAKT,37.28
+2011,per 100000 population,Almaty,rural,Male,KZALM,30.14
+2011,per 100000 population,Atyrau,rural,Male,KZATY,28.36
+2011,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,69.01
+2011,per 100000 population,Zhambyl,rural,Male,KZZHA,26.46
+2011,per 100000 population,Zhetisu,rural,Male,KZZHS,43.47
+2011,per 100000 population,Karagandy,rural,Male,KZKAR,71.89
+2011,per 100000 population,Kostanay,rural,Male,KZKUS,88.59
+2011,per 100000 population,Kyzylorda,rural,Male,KZKZY,14.5
+2011,per 100000 population,Mangistau,rural,Male,KZMAN,13.04
+2011,per 100000 population,Pavlodar,rural,Male,KZPAV,78.23
+2011,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,34.6
+2011,per 100000 population,Turkistan,rural,Male,KZYUZ,15.58
+2011,per 100000 population,Ulytau,rural,Male,KZULU,39.38
+2011,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,97.32
+2011,per 100000 population,,,Female,,7.21
+2011,per 100000 population,Abai,,Female,KZABY,5.59
+2011,per 100000 population,Akmola,,Female,KZAKM,12.43
 2011,per 100000 population,Aktobe,,Female,KZAKT,5.67
-2011,per 100000 population,Almaty,,Female,KZALM,6.75
+2011,per 100000 population,Almaty,,Female,KZALM,7.25
 2011,per 100000 population,Atyrau,,Female,KZATY,2.55
-2011,per 100000 population,Batys Kazakhstan,,Female,KZZAP,11.71
-2011,per 100000 population,Zhambyl,,Female,KZZHA,6.69
-2011,per 100000 population,Karagandy,,Female,KZKAR,9.37
-2011,per 100000 population,Kostanay,,Female,KZKUS,13.12
+2011,per 100000 population,Batys Kazakhstan,,Female,KZZAP,11.72
+2011,per 100000 population,Zhambyl,,Female,KZZHA,6.7
+2011,per 100000 population,Zhetisu,,Female,KZZHS,6.48
+2011,per 100000 population,Karagandy,,Female,KZKAR,9.84
+2011,per 100000 population,Kostanay,,Female,KZKUS,13.13
 2011,per 100000 population,Kyzylorda,,Female,KZKZY,1.98
-2011,per 100000 population,Mangistau,,Female,KZMAN,6.68
-2011,per 100000 population,Ontustik Kazakhstan,,Female,KZONT,4.96
-2011,per 100000 population,Pavlodar,,Female,KZPAV,12.39
-2011,per 100000 population,Soltustik Kazakhstan,,Female,KZSEV,6.18
-2011,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,11.05
-2011,per 100000 population,Astana city,,Female,KZNS,3.77
-2011,per 100000 population,Almaty city,,Female,KZALA,2.57
-2011,per 100000 population,,urban,Female,,6.46
-2011,per 100000 population,Akmola,urban,Female,KZAKM,9.88
-2011,per 100000 population,Aktobe,urban,Female,KZAKT,5.88
-2011,per 100000 population,Almaty,urban,Female,KZALM,7.77
-2011,per 100000 population,Atyrau,urban,Female,KZATY,1.49
-2011,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,12.69
+2011,per 100000 population,Mangistau,,Female,KZMAN,6.67
+2011,per 100000 population,Pavlodar,,Female,KZPAV,12.4
+2011,per 100000 population,Soltustik Kazakhstan,,Female,KZSEV,6.19
+2011,per 100000 population,Turkistan,,Female,KZYUZ,4.96
+2011,per 100000 population,Ulytau,,Female,KZULU,6.93
+2011,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,15.8
+2011,per 100000 population,Astana city,,Female,KZNS,3.74
+2011,per 100000 population,Almaty city,,Female,KZALA,2.67
+2011,per 100000 population,Shymkent city,,Female,KZSHY,5.22
+2011,per 100000 population,,urban,Female,,6.47
+2011,per 100000 population,Abai,urban,Female,KZABY,3.58
+2011,per 100000 population,Akmola,urban,Female,KZAKM,9.76
+2011,per 100000 population,Aktobe,urban,Female,KZAKT,5.37
+2011,per 100000 population,Almaty,urban,Female,KZALM,12.34
+2011,per 100000 population,Atyrau,urban,Female,KZATY,1.35
+2011,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,12.75
 2011,per 100000 population,Zhambyl,urban,Female,KZZHA,7.61
-2011,per 100000 population,Karagandy,urban,Female,KZKAR,9.16
-2011,per 100000 population,Kostanay,urban,Female,KZKUS,10.34
+2011,per 100000 population,Zhetisu,urban,Female,KZZHS,4.47
+2011,per 100000 population,Karagandy,urban,Female,KZKAR,9.65
+2011,per 100000 population,Kostanay,urban,Female,KZKUS,11.01
 2011,per 100000 population,Kyzylorda,urban,Female,KZKZY,2.61
-2011,per 100000 population,Mangistau,urban,Female,KZMAN,6.98
-2011,per 100000 population,Ontustik Kazakhstan,urban,Female,KZONT,4.55
+2011,per 100000 population,Mangistau,urban,Female,KZMAN,7.39
 2011,per 100000 population,Pavlodar,urban,Female,KZPAV,10.46
-2011,per 100000 population,Soltustik Kazakhstan,urban,Female,KZSEV,3.82
-2011,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,8.68
-2011,per 100000 population,Astana city,urban,Female,KZNS,3.77
-2011,per 100000 population,Almaty city,urban,Female,KZALA,2.57
-2011,per 100000 population,,rural,Female,,8.11
-2011,per 100000 population,Akmola,rural,Female,KZAKM,14.73
-2011,per 100000 population,Aktobe,rural,Female,KZAKT,5.32
-2011,per 100000 population,Almaty,rural,Female,KZALM,6.43
-2011,per 100000 population,Atyrau,rural,Female,KZATY,3.58
-2011,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,10.74
-2011,per 100000 population,Zhambyl,rural,Female,KZZHA,6.04
-2011,per 100000 population,Karagandy,rural,Female,KZKAR,10.18
-2011,per 100000 population,Kostanay,rural,Female,KZKUS,16.11
-2011,per 100000 population,Kyzylorda,rural,Female,KZKZY,1.49
-2011,per 100000 population,Mangistau,rural,Female,KZMAN,6.33
-2011,per 100000 population,Ontustik Kazakhstan,rural,Female,KZONT,5.24
-2011,per 100000 population,Pavlodar,rural,Female,KZPAV,16.92
-2011,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,7.93
-2011,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,14.57
-2012,per 100000 population,,,,,19.68
-2012,per 100000 population,Akmola,,,KZAKM,35.24
-2012,per 100000 population,Aktobe,,,KZAKT,21.49
-2012,per 100000 population,Almaty,,,KZALM,21.11
-2012,per 100000 population,Atyrau,,,KZATY,17.48
-2012,per 100000 population,Batys Kazakhstan,,,KZZAP,32.19
-2012,per 100000 population,Zhambyl,,,KZZHA,14.49
-2012,per 100000 population,Karagandy,,,KZKAR,26.83
-2012,per 100000 population,Kostanay,,,KZKUS,38.87
-2012,per 100000 population,Kyzylorda,,,KZKZY,14.17
-2012,per 100000 population,Mangistau,,,KZMAN,5.21
-2012,per 100000 population,Ontustik Kazakhstan,,,KZONT,11.66
-2012,per 100000 population,Pavlodar,,,KZPAV,28.34
-2012,per 100000 population,Soltustik Kazakhstan,,,KZSEV,8.42
-2012,per 100000 population,Shygys Kazakhstan,,,KZVOS,30.91
-2012,per 100000 population,Astana city,,,KZNS,10.12
-2012,per 100000 population,Almaty city,,,KZALA,7.25
-2012,per 100000 population,,urban,,,17.11
-2012,per 100000 population,Akmola,urban,,KZAKM,29.15
-2012,per 100000 population,Aktobe,urban,,KZAKT,16.19
-2012,per 100000 population,Almaty,urban,,KZALM,23.87
-2012,per 100000 population,Atyrau,urban,,KZATY,16.26
-2012,per 100000 population,Batys Kazakhstan,urban,,KZZAP,24.99
+2011,per 100000 population,Soltustik Kazakhstan,urban,Female,KZSEV,3.81
+2011,per 100000 population,Turkistan,urban,Female,KZYUZ,4.64
+2011,per 100000 population,Ulytau,urban,Female,KZULU,6.57
+2011,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,12.77
+2011,per 100000 population,Astana city,urban,Female,KZNS,3.74
+2011,per 100000 population,Almaty city,urban,Female,KZALA,2.67
+2011,per 100000 population,Shymkent city,urban,Female,KZSHY,5.22
+2011,per 100000 population,,rural,Female,,8.23
+2011,per 100000 population,Abai,rural,Female,KZABY,8.29
+2011,per 100000 population,Akmola,rural,Female,KZAKM,14.97
+2011,per 100000 population,Aktobe,rural,Female,KZAKT,6.36
+2011,per 100000 population,Almaty,rural,Female,KZALM,6.25
+2011,per 100000 population,Atyrau,rural,Female,KZATY,3.98
+2011,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,10.69
+2011,per 100000 population,Zhambyl,rural,Female,KZZHA,6.06
+2011,per 100000 population,Zhetisu,rural,Female,KZZHS,7.91
+2011,per 100000 population,Karagandy,rural,Female,KZKAR,10.61
+2011,per 100000 population,Kostanay,rural,Female,KZKUS,15.68
+2011,per 100000 population,Kyzylorda,rural,Female,KZKZY,1.5
+2011,per 100000 population,Mangistau,rural,Female,KZMAN,5.95
+2011,per 100000 population,Pavlodar,rural,Female,KZPAV,16.97
+2011,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,7.97
+2011,per 100000 population,Turkistan,rural,Female,KZYUZ,5.05
+2011,per 100000 population,Ulytau,rural,Female,KZULU,8.27
+2011,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,20.73
+2012,per 100000 population,,,,,19.8
+2012,per 100000 population,Abai,,,KZABY,15.43
+2012,per 100000 population,Akmola,,,KZAKM,35.44
+2012,per 100000 population,Aktobe,,,KZAKT,21.63
+2012,per 100000 population,Almaty,,,KZALM,18.58
+2012,per 100000 population,Atyrau,,,KZATY,17.67
+2012,per 100000 population,Batys Kazakhstan,,,KZZAP,32.36
+2012,per 100000 population,Zhambyl,,,KZZHA,14.51
+2012,per 100000 population,Zhetisu,,,KZZHS,27.16
+2012,per 100000 population,Karagandy,,,KZKAR,28.26
+2012,per 100000 population,Kostanay,,,KZKUS,38.9
+2012,per 100000 population,Kyzylorda,,,KZKZY,14.32
+2012,per 100000 population,Mangistau,,,KZMAN,5.2
+2012,per 100000 population,Pavlodar,,,KZPAV,28.75
+2012,per 100000 population,Soltustik Kazakhstan,,,KZSEV,8.43
+2012,per 100000 population,Turkistan,,,KZYUZ,11.75
+2012,per 100000 population,Ulytau,,,KZULU,20.09
+2012,per 100000 population,Shygys Kazakhstan,,,KZVOS,45.06
+2012,per 100000 population,Astana city,,,KZNS,10.17
+2012,per 100000 population,Almaty city,,,KZALA,7.71
+2012,per 100000 population,Shymkent city,,,KZSHY,12.0
+2012,per 100000 population,,urban,,,17.04
+2012,per 100000 population,Abai,urban,,KZABY,8.42
+2012,per 100000 population,Akmola,urban,,KZAKM,29.01
+2012,per 100000 population,Aktobe,urban,,KZAKT,17.52
+2012,per 100000 population,Almaty,urban,,KZALM,15.83
+2012,per 100000 population,Atyrau,urban,,KZATY,16.74
+2012,per 100000 population,Batys Kazakhstan,urban,,KZZAP,24.46
 2012,per 100000 population,Zhambyl,urban,,KZZHA,13.41
-2012,per 100000 population,Karagandy,urban,,KZKAR,24.39
-2012,per 100000 population,Kostanay,urban,,KZKUS,31.87
-2012,per 100000 population,Kyzylorda,urban,,KZKZY,15.69
-2012,per 100000 population,Mangistau,urban,,KZMAN,6.32
-2012,per 100000 population,Ontustik Kazakhstan,urban,,KZONT,12.15
-2012,per 100000 population,Pavlodar,urban,,KZPAV,25.37
-2012,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,3.77
-2012,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,24.09
-2012,per 100000 population,Astana city,urban,,KZNS,10.12
-2012,per 100000 population,Almaty city,urban,,KZALA,7.25
-2012,per 100000 population,,rural,,,22.8
-2012,per 100000 population,Akmola,rural,,KZAKM,40.61
-2012,per 100000 population,Aktobe,rural,,KZAKT,30.0
-2012,per 100000 population,Almaty,rural,,KZALM,20.28
-2012,per 100000 population,Atyrau,rural,,KZATY,18.62
-2012,per 100000 population,Batys Kazakhstan,rural,,KZZAP,39.04
-2012,per 100000 population,Zhambyl,rural,,KZZHA,15.21
-2012,per 100000 population,Karagandy,rural,,KZKAR,35.65
-2012,per 100000 population,Kostanay,rural,,KZKUS,46.16
-2012,per 100000 population,Kyzylorda,rural,,KZKZY,13.05
-2012,per 100000 population,Mangistau,rural,,KZMAN,4.04
-2012,per 100000 population,Ontustik Kazakhstan,rural,,KZONT,11.34
-2012,per 100000 population,Pavlodar,rural,,KZPAV,34.95
-2012,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,11.67
-2012,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,40.46
-2012,per 100000 population,,,Male,,33.76
-2012,per 100000 population,Akmola,,Male,KZAKM,62.23
-2012,per 100000 population,Aktobe,,Male,KZAKT,38.58
-2012,per 100000 population,Almaty,,Male,KZALM,35.81
-2012,per 100000 population,Atyrau,,Male,KZATY,33.06
-2012,per 100000 population,Batys Kazakhstan,,Male,KZZAP,58.94
-2012,per 100000 population,Zhambyl,,Male,KZZHA,23.47
-2012,per 100000 population,Karagandy,,Male,KZKAR,44.51
-2012,per 100000 population,Kostanay,,Male,KZKUS,70.78
-2012,per 100000 population,Kyzylorda,,Male,KZKZY,22.81
-2012,per 100000 population,Mangistau,,Male,KZMAN,8.68
-2012,per 100000 population,Ontustik Kazakhstan,,Male,KZONT,16.83
-2012,per 100000 population,Pavlodar,,Male,KZPAV,50.83
-2012,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,16.24
-2012,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,54.0
-2012,per 100000 population,Astana city,,Male,KZNS,17.69
-2012,per 100000 population,Almaty city,,Male,KZALA,13.36
-2012,per 100000 population,,urban,Male,,29.98
-2012,per 100000 population,Akmola,urban,Male,KZAKM,53.56
-2012,per 100000 population,Aktobe,urban,Male,KZAKT,26.99
-2012,per 100000 population,Almaty,urban,Male,KZALM,40.34
-2012,per 100000 population,Atyrau,urban,Male,KZATY,31.69
-2012,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,47.57
-2012,per 100000 population,Zhambyl,urban,Male,KZZHA,21.92
-2012,per 100000 population,Karagandy,urban,Male,KZKAR,40.84
-2012,per 100000 population,Kostanay,urban,Male,KZKUS,59.48
-2012,per 100000 population,Kyzylorda,urban,Male,KZKZY,28.15
-2012,per 100000 population,Mangistau,urban,Male,KZMAN,10.81
-2012,per 100000 population,Ontustik Kazakhstan,urban,Male,KZONT,18.61
-2012,per 100000 population,Pavlodar,urban,Male,KZPAV,46.74
-2012,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,8.33
-2012,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,42.77
-2012,per 100000 population,Astana city,urban,Male,KZNS,17.69
-2012,per 100000 population,Almaty city,urban,Male,KZALA,13.36
-2012,per 100000 population,,rural,Male,,38.07
-2012,per 100000 population,Akmola,rural,Male,KZAKM,69.44
-2012,per 100000 population,Aktobe,rural,Male,KZAKT,56.15
-2012,per 100000 population,Almaty,rural,Male,KZALM,34.49
-2012,per 100000 population,Atyrau,rural,Male,KZATY,34.27
-2012,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,68.92
-2012,per 100000 population,Zhambyl,rural,Male,KZZHA,24.44
-2012,per 100000 population,Karagandy,rural,Male,KZKAR,56.77
-2012,per 100000 population,Kostanay,rural,Male,KZKUS,81.81
-2012,per 100000 population,Kyzylorda,rural,Male,KZKZY,19.03
-2012,per 100000 population,Mangistau,rural,Male,KZMAN,6.54
-2012,per 100000 population,Ontustik Kazakhstan,rural,Male,KZONT,15.74
-2012,per 100000 population,Pavlodar,rural,Male,KZPAV,59.32
-2012,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,21.3
-2012,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,68.53
-2012,per 100000 population,,,Female,,6.56
-2012,per 100000 population,Akmola,,Female,KZAKM,10.04
+2012,per 100000 population,Zhetisu,urban,,KZZHS,29.07
+2012,per 100000 population,Karagandy,urban,,KZKAR,24.87
+2012,per 100000 population,Kostanay,urban,,KZKUS,31.74
+2012,per 100000 population,Kyzylorda,urban,,KZKZY,15.71
+2012,per 100000 population,Mangistau,urban,,KZMAN,6.69
+2012,per 100000 population,Pavlodar,urban,,KZPAV,25.35
+2012,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,3.75
+2012,per 100000 population,Turkistan,urban,,KZYUZ,10.37
+2012,per 100000 population,Ulytau,urban,,KZULU,21.87
+2012,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,37.23
+2012,per 100000 population,Astana city,urban,,KZNS,10.17
+2012,per 100000 population,Almaty city,urban,,KZALA,7.71
+2012,per 100000 population,Shymkent city,urban,,KZSHY,12.0
+2012,per 100000 population,,rural,,,23.42
+2012,per 100000 population,Abai,rural,,KZABY,24.44
+2012,per 100000 population,Akmola,rural,,KZAKM,41.29
+2012,per 100000 population,Aktobe,rural,,KZAKT,30.3
+2012,per 100000 population,Almaty,rural,,KZALM,19.1
+2012,per 100000 population,Atyrau,rural,,KZATY,18.72
+2012,per 100000 population,Batys Kazakhstan,rural,,KZZAP,39.8
+2012,per 100000 population,Zhambyl,rural,,KZZHA,15.24
+2012,per 100000 population,Zhetisu,rural,,KZZHS,25.88
+2012,per 100000 population,Karagandy,rural,,KZKAR,40.7
+2012,per 100000 population,Kostanay,rural,,KZKUS,47.22
+2012,per 100000 population,Kyzylorda,rural,,KZKZY,13.3
+2012,per 100000 population,Mangistau,rural,,KZMAN,3.81
+2012,per 100000 population,Pavlodar,rural,,KZPAV,36.34
+2012,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,11.73
+2012,per 100000 population,Turkistan,rural,,KZYUZ,12.11
+2012,per 100000 population,Ulytau,rural,,KZULU,13.94
+2012,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,56.99
+2012,per 100000 population,,,Male,,33.96
+2012,per 100000 population,Abai,,Male,KZABY,28.9
+2012,per 100000 population,Akmola,,Male,KZAKM,62.6
+2012,per 100000 population,Aktobe,,Male,KZAKT,38.87
+2012,per 100000 population,Almaty,,Male,KZALM,31.66
+2012,per 100000 population,Atyrau,,Male,KZATY,33.43
+2012,per 100000 population,Batys Kazakhstan,,Male,KZZAP,58.96
+2012,per 100000 population,Zhambyl,,Male,KZZHA,23.49
+2012,per 100000 population,Zhetisu,,Male,KZZHS,45.81
+2012,per 100000 population,Karagandy,,Male,KZKAR,48.32
+2012,per 100000 population,Kostanay,,Male,KZKUS,70.83
+2012,per 100000 population,Kyzylorda,,Male,KZKZY,23.11
+2012,per 100000 population,Mangistau,,Male,KZMAN,8.67
+2012,per 100000 population,Pavlodar,,Male,KZPAV,51.71
+2012,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,16.26
+2012,per 100000 population,Turkistan,,Male,KZYUZ,16.83
+2012,per 100000 population,Ulytau,,Male,KZULU,26.73
+2012,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,77.36
+2012,per 100000 population,Astana city,,Male,KZNS,17.82
+2012,per 100000 population,Almaty city,,Male,KZALA,14.05
+2012,per 100000 population,Shymkent city,,Male,KZSHY,17.67
+2012,per 100000 population,,urban,Male,,29.81
+2012,per 100000 population,Abai,urban,Male,KZABY,16.92
+2012,per 100000 population,Akmola,urban,Male,KZAKM,53.31
+2012,per 100000 population,Aktobe,urban,Male,KZAKT,29.57
+2012,per 100000 population,Almaty,urban,Male,KZALM,25.37
+2012,per 100000 population,Atyrau,urban,Male,KZATY,32.09
+2012,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,46.42
+2012,per 100000 population,Zhambyl,urban,Male,KZZHA,21.93
+2012,per 100000 population,Zhetisu,urban,Male,KZZHS,49.96
+2012,per 100000 population,Karagandy,urban,Male,KZKAR,42.95
+2012,per 100000 population,Kostanay,urban,Male,KZKUS,59.63
+2012,per 100000 population,Kyzylorda,urban,Male,KZKZY,28.18
+2012,per 100000 population,Mangistau,urban,Male,KZMAN,11.48
+2012,per 100000 population,Pavlodar,urban,Male,KZPAV,46.71
+2012,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,8.28
+2012,per 100000 population,Turkistan,urban,Male,KZYUZ,16.77
+2012,per 100000 population,Ulytau,urban,Male,KZULU,30.2
+2012,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,65.04
+2012,per 100000 population,Astana city,urban,Male,KZNS,17.82
+2012,per 100000 population,Almaty city,urban,Male,KZALA,14.05
+2012,per 100000 population,Shymkent city,urban,Male,KZSHY,17.67
+2012,per 100000 population,,rural,Male,,39.09
+2012,per 100000 population,Abai,rural,Male,KZABY,43.2
+2012,per 100000 population,Akmola,rural,Male,KZAKM,70.6
+2012,per 100000 population,Aktobe,rural,Male,KZAKT,57.41
+2012,per 100000 population,Almaty,rural,Male,KZALM,32.81
+2012,per 100000 population,Atyrau,rural,Male,KZATY,34.88
+2012,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,69.85
+2012,per 100000 population,Zhambyl,rural,Male,KZZHA,24.48
+2012,per 100000 population,Zhetisu,rural,Male,KZZHS,43.17
+2012,per 100000 population,Karagandy,rural,Male,KZKAR,66.52
+2012,per 100000 population,Kostanay,rural,Male,KZKUS,83.02
+2012,per 100000 population,Kyzylorda,rural,Male,KZKZY,19.51
+2012,per 100000 population,Mangistau,rural,Male,KZMAN,6.17
+2012,per 100000 population,Pavlodar,rural,Male,KZPAV,62.09
+2012,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,21.4
+2012,per 100000 population,Turkistan,rural,Male,KZYUZ,16.85
+2012,per 100000 population,Ulytau,rural,Male,KZULU,15.55
+2012,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,94.63
+2012,per 100000 population,,,Female,,6.6
+2012,per 100000 population,Abai,,Female,KZABY,2.94
+2012,per 100000 population,Akmola,,Female,KZAKM,10.06
 2012,per 100000 population,Aktobe,,Female,KZAKT,5.61
-2012,per 100000 population,Almaty,,Female,KZALM,6.93
+2012,per 100000 population,Almaty,,Female,KZALM,5.93
 2012,per 100000 population,Atyrau,,Female,KZATY,2.5
-2012,per 100000 population,Batys Kazakhstan,,Female,KZZAP,7.23
-2012,per 100000 population,Zhambyl,,Female,KZZHA,5.89
-2012,per 100000 population,Karagandy,,Female,KZKAR,11.01
-2012,per 100000 population,Kostanay,,Female,KZKUS,10.33
-2012,per 100000 population,Kyzylorda,,Female,KZKZY,5.55
+2012,per 100000 population,Batys Kazakhstan,,Female,KZZAP,7.54
+2012,per 100000 population,Zhambyl,,Female,KZZHA,5.9
+2012,per 100000 population,Zhetisu,,Female,KZZHS,9.2
+2012,per 100000 population,Karagandy,,Female,KZKAR,10.46
+2012,per 100000 population,Kostanay,,Female,KZKUS,10.34
+2012,per 100000 population,Kyzylorda,,Female,KZKZY,5.56
 2012,per 100000 population,Mangistau,,Female,KZMAN,1.78
-2012,per 100000 population,Ontustik Kazakhstan,,Female,KZONT,6.58
-2012,per 100000 population,Pavlodar,,Female,KZPAV,8.33
+2012,per 100000 population,Pavlodar,,Female,KZPAV,8.34
 2012,per 100000 population,Soltustik Kazakhstan,,Female,KZSEV,1.31
-2012,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,9.98
-2012,per 100000 population,Astana city,,Female,KZNS,3.05
-2012,per 100000 population,Almaty city,,Female,KZALA,2.14
-2012,per 100000 population,,urban,Female,,5.78
-2012,per 100000 population,Akmola,urban,Female,KZAKM,7.67
-2012,per 100000 population,Aktobe,urban,Female,KZAKT,6.59
-2012,per 100000 population,Almaty,urban,Female,KZALM,8.93
-2012,per 100000 population,Atyrau,urban,Female,KZATY,2.17
-2012,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,5.58
-2012,per 100000 population,Zhambyl,urban,Female,KZZHA,5.79
-2012,per 100000 population,Karagandy,urban,Female,KZKAR,10.15
-2012,per 100000 population,Kostanay,urban,Female,KZKUS,8.62
+2012,per 100000 population,Turkistan,,Female,KZYUZ,6.61
+2012,per 100000 population,Ulytau,,Female,KZULU,13.86
+2012,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,16.36
+2012,per 100000 population,Astana city,,Female,KZNS,3.03
+2012,per 100000 population,Almaty city,,Female,KZALA,2.37
+2012,per 100000 population,Shymkent city,,Female,KZSHY,6.79
+2012,per 100000 population,,urban,Female,,5.77
+2012,per 100000 population,Abai,urban,Female,KZABY,1.02
+2012,per 100000 population,Akmola,urban,Female,KZAKM,7.57
+2012,per 100000 population,Aktobe,urban,Female,KZAKT,6.72
+2012,per 100000 population,Almaty,urban,Female,KZALM,7.08
+2012,per 100000 population,Atyrau,urban,Female,KZATY,2.62
+2012,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,5.61
+2012,per 100000 population,Zhambyl,urban,Female,KZZHA,5.8
+2012,per 100000 population,Zhetisu,urban,Female,KZZHS,10.3
+2012,per 100000 population,Karagandy,urban,Female,KZKAR,9.36
+2012,per 100000 population,Kostanay,urban,Female,KZKUS,8.19
 2012,per 100000 population,Kyzylorda,urban,Female,KZKZY,3.83
-2012,per 100000 population,Mangistau,urban,Female,KZMAN,2.05
-2012,per 100000 population,Ontustik Kazakhstan,urban,Female,KZONT,6.14
+2012,per 100000 population,Mangistau,urban,Female,KZMAN,2.17
 2012,per 100000 population,Pavlodar,urban,Female,KZPAV,7.17
 2012,per 100000 population,Soltustik Kazakhstan,urban,Female,KZSEV,0.0
-2012,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,8.19
-2012,per 100000 population,Astana city,urban,Female,KZNS,3.05
-2012,per 100000 population,Almaty city,urban,Female,KZALA,2.14
-2012,per 100000 population,,rural,Female,,7.55
-2012,per 100000 population,Akmola,rural,Female,KZAKM,12.24
-2012,per 100000 population,Aktobe,rural,Female,KZAKT,3.95
-2012,per 100000 population,Almaty,rural,Female,KZALM,6.3
-2012,per 100000 population,Atyrau,rural,Female,KZATY,2.82
-2012,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,8.92
-2012,per 100000 population,Zhambyl,rural,Female,KZZHA,5.96
-2012,per 100000 population,Karagandy,rural,Female,KZKAR,14.33
-2012,per 100000 population,Kostanay,rural,Female,KZKUS,12.22
+2012,per 100000 population,Turkistan,urban,Female,KZYUZ,4.11
+2012,per 100000 population,Ulytau,urban,Female,KZULU,14.29
+2012,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,13.99
+2012,per 100000 population,Astana city,urban,Female,KZNS,3.03
+2012,per 100000 population,Almaty city,urban,Female,KZALA,2.37
+2012,per 100000 population,Shymkent city,urban,Female,KZSHY,6.79
+2012,per 100000 population,,rural,Female,,7.77
+2012,per 100000 population,Abai,rural,Female,KZABY,5.6
+2012,per 100000 population,Akmola,rural,Female,KZAKM,12.45
+2012,per 100000 population,Aktobe,rural,Female,KZAKT,3.15
+2012,per 100000 population,Almaty,rural,Female,KZALM,5.7
+2012,per 100000 population,Atyrau,rural,Female,KZATY,2.35
+2012,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,9.51
+2012,per 100000 population,Zhambyl,rural,Female,KZZHA,5.98
+2012,per 100000 population,Zhetisu,rural,Female,KZZHS,8.41
+2012,per 100000 population,Karagandy,rural,Female,KZKAR,14.82
+2012,per 100000 population,Kostanay,rural,Female,KZKUS,12.99
 2012,per 100000 population,Kyzylorda,rural,Female,KZKZY,6.88
-2012,per 100000 population,Mangistau,rural,Female,KZMAN,1.49
-2012,per 100000 population,Ontustik Kazakhstan,rural,Female,KZONT,6.88
-2012,per 100000 population,Pavlodar,rural,Female,KZPAV,11.1
-2012,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,2.3
-2012,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,12.68
-2013,per 100000 population,,,,,20.67
-2013,per 100000 population,Akmola,,,KZAKM,37.05
-2013,per 100000 population,Aktobe,,,KZAKT,20.94
-2013,per 100000 population,Almaty,,,KZALM,22.28
-2013,per 100000 population,Atyrau,,,KZATY,19.77
-2013,per 100000 population,Batys Kazakhstan,,,KZZAP,26.41
-2013,per 100000 population,Zhambyl,,,KZZHA,19.59
-2013,per 100000 population,Karagandy,,,KZKAR,25.76
-2013,per 100000 population,Kostanay,,,KZKUS,42.25
-2013,per 100000 population,Kyzylorda,,,KZKZY,16.91
-2013,per 100000 population,Mangistau,,,KZMAN,12.47
-2013,per 100000 population,Ontustik Kazakhstan,,,KZONT,13.53
-2013,per 100000 population,Pavlodar,,,KZPAV,25.43
-2013,per 100000 population,Soltustik Kazakhstan,,,KZSEV,10.56
-2013,per 100000 population,Shygys Kazakhstan,,,KZVOS,31.27
-2013,per 100000 population,Astana city,,,KZNS,12.56
-2013,per 100000 population,Almaty city,,,KZALA,5.63
-2013,per 100000 population,,urban,,,17.71
-2013,per 100000 population,Akmola,urban,,KZAKM,32.72
-2013,per 100000 population,Aktobe,urban,,KZAKT,17.99
-2013,per 100000 population,Almaty,urban,,KZALM,26.16
-2013,per 100000 population,Atyrau,urban,,KZATY,17.62
-2013,per 100000 population,Batys Kazakhstan,urban,,KZZAP,22.94
+2012,per 100000 population,Mangistau,rural,Female,KZMAN,1.4
+2012,per 100000 population,Pavlodar,rural,Female,KZPAV,11.13
+2012,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,2.31
+2012,per 100000 population,Turkistan,rural,Female,KZYUZ,7.28
+2012,per 100000 population,Ulytau,rural,Female,KZULU,12.26
+2012,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,20.24
+2013,per 100000 population,,,,,20.77
+2013,per 100000 population,Abai,,,KZABY,14.81
+2013,per 100000 population,Akmola,,,KZAKM,37.38
+2013,per 100000 population,Aktobe,,,KZAKT,20.95
+2013,per 100000 population,Almaty,,,KZALM,20.52
+2013,per 100000 population,Atyrau,,,KZATY,19.95
+2013,per 100000 population,Batys Kazakhstan,,,KZZAP,26.42
+2013,per 100000 population,Zhambyl,,,KZZHA,19.71
+2013,per 100000 population,Zhetisu,,,KZZHS,26.74
+2013,per 100000 population,Karagandy,,,KZKAR,27.95
+2013,per 100000 population,Kostanay,,,KZKUS,42.5
+2013,per 100000 population,Kyzylorda,,,KZKZY,16.93
+2013,per 100000 population,Mangistau,,,KZMAN,12.45
+2013,per 100000 population,Pavlodar,,,KZPAV,25.44
+2013,per 100000 population,Soltustik Kazakhstan,,,KZSEV,10.57
+2013,per 100000 population,Turkistan,,,KZYUZ,14.1
+2013,per 100000 population,Ulytau,,,KZULU,15.15
+2013,per 100000 population,Shygys Kazakhstan,,,KZVOS,46.17
+2013,per 100000 population,Astana city,,,KZNS,12.46
+2013,per 100000 population,Almaty city,,,KZALA,6.3
+2013,per 100000 population,Shymkent city,,,KZSHY,12.86
+2013,per 100000 population,,urban,,,17.72
+2013,per 100000 population,Abai,urban,,KZABY,7.27
+2013,per 100000 population,Akmola,urban,,KZAKM,32.74
+2013,per 100000 population,Aktobe,urban,,KZAKT,18.19
+2013,per 100000 population,Almaty,urban,,KZALM,25.95
+2013,per 100000 population,Atyrau,urban,,KZATY,16.28
+2013,per 100000 population,Batys Kazakhstan,urban,,KZZAP,22.66
 2013,per 100000 population,Zhambyl,urban,,KZZHA,22.68
-2013,per 100000 population,Karagandy,urban,,KZKAR,21.81
-2013,per 100000 population,Kostanay,urban,,KZKUS,33.34
-2013,per 100000 population,Kyzylorda,urban,,KZKZY,15.32
-2013,per 100000 population,Mangistau,urban,,KZMAN,13.43
-2013,per 100000 population,Ontustik Kazakhstan,urban,,KZONT,12.56
-2013,per 100000 population,Pavlodar,urban,,KZPAV,22.62
-2013,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,3.75
-2013,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,25.03
-2013,per 100000 population,Astana city,urban,,KZNS,12.56
-2013,per 100000 population,Almaty city,urban,,KZALA,5.63
-2013,per 100000 population,,rural,,,24.28
-2013,per 100000 population,Akmola,rural,,KZAKM,40.89
-2013,per 100000 population,Aktobe,rural,,KZAKT,25.68
-2013,per 100000 population,Almaty,rural,,KZALM,21.11
-2013,per 100000 population,Atyrau,rural,,KZATY,21.71
-2013,per 100000 population,Batys Kazakhstan,rural,,KZZAP,29.76
-2013,per 100000 population,Zhambyl,rural,,KZZHA,17.52
-2013,per 100000 population,Karagandy,rural,,KZKAR,40.24
-2013,per 100000 population,Kostanay,rural,,KZKUS,51.68
-2013,per 100000 population,Kyzylorda,rural,,KZKZY,18.1
-2013,per 100000 population,Mangistau,rural,,KZMAN,11.49
-2013,per 100000 population,Ontustik Kazakhstan,rural,,KZONT,14.15
-2013,per 100000 population,Pavlodar,rural,,KZPAV,31.82
-2013,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,15.41
-2013,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,40.17
-2013,per 100000 population,,,Male,,34.6
-2013,per 100000 population,Akmola,,Male,KZAKM,61.76
-2013,per 100000 population,Aktobe,,Male,KZAKT,36.44
-2013,per 100000 population,Almaty,,Male,KZALM,36.16
-2013,per 100000 population,Atyrau,,Male,KZATY,33.04
-2013,per 100000 population,Batys Kazakhstan,,Male,KZZAP,46.7
-2013,per 100000 population,Zhambyl,,Male,KZZHA,32.62
-2013,per 100000 population,Karagandy,,Male,KZKAR,43.99
-2013,per 100000 population,Kostanay,,Male,KZKUS,74.32
-2013,per 100000 population,Kyzylorda,,Male,KZKZY,26.49
-2013,per 100000 population,Mangistau,,Male,KZMAN,20.23
-2013,per 100000 population,Ontustik Kazakhstan,,Male,KZONT,20.26
-2013,per 100000 population,Pavlodar,,Male,KZPAV,43.82
-2013,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,19.26
-2013,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,54.59
-2013,per 100000 population,Astana city,,Male,KZNS,21.33
-2013,per 100000 population,Almaty city,,Male,KZALA,8.98
-2013,per 100000 population,,urban,Male,,30.11
-2013,per 100000 population,Akmola,urban,Male,KZAKM,55.05
-2013,per 100000 population,Aktobe,urban,Male,KZAKT,32.13
-2013,per 100000 population,Almaty,urban,Male,KZALM,45.28
-2013,per 100000 population,Atyrau,urban,Male,KZATY,29.07
-2013,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,39.69
-2013,per 100000 population,Zhambyl,urban,Male,KZZHA,39.19
-2013,per 100000 population,Karagandy,urban,Male,KZKAR,37.34
-2013,per 100000 population,Kostanay,urban,Male,KZKUS,61.35
-2013,per 100000 population,Kyzylorda,urban,Male,KZKZY,22.89
-2013,per 100000 population,Mangistau,urban,Male,KZMAN,21.21
-2013,per 100000 population,Ontustik Kazakhstan,urban,Male,KZONT,18.59
-2013,per 100000 population,Pavlodar,urban,Male,KZPAV,38.75
-2013,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,8.28
-2013,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,44.31
-2013,per 100000 population,Astana city,urban,Male,KZNS,21.33
-2013,per 100000 population,Almaty city,urban,Male,KZALA,8.98
-2013,per 100000 population,,rural,Male,,39.74
-2013,per 100000 population,Akmola,rural,Male,KZAKM,67.38
-2013,per 100000 population,Aktobe,rural,Male,KZAKT,43.0
-2013,per 100000 population,Almaty,rural,Male,KZALM,33.52
-2013,per 100000 population,Atyrau,rural,Male,KZATY,36.45
-2013,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,52.93
-2013,per 100000 population,Zhambyl,rural,Male,KZZHA,28.46
-2013,per 100000 population,Karagandy,rural,Male,KZKAR,66.45
-2013,per 100000 population,Kostanay,rural,Male,KZKUS,87.17
-2013,per 100000 population,Kyzylorda,rural,Male,KZKZY,29.06
-2013,per 100000 population,Mangistau,rural,Male,KZMAN,19.27
-2013,per 100000 population,Ontustik Kazakhstan,rural,Male,KZONT,21.3
-2013,per 100000 population,Pavlodar,rural,Male,KZPAV,54.51
-2013,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,26.42
-2013,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,68.13
-2013,per 100000 population,,,Female,,7.68
-2013,per 100000 population,Akmola,,Female,KZAKM,13.96
+2013,per 100000 population,Zhetisu,urban,,KZZHS,26.34
+2013,per 100000 population,Karagandy,urban,,KZKAR,23.78
+2013,per 100000 population,Kostanay,urban,,KZKUS,33.74
+2013,per 100000 population,Kyzylorda,urban,,KZKZY,15.34
+2013,per 100000 population,Mangistau,urban,,KZMAN,14.21
+2013,per 100000 population,Pavlodar,urban,,KZPAV,22.61
+2013,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,3.73
+2013,per 100000 population,Turkistan,urban,,KZYUZ,13.15
+2013,per 100000 population,Ulytau,urban,,KZULU,12.1
+2013,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,39.72
+2013,per 100000 population,Astana city,urban,,KZNS,12.46
+2013,per 100000 population,Almaty city,urban,,KZALA,6.3
+2013,per 100000 population,Shymkent city,urban,,KZSHY,12.86
+2013,per 100000 population,,rural,,,24.8
+2013,per 100000 population,Abai,rural,,KZABY,24.71
+2013,per 100000 population,Akmola,rural,,KZAKM,41.66
+2013,per 100000 population,Aktobe,rural,,KZAKT,26.79
+2013,per 100000 population,Almaty,rural,,KZALM,19.5
+2013,per 100000 population,Atyrau,rural,,KZATY,24.18
+2013,per 100000 population,Batys Kazakhstan,rural,,KZZAP,30.04
+2013,per 100000 population,Zhambyl,rural,,KZZHA,17.71
+2013,per 100000 population,Zhetisu,rural,,KZZHS,27.01
+2013,per 100000 population,Karagandy,rural,,KZKAR,43.5
+2013,per 100000 population,Kostanay,rural,,KZKUS,52.88
+2013,per 100000 population,Kyzylorda,rural,,KZKZY,18.11
+2013,per 100000 population,Mangistau,rural,,KZMAN,10.87
+2013,per 100000 population,Pavlodar,rural,,KZPAV,31.91
+2013,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,15.49
+2013,per 100000 population,Turkistan,rural,,KZYUZ,14.34
+2013,per 100000 population,Ulytau,rural,,KZULU,25.59
+2013,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,56.13
+2013,per 100000 population,,,Male,,34.75
+2013,per 100000 population,Abai,,Male,KZABY,26.02
+2013,per 100000 population,Akmola,,Male,KZAKM,62.14
+2013,per 100000 population,Aktobe,,Male,KZAKT,36.47
+2013,per 100000 population,Almaty,,Male,KZALM,31.27
+2013,per 100000 population,Atyrau,,Male,KZATY,33.4
+2013,per 100000 population,Batys Kazakhstan,,Male,KZZAP,46.72
+2013,per 100000 population,Zhambyl,,Male,KZZHA,32.84
+2013,per 100000 population,Zhetisu,,Male,KZZHS,47.22
+2013,per 100000 population,Karagandy,,Male,KZKAR,48.07
+2013,per 100000 population,Kostanay,,Male,KZKUS,74.85
+2013,per 100000 population,Kyzylorda,,Male,KZKZY,26.51
+2013,per 100000 population,Mangistau,,Male,KZMAN,20.21
+2013,per 100000 population,Pavlodar,,Male,KZPAV,43.84
+2013,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,19.28
+2013,per 100000 population,Turkistan,,Male,KZYUZ,20.52
+2013,per 100000 population,Ulytau,,Male,KZULU,24.82
+2013,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,81.14
+2013,per 100000 population,Astana city,,Male,KZNS,21.18
+2013,per 100000 population,Almaty city,,Male,KZALA,9.91
+2013,per 100000 population,Shymkent city,,Male,KZSHY,20.72
+2013,per 100000 population,,urban,Male,,30.06
+2013,per 100000 population,Abai,urban,Male,KZABY,13.29
+2013,per 100000 population,Akmola,urban,Male,KZAKM,55.28
+2013,per 100000 population,Aktobe,urban,Male,KZAKT,32.19
+2013,per 100000 population,Almaty,urban,Male,KZALM,39.05
+2013,per 100000 population,Atyrau,urban,Male,KZATY,26.33
+2013,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,39.08
+2013,per 100000 population,Zhambyl,urban,Male,KZZHA,39.2
+2013,per 100000 population,Zhetisu,urban,Male,KZZHS,49.98
+2013,per 100000 population,Karagandy,urban,Male,KZKAR,41.13
+2013,per 100000 population,Kostanay,urban,Male,KZKUS,61.81
+2013,per 100000 population,Kyzylorda,urban,Male,KZKZY,22.92
+2013,per 100000 population,Mangistau,urban,Male,KZMAN,22.48
+2013,per 100000 population,Pavlodar,urban,Male,KZPAV,38.74
+2013,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,8.24
+2013,per 100000 population,Turkistan,urban,Male,KZYUZ,17.12
+2013,per 100000 population,Ulytau,urban,Male,KZULU,19.33
+2013,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,70.59
+2013,per 100000 population,Astana city,urban,Male,KZNS,21.18
+2013,per 100000 population,Almaty city,urban,Male,KZALA,9.91
+2013,per 100000 population,Shymkent city,urban,Male,KZSHY,20.72
+2013,per 100000 population,,rural,Male,,40.58
+2013,per 100000 population,Abai,rural,Male,KZABY,41.54
+2013,per 100000 population,Akmola,rural,Male,KZAKM,68.09
+2013,per 100000 population,Aktobe,rural,Male,KZAKT,45.03
+2013,per 100000 population,Almaty,rural,Male,KZALM,29.86
+2013,per 100000 population,Atyrau,rural,Male,KZATY,41.18
+2013,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,53.49
+2013,per 100000 population,Zhambyl,rural,Male,KZZHA,28.82
+2013,per 100000 population,Zhetisu,rural,Male,KZZHS,45.45
+2013,per 100000 population,Karagandy,rural,Male,KZKAR,71.92
+2013,per 100000 population,Kostanay,rural,Male,KZKUS,89.3
+2013,per 100000 population,Kyzylorda,rural,Male,KZKZY,29.08
+2013,per 100000 population,Mangistau,rural,Male,KZMAN,18.23
+2013,per 100000 population,Pavlodar,rural,Male,KZPAV,54.64
+2013,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,26.55
+2013,per 100000 population,Turkistan,rural,Male,KZYUZ,21.39
+2013,per 100000 population,Ulytau,rural,Male,KZULU,42.29
+2013,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,96.11
+2013,per 100000 population,,,Female,,7.73
+2013,per 100000 population,Abai,,Female,KZABY,4.42
+2013,per 100000 population,Akmola,,Female,KZAKM,14.25
 2013,per 100000 population,Aktobe,,Female,KZAKT,6.5
-2013,per 100000 population,Almaty,,Female,KZALM,8.9
+2013,per 100000 population,Almaty,,Female,KZALM,10.13
 2013,per 100000 population,Atyrau,,Female,KZATY,6.99
-2013,per 100000 population,Batys Kazakhstan,,Female,KZZAP,7.47
-2013,per 100000 population,Zhambyl,,Female,KZZHA,7.09
-2013,per 100000 population,Karagandy,,Female,KZKAR,9.44
-2013,per 100000 population,Kostanay,,Female,KZKUS,13.56
+2013,per 100000 population,Batys Kazakhstan,,Female,KZZAP,7.48
+2013,per 100000 population,Zhambyl,,Female,KZZHA,7.1
+2013,per 100000 population,Zhetisu,,Female,KZZHS,6.98
+2013,per 100000 population,Karagandy,,Female,KZKAR,10.09
+2013,per 100000 population,Kostanay,,Female,KZKUS,13.57
 2013,per 100000 population,Kyzylorda,,Female,KZKZY,7.36
 2013,per 100000 population,Mangistau,,Female,KZMAN,4.81
-2013,per 100000 population,Ontustik Kazakhstan,,Female,KZONT,6.89
 2013,per 100000 population,Pavlodar,,Female,KZPAV,9.06
-2013,per 100000 population,Soltustik Kazakhstan,,Female,KZSEV,2.64
-2013,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,10.12
-2013,per 100000 population,Astana city,,Female,KZNS,4.37
-2013,per 100000 population,Almaty city,,Female,KZALA,2.83
-2013,per 100000 population,,urban,Female,,6.78
-2013,per 100000 population,Akmola,urban,Female,KZAKM,13.07
-2013,per 100000 population,Aktobe,urban,Female,KZAKT,5.36
-2013,per 100000 population,Almaty,urban,Female,KZALM,8.81
-2013,per 100000 population,Atyrau,urban,Female,KZATY,7.17
-2013,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,8.54
-2013,per 100000 population,Zhambyl,urban,Female,KZZHA,7.89
-2013,per 100000 population,Karagandy,urban,Female,KZKAR,8.35
-2013,per 100000 population,Kostanay,urban,Female,KZKUS,9.76
-2013,per 100000 population,Kyzylorda,urban,Female,KZKZY,8.1
-2013,per 100000 population,Mangistau,urban,Female,KZMAN,6.04
-2013,per 100000 population,Ontustik Kazakhstan,urban,Female,KZONT,6.94
-2013,per 100000 population,Pavlodar,urban,Female,KZPAV,8.88
+2013,per 100000 population,Soltustik Kazakhstan,,Female,KZSEV,2.65
+2013,per 100000 population,Turkistan,,Female,KZYUZ,7.58
+2013,per 100000 population,Ulytau,,Female,KZULU,6.05
+2013,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,15.09
+2013,per 100000 population,Astana city,,Female,KZNS,4.33
+2013,per 100000 population,Almaty city,,Female,KZALA,3.25
+2013,per 100000 population,Shymkent city,,Female,KZSHY,5.64
+2013,per 100000 population,,urban,Female,,6.82
+2013,per 100000 population,Abai,urban,Female,KZABY,2.02
+2013,per 100000 population,Akmola,urban,Female,KZAKM,12.86
+2013,per 100000 population,Aktobe,urban,Female,KZAKT,5.58
+2013,per 100000 population,Almaty,urban,Female,KZALM,13.93
+2013,per 100000 population,Atyrau,urban,Female,KZATY,7.02
+2013,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,8.55
+2013,per 100000 population,Zhambyl,urban,Female,KZZHA,7.9
+2013,per 100000 population,Zhetisu,urban,Female,KZZHS,5.08
+2013,per 100000 population,Karagandy,urban,Female,KZKAR,8.88
+2013,per 100000 population,Kostanay,urban,Female,KZKUS,10.05
+2013,per 100000 population,Kyzylorda,urban,Female,KZKZY,8.11
+2013,per 100000 population,Mangistau,urban,Female,KZMAN,6.38
+2013,per 100000 population,Pavlodar,urban,Female,KZPAV,8.87
 2013,per 100000 population,Soltustik Kazakhstan,urban,Female,KZSEV,0.0
-2013,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,8.59
-2013,per 100000 population,Astana city,urban,Female,KZNS,4.37
-2013,per 100000 population,Almaty city,urban,Female,KZALA,2.83
-2013,per 100000 population,,rural,Female,,8.85
-2013,per 100000 population,Akmola,rural,Female,KZAKM,14.8
-2013,per 100000 population,Aktobe,rural,Female,KZAKT,8.43
-2013,per 100000 population,Almaty,rural,Female,KZALM,8.92
-2013,per 100000 population,Atyrau,rural,Female,KZATY,6.82
-2013,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,6.36
-2013,per 100000 population,Zhambyl,rural,Female,KZZHA,6.53
-2013,per 100000 population,Karagandy,rural,Female,KZKAR,13.72
-2013,per 100000 population,Kostanay,rural,Female,KZKUS,17.82
+2013,per 100000 population,Turkistan,urban,Female,KZYUZ,9.23
+2013,per 100000 population,Ulytau,urban,Female,KZULU,5.5
+2013,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,13.92
+2013,per 100000 population,Astana city,urban,Female,KZNS,4.33
+2013,per 100000 population,Almaty city,urban,Female,KZALA,3.25
+2013,per 100000 population,Shymkent city,urban,Female,KZSHY,5.64
+2013,per 100000 population,,rural,Female,,9.01
+2013,per 100000 population,Abai,rural,Female,KZABY,7.79
+2013,per 100000 population,Akmola,rural,Female,KZAKM,15.61
+2013,per 100000 population,Aktobe,rural,Female,KZAKT,8.55
+2013,per 100000 population,Almaty,rural,Female,KZALM,9.4
+2013,per 100000 population,Atyrau,rural,Female,KZATY,6.96
+2013,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,6.35
+2013,per 100000 population,Zhambyl,rural,Female,KZZHA,6.54
+2013,per 100000 population,Zhetisu,rural,Female,KZZHS,8.36
+2013,per 100000 population,Karagandy,rural,Female,KZKAR,14.95
+2013,per 100000 population,Kostanay,rural,Female,KZKUS,17.99
 2013,per 100000 population,Kyzylorda,rural,Female,KZKZY,6.78
-2013,per 100000 population,Mangistau,rural,Female,KZMAN,3.52
-2013,per 100000 population,Ontustik Kazakhstan,rural,Female,KZONT,6.86
-2013,per 100000 population,Pavlodar,rural,Female,KZPAV,9.51
-2013,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,4.68
-2013,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,12.46
-2014,per 100000 population,,,,,18.1
-2014,per 100000 population,Akmola,,,KZAKM,36.54
-2014,per 100000 population,Aktobe,,,KZAKT,18.14
-2014,per 100000 population,Almaty,,,KZALM,21.44
-2014,per 100000 population,Atyrau,,,KZATY,16.01
-2014,per 100000 population,Batys Kazakhstan,,,KZZAP,23.76
-2014,per 100000 population,Zhambyl,,,KZZHA,17.04
-2014,per 100000 population,Karagandy,,,KZKAR,26.57
-2014,per 100000 population,Kostanay,,,KZKUS,31.66
-2014,per 100000 population,Kyzylorda,,,KZKZY,9.38
-2014,per 100000 population,Mangistau,,,KZMAN,8.37
-2014,per 100000 population,Ontustik Kazakhstan,,,KZONT,13.11
-2014,per 100000 population,Pavlodar,,,KZPAV,13.52
-2014,per 100000 population,Soltustik Kazakhstan,,,KZSEV,11.33
-2014,per 100000 population,Shygys Kazakhstan,,,KZVOS,28.32
-2014,per 100000 population,Astana city,,,KZNS,8.4
-2014,per 100000 population,Almaty city,,,KZALA,6.71
-2014,per 100000 population,,urban,,,14.85
-2014,per 100000 population,Akmola,urban,,KZAKM,30.56
-2014,per 100000 population,Aktobe,urban,,KZAKT,13.27
-2014,per 100000 population,Almaty,urban,,KZALM,21.4
-2014,per 100000 population,Atyrau,urban,,KZATY,12.6
-2014,per 100000 population,Batys Kazakhstan,urban,,KZZAP,23.24
-2014,per 100000 population,Zhambyl,urban,,KZZHA,15.47
-2014,per 100000 population,Karagandy,urban,,KZKAR,24.2
-2014,per 100000 population,Kostanay,urban,,KZKUS,24.7
-2014,per 100000 population,Kyzylorda,urban,,KZKZY,11.53
-2014,per 100000 population,Mangistau,urban,,KZMAN,7.48
-2014,per 100000 population,Ontustik Kazakhstan,urban,,KZONT,9.58
+2013,per 100000 population,Mangistau,rural,Female,KZMAN,3.33
+2013,per 100000 population,Pavlodar,rural,Female,KZPAV,9.54
+2013,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,4.71
+2013,per 100000 population,Turkistan,rural,Female,KZYUZ,7.14
+2013,per 100000 population,Ulytau,rural,Female,KZULU,8.07
+2013,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,17.03
+2014,per 100000 population,,,,,18.27
+2014,per 100000 population,Abai,,,KZABY,15.42
+2014,per 100000 population,Akmola,,,KZAKM,36.74
+2014,per 100000 population,Aktobe,,,KZAKT,18.16
+2014,per 100000 population,Almaty,,,KZALM,19.76
+2014,per 100000 population,Atyrau,,,KZATY,16.18
+2014,per 100000 population,Batys Kazakhstan,,,KZZAP,23.77
+2014,per 100000 population,Zhambyl,,,KZZHA,17.15
+2014,per 100000 population,Zhetisu,,,KZZHS,27.68
+2014,per 100000 population,Karagandy,,,KZKAR,28.3
+2014,per 100000 population,Kostanay,,,KZKUS,31.8
+2014,per 100000 population,Kyzylorda,,,KZKZY,9.39
+2014,per 100000 population,Mangistau,,,KZMAN,8.53
+2014,per 100000 population,Pavlodar,,,KZPAV,13.53
+2014,per 100000 population,Soltustik Kazakhstan,,,KZSEV,11.69
+2014,per 100000 population,Turkistan,,,KZYUZ,16.09
+2014,per 100000 population,Ulytau,,,KZULU,20.89
+2014,per 100000 population,Shygys Kazakhstan,,,KZVOS,40.47
+2014,per 100000 population,Astana city,,,KZNS,8.33
+2014,per 100000 population,Almaty city,,,KZALA,6.4
+2014,per 100000 population,Shymkent city,,,KZSHY,7.11
+2014,per 100000 population,,urban,,,14.75
+2014,per 100000 population,Abai,urban,,KZABY,6.42
+2014,per 100000 population,Akmola,urban,,KZAKM,30.23
+2014,per 100000 population,Aktobe,urban,,KZAKT,13.5
+2014,per 100000 population,Almaty,urban,,KZALM,18.89
+2014,per 100000 population,Atyrau,urban,,KZATY,12.57
+2014,per 100000 population,Batys Kazakhstan,urban,,KZZAP,23.21
+2014,per 100000 population,Zhambyl,urban,,KZZHA,15.7
+2014,per 100000 population,Zhetisu,urban,,KZZHS,25.55
+2014,per 100000 population,Karagandy,urban,,KZKAR,24.85
+2014,per 100000 population,Kostanay,urban,,KZKUS,25.09
+2014,per 100000 population,Kyzylorda,urban,,KZKZY,11.55
+2014,per 100000 population,Mangistau,urban,,KZMAN,7.5
 2014,per 100000 population,Pavlodar,urban,,KZPAV,12.32
-2014,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,6.19
-2014,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,22.06
-2014,per 100000 population,Astana city,urban,,KZNS,8.4
-2014,per 100000 population,Almaty city,urban,,KZALA,6.71
-2014,per 100000 population,,rural,,,22.2
-2014,per 100000 population,Akmola,rural,,KZAKM,41.88
-2014,per 100000 population,Aktobe,rural,,KZAKT,26.04
-2014,per 100000 population,Almaty,rural,,KZALM,21.46
-2014,per 100000 population,Atyrau,rural,,KZATY,19.03
-2014,per 100000 population,Batys Kazakhstan,rural,,KZZAP,24.27
-2014,per 100000 population,Zhambyl,rural,,KZZHA,18.1
-2014,per 100000 population,Karagandy,rural,,KZKAR,35.39
-2014,per 100000 population,Kostanay,rural,,KZKUS,39.18
+2014,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,6.16
+2014,per 100000 population,Turkistan,urban,,KZYUZ,13.1
+2014,per 100000 population,Ulytau,urban,,KZULU,22.43
+2014,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,35.2
+2014,per 100000 population,Astana city,urban,,KZNS,8.33
+2014,per 100000 population,Almaty city,urban,,KZALA,6.4
+2014,per 100000 population,Shymkent city,urban,,KZSHY,7.11
+2014,per 100000 population,,rural,,,22.99
+2014,per 100000 population,Abai,rural,,KZABY,27.38
+2014,per 100000 population,Akmola,rural,,KZAKM,42.79
+2014,per 100000 population,Aktobe,rural,,KZAKT,28.11
+2014,per 100000 population,Almaty,rural,,KZALM,19.93
+2014,per 100000 population,Atyrau,rural,,KZATY,20.43
+2014,per 100000 population,Batys Kazakhstan,rural,,KZZAP,24.31
+2014,per 100000 population,Zhambyl,rural,,KZZHA,18.14
+2014,per 100000 population,Zhetisu,rural,,KZZHS,29.15
+2014,per 100000 population,Karagandy,rural,,KZKAR,41.45
+2014,per 100000 population,Kostanay,rural,,KZKUS,39.91
 2014,per 100000 population,Kyzylorda,rural,,KZKZY,7.76
-2014,per 100000 population,Mangistau,rural,,KZMAN,9.16
-2014,per 100000 population,Ontustik Kazakhstan,rural,,KZONT,15.67
-2014,per 100000 population,Pavlodar,rural,,KZPAV,16.31
-2014,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,15.08
-2014,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,37.37
-2014,per 100000 population,,,Male,,30.75
-2014,per 100000 population,Akmola,,Male,KZAKM,64.7
-2014,per 100000 population,Aktobe,,Male,KZAKT,31.49
-2014,per 100000 population,Almaty,,Male,KZALM,36.12
-2014,per 100000 population,Atyrau,,Male,KZATY,26.24
-2014,per 100000 population,Batys Kazakhstan,,Male,KZZAP,40.28
-2014,per 100000 population,Zhambyl,,Male,KZZHA,27.1
-2014,per 100000 population,Karagandy,,Male,KZKAR,44.65
-2014,per 100000 population,Kostanay,,Male,KZKUS,57.89
-2014,per 100000 population,Kyzylorda,,Male,KZKZY,15.02
-2014,per 100000 population,Mangistau,,Male,KZMAN,13.14
-2014,per 100000 population,Ontustik Kazakhstan,,Male,KZONT,20.94
-2014,per 100000 population,Pavlodar,,Male,KZPAV,22.78
-2014,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,19.75
-2014,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,49.26
-2014,per 100000 population,Astana city,,Male,KZNS,14.42
-2014,per 100000 population,Almaty city,,Male,KZALA,12.45
-2014,per 100000 population,,urban,Male,,25.78
-2014,per 100000 population,Akmola,urban,Male,KZAKM,54.17
-2014,per 100000 population,Aktobe,urban,Male,KZAKT,24.31
-2014,per 100000 population,Almaty,urban,Male,KZALM,38.85
-2014,per 100000 population,Atyrau,urban,Male,KZATY,18.63
-2014,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,38.35
-2014,per 100000 population,Zhambyl,urban,Male,KZZHA,26.94
-2014,per 100000 population,Karagandy,urban,Male,KZKAR,41.35
-2014,per 100000 population,Kostanay,urban,Male,KZKUS,44.92
-2014,per 100000 population,Kyzylorda,urban,Male,KZKZY,17.86
-2014,per 100000 population,Mangistau,urban,Male,KZMAN,12.27
-2014,per 100000 population,Ontustik Kazakhstan,urban,Male,KZONT,16.75
-2014,per 100000 population,Pavlodar,urban,Male,KZPAV,20.59
-2014,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,11.86
-2014,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,38.16
-2014,per 100000 population,Astana city,urban,Male,KZNS,14.42
-2014,per 100000 population,Almaty city,urban,Male,KZALA,12.45
-2014,per 100000 population,,rural,Male,,36.62
-2014,per 100000 population,Akmola,rural,Male,KZAKM,73.55
-2014,per 100000 population,Aktobe,rural,Male,KZAKT,42.53
-2014,per 100000 population,Almaty,rural,Male,KZALM,35.27
-2014,per 100000 population,Atyrau,rural,Male,KZATY,32.64
-2014,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,42.02
-2014,per 100000 population,Zhambyl,rural,Male,KZZHA,27.2
-2014,per 100000 population,Karagandy,rural,Male,KZKAR,55.96
-2014,per 100000 population,Kostanay,rural,Male,KZKUS,71.0
+2014,per 100000 population,Mangistau,rural,,KZMAN,9.44
+2014,per 100000 population,Pavlodar,rural,,KZPAV,16.35
+2014,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,15.77
+2014,per 100000 population,Turkistan,rural,,KZYUZ,16.85
+2014,per 100000 population,Ulytau,rural,,KZULU,15.67
+2014,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,48.74
+2014,per 100000 population,,,Male,,31.04
+2014,per 100000 population,Abai,,Male,KZABY,27.88
+2014,per 100000 population,Akmola,,Male,KZAKM,64.8
+2014,per 100000 population,Aktobe,,Male,KZAKT,31.52
+2014,per 100000 population,Almaty,,Male,KZALM,33.68
+2014,per 100000 population,Atyrau,,Male,KZATY,26.59
+2014,per 100000 population,Batys Kazakhstan,,Male,KZZAP,40.29
+2014,per 100000 population,Zhambyl,,Male,KZZHA,27.32
+2014,per 100000 population,Zhetisu,,Male,KZZHS,46.07
+2014,per 100000 population,Karagandy,,Male,KZKAR,47.38
+2014,per 100000 population,Kostanay,,Male,KZKUS,58.17
+2014,per 100000 population,Kyzylorda,,Male,KZKZY,15.03
+2014,per 100000 population,Mangistau,,Male,KZMAN,13.47
+2014,per 100000 population,Pavlodar,,Male,KZPAV,22.79
+2014,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,20.5
+2014,per 100000 population,Turkistan,,Male,KZYUZ,24.76
+2014,per 100000 population,Ulytau,,Male,KZULU,34.84
+2014,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,70.14
+2014,per 100000 population,Astana city,,Male,KZNS,14.32
+2014,per 100000 population,Almaty city,,Male,KZALA,11.84
+2014,per 100000 population,Shymkent city,,Male,KZSHY,13.12
+2014,per 100000 population,,urban,Male,,25.61
+2014,per 100000 population,Abai,urban,Male,KZABY,10.88
+2014,per 100000 population,Akmola,urban,Male,KZAKM,53.65
+2014,per 100000 population,Aktobe,urban,Male,KZAKT,24.28
+2014,per 100000 population,Almaty,urban,Male,KZALM,36.26
+2014,per 100000 population,Atyrau,urban,Male,KZATY,18.79
+2014,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,38.29
+2014,per 100000 population,Zhambyl,urban,Male,KZZHA,27.43
+2014,per 100000 population,Zhetisu,urban,Male,KZZHS,45.15
+2014,per 100000 population,Karagandy,urban,Male,KZKAR,42.82
+2014,per 100000 population,Kostanay,urban,Male,KZKUS,46.17
+2014,per 100000 population,Kyzylorda,urban,Male,KZKZY,17.89
+2014,per 100000 population,Mangistau,urban,Male,KZMAN,12.47
+2014,per 100000 population,Pavlodar,urban,Male,KZPAV,20.58
+2014,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,11.8
+2014,per 100000 population,Turkistan,urban,Male,KZYUZ,21.09
+2014,per 100000 population,Ulytau,urban,Male,KZULU,36.19
+2014,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,61.76
+2014,per 100000 population,Astana city,urban,Male,KZNS,14.32
+2014,per 100000 population,Almaty city,urban,Male,KZALA,11.84
+2014,per 100000 population,Shymkent city,urban,Male,KZSHY,13.12
+2014,per 100000 population,,rural,Male,,37.85
+2014,per 100000 population,Abai,rural,Male,KZABY,48.93
+2014,per 100000 population,Akmola,rural,Male,KZAKM,74.58
+2014,per 100000 population,Aktobe,rural,Male,KZAKT,46.19
+2014,per 100000 population,Almaty,rural,Male,KZALM,33.22
+2014,per 100000 population,Atyrau,rural,Male,KZATY,35.32
+2014,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,42.1
+2014,per 100000 population,Zhambyl,rural,Male,KZZHA,27.25
+2014,per 100000 population,Zhetisu,rural,Male,KZZHS,46.66
+2014,per 100000 population,Karagandy,rural,Male,KZKAR,63.41
+2014,per 100000 population,Kostanay,rural,Male,KZKUS,71.75
 2014,per 100000 population,Kyzylorda,rural,Male,KZKZY,12.96
-2014,per 100000 population,Mangistau,rural,Male,KZMAN,13.91
-2014,per 100000 population,Ontustik Kazakhstan,rural,Male,KZONT,23.85
-2014,per 100000 population,Pavlodar,rural,Male,KZPAV,27.48
-2014,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,25.03
-2014,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,64.11
-2014,per 100000 population,,,Female,,6.3
-2014,per 100000 population,Akmola,,Female,KZAKM,10.25
+2014,per 100000 population,Mangistau,rural,Male,KZMAN,14.32
+2014,per 100000 population,Pavlodar,rural,Male,KZPAV,27.55
+2014,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,26.39
+2014,per 100000 population,Turkistan,rural,Male,KZYUZ,25.68
+2014,per 100000 population,Ulytau,rural,Male,KZULU,30.57
+2014,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,82.27
+2014,per 100000 population,,,Female,,6.35
+2014,per 100000 population,Abai,,Female,KZABY,3.83
+2014,per 100000 population,Akmola,,Female,KZAKM,10.53
 2014,per 100000 population,Aktobe,,Female,KZAKT,5.69
-2014,per 100000 population,Almaty,,Female,KZALM,7.26
+2014,per 100000 population,Almaty,,Female,KZALM,6.3
 2014,per 100000 population,Atyrau,,Female,KZATY,6.15
 2014,per 100000 population,Batys Kazakhstan,,Female,KZZAP,8.33
-2014,per 100000 population,Zhambyl,,Female,KZZHA,7.37
-2014,per 100000 population,Karagandy,,Female,KZKAR,10.35
-2014,per 100000 population,Kostanay,,Female,KZKUS,8.17
+2014,per 100000 population,Zhambyl,,Female,KZZHA,7.38
+2014,per 100000 population,Zhetisu,,Female,KZZHS,9.92
+2014,per 100000 population,Karagandy,,Female,KZKAR,11.35
+2014,per 100000 population,Kostanay,,Female,KZKUS,8.18
 2014,per 100000 population,Kyzylorda,,Female,KZKZY,3.75
 2014,per 100000 population,Mangistau,,Female,KZMAN,3.66
-2014,per 100000 population,Ontustik Kazakhstan,,Female,KZONT,5.4
 2014,per 100000 population,Pavlodar,,Female,KZPAV,5.27
-2014,per 100000 population,Soltustik Kazakhstan,,Female,KZSEV,3.66
-2014,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,9.3
-2014,per 100000 population,Astana city,,Female,KZNS,2.78
-2014,per 100000 population,Almaty city,,Female,KZALA,1.9
-2014,per 100000 population,,urban,Female,,5.18
-2014,per 100000 population,Akmola,urban,Female,KZAKM,9.76
-2014,per 100000 population,Aktobe,urban,Female,KZAKT,3.38
-2014,per 100000 population,Almaty,urban,Female,KZALM,5.5
-2014,per 100000 population,Atyrau,urban,Female,KZATY,7.09
-2014,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,10.22
+2014,per 100000 population,Soltustik Kazakhstan,,Female,KZSEV,3.67
+2014,per 100000 population,Turkistan,,Female,KZYUZ,7.27
+2014,per 100000 population,Ulytau,,Female,KZULU,7.77
+2014,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,14.06
+2014,per 100000 population,Astana city,,Female,KZNS,2.76
+2014,per 100000 population,Almaty city,,Female,KZALA,1.81
+2014,per 100000 population,Shymkent city,,Female,KZSHY,1.59
+2014,per 100000 population,,urban,Female,,5.13
+2014,per 100000 population,Abai,urban,Female,KZABY,2.51
+2014,per 100000 population,Akmola,urban,Female,KZAKM,9.57
+2014,per 100000 population,Aktobe,urban,Female,KZAKT,3.77
+2014,per 100000 population,Almaty,urban,Female,KZALM,2.94
+2014,per 100000 population,Atyrau,urban,Female,KZATY,6.82
+2014,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,10.21
 2014,per 100000 population,Zhambyl,urban,Female,KZZHA,5.18
-2014,per 100000 population,Karagandy,urban,Female,KZKAR,9.31
-2014,per 100000 population,Kostanay,urban,Female,KZKUS,7.65
-2014,per 100000 population,Kyzylorda,urban,Female,KZKZY,5.48
-2014,per 100000 population,Mangistau,urban,Female,KZMAN,2.82
-2014,per 100000 population,Ontustik Kazakhstan,urban,Female,KZONT,2.85
+2014,per 100000 population,Zhetisu,urban,Female,KZZHS,7.86
+2014,per 100000 population,Karagandy,urban,Female,KZKAR,9.4
+2014,per 100000 population,Kostanay,urban,Female,KZKUS,7.27
+2014,per 100000 population,Kyzylorda,urban,Female,KZKZY,5.49
+2014,per 100000 population,Mangistau,urban,Female,KZMAN,2.78
 2014,per 100000 population,Pavlodar,urban,Female,KZPAV,5.27
-2014,per 100000 population,Soltustik Kazakhstan,urban,Female,KZSEV,1.51
-2014,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,8.31
-2014,per 100000 population,Astana city,urban,Female,KZNS,2.78
-2014,per 100000 population,Almaty city,urban,Female,KZALA,1.9
-2014,per 100000 population,,rural,Female,,7.79
-2014,per 100000 population,Akmola,rural,Female,KZAKM,10.71
-2014,per 100000 population,Aktobe,rural,Female,KZAKT,9.62
-2014,per 100000 population,Almaty,rural,Female,KZALM,7.85
-2014,per 100000 population,Atyrau,rural,Female,KZATY,5.28
-2014,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,6.33
-2014,per 100000 population,Zhambyl,rural,Female,KZZHA,8.93
-2014,per 100000 population,Karagandy,rural,Female,KZKAR,14.53
-2014,per 100000 population,Kostanay,rural,Female,KZKUS,8.77
+2014,per 100000 population,Soltustik Kazakhstan,urban,Female,KZSEV,1.5
+2014,per 100000 population,Turkistan,urban,Female,KZYUZ,5.13
+2014,per 100000 population,Ulytau,urban,Female,KZULU,9.89
+2014,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,13.01
+2014,per 100000 population,Astana city,urban,Female,KZNS,2.76
+2014,per 100000 population,Almaty city,urban,Female,KZALA,1.81
+2014,per 100000 population,Shymkent city,urban,Female,KZSHY,1.59
+2014,per 100000 population,,rural,Female,,8.1
+2014,per 100000 population,Abai,rural,Female,KZABY,5.71
+2014,per 100000 population,Akmola,rural,Female,KZAKM,11.47
+2014,per 100000 population,Aktobe,rural,Female,KZAKT,10.01
+2014,per 100000 population,Almaty,rural,Female,KZALM,6.94
+2014,per 100000 population,Atyrau,rural,Female,KZATY,5.33
+2014,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,6.35
+2014,per 100000 population,Zhambyl,rural,Female,KZZHA,8.95
+2014,per 100000 population,Zhetisu,rural,Female,KZZHS,11.42
+2014,per 100000 population,Karagandy,rural,Female,KZKAR,19.33
+2014,per 100000 population,Kostanay,rural,Female,KZKUS,9.35
 2014,per 100000 population,Kyzylorda,rural,Female,KZKZY,2.39
-2014,per 100000 population,Mangistau,rural,Female,KZMAN,4.42
-2014,per 100000 population,Ontustik Kazakhstan,rural,Female,KZONT,7.32
-2014,per 100000 population,Pavlodar,rural,Female,KZPAV,5.26
-2014,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,5.36
-2014,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,10.84
-2015,per 100000 population,,,,,16.52
-2015,per 100000 population,Akmola,,,KZAKM,33.9
-2015,per 100000 population,Aktobe,,,KZAKT,20.39
-2015,per 100000 population,Almaty,,,KZALM,17.37
+2014,per 100000 population,Mangistau,rural,Female,KZMAN,4.46
+2014,per 100000 population,Pavlodar,rural,Female,KZPAV,5.27
+2014,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,5.39
+2014,per 100000 population,Turkistan,rural,Female,KZYUZ,7.82
+2014,per 100000 population,Ulytau,rural,Female,KZULU,0.0
+2014,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,15.86
+2015,per 100000 population,,,,,16.66
+2015,per 100000 population,Abai,,,KZABY,13.42
+2015,per 100000 population,Akmola,,,KZAKM,34.09
+2015,per 100000 population,Aktobe,,,KZAKT,20.53
+2015,per 100000 population,Almaty,,,KZALM,15.4
 2015,per 100000 population,Atyrau,,,KZATY,18.37
-2015,per 100000 population,Batys Kazakhstan,,,KZZAP,19.1
-2015,per 100000 population,Zhambyl,,,KZZHA,12.76
-2015,per 100000 population,Karagandy,,,KZKAR,22.87
-2015,per 100000 population,Kostanay,,,KZKUS,36.82
-2015,per 100000 population,Kyzylorda,,,KZKZY,7.38
-2015,per 100000 population,Mangistau,,,KZMAN,8.11
-2015,per 100000 population,Ontustik Kazakhstan,,,KZONT,11.12
+2015,per 100000 population,Batys Kazakhstan,,,KZZAP,19.26
+2015,per 100000 population,Zhambyl,,,KZZHA,12.78
+2015,per 100000 population,Zhetisu,,,KZZHS,21.84
+2015,per 100000 population,Karagandy,,,KZKAR,22.85
+2015,per 100000 population,Kostanay,,,KZKUS,37.3
+2015,per 100000 population,Kyzylorda,,,KZKZY,7.52
+2015,per 100000 population,Mangistau,,,KZMAN,8.1
 2015,per 100000 population,Pavlodar,,,KZPAV,4.89
-2015,per 100000 population,Soltustik Kazakhstan,,,KZSEV,16.65
-2015,per 100000 population,Shygys Kazakhstan,,,KZVOS,26.72
-2015,per 100000 population,Astana city,,,KZNS,12.98
-2015,per 100000 population,Almaty city,,,KZALA,5.68
-2015,per 100000 population,,urban,,,13.49
-2015,per 100000 population,Akmola,urban,,KZAKM,30.06
-2015,per 100000 population,Aktobe,urban,,KZAKT,19.19
-2015,per 100000 population,Almaty,urban,,KZALM,14.94
-2015,per 100000 population,Atyrau,urban,,KZATY,13.27
-2015,per 100000 population,Batys Kazakhstan,urban,,KZZAP,15.24
+2015,per 100000 population,Soltustik Kazakhstan,,,KZSEV,16.67
+2015,per 100000 population,Turkistan,,,KZYUZ,13.97
+2015,per 100000 population,Ulytau,,,KZULU,23.93
+2015,per 100000 population,Shygys Kazakhstan,,,KZVOS,38.97
+2015,per 100000 population,Astana city,,,KZNS,13.0
+2015,per 100000 population,Almaty city,,,KZALA,5.73
+2015,per 100000 population,Shymkent city,,,KZSHY,5.5
+2015,per 100000 population,,urban,,,13.59
+2015,per 100000 population,Abai,urban,,KZABY,3.71
+2015,per 100000 population,Akmola,urban,,KZAKM,30.48
+2015,per 100000 population,Aktobe,urban,,KZAKT,18.14
+2015,per 100000 population,Almaty,urban,,KZALM,13.1
+2015,per 100000 population,Atyrau,urban,,KZATY,14.35
+2015,per 100000 population,Batys Kazakhstan,urban,,KZZAP,15.22
 2015,per 100000 population,Zhambyl,urban,,KZZHA,14.57
-2015,per 100000 population,Karagandy,urban,,KZKAR,21.79
-2015,per 100000 population,Kostanay,urban,,KZKUS,27.81
-2015,per 100000 population,Kyzylorda,urban,,KZKZY,8.5
-2015,per 100000 population,Mangistau,urban,,KZMAN,7.04
-2015,per 100000 population,Ontustik Kazakhstan,urban,,KZONT,6.89
+2015,per 100000 population,Zhetisu,urban,,KZZHS,16.66
+2015,per 100000 population,Karagandy,urban,,KZKAR,21.01
+2015,per 100000 population,Kostanay,urban,,KZKUS,27.84
+2015,per 100000 population,Kyzylorda,urban,,KZKZY,8.51
+2015,per 100000 population,Mangistau,urban,,KZMAN,6.68
 2015,per 100000 population,Pavlodar,urban,,KZPAV,3.19
-2015,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,12.19
-2015,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,19.36
-2015,per 100000 population,Astana city,urban,,KZNS,12.98
-2015,per 100000 population,Almaty city,urban,,KZALA,5.68
-2015,per 100000 population,,rural,,,20.48
-2015,per 100000 population,Akmola,rural,,KZAKM,37.32
-2015,per 100000 population,Aktobe,rural,,KZAKT,22.38
-2015,per 100000 population,Almaty,rural,,KZALM,18.14
-2015,per 100000 population,Atyrau,rural,,KZATY,22.97
-2015,per 100000 population,Batys Kazakhstan,rural,,KZZAP,22.91
-2015,per 100000 population,Zhambyl,rural,,KZZHA,11.54
-2015,per 100000 population,Karagandy,rural,,KZKAR,26.99
-2015,per 100000 population,Kostanay,rural,,KZKUS,46.79
-2015,per 100000 population,Kyzylorda,rural,,KZKZY,6.52
-2015,per 100000 population,Mangistau,rural,,KZMAN,8.93
-2015,per 100000 population,Ontustik Kazakhstan,rural,,KZONT,14.56
-2015,per 100000 population,Pavlodar,rural,,KZPAV,8.89
-2015,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,20.02
-2015,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,37.59
-2015,per 100000 population,,,Male,,27.87
-2015,per 100000 population,Akmola,,Male,KZAKM,57.3
-2015,per 100000 population,Aktobe,,Male,KZAKT,37.21
-2015,per 100000 population,Almaty,,Male,KZALM,27.2
+2015,per 100000 population,Soltustik Kazakhstan,urban,,KZSEV,12.14
+2015,per 100000 population,Turkistan,urban,,KZYUZ,10.73
+2015,per 100000 population,Ulytau,urban,,KZULU,26.37
+2015,per 100000 population,Shygys Kazakhstan,urban,,KZVOS,32.54
+2015,per 100000 population,Astana city,urban,,KZNS,13.0
+2015,per 100000 population,Almaty city,urban,,KZALA,5.73
+2015,per 100000 population,Shymkent city,urban,,KZSHY,5.5
+2015,per 100000 population,,rural,,,20.82
+2015,per 100000 population,Abai,rural,,KZABY,26.58
+2015,per 100000 population,Akmola,rural,,KZAKM,37.48
+2015,per 100000 population,Aktobe,rural,,KZAKT,25.74
+2015,per 100000 population,Almaty,rural,,KZALM,15.83
+2015,per 100000 population,Atyrau,rural,,KZATY,23.2
+2015,per 100000 population,Batys Kazakhstan,rural,,KZZAP,23.27
+2015,per 100000 population,Zhambyl,rural,,KZZHA,11.56
+2015,per 100000 population,Zhetisu,rural,,KZZHS,25.44
+2015,per 100000 population,Karagandy,rural,,KZKAR,30.0
+2015,per 100000 population,Kostanay,rural,,KZKUS,49.06
+2015,per 100000 population,Kyzylorda,rural,,KZKZY,6.75
+2015,per 100000 population,Mangistau,rural,,KZMAN,9.32
+2015,per 100000 population,Pavlodar,rural,,KZPAV,8.92
+2015,per 100000 population,Soltustik Kazakhstan,rural,,KZSEV,20.13
+2015,per 100000 population,Turkistan,rural,,KZYUZ,14.79
+2015,per 100000 population,Ulytau,rural,,KZULU,15.62
+2015,per 100000 population,Shygys Kazakhstan,rural,,KZVOS,49.28
+2015,per 100000 population,,,Male,,28.14
+2015,per 100000 population,Abai,,Male,KZABY,25.31
+2015,per 100000 population,Akmola,,Male,KZAKM,57.67
+2015,per 100000 population,Aktobe,,Male,KZAKT,37.49
+2015,per 100000 population,Almaty,,Male,KZALM,24.11
 2015,per 100000 population,Atyrau,,Male,KZATY,30.47
-2015,per 100000 population,Batys Kazakhstan,,Male,KZZAP,33.98
-2015,per 100000 population,Zhambyl,,Male,KZZHA,21.77
-2015,per 100000 population,Karagandy,,Male,KZKAR,39.17
-2015,per 100000 population,Kostanay,,Male,KZKUS,63.5
-2015,per 100000 population,Kyzylorda,,Male,KZKZY,12.65
-2015,per 100000 population,Mangistau,,Male,KZMAN,13.69
-2015,per 100000 population,Ontustik Kazakhstan,,Male,KZONT,17.3
+2015,per 100000 population,Batys Kazakhstan,,Male,KZZAP,34.32
+2015,per 100000 population,Zhambyl,,Male,KZZHA,21.79
+2015,per 100000 population,Zhetisu,,Male,KZZHS,34.53
+2015,per 100000 population,Karagandy,,Male,KZKAR,39.71
+2015,per 100000 population,Kostanay,,Male,KZKUS,64.51
+2015,per 100000 population,Kyzylorda,,Male,KZKZY,12.93
+2015,per 100000 population,Mangistau,,Male,KZMAN,13.68
 2015,per 100000 population,Pavlodar,,Male,KZPAV,7.28
-2015,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,27.2
-2015,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,46.8
-2015,per 100000 population,Astana city,,Male,KZNS,22.59
-2015,per 100000 population,Almaty city,,Male,KZALA,10.72
-2015,per 100000 population,,urban,Male,,23.09
-2015,per 100000 population,Akmola,urban,Male,KZAKM,51.31
-2015,per 100000 population,Aktobe,urban,Male,KZAKT,34.39
-2015,per 100000 population,Almaty,urban,Male,KZALM,23.28
-2015,per 100000 population,Atyrau,urban,Male,KZATY,22.49
-2015,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,26.75
-2015,per 100000 population,Zhambyl,urban,Male,KZZHA,25.56
-2015,per 100000 population,Karagandy,urban,Male,KZKAR,37.41
-2015,per 100000 population,Kostanay,urban,Male,KZKUS,49.91
-2015,per 100000 population,Kyzylorda,urban,Male,KZKZY,14.91
-2015,per 100000 population,Mangistau,urban,Male,KZMAN,11.83
-2015,per 100000 population,Ontustik Kazakhstan,urban,Male,KZONT,10.91
+2015,per 100000 population,Soltustik Kazakhstan,,Male,KZSEV,27.23
+2015,per 100000 population,Turkistan,,Male,KZYUZ,20.94
+2015,per 100000 population,Ulytau,,Male,KZULU,37.46
+2015,per 100000 population,Shygys Kazakhstan,,Male,KZVOS,67.23
+2015,per 100000 population,Astana city,,Male,KZNS,22.68
+2015,per 100000 population,Almaty city,,Male,KZALA,10.83
+2015,per 100000 population,Shymkent city,,Male,KZSHY,9.8
+2015,per 100000 population,,urban,Male,,23.22
+2015,per 100000 population,Abai,urban,Male,KZABY,7.93
+2015,per 100000 population,Akmola,urban,Male,KZAKM,51.86
+2015,per 100000 population,Aktobe,urban,Male,KZAKT,32.24
+2015,per 100000 population,Almaty,urban,Male,KZALM,21.04
+2015,per 100000 population,Atyrau,urban,Male,KZATY,24.01
+2015,per 100000 population,Batys Kazakhstan,urban,Male,KZZAP,26.71
+2015,per 100000 population,Zhambyl,urban,Male,KZZHA,25.57
+2015,per 100000 population,Zhetisu,urban,Male,KZZHS,25.71
+2015,per 100000 population,Karagandy,urban,Male,KZKAR,36.94
+2015,per 100000 population,Kostanay,urban,Male,KZKUS,49.54
+2015,per 100000 population,Kyzylorda,urban,Male,KZKZY,14.92
+2015,per 100000 population,Mangistau,urban,Male,KZMAN,11.53
 2015,per 100000 population,Pavlodar,urban,Male,KZPAV,4.08
-2015,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,19.73
-2015,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,32.61
-2015,per 100000 population,Astana city,urban,Male,KZNS,22.59
-2015,per 100000 population,Almaty city,urban,Male,KZALA,10.72
-2015,per 100000 population,,rural,Male,,33.75
-2015,per 100000 population,Akmola,rural,Male,KZAKM,62.36
-2015,per 100000 population,Aktobe,rural,Male,KZAKT,41.64
-2015,per 100000 population,Almaty,rural,Male,KZALM,28.4
-2015,per 100000 population,Atyrau,rural,Male,KZATY,37.31
-2015,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,40.54
-2015,per 100000 population,Zhambyl,rural,Male,KZZHA,19.35
-2015,per 100000 population,Karagandy,rural,Male,KZKAR,45.29
-2015,per 100000 population,Kostanay,rural,Male,KZKUS,77.6
-2015,per 100000 population,Kyzylorda,rural,Male,KZKZY,10.99
-2015,per 100000 population,Mangistau,rural,Male,KZMAN,15.16
-2015,per 100000 population,Ontustik Kazakhstan,rural,Male,KZONT,22.3
-2015,per 100000 population,Pavlodar,rural,Male,KZPAV,14.28
-2015,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,32.38
-2015,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,66.13
-2015,per 100000 population,,,Female,,5.9
-2015,per 100000 population,Akmola,,Female,KZAKM,12.02
+2015,per 100000 population,Soltustik Kazakhstan,urban,Male,KZSEV,19.63
+2015,per 100000 population,Turkistan,urban,Male,KZYUZ,13.77
+2015,per 100000 population,Ulytau,urban,Male,KZULU,39.68
+2015,per 100000 population,Shygys Kazakhstan,urban,Male,KZVOS,54.06
+2015,per 100000 population,Astana city,urban,Male,KZNS,22.68
+2015,per 100000 population,Almaty city,urban,Male,KZALA,10.83
+2015,per 100000 population,Shymkent city,urban,Male,KZSHY,9.8
+2015,per 100000 population,,rural,Male,,34.38
+2015,per 100000 population,Abai,rural,Male,KZABY,47.25
+2015,per 100000 population,Akmola,rural,Male,KZAKM,62.82
+2015,per 100000 population,Aktobe,rural,Male,KZAKT,48.37
+2015,per 100000 population,Almaty,rural,Male,KZALM,24.65
+2015,per 100000 population,Atyrau,rural,Male,KZATY,37.86
+2015,per 100000 population,Batys Kazakhstan,rural,Male,KZZAP,41.25
+2015,per 100000 population,Zhambyl,rural,Male,KZZHA,19.38
+2015,per 100000 population,Zhetisu,rural,Male,KZZHS,40.3
+2015,per 100000 population,Karagandy,rural,Male,KZKAR,49.61
+2015,per 100000 population,Kostanay,rural,Male,KZKUS,81.9
+2015,per 100000 population,Kyzylorda,rural,Male,KZKZY,11.46
+2015,per 100000 population,Mangistau,rural,Male,KZMAN,15.45
+2015,per 100000 population,Pavlodar,rural,Male,KZPAV,14.32
+2015,per 100000 population,Soltustik Kazakhstan,rural,Male,KZSEV,32.55
+2015,per 100000 population,Turkistan,rural,Male,KZYUZ,22.74
+2015,per 100000 population,Ulytau,rural,Male,KZULU,30.44
+2015,per 100000 population,Shygys Kazakhstan,rural,Male,KZVOS,86.58
+2015,per 100000 population,,,Female,,5.93
+2015,per 100000 population,Abai,,Female,KZABY,2.35
+2015,per 100000 population,Akmola,,Female,KZAKM,12.04
 2015,per 100000 population,Aktobe,,Female,KZAKT,4.67
-2015,per 100000 population,Almaty,,Female,KZALM,7.84
+2015,per 100000 population,Almaty,,Female,KZALM,6.96
 2015,per 100000 population,Atyrau,,Female,KZATY,6.69
 2015,per 100000 population,Batys Kazakhstan,,Female,KZZAP,5.19
 2015,per 100000 population,Zhambyl,,Female,KZZHA,4.09
-2015,per 100000 population,Karagandy,,Female,KZKAR,8.24
-2015,per 100000 population,Kostanay,,Female,KZKUS,12.89
+2015,per 100000 population,Zhetisu,,Female,KZZHS,9.55
+2015,per 100000 population,Karagandy,,Female,KZKAR,7.85
+2015,per 100000 population,Kostanay,,Female,KZKUS,12.9
 2015,per 100000 population,Kyzylorda,,Female,KZKZY,2.11
 2015,per 100000 population,Mangistau,,Female,KZMAN,2.58
-2015,per 100000 population,Ontustik Kazakhstan,,Female,KZONT,5.01
 2015,per 100000 population,Pavlodar,,Female,KZPAV,2.75
-2015,per 100000 population,Soltustik Kazakhstan,,Female,KZSEV,7.03
-2015,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,8.48
-2015,per 100000 population,Astana city,,Female,KZNS,4.03
+2015,per 100000 population,Soltustik Kazakhstan,,Female,KZSEV,7.04
+2015,per 100000 population,Turkistan,,Female,KZYUZ,6.87
+2015,per 100000 population,Ulytau,,Female,KZULU,11.19
+2015,per 100000 population,Shygys Kazakhstan,,Female,KZVOS,13.81
+2015,per 100000 population,Astana city,,Female,KZNS,4.0
 2015,per 100000 population,Almaty city,,Female,KZALA,1.43
-2015,per 100000 population,,urban,Female,,4.96
-2015,per 100000 population,Akmola,urban,Female,KZAKM,11.32
-2015,per 100000 population,Aktobe,urban,Female,KZAKT,5.52
-2015,per 100000 population,Almaty,urban,Female,KZALM,7.35
-2015,per 100000 population,Atyrau,urban,Female,KZATY,4.81
+2015,per 100000 population,Shymkent city,,Female,KZSHY,1.54
+2015,per 100000 population,,urban,Female,,5.05
+2015,per 100000 population,Abai,urban,Female,KZABY,0.0
+2015,per 100000 population,Akmola,urban,Female,KZAKM,11.59
+2015,per 100000 population,Aktobe,urban,Female,KZAKT,5.37
+2015,per 100000 population,Almaty,urban,Female,KZALM,5.8
+2015,per 100000 population,Atyrau,urban,Female,KZATY,5.4
 2015,per 100000 population,Batys Kazakhstan,urban,Female,KZZAP,5.32
 2015,per 100000 population,Zhambyl,urban,Female,KZZHA,4.68
-2015,per 100000 population,Karagandy,urban,Female,KZKAR,8.21
-2015,per 100000 population,Kostanay,urban,Female,KZKUS,9.15
+2015,per 100000 population,Zhetisu,urban,Female,KZZHS,8.46
+2015,per 100000 population,Karagandy,urban,Female,KZKAR,7.29
+2015,per 100000 population,Kostanay,urban,Female,KZKUS,9.45
 2015,per 100000 population,Kyzylorda,urban,Female,KZKZY,2.38
-2015,per 100000 population,Mangistau,urban,Female,KZMAN,2.23
-2015,per 100000 population,Ontustik Kazakhstan,urban,Female,KZONT,3.08
+2015,per 100000 population,Mangistau,urban,Female,KZMAN,2.06
 2015,per 100000 population,Pavlodar,urban,Female,KZPAV,2.44
-2015,per 100000 population,Soltustik Kazakhstan,urban,Female,KZSEV,5.94
-2015,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,8.03
-2015,per 100000 population,Astana city,urban,Female,KZNS,4.03
+2015,per 100000 population,Soltustik Kazakhstan,urban,Female,KZSEV,5.92
+2015,per 100000 population,Turkistan,urban,Female,KZYUZ,7.68
+2015,per 100000 population,Ulytau,urban,Female,KZULU,14.24
+2015,per 100000 population,Shygys Kazakhstan,urban,Female,KZVOS,14.53
+2015,per 100000 population,Astana city,urban,Female,KZNS,4.0
 2015,per 100000 population,Almaty city,urban,Female,KZALA,1.43
+2015,per 100000 population,Shymkent city,urban,Female,KZSHY,1.54
 2015,per 100000 population,,rural,Female,,7.21
-2015,per 100000 population,Akmola,rural,Female,KZAKM,12.68
-2015,per 100000 population,Aktobe,rural,Female,KZAKT,3.19
-2015,per 100000 population,Almaty,rural,Female,KZALM,8.0
-2015,per 100000 population,Atyrau,rural,Female,KZATY,8.46
-2015,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,5.05
-2015,per 100000 population,Zhambyl,rural,Female,KZZHA,3.66
-2015,per 100000 population,Karagandy,rural,Female,KZKAR,8.38
-2015,per 100000 population,Kostanay,rural,Female,KZKUS,17.29
+2015,per 100000 population,Abai,rural,Female,KZABY,5.77
+2015,per 100000 population,Akmola,rural,Female,KZAKM,12.49
+2015,per 100000 population,Aktobe,rural,Female,KZAKT,3.08
+2015,per 100000 population,Almaty,rural,Female,KZALM,7.19
+2015,per 100000 population,Atyrau,rural,Female,KZATY,8.3
+2015,per 100000 population,Batys Kazakhstan,rural,Female,KZZAP,5.06
+2015,per 100000 population,Zhambyl,rural,Female,KZZHA,3.67
+2015,per 100000 population,Zhetisu,rural,Female,KZZHS,10.35
+2015,per 100000 population,Karagandy,rural,Female,KZKAR,10.19
+2015,per 100000 population,Kostanay,rural,Female,KZKUS,17.45
 2015,per 100000 population,Kyzylorda,rural,Female,KZKZY,1.89
-2015,per 100000 population,Mangistau,rural,Female,KZMAN,2.85
-2015,per 100000 population,Ontustik Kazakhstan,rural,Female,KZONT,6.65
-2015,per 100000 population,Pavlodar,rural,Female,KZPAV,3.54
-2015,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,7.92
-2015,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,9.2
+2015,per 100000 population,Mangistau,rural,Female,KZMAN,3.04
+2015,per 100000 population,Pavlodar,rural,Female,KZPAV,3.55
+2015,per 100000 population,Soltustik Kazakhstan,rural,Female,KZSEV,7.97
+2015,per 100000 population,Turkistan,rural,Female,KZYUZ,6.66
+2015,per 100000 population,Ulytau,rural,Female,KZULU,0.0
+2015,per 100000 population,Shygys Kazakhstan,rural,Female,KZVOS,12.57
 2016,per 100000 population,,,,,14.47
 2016,per 100000 population,Akmola,,,KZAKM,27.18
 2016,per 100000 population,Aktobe,,,KZAKT,17.73
