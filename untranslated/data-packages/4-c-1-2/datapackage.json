@@ -23,7 +23,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "32.8",
                 "KZAKM",
                 "KZAKT",
                 "KZALM",
@@ -41,14 +40,9 @@
                 "KZNS",
                 "KZALA",
                 "KZSHY",
-                "41.0",
-                "55.9",
-                "60.7",
                 "KZABY",
                 "KZZHS",
                 "KZULU",
-                "64.5",
-                "71.5",
                 ""
               ]
             }

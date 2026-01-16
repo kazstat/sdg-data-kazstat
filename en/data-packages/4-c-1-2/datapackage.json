@@ -25,7 +25,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "32.8",
                 "Akmola",
                 "Aktobe",
                 "Almaty",
@@ -43,14 +42,9 @@
                 "Astana city",
                 "Almaty city",
                 "Shymkent city",
-                "41.0",
-                "55.9",
-                "60.7",
                 "Abai",
                 "Zhetisu",
                 "Ulytau",
-                "64.5",
-                "71.5",
                 ""
               ]
             },
