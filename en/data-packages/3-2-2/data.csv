@@ -1078,153 +1078,186 @@ Year,UNIT_MEASURE,Sex,Regions,Area,GeoCode,Value
 2015,per 1000 births,Female,Turkistan,rural,KZYUZ,5.05
 2015,per 1000 births,Female,Ulytau,rural,KZULU,0.0
 2015,per 1000 births,Female,Shygys Kazakhstan,rural,KZVOS,3.8
-2016,per 1000 births,Boys and Girls,,,,5.156054245883392
-2016,per 1000 births,Boys and Girls,Akmola,,KZAKM,3.921254801536492
-2016,per 1000 births,Boys and Girls,Aktobe,,KZAKT,5.513683039101624
-2016,per 1000 births,Boys and Girls,Almaty,,KZALM,4.5799426032944135
-2016,per 1000 births,Boys and Girls,Atyrau,,KZATY,4.84160191273162
-2016,per 1000 births,Boys and Girls,Batys Kazakhstan,,KZZAP,5.157766990291263
-2016,per 1000 births,Boys and Girls,Zhambyl,,KZZHA,4.6584403115109705
-2016,per 1000 births,Boys and Girls,Karagandy,,KZKAR,5.093945720250522
-2016,per 1000 births,Boys and Girls,Kostanay,,KZKUS,5.370219690805533
-2016,per 1000 births,Boys and Girls,Kyzylorda,,KZKZY,6.076028250934773
-2016,per 1000 births,Boys and Girls,Mangistau,,KZMAN,5.607759927250682
-2016,per 1000 births,Boys and Girls,Ontustik Kazakhstan,,KZONT,5.929581614614024
-2016,per 1000 births,Boys and Girls,Pavlodar,,KZPAV,4.360580353603425
-2016,per 1000 births,Boys and Girls,Soltustik Kazakhstan,,KZSEV,5.328827657915259
-2016,per 1000 births,Boys and Girls,Shygys Kazakhstan,,KZVOS,5.846932542106641
-2016,per 1000 births,Boys and Girls,Astana city,,KZNS,3.627222122463638
-2016,per 1000 births,Boys and Girls,Almaty city,,KZALA,5.20439061317184
-2016,per 1000 births,Boys and Girls,,urban,,5.314911788134819
-2016,per 1000 births,Boys and Girls,Akmola,urban,KZAKM,4.4596402556860415
-2016,per 1000 births,Boys and Girls,Aktobe,urban,KZAKT,6.0938452163315056
-2016,per 1000 births,Boys and Girls,Almaty,urban,KZALM,5.400683027559368
-2016,per 1000 births,Boys and Girls,Atyrau,urban,KZATY,4.617871161394597
-2016,per 1000 births,Boys and Girls,Batys Kazakhstan,urban,KZZAP,5.250403877221325
-2016,per 1000 births,Boys and Girls,Zhambyl,urban,KZZHA,7.250221043324492
-2016,per 1000 births,Boys and Girls,Karagandy,urban,KZKAR,5.29485049833887
-2016,per 1000 births,Boys and Girls,Kostanay,urban,KZKUS,5.27065527065527
-2016,per 1000 births,Boys and Girls,Kyzylorda,urban,KZKZY,8.443386014288807
-2016,per 1000 births,Boys and Girls,Mangistau,urban,KZMAN,5.70515746234596
-2016,per 1000 births,Boys and Girls,Ontustik Kazakhstan,urban,KZONT,5.333402040605998
-2016,per 1000 births,Boys and Girls,Pavlodar,urban,KZPAV,4.202635165833712
-2016,per 1000 births,Boys and Girls,Soltustik Kazakhstan,urban,KZSEV,4.235044997353097
-2016,per 1000 births,Boys and Girls,Shygys Kazakhstan,urban,KZVOS,6.0725982532751095
-2016,per 1000 births,Boys and Girls,Astana city,urban,KZNS,3.627222122463638
-2016,per 1000 births,Boys and Girls,Almaty city,urban,KZALA,5.20439061317184
-2016,per 1000 births,Boys and Girls,,rural,,4.942589917116569
-2016,per 1000 births,Boys and Girls,Akmola,rural,KZAKM,3.29346507193621
-2016,per 1000 births,Boys and Girls,Aktobe,rural,KZAKT,4.366812227074235
-2016,per 1000 births,Boys and Girls,Almaty,rural,KZALM,4.310007052738814
-2016,per 1000 births,Boys and Girls,Atyrau,rural,KZATY,5.081804660386712
-2016,per 1000 births,Boys and Girls,Batys Kazakhstan,rural,KZZAP,5.038220986796386
-2016,per 1000 births,Boys and Girls,Zhambyl,rural,KZZHA,2.914758194039617
-2016,per 1000 births,Boys and Girls,Karagandy,rural,KZKAR,4.268032437046522
-2016,per 1000 births,Boys and Girls,Kostanay,rural,KZKUS,5.502846299810247
-2016,per 1000 births,Boys and Girls,Kyzylorda,rural,KZKZY,3.8929926132960673
-2016,per 1000 births,Boys and Girls,Mangistau,rural,KZMAN,5.530371713508613
-2016,per 1000 births,Boys and Girls,Ontustik Kazakhstan,rural,KZONT,6.47218835006097
-2016,per 1000 births,Boys and Girls,Pavlodar,rural,KZPAV,4.725649776844317
-2016,per 1000 births,Boys and Girls,Soltustik Kazakhstan,rural,KZSEV,6.384065372829418
-2016,per 1000 births,Boys and Girls,Shygys Kazakhstan,rural,KZVOS,5.446623093681917
-2016,per 1000 births,Male,,,,5.87290020895364
-2016,per 1000 births,Male,Akmola,,KZAKM,3.873566780291292
-2016,per 1000 births,Male,Aktobe,,KZAKT,6.380681260429959
-2016,per 1000 births,Male,Almaty,,KZALM,5.096647538508004
-2016,per 1000 births,Male,Atyrau,,KZATY,4.753623188405797
-2016,per 1000 births,Male,Batys Kazakhstan,,KZZAP,6.783085582335113
-2016,per 1000 births,Male,Zhambyl,,KZZHA,5.569867019424912
-2016,per 1000 births,Male,Karagandy,,KZKAR,5.945593744909595
-2016,per 1000 births,Male,Kostanay,,KZKUS,5.322479649342517
-2016,per 1000 births,Male,Kyzylorda,,KZKZY,6.7547432204231646
-2016,per 1000 births,Male,Mangistau,,KZMAN,6.55192646195971
-2016,per 1000 births,Male,Ontustik Kazakhstan,,KZONT,6.930928079753145
-2016,per 1000 births,Male,Pavlodar,,KZPAV,4.422754308372731
-2016,per 1000 births,Male,Soltustik Kazakhstan,,KZSEV,6.329113924050633
-2016,per 1000 births,Male,Shygys Kazakhstan,,KZVOS,7.204490240428918
-2016,per 1000 births,Male,Astana city,,KZNS,4.055660443325642
-2016,per 1000 births,Male,Almaty city,,KZALA,5.629321422015542
-2016,per 1000 births,Male,,urban,,6.048353129475191
-2016,per 1000 births,Male,Akmola,urban,KZAKM,4.319032536711776
-2016,per 1000 births,Male,Aktobe,urban,KZAKT,7.204822820173504
-2016,per 1000 births,Male,Almaty,urban,KZALM,6.713457430576747
-2016,per 1000 births,Male,Atyrau,urban,KZATY,4.239178937974119
-2016,per 1000 births,Male,Batys Kazakhstan,urban,KZZAP,6.664957703153037
-2016,per 1000 births,Male,Zhambyl,urban,KZZHA,8.832698302736405
-2016,per 1000 births,Male,Karagandy,urban,KZKAR,6.199186991869919
-2016,per 1000 births,Male,Kostanay,urban,KZKUS,4.994450610432853
-2016,per 1000 births,Male,Kyzylorda,urban,KZKZY,9.872480460715757
-2016,per 1000 births,Male,Mangistau,urban,KZMAN,7.587592055344789
-2016,per 1000 births,Male,Ontustik Kazakhstan,urban,KZONT,6.016907011437096
-2016,per 1000 births,Male,Pavlodar,urban,KZPAV,3.8944180008654254
-2016,per 1000 births,Male,Soltustik Kazakhstan,urban,KZSEV,4.624871531346352
-2016,per 1000 births,Male,Shygys Kazakhstan,urban,KZVOS,7.221638655462185
-2016,per 1000 births,Male,Astana city,urban,KZNS,4.055660443325642
-2016,per 1000 births,Male,Almaty city,urban,KZALA,5.629321422015542
-2016,per 1000 births,Male,,rural,,5.637589958537164
-2016,per 1000 births,Male,Akmola,rural,KZAKM,3.3545790003354576
-2016,per 1000 births,Male,Aktobe,rural,KZAKT,4.725339633786178
-2016,per 1000 births,Male,Almaty,rural,KZALM,4.56506471355473
-2016,per 1000 births,Male,Atyrau,rural,KZATY,5.310161718561429
-2016,per 1000 births,Male,Batys Kazakhstan,rural,KZZAP,6.935270805812417
-2016,per 1000 births,Male,Zhambyl,rural,KZZHA,3.3764116893701246
-2016,per 1000 births,Male,Karagandy,rural,KZKAR,4.9220672682526665
-2016,per 1000 births,Male,Kostanay,rural,KZKUS,5.747126436781609
-2016,per 1000 births,Male,Kyzylorda,rural,KZKZY,3.8424591738712777
-2016,per 1000 births,Male,Mangistau,rural,KZMAN,5.744125326370757
-2016,per 1000 births,Male,Ontustik Kazakhstan,rural,KZONT,7.76566757493188
-2016,per 1000 births,Male,Pavlodar,rural,KZPAV,5.684754521963824
-2016,per 1000 births,Male,Soltustik Kazakhstan,rural,KZSEV,7.984031936127744
-2016,per 1000 births,Male,Shygys Kazakhstan,rural,KZVOS,7.174265216385097
-2016,per 1000 births,Female,,,,4.388254570452419
-2016,per 1000 births,Female,Akmola,,KZAKM,3.972194637537239
-2016,per 1000 births,Female,Aktobe,,KZAKT,4.59194322688374
-2016,per 1000 births,Female,Almaty,,KZALM,4.018699253670138
-2016,per 1000 births,Female,Atyrau,,KZATY,4.9352251696483656
-2016,per 1000 births,Female,Batys Kazakhstan,,KZZAP,3.357314148681055
-2016,per 1000 births,Female,Zhambyl,,KZZHA,3.706934147405146
-2016,per 1000 births,Female,Karagandy,,KZKAR,4.198080877313228
-2016,per 1000 births,Female,Kostanay,,KZKUS,5.421890884445951
-2016,per 1000 births,Female,Kyzylorda,,KZKZY,5.3324627271737945
-2016,per 1000 births,Female,Mangistau,,KZMAN,4.59866220735786
-2016,per 1000 births,Female,Ontustik Kazakhstan,,KZONT,4.856837715506281
-2016,per 1000 births,Female,Pavlodar,,KZPAV,4.29326287978864
-2016,per 1000 births,Female,Soltustik Kazakhstan,,KZSEV,4.273504273504274
-2016,per 1000 births,Female,Shygys Kazakhstan,,KZVOS,4.371186595027775
-2016,per 1000 births,Female,Astana city,,KZNS,3.1748375664500883
-2016,per 1000 births,Female,Almaty city,,KZALA,4.752294772475751
-2016,per 1000 births,Female,,urban,,4.530674376919682
-2016,per 1000 births,Female,Akmola,urban,KZAKM,4.609711124769515
-2016,per 1000 births,Female,Aktobe,urban,KZAKT,4.899636478583846
-2016,per 1000 births,Female,Almaty,urban,KZALM,3.975484512174921
-2016,per 1000 births,Female,Atyrau,urban,KZATY,5.023923444976076
-2016,per 1000 births,Female,Batys Kazakhstan,urban,KZZAP,3.685851998865892
-2016,per 1000 births,Female,Zhambyl,urban,KZZHA,5.59971098265896
-2016,per 1000 births,Female,Karagandy,urban,KZKAR,4.350594227504245
-2016,per 1000 births,Female,Kostanay,urban,KZKUS,5.562060889929742
-2016,per 1000 births,Female,Kyzylorda,urban,KZKZY,6.855575868372943
-2016,per 1000 births,Female,Mangistau,urban,KZMAN,3.7356992762082655
-2016,per 1000 births,Female,Ontustik Kazakhstan,urban,KZONT,4.598438669660999
-2016,per 1000 births,Female,Pavlodar,urban,KZPAV,4.543280726924916
-2016,per 1000 births,Female,Soltustik Kazakhstan,urban,KZSEV,3.820960698689956
-2016,per 1000 births,Female,Shygys Kazakhstan,urban,KZVOS,4.829545454545454
-2016,per 1000 births,Female,Astana city,urban,KZNS,3.1748375664500883
-2016,per 1000 births,Female,Almaty city,urban,KZALA,4.752294772475751
-2016,per 1000 births,Female,,rural,,4.19648271679806
-2016,per 1000 births,Female,Akmola,rural,KZAKM,3.2281205164992826
-2016,per 1000 births,Female,Aktobe,rural,KZAKT,3.993855606758832
-2016,per 1000 births,Female,Almaty,rural,KZALM,4.032917325194833
-2016,per 1000 births,Female,Atyrau,rural,KZATY,4.840764331210191
-2016,per 1000 births,Female,Batys Kazakhstan,rural,KZZAP,2.932551319648094
-2016,per 1000 births,Female,Zhambyl,rural,KZZHA,2.4324981756263684
-2016,per 1000 births,Female,Karagandy,rural,KZKAR,3.558718861209964
-2016,per 1000 births,Female,Kostanay,rural,KZKUS,5.229283990345937
-2016,per 1000 births,Female,Kyzylorda,rural,KZKZY,3.947641803448992
-2016,per 1000 births,Female,Mangistau,rural,KZMAN,5.298013245033113
-2016,per 1000 births,Female,Ontustik Kazakhstan,rural,KZONT,5.091155934833204
-2016,per 1000 births,Female,Pavlodar,rural,KZPAV,3.735325506937033
-2016,per 1000 births,Female,Soltustik Kazakhstan,rural,KZSEV,4.7071129707112975
-2016,per 1000 births,Female,Shygys Kazakhstan,rural,KZVOS,3.552397868561279
+2016,per 1000 births,Boys and Girls,,,,5.17
+2016,per 1000 births,Boys and Girls,Abai,,KZABY,6.1
+2016,per 1000 births,Boys and Girls,Akmola,,KZAKM,3.92
+2016,per 1000 births,Boys and Girls,Aktobe,,KZAKT,5.56
+2016,per 1000 births,Boys and Girls,Almaty,,KZALM,4.67
+2016,per 1000 births,Boys and Girls,Atyrau,,KZATY,4.9
+2016,per 1000 births,Boys and Girls,Batys Kazakhstan,,KZZAP,5.16
+2016,per 1000 births,Boys and Girls,Zhambyl,,KZZHA,4.65
+2016,per 1000 births,Boys and Girls,Zhetisu,,KZZHS,4.54
+2016,per 1000 births,Boys and Girls,Karagandy,,KZKAR,5.19
+2016,per 1000 births,Boys and Girls,Kostanay,,KZKUS,5.37
+2016,per 1000 births,Boys and Girls,Kyzylorda,,KZKZY,6.13
+2016,per 1000 births,Boys and Girls,Mangistau,,KZMAN,5.65
+2016,per 1000 births,Boys and Girls,Pavlodar,,KZPAV,4.36
+2016,per 1000 births,Boys and Girls,Soltustik Kazakhstan,,KZSEV,5.33
+2016,per 1000 births,Boys and Girls,Turkistan,,KZYUZ,6.49
+2016,per 1000 births,Boys and Girls,Ulytau,,KZULU,4.91
+2016,per 1000 births,Boys and Girls,Shygys Kazakhstan,,KZVOS,5.54
+2016,per 1000 births,Boys and Girls,Astana city,,KZNS,3.63
+2016,per 1000 births,Boys and Girls,Almaty city,,KZALA,5.23
+2016,per 1000 births,Boys and Girls,Shymkent city,,KZSHY,4.68
+2016,per 1000 births,Boys and Girls,,urban,,5.29
+2016,per 1000 births,Boys and Girls,KZBY,urban,KZBY,7.13
+2016,per 1000 births,Boys and Girls,Akmola,urban,KZAKM,4.47
+2016,per 1000 births,Boys and Girls,Aktobe,urban,KZAKT,5.85
+2016,per 1000 births,Boys and Girls,Almaty,urban,KZALM,4.4
+2016,per 1000 births,Boys and Girls,Atyrau,urban,KZATY,4.32
+2016,per 1000 births,Boys and Girls,Batys Kazakhstan,urban,KZZAP,5.25
+2016,per 1000 births,Boys and Girls,Zhambyl,urban,KZZHA,7.25
+2016,per 1000 births,Boys and Girls,Zhetisu,urban,KZZHS,6.36
+2016,per 1000 births,Boys and Girls,Karagandy,urban,KZKAR,5.36
+2016,per 1000 births,Boys and Girls,Kostanay,urban,KZKUS,4.98
+2016,per 1000 births,Boys and Girls,Kyzylorda,urban,KZKZY,8.55
+2016,per 1000 births,Boys and Girls,Mangistau,urban,KZMAN,5.7
+2016,per 1000 births,Boys and Girls,Pavlodar,urban,KZPAV,4.2
+2016,per 1000 births,Boys and Girls,Soltustik Kazakhstan,urban,KZSEV,4.22
+2016,per 1000 births,Boys and Girls,Turkistan,urban,KZYUZ,6.53
+2016,per 1000 births,Boys and Girls,Ulytau,urban,KZULU,5.27
+2016,per 1000 births,Boys and Girls,Shygys Kazakhstan,urban,KZVOS,4.96
+2016,per 1000 births,Boys and Girls,Astana city,urban,KZNS,3.63
+2016,per 1000 births,Boys and Girls,Almaty city,urban,KZALA,5.23
+2016,per 1000 births,Boys and Girls,Shymkent city,urban,KZSHY,4.68
+2016,per 1000 births,Boys and Girls,,rural,,5.01
+2016,per 1000 births,Boys and Girls,Abai,rural,KZABY,4.42
+2016,per 1000 births,Boys and Girls,Akmola,rural,KZAKM,3.24
+2016,per 1000 births,Boys and Girls,Aktobe,rural,KZAKT,4.74
+2016,per 1000 births,Boys and Girls,Almaty,rural,KZALM,4.73
+2016,per 1000 births,Boys and Girls,Atyrau,rural,KZATY,5.76
+2016,per 1000 births,Boys and Girls,Batys Kazakhstan,rural,KZZAP,5.04
+2016,per 1000 births,Boys and Girls,Zhambyl,rural,KZZHA,2.91
+2016,per 1000 births,Boys and Girls,Zhetisu,rural,KZZHS,3.05
+2016,per 1000 births,Boys and Girls,Karagandy,rural,KZKAR,4.47
+2016,per 1000 births,Boys and Girls,Kostanay,rural,KZKUS,5.96
+2016,per 1000 births,Boys and Girls,Kyzylorda,rural,KZKZY,3.89
+2016,per 1000 births,Boys and Girls,Mangistau,rural,KZMAN,5.62
+2016,per 1000 births,Boys and Girls,Pavlodar,rural,KZPAV,4.72
+2016,per 1000 births,Boys and Girls,Soltustik Kazakhstan,rural,KZSEV,6.4
+2016,per 1000 births,Boys and Girls,Turkistan,rural,KZYUZ,6.47
+2016,per 1000 births,Boys and Girls,Ulytau,rural,KZULU,3.38
+2016,per 1000 births,Boys and Girls,Shygys Kazakhstan,rural,KZVOS,6.67
+2016,per 1000 births,Male,,,,5.91
+2016,per 1000 births,Male,Abai,,KZABY,0.87
+2016,per 1000 births,Male,Akmola,,KZAKM,3.87
+2016,per 1000 births,Male,Aktobe,,KZAKT,6.48
+2016,per 1000 births,Male,Almaty,,KZALM,5.18
+2016,per 1000 births,Male,Atyrau,,KZATY,4.87
+2016,per 1000 births,Male,Batys Kazakhstan,,KZZAP,6.78
+2016,per 1000 births,Male,Zhambyl,,KZZHA,5.57
+2016,per 1000 births,Male,Zhetisu,,KZZHS,5.25
+2016,per 1000 births,Male,Karagandy,,KZKAR,6.34
+2016,per 1000 births,Male,Kostanay,,KZKUS,5.32
+2016,per 1000 births,Male,Kyzylorda,,KZKZY,6.75
+2016,per 1000 births,Male,Mangistau,,KZMAN,6.64
+2016,per 1000 births,Male,Pavlodar,,KZPAV,4.42
+2016,per 1000 births,Male,Soltustik Kazakhstan,,KZSEV,6.33
+2016,per 1000 births,Male,Turkistan,,KZYUZ,7.54
+2016,per 1000 births,Male,Ulytau,,KZULU,4.68
+2016,per 1000 births,Male,Shygys Kazakhstan,,KZVOS,7.31
+2016,per 1000 births,Male,Astana city,,KZNS,4.05
+2016,per 1000 births,Male,Almaty city,,KZALA,5.68
+2016,per 1000 births,Male,Shymkent city,,KZSHY,5.58
+2016,per 1000 births,Male,,urban,,6.3
+2016,per 1000 births,Male,Abai,urban,KZABY,8.32
+2016,per 1000 births,Male,Akmola,urban,KZAKM,4.19
+2016,per 1000 births,Male,Aktobe,urban,KZAKT,6.97
+2016,per 1000 births,Male,Almaty,urban,KZALM,5.7
+2016,per 1000 births,Male,Atyrau,urban,KZATY,4.06
+2016,per 1000 births,Male,Batys Kazakhstan,urban,KZZAP,6.66
+2016,per 1000 births,Male,Zhambyl,urban,KZZHA,8.83
+2016,per 1000 births,Male,Zhetisu,urban,KZZHS,7.83
+2016,per 1000 births,Male,Karagandy,urban,KZKAR,6.43
+2016,per 1000 births,Male,Kostanay,urban,KZKUS,4.71
+2016,per 1000 births,Male,Kyzylorda,urban,KZKZY,9.87
+2016,per 1000 births,Male,Mangistau,urban,KZMAN,7.57
+2016,per 1000 births,Male,Pavlodar,urban,KZPAV,3.89
+2016,per 1000 births,Male,Soltustik Kazakhstan,urban,KZSEV,4.62
+2016,per 1000 births,Male,Soltustik Kazakhstan,urban,KZSEV,6.81
+2016,per 1000 births,Male,Ulytau,urban,KZULU,5.75
+2016,per 1000 births,Male,Shygys Kazakhstan,urban,KZVOS,6.08
+2016,per 1000 births,Male,Astana city,urban,KZNS,4.05
+2016,per 1000 births,Male,Almaty city,urban,KZALA,5.68
+2016,per 1000 births,Male,Shymkent city,urban,KZSHY,5.58
+2016,per 1000 births,Male,,rural,,5.74
+2016,per 1000 births,Male,Abai,rural,KZABY,5.08
+2016,per 1000 births,Male,Akmola,rural,KZAKM,3.47
+2016,per 1000 births,Male,Aktobe,rural,KZAKT,5.03
+2016,per 1000 births,Male,Almaty,rural,KZALM,5.08
+2016,per 1000 births,Male,Atyrau,rural,KZATY,6.09
+2016,per 1000 births,Male,Batys Kazakhstan,rural,KZZAP,6.93
+2016,per 1000 births,Male,Zhambyl,rural,KZZHA,3.37
+2016,per 1000 births,Male,Zhetisu,rural,KZZHS,3.16
+2016,per 1000 births,Male,Karagandy,rural,KZKAR,5.99
+2016,per 1000 births,Male,Kostanay,rural,KZKUS,6.23
+2016,per 1000 births,Male,Kyzylorda,rural,KZKZY,3.84
+2016,per 1000 births,Male,Mangistau,rural,KZMAN,5.92
+2016,per 1000 births,Male,Pavlodar,rural,KZPAV,5.68
+2016,per 1000 births,Male,Soltustik Kazakhstan,rural,KZSEV,8.0
+2016,per 1000 births,Male,Turkistan,rural,KZYUZ,7.76
+2016,per 1000 births,Male,Ulytau,rural,KZULU,0.0
+2016,per 1000 births,Male,Shygys Kazakhstan,rural,KZVOS,9.67
+2016,per 1000 births,Female,,,,4.39
+2016,per 1000 births,Female,Abai,,KZABY,5.04
+2016,per 1000 births,Female,Akmola,,KZAKM,3.97
+2016,per 1000 births,Female,Aktobe,,KZAKT,4.59
+2016,per 1000 births,Female,Almaty,,KZALM,4.12
+2016,per 1000 births,Female,Atyrau,,KZATY,4.93
+2016,per 1000 births,Female,Batys Kazakhstan,,KZZAP,3.36
+2016,per 1000 births,Female,Zhambyl,,KZZHA,3.7
+2016,per 1000 births,Female,Zhetisu,,KZZHS,3.77
+2016,per 1000 births,Female,Karagandy,,KZKAR,3.96
+2016,per 1000 births,Female,Kostanay,,KZKUS,5.42
+2016,per 1000 births,Female,Kyzylorda,,KZKZY,5.44
+2016,per 1000 births,Female,Mangistau,,KZMAN,4.59
+2016,per 1000 births,Female,Pavlodar,,KZPAV,4.29
+2016,per 1000 births,Female,Soltustik Kazakhstan,,KZSEV,4.27
+2016,per 1000 births,Female,Turkistan,,KZYUZ,5.37
+2016,per 1000 births,Female,Ulytau,,KZULU,5.14
+2016,per 1000 births,Female,Shygys Kazakhstan,,KZVOS,3.62
+2016,per 1000 births,Female,Astana city,,KZNS,3.17
+2016,per 1000 births,Female,Almaty city,,KZALA,4.75
+2016,per 1000 births,Female,Shymkent city,,KZSHY,3.7
+2016,per 1000 births,Female,,urban,,4.5
+2016,per 1000 births,Female,Abai,urban,KZABY,5.86
+2016,per 1000 births,Female,Akmola,urban,KZAKM,4.76
+2016,per 1000 births,Female,Aktobe,urban,KZAKT,4.65
+2016,per 1000 births,Female,Almaty,urban,KZALM,2.96
+2016,per 1000 births,Female,Atyrau,urban,KZATY,4.6
+2016,per 1000 births,Female,Batys Kazakhstan,urban,KZZAP,3.68
+2016,per 1000 births,Female,Zhambyl,urban,KZZHA,5.59
+2016,per 1000 births,Female,Zhetisu,urban,KZZHS,4.8
+2016,per 1000 births,Female,Karagandy,urban,KZKAR,4.24
+2016,per 1000 births,Female,Kostanay,urban,KZKUS,5.27
+2016,per 1000 births,Female,Kyzylorda,urban,KZKZY,7.08
+2016,per 1000 births,Female,Mangistau,urban,KZMAN,3.73
+2016,per 1000 births,Female,Pavlodar,urban,KZPAV,4.54
+2016,per 1000 births,Female,Soltustik Kazakhstan,urban,KZSEV,3.8
+2016,per 1000 births,Female,Turkistan,urban,KZYUZ,6.24
+2016,per 1000 births,Female,Ulytau,urban,KZULU,4.78
+2016,per 1000 births,Female,Shygys Kazakhstan,urban,KZVOS,3.75
+2016,per 1000 births,Female,Astana city,urban,KZNS,3.17
+2016,per 1000 births,Female,Almaty city,urban,KZALA,4.75
+2016,per 1000 births,Female,Shymkent city,urban,KZSHY,3.7
+2016,per 1000 births,Female,,rural,,4.23
+2016,per 1000 births,Female,Abai,rural,KZABY,3.69
+2016,per 1000 births,Female,Akmola,rural,KZAKM,3.98
+2016,per 1000 births,Female,Aktobe,rural,KZAKT,4.43
+2016,per 1000 births,Female,Almaty,rural,KZALM,4.34
+2016,per 1000 births,Female,Atyrau,rural,KZATY,5.42
+2016,per 1000 births,Female,Batys Kazakhstan,rural,KZZAP,2.93
+2016,per 1000 births,Female,Zhambyl,rural,KZZHA,2.43
+2016,per 1000 births,Female,Zhetisu,rural,KZZHS,2.94
+2016,per 1000 births,Female,Karagandy,rural,KZKAR,2.78
+2016,per 1000 births,Female,Kostanay,rural,KZKUS,5.65
+2016,per 1000 births,Female,Kyzylorda,rural,KZKZY,3.95
+2016,per 1000 births,Female,Mangistau,rural,KZMAN,5.3
+2016,per 1000 births,Female,Pavlodar,rural,KZPAV,3.73
+2016,per 1000 births,Female,Soltustik Kazakhstan,rural,KZSEV,4.72
+2016,per 1000 births,Female,Turkistan,rural,KZYUZ,5.09
+2016,per 1000 births,Female,Ulytau,rural,KZULU,6.67
+2016,per 1000 births,Female,Shygys Kazakhstan,rural,KZVOS,3.36
 2017,per 1000 births,Boys and Girls,,,,4.63
 2017,per 1000 births,Boys and Girls,Abai,,KZABY,3.95
 2017,per 1000 births,Boys and Girls,Akmola,,KZAKM,3.82
