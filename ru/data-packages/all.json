@@ -1516,6 +1516,11 @@
             "title": "Год"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
