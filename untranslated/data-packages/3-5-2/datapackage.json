@@ -12,7 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2019,2019,2019],"UNIT_MEASURE":["LTPUREAL","LTPUREAL","LTPUREAL"],"SEX":[null,"M","F"],"ACTIVITY":["_T","_T","_T"],"Value":[4.52,8.06,1.43]},"edges":{"From":["ACTIVITY"],"To":["SEX"]}}

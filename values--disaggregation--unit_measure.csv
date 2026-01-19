@@ -1,6 +1,7 @@
 Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
 INDEX,Индекс,Индекс,Index,1,1
 ISCED11_1,ISCED11_1,ISCED11_1,ISCED11_1,3,1
+LTPUREAL,в литрах чистого спирта,литр таза алкогольде,litres pure alcohol,3,1
 M_METER3,млн.м3,млн.метр куб,M_METER3,18,1
 M_T,млн.тонн,млн.тонна,millions tonnes,73,1
 M_TNG,млн.тенге,млн.теңге,million tenge,1,1

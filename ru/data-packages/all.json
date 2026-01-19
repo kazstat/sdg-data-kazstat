@@ -6482,8 +6482,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "мужчины",
+                "женщины",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "всего",
+                ""
+              ]
+            },
+            "title": "Вид экономической деятельности"
           },
           {
             "name": "Value",

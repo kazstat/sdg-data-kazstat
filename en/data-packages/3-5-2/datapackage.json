@@ -12,8 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "No breakdown",
+                ""
+              ]
+            },
+            "title": "Type of economic activity"
           },
           {
             "name": "Value",

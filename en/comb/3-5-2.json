@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2019,2019,2019],"UNIT_MEASURE":["litres pure alcohol","litres pure alcohol","litres pure alcohol"],"Sex":[null,"Male","Female"],"Type of economic activity":["No breakdown","No breakdown","No breakdown"],"Value":[4.52,8.06,1.43]},"edges":{"From":["Type of economic activity"],"To":["Sex"]}}
