@@ -25,23 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Boys and Girls",
                 "Male",
                 "Female",
                 ""
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "No breakdown",
-                ""
-              ]
-            },
-            "title": "Type of economic activity"
           },
           {
             "name": "Value",

@@ -25,23 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ұлдар және қыздар",
                 "ерлер",
                 "әйелдер",
                 ""
               ]
             },
             "title": "Жынысы"
-          },
-          {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "барлығы",
-                ""
-              ]
-            },
-            "title": "Экономикалық қызмет түрлері"
           },
           {
             "name": "Value",

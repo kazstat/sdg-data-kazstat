@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Sex,Type of economic activity,Value
-2019,litres pure alcohol,,No breakdown,4.52
-2019,litres pure alcohol,Male,No breakdown,8.06
-2019,litres pure alcohol,Female,No breakdown,1.43
+Year,UNIT_MEASURE,Sex,Value
+2019,litres pure alcohol,Boys and Girls,4.52
+2019,litres pure alcohol,Male,8.06
+2019,litres pure alcohol,Female,1.43
