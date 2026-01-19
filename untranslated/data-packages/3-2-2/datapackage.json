@@ -55,6 +55,7 @@
                 "KZNS",
                 "KZALA",
                 "KZSHY",
+                "KZZHAS",
                 "KZONT",
                 ""
               ]
@@ -67,6 +68,7 @@
               "enum": [
                 "U",
                 "R",
+                "4.76",
                 ""
               ]
             }

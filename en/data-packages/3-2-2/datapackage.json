@@ -58,6 +58,7 @@
                 "Astana city",
                 "Almaty city",
                 "Shymkent city",
+                "KZZHAS",
                 "Ontustik Kazakhstan",
                 ""
               ]
@@ -71,6 +72,7 @@
               "enum": [
                 "urban",
                 "rural",
+                "4.76",
                 ""
               ]
             },
