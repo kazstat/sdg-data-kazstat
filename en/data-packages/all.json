@@ -3168,7 +3168,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -3184,6 +3184,7 @@
                 "Boys and Girls",
                 "Male",
                 "Female",
+                "U",
                 ""
               ]
             },
@@ -3196,6 +3197,7 @@
               "enum": [
                 "urban",
                 "rural",
+                "KZSHY",
                 ""
               ]
             },
@@ -3227,6 +3229,7 @@
                 "Almaty city",
                 "Shymkent city",
                 "Ontustik Kazakhstan",
+                "7.94",
                 ""
               ]
             },
