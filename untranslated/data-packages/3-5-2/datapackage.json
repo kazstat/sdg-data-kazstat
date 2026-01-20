@@ -23,7 +23,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "BOTHSEX",
                 "M",
                 "F",
                 ""

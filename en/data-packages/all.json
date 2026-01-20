@@ -6495,7 +6495,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Boys and Girls",
+                "Both sexes",
                 "Male",
                 "Female",
                 ""
