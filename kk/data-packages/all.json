@@ -4931,8 +4931,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Жыл"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "кешенді құқықтық база және қоғамдық өмір",
+                "әйелдерге қатысты зорлық-зомбылық",
+                "жұмыспен қамту және экономикалық пайда",
+                "неке және отбасы",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

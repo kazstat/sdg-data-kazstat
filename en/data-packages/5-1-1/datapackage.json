@@ -12,8 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "overarching legal frameworks and public life",
+                "violence against women",
+                "employment and economic benefits",
+                "marriage and family",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
