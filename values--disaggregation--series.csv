@@ -23,9 +23,9 @@ _L_KZ_040101_1A,i) грамотности в разбивке по полу,i) �
 _L_KZ_040101_1D,"навыков счета, в разбивке по полу (PISA)",жынысы бойынша бөлінісінде есептеу машығына ие (PISA),math skills (based on gender and PISA),25,1
 _L_KZ_040101_1E,"навыков счета, в разбивке по полу (TIMSS 4 класс)",жынысы бойынша бөлінісінде есептеу машығына ие (TIMSS 4 сынып),math skills (based on gender and TIMSS 4th grade),3,1
 _L_KZ_040101_1F,"навыков счета, в разбивке по полу (TIMSS 8 класс)",жынысы бойынша бөлінісінде есептеу машығына ие (TIMSS 8 сынып),math skills (based on gender and TIMSS 8th grade),3,1
-_L_KZ_040a01_1A,наличие теплых и надворных туалетов,_L_KZ_040a01_1A,_L_KZ_040a01_1A,18,1
-_L_KZ_040a01_1B,наличие только надворных туалетов,_L_KZ_040a01_1B,_L_KZ_040a01_1B,18,1
-_L_KZ_040a01_1C,наличие только теплых туалетов,_L_KZ_040a01_1C,_L_KZ_040a01_1C,18,1
+_L_KZ_040a01_1A,наличие теплых и надворных туалетов,_L_KZ_040a01_1A,_L_KZ_040a01_1A,21,1
+_L_KZ_040a01_1B,наличие только надворных туалетов,_L_KZ_040a01_1B,_L_KZ_040a01_1B,21,1
+_L_KZ_040a01_1C,наличие только теплых туалетов,_L_KZ_040a01_1C,_L_KZ_040a01_1C,21,1
 _L_KZ_050201_1A,в течение жизни,өмір бойы,During lifetime,6,1
 _L_KZ_050201_1B,в последние 12 месяцев,соңғы 12 айда,In the last 12 months,6,1
 _L_KZ_090102_1 I,_L_KZ_090102_1 I,_L_KZ_090102_1 I,_L_KZ_090102_1 I,1,1
@@ -82,8 +82,8 @@ AG_LND_FRSTMGT,"Доля площади лесов, в отношении кот
 AG_LND_FRSTPRCT,"Доля лесной площади, находящейся в охраняемых законом зонах",AG_LND_FRSTPRCT,Proportion of forest area within legally established protected areas [15.2.1],18,1
 SD_XPD_ESED,Образование,SD_XPD_ESED,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",1,1
 SE_ACS_H2O,базовыми источниками питьевой воды,базалық ауыз су көздерімен,sources of drinking water,1,1
-SE_ACS_INTNT,доступом к Интернету для учебных целей,Оқу мақсаттары үшін Интернетке қол жетімділікпен,access to the internet for education purposes,51,1
-SE_ACS_SANIT,раздельными минимально оборудованными туалетами,ең қарапайым деңгейде бөлек дәретханалармен,separate restrooms which meet minimum standards,17,1
+SE_ACS_INTNT,доступом к Интернету для учебных целей,Оқу мақсаттары үшін Интернетке қол жетімділікпен,access to the internet for education purposes,61,1
+SE_ACS_SANIT,раздельными минимально оборудованными туалетами,ең қарапайым деңгейде бөлек дәретханалармен,separate restrooms which meet minimum standards,22,1
 SE_TOT_PRFL,"Доля детей/молодежи, достигших, по меньшей мере, минимального уровня",SE_TOT_PRFL,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],3,1
 SG_GEN_LOCG,местные органы власти (Маслихат),жергілікті билік органдарында (Мәслихаттар),Local Representative Bodies (Maslikhats),1,1
 SG_GEN_PARL,национальный парламент (Мажилис),ұлттық парламенттерде (Мәжіліс),National Parliament (Mazhilis),1,1
