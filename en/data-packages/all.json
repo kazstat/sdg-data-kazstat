@@ -3629,7 +3629,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -3644,6 +3644,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "R",
                 ""
               ]
             },
@@ -3656,6 +3657,7 @@
               "enum": [
                 "urban",
                 "rural",
+                "_L_KZ_010101_1C",
                 ""
               ]
             },
@@ -3689,6 +3691,11 @@
                 "Almaty city",
                 "Turkistan",
                 "Shymkent city",
+                "Abai",
+                "Zhetisu",
+                "Ulytau",
+                "city Kostanay",
+                "0.2",
                 ""
               ]
             },

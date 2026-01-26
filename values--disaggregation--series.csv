@@ -1,7 +1,8 @@
 Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
-_L_KZ_010101_1A,"1,9 долларов США по ППС в  день","Күніне САҚП бойынша 1,9 АҚШ доллары",1.9 US dollars per day (based on PPP),33,1
-_L_KZ_010101_1B,"3,2 долларов США по ППС в  день","Күніне САҚП бойынша 3,2 АҚШ доллары",3.2 US dollars per day (based on PPP),55,1
-_L_KZ_010101_1C,"5,5 долларов США по ППС в  день","Күніне САҚП бойынша 5,5 АҚШ доллары",5.5 US dollars per day (based on PPP),56,1
+_L_KZ_010101_1A,"1,9 долларов США по ППС в  день","Күніне САҚП бойынша 1,9 АҚШ доллары",1.9 US dollars per day (based on PPP),28,1
+_L_KZ_010101_1B,"3,2 долларов США по ППС в  день","Күніне САҚП бойынша 3,2 АҚШ доллары",3.2 US dollars per day (based on PPP),60,1
+_L_KZ_010101_1C,"5,5 долларов США по ППС в  день","Күніне САҚП бойынша 5,5 АҚШ доллары",5.5 US dollars per day (based on PPP),65,1
+_L_KZ_010101_1D,_L_KZ_010101_1D,_L_KZ_010101_1D,_L_KZ_010101_1D,62,1
 _L_KZ_010301_1A,Численность получателей адресной социальной помощи,Мемлекеттік атаулы әлеуметтік көмек алушылардың саны,Number of Beneficiaries: (low-income individuals and households),1,1
 _L_KZ_010301_1B,государственная базовая пенсионная выплата,_L_KZ_010301_1B,_L_KZ_010301_1B,1,1
 _L_KZ_010301_1C,пенсионные выплаты по возрасту и за выслугу лет,_L_KZ_010301_1C,_L_KZ_010301_1C,1,1
@@ -80,6 +81,7 @@ _L_KZ_DD_SDD,сильная степень отклонения от нормы,
 AG_LND_FRSTBIOM,Запасы наземной биомассы в лесах,AG_LND_FRSTBIOM,Above-ground biomass in forest (tonnes) [15.2.1],18,1
 AG_LND_FRSTMGT,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",AG_LND_FRSTMGT,Proportion of forest area with a long-term management plan [15.2.1],15,1
 AG_LND_FRSTPRCT,"Доля лесной площади, находящейся в охраняемых законом зонах",AG_LND_FRSTPRCT,Proportion of forest area within legally established protected areas [15.2.1],18,1
+KZKAR,KZKAR,KZKAR,KZKAR,1,1
 SD_XPD_ESED,Образование,SD_XPD_ESED,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",1,1
 SE_ACS_H2O,базовыми источниками питьевой воды,базалық ауыз су көздерімен,sources of drinking water,1,1
 SE_ACS_INTNT,доступом к Интернету для учебных целей,Оқу мақсаттары үшін Интернетке қол жетімділікпен,access to the internet for education purposes,61,1

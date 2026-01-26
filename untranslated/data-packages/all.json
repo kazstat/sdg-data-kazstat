@@ -3302,7 +3302,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3315,6 +3315,7 @@
               "enum": [
                 "M",
                 "F",
+                "R",
                 ""
               ]
             }
@@ -3326,6 +3327,7 @@
               "enum": [
                 "U",
                 "R",
+                "_L_KZ_010101_1C",
                 ""
               ]
             }
@@ -3357,6 +3359,11 @@
                 "KZALA",
                 "KZYUZ",
                 "KZSHY",
+                "KZABY",
+                "KZZHS",
+                "KZULU",
+                "KZKOS",
+                "0.2",
                 ""
               ]
             }
