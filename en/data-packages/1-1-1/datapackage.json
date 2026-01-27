@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -27,7 +27,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "R",
                 ""
               ]
             },
@@ -40,7 +39,6 @@
               "enum": [
                 "urban",
                 "rural",
-                "_L_KZ_010101_1C",
                 ""
               ]
             },
@@ -78,7 +76,6 @@
                 "Zhetisu",
                 "Ulytau",
                 "city Kostanay",
-                "0.2",
                 ""
               ]
             },

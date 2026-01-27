@@ -1107,7 +1107,7 @@ Year,UNIT_MEASURE,Sex,Area,SERIES,Regions,GeoCode,Value
 2022,Percent,,rural,5.5 US dollars per day (based on PPP),Batys Kazakhstan,KZZAP,0.3
 2022,Percent,,rural,5.5 US dollars per day (based on PPP),Zhambyl,KZZHA,0.6
 2022,Percent,,rural,5.5 US dollars per day (based on PPP),Zhetisu,KZZHS,0.7
-2022[PT,,R,_L_KZ_010101_1C,KZKAR,0.2,0.2,
+2022,Percent,,rural,5.5 US dollars per day (based on PPP),Karagandy,KZKAR,0.2
 2022,Percent,,rural,5.5 US dollars per day (based on PPP),Kostanay,KZKUS,0.9
 2022,Percent,,rural,5.5 US dollars per day (based on PPP),Kyzylorda,KZKZY,0.6
 2022,Percent,,rural,5.5 US dollars per day (based on PPP),Mangistau,KZMAN,0.1
