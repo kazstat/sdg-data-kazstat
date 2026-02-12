@@ -19,3 +19,8 @@ source_data_1: sources.1-2-1-source_data_1
 source_implementation_1: sources.1-2-1-source_implementation_1
 un_custodian_agency: World Bank (WB)
 un_designated_tier: '1'
+indicator_downloads:
+  - button_label: Скачать метаданные (PDF)
+    source_pattern: data/metadata-pdf/indicator_1-2-1.pdf
+    output_folder: data-metadata-pdf
+    indicator_id_pattern: indicator_(.*)
