@@ -97,3 +97,9 @@ inputs:
 
 logging:
   - warn
+
+indicator_downloads:
+  - button_label: Metadata
+    source_pattern: data/metadata-pdf/indicator_*.pdf
+    output_folder: data-metadata-pdf
+    indicator_id_pattern: indicator_(.*)
