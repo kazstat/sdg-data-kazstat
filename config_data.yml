@@ -99,17 +99,17 @@ logging:
   - warn
 
 indicator_downloads:
-  - button_label: Metadata
+  - button_label: Download metadata
     source_pattern: data/metadata-pdf/en/indicator_*.pdf
     output_folder: data-metadata-pdf-en
     indicator_id_pattern: indicator_(.*)
 
-  - button_label: Metadata
+  - button_label: Скачать метаданные
     source_pattern: data/metadata-pdf/ru/indicator_*.pdf
     output_folder: data-metadata-pdf-ru
     indicator_id_pattern: indicator_(.*)
 
-  - button_label: Metadata
+  - button_label: Метадеректерді жүктеу
     source_pattern: data/metadata-pdf/kk/indicator_*.pdf
     output_folder: data-metadata-pdf-kk
     indicator_id_pattern: indicator_(.*)
