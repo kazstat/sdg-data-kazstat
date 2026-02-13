@@ -99,17 +99,25 @@ logging:
   - warn
 
 indicator_downloads:
-  - button_label: Download metadata
-    source_pattern: data/metadata-pdf/en/indicator_*.pdf
+  - button_label:
+  en: Metadata
+  ru: Метаданные
+  kk: Метадеректерsource_pattern: data/metadata-pdf/en/indicator_*.pdf
     output_folder: data-metadata-pdf-en
     indicator_id_pattern: indicator_(.*)
 
-  - button_label: Скачать метаданные
+  - button_label:
+  en: Metadata
+  ru: Метаданные
+  kk: Метадеректер
     source_pattern: data/metadata-pdf/ru/indicator_*.pdf
     output_folder: data-metadata-pdf-ru
     indicator_id_pattern: indicator_(.*)
 
-  - button_label: Метадеректерді жүктеу
+  - button_label:
+  en: Metadata
+  ru: Метаданные
+  kk: Метадеректер
     source_pattern: data/metadata-pdf/kk/indicator_*.pdf
     output_folder: data-metadata-pdf-kk
     indicator_id_pattern: indicator_(.*)
