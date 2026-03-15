@@ -6933,7 +6933,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
@@ -6947,7 +6947,6 @@
                 "_T",
                 "M",
                 "F",
-                "U",
                 ""
               ]
             }
@@ -6959,7 +6958,6 @@
               "enum": [
                 "U",
                 "R",
-                "KZSHY",
                 ""
               ]
             }
@@ -6990,7 +6988,6 @@
                 "KZALA",
                 "KZSHY",
                 "KZONT",
-                "7.94",
                 ""
               ]
             }

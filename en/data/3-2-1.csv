@@ -1959,7 +1959,7 @@ Year,UNIT_MEASURE,Sex,Area,Regions,GeoCode,Value
 2020,per 1000 births,Female,urban,Shygys Kazakhstan,KZVOS,9.89
 2020,per 1000 births,Female,urban,Astana city,KZNS,5.36
 2020,per 1000 births,Female,urban,Almaty city,KZALA,7.39
-2020PER_1000_LIVE_BIRTHS,F,U,KZSHY,7.94,7.94,
+2020,per 1000 births,Female,urban,Shymkent city,KZSHY,7.94
 2020,per 1000 births,Female,rural,,,7.68
 2020,per 1000 births,Female,rural,Abai,KZABY,8.28
 2020,per 1000 births,Female,rural,Akmola,KZAKM,8.13
