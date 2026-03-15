@@ -23,6 +23,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
                 "ISIC4_A",
                 "_L_ACT_IND",
                 "ISIC4_S",

@@ -6316,6 +6316,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "No breakdown",
                 "agriculture, forestry and fishery",
                 "Industry",
                 "provision of other types of services",
