@@ -25,7 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Акмолинская",
+                "-1.3",
                 ""
               ]
             },

@@ -4037,7 +4037,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KZAKM",
+                "-1.3",
                 ""
               ]
             }

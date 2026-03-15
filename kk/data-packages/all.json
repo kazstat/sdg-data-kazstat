@@ -4421,7 +4421,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ақмола",
+                "-1.3",
                 ""
               ]
             },
