@@ -96,3 +96,76 @@ Year,UNIT_MEASURE,Mother's education,Area,Regions,GeoCode,Value
 2015,Percent,secondary (high school),,Soltustik Kazakhstan,KZSEV,1.0
 2015,Percent,secondary (high school),,Astana city,KZNS,1.18
 2015,Percent,secondary (high school),,Almaty city,KZALA,1.0
+2024,,Elementary education/ High education (incomplete),,,,1.0
+2024,,secondary (high school),,,,1.0
+2024,,High Education (Incomplete),,,,1.0
+2024,,High Education (General),,,,1.02
+2024,Percent,Elementary education/ High education (incomplete),,,,1.0
+2024,Percent,Elementary education/ High education (incomplete),urban,,,1.0
+2024,Percent,Elementary education/ High education (incomplete),rural,,,1.1
+2024,Percent,Elementary education/ High education (incomplete),,Abai,KZABY,0.95
+2024,Percent,Elementary education/ High education (incomplete),,Akmola,KZAKM,1.09
+2024,Percent,Elementary education/ High education (incomplete),,Aktobe,KZAKT,1.02
+2024,Percent,Elementary education/ High education (incomplete),,Almaty,KZALM,1.09
+2024,Percent,Elementary education/ High education (incomplete),,Atyrau,KZATY,0.96
+2024,Percent,Elementary education/ High education (incomplete),,Batys Kazakhstan,KZZAP,1.04
+2024,Percent,Elementary education/ High education (incomplete),,Zhambyl,KZZHA,0.96
+2024,Percent,Elementary education/ High education (incomplete),,Zhetisu,KZZHS,1.01
+2024,Percent,Elementary education/ High education (incomplete),,Karagandy,KZKAR,1.02
+2024,Percent,Elementary education/ High education (incomplete),,Kostanay,KZKUS,0.97
+2024,Percent,Elementary education/ High education (incomplete),,Kyzylorda,KZKZY,1.02
+2024,Percent,Elementary education/ High education (incomplete),,Mangistau,KZMAN,1.02
+2024,Percent,Elementary education/ High education (incomplete),,Ontustik Kazakhstan,KZONT,1.01
+2024,Percent,Elementary education/ High education (incomplete),,Pavlodar,KZPAV,0.98
+2024,Percent,Elementary education/ High education (incomplete),,Soltustik Kazakhstan,KZSEV,1.06
+2024,Percent,Elementary education/ High education (incomplete),,Shygys Kazakhstan,KZVOS,1.0
+2024,Percent,Elementary education/ High education (incomplete),,Ulytau,KZULU,0.99
+2024,Percent,Elementary education/ High education (incomplete),,Astana city,KZNS,0.99
+2024,Percent,Elementary education/ High education (incomplete),,Almaty city,KZALA,0.98
+2024,Percent,Elementary education/ High education (incomplete),,Shymkent city,KZSHY,0.98
+2024,Percent,High Education (Incomplete),,,,1.0
+2024,Percent,High Education (Incomplete),urban,,,1.02
+2024,Percent,High Education (Incomplete),rural,,,0.99
+2024,Percent,High Education (Incomplete),,Akmola,KZAKM,0.99
+2024,Percent,High Education (Incomplete),,Akmola,KZAKM,0.99
+2024,Percent,High Education (Incomplete),,Aktobe,KZAKT,0.96
+2024,Percent,High Education (Incomplete),,Almaty,KZALM,1.02
+2024,Percent,High Education (Incomplete),,Atyrau,KZATY,1.0
+2024,Percent,High Education (Incomplete),,Batys Kazakhstan,KZZAP,1.03
+2024,Percent,High Education (Incomplete),,Zhambyl,KZZHA,1.01
+2024,Percent,High Education (Incomplete),,Zhetisu,KZZHS,1.02
+2024,Percent,High Education (Incomplete),,Karagandy,KZKAR,1.02
+2024,Percent,High Education (Incomplete),,Kostanay,KZKUS,0.94
+2024,Percent,High Education (Incomplete),,Kyzylorda,KZKZY,1.01
+2024,Percent,High Education (Incomplete),,Mangistau,KZMAN,1.05
+2024,Percent,High Education (Incomplete),,Ontustik Kazakhstan,KZONT,1.04
+2024,Percent,High Education (Incomplete),,Pavlodar,KZPAV,1.0
+2024,Percent,High Education (Incomplete),,Soltustik Kazakhstan,KZSEV,1.07
+2024,Percent,High Education (Incomplete),,Shygys Kazakhstan,KZVOS,0.9
+2024,Percent,High Education (Incomplete),,Ulytau,KZULU,1.03
+2024,Percent,High Education (Incomplete),,Astana city,KZNS,0.94
+2024,Percent,High Education (Incomplete),,Almaty city,KZALA,1.09
+2024,Percent,High Education (Incomplete),,Shymkent city,KZSHY,1.01
+2024,Percent,secondary (high school),,,,1.02
+2024,Percent,secondary (high school),urban,,,1.01
+2024,Percent,secondary (high school),rural,,,1.02
+2024,Percent,secondary (high school),,Abai,KZABY,1.0
+2024,Percent,secondary (high school),,Akmola,KZAKM,1.08
+2024,Percent,secondary (high school),,Aktobe,KZAKT,0.0
+2024,Percent,secondary (high school),,Almaty,KZALM,0.98
+2024,Percent,secondary (high school),,Atyrau,KZATY,1.08
+2024,Percent,secondary (high school),,Batys Kazakhstan,KZZAP,1.01
+2024,Percent,secondary (high school),,Zhambyl,KZZHA,1.0
+2024,Percent,secondary (high school),,Zhetisu,KZZHS,1.02
+2024,Percent,secondary (high school),,Karagandy,KZKAR,1.02
+2024,Percent,secondary (high school),,Kostanay,KZKUS,1.03
+2024,Percent,secondary (high school),,Kyzylorda,KZKZY,0.97
+2024,Percent,secondary (high school),,Mangistau,KZMAN,1.0
+2024,Percent,secondary (high school),,Ontustik Kazakhstan,KZONT,1.08
+2024,Percent,secondary (high school),,Pavlodar,KZPAV,1.03
+2024,Percent,secondary (high school),,Soltustik Kazakhstan,KZSEV,1.0
+2024,Percent,secondary (high school),,Shygys Kazakhstan,KZVOS,1.05
+2024,Percent,secondary (high school),,Ulytau,KZULU,1.0
+2024,Percent,secondary (high school),,Astana city,KZNS,0.97
+2024,Percent,secondary (high school),,Almaty city,KZALA,1.02
+2024,Percent,secondary (high school),,Shymkent city,KZSHY,0.98
