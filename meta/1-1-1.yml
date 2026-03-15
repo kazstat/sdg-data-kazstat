@@ -15,8 +15,3 @@ source_implementation_1: sources.1-1-1-source_implementation_1
 source_url_text_1: Link to source
 un_custodian_agency: World Bank
 un_designated_tier: '1'
-indicator_downloads:
-  - button_label: Metadata
-    source_pattern: data/metadata-pdf/indicator_1-1-1.pdf
-    output_folder: data-metadata-pdf
-    indicator_id_pattern: indicator_(.*)
