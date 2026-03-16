@@ -1188,7 +1188,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2022,mln.people,Railway transport,,,20.1
 2022,mln.people,Automobile,,,1374.0
 2022,mln.people,Inland water еransport,,,0.1
-2022,mln.people,_L_KZ_090102_1 I,,,0.09
+2022,mln.people,nautical,,,0.09
 2022,mln.people,Air,,,11.5
 2022,mln.people,City electric transport,,,80.3
 2022,mln.people,,Abai,KZABY,43.8
@@ -1335,7 +1335,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2023,mln.people,Railway transport,,,20.5
 2023,mln.people,Automobile,,,1489.4
 2023,mln.people,Inland water еransport,,,0.1
-2023,mln.people,_L_KZ_090102_1 I,,,0.04
+2023,mln.people,nautical,,,0.04
 2023,mln.people,Air,,,13.3
 2023,mln.people,City electric transport,,,83.9
 2023,mln.people,,Abai,KZABY,57.5
@@ -1482,7 +1482,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2024,mln.people,Railway transport,,,20.8
 2024,mln.people,Automobile,,,1610.8
 2024,mln.people,Inland water еransport,,,0.2
-2024,mln.people,_L_KZ_090102_1 I,,,0.1
+2024,mln.people,nautical,,,0.1
 2024,mln.people,Air,,,14.7
 2024,mln.people,City electric transport,,,80.4
 2024,mln.people,,Abai,KZABY,63.6
