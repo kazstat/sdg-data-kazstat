@@ -21,11 +21,6 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
