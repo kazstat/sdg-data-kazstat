@@ -9871,7 +9871,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
