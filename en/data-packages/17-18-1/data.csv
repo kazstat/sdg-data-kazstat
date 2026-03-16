@@ -1,1 +1,9 @@
-Year,Value
+Year,UNIT_MEASURE,SERIES,Value
+2020,score,SPI,48
+2020,score,ODIN,54
+2021,score,SPI,67
+2021,score,ODIN,0
+2022,score,SPI,67
+2022,score,ODIN,51
+2024,score,SPI,0
+2024,score,ODIN,44

@@ -1,1 +1,9 @@
-Year,Value
+Year,Value,SERIES,UNIT_MEASURE
+2020,48,SPI,балл
+2020,54,ODIN,балл
+2021,67,SPI,балл
+2021,0,ODIN,балл
+2022,67,SPI,балл
+2022,51,ODIN,балл
+2024,0,SPI,балл
+2024,44,ODIN,балл
