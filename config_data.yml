@@ -100,16 +100,19 @@ logging:
 
 indicator_downloads:
   - button_label: Download metadata
+    language: en
     source_pattern: data/metadata-pdf/en/indicator_*.pdf
     output_folder: data-metadata-pdf-en
     indicator_id_pattern: indicator_(.*)
 
   - button_label: Скачать метаданные
+    language: ru
     source_pattern: data/metadata-pdf/ru/indicator_*.pdf
     output_folder: data-metadata-pdf-ru
     indicator_id_pattern: indicator_(.*)
 
   - button_label: Метадеректерді жүктеу
+    language: kk
     source_pattern: data/metadata-pdf/kk/indicator_*.pdf
     output_folder: data-metadata-pdf-kk
     indicator_id_pattern: indicator_(.*)
