@@ -69,6 +69,12 @@ SG_LGL_GENEQEMP,занятость и экономические выгоды,ж
 SG_LGL_GENEQLFP,всеобъемлющая правовая база и общественная жизнь,кешенді құқықтық база және қоғамдық өмір,overarching legal frameworks and public life,1,1
 SG_LGL_GENEQMAR,брак и семья,неке және отбасы,marriage and family,1,1
 SG_LGL_GENEQVAW,насилие в отношении женщин,әйелдерге қатысты зорлық-зомбылық,violence against women,1,1
+SI_COV_BENFTS,"Доля населения, получающего хотя бы одно пособие по социальной защите",Әлеуметтік қорғау бойынша кем дегенде бір жәрдемақы алатын халықтың үлесі,Proportion of population covered by at least one social protection benefit,1,1
+SI_COV_CHLD,"Доля детей/домохозяйств, получающих денежные пособия на детей/семьи",Балаларға/отбасыларға арналған ақшалай жәрдемақы алатын балалардың/үй шаруашылықтарының үлесі,Proportion of children/households receiving child/family cash benefit,1,1
+SI_COV_DISAB,"Доля населения с тяжелыми формами инвалидности, получающего денежное пособие по инвалидности",Ауыр мүгедектік түрлері бар халықтың мүгедектік бойынша ақшалай жәрдемақы алатын үлесі,Proportion of population with severe disabilities receiving disability cash benefit,1,1
+SI_COV_MATNL,"Доля матерей с новорожденными, получающих денежное пособие по беременности и родам",Жаңа туған баласы бар аналардың жүктілік және босану бойынша ақшалай жәрдемақы алатын үлесі,Proportion of mothers with newborns receiving maternity cash benefit,1,1
+SI_COV_PENSN,"Доля населения старше установленного законом пенсионного возраста, получающего пенсию",Заңмен белгіленген зейнет жасыынан асқан халықтың зейнетақы алатын үлесі,Proportion of population above statutory pensionable age receiving a pension,1,1
+SI_COV_WKINJRY,"Доля занятого населения, застрахованного в случае производственной травмы",Өндірістік жарақат жағдайында сақтандырылған жұмыспен қамтылған халықтың үлесі,Proportion of employed population covered in the event of work injury,1,1
 SKILL_ICTATCH,"Отправка элекронной почты с вложенными файлами (документ, фотография, видео)",SKILL_ICTATCH,ICT Skill: Sending e-mails with attached files,42,1
 SKILL_ICTCDV,"Подключение и установка новых устройств (принтер, модем и другие)","Жаңа құрылғыларды қосу және орнату (принтер, модем және басқалар)","Connecting and installing new devices (printer, modem, and others)",42,1
 SKILL_ICTCMFL,Копирование или перенос файла или папки,Файлды немесе папканы көшіру немесе жіберу,Copying or transferring a file or folder,42,1

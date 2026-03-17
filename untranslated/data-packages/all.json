@@ -2837,8 +2837,19 @@
             "type": "string"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_COV_CHLD",
+                "SI_COV_DISAB",
+                "SI_COV_MATNL",
+                "SI_COV_PENSN",
+                "SI_COV_WKINJRY",
+                "SI_COV_BENFTS",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

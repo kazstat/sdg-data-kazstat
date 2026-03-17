@@ -3,9 +3,6 @@ _L_KZ_010101_1A,"1,9 долларов США по ППС в  день","Күні
 _L_KZ_010101_1B,"3,2 долларов США по ППС в  день","Күніне САҚП бойынша 3,2 АҚШ доллары",3.2 US dollars per day (based on PPP),60,1
 _L_KZ_010101_1C,"5,5 долларов США по ППС в  день","Күніне САҚП бойынша 5,5 АҚШ доллары",5.5 US dollars per day (based on PPP),65,1
 _L_KZ_010101_1D,"6,85 доллара США по ППС в  день","Күніне САҚП бойынша 6,85 АҚШ доллары",6.85 US dollars per day (based on PPP),62,1
-_L_KZ_010301_1A,Численность получателей адресной социальной помощи,Мемлекеттік атаулы әлеуметтік көмек алушылардың саны,Number of Beneficiaries: (low-income individuals and households),1,1
-_L_KZ_010301_1B,государственная базовая пенсионная выплата,_L_KZ_010301_1B,_L_KZ_010301_1B,1,1
-_L_KZ_010301_1C,пенсионные выплаты по возрасту и за выслугу лет,_L_KZ_010301_1C,_L_KZ_010301_1C,1,1
 _L_KZ_010502_1A,природного характера,_L_KZ_010502_1A,_L_KZ_010502_1A,21,1
 _L_KZ_010502_1B,техногенного характера,_L_KZ_010502_1B,_L_KZ_010502_1B,21,1
 _L_KZ_010a02_1A,"Культура, спорт, туризм и информационное пространство",_L_KZ_010a02_1A,_L_KZ_010a02_1A,1,1
@@ -103,8 +100,6 @@ SG_REG_CENSUSN,а) Казахстан провел хотя бы одну пер
 SG_REG_DETH75N,b) регистрация смерти в 80 процентах случаев,SG_REG_DETH75N,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2],1,1
 SG_XPD_HLTH,Здравоохранение,SG_XPD_HLTH,"Proportion of total government spending on essential services, health [1.a.2]",1,1
 SG_XPD_PROT,Социальная помощь и социальное обеспечение,SG_XPD_PROT,"Proportion of total government spending on essential services, social protection [1.a.2]",1,1
-SI_COV_MATNL,Численность получателей пособий на рождение ребенка и по уходу за ребенком до 1 года,босану және бала 1 жасқа толғанға дейін оның күтімі бойынша жәрдемақы,Number of Beneficiaries: (social benefits related to newborns and child care of infants less than 1 year old),1,1
-SI_COV_UEMP,"Численность населения, охваченного социальными выплатами по причине потери работы",Жұмыстан айырылу себептерінен әлеуметтік төлемдермен қамтылған халықтың саны,Number of Beneficiaries: (unemployment benefits),1,1
 SL_EMP_FTLINJUR,Уровень производственного травматизма со смертельным исходом,Өлімге әкелетін өндірістік жарақаттың деңгейі,Fatal occupational injuries,1,1
 SL_EMP_INJUR,Уровень производственного травматизма,Өндірістік жарақаттану деңгейі,Work injury rate,1,1
 SN_STA_OVWGTN,Избыточный вес: Умеренная и сильная степень отклонения от нормы,SN_STA_OVWGTN,Children moderately or severely overweight (number) [2.2.2],34,1
