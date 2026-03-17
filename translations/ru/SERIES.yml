@@ -130,3 +130,9 @@ WIND: Энергия ветра
 VC_PRS_UNSNT: задержано
 SPI: SPI
 ODIN: ODIN
+EN_LKW_QLTRB: Состояние мутности
+EN_LKRV_PWAC: Постоянная динамика воды
+EN_LKRV_SWAC: Сезонная динамика воды
+EN_RSV_MNWAC: Динамика минимальной водности
+EN_RSV_MXWAC: Динамика максимальной водности
+EN_WBE_WTLN: Водно-болотные угодья
