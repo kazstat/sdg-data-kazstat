@@ -1201,7 +1201,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Жыл"
           },
           {
@@ -1214,8 +1214,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "бастауыш/толық емес орта",
+                "толық емес орта",
+                "орташа жалпы",
                 ""
               ]
             },
@@ -1223,9 +1224,12 @@
           },
           {
             "name": "SEX",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "екі жыныс",
+                "ерлер",
+                "әйелдер",
                 ""
               ]
             },

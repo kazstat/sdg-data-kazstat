@@ -1101,7 +1101,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1112,17 +1112,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_34",
                 ""
               ]
             }
           },
           {
             "name": "SEX",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "BOTHSEX",
+                "M",
+                "F",
                 ""
               ]
             }

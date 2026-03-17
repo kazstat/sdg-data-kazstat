@@ -1201,7 +1201,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -1214,8 +1214,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Elementary education/ High education (incomplete)",
+                "High Education (Incomplete)",
+                "High Education (General)",
                 ""
               ]
             },
@@ -1223,9 +1224,12 @@
           },
           {
             "name": "SEX",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
                 ""
               ]
             },
