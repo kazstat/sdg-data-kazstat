@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,образование матери,Пол,Value
+Year,UNIT_MEASURE,EDUCATION_LEV,Пол,Value
 PT,ISCED11_1,,,99.6
 PT,ISCED11_1,M,,99.6
 PT,ISCED11_1,F,,99.6
