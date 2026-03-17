@@ -44,13 +44,13 @@ frontpage_intro_description: >-
 
 frontpage_intro_sidebar: >-
   <p>
-    <a href='https://economy.kz/ru/Celi_ustojchivogo_razvitija/About_TSUR/' class='btn btn-primary btn-download'>
-      Қазақстанда Тұрақты даму мақсаттарын іске асыру туралы
+    <a href='https://eri.kz/kz/Celi_ustojchivogo_razvitija/Traty_damu_masattary_list1/' class='btn btn-primary btn-download'>
+      Қазақстанда Орнықты даму мақсаттарын іске асыру туралы
     </a>
   </p>
   <p>
     <a href='https://sustainabledevelopment.un.org/' class='btn btn-primary btn-download'>
-      БҰҰ ТДМ Білім платформасы
+      БҰҰ ОДМ Білім платформасы
     </a>
   </p>
   <p>
@@ -60,11 +60,11 @@ frontpage_intro_sidebar: >-
   </p>
   <p>
     <a href='https://www.unece.org/unece-and-the-sdgs/unece-and-the-sdgs.html' class='btn btn-primary btn-download'>
-      БҰҰ ЕЭК және ТДМ
+      БҰҰ ЕЭК және ОДМ
     </a>
   </p>
   <p>
     <a href='https://datatopics.worldbank.org/sdgs/index.html' class='btn btn-primary btn-download'>
-      Дүниежүзілік Даму Көрсеткіштері Тұрақты Даму Мақсаттары
+      Дүниежүзілік Даму Көрсеткіштері Орнықты Даму Мақсаттары
     </a>
   </p>
