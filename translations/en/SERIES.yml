@@ -70,3 +70,9 @@ WIND: Wind energy
 VC_PRS_UNSNT: detainees
 SPI: SPI
 ODIN: ODIN
+EN_LKW_QLTRB: Lake water quality turbidity
+EN_LKRV_PWAC: Lakes and rivers permanent water area change
+EN_LKRV_SWAC: Lakes and rivers seasonal water area change
+EN_RSV_MNWAC: Reservoir minimum water area change
+EN_RSV_MXWAC: Reservoir maximum water area change
+EN_WBE_WTLN: Wetlands area
