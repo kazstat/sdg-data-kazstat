@@ -1,8 +1,9 @@
 Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
 B_TNG,млрд.тенге,млрд.теңге,billion tenge,1,1
 CASES,случай,жағдай,cases,3,3
+ISCED11_1,ISCED11_1,ISCED11_1,ISCED11_1,3,1
 ISCED11_2,ISCED11_2,ISCED11_2,ISCED11_2,3,1
-ISCED11_3,ISCED11_3,ISCED11_3,ISCED11_3,3,1
+ISCED11_34,ISCED11_34,ISCED11_34,ISCED11_34,3,1
 LTPUREAL,в литрах чистого спирта,литр таза алкогольде,litres pure alcohol,3,1
 M_METER3,млн.м3,млн.метр куб,M_METER3,18,1
 M_T,млн.тонн,млн.тонна,millions tonnes,73,1
