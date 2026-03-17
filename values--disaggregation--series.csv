@@ -80,6 +80,12 @@ _L_KZ_DD_SDD,сильная степень отклонения от нормы,
 AG_LND_FRSTBIOM,Запасы наземной биомассы в лесах,AG_LND_FRSTBIOM,Above-ground biomass in forest (tonnes) [15.2.1],18,1
 AG_LND_FRSTMGT,"Доля площади лесов, в отношении которых разработан долгосрочный план управления лесным хозяйством",AG_LND_FRSTMGT,Proportion of forest area with a long-term management plan [15.2.1],15,1
 AG_LND_FRSTPRCT,"Доля лесной площади, находящейся в охраняемых законом зонах",AG_LND_FRSTPRCT,Proportion of forest area within legally established protected areas [15.2.1],18,1
+EN_LKRV_PWAC,Постоянная динамика воды,Тұрақты су динамикасы,Lakes and rivers permanent water area change,2,1
+EN_LKRV_SWAC,Сезонная динамика воды,Судың маусымдық су динамикасы,Lakes and rivers seasonal water area change,2,1
+EN_LKW_QLTRB,Состояние мутности,Ластану жағдайы (лайлылық),Lake water quality turbidity,1,1
+EN_RSV_MNWAC,Динамика минимальной водности,Судың минималды динамикасы,Reservoir minimum water area change,2,1
+EN_RSV_MXWAC,Динамика максимальной водности,Судың максималды динамикасы,Reservoir maximum water area change,2,1
+EN_WBE_WTLN,Водно-болотные угодья,Сулы-батпақты алқаптар,Wetlands area,1,1
 ODIN,ODIN,ODIN,ODIN,1,1
 SD_XPD_ESED,Образование,SD_XPD_ESED,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",1,1
 SE_ACS_H2O,базовыми источниками питьевой воды,базалық ауыз су көздерімен,sources of drinking water,1,1

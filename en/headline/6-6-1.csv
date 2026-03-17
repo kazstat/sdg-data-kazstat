@@ -1,1 +1,11 @@
-Year,Value
+Year,Value,SERIES,UNIT_MEASURE
+2017,5.36,Lake water quality turbidity,Percent
+2017,-9.86,Lakes and rivers permanent water area change,Percent
+2017,-9.86,Lakes and rivers permanent water area change,square kilometres
+2017,147.99,Lakes and rivers seasonal water area change,Percent
+2017,24589.0,Lakes and rivers seasonal water area change,square kilometres
+2017,-0.62,Reservoir minimum water area change,Percent
+2017,-38.0,Reservoir minimum water area change,square kilometres
+2017,-0.15,Reservoir maximum water area change,Percent
+2017,-10.0,Reservoir maximum water area change,square kilometres
+2017,20859.63,Wetlands area,square kilometres
