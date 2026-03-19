@@ -1,20 +1,58 @@
 Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
+0.18,0.18,0.18,0.18,1,1
+0.19,0.19,0.19,0.19,1,1
+0.2,0.2,0.2,0.2,1,1
+0.54,0.54,0.54,0.54,1,1
+0.58,0.58,0.58,0.58,1,1
+0.6,0.6,0.6,0.6,1,1
+0.77,0.77,0.77,0.77,1,1
+0.95,0.95,0.95,0.95,1,1
+1.01,1.01,1.01,1.01,1,1
+1.24,1.24,1.24,1.24,1,1
+1.76,1.76,1.76,1.76,1,1
+2.5,2.5,2.5,2.5,1,1
+2.62,2.62,2.62,2.62,1,1
 51.0,51.0,51.0,51.0,2,1
 55.0,55.0,55.0,55.0,2,1
 67.2,67.2,67.2,67.2,1,1
 68.5,68.5,68.5,68.5,1,1
 ABY,ABY,ABY,ABY,1,1
 KZ YUZ,KZ YUZ,KZ YUZ,KZ YUZ,1,1
-KZABY,Абай,Абай,Abai,234,63
-KZAKM,Акмолинская,Ақмола,Akmola,259,73
+KZABY,Абай,Абай,Abai,235,64
+KZABY1036,Аягозский район,Аягөз ауданы,Ayagoz district,1,1
+KZABY1042,Жарминский район,Жарма ауданы,Zharma district,1,1
+KZABY1044,Кокпектинский район,Көкпекті ауданы,Kokpekti district,1,1
+KZAKM,Акмолинская,Ақмола,Akmola,260,74
+KZAKM1136,Астраханский район,Астрахан ауданы,Astrakhan district,1,1
+KZAKM1138,Атбасарский район,Атбасар ауданы,Atbasar district,1,1
+KZAKM1140,Буландынский район,Бұланды ауданы,Bulandy district,1,1
+KZAKM1144,Егиндыкольский район,Егіндікөл ауданы,Egindykol district,1,1
+KZAKM1148,Есильский район,Есіл ауданы,Esil district,1,1
+KZAKM1152,Жаксынский район,Жақсы ауданы,Zhaksy district,1,1
+KZAKM1156,Зерендинский район,Зеренді ауданы,Zerenda district,1,1
+KZAKM1160,Коргалжынский район,Қорғалжын ауданы,Korgalzhyn district,1,1
+KZAKM1166,Целиноградский район,Целиноград ауданы,Tselinograd district,1,1
+KZAKM1168,Шортандинский район,Шортанды ауданы,Shortandy district,1,1
 KZAKS,г.Аксай,Ақсай,city Aksay,1,1
 KZAKSU,г.Аксу,Ақсу,city Aksu,1,1
-KZAKT,Актюбинская,Ақтөбе,Aktobe,255,72
+KZAKT,Актюбинская,Ақтөбе,Aktobe,256,73
+KZAKT1532,Алгинский район,Алға ауданы,Alga district,1,1
+KZAKT1536,Байганинский район,Байғанин ауданы,Baiganin district,1,1
+KZAKT1548,Мугалжарский район,Мұғалжар ауданы,Mugalzhar district,1,1
+KZAKT1556,Темирский район,Темір ауданы,Temir district,1,1
+KZAKT1564,Шалкарский район,Шалқар ауданы,Shalkar district,1,1
+KZAKT1568,Иргизский район,Ырғыз ауданы,Irgiz district,1,1
 KZAKY,п.Акай,Ақай кенті,village Akay,1,1
 KZALA,г_Алматы,Алматы қаласы,Almaty city,205,67
-KZALM,Алматинская,Алматы,Almaty,260,73
+KZALM,Алматинская,Алматы,Almaty,261,74
+KZALM1910,Қонаев г.а.,Қонаев қ.ә.,Konaev city admin.,1,1
+KZALM1940,Енбекшиказахский район,Еңбекшіқазақ ауданы,Enbekshikazakh district,1,1
+KZALM1942,Жамбылский район,Жамбыл ауданы,Zhambyl district,1,1
+KZALM1958,Райымбекский район,Райымбек ауданы,Raiymbek district,1,1
+KZALM1968,Илийский район,Іле ауданы,Ili district,1,1
 KZARK,г.Аркалык,Арқалық,city Arkalık,1,1
 KZATB,г.Актобе,Ақтөбе,city Aktobe,2,1
+KZATB1510,Актобе г.а.,Ақтөбе қ.ә.,Aktobe city admin.,1,1
 KZATR,г.Атырау,Атырау,city Atyrau,2,1
 KZATY,Атырауская,Атырау,Atyrau,252,71
 KZAYB,KZAYB,KZAYB,KZAYB,1,1
@@ -35,6 +73,7 @@ KZKOR,п.Кордай,Қордай кенті,village Kordai,2,1
 KZKOS,г.Костанай,Қостанай,city Kostanay,3,2
 KZKRG,г.Караганда,Қарағанды,city Karagandy,2,1
 KZKSH,г.Кокшетау,Көкшетау,City Kokshetau,2,1
+KZKSH1110,Кокшетау г.а.,Көкшетау қ.ә.,Kokshetau city admin.,1,1
 KZKUS,Костанайская,Қостанай,Kostanay,257,70
 KZKZL,г.Кызылорда,Қызылорда,city Kyzylorda,2,1
 KZKZY,Кызылординская,Қызылорда,Kyzylorda,255,71
@@ -47,6 +86,7 @@ KZPVL,г.Павлодар,Павлодар,city Pavlodar,2,1
 KZRDD,г.Риддер,Риддер,city Ridder,1,1
 KZRDN,г.Рудный,Рудный,city Rudny,1,1
 KZSEM,г.Семей,Семей,city Semey,2,1
+KZSEM1010,Семей г.а.,Семей қ.ә.,Semey city admin.,1,1
 KZSEV,Северо-Казахстанская,Солтүстік Қазақстан,Soltustik Kazakhstan,259,73
 KZSHB,ЩБКЗ,ЩБКЗ,SHBKZ,2,1
 KZSHU,г.Чу,Шу,Shu city,2,1
@@ -54,6 +94,7 @@ KZSHY,г_Шымкент,Шымкент қаласы,Shymkent city,203,65
 KZSRB,п.Сарыбулак,Сарыбұлақ кенті,village Sarıbulak,2,1
 KZSRN,г.Сарань,Саран,city Saran,2,1
 KZSTG,г.Степногорск,Степногорск,City Stepnogorsk,2,1
+KZSTG1118,Степногорск г.а.,Степногорск қ.ә.,Stepnogorsk city admin.,1,1
 KZTDK,г.Талдыкорган,Талдықорған,city Taldıkorgan,2,1
 KZTMT,г.Темиртау,Теміртау,city Temirtau,2,1
 KZTRT,п.Торетам,Төретам кенті,village Toretam,1,1

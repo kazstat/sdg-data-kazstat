@@ -6063,6 +6063,64 @@
             "type": "string"
           },
           {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2.62",
+                "1.76",
+                "1.24",
+                "1.01",
+                "0.77",
+                "0.95",
+                "0.54",
+                "0.58",
+                "0.6",
+                "0.18",
+                "0.2",
+                "2.5",
+                "0.19",
+                "KZABY",
+                "KZSEM1010",
+                "KZABY1036",
+                "KZABY1042",
+                "KZABY1044",
+                "KZAKM",
+                "KZKSH1110",
+                "KZSTG1118",
+                "KZAKM1136",
+                "KZAKM1138",
+                "KZAKM1140",
+                "KZAKM1144",
+                "KZAKM1148",
+                "KZAKM1152",
+                "KZAKM1156",
+                "KZAKM1160",
+                "KZAKM1166",
+                "KZAKM1168",
+                "KZAKT",
+                "KZATB1510",
+                "KZAKT1532",
+                "KZAKT1536",
+                "KZAKT1548",
+                "KZAKT1556",
+                "KZAKT1564",
+                "KZAKT1568",
+                "KZALM",
+                "KZALM1910",
+                "KZALM1940",
+                "KZALM1942",
+                "KZALM1958",
+                "KZALM1968",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
