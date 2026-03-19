@@ -63,3 +63,144 @@ KZABY: Abai
 KZZHS: Zhetisu
 KZULU: Ulytau
 REF_AREA: Regions
+District: Districts
+KZSHY7911: Abay district
+KZSHY7913: Al-Farabi district
+KZSHY7915: Enbekshi district
+KZSHY7917: Karatau district
+KZSHY7919: Turan district
+KZALA7511: Almaly district
+KZALA7512: Alatau district
+KZALA7513: Auezov district
+KZALA7514: Bostandyk district
+KZALA7515: Zhetysu district
+KZALA7517: Medeu district
+KZALA7518: Nauryzbay district
+KZALA7519: Turksib district
+KZNS7111: Almaty district
+KZNS7112: Esil district
+KZNS7113: Saryarka district
+KZNS7114: Baykonur district
+KZNS7115: Nura district
+KZNS7116: Saraishyk district
+KZUSK6310: Ust-Kamenogorsk city admin.
+KZRDD6324: Ridder city admin.
+KZGLU6340: Glubokoye v.
+KZVOS6346: Zaysan district
+KZVOS6348: Altay district
+KZVOS6352: Kurchum district
+KZVOS6362: Ulan district
+KZVOS6368: Shemonaikha district
+KZZHK6210: Zhezkazgan city admin.
+KZULU6218: Karazhal city
+KZULU6220: Satpayev city admin.
+KZULU6236: Zhanaarka district
+KZULU6238: Ulytau district
+KZTUR6110: Turkistan city admin.
+KZTUR6116: Arys city admin.
+KZKET6120: Kentau city admin.
+KZTUR6136: Baydibek district
+KZTUR6138: Zhetysay district
+KZTUR6139: Keles district
+KZTUR6140: Kazygurt district
+KZTUR6144: Maktaaral district
+KZTUR6146: Ordabasy district
+KZTUR6148: Otyrar district
+KZTUR6152: Sayram district
+KZTUR6154: Saryagash district
+KZTUR6155: Sauran district
+KZTUR6156: Sozak district
+KZTUR6158: Tole Bi district
+KZTUR6160: Tyulkubas district
+KZTUR6164: Shardara district
+KZSEV5910: Petropavlovsk city admin.
+KZSEV5932: Ayirtau district
+KZSEV5934: Akzhar district
+KZSEV5942: Esil district
+KZSEV5946: Zhambyl district
+KZSEV5948: Kyzylzhar district
+KZSEV5956: Shal Akyn district
+KZSEV5958: Akkayin district
+KZSEV5964: Ualikhanov district
+KZPVL5510: Pavlodar city admin.
+KZPVL5522: Ekibastuz city admin.
+KZPVL5564: Uspenka district
+KZMAN4710: Aktau city admin.
+KZZHO4718: Zhanaozen city admin.
+KZMAN4742: Karakiya district
+KZMAN4746: Mangystau district
+KZMAN4750: Munaily district
+KZMAN4752: Tupkaragan district
+KZKZL4310: Kyzylorda city admin.
+KZKZY4332: Aral district
+KZKZY4336: Zhalagash district
+KZKZY4340: Zhanakorgan district
+KZKZY4344: Kazaly district
+KZKZY4346: Karmakshy district
+KZKZY4352: Shieli district
+KZKOS3910: Kostanay city admin.
+KZARK3916: Arkalyk city admin.
+KZLIS3920: Lisakovsk city admin.
+KZRDN3924: Rudny city admin.
+KZKUS3936: Auliekol district
+KZKUS3940: Denisov district
+KZKUS3944: Zhitikara district
+KZKUS3954: Kostanay district
+KZKUS3966: Uzunkol district
+KZKRG3510: Karaganda city admin.
+KZKAR3522: Saran city admin.
+KZKAR3524: Temirtau city admin.
+KZKAR3528: Shakhtinsk city admin.
+KZKAR3532: Abay district
+KZKAR3536: Aktogay district
+KZKAR3540: Bukhar-Zhyrau district
+KZKAR3548: Karkaraly district
+KZKAR3556: Osakarovka district
+KZKAR3564: Shet district
+KZTDK3310: Taldykorgan city admin.
+KZZHS3334: Alakol district
+KZZHS3340: Kerbulak district
+KZZHS3342: Koksu district
+KZTRZ3110: Taraz city admin.
+KZZHA3156: Moinkum district
+KZZHA3160: Sarysu district
+KZZHA3166: Shu district
+KZURL2710: Uralsk city admin.
+KZZAP2736: Burlin district
+KZZAP2740: Zhangala district
+KZZAP2744: Baiterek district
+KZZAP2754: Bokey Orda district
+KZZAP2760: Taskala district
+KZATR2310: Atyrau city admin.
+KZATY2336: Zhylyoi district
+KZATY2348: Kyzylkoga district
+KZATY2352: Makat district
+KZATY2356: Makhambet district
+KZALM1910: Konaev city admin.
+KZALM1940: Enbekshikazakh district
+KZALM1942: Zhambyl district
+KZALM1958: Raiymbek district
+KZALM1968: Ili district
+KZATB1510: Aktobe city admin.
+KZAKT1532: Alga district
+KZAKT1536: Baiganin district
+KZAKT1548: Mugalzhar district
+KZAKT1556: Temir district
+KZAKT1564: Shalkar district
+KZAKT1568: Irgiz district
+KZKSH1110: Kokshetau city admin.
+KZSTG1118: Stepnogorsk city admin.
+KZAKM1136: Astrakhan district
+KZAKM1138: Atbasar district
+KZAKM1140: Bulandy district
+KZAKM1144: Egindykol district
+KZAKM1148: Esil district
+KZAKM1152: Zhaksy district
+KZAKM1156: Zerenda district
+KZAKM1160: Korgalzhyn district
+KZAKM1166: Tselinograd district
+KZAKM1168: Shortandy district
+KZSEM1010: Semey city admin.
+KZABY1036: Ayagoz district
+KZABY1042: Zharma district
+KZABY1044: Kokpekti district
