@@ -147,6 +147,9 @@ prose:
             - name: "notapplicable"
               value: "notapplicable"
               translation_key: status.not_applicable
+            - name: "not accepted"
+              value: "not accepted"
+              translation_key: status.not_accepted
           scope: data
       - name: data_non_statistical
         field:
