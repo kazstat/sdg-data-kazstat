@@ -20,6 +20,6 @@ def alter_meta(metadata):
         metadata['target_number'] = id_parts[0] + '.' + id_parts[1]
         metadata['target_name'] = 'global_targets.' + id_parts[0] + '-' + id_parts[1] + '-title'
 
-    metadata['national_geographical_coverage'] = 'meta.Казахстан'
+    metadata['national_geographical_coverage'] = ''
 
     return metadata
