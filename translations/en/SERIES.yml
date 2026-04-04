@@ -78,3 +78,6 @@ EN_RSV_MXWAC: Reservoir maximum water area change
 EN_WBE_WTLN: Wetlands area
 _L_KZ_010502_1A: natural emergencies
 _L_KZ_010502_1B: man-made emergencies
+_L_KZ_170602_1A: higher than 10 Mbit/s
+_L_KZ_170602_1B: from 2 Mbit/s to less than 10 Mbit/s
+_L_KZ_170602_1C: from 256 kBit/s to less than 2 Mbit/s
