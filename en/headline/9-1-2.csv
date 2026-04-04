@@ -12,12 +12,12 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2010,0.1,,Inland water еransport,mln.people
 2010,3.4,,Air,mln.people
 2010,79.5,,City electric transport,mln.people
-2010,1971.8,,_L_KZ_090102_1J,millions tonnes
+2010,1971.8,,freight carried by road and urban electric transport,millions tonnes
 2010,13163.4,,Passengers transported by all means of transport,mln.people
 2010,28869.7,,transported by air,tons
 2010,3379.2,,passengers transported by air,thousand people
 2010,194.0,,performance indicators of pipeline transport,millions tonnes
-2010,4.7,,_L_KZ_090102_1R,millions tonnes
+2010,4.7,,freight carried by sea transport,millions tonnes
 2011,2974.9,,Cargo transported by all means of transport,millions tonnes
 2011,214.1,,Pipeline,millions tonnes
 2011,279.7,,Railway,millions tonnes
@@ -31,12 +31,12 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2011,0.1,,Inland water еransport,mln.people
 2011,4.1,,Air,mln.people
 2011,77.0,,City electric transport,mln.people
-2011,2475.5,,_L_KZ_090102_1J,millions tonnes
+2011,2475.5,,freight carried by road and urban electric transport,millions tonnes
 2011,16622.4,,Passengers transported by all means of transport,mln.people
 2011,31554.9,,transported by air,tons
 2011,4131.3,,passengers transported by air,thousand people
 2011,214.1,,performance indicators of pipeline transport,millions tonnes
-2011,4.6,,_L_KZ_090102_1R,millions tonnes
+2011,4.6,,freight carried by sea transport,millions tonnes
 2012,3231.8,,Cargo transported by all means of transport,millions tonnes
 2012,213.2,,Pipeline,millions tonnes
 2012,294.8,,Railway,millions tonnes
@@ -50,12 +50,12 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2012,0.1,,Inland water еransport,mln.people
 2012,4.5,,Air,mln.people
 2012,69.6,,City electric transport,mln.people
-2012,2718.4,,_L_KZ_090102_1J,millions tonnes
+2012,2718.4,,freight carried by road and urban electric transport,millions tonnes
 2012,18455.7,,Passengers transported by all means of transport,mln.people
 2012,21954.2,,transported by air,tons
 2012,4512.0,,passengers transported by air,thousand people
 2012,213.2,,performance indicators of pipeline transport,millions tonnes
-2012,4.0,,_L_KZ_090102_1R,millions tonnes
+2012,4.0,,freight carried by sea transport,millions tonnes
 2013,3508.0,,Cargo transported by all means of transport,millions tonnes
 2013,225.9,,Pipeline,millions tonnes
 2013,293.7,,Railway,millions tonnes
@@ -69,12 +69,12 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2013,0.1,,Inland water еransport,mln.people
 2013,5.0,,Air,mln.people
 2013,65.3,,City electric transport,mln.people
-2013,2983.4,,_L_KZ_090102_1J,millions tonnes
+2013,2983.4,,freight carried by road and urban electric transport,millions tonnes
 2013,19970.6,,Passengers transported by all means of transport,mln.people
 2013,23873.5,,transported by air,tons
 2013,4985.6,,passengers transported by air,thousand people
 2013,225.9,,performance indicators of pipeline transport,millions tonnes
-2013,4.0,,_L_KZ_090102_1R,millions tonnes
+2013,4.0,,freight carried by sea transport,millions tonnes
 2014,3749.8,,Cargo transported by all means of transport,millions tonnes
 2014,225.0,,Pipeline,millions tonnes
 2014,390.7,,Railway,millions tonnes
@@ -88,12 +88,12 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2014,0.1,,Inland water еransport,mln.people
 2014,5.4,,Air,mln.people
 2014,62.5,,City electric transport,mln.people
-2014,3129.1,,_L_KZ_090102_1J,millions tonnes
+2014,3129.1,,freight carried by road and urban electric transport,millions tonnes
 2014,21252.4,,Passengers transported by all means of transport,mln.people
 2014,19082.4,,transported by air,tons
 2014,5434.6,,passengers transported by air,thousand people
 2014,225.0,,performance indicators of pipeline transport,millions tonnes
-2014,3.6,,_L_KZ_090102_1R,millions tonnes
+2014,3.6,,freight carried by sea transport,millions tonnes
 2015,3733.8,,Cargo transported by all means of transport,millions tonnes
 2015,214.6,,Pipeline,millions tonnes
 2015,341.4,,Railway,millions tonnes
@@ -107,12 +107,12 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2015,0.0,,Inland water еransport,mln.people
 2015,5.9,,Air,mln.people
 2015,65.9,,City electric transport,mln.people
-2015,3174.0,,_L_KZ_090102_1J,millions tonnes
+2015,3174.0,,freight carried by road and urban electric transport,millions tonnes
 2015,21810.7,,Passengers transported by all means of transport,mln.people
 2015,17178.2,,transported by air,tons
 2015,5922.8,,passengers transported by air,thousand people
 2015,214.6,,performance indicators of pipeline transport,millions tonnes
-2015,2.5,,_L_KZ_090102_1R,millions tonnes
+2015,2.5,,freight carried by sea transport,millions tonnes
 2016,3729.2,,Cargo transported by all means of transport,millions tonnes
 2016,205.8,,Pipeline,millions tonnes
 2016,338.9,,Railway,millions tonnes
@@ -126,12 +126,12 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2016,0.1,,Inland water еransport,mln.people
 2016,6.0,,Air,mln.people
 2016,64.2,,City electric transport,mln.people
-2016,3180.7,,_L_KZ_090102_1J,millions tonnes
+2016,3180.7,,freight carried by road and urban electric transport,millions tonnes
 2016,22303.6,,Passengers transported by all means of transport,mln.people
 2016,18015.9,,transported by air,tons
 2016,6021.7,,passengers transported by air,thousand people
 2016,205.8,,performance indicators of pipeline transport,millions tonnes
-2016,2.6,,_L_KZ_090102_1R,millions tonnes
+2016,2.6,,freight carried by sea transport,millions tonnes
 2017,3946.1,,Cargo transported by all means of transport,millions tonnes
 2017,232.8,,Pipeline,millions tonnes
 2017,387.2,,Railway,millions tonnes
@@ -145,12 +145,12 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2017,0.1,,Inland water еransport,mln.people
 2017,7.4,,Air,mln.people
 2017,70.6,,City electric transport,mln.people
-2017,3322.3,,_L_KZ_090102_1J,millions tonnes
+2017,3322.3,,freight carried by road and urban electric transport,millions tonnes
 2017,22690.3,,Passengers transported by all means of transport,mln.people
 2017,22449.9,,transported by air,tons
 2017,7363.7,,passengers transported by air,thousand people
 2017,232.8,,performance indicators of pipeline transport,millions tonnes
-2017,2.1,,_L_KZ_090102_1R,millions tonnes
+2017,2.1,,freight carried by sea transport,millions tonnes
 2018,4103.8,,Cargo transported by all means of transport,millions tonnes
 2018,281.4,,Pipeline,millions tonnes
 2018,397.9,,Railway,millions tonnes
@@ -179,13 +179,13 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2019,0.1,,nautical,mln.people
 2019,8.6,,Air,mln.people
 2019,85.5,,City electric transport,mln.people
-2019,3550.5,,_L_KZ_090102_1J,millions tonnes
+2019,3550.5,,freight carried by road and urban electric transport,millions tonnes
 2019,23804.7,,Passengers transported by all means of transport,mln.people
 2019,26721.1,,transported by air,tons
 2019,8644.9,,passengers transported by air,thousand people
 2019,273.0,,performance indicators of pipeline transport,millions tonnes
-2019,0.8,,_L_KZ_090102_1R,millions tonnes
-2019,0.1,,_L_KZ_090102_1S,millions tonnes
+2019,0.8,,freight carried by sea transport,millions tonnes
+2019,0.1,,passengers carried by sea transport,millions tonnes
 2020,3944.8,,Cargo transported by all means of transport,millions tonnes
 2020,253.7,,Pipeline,millions tonnes
 2020,402.3,,Railway,millions tonnes
@@ -199,12 +199,12 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2020,0.04,,nautical,mln.people
 2020,5.5,,Air,mln.people
 2020,53.7,,City electric transport,mln.people
-2020,3287.0,,_L_KZ_090102_1J,millions tonnes
+2020,3287.0,,freight carried by road and urban electric transport,millions tonnes
 2020,8377.7,,Passengers transported by all means of transport,mln.people
 2020,23421.6,,transported by air,tons
 2020,5494.5,,passengers transported by air,thousand people
 2020,253.7,,performance indicators of pipeline transport,millions tonnes
-2020,0.0,,_L_KZ_090102_1S,millions tonnes
+2020,0.0,,passengers carried by sea transport,millions tonnes
 2021,910.5,,Cargo transported by all means of transport,millions tonnes
 2021,281.4,,Pipeline,millions tonnes
 2021,410.3,,Railway,millions tonnes
@@ -219,13 +219,13 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2021,0.08,,nautical,mln.people
 2021,9.4,,Air,mln.people
 2021,65.2,,City electric transport,mln.people
-2021,217.1,,_L_KZ_090102_1J,millions tonnes
+2021,217.1,,freight carried by road and urban electric transport,millions tonnes
 2021,1264.3,,Passengers transported by all means of transport,mln.people
 2021,33730.8,,transported by air,tons
 2021,9442.0,,passengers transported by air,thousand people
 2021,281.4,,performance indicators of pipeline transport,millions tonnes
-2021,0.8,,_L_KZ_090102_1R,millions tonnes
-2021,0.1,,_L_KZ_090102_1S,millions tonnes
+2021,0.8,,freight carried by sea transport,millions tonnes
+2021,0.1,,passengers carried by sea transport,millions tonnes
 2022,927.2,,Cargo transported by all means of transport,millions tonnes
 2022,266.7,,Pipeline,millions tonnes
 2022,395.5,,Railway,millions tonnes
@@ -240,13 +240,13 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2022,0.09,,nautical,mln.people
 2022,11.5,,Air,mln.people
 2022,80.3,,City electric transport,mln.people
-2022,263.2,,_L_KZ_090102_1J,millions tonnes
+2022,263.2,,freight carried by road and urban electric transport,millions tonnes
 2022,1454.3,,Passengers transported by all means of transport,mln.people
 2022,22467.4,,transported by air,tons
 2022,11493.6,,passengers transported by air,thousand people
 2022,266.7,,performance indicators of pipeline transport,millions tonnes
-2022,1.2,,_L_KZ_090102_1R,millions tonnes
-2022,0.1,,_L_KZ_090102_1S,millions tonnes
+2022,1.2,,freight carried by sea transport,millions tonnes
+2022,0.1,,passengers carried by sea transport,millions tonnes
 2023,999.2,,Cargo transported by all means of transport,millions tonnes
 2023,282.9,,Pipeline,millions tonnes
 2023,414.9,,Railway,millions tonnes
@@ -261,13 +261,13 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2023,0.04,,nautical,mln.people
 2023,13.3,,Air,mln.people
 2023,83.9,,City electric transport,mln.people
-2023,299.9,,_L_KZ_090102_1J,millions tonnes
+2023,299.9,,freight carried by road and urban electric transport,millions tonnes
 2023,1573.3,,Passengers transported by all means of transport,mln.people
 2023,23800.0,,transported by air,tons
 2023,13307.6,,passengers transported by air,thousand people
 2023,282.9,,performance indicators of pipeline transport,millions tonnes
-2023,1.3,,_L_KZ_090102_1R,millions tonnes
-2023,0.0,,_L_KZ_090102_1S,millions tonnes
+2023,1.3,,freight carried by sea transport,millions tonnes
+2023,0.0,,passengers carried by sea transport,millions tonnes
 2024,1078.8,,Cargo transported by all means of transport,millions tonnes
 2024,295.4,,Pipeline,millions tonnes
 2024,437.1,,Railway,millions tonnes
@@ -282,10 +282,10 @@ Year,Value,GeoCode,SERIES,UNIT_MEASURE
 2024,0.1,,nautical,mln.people
 2024,14.7,,Air,mln.people
 2024,80.4,,City electric transport,mln.people
-2024,343.0,,_L_KZ_090102_1J,millions tonnes
+2024,343.0,,freight carried by road and urban electric transport,millions tonnes
 2024,1691.3,,Passengers transported by all means of transport,mln.people
 2024,27880.0,,transported by air,tons
 2024,14678.8,,passengers transported by air,thousand people
 2024,295.4,,performance indicators of pipeline transport,millions tonnes
-2024,2.8,,_L_KZ_090102_1R,millions tonnes
-2024,0.1,,_L_KZ_090102_1S,millions tonnes
+2024,2.8,,freight carried by sea transport,millions tonnes
+2024,0.1,,passengers carried by sea transport,millions tonnes

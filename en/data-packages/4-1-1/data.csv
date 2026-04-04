@@ -1,10 +1,10 @@
 Year,UNIT_MEASURE,SERIES,Sex,Regions,GeoCode,Value
-2016,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,98.0
-2016,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,,,98.0
-2016,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,,,98.0
-2021,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,91.0
-2021,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Male,,,88.0
-2021,Percent,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],Female,,,94.0
+2016,Percent,Proportion of children and young people achieving at least a minimum proficiency level,,,,98.0
+2016,Percent,Proportion of children and young people achieving at least a minimum proficiency level,Male,,,98.0
+2016,Percent,Proportion of children and young people achieving at least a minimum proficiency level,Female,,,98.0
+2021,Percent,Proportion of children and young people achieving at least a minimum proficiency level,,,,91.0
+2021,Percent,Proportion of children and young people achieving at least a minimum proficiency level,Male,,,88.0
+2021,Percent,Proportion of children and young people achieving at least a minimum proficiency level,Female,,,94.0
 2012,Percent,i) literacy (based on gender),,,,43.0
 2012,Percent,i) literacy (based on gender),Male,,,33.0
 2012,Percent,i) literacy (based on gender),Female,,,53.0
