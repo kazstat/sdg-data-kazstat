@@ -54,8 +54,8 @@ _L_KZ_090102_1Q: Pipeline
 _L_KZ_090c01_1A: GSM standard (percentage of coverage by cellular network)
 _L_KZ_090c01_1B: UMTS standard (percentage of coverage by 3G mobile network)
 _L_KZ_090c01_1C: LTE standard (percentage of coverage by 4G mobile network)
-_L_KZ_110602_1A: suspended particles PM-10
-_L_KZ_110602_1B: PM2.5
+_L_KZ_110602_1A: PM 10
+_L_KZ_110602_1B: PM 2.5
 _L_KZ_160104_1A: Total security
 _L_KZ_160104_1B: Relatively safe
 _L_KZ_160104_1C: Not safe
@@ -81,3 +81,24 @@ _L_KZ_010502_1B: man-made emergencies
 _L_KZ_170602_1A: higher than 10 Mbit/s
 _L_KZ_170602_1B: from 2 Mbit/s to less than 10 Mbit/s
 _L_KZ_170602_1C: from 256 kBit/s to less than 2 Mbit/s
+_L_KZ_010a02_1B: Total
+SG_XPD_HLTH: Healthcare
+_L_KZ_010a02_1A: Culture,sports,tourism and information space 
+SD_XPD_ESED: Education
+SG_XPD_PROT: Social assistance
+_L_KZ_020502_1A: argali 
+_L_KZ_020502_1B: gazelle
+_L_KZ_020502_1C: kulan
+_L_KZ_020502_1D: saigas
+_L_KZ_020502_1E: tugai red deer
+SE_TOT_PRFL: Proportion of children and young people achieving at least a minimum proficiency level
+_L_KZ_040a01_1A: availability of warm and outdoor toilets
+_L_KZ_040a01_1B: availability outdoor toilets only
+_L_KZ_040a01_1C: availability of only warm toilets
+_L_KZ_090102_1J: freight carried by road and urban electric transport
+_L_KZ_090102_1R: freight carried by sea transport
+_L_KZ_090102_1S: passengers carried by sea transport
+_L_KZ_150201_1A: Land area covered by forest
+_L_KZ_150201_1B: Net forest area change
+_L_KZ_160104_1D: Very unsafe
+_L_KZ_160104_1E: Refused to answer
