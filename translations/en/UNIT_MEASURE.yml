@@ -44,3 +44,6 @@ CASES: cases
 SCORE: score
 KMSQ: square kilometres
 EN_ATM_GHGT_WOLU: million tons of CO2 equivalent
+B_TNG: billion tenge
+kg_CO2: kg CO2-eq/int.USD
+T_CO2: tons of CO2-eq/capita
