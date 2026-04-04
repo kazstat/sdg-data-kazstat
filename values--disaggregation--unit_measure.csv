@@ -28,7 +28,7 @@ SCORE,балл,балл,score,2,1
 SQ_METER,кв.метр,шаршы метр,square meter,60,1
 T,тонн,тонна,tons,11,2
 T_CO2,тонн СО2-экв/душу населения,СО2-экв / халықтың жан басына шаққандағы тонна,tons of CO2-eq/capita,1,1
-T_PERCAP,тонн на душу населения,T_PERCAP,T_PERCAP,1,1
+T_PERCAP,тонн на душу населения,халықтың жан басына шаққандағы тонна,tons per capita,1,1
 TH_HA,тыс.гектар,мың.гектар,thousands hectares,103,5
 TH_PEOPLE,тыс.человек,мың.адам,thousand people,44,2
 TH_TNG,тыс.тенге,мың теңге,thousand of tenge,64,2
