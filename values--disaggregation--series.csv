@@ -102,7 +102,7 @@ SG_XPD_HLTH,Здравоохранение,Денсаулық сақтау,Healt
 SG_XPD_PROT,Социальная помощь и социальное обеспечение,Әлеуметтік қорғау,Social assistance,1,1
 SL_EMP_FTLINJUR,Уровень производственного травматизма со смертельным исходом,Өлімге әкелетін өндірістік жарақаттың деңгейі,Fatal occupational injuries,1,1
 SL_EMP_INJUR,Уровень производственного травматизма,Өндірістік жарақаттану деңгейі,Work injury rate,1,1
-SN_STA_OVWGTN,Избыточный вес: Умеренная и сильная степень отклонения от нормы,SN_STA_OVWGTN,Children moderately or severely overweight (number) [2.2.2],34,1
+SN_STA_OVWGTN,Избыточный вес: Умеренная и сильная степень отклонения от нормы,Артық салмақ:Қалыпты деңгейден орташа және айтарлықтай ауытқу,Children moderately or severely overweight (number) [2.2.2],34,1
 SP_DYN_MRBF15,"Доля женщин в возрасте 20-24 года, вступивших в брак до наступления полных 15 лет",SP_DYN_MRBF15,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],1,1
 SP_DYN_MRBF18,"Доля женщин в возрасте 20-24 года, вступивших в брак до наступления полных 18 лет",SP_DYN_MRBF18,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],1,1
 SPI,SPI,SPI,SPI,1,1
