@@ -5,7 +5,7 @@ Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
 68.5,68.5,68.5,68.5,1,1
 ABY,ABY,ABY,ABY,1,1
 KZ YUZ,KZ YUZ,KZ YUZ,KZ YUZ,1,1
-KZABY,Абай,Абай,Abai,235,64
+KZABY,Абай,Абай,Abai,236,65
 KZABY1036,Аягозский район,Аягөз ауданы,Ayagoz district,1,1
 KZABY1042,Жарминский район,Жарма ауданы,Zharma district,1,1
 KZABY1044,Кокпектинский район,Көкпекті ауданы,Kokpekti district,1,1
@@ -88,7 +88,7 @@ KZTRT,п.Торетам,Төретам кенті,village Toretam,1,1
 KZTRZ,г.Тараз,Тараз,city Taraz,1,1
 KZTUR,г.Туркестан,Түркістан,city Turkistan,2,1
 KZUKK,KZUKK,KZUKK,KZUKK,1,1
-KZULU,Ұлытау,Ұлытау,Ulytau,235,65
+KZULU,Ұлытау,Ұлытау,Ulytau,236,66
 KZURL,г.Уральск,Орал,city Uralsk,2,1
 KZUSK,г.Усть-Каменогорск,Өскемен,city Ust-Kamenogorsk,1,1
 KZVOS,Восточно-Казахстанская,Шығыс Қазақстан,Shygys Kazakhstan,259,73
@@ -100,6 +100,6 @@ KZZHAS,KZZHAS,KZZHAS,KZZHAS,1,1
 KZZHK,г.Жезказган,Жезқазған,city Zhezkazgan,2,1
 KZZHO,г.Жанаозен,Жаңаөзен,city Zhanaozen,1,1
 KZZHR,г.Житикара,Жетіқара,city Zhitikara,2,1
-KZZHS,Жетісу,Жетісу,Zhetisu,232,64
+KZZHS,Жетісу,Жетісу,Zhetisu,233,65
 KZZHT,г.Жанатас,Жаңатас,city Zhanatas,2,1
 KZZRV,г.Зыряновск,Зыряновск,city Zyryanovsk,2,1

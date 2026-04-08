@@ -216,12 +216,14 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2021,Percent,Almaty city,KZALA,100
 2021,Percent,Shymkent city,KZSHY,100
 2022,Percent,,,100
+2022,Percent,Abai,KZABY,100
 2022,Percent,Akmola,KZAKM,100
 2022,Percent,Aktobe,KZAKT,100
 2022,Percent,Almaty,KZALM,100
 2022,Percent,Atyrau,KZATY,100
 2022,Percent,Batys Kazakhstan,KZZAP,100
 2022,Percent,Zhambyl,KZZHA,100
+2022,Percent,Zhetisu,KZZHS,100
 2022,Percent,Karagandy,KZKAR,100
 2022,Percent,Kostanay,KZKUS,100
 2022,Percent,Kyzylorda,KZKZY,100
@@ -229,17 +231,20 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,Percent,Pavlodar,KZPAV,100
 2022,Percent,Soltustik Kazakhstan,KZSEV,100
 2022,Percent,Turkistan,KZYUZ,100
+2022,Percent,Ulytau,KZULU,100
 2022,Percent,Shygys Kazakhstan,KZVOS,100
 2022,Percent,Astana city,KZNS,100
 2022,Percent,Almaty city,KZALA,100
 2022,Percent,Shymkent city,KZSHY,100
 2023,Percent,,,100
+2023,Percent,Abai,KZABY,100
 2023,Percent,Akmola,KZAKM,100
 2023,Percent,Aktobe,KZAKT,100
 2023,Percent,Almaty,KZALM,100
 2023,Percent,Atyrau,KZATY,100
 2023,Percent,Batys Kazakhstan,KZZAP,100
 2023,Percent,Zhambyl,KZZHA,100
+2023,Percent,Zhetisu,KZZHS,100
 2023,Percent,Karagandy,KZKAR,100
 2023,Percent,Kostanay,KZKUS,100
 2023,Percent,Kyzylorda,KZKZY,100
@@ -247,17 +252,20 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2023,Percent,Pavlodar,KZPAV,100
 2023,Percent,Soltustik Kazakhstan,KZSEV,100
 2023,Percent,Turkistan,KZYUZ,100
+2023,Percent,Ulytau,KZULU,100
 2023,Percent,Shygys Kazakhstan,KZVOS,100
 2023,Percent,Astana city,KZNS,100
 2023,Percent,Almaty city,KZALA,100
 2023,Percent,Shymkent city,KZSHY,100
 2024,Percent,,,100
+2024,Percent,Abai,KZABY,100
 2024,Percent,Akmola,KZAKM,100
 2024,Percent,Aktobe,KZAKT,100
 2024,Percent,Almaty,KZALM,100
 2024,Percent,Atyrau,KZATY,100
 2024,Percent,Batys Kazakhstan,KZZAP,100
 2024,Percent,Zhambyl,KZZHA,100
+2024,Percent,Zhetisu,KZZHS,100
 2024,Percent,Karagandy,KZKAR,100
 2024,Percent,Kostanay,KZKUS,100
 2024,Percent,Kyzylorda,KZKZY,100
@@ -265,7 +273,29 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2024,Percent,Pavlodar,KZPAV,100
 2024,Percent,Soltustik Kazakhstan,KZSEV,100
 2024,Percent,Turkistan,KZYUZ,100
+2024,Percent,Ulytau,KZULU,100
 2024,Percent,Shygys Kazakhstan,KZVOS,100
 2024,Percent,Astana city,KZNS,100
 2024,Percent,Almaty city,KZALA,100
 2024,Percent,Shymkent city,KZSHY,100
+2025,Percent,,,100
+2025,Percent,Abai,KZABY,100
+2025,Percent,Akmola,KZAKM,100
+2025,Percent,Aktobe,KZAKT,100
+2025,Percent,Almaty,KZALM,100
+2025,Percent,Atyrau,KZATY,100
+2025,Percent,Batys Kazakhstan,KZZAP,100
+2025,Percent,Zhambyl,KZZHA,100
+2025,Percent,Zhetisu,KZZHS,100
+2025,Percent,Karagandy,KZKAR,100
+2025,Percent,Kostanay,KZKUS,100
+2025,Percent,Kyzylorda,KZKZY,100
+2025,Percent,Mangistau,KZMAN,100
+2025,Percent,Pavlodar,KZPAV,100
+2025,Percent,Soltustik Kazakhstan,KZSEV,100
+2025,Percent,Turkistan,KZYUZ,100
+2025,Percent,Ulytau,KZULU,100
+2025,Percent,Shygys Kazakhstan,KZVOS,100
+2025,Percent,Astana city,KZNS,100
+2025,Percent,Almaty city,KZALA,100
+2025,Percent,Shymkent city,KZSHY,100
