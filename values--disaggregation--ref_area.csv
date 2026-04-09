@@ -21,7 +21,7 @@ KZAKM1160,Коргалжынский район,Қорғалжын ауданы,
 KZAKM1166,Целиноградский район,Целиноград ауданы,Tselinograd district,1,1
 KZAKM1168,Шортандинский район,Шортанды ауданы,Shortandy district,1,1
 KZAKS,г.Аксай,Ақсай,city Aksay,1,1
-KZAKSU,г.Аксу,Ақсу,city Aksu,1,1
+KZAKSU,г.Аксу,Ақсу,city Aksu,2,1
 KZAKT,Актюбинская,Ақтөбе,Aktobe,256,73
 KZAKT1532,Алгинский район,Алға ауданы,Alga district,1,1
 KZAKT1536,Байганинский район,Байғанин ауданы,Baiganin district,1,1
@@ -41,6 +41,7 @@ KZARK,г.Аркалык,Арқалық,city Arkalık,1,1
 KZATB,г.Актобе,Ақтөбе,city Aktobe,2,1
 KZATB1510,Актобе г.а.,Ақтөбе қ.ә.,Aktobe city admin.,1,1
 KZATR,г.Атырау,Атырау,city Atyrau,2,1
+KZATU,г.Актау,Ақтау қаласы,city Aktau,2,1
 KZATY,Атырауская,Атырау,Atyrau,252,71
 KZAYB,KZAYB,KZAYB,KZAYB,1,1
 KZBEI,п.Бейнеу,Бейнеу кенті,village Beineu,2,1

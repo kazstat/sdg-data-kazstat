@@ -748,3 +748,37 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2024,mg per cube meters,PM 10,Ontustik Kazakhstan,KZONT,0.0
 2024,mg per cube meters,PM 10,Shymkent city,KZSHY,0.0
 2024,mg per cube meters,PM 10,city Kentau,KZKET,0.0
+2025,mg per cube meters,PM 2.5,Astana city,KZNS,0.01
+2025,mg per cube meters,PM 2.5,City Kokshetau,KZKSH,0.036
+2025,mg per cube meters,PM 2.5,SHBKZ,KZSHB,0.0049
+2025,mg per cube meters,PM 2.5,city Aktobe,KZATB,0.0013
+2025,mg per cube meters,PM 2.5,Almaty city,KZALA,0.01
+2025,mg per cube meters,PM 2.5,city Atyrau,KZATR,0.0177
+2025,mg per cube meters,PM 2.5,KZUKK,KZUKK,0.0011
+2025,mg per cube meters,PM 2.5,Shu city,KZSHU,0.001
+2025,mg per cube meters,PM 2.5,city Karagandy,KZKRG,0.194
+2025,mg per cube meters,PM 2.5,city Zhezkazgan,KZZHK,0.003
+2025,mg per cube meters,PM 2.5,city Temirtau,KZTMT,0.116
+2025,mg per cube meters,PM 2.5,city Kostanay,KZKOS,0.0117
+2025,mg per cube meters,PM 2.5,city Kyzylorda,KZKZL,0.001
+2025,mg per cube meters,PM 2.5,city Aktau,KZATU,0.001
+2025,mg per cube meters,PM 2.5,village Beineu,KZBEI,0.007
+2025,mg per cube meters,PM 2.5,city Pavlodar,KZPVL,0.0097
+2025,mg per cube meters,PM 2.5,city Aksu,KZAKSU,0.0059
+2025,mg per cube meters,PM 10,Astana city,KZNS,0.01
+2025,mg per cube meters,PM 10,City Kokshetau,KZKSH,0.0073
+2025,mg per cube meters,PM 10,SHBKZ,KZSHB,0.0079
+2025,mg per cube meters,PM 10,city Aktobe,KZATB,0.0015
+2025,mg per cube meters,PM 10,Almaty city,KZALA,0.02
+2025,mg per cube meters,PM 10,city Atyrau,KZATR,0.0147
+2025,mg per cube meters,PM 10,city Ust-Kamenogorsk,KZUSK,0.0014
+2025,mg per cube meters,PM 10,Shu city,KZSHU,0.001
+2025,mg per cube meters,PM 10,city Karagandy,KZKRG,0.02
+2025,mg per cube meters,PM 10,city Zhezkazgan,KZZHK,0.008
+2025,mg per cube meters,PM 10,city Temirtau,KZTMT,0.116
+2025,mg per cube meters,PM 10,city Kostanay,KZKOS,0.0148
+2025,mg per cube meters,PM 10,city Kyzylorda,KZKZL,0.0024
+2025,mg per cube meters,PM 10,city Aktau,KZATU,0.2
+2025,mg per cube meters,PM 10,village Beineu,KZBEI,0.01
+2025,mg per cube meters,PM 10,city Pavlodar,KZPVL,0.0282
+2025,mg per cube meters,PM 10,city Aksu,KZAKSU,0.006
