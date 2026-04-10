@@ -9,7 +9,7 @@ M_METER3,млн.м3,млн.метр куб,M_METER3,18,1
 M_T,млн.тонн,млн.тонна,millions tonnes,73,1
 M_TNG,млн.тенге,млн.теңге,million tenge,1,1
 M_USD,млн.долл.США,млн АҚШ доллары,million US dollars,39,10
-MG_CUB_METER,мг/метр куб,мг/метр куб,mg per cube meters,93,1
+MG_CUB_METER,мг/метр куб,мг/метр куб,mg per cube meters,91,1
 MW,Мвт,Мвт,Megawatts,21,1
 NUM_ATM_PER_100000_ADL,число банкоматов на 100 000 взрослых,100 000 ересекке шаққандағы банкоматтар саны,number of ATMs per 100 000 adults,1,1
 NUM_CBBR_PER_100000_ADL,число филиалов коммерческих банков на 100 000 взрослых,100 000 ересекке шаққандағы коммерциялық банктер саны,the number of branches of commercial banks per 100 000 adults,1,1

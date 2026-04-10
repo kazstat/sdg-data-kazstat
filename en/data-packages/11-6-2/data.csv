@@ -51,7 +51,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2015,mg per cube meters,PM 2.5,city Zhezkazgan,KZZHK,0.002
 2015,mg per cube meters,PM 2.5,city Saran,KZSRN,0.0272
 2015,mg per cube meters,PM 2.5,Karabalyk,KZKBL,0.0131
-2015,mg per cube meters,PM 2.5,Aktobe,KZAKT,0.016
+2015,mg per cube meters,PM 2.5,city Aktau,KZATU,0.016
 2015,mg per cube meters,PM 2.5,village Beineu,KZBEI,0.017
 2015,mg per cube meters,PM 2.5,city Pavlodar,KZPVL,0.016
 2015,mg per cube meters,PM 2.5,city Ekibastuz,KZEBT,0.015
@@ -95,7 +95,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2015,mg per cube meters,PM 10,city Kyzylorda,KZKZL,0.029
 2015,mg per cube meters,PM 10,village Akay,KZAKY,0.0002
 2015,mg per cube meters,PM 10,village Toretam,KZTRT,0.0006
-2015,mg per cube meters,PM 10,Aktobe,KZAKT,0.063
+2015,mg per cube meters,PM 10,city Aktau,KZATU,0.063
 2015,mg per cube meters,PM 10,city Zhanaozen,KZZHO,0.046
 2015,mg per cube meters,PM 10,village Beineu,KZBEI,0.0807
 2015,mg per cube meters,PM 10,city Pavlodar,KZPVL,0.039
@@ -130,7 +130,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2016,mg per cube meters,PM 2.5,city Saran,KZSRN,0.02
 2016,mg per cube meters,PM 2.5,Karabalyk,KZKBL,0.02
 2016,mg per cube meters,PM 2.5,city Kyzylorda,KZKZL,0.02
-2016,mg per cube meters,PM 2.5,Aktobe,KZAKT,0.0
+2016,mg per cube meters,PM 2.5,city Aktau,KZATU,0.0
 2016,mg per cube meters,PM 2.5,village Beineu,KZBEI,0.01
 2016,mg per cube meters,PM 2.5,city Pavlodar,KZPVL,0.008
 2016,mg per cube meters,PM 2.5,city Ekibastuz,KZEBT,0.02
@@ -173,7 +173,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2016,mg per cube meters,PM 10,city Kyzylorda,KZKZL,0.02
 2016,mg per cube meters,PM 10,village Akay,KZAKY,0.0001
 2016,mg per cube meters,PM 10,village Toretam,KZTRT,0.0001
-2016,mg per cube meters,PM 10,Aktobe,KZAKT,0.01
+2016,mg per cube meters,PM 10,city Aktau,KZATU,0.01
 2016,mg per cube meters,PM 10,city Zhanaozen,KZZHO,0.02
 2016,mg per cube meters,PM 10,village Beineu,KZBEI,0.06
 2016,mg per cube meters,PM 10,city Pavlodar,KZPVL,0.016
@@ -207,7 +207,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2017,mg per cube meters,PM 2.5,city Saran,KZSRN,0.02
 2017,mg per cube meters,PM 2.5,Karabalyk,KZKBL,0.02
 2017,mg per cube meters,PM 2.5,city Kyzylorda,KZKZL,0.01
-2017,mg per cube meters,PM 2.5,Aktobe,KZAKT,0.02
+2017,mg per cube meters,PM 2.5,city Aktau,KZATU,0.02
 2017,mg per cube meters,PM 2.5,village Beineu,KZBEI,0.01
 2017,mg per cube meters,PM 2.5,city Pavlodar,KZPVL,0.0053
 2017,mg per cube meters,PM 2.5,city Ekibastuz,KZEBT,0.01
@@ -248,7 +248,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2017,mg per cube meters,PM 10,KZLIS,KZLIS,0.023
 2017,mg per cube meters,PM 10,city Kyzylorda,KZKZL,0.04
 2017,mg per cube meters,PM 10,village Toretam,KZTRT,0.0
-2017,mg per cube meters,PM 10,Aktobe,KZAKT,0.1
+2017,mg per cube meters,PM 10,city Aktau,KZATU,0.1
 2017,mg per cube meters,PM 10,city Zhanaozen,KZZHO,0.002
 2017,mg per cube meters,PM 10,village Beineu,KZBEI,0.05
 2017,mg per cube meters,PM 10,city Pavlodar,KZPVL,0.0069
@@ -276,7 +276,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2018,mg per cube meters,PM 2.5,city Saran,KZSRN,0.017
 2018,mg per cube meters,PM 2.5,Karabalyk,KZKBL,0.01
 2018,mg per cube meters,PM 2.5,city Kyzylorda,KZKZL,0.01
-2018,mg per cube meters,PM 2.5,Aktobe,KZAKT,0.009
+2018,mg per cube meters,PM 2.5,city Aktau,KZATU,0.009
 2018,mg per cube meters,PM 2.5,village Beineu,KZBEI,0.005
 2018,mg per cube meters,PM 2.5,city Pavlodar,KZPVL,0.0046
 2018,mg per cube meters,PM 2.5,city Ekibastuz,KZEBT,0.0
@@ -313,7 +313,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2018,mg per cube meters,PM 10,KZLIS,KZLIS,0.026
 2018,mg per cube meters,PM 10,city Kyzylorda,KZKZL,0.0054
 2018,mg per cube meters,PM 10,village Toretam,KZTRT,0.0
-2018,mg per cube meters,PM 10,Aktobe,KZAKT,0.032
+2018,mg per cube meters,PM 10,city Aktau,KZATU,0.032
 2018,mg per cube meters,PM 10,city Zhanaozen,KZZHO,0.0
 2018,mg per cube meters,PM 10,village Beineu,KZBEI,0.011
 2018,mg per cube meters,PM 10,city Pavlodar,KZPVL,0.0066
@@ -344,7 +344,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2019,mg per cube meters,PM 2.5,city Kostanay,KZKOS,0.03
 2019,mg per cube meters,PM 2.5,Karabalyk,KZKBL,0.0019
 2019,mg per cube meters,PM 2.5,city Kyzylorda,KZKZL,0.005
-2019,mg per cube meters,PM 2.5,Aktobe,KZAKT,0.055
+2019,mg per cube meters,PM 2.5,city Aktau,KZATU,0.055
 2019,mg per cube meters,PM 2.5,city Pavlodar,KZPVL,0.0072
 2019,mg per cube meters,PM 2.5,Ontustik Kazakhstan,KZONT,0.012
 2019,mg per cube meters,PM 2.5,Shymkent city,KZSHY,0.02
@@ -379,7 +379,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2019,mg per cube meters,PM 10,Karabalyk,KZKBL,0.0053
 2019,mg per cube meters,PM 10,city Kyzylorda,KZKZL,0.001
 2019,mg per cube meters,PM 10,village Toretam,KZTRT,2.0
-2019,mg per cube meters,PM 10,Aktobe,KZAKT,0.11
+2019,mg per cube meters,PM 10,city Aktau,KZATU,0.11
 2019,mg per cube meters,PM 10,city Zhanaozen,KZZHO,0.023
 2019,mg per cube meters,PM 10,city Pavlodar,KZPVL,0.0411
 2019,mg per cube meters,PM 10,city Ekibastuz,KZEBT,0.0782
@@ -408,7 +408,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2020,mg per cube meters,PM 2.5,city Kostanay,KZKOS,0.0
 2020,mg per cube meters,PM 2.5,Karabalyk,KZKBL,0.01
 2020,mg per cube meters,PM 2.5,city Kyzylorda,KZKZL,0.001
-2020,mg per cube meters,PM 2.5,Aktobe,KZAKT,0.01
+2020,mg per cube meters,PM 2.5,city Aktau,KZATU,0.01
 2020,mg per cube meters,PM 2.5,city Pavlodar,KZPVL,0.007
 2020,mg per cube meters,PM 2.5,Ontustik Kazakhstan,KZONT,0.004
 2020,mg per cube meters,PM 2.5,Shymkent city,KZSHY,0.04
@@ -443,7 +443,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2020,mg per cube meters,PM 10,Karabalyk,KZKBL,0.0
 2020,mg per cube meters,PM 10,city Kyzylorda,KZKZL,0.001
 2020,mg per cube meters,PM 10,village Toretam,KZTRT,0.0
-2020,mg per cube meters,PM 10,Aktobe,KZAKT,0.1
+2020,mg per cube meters,PM 10,city Aktau,KZATU,0.1
 2020,mg per cube meters,PM 10,city Zhanaozen,KZZHO,0.02
 2020,mg per cube meters,PM 10,city Pavlodar,KZPVL,0.01
 2020,mg per cube meters,PM 10,city Ekibastuz,KZEBT,0.0
@@ -475,7 +475,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2021,mg per cube meters,PM 10,city Zhitikara,KZZHR,0.0042
 2021,mg per cube meters,PM 10,KZLIS,KZLIS,0.0033
 2021,mg per cube meters,PM 2.5,city Kyzylorda,KZKZL,0.0013
-2021,mg per cube meters,PM 2.5,Aktobe,KZAKT,0.01
+2021,mg per cube meters,PM 2.5,city Aktau,KZATU,0.01
 2021,mg per cube meters,PM 2.5,city Pavlodar,KZPVL,0.01
 2021,mg per cube meters,PM 2.5,Ontustik Kazakhstan,KZONT,0.002
 2021,mg per cube meters,PM 2.5,Shymkent city,KZSHY,0.023
@@ -515,7 +515,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2021,mg per cube meters,PM 10,KZLIS,KZLIS,0.0059
 2021,mg per cube meters,PM 10,city Kyzylorda,KZKZL,0.0142
 2021,mg per cube meters,PM 10,village Toretam,KZTRT,0.0
-2021,mg per cube meters,PM 10,Aktobe,KZAKT,0.1
+2021,mg per cube meters,PM 10,city Aktau,KZATU,0.1
 2021,mg per cube meters,PM 10,city Zhanaozen,KZZHO,0.02
 2021,mg per cube meters,PM 10,village Beineu,KZBEI,0.06
 2021,mg per cube meters,PM 10,city Pavlodar,KZPVL,0.04
@@ -549,7 +549,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2022,mg per cube meters,PM 2.5,city Zhitikara,KZZHR,0.0
 2022,mg per cube meters,PM 2.5,KZLIS,KZLIS,0.0
 2022,mg per cube meters,PM 2.5,city Kyzylorda,KZKZL,0.0084
-2022,mg per cube meters,PM 2.5,Aktobe,KZAKT,0.06
+2022,mg per cube meters,PM 2.5,city Aktau,KZATU,0.06
 2022,mg per cube meters,PM 2.5,city Pavlodar,KZPVL,0.01
 2022,mg per cube meters,PM 2.5,Ontustik Kazakhstan,KZONT,0.002
 2022,mg per cube meters,PM 2.5,Shymkent city,KZSHY,0.004
@@ -589,7 +589,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2022,mg per cube meters,PM 10,KZLIS,KZLIS,0.0
 2022,mg per cube meters,PM 10,city Kyzylorda,KZKZL,0.0696
 2022,mg per cube meters,PM 10,village Toretam,KZTRT,0.0
-2022,mg per cube meters,PM 10,Aktobe,KZAKT,0.11
+2022,mg per cube meters,PM 10,city Aktau,KZATU,0.11
 2022,mg per cube meters,PM 10,city Zhanaozen,KZZHO,0.03
 2022,mg per cube meters,PM 10,village Beineu,KZBEI,0.028
 2022,mg per cube meters,PM 10,city Pavlodar,KZPVL,0.013
@@ -624,7 +624,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2023,mg per cube meters,PM 10,city Zhitikara,KZZHR,0.0
 2023,mg per cube meters,PM 10,KZLIS,KZLIS,0.0
 2023,mg per cube meters,PM 2.5,city Kyzylorda,KZKZL,0.01
-2023,mg per cube meters,PM 2.5,Aktobe,KZAKT,0.004
+2023,mg per cube meters,PM 2.5,city Aktau,KZATU,0.004
 2023,mg per cube meters,PM 2.5,city Pavlodar,KZPVL,0.01
 2023,mg per cube meters,PM 2.5,Ontustik Kazakhstan,KZONT,0.002
 2023,mg per cube meters,PM 2.5,Shymkent city,KZSHY,0.009
@@ -664,7 +664,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2023,mg per cube meters,PM 10,KZLIS,KZLIS,0.0
 2023,mg per cube meters,PM 10,city Kyzylorda,KZKZL,0.05
 2023,mg per cube meters,PM 10,village Toretam,KZTRT,0.0
-2023,mg per cube meters,PM 10,Aktobe,KZAKT,0.2
+2023,mg per cube meters,PM 10,city Aktau,KZATU,0.2
 2023,mg per cube meters,PM 10,city Zhanaozen,KZZHO,0.03
 2023,mg per cube meters,PM 10,village Beineu,KZBEI,0.02
 2023,mg per cube meters,PM 10,city Pavlodar,KZPVL,0.011
@@ -699,7 +699,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2024,mg per cube meters,PM 10,city Zhitikara,KZZHR,0.0
 2024,mg per cube meters,PM 10,KZLIS,KZLIS,0.0
 2024,mg per cube meters,PM 2.5,city Kyzylorda,KZKZL,0.0
-2024,mg per cube meters,PM 2.5,Aktobe,KZAKT,0.001
+2024,mg per cube meters,PM 2.5,city Aktau,KZATU,0.001
 2024,mg per cube meters,PM 2.5,city Pavlodar,KZPVL,0.0
 2024,mg per cube meters,PM 2.5,Ontustik Kazakhstan,KZONT,0.0
 2024,mg per cube meters,PM 2.5,Shymkent city,KZSHY,0.0
@@ -739,7 +739,7 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2024,mg per cube meters,PM 10,KZLIS,KZLIS,0.0
 2024,mg per cube meters,PM 10,city Kyzylorda,KZKZL,0.01
 2024,mg per cube meters,PM 10,village Toretam,KZTRT,0.02
-2024,mg per cube meters,PM 10,Aktobe,KZAKT,0.2
+2024,mg per cube meters,PM 10,city Aktau,KZATU,0.2
 2024,mg per cube meters,PM 10,city Zhanaozen,KZZHO,0.0
 2024,mg per cube meters,PM 10,village Beineu,KZBEI,0.01
 2024,mg per cube meters,PM 10,city Pavlodar,KZPVL,0.0
