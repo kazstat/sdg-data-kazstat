@@ -597,3 +597,93 @@ Year,UNIT_MEASURE,SERIES,Area,Sex,Age,Value
 2024,Percent,Not safe,,,60+,10.7
 2024,Percent,Very unsafe,,,60+,1.3
 2024,Percent,Refused to answer,,,60+,0.7
+2025,Percent,,,,,100.0
+2025,Percent,Total security,,,,64.9
+2025,Percent,Relatively safe,,,,27.6
+2025,Percent,Not safe,,,,5.7
+2025,Percent,Very unsafe,,,,1.1
+2025,Percent,Refused to answer,,,,0.7
+2025,Percent,,urban,,,100.0
+2025,Percent,Total security,urban,,,63.4
+2025,Percent,Relatively safe,urban,,,28.4
+2025,Percent,Not safe,urban,,,6.2
+2025,Percent,Very unsafe,urban,,,1.3
+2025,Percent,Refused to answer,urban,,,0.8
+2025,Percent,,rural,,,100.0
+2025,Percent,Total security,rural,,,63.4
+2025,Percent,Relatively safe,rural,,,28.4
+2025,Percent,Not safe,rural,,,6.2
+2025,Percent,Very unsafe,rural,,,1.3
+2025,Percent,Refused to answer,rural,,,0.8
+2025,Percent,,,Male,,100.0
+2025,Percent,Total security,,Male,,72.2
+2025,Percent,Relatively safe,,Male,,23.0
+2025,Percent,Not safe,,Male,,3.6
+2025,Percent,Very unsafe,,Male,,0.7
+2025,Percent,Refused to answer,,Male,,0.5
+2025,Percent,,,Female,,100.0
+2025,Percent,Total security,,Female,,58.2
+2025,Percent,Relatively safe,,Female,,31.8
+2025,Percent,Not safe,,Female,,7.6
+2025,Percent,Very unsafe,,Female,,1.5
+2025,Percent,Refused to answer,,Female,,1.0
+2025,Percent,,,,15-19,100.0
+2025,Percent,Total security,,,15-19,61.7
+2025,Percent,Relatively safe,,,15-19,27.8
+2025,Percent,Not safe,,,15-19,7.0
+2025,Percent,Very unsafe,,,15-19,2.2
+2025,Percent,Refused to answer,,,15-19,1.2
+2025,Percent,,,,20-24,100.0
+2025,Percent,Total security,,,20-24,67.9
+2025,Percent,Relatively safe,,,20-24,25.4
+2025,Percent,Not safe,,,20-24,4.8
+2025,Percent,Very unsafe,,,20-24,1.1
+2025,Percent,Refused to answer,,,20-24,0.8
+2025,Percent,,,,25-29,100.0
+2025,Percent,Total security,,,25-29,69.8
+2025,Percent,Relatively safe,,,25-29,25.7
+2025,Percent,Not safe,,,25-29,3.2
+2025,Percent,Very unsafe,,,25-29,0.8
+2025,Percent,Refused to answer,,,25-29,0.5
+2025,Percent,,,,30-34,100.0
+2025,Percent,Total security,,,30-34,72.3
+2025,Percent,Relatively safe,,,30-34,22.4
+2025,Percent,Not safe,,,30-34,4.0
+2025,Percent,Very unsafe,,,30-34,0.6
+2025,Percent,Refused to answer,,,30-34,0.8
+2025,Percent,,,,35-39,100.0
+2025,Percent,Total security,,,35-39,70.4
+2025,Percent,Relatively safe,,,35-39,25.1
+2025,Percent,Not safe,,,35-39,3.3
+2025,Percent,Very unsafe,,,35-39,0.5
+2025,Percent,Refused to answer,,,35-39,0.7
+2025,Percent,,,,40-44,100.0
+2025,Percent,Total security,,,40-44,69.6
+2025,Percent,Relatively safe,,,40-44,26.2
+2025,Percent,Not safe,,,40-44,3.3
+2025,Percent,Very unsafe,,,40-44,0.4
+2025,Percent,Refused to answer,,,40-44,0.4
+2025,Percent,,,,45-49,100.0
+2025,Percent,Total security,,,45-49,65.4
+2025,Percent,Relatively safe,,,45-49,29.7
+2025,Percent,Not safe,,,45-49,3.9
+2025,Percent,Very unsafe,,,45-49,0.5
+2025,Percent,Refused to answer,,,45-49,0.5
+2025,Percent,,,,50-54,100.0
+2025,Percent,Total security,,,50-54,65.4
+2025,Percent,Relatively safe,,,50-54,29.3
+2025,Percent,Not safe,,,50-54,4.6
+2025,Percent,Very unsafe,,,50-54,0.3
+2025,Percent,Refused to answer,,,50-54,0.3
+2025,Percent,,,,55-59,100.0
+2025,Percent,Total security,,,55-59,66.2
+2025,Percent,Relatively safe,,,55-59,28.6
+2025,Percent,Not safe,,,55-59,3.7
+2025,Percent,Very unsafe,,,55-59,1.0
+2025,Percent,Refused to answer,,,55-59,0.5
+2025,Percent,,,,60+,100.0
+2025,Percent,Total security,,,60+,52.5
+2025,Percent,Relatively safe,,,60+,32.4
+2025,Percent,Not safe,,,60+,12.0
+2025,Percent,Very unsafe,,,60+,2.1
+2025,Percent,Refused to answer,,,60+,1.0
