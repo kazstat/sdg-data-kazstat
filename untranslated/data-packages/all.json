@@ -5522,6 +5522,16 @@
             "type": "string"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                ""
+              ]
+            }
+          },
+          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
@@ -5531,6 +5541,54 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "95.3",
+                "86.6",
+                "81.7",
+                "73.4",
+                "66.4",
+                "58.5",
+                "52.7",
+                "52.2",
+                "48.2",
+                "45.6",
+                "35.7",
+                "35.9",
+                "36.5",
+                "34.7",
+                "33.4",
+                "KZABY",
+                "KZAKM",
+                "KZAKT",
+                "KZALM",
+                "KZATY",
+                "KZZAP",
+                "KZZHA",
+                "KZZHS",
+                "KZKAR",
+                "KZKUS",
+                "KZKZY",
+                "KZMAN",
+                "KZPAV",
+                "KZSEV",
+                "KZYUZ",
+                "KZULU",
+                "KZVOS",
+                "KZNS",
+                "KZALA",
+                "KZSHY",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

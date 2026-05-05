@@ -6061,6 +6061,17 @@
             "title": "Unit of measure"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
@@ -6071,6 +6082,56 @@
               ]
             },
             "title": "Area"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "95.3",
+                "86.6",
+                "81.7",
+                "73.4",
+                "66.4",
+                "58.5",
+                "52.7",
+                "52.2",
+                "48.2",
+                "45.6",
+                "35.7",
+                "35.9",
+                "36.5",
+                "34.7",
+                "33.4",
+                "Abai",
+                "Akmola",
+                "Aktobe",
+                "Almaty",
+                "Atyrau",
+                "Batys Kazakhstan",
+                "Zhambyl",
+                "Zhetisu",
+                "Karagandy",
+                "Kostanay",
+                "Kyzylorda",
+                "Mangistau",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Turkistan",
+                "Ulytau",
+                "Shygys Kazakhstan",
+                "Astana city",
+                "Almaty city",
+                "Shymkent city",
+                ""
+              ]
+            },
+            "title": "Regions"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
