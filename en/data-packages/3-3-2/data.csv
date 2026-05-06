@@ -44,23 +44,150 @@ Year,UNIT_MEASURE,Sex,Area,Regions,GeoCode,Value
 2024,per 100000 population,,,,,33.4
 2024,per 100000 population,,urban,,,33.0
 2024,per 100000 population,,rural,,,34.2
-2019,per 100000 population,Male,,Abai,KZABY,0.0
-2019,per 100000 population,Male,,Akmola,KZAKM,3.7
-2019,per 100000 population,Male,,Aktobe,KZAKT,43.0
-2019,per 100000 population,Male,,Almaty,KZALM,36.0
-2019,per 100000 population,Male,,Atyrau,KZATY,60.5
-2019,per 100000 population,Male,,Batys Kazakhstan,KZZAP,39.2
-2019,per 100000 population,Male,,Zhambyl,KZZHA,37.5
-2019,per 100000 population,Male,,Zhetisu,KZZHS,0.0
-2019,per 100000 population,Male,,Karagandy,KZKAR,25.6
-2019,per 100000 population,Male,,Kostanay,KZKUS,41.3
-2019,per 100000 population,Male,,Kyzylorda,KZKZY,57.8
-2019,per 100000 population,Male,,Mangistau,KZMAN,1038.3
-2019,per 100000 population,Male,,Pavlodar,KZPAV,34.6
-2019,per 100000 population,Male,,Soltustik Kazakhstan,KZSEV,39.7
-2019,per 100000 population,Male,,Turkistan,KZYUZ,30.1
-2019,per 100000 population,Male,,Ulytau,KZULU,0.0
-2019,per 100000 population,Male,,Shygys Kazakhstan,KZVOS,38.0
-2019,per 100000 population,Male,,Astana city,KZNS,42.8
-2019,per 100000 population,Male,,Almaty city,KZALA,26.5
-2019,per 100000 population,Male,,Shymkent city,KZSHY,35.2
+2019,per 100000 population,,,,,73.0
+2019,per 100000 population,Female,,Abai,KZABY,0.0
+2019,per 100000 population,Female,,Akmola,KZAKM,3.7
+2019,per 100000 population,Female,,Aktobe,KZAKT,43.0
+2019,per 100000 population,Female,,Almaty,KZALM,36.0
+2019,per 100000 population,Female,,Atyrau,KZATY,60.5
+2019,per 100000 population,Female,,Batys Kazakhstan,KZZAP,39.2
+2019,per 100000 population,Female,,Zhambyl,KZZHA,37.5
+2019,per 100000 population,Female,,Zhetisu,KZZHS,0.0
+2019,per 100000 population,Female,,Karagandy,KZKAR,25.6
+2019,per 100000 population,Female,,Kostanay,KZKUS,41.3
+2019,per 100000 population,Female,,Kyzylorda,KZKZY,57.8
+2019,per 100000 population,Female,,Mangistau,KZMAN,1038.3
+2019,per 100000 population,Female,,Pavlodar,KZPAV,34.6
+2019,per 100000 population,Female,,Soltustik Kazakhstan,KZSEV,39.7
+2019,per 100000 population,Female,,Turkistan,KZYUZ,30.1
+2019,per 100000 population,Female,,Ulytau,KZULU,0.0
+2019,per 100000 population,Female,,Shygys Kazakhstan,KZVOS,38.0
+2019,per 100000 population,Female,,Astana city,KZNS,42.8
+2019,per 100000 population,Female,,Almaty city,KZALA,26.5
+2019,per 100000 population,Female,,Shymkent city,KZSHY,35.2
+2020,per 100000 population,,,,,29.1
+2020,per 100000 population,Female,,Abai,KZABY,0.0
+2020,per 100000 population,Female,,Akmola,KZAKM,27.2
+2020,per 100000 population,Female,,Aktobe,KZAKT,31.1
+2020,per 100000 population,Female,,Almaty,KZALM,28.2
+2020,per 100000 population,Female,,Atyrau,KZATY,48.5
+2020,per 100000 population,Female,,Batys Kazakhstan,KZZAP,31.6
+2020,per 100000 population,Female,,Zhambyl,KZZHA,29.1
+2020,per 100000 population,Female,,Zhetisu,KZZHS,0.0
+2020,per 100000 population,Female,,Karagandy,KZKAR,24.4
+2020,per 100000 population,Female,,Kostanay,KZKUS,33.4
+2020,per 100000 population,Female,,Kyzylorda,KZKZY,47.6
+2020,per 100000 population,Female,,Mangistau,KZMAN,44.7
+2020,per 100000 population,Female,,Pavlodar,KZPAV,26.8
+2020,per 100000 population,Female,,Soltustik Kazakhstan,KZSEV,24.6
+2020,per 100000 population,Female,,Turkistan,KZYUZ,29.6
+2020,per 100000 population,Female,,Ulytau,KZULU,0.0
+2020,per 100000 population,Female,,Shygys Kazakhstan,KZVOS,22.0
+2020,per 100000 population,Female,,Astana city,KZNS,33.5
+2020,per 100000 population,Female,,Almaty city,KZALA,21.7
+2020,per 100000 population,Female,,Shymkent city,KZSHY,18.1
+2021,per 100000 population,,,,,28.6
+2021,per 100000 population,Female,,Abai,KZABY,0.0
+2021,per 100000 population,Female,,Akmola,KZAKM,29.5
+2021,per 100000 population,Female,,Aktobe,KZAKT,32.1
+2021,per 100000 population,Female,,Almaty,KZALM,25.1
+2021,per 100000 population,Female,,Atyrau,KZATY,51.6
+2021,per 100000 population,Female,,Batys Kazakhstan,KZZAP,33.6
+2021,per 100000 population,Female,,Zhambyl,KZZHA,31.0
+2021,per 100000 population,Female,,Zhetisu,KZZHS,0.0
+2021,per 100000 population,Female,,Karagandy,KZKAR,25.9
+2021,per 100000 population,Female,,Kostanay,KZKUS,30.9
+2021,per 100000 population,Female,,Kyzylorda,KZKZY,43.4
+2021,per 100000 population,Female,,Mangistau,KZMAN,39.7
+2021,per 100000 population,Female,,Pavlodar,KZPAV,24.1
+2021,per 100000 population,Female,,Soltustik Kazakhstan,KZSEV,19.6
+2021,per 100000 population,Female,,Turkistan,KZYUZ,25.0
+2021,per 100000 population,Female,,Ulytau,KZULU,0.0
+2021,per 100000 population,Female,,Shygys Kazakhstan,KZVOS,27.1
+2021,per 100000 population,Female,,Astana city,KZNS,34.1
+2021,per 100000 population,Female,,Almaty city,KZALA,19.7
+2021,per 100000 population,Female,,Shymkent city,KZSHY,23.7
+2022,per 100000 population,,,,,29.1
+2022,per 100000 population,Female,,Abai,KZABY,26.3
+2022,per 100000 population,Female,,Akmola,KZAKM,24.8
+2022,per 100000 population,Female,,Aktobe,KZAKT,32.3
+2022,per 100000 population,Female,,Almaty,KZALM,42.3
+2022,per 100000 population,Female,,Atyrau,KZATY,49.1
+2022,per 100000 population,Female,,Batys Kazakhstan,KZZAP,34.2
+2022,per 100000 population,Female,,Zhambyl,KZZHA,25.6
+2022,per 100000 population,Female,,Zhetisu,KZZHS,0.0
+2022,per 100000 population,Female,,Karagandy,KZKAR,29.9
+2022,per 100000 population,Female,,Kostanay,KZKUS,37.8
+2022,per 100000 population,Female,,Kyzylorda,KZKZY,47.0
+2022,per 100000 population,Female,,Mangistau,KZMAN,40.7
+2022,per 100000 population,Female,,Pavlodar,KZPAV,29.5
+2022,per 100000 population,Female,,Soltustik Kazakhstan,KZSEV,26.3
+2022,per 100000 population,Female,,Turkistan,KZYUZ,22.7
+2022,per 100000 population,Female,,Ulytau,KZULU,41.6
+2022,per 100000 population,Female,,Shygys Kazakhstan,KZVOS,26.2
+2022,per 100000 population,Female,,Astana city,KZNS,31.1
+2022,per 100000 population,Female,,Almaty city,KZALA,18.4
+2022,per 100000 population,Female,,Shymkent city,KZSHY,23.6
+2023,per 100000 population,,,,,27.5
+2023,per 100000 population,Female,,Abai,KZABY,25.8
+2023,per 100000 population,Female,,Akmola,KZAKM,21.6
+2023,per 100000 population,Female,,Aktobe,KZAKT,32.2
+2023,per 100000 population,Female,,Almaty,KZALM,32.9
+2023,per 100000 population,Female,,Atyrau,KZATY,36.2
+2023,per 100000 population,Female,,Batys Kazakhstan,KZZAP,30.6
+2023,per 100000 population,Female,,Zhambyl,KZZHA,28.0
+2023,per 100000 population,Female,,Zhetisu,KZZHS,28.6
+2023,per 100000 population,Female,,Karagandy,KZKAR,25.5
+2023,per 100000 population,Female,,Kostanay,KZKUS,28.9
+2023,per 100000 population,Female,,Kyzylorda,KZKZY,48.9
+2023,per 100000 population,Female,,Mangistau,KZMAN,31.0
+2023,per 100000 population,Female,,Pavlodar,KZPAV,27.5
+2023,per 100000 population,Female,,Soltustik Kazakhstan,KZSEV,26.2
+2023,per 100000 population,Female,,Turkistan,KZYUZ,22.1
+2023,per 100000 population,Female,,Ulytau,KZULU,30.9
+2023,per 100000 population,Female,,Shygys Kazakhstan,KZVOS,23.4
+2023,per 100000 population,Female,,Astana city,KZNS,31.3
+2023,per 100000 population,Female,,Almaty city,KZALA,18.3
+2023,per 100000 population,Female,,Shymkent city,KZSHY,21.6
+2024,per 100000 population,,,,,25.9
+2024,per 100000 population,Female,,Abai,KZABY,26.3
+2024,per 100000 population,Female,,Akmola,KZAKM,21.9
+2024,per 100000 population,Female,,Aktobe,KZAKT,31.6
+2024,per 100000 population,Female,,Almaty,KZALM,28.2
+2024,per 100000 population,Female,,Atyrau,KZATY,31.0
+2024,per 100000 population,Female,,Batys Kazakhstan,KZZAP,32.9
+2024,per 100000 population,Female,,Zhambyl,KZZHA,23.2
+2024,per 100000 population,Female,,Zhetisu,KZZHS,26.4
+2024,per 100000 population,Female,,Karagandy,KZKAR,26.4
+2024,per 100000 population,Female,,Kostanay,KZKUS,25.5
+2024,per 100000 population,Female,,Kyzylorda,KZKZY,44.8
+2024,per 100000 population,Female,,Mangistau,KZMAN,35.5
+2024,per 100000 population,Female,,Pavlodar,KZPAV,22.2
+2024,per 100000 population,Female,,Soltustik Kazakhstan,KZSEV,20.9
+2024,per 100000 population,Female,,Turkistan,KZYUZ,21.2
+2024,per 100000 population,Female,,Ulytau,KZULU,36.3
+2024,per 100000 population,Female,,Shygys Kazakhstan,KZVOS,23.8
+2024,per 100000 population,Female,,Astana city,KZNS,29.1
+2024,per 100000 population,Female,,Almaty city,KZALA,19.1
+2024,per 100000 population,Female,,Shymkent city,KZSHY,18.7
+2025,per 100000 population,,,,,23.5
+2025,per 100000 population,Female,,Abai,KZABY,25.2
+2025,per 100000 population,Female,,Akmola,KZAKM,20.5
+2025,per 100000 population,Female,,Aktobe,KZAKT,26.6
+2025,per 100000 population,Female,,Almaty,KZALM,28.1
+2025,per 100000 population,Female,,Atyrau,KZATY,30.3
+2025,per 100000 population,Female,,Batys Kazakhstan,KZZAP,23.1
+2025,per 100000 population,Female,,Zhambyl,KZZHA,22.8
+2025,per 100000 population,Female,,Zhetisu,KZZHS,26.3
+2025,per 100000 population,Female,,Karagandy,KZKAR,21.5
+2025,per 100000 population,Female,,Kostanay,KZKUS,21.6
+2025,per 100000 population,Female,,Kyzylorda,KZKZY,43.6
+2025,per 100000 population,Female,,Mangistau,KZMAN,32.3
+2025,per 100000 population,Female,,Pavlodar,KZPAV,21.6
+2025,per 100000 population,Female,,Soltustik Kazakhstan,KZSEV,17.5
+2025,per 100000 population,Female,,Turkistan,KZYUZ,22.8
+2025,per 100000 population,Female,,Ulytau,KZULU,24.1
+2025,per 100000 population,Female,,Shygys Kazakhstan,KZVOS,21.6
+2025,per 100000 population,Female,,Astana city,KZNS,24.2
+2025,per 100000 population,Female,,Almaty city,KZALA,14.7
+2025,per 100000 population,Female,,Shymkent city,KZSHY,18.7
