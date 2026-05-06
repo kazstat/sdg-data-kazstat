@@ -26,6 +26,7 @@
             "constraints": {
               "enum": [
                 "Female",
+                "Male",
                 ""
               ]
             },
@@ -48,6 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "73",
                 "Abai",
                 "Akmola",
                 "Aktobe",
@@ -68,6 +70,18 @@
                 "Astana city",
                 "Almaty city",
                 "Shymkent city",
+                "29.1",
+                "28.6",
+                "27.5",
+                "25.9",
+                "23.5",
+                "105.2",
+                "44.6",
+                "43.8",
+                "44.2",
+                "42.2",
+                "41.3",
+                "36.9",
                 ""
               ]
             },
