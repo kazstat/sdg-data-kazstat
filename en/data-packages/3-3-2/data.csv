@@ -44,7 +44,7 @@ Year,UNIT_MEASURE,Sex,Area,Regions,GeoCode,Value
 2024,per 100000 population,,,,,33.4
 2024,per 100000 population,,urban,,,33.0
 2024,per 100000 population,,rural,,,34.2
-2019,per 100000 population,Female,,73,73,
+2019,per 100000 population,Female,,,,73.0
 2019,per 100000 population,Female,,Abai,KZABY,0.0
 2019,per 100000 population,Female,,Akmola,KZAKM,3.7
 2019,per 100000 population,Female,,Aktobe,KZAKT,43.0
@@ -65,7 +65,7 @@ Year,UNIT_MEASURE,Sex,Area,Regions,GeoCode,Value
 2019,per 100000 population,Female,,Astana city,KZNS,42.8
 2019,per 100000 population,Female,,Almaty city,KZALA,26.5
 2019,per 100000 population,Female,,Shymkent city,KZSHY,35.2
-2020,per 100000 population,Female,,29.1,29.1,
+2020,per 100000 population,Female,,,,29.1
 2020,per 100000 population,Female,,Abai,KZABY,0.0
 2020,per 100000 population,Female,,Akmola,KZAKM,27.2
 2020,per 100000 population,Female,,Aktobe,KZAKT,31.1
@@ -86,7 +86,7 @@ Year,UNIT_MEASURE,Sex,Area,Regions,GeoCode,Value
 2020,per 100000 population,Female,,Astana city,KZNS,33.5
 2020,per 100000 population,Female,,Almaty city,KZALA,21.7
 2020,per 100000 population,Female,,Shymkent city,KZSHY,18.1
-2021,per 100000 population,Female,,28.6,28.6,
+2021,per 100000 population,Female,,,,28.6
 2021,per 100000 population,Female,,Abai,KZABY,0.0
 2021,per 100000 population,Female,,Akmola,KZAKM,29.5
 2021,per 100000 population,Female,,Aktobe,KZAKT,32.1
@@ -107,7 +107,7 @@ Year,UNIT_MEASURE,Sex,Area,Regions,GeoCode,Value
 2021,per 100000 population,Female,,Astana city,KZNS,34.1
 2021,per 100000 population,Female,,Almaty city,KZALA,19.7
 2021,per 100000 population,Female,,Shymkent city,KZSHY,23.7
-2022,per 100000 population,Female,,29.1,29.1,
+2022,per 100000 population,Female,,,,29.1
 2022,per 100000 population,Female,,Abai,KZABY,26.3
 2022,per 100000 population,Female,,Akmola,KZAKM,24.8
 2022,per 100000 population,Female,,Aktobe,KZAKT,32.3
@@ -128,7 +128,7 @@ Year,UNIT_MEASURE,Sex,Area,Regions,GeoCode,Value
 2022,per 100000 population,Female,,Astana city,KZNS,31.1
 2022,per 100000 population,Female,,Almaty city,KZALA,18.4
 2022,per 100000 population,Female,,Shymkent city,KZSHY,23.6
-2023,per 100000 population,Female,,27.5,27.5,
+2023,per 100000 population,Female,,,,27.5
 2023,per 100000 population,Female,,Abai,KZABY,25.8
 2023,per 100000 population,Female,,Akmola,KZAKM,21.6
 2023,per 100000 population,Female,,Aktobe,KZAKT,32.2
@@ -149,7 +149,7 @@ Year,UNIT_MEASURE,Sex,Area,Regions,GeoCode,Value
 2023,per 100000 population,Female,,Astana city,KZNS,31.3
 2023,per 100000 population,Female,,Almaty city,KZALA,18.3
 2023,per 100000 population,Female,,Shymkent city,KZSHY,21.6
-2024,per 100000 population,Female,,25.9,25.9,
+2024,per 100000 population,Female,,,,25.9
 2024,per 100000 population,Female,,Abai,KZABY,26.3
 2024,per 100000 population,Female,,Akmola,KZAKM,21.9
 2024,per 100000 population,Female,,Aktobe,KZAKT,31.6
@@ -170,7 +170,7 @@ Year,UNIT_MEASURE,Sex,Area,Regions,GeoCode,Value
 2024,per 100000 population,Female,,Astana city,KZNS,29.1
 2024,per 100000 population,Female,,Almaty city,KZALA,19.1
 2024,per 100000 population,Female,,Shymkent city,KZSHY,18.7
-2025,per 100000 population,Female,,23.5,23.5,
+2025,per 100000 population,Female,,,,23.5
 2025,per 100000 population,Female,,Abai,KZABY,25.2
 2025,per 100000 population,Female,,Akmola,KZAKM,20.5
 2025,per 100000 population,Female,,Aktobe,KZAKT,26.6
