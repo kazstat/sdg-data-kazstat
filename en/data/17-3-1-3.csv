@@ -12,8 +12,9 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2020,Percent,,,10.0
 2021,Percent,,,12.1
 2022,Percent,,,12.5
-2023,Percent,,,9.0
-2024,Percent,,,6.0
+2023,Percent,,,9.1
+2024,Percent,,,6.1
+2025,Percent,,,6.7
 2014,million US dollars,,,23809.0
 2015,million US dollars,,,15367.9
 2016,million US dollars,,,21366.7
@@ -25,6 +26,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,,,28171.4
 2023,million US dollars,,,23986.2
 2024,million US dollars,,,17161.7
+2025,million US dollars,,,20451.3
 2014,million US dollars,Akmola,KZAKM,-13.2
 2015,million US dollars,Akmola,KZAKM,15.6
 2016,million US dollars,Akmola,KZAKM,253.4
@@ -36,6 +38,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Akmola,KZAKM,376.3
 2023,million US dollars,Akmola,KZAKM,421.9
 2024,million US dollars,Akmola,KZAKM,501.0
+2025,million US dollars,Akmola,KZAKM,430.0
 2014,million US dollars,Aktobe,KZAKT,1433.4
 2015,million US dollars,Aktobe,KZAKT,385.5
 2016,million US dollars,Aktobe,KZAKT,1213.7
@@ -46,6 +49,8 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2021,million US dollars,Aktobe,KZAKT,1361.5
 2022,million US dollars,Aktobe,KZAKT,1208.3
 2023,million US dollars,Aktobe,KZAKT,997.9
+2024,million US dollars,Aktobe,KZAKT,435.7
+2025,million US dollars,Aktobe,KZAKT,503.7
 2014,million US dollars,Almaty,KZALM,122.0
 2015,million US dollars,Almaty,KZALM,75.4
 2016,million US dollars,Almaty,KZALM,83.5
@@ -57,6 +62,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Almaty,KZALM,686.6
 2023,million US dollars,Almaty,KZALM,875.4
 2024,million US dollars,Almaty,KZALM,243.5
+2025,million US dollars,Almaty,KZALM,249.2
 2014,million US dollars,Atyrau,KZATY,9222.0
 2015,million US dollars,Atyrau,KZATY,6942.3
 2016,million US dollars,Atyrau,KZATY,8621.5
@@ -68,6 +74,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Atyrau,KZATY,8260.2
 2023,million US dollars,Atyrau,KZATY,4238.2
 2024,million US dollars,Atyrau,KZATY,1857.2
+2025,million US dollars,Atyrau,KZATY,-1769.3
 2014,million US dollars,Batys Kazakhstan,KZZAP,1673.5
 2015,million US dollars,Batys Kazakhstan,KZZAP,1569.7
 2016,million US dollars,Batys Kazakhstan,KZZAP,1537.7
@@ -79,6 +86,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Atyrau,KZATY,1155.6
 2023,million US dollars,Atyrau,KZATY,1233.0
 2024,million US dollars,Atyrau,KZATY,1907.6
+2025,million US dollars,Atyrau,KZATY,1776.5
 2014,million US dollars,Zhambyl,KZZHA,41.1
 2015,million US dollars,Zhambyl,KZZHA,-87.9
 2016,million US dollars,Zhambyl,KZZHA,146.4
@@ -90,6 +98,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Zhambyl,KZZHA,62.0
 2023,million US dollars,Zhambyl,KZZHA,182.6
 2024,million US dollars,Zhambyl,KZZHA,32.0
+2025,million US dollars,Zhambyl,KZZHA,289.7
 2014,million US dollars,Karagandy,KZKAR,94.0
 2015,million US dollars,Karagandy,KZKAR,160.7
 2016,million US dollars,Karagandy,KZKAR,209.2
@@ -101,6 +110,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Karagandy,KZKAR,354.7
 2023,million US dollars,Karagandy,KZKAR,439.0
 2024,million US dollars,Karagandy,KZKAR,387.6
+2025,million US dollars,Karagandy,KZKAR,173.7
 2014,million US dollars,Kostanay,KZKUS,335.2
 2015,million US dollars,Kostanay,KZKUS,14.4
 2016,million US dollars,Kostanay,KZKUS,358.1
@@ -112,6 +122,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Kostanay,KZKUS,685.4
 2023,million US dollars,Kostanay,KZKUS,397.8
 2024,million US dollars,Kostanay,KZKUS,499.0
+2025,million US dollars,Kostanay,KZKUS,570.0
 2014,million US dollars,Kyzylorda,KZKZY,285.6
 2015,million US dollars,Kyzylorda,KZKZY,89.5
 2016,million US dollars,Kyzylorda,KZKZY,192.7
@@ -123,6 +134,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Kyzylorda,KZKZY,330.7
 2023,million US dollars,Kyzylorda,KZKZY,280.1
 2024,million US dollars,Kyzylorda,KZKZY,128.0
+2025,million US dollars,Kyzylorda,KZKZY,245.3
 2014,million US dollars,Mangistau,KZMAN,1612.8
 2015,million US dollars,Mangistau,KZMAN,141.0
 2016,million US dollars,Mangistau,KZMAN,438.2
@@ -134,6 +146,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Mangistau,KZMAN,804.0
 2023,million US dollars,Mangistau,KZMAN,1113.6
 2024,million US dollars,Mangistau,KZMAN,1147.6
+2025,million US dollars,Mangistau,KZMAN,998.5
 2014,million US dollars,Pavlodar,KZPAV,368.4
 2015,million US dollars,Pavlodar,KZPAV,778.4
 2016,million US dollars,Pavlodar,KZPAV,470.9
@@ -145,6 +158,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Pavlodar,KZPAV,1151.9
 2023,million US dollars,Pavlodar,KZPAV,934.2
 2024,million US dollars,Pavlodar,KZPAV,354.8
+2025,million US dollars,Pavlodar,KZPAV,180.8
 2014,million US dollars,Soltustik Kazakhstan,KZSEV,6.7
 2015,million US dollars,Soltustik Kazakhstan,KZSEV,-13.5
 2016,million US dollars,Soltustik Kazakhstan,KZSEV,2.5
@@ -156,6 +170,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Soltustik Kazakhstan,KZSEV,104.8
 2023,million US dollars,Soltustik Kazakhstan,KZSEV,302.5
 2024,million US dollars,Soltustik Kazakhstan,KZSEV,140.5
+2025,million US dollars,Soltustik Kazakhstan,KZSEV,203.9
 2014,million US dollars,Turkistan,KZYUZ,128.8
 2015,million US dollars,Turkistan,KZYUZ,171.5
 2016,million US dollars,Turkistan,KZYUZ,208.8
@@ -167,6 +182,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Turkistan,KZYUZ,592.9
 2023,million US dollars,Turkistan,KZYUZ,857.6
 2024,million US dollars,Turkistan,KZYUZ,1144.2
+2025,million US dollars,Turkistan,KZYUZ,1998.1
 2014,million US dollars,Shygys Kazakhstan,KZVOS,2601.0
 2015,million US dollars,Shygys Kazakhstan,KZVOS,1912.6
 2016,million US dollars,Shygys Kazakhstan,KZVOS,2389.3
@@ -177,6 +193,8 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2021,million US dollars,Shygys Kazakhstan,KZVOS,2134.4
 2022,million US dollars,Shygys Kazakhstan,KZVOS,2201.6
 2023,million US dollars,Shygys Kazakhstan,KZVOS,1677.6
+2024,million US dollars,Shygys Kazakhstan,KZVOS,571.8
+2025,million US dollars,Shygys Kazakhstan,KZVOS,1750.8
 2014,million US dollars,Astana city,KZNS,705.3
 2015,million US dollars,Astana city,KZNS,518.3
 2016,million US dollars,Astana city,KZNS,232.4
@@ -188,6 +206,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Astana city,KZNS,2252.6
 2023,million US dollars,Astana city,KZNS,2149.8
 2024,million US dollars,Astana city,KZNS,968.1
+2025,million US dollars,Astana city,KZNS,4044.1
 2014,million US dollars,Almaty city,KZALA,4958.6
 2015,million US dollars,Almaty city,KZALA,2787.6
 2016,million US dollars,Almaty city,KZALA,4767.5
@@ -199,6 +218,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Almaty city,KZALA,7575.2
 2023,million US dollars,Almaty city,KZALA,7722.0
 2024,million US dollars,Almaty city,KZALA,5789.7
+2025,million US dollars,Almaty city,KZALA,8584.8
 2014,million US dollars,Shymkent city,KZSHY,105.8
 2015,million US dollars,Shymkent city,KZSHY,99.2
 2016,million US dollars,Shymkent city,KZSHY,63.6
@@ -210,6 +230,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Shymkent city,KZSHY,148.7
 2023,million US dollars,Shymkent city,KZSHY,88.2
 2024,million US dollars,Shymkent city,KZSHY,129.9
+2025,million US dollars,Shymkent city,KZSHY,127.97
 2014,million US dollars,Abai,KZABY,37.5
 2015,million US dollars,Abai,KZABY,-116.5
 2016,million US dollars,Abai,KZABY,69.2
@@ -221,6 +242,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Abai,KZABY,198.8
 2023,million US dollars,Abai,KZABY,40.6
 2024,million US dollars,Abai,KZABY,775.3
+2025,million US dollars,Abai,KZABY,-75.3
 2014,million US dollars,Zhetisu,KZZHS,113.4
 2015,million US dollars,Zhetisu,KZZHS,52.5
 2016,million US dollars,Zhetisu,KZZHS,12.9
@@ -232,6 +254,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Zhetisu,KZZHS,23.4
 2023,million US dollars,Zhetisu,KZZHS,45.0
 2024,million US dollars,Zhetisu,KZZHS,34.2
+2025,million US dollars,Zhetisu,KZZHS,73.7
 2014,million US dollars,Ulytau,KZULU,-22.9
 2015,million US dollars,Ulytau,KZULU,-128.6
 2016,million US dollars,Ulytau,KZULU,95.1
@@ -243,3 +266,4 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2022,million US dollars,Ulytau,KZULU,-2.4
 2023,million US dollars,Ulytau,KZULU,-11.2
 2024,million US dollars,Ulytau,KZULU,114.1
+2025,million US dollars,Ulytau,KZULU,95.4
