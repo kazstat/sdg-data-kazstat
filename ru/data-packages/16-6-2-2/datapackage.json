@@ -16,15 +16,9 @@
             "title": "Год"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
