@@ -1,5 +1,5 @@
 Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
-B_TNG,млрд.тенге,млрд.теңге,billion tenge,2,2
+B_TNG,млрд.тенге,млрд.теңге,billion tenge,3,3
 CASES,случай,жағдай,cases,3,3
 EN_ATM_GHGT_WOLU,млн.тонн экв.CO2,млн.тонна СО2 экв.,million tons of CO2 equivalent,1,1
 kg_CO2,кг СО2-экв/межд.доллар,кг СО2-экв / халықаралық доллары,kg CO2-eq/int.USD,1,1
@@ -8,7 +8,7 @@ LTPUREAL,в литрах чистого спирта,литр таза алко�
 M_METER3,млн.м3,млн.метр куб,M_METER3,18,1
 M_T,млн.тонн,млн.тонна,millions tonnes,73,1
 M_TNG,млн.тенге,млн.теңге,million tenge,1,1
-M_USD,млн.долл.США,млн АҚШ доллары,million US dollars,39,10
+M_USD,млн.долл.США,млн АҚШ доллары,million US dollars,38,9
 MG_CUB_METER,мг/метр куб,мг/метр куб,mg per cube meters,91,1
 MW,Мвт,Мвт,Megawatts,21,1
 NUM_ATM_PER_100000_ADL,число банкоматов на 100 000 взрослых,100 000 ересекке шаққандағы банкоматтар саны,number of ATMs per 100 000 adults,1,1
