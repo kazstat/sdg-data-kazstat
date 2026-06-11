@@ -1,1 +1,8 @@
-Year,Value
+Year,UNIT_MEASURE,Sex,COMPOSITE_BREAKDOWN,Age,Value
+2015,Percent,Male,,,45.01
+2015,Percent,Female,,,54.99
+2015,Percent,,persons with disabilities,,0.52
+2015,Percent,,,under 30 years old,25.71
+2015,Percent,,,from 30 to 40 years old,31.04
+2015,Percent,,,from 40 to 50 years old,21.43
+2015,Percent,,,50 years old and older,21.82

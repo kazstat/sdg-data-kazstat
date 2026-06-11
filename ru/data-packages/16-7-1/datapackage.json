@@ -12,8 +12,50 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "мужчины",
+                "женщины",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "лица с инвалидностью",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "до 30 лет",
+                "от 30 до 40 лет",
+                "от 40 до 50 лет",
+                "от 50 лет и старше",
+                ""
+              ]
+            },
+            "title": "Возраст"
           },
           {
             "name": "Value",

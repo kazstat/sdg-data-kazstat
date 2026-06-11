@@ -12,8 +12,50 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Жыл"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ерлер",
+                "әйелдер",
+                ""
+              ]
+            },
+            "title": "Жынысы"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "мүгедектігі бар тұлғалар",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "30 жасқа дейін",
+                "30-дан 40 жасқа дейін",
+                "40-тан 50 жасқа дейін",
+                "50 жас және одан жоғары",
+                ""
+              ]
+            },
+            "title": "Жасы"
           },
           {
             "name": "Value",

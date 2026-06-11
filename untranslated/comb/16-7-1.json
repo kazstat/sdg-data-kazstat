@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2015,2015,2015,2015,2015,2015,2015],"UNIT_MEASURE":["PT","PT","PT","PT","PT","PT","PT"],"SEX":["M","F",null,null,null,null,null],"COMPOSITE_BREAKDOWN":[null,null,"_O",null,null,null,null],"AGE":[null,null,null,"Y0T30","Y30T40","Y40T50","Y_GE50"],"Value":[45.01,54.99,0.52,25.71,31.04,21.43,21.82]},"edges":[]}
