@@ -13,3 +13,207 @@ Year,UNIT_MEASURE,Area,Regions,GeoCode,Value
 2023,Percent,rural,,,5.0
 2024,Percent,urban,,,79.4
 2024,Percent,rural,,,6.8
+2022,Percent,urban,Abai,KZABY,67.7
+2022,Percent,rural,Abai,KZABY,0.0
+2023,Percent,urban,Abai,KZABY,37.6
+2023,Percent,rural,Abai,KZABY,3.0
+2024,Percent,urban,Abai,KZABY,41.8
+2024,Percent,rural,Abai,KZABY,22.8
+2019,Percent,urban,Akmola,KZAKM,72.1
+2019,Percent,rural,Akmola,KZAKM,14.7
+2020,Percent,urban,Akmola,KZAKM,72.1
+2020,Percent,rural,Akmola,KZAKM,0.0
+2021,Percent,urban,Akmola,KZAKM,79.1
+2021,Percent,rural,Akmola,KZAKM,0.0
+2022,Percent,urban,Akmola,KZAKM,100.0
+2022,Percent,rural,Akmola,KZAKM,0.0
+2023,Percent,urban,Akmola,KZAKM,79.0
+2023,Percent,rural,Akmola,KZAKM,8.8
+2024,Percent,urban,Akmola,KZAKM,100.0
+2024,Percent,rural,Akmola,KZAKM,9.9
+2019,Percent,urban,Aktobe,KZAKT,95.3
+2019,Percent,rural,Aktobe,KZAKT,6.6
+2020,Percent,urban,Aktobe,KZAKT,67.4
+2020,Percent,rural,Aktobe,KZAKT,0.0
+2021,Percent,urban,Aktobe,KZAKT,95.6
+2021,Percent,rural,Aktobe,KZAKT,0.0
+2022,Percent,urban,Aktobe,KZAKT,100.8
+2022,Percent,rural,Aktobe,KZAKT,0.0
+2023,Percent,urban,Aktobe,KZAKT,92.8
+2023,Percent,rural,Aktobe,KZAKT,0.0
+2024,Percent,urban,Aktobe,KZAKT,100.0
+2024,Percent,rural,Aktobe,KZAKT,0.0
+2019,Percent,urban,Almaty,KZALM,95.1
+2019,Percent,rural,Almaty,KZALM,6.3
+2020,Percent,urban,Almaty,KZALM,95.1
+2020,Percent,rural,Almaty,KZALM,0.0
+2021,Percent,urban,Almaty,KZALM,55.9
+2021,Percent,rural,Almaty,KZALM,0.0
+2022,Percent,urban,Almaty,KZALM,100.0
+2022,Percent,rural,Almaty,KZALM,0.0
+2023,Percent,urban,Almaty,KZALM,72.0
+2023,Percent,rural,Almaty,KZALM,0.3
+2024,Percent,urban,Almaty,KZALM,76.6
+2024,Percent,rural,Almaty,KZALM,6.5
+2019,Percent,urban,Atyrau,KZATY,37.2
+2019,Percent,rural,Atyrau,KZATY,9.5
+2020,Percent,urban,Atyrau,KZATY,37.2
+2020,Percent,rural,Atyrau,KZATY,0.0
+2021,Percent,urban,Atyrau,KZATY,54.1
+2021,Percent,rural,Atyrau,KZATY,0.0
+2022,Percent,urban,Atyrau,KZATY,65.9
+2022,Percent,rural,Atyrau,KZATY,0.0
+2023,Percent,urban,Atyrau,KZATY,66.8
+2023,Percent,rural,Atyrau,KZATY,0.0
+2024,Percent,urban,Atyrau,KZATY,66.8
+2024,Percent,rural,Atyrau,KZATY,0.0
+2019,Percent,urban,Batys Kazakhstan,KZZAP,91.2
+2019,Percent,rural,Batys Kazakhstan,KZZAP,0.0
+2020,Percent,urban,Batys Kazakhstan,KZZAP,91.2
+2020,Percent,rural,Batys Kazakhstan,KZZAP,0.0
+2021,Percent,urban,Batys Kazakhstan,KZZAP,91.2
+2021,Percent,rural,Batys Kazakhstan,KZZAP,0.0
+2022,Percent,urban,Batys Kazakhstan,KZZAP,91.5
+2022,Percent,rural,Batys Kazakhstan,KZZAP,0.0
+2023,Percent,urban,Batys Kazakhstan,KZZAP,94.07
+2023,Percent,rural,Batys Kazakhstan,KZZAP,0.0
+2024,Percent,urban,Batys Kazakhstan,KZZAP,98.0
+2024,Percent,rural,Batys Kazakhstan,KZZAP,0.0
+2019,Percent,urban,Zhambyl,KZZHA,0.0
+2019,Percent,rural,Zhambyl,KZZHA,0.0
+2020,Percent,urban,Zhambyl,KZZHA,0.0
+2020,Percent,rural,Zhambyl,KZZHA,0.0
+2021,Percent,urban,Zhambyl,KZZHA,0.0
+2021,Percent,rural,Zhambyl,KZZHA,0.0
+2022,Percent,urban,Zhambyl,KZZHA,0.0
+2022,Percent,rural,Zhambyl,KZZHA,0.0
+2023,Percent,urban,Zhambyl,KZZHA,0.0
+2023,Percent,rural,Zhambyl,KZZHA,0.0
+2024,Percent,urban,Zhambyl,KZZHA,0.0
+2024,Percent,rural,Zhambyl,KZZHA,0.0
+2022,Percent,urban,Zhetisu,KZZHS,58.0
+2022,Percent,rural,Zhetisu,KZZHS,0.0
+2023,Percent,urban,Zhetisu,KZZHS,98.3
+2023,Percent,rural,Zhetisu,KZZHS,0.0
+2024,Percent,urban,Zhetisu,KZZHS,100.0
+2024,Percent,rural,Zhetisu,KZZHS,0.0
+2019,Percent,urban,Karagandy,KZKAR,66.0
+2019,Percent,rural,Karagandy,KZKAR,20.9
+2020,Percent,urban,Karagandy,KZKAR,66.0
+2020,Percent,rural,Karagandy,KZKAR,0.0
+2021,Percent,urban,Karagandy,KZKAR,72.9
+2021,Percent,rural,Karagandy,KZKAR,0.0
+2022,Percent,urban,Karagandy,KZKAR,74.2
+2022,Percent,rural,Karagandy,KZKAR,0.0
+2023,Percent,urban,Karagandy,KZKAR,71.0
+2023,Percent,rural,Karagandy,KZKAR,20.6
+2024,Percent,urban,Karagandy,KZKAR,74.6
+2024,Percent,rural,Karagandy,KZKAR,24.5
+2019,Percent,urban,Kostanay,KZKUS,100.0
+2019,Percent,rural,Kostanay,KZKUS,17.1
+2020,Percent,urban,Kostanay,KZKUS,100.0
+2020,Percent,rural,Kostanay,KZKUS,0.0
+2021,Percent,urban,Kostanay,KZKUS,94.8
+2021,Percent,rural,Kostanay,KZKUS,0.0
+2022,Percent,urban,Kostanay,KZKUS,0.0
+2022,Percent,rural,Kostanay,KZKUS,0.0
+2023,Percent,urban,Kostanay,KZKUS,37.2
+2023,Percent,rural,Kostanay,KZKUS,8.7
+2024,Percent,urban,Kostanay,KZKUS,38.1
+2024,Percent,rural,Kostanay,KZKUS,9.0
+2019,Percent,urban,Kyzylorda,KZKZY,48.9
+2019,Percent,rural,Kyzylorda,KZKZY,0.4
+2020,Percent,urban,Kyzylorda,KZKZY,48.9
+2020,Percent,rural,Kyzylorda,KZKZY,0.0
+2021,Percent,urban,Kyzylorda,KZKZY,55.0
+2021,Percent,rural,Kyzylorda,KZKZY,0.0
+2022,Percent,urban,Kyzylorda,KZKZY,57.0
+2022,Percent,rural,Kyzylorda,KZKZY,0.0
+2023,Percent,urban,Kyzylorda,KZKZY,40.0
+2023,Percent,rural,Kyzylorda,KZKZY,1.2
+2024,Percent,urban,Kyzylorda,KZKZY,58.0
+2024,Percent,rural,Kyzylorda,KZKZY,1.2
+2019,Percent,urban,Mangistau,KZMAN,93.1
+2019,Percent,rural,Mangistau,KZMAN,3.8
+2020,Percent,urban,Mangistau,KZMAN,93.1
+2020,Percent,rural,Mangistau,KZMAN,0.0
+2021,Percent,urban,Mangistau,KZMAN,93.1
+2021,Percent,rural,Mangistau,KZMAN,0.0
+2022,Percent,urban,Mangistau,KZMAN,100.0
+2022,Percent,rural,Mangistau,KZMAN,0.0
+2023,Percent,urban,Mangistau,KZMAN,94.0
+2023,Percent,rural,Mangistau,KZMAN,0.0
+2024,Percent,urban,Mangistau,KZMAN,100.0
+2024,Percent,rural,Mangistau,KZMAN,0.0
+2019,Percent,urban,Pavlodar,KZPAV,87.0
+2019,Percent,rural,Pavlodar,KZPAV,5.3
+2020,Percent,urban,Pavlodar,KZPAV,76.1
+2020,Percent,rural,Pavlodar,KZPAV,0.0
+2021,Percent,urban,Pavlodar,KZPAV,88.0
+2021,Percent,rural,Pavlodar,KZPAV,0.0
+2022,Percent,urban,Pavlodar,KZPAV,88.5
+2022,Percent,rural,Pavlodar,KZPAV,0.0
+2023,Percent,urban,Pavlodar,KZPAV,89.0
+2023,Percent,rural,Pavlodar,KZPAV,0.0
+2024,Percent,urban,Pavlodar,KZPAV,89.5
+2024,Percent,rural,Pavlodar,KZPAV,0.0
+2019,Percent,urban,Soltustik Kazakhstan,KZSEV,84.0
+2019,Percent,rural,Soltustik Kazakhstan,KZSEV,0.6
+2020,Percent,urban,Soltustik Kazakhstan,KZSEV,74.4
+2020,Percent,rural,Soltustik Kazakhstan,KZSEV,0.0
+2021,Percent,urban,Soltustik Kazakhstan,KZSEV,74.4
+2021,Percent,rural,Soltustik Kazakhstan,KZSEV,0.0
+2022,Percent,urban,Soltustik Kazakhstan,KZSEV,86.4
+2022,Percent,rural,Soltustik Kazakhstan,KZSEV,0.0
+2023,Percent,urban,Soltustik Kazakhstan,KZSEV,74.4
+2023,Percent,rural,Soltustik Kazakhstan,KZSEV,0.6
+2024,Percent,urban,Soltustik Kazakhstan,KZSEV,86.5
+2024,Percent,rural,Soltustik Kazakhstan,KZSEV,0.6
+2019,Percent,urban,Turkistan,KZYUZ,25.7
+2019,Percent,rural,Turkistan,KZYUZ,9.4
+2020,Percent,urban,Turkistan,KZYUZ,25.7
+2020,Percent,rural,Turkistan,KZYUZ,0.0
+2021,Percent,urban,Turkistan,KZYUZ,33.2
+2021,Percent,rural,Turkistan,KZYUZ,0.0
+2022,Percent,urban,Turkistan,KZYUZ,27.9
+2022,Percent,rural,Turkistan,KZYUZ,0.0
+2023,Percent,urban,Turkistan,KZYUZ,37.9
+2023,Percent,rural,Turkistan,KZYUZ,8.7
+2024,Percent,urban,Turkistan,KZYUZ,47.1
+2024,Percent,rural,Turkistan,KZYUZ,8.7
+2022,Percent,urban,Ulytau,KZULU,86.2
+2022,Percent,rural,Ulytau,KZULU,0.0
+2023,Percent,urban,Ulytau,KZULU,56.1
+2023,Percent,rural,Ulytau,KZULU,0.0
+2024,Percent,urban,Ulytau,KZULU,86.5
+2024,Percent,rural,Ulytau,KZULU,1.3
+2019,Percent,urban,Shygys Kazakhstan,KZVOS,72.0
+2019,Percent,rural,Shygys Kazakhstan,KZVOS,30.1
+2020,Percent,urban,Shygys Kazakhstan,KZVOS,72.0
+2020,Percent,rural,Shygys Kazakhstan,KZVOS,0.0
+2021,Percent,urban,Shygys Kazakhstan,KZVOS,74.0
+2021,Percent,rural,Shygys Kazakhstan,KZVOS,0.0
+2022,Percent,urban,Shygys Kazakhstan,KZVOS,80.7
+2022,Percent,rural,Shygys Kazakhstan,KZVOS,0.0
+2023,Percent,urban,Shygys Kazakhstan,KZVOS,80.5
+2023,Percent,rural,Shygys Kazakhstan,KZVOS,30.6
+2024,Percent,urban,Shygys Kazakhstan,KZVOS,80.8
+2024,Percent,rural,Shygys Kazakhstan,KZVOS,30.9
+2019,Percent,,Astana city,KZNS,91.0
+2020,Percent,,Astana city,KZNS,100.0
+2021,Percent,,Astana city,KZNS,100.0
+2022,Percent,,Astana city,KZNS,100.0
+2023,Percent,,Astana city,KZNS,100.0
+2024,Percent,,Astana city,KZNS,100.0
+2019,Percent,,Almaty city,KZALA,80.0
+2020,Percent,,Almaty city,KZALA,80.0
+2021,Percent,,Almaty city,KZALA,92.5
+2022,Percent,,Almaty city,KZALA,92.5
+2023,Percent,,Almaty city,KZALA,85.7
+2024,Percent,,Almaty city,KZALA,94.0
+2019,Percent,,Shymkent city,KZSHY,60.7
+2020,Percent,,Shymkent city,KZSHY,50.2
+2021,Percent,,Shymkent city,KZSHY,54.0
+2022,Percent,,Shymkent city,KZSHY,60.0
+2023,Percent,,Shymkent city,KZSHY,65.0
+2024,Percent,,Shymkent city,KZSHY,70.0

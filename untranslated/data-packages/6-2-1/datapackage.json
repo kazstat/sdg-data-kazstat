@@ -31,16 +31,36 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "KZABY",
+                "KZAKM",
+                "KZAKT",
+                "KZALM",
+                "KZATY",
+                "KZZAP",
+                "KZZHA",
+                "KZZHS",
+                "KZKAR",
+                "KZKUS",
+                "KZKZY",
+                "KZMAN",
+                "KZPAV",
+                "KZSEV",
+                "KZYUZ",
+                "KZULU",
+                "KZVOS",
+                "KZNS",
+                "KZALA",
+                "KZSHY",
                 ""
               ]
             }
           },
           {
             "name": "GeoCode",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",

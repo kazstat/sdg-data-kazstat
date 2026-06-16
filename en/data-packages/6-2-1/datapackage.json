@@ -34,9 +34,29 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Abai",
+                "Akmola",
+                "Aktobe",
+                "Almaty",
+                "Atyrau",
+                "Batys Kazakhstan",
+                "Zhambyl",
+                "Zhetisu",
+                "Karagandy",
+                "Kostanay",
+                "Kyzylorda",
+                "Mangistau",
+                "Pavlodar",
+                "Soltustik Kazakhstan",
+                "Turkistan",
+                "Ulytau",
+                "Shygys Kazakhstan",
+                "Astana city",
+                "Almaty city",
+                "Shymkent city",
                 ""
               ]
             },
@@ -44,7 +64,7 @@
           },
           {
             "name": "GeoCode",
-            "type": "number",
+            "type": "string",
             "title": "GeoCode"
           },
           {
