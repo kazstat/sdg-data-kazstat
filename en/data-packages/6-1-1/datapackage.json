@@ -27,7 +27,6 @@
               "enum": [
                 "urban",
                 "rural",
-                "T",
                 ""
               ]
             },
