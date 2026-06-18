@@ -1317,3 +1317,105 @@ Year,UNIT_MEASURE,Regions,Area,Sex,GeoCode,Value
 2024,Percent,Shygys Kazakhstan,rural,,KZVOS,6.5
 2024,Percent,Ulytau,rural,,KZULU,10.4
 2024,Percent,Turkistan,rural,,KZYUZ,5.0
+2025,Percent,,,,,3.3
+2025,Percent,Abai,,,KZABY,2.3
+2025,Percent,Akmola,,,KZAKM,2.9
+2025,Percent,Aktobe,,,KZAKT,3.9
+2025,Percent,Almaty,,,KZALM,4.1
+2025,Percent,Atyrau,,,KZATY,6.5
+2025,Percent,Batys Kazakhstan,,,KZZAP,2.2
+2025,Percent,Zhambyl,,,KZZHA,2.9
+2025,Percent,Zhetisu,,,KZZHS,3.7
+2025,Percent,Karagandy,,,KZKAR,4.4
+2025,Percent,Kostanay,,,KZKUS,2.4
+2025,Percent,Kyzylorda,,,KZKZY,3.4
+2025,Percent,Mangistau,,,KZMAN,8.1
+2025,Percent,Pavlodar,,,KZPAV,3.4
+2025,Percent,Soltustik Kazakhstan,,,KZSEV,5.2
+2025,Percent,Turkistan,,,KZYUZ,2.5
+2025,Percent,Ulytau,,,KZULU,1.7
+2025,Percent,Shygys Kazakhstan,,,KZVOS,3.5
+2025,Percent,Astana city,,,KZNS,2.7
+2025,Percent,Almaty city,,,KZALA,3.4
+2025,Percent,Shymkent city,,,KZSHY,1.3
+2025,Percent,,,Male,,2.5
+2025,Percent,Abai,,Male,KZABY,2.4
+2025,Percent,Akmola,,Male,KZAKM,2.2
+2025,Percent,Aktobe,,Male,KZAKT,3.3
+2025,Percent,Almaty,,Male,KZALM,2.5
+2025,Percent,Atyrau,,Male,KZATY,6.6
+2025,Percent,Batys Kazakhstan,,Male,KZZAP,1.5
+2025,Percent,Zhambyl,,Male,KZZHA,2.7
+2025,Percent,Zhetisu,,Male,KZZHS,1.2
+2025,Percent,Karagandy,,Male,KZKAR,3.6
+2025,Percent,Kostanay,,Male,KZKUS,1.6
+2025,Percent,Kyzylorda,,Male,KZKZY,3.1
+2025,Percent,Mangistau,,Male,KZMAN,5.2
+2025,Percent,Pavlodar,,Male,KZPAV,2.8
+2025,Percent,Soltustik Kazakhstan,,Male,KZSEV,2.0
+2025,Percent,Turkistan,,Male,KZYUZ,1.5
+2025,Percent,Ulytau,,Male,KZULU,0.7
+2025,Percent,Shygys Kazakhstan,,Male,KZVOS,3.5
+2025,Percent,Astana city,,Male,KZNS,2.6
+2025,Percent,Almaty city,,Male,KZALA,3.0
+2025,Percent,Shymkent city,,Male,KZSHY,0.5
+2025,Percent,,,Female,,4.1
+2025,Percent,Abai,,Female,KZABY,2.1
+2025,Percent,Akmola,,Female,KZAKM,3.7
+2025,Percent,Aktobe,,Female,KZAKT,4.6
+2025,Percent,Almaty,,Female,KZALM,5.9
+2025,Percent,Atyrau,,Female,KZATY,6.4
+2025,Percent,Batys Kazakhstan,,Female,KZZAP,3.1
+2025,Percent,Zhambyl,,Female,KZZHA,3.0
+2025,Percent,Zhetisu,,Female,KZZHS,6.5
+2025,Percent,Karagandy,,Female,KZKAR,5.2
+2025,Percent,Kostanay,,Female,KZKUS,3.4
+2025,Percent,Kyzylorda,,Female,KZKZY,3.7
+2025,Percent,Mangistau,,Female,KZMAN,11.0
+2025,Percent,Pavlodar,,Female,KZPAV,4.0
+2025,Percent,Soltustik Kazakhstan,,Female,KZSEV,8.9
+2025,Percent,Turkistan,,Female,KZYUZ,3.6
+2025,Percent,Ulytau,,Female,KZULU,2.7
+2025,Percent,Shygys Kazakhstan,,Female,KZVOS,3.6
+2025,Percent,Astana city,,Female,KZNS,2.9
+2025,Percent,Almaty city,,Female,KZALA,3.6
+2025,Percent,Shymkent city,,Female,KZSHY,2.2
+2025,Percent,,urban,,,3.0
+2025,Percent,Abai,urban,,KZABY,2.5
+2025,Percent,Akmola,urban,,KZAKM,3.3
+2025,Percent,Aktobe,urban,,KZAKT,3.5
+2025,Percent,Almaty,urban,,KZALM,5.4
+2025,Percent,Atyrau,urban,,KZATY,6.0
+2025,Percent,Batys Kazakhstan,urban,,KZZAP,1.1
+2025,Percent,Zhambyl,urban,,KZZHA,4.0
+2025,Percent,Ulytau,urban,,KZULU,4.5
+2025,Percent,Karagandy,urban,,KZKAR,4.1
+2025,Percent,Kostanay,urban,,KZKUS,1.9
+2025,Percent,Kyzylorda,urban,,KZKZY,1.9
+2025,Percent,Mangistau,urban,,KZMAN,5.0
+2025,Percent,Pavlodar,urban,,KZPAV,1.9
+2025,Percent,Soltustik Kazakhstan,urban,,KZSEV,5.5
+2025,Percent,Turkistan,urban,,KZYUZ,1.9
+2025,Percent,Ulytau,urban,,KZULU,1.6
+2025,Percent,Shygys Kazakhstan,urban,,KZVOS,3.0
+2025,Percent,Astana city,urban,,KZNS,2.7
+2025,Percent,Almaty city,urban,,KZALA,3.4
+2025,Percent,Shymkent city,urban,1.3,KZSHY,
+2025,Percent,,rural,,,3.9
+2025,Percent,Abai,rural,,KZABY,1.5
+2025,Percent,Akmola,rural,,KZAKM,2.4
+2025,Percent,Aktobe,rural,,KZAKT,5.6
+2025,Percent,Almaty,rural,,KZALM,3.8
+2025,Percent,Atyrau,rural,,KZATY,7.0
+2025,Percent,Batys Kazakhstan,rural,,KZZAP,3.7
+2025,Percent,Zhambyl,rural,,KZZHA,2.3
+2025,Percent,Zhetisu,rural,,KZZHS,3.1
+2025,Percent,Karagandy,rural,,KZKAR,5.7
+2025,Percent,Kostanay,rural,,KZKUS,3.4
+2025,Percent,Kyzylorda,rural,,KZKZY,4.6
+2025,Percent,Mangistau,rural,,KZMAN,11.1
+2025,Percent,Pavlodar,rural,,KZPAV,7.1
+2025,Percent,Soltustik Kazakhstan,rural,,KZSEV,4.8
+2025,Percent,Shygys Kazakhstan,rural,,KZVOS,2.6
+2025,Percent,Ulytau,rural,,KZULU,1.9
+2025,Percent,Turkistan,rural,,KZYUZ,4.6
