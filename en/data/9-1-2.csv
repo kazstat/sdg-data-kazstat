@@ -1,671 +1,983 @@
 Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
-2010,millions tonnes,Cargo transported by all means of transport,,,2439.4
-2010,millions tonnes,Pipeline,,,194.0
+2010,millions tonnes,Cargo transported by all means of transport,,,538.8
+2010,millions tonnes,Pipeline,,,193.9
 2010,millions tonnes,Railway,,,267.9
-2010,millions tonnes,Automobile,,,1971.8
-2010,millions tonnes,Air,,,0.3
+2010,millions tonnes,Automobile,,,71.1
+2010,millions tonnes,Air,,,0.03
 2010,millions tonnes,Inland water еransport,,,1.1
 2010,millions tonnes,nautical,,,4.7
-2010,millions tonnes,,Akmola,KZAKM,95.8
-2010,millions tonnes,,Aktobe,KZAKT,41.0
-2010,millions tonnes,,Almaty,KZALM,116.6
-2010,millions tonnes,,Atyrau,KZATY,118.5
-2010,millions tonnes,,Batys Kazakhstan,KZZAP,30.3
-2010,millions tonnes,,Zhambyl,KZZHA,56.0
-2010,millions tonnes,,Karagandy,KZKAR,444.0
-2010,millions tonnes,,Kostanay,KZKUS,221.5
-2010,millions tonnes,,Kyzylorda,KZKZY,66.3
-2010,millions tonnes,,Mangistau,KZMAN,141.5
-2010,millions tonnes,,Ontustik Kazakhstan,KZONT,77.5
-2010,millions tonnes,,Pavlodar,KZPAV,78.5
-2010,millions tonnes,,Soltustik Kazakhstan,KZSEV,40.1
-2010,millions tonnes,,Shygys Kazakhstan,KZVOS,327.3
-2010,millions tonnes,,Astana city,KZNS,66.7
-2010,millions tonnes,,Almaty city,KZALA,142.4
-2010,mln.people,Passengers transported by all means of transport,,,13186.5
+2010,millions tonnes,,Abai,KZABY,16.7
+2010,millions tonnes,,Akmola,KZAKM,27.1
+2010,millions tonnes,,Aktobe,KZAKT,39.8
+2010,millions tonnes,,Almaty,KZALM,13.3
+2010,millions tonnes,,Atyrau,KZATY,77.5
+2010,millions tonnes,,Batys Kazakhstan,KZZAP,33.5
+2010,millions tonnes,,Zhambyl,KZZHA,23.0
+2010,millions tonnes,,Zhetisu,KZZHS,10.9
+2010,millions tonnes,,Karagandy,KZKAR,49.0
+2010,millions tonnes,,Kostanay,KZKUS,23.3
+2010,millions tonnes,,Kyzylorda,KZKZY,26.0
+2010,millions tonnes,,Mangistau,KZMAN,42.4
+2010,millions tonnes,,Pavlodar,KZPAV,34.9
+2010,millions tonnes,,Soltustik Kazakhstan,KZSEV,8.4
+2010,millions tonnes,,Turkistan,KZYUZ,16.4
+2010,millions tonnes,,Ulytau,KZULU,21.1
+2010,millions tonnes,,Shygys Kazakhstan,KZVOS,22.5
+2010,millions tonnes,,Astana city,KZNS,26.9
+2010,millions tonnes,,Almaty city,KZALA,14.4
+2010,millions tonnes,,Shymkent city,KZSHY,11.8
+2010,mln.people,Passengers transported by all means of transport,,,1333.4
 2010,mln.people,Railway transport,,,19.6
-2010,mln.people,Automobile,,,13083.9
+2010,mln.people,Automobile,,,1230.8
 2010,mln.people,Inland water еransport,,,0.1
 2010,mln.people,Air,,,3.4
 2010,mln.people,City electric transport,,,79.5
-2010,mln.people,,Akmola,KZAKM,1057.9
-2010,mln.people,,Aktobe,KZAKT,163.5
-2010,mln.people,,Almaty,KZALM,436.6
-2010,mln.people,,Atyrau,KZATY,95.4
-2010,mln.people,,Batys Kazakhstan,KZZAP,270.4
-2010,mln.people,,Zhambyl,KZZHA,570.6
-2010,mln.people,,Karagandy,KZKAR,1440.7
-2010,mln.people,,Kostanay,KZKUS,1153.4
-2010,mln.people,,Kyzylorda,KZKZY,139.7
-2010,mln.people,,Mangistau,KZMAN,60.2
-2010,mln.people,,Ontustik Kazakhstan,KZONT,1337.6
-2010,mln.people,,Pavlodar,KZPAV,798.3
-2010,mln.people,,Soltustik Kazakhstan,KZSEV,365.5
-2010,mln.people,,Shygys Kazakhstan,KZVOS,1272.7
-2010,mln.people,,Astana city,KZNS,1408.9
-2010,mln.people,,Almaty city,KZALA,2595.5
-2010,millions tonnes,freight carried by road and urban electric transport,,,1971.8
-2010,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,95.8
-2010,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,41.0
-2010,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,116.6
-2010,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,52.1
-2010,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,30.0
-2010,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,56.0
-2010,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,444.0
-2010,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,221.5
-2010,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,66.3
-2010,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,136.9
-2010,millions tonnes,freight carried by road and urban electric transport,Ontustik Kazakhstan,KZONT,77.5
-2010,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,57.8
-2010,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,40.0
-2010,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,327.1
-2010,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,66.7
-2010,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,142.4
-2010,mln.people,Passengers transported by all means of transport,,,13163.4
-2010,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1057.9
-2010,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,163.5
-2010,mln.people,Passengers transported by all means of transport,Almaty,KZALM,436.6
-2010,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,95.4
-2010,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,270.4
-2010,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,570.6
-2010,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,1440.6
-2010,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,1153.4
-2010,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,139.7
-2010,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,60.2
-2010,mln.people,Passengers transported by all means of transport,Ontustik Kazakhstan,KZONT,1337.0
-2010,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,798.2
-2010,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,365.5
-2010,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1272.7
-2010,mln.people,Passengers transported by all means of transport,Astana city,KZNS,1408.9
-2010,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,2592.9
+2010,mln.people,,Akmola,KZAKM,47.5
+2010,mln.people,,Akmola,KZAKM,28.4
+2010,mln.people,,Aktobe,KZAKT,38.7
+2010,mln.people,,Almaty,KZALM,18.3
+2010,mln.people,,Atyrau,KZATY,31.5
+2010,mln.people,,Batys Kazakhstan,KZZAP,64.7
+2010,mln.people,,Zhambyl,KZZHA,107.3
+2010,mln.people,,Zhetisu,KZZHS,30.8
+2010,mln.people,,Karagandy,KZKAR,181.4
+2010,mln.people,,Kostanay,KZKUS,37.3
+2010,mln.people,,Kyzylorda,KZKZY,18.1
+2010,mln.people,,Mangistau,KZMAN,21.6
+2010,mln.people,,Pavlodar,KZPAV,108.3
+2010,mln.people,,Soltustik Kazakhstan,KZSEV,27.4
+2010,mln.people,,Turkistan,KZYUZ,17.4
+2010,mln.people,,Ulytau,KZULU,25.2
+2010,mln.people,,Shygys Kazakhstan,KZVOS,103.4
+2010,mln.people,,Astana city,KZNS,229.8
+2010,mln.people,,Almaty city,KZALA,155.0
+2010,mln.people,,Shymkent city,KZSHY,41.1
+2010,millions tonnes,freight carried by road and urban electric transport,,,71.1
+2010,millions tonnes,freight carried by road and urban electric transport,Abai,KZABY,1.0
+2010,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,3.9
+2010,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,2.6
+2010,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,2.2
+2010,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,1.0
+2010,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,1.4
+2010,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,0.9
+2010,millions tonnes,freight carried by road and urban electric transport,Zhetisu,KZZHS,0.8
+2010,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,18.5
+2010,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,3.6
+2010,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,4.5
+2010,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,1.4
+2010,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,2.9
+2010,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,2.4
+2010,millions tonnes,freight carried by road and urban electric transport,Turkistan,KZYUZ,1.3
+2010,millions tonnes,freight carried by road and urban electric transport,Ulytau,KZULU,0.8
+2010,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,15.1
+2010,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,2.0
+2010,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,2.7
+2010,millions tonnes,freight carried by road and urban electric transport,Shymkent city,KZSHY,2.0
+2010,mln.people,Passengers transported by all means of transport,,,1310.4
+2010,mln.people,Passengers transported by all means of transport,Abai,KZABY,46.5
+2010,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,26.8
+2010,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,36.7
+2010,mln.people,Passengers transported by all means of transport,Almaty,KZALM,17.9
+2010,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,30.1
+2010,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,64.2
+2010,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,106.1
+2010,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,179.9
+2010,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,36.0
+2010,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,16.9
+2010,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,20.7
+2010,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,106.6
+2010,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,27.1
+2010,mln.people,Passengers transported by all means of transport,Turkistan,KZYUZ,17.1
+2010,mln.people,Passengers transported by all means of transport,Ulytau,KZULU,24.7
+2010,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,102.9
+2010,mln.people,Passengers transported by all means of transport,Astana city,KZNS,227.5
+2010,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,152.3
+2010,mln.people,Passengers transported by all means of transport,Shymkent city,KZSHY,40.3
 2010,tons,transported by air,,,28869.7
-2010,tons,transported by air,Karagandy,KZKAR,9.2
-2010,tons,transported by air,Ontustik Kazakhstan,KZONT,737.0
-2010,tons,transported by air,Shygys Kazakhstan,KZVOS,32.5
+2010,tons,transported by air,Abai,KZABY,32.5
+2010,tons,transported by air,Ulytau,KZULU,9.2
 2010,tons,transported by air,Almaty city,KZALA,28091.0
+2010,tons,transported by air,Shymkent city,KZSHY,737.0
 2010,thousand people,passengers transported by air,,,3379.2
-2010,thousand people,passengers transported by air,Almaty,KZALM,29.3
-2010,thousand people,passengers transported by air,Atyrau,KZATY,4.7
-2010,thousand people,passengers transported by air,Karagandy,KZKAR,18.8
-2010,thousand people,passengers transported by air,Ontustik Kazakhstan,KZONT,668.5
-2010,thousand people,passengers transported by air,Pavlodar,KZPAV,4.0
-2010,thousand people,passengers transported by air,Astana city,KZNS,16.1
-2010,thousand people,passengers transported by air,Almaty city,KZALA,14.8
-2010,thousand people,passengers transported by air,Shymkent city,KZSHY,2623.1
+2010,thousand people,passengers transported by air,Abai,KZABY,33.1
+2010,thousand people,passengers transported by air,Akmola,KZAKM,1.8
+2010,thousand people,passengers transported by air,Aktobe,KZAKT,62.1
+2010,thousand people,passengers transported by air,Almaty,KZALM,3.3
+2010,thousand people,passengers transported by air,Atyrau,KZATY,310.6
+2010,thousand people,passengers transported by air,Karagandy,KZKAR,31.2
+2010,thousand people,passengers transported by air,Kostanay,KZKUS,5.2
+2010,thousand people,passengers transported by air,Kyzylorda,KZKZY,26.5
+2010,thousand people,passengers transported by air,Batys Kazakhstan,KZZAP,23.0
+2010,thousand people,passengers transported by air,Zhambyl,KZZHA,16.9
+2010,thousand people,passengers transported by air,Zhetisu,KZZHS,19.3
+2010,thousand people,passengers transported by air,Mangistau,KZMAN,173.4
+2010,thousand people,passengers transported by air,Pavlodar,KZPAV,14.1
+2010,thousand people,passengers transported by air,Soltustik Kazakhstan,KZSEV,4.5
+2010,thousand people,passengers transported by air,Turkistan,KZYUZ,72.0
+2010,thousand people,passengers transported by air,Ulytau,KZULU,9.6
+2010,thousand people,passengers transported by air,Shygys Kazakhstan,KZVOS,18.9
+2010,thousand people,passengers transported by air,Astana city,KZNS,863.6
+2010,thousand people,passengers transported by air,Almaty city,KZALA,1505.3
+2010,thousand people,passengers transported by air,Shymkent city,KZSHY,184.9
 2010,millions tonnes,performance indicators of pipeline transport,,,194.0
-2010,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,66.3
-2010,millions tonnes,performance indicators of pipeline transport,Pavlodar,KZPAV,20.2
+2010,millions tonnes,performance indicators of pipeline transport,Abai,KZABY,2.3
+2010,millions tonnes,performance indicators of pipeline transport,Aktobe,KZAKT,11.5
+2010,millions tonnes,performance indicators of pipeline transport,Almaty,KZALM,5.0
+2010,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,60.7
+2010,millions tonnes,performance indicators of pipeline transport,Batys Kazakhstan,KZZAP,26.0
+2010,millions tonnes,performance indicators of pipeline transport,Zhambyl,KZZHA,4.7
+2010,millions tonnes,performance indicators of pipeline transport,Zhetisu,KZZHS,4.5
+2010,millions tonnes,performance indicators of pipeline transport,Karagandy,KZKAR,7.9
+2010,millions tonnes,performance indicators of pipeline transport,Kostanay,KZKUS,0.9
+2010,millions tonnes,performance indicators of pipeline transport,Kyzylorda,KZKZY,6.6
+2010,millions tonnes,performance indicators of pipeline transport,Mangistau,KZMAN,25.9
+2010,millions tonnes,performance indicators of pipeline transport,Pavlodar,KZPAV,7.9
+2010,millions tonnes,performance indicators of pipeline transport,Soltustik Kazakhstan,KZSEV,0.7
+2010,millions tonnes,performance indicators of pipeline transport,Turkistan,KZYUZ,11.6
+2010,millions tonnes,performance indicators of pipeline transport,Ulytau,KZULU,12.2
+2010,millions tonnes,performance indicators of pipeline transport,Astana city,KZNS,4.5
+2010,millions tonnes,performance indicators of pipeline transport,Almaty city,KZALA,0.8
+2010,millions tonnes,performance indicators of pipeline transport,Shymkent city,KZSHY,0.3
 2010,millions tonnes,freight carried by sea transport,,,4.7
 2010,millions tonnes,freight carried by sea transport,Mangistau,KZMAN,4.7
-2011,millions tonnes,Cargo transported by all means of transport,,,2974.9
+2011,millions tonnes,Cargo transported by all means of transport,,,573.0
 2011,millions tonnes,Pipeline,,,214.1
 2011,millions tonnes,Railway,,,279.7
-2011,millions tonnes,Automobile,,,2475.5
-2011,millions tonnes,Air,,,0.3
+2011,millions tonnes,Automobile,,,73.6
+2011,millions tonnes,Air,,,0.03
 2011,millions tonnes,Inland water еransport,,,1.1
 2011,millions tonnes,nautical,,,4.6
-2011,millions tonnes,,Akmola,KZAKM,112.4
-2011,millions tonnes,,Aktobe,KZAKT,54.5
-2011,millions tonnes,,Almaty,KZALM,142.7
-2011,millions tonnes,,Atyrau,KZATY,139.6
-2011,millions tonnes,,Batys Kazakhstan,KZZAP,34.0
-2011,millions tonnes,,Zhambyl,KZZHA,70.5
-2011,millions tonnes,,Karagandy,KZKAR,551.1
-2011,millions tonnes,,Kostanay,KZKUS,268.0
-2011,millions tonnes,,Kyzylorda,KZKZY,95.5
-2011,millions tonnes,,Mangistau,KZMAN,186.6
-2011,millions tonnes,,Ontustik Kazakhstan,KZONT,106.5
-2011,millions tonnes,,Pavlodar,KZPAV,97.0
-2011,millions tonnes,,Soltustik Kazakhstan,KZSEV,46.1
-2011,millions tonnes,,Shygys Kazakhstan,KZVOS,418.2
-2011,millions tonnes,,Astana city,KZNS,97.2
-2011,millions tonnes,,Almaty city,KZALA,155.6
-2011,mln.people,Passengers transported by all means of transport,,,16647.2
+2011,millions tonnes,,Abai,KZABY,17.8
+2011,millions tonnes,,Akmola,KZAKM,27.2
+2011,millions tonnes,,Aktobe,KZAKT,41.3
+2011,millions tonnes,,Almaty,KZALM,21.8
+2011,millions tonnes,,Atyrau,KZATY,75.2
+2011,millions tonnes,,Batys Kazakhstan,KZZAP,28.3
+2011,millions tonnes,,Zhambyl,KZZHA,34.3
+2011,millions tonnes,,Karagandy,KZKAR,45.5
+2011,millions tonnes,,Kostanay,KZKUS,24.0
+2011,millions tonnes,,Kyzylorda,KZKZY,29.7
+2011,millions tonnes,,Mangistau,KZMAN,40.6
+2011,millions tonnes,,Pavlodar,KZPAV,33.5
+2011,millions tonnes,,Soltustik Kazakhstan,KZSEV,10.4
+2011,millions tonnes,,Turkistan,KZYUZ,24.1
+2011,millions tonnes,,Ulytau,KZULU,20.8
+2011,millions tonnes,,Shygys Kazakhstan,KZVOS,25.2
+2011,millions tonnes,,Astana city,KZNS,34.5
+2011,millions tonnes,,Almaty city,KZALA,13.7
+2011,millions tonnes,,Shymkent city,KZSHY,12.0
+2011,mln.people,Passengers transported by all means of transport,,,1386.1
 2011,mln.people,Railway transport,,,20.5
-2011,mln.people,Automobile,,,16544.7
+2011,mln.people,Automobile,,,1284.4
 2011,mln.people,Inland water еransport,,,0.1
 2011,mln.people,Air,,,4.1
 2011,mln.people,City electric transport,,,77.0
-2011,mln.people,,Akmola,KZAKM,1385.8
-2011,mln.people,,Aktobe,KZAKT,199.3
-2011,mln.people,,Almaty,KZALM,550.9
-2011,mln.people,,Atyrau,KZATY,126.9
-2011,mln.people,,Batys Kazakhstan,KZZAP,364.8
-2011,mln.people,,Zhambyl,KZZHA,745.8
-2011,mln.people,,Karagandy,KZKAR,1993.3
-2011,mln.people,,Kostanay,KZKUS,1436.5
-2011,mln.people,,Kyzylorda,KZKZY,193.2
-2011,mln.people,,Mangistau,KZMAN,73.8
-2011,mln.people,,Ontustik Kazakhstan,KZONT,1800.5
-2011,mln.people,,Pavlodar,KZPAV,1044.1
-2011,mln.people,,Soltustik Kazakhstan,KZSEV,453.9
-2011,mln.people,,Shygys Kazakhstan,KZVOS,1419.3
-2011,mln.people,,Astana city,KZNS,1647.9
-2011,mln.people,,Almaty city,KZALA,3190.6
-2011,millions tonnes,freight carried by road and urban electric transport,,,2475.5
-2011,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,112.4
-2011,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,54.5
-2011,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,142.7
-2011,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,71.5
-2011,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,33.8
-2011,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,70.5
-2011,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,551.1
-2011,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,268.0
-2011,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,95.5
-2011,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,182.0
-2011,millions tonnes,freight carried by road and urban electric transport,Ontustik Kazakhstan,KZONT,106.5
-2011,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,70.2
-2011,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,46.0
-2011,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,417.9
-2011,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,97.2
-2011,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,155.6
-2011,mln.people,Passengers transported by all means of transport,,,16622.4
-2011,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1385.8
-2011,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,199.3
-2011,mln.people,Passengers transported by all means of transport,Almaty,KZALM,550.8
-2011,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,126.9
-2011,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,364.7
-2011,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,745.8
-2011,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,1993.3
-2011,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,1436.5
-2011,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,193.2
-2011,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,73.8
-2011,mln.people,Passengers transported by all means of transport,Ontustik Kazakhstan,KZONT,1799.6
-2011,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1044.1
-2011,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,453.9
-2011,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1419.3
-2011,mln.people,Passengers transported by all means of transport,Astana city,KZNS,1647.9
-2011,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,3187.5
+2011,mln.people,,Abai,KZABY,50.4
+2011,mln.people,,Akmola,KZAKM,27.6
+2011,mln.people,,Aktobe,KZAKT,39.7
+2011,mln.people,,Almaty,KZALM,16.8
+2011,mln.people,,Atyrau,KZATY,31.7
+2011,mln.people,,Batys Kazakhstan,KZZAP,66.8
+2011,mln.people,,Zhambyl,KZZHA,111.1
+2011,mln.people,,Zhetisu,KZZHS,31.6
+2011,mln.people,,Karagandy,KZKAR,173.9
+2011,mln.people,,Kostanay,KZKUS,37.9
+2011,mln.people,,Kyzylorda,KZKZY,18.4
+2011,mln.people,,Mangistau,KZMAN,21.4
+2011,mln.people,,Pavlodar,KZPAV,119.0
+2011,mln.people,,Soltustik Kazakhstan,KZSEV,25.3
+2011,mln.people,,Turkistan,KZYUZ,20.5
+2011,mln.people,,Ulytau,KZULU,25.4
+2011,mln.people,,Shygys Kazakhstan,KZVOS,104.2
+2011,mln.people,,Astana city,KZNS,230.7
+2011,mln.people,,Almaty city,KZALA,189.0
+2011,mln.people,,Shymkent city,KZSHY,44.5
+2011,millions tonnes,freight carried by road and urban electric transport,,,73.6
+2011,millions tonnes,freight carried by road and urban electric transport,Abai,KZABY,1.6
+2011,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,3.7
+2011,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,3.3
+2011,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,1.7
+2011,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,2.3
+2011,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,1.1
+2011,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,0.7
+2011,millions tonnes,freight carried by road and urban electric transport,Zhetisu,KZZHS,0.8
+2011,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,13.8
+2011,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,3.3
+2011,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,7.0
+2011,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,1.7
+2011,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,4.0
+2011,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,2.4
+2011,millions tonnes,freight carried by road and urban electric transport,Turkistan,KZYUZ,1.6
+2011,millions tonnes,freight carried by road and urban electric transport,Ulytau,KZULU,0.7
+2011,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,17.7
+2011,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,2.6
+2011,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,1.8
+2011,millions tonnes,freight carried by road and urban electric transport,Shymkent city,KZSHY,1.8
+2011,mln.people,Passengers transported by all means of transport,,,1361.3
+2011,mln.people,Passengers transported by all means of transport,Abai,KZABY,49.4
+2011,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,26.0
+2011,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,37.7
+2011,mln.people,Passengers transported by all means of transport,Almaty,KZALM,16.4
+2011,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,30.1
+2011,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,66.3
+2011,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,109.8
+2011,mln.people,Passengers transported by all means of transport,Zhetisu,KZZHS,31.2
+2011,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,172.2
+2011,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,36.5
+2011,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,17.2
+2011,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,19.8
+2011,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,117.5
+2011,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,24.8
+2011,mln.people,Passengers transported by all means of transport,Turkistan,KZYUZ,20.2
+2011,mln.people,Passengers transported by all means of transport,Ulytau,KZULU,24.8
+2011,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,103.7
+2011,mln.people,Passengers transported by all means of transport,Astana city,KZNS,227.9
+2011,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,186.1
+2011,mln.people,Passengers transported by all means of transport,Shymkent city,KZSHY,43.6
 2011,tons,transported by air,,,31554.9
-2011,tons,transported by air,Karagandy,KZKAR,6.6
-2011,tons,transported by air,Ontustik Kazakhstan,KZONT,583.0
-2011,tons,transported by air,Shygys Kazakhstan,KZVOS,44.0
+2011,tons,transported by air,Abai,KZABY,44.0
+2011,tons,transported by air,Ulytau,KZULU,6.6
 2011,tons,transported by air,Almaty city,KZALA,30921.3
+2011,tons,transported by air,Shymkent city,KZSHY,583.0
 2011,thousand people,passengers transported by air,,,4131.3
-2011,thousand people,passengers transported by air,Almaty,KZALM,27.8
-2011,thousand people,passengers transported by air,Atyrau,KZATY,0.8
-2011,thousand people,passengers transported by air,Karagandy,KZKAR,12.2
-2011,thousand people,passengers transported by air,Mangistau,KZMAN,23.8
-2011,thousand people,passengers transported by air,Ontustik Kazakhstan,KZONT,900.2
-2011,thousand people,passengers transported by air,Pavlodar,KZPAV,0.8
-2011,thousand people,passengers transported by air,Astana city,KZNS,17.2
-2011,thousand people,passengers transported by air,Almaty city,KZALA,24.2
-2011,thousand people,passengers transported by air,Shymkent city,KZSHY,3124.3
+2011,thousand people,passengers transported by air,Abai,KZABY,37.4
+2011,thousand people,passengers transported by air,Akmola,KZAKM,2.4
+2011,thousand people,passengers transported by air,Aktobe,KZAKT,79.8
+2011,thousand people,passengers transported by air,Almaty,KZALM,1.3
+2011,thousand people,passengers transported by air,Atyrau,KZATY,388.1
+2011,thousand people,passengers transported by air,Karagandy,KZKAR,37.2
+2011,thousand people,passengers transported by air,Kostanay,KZKUS,7.0
+2011,thousand people,passengers transported by air,Kyzylorda,KZKZY,27.3
+2011,thousand people,passengers transported by air,Batys Kazakhstan,KZZAP,17.5
+2011,thousand people,passengers transported by air,Zhambyl,KZZHA,20.1
+2011,thousand people,passengers transported by air,Zhetisu,KZZHS,22.9
+2011,thousand people,passengers transported by air,Mangistau,KZMAN,233.8
+2011,thousand people,passengers transported by air,Pavlodar,KZPAV,12.9
+2011,thousand people,passengers transported by air,Soltustik Kazakhstan,KZSEV,6.0
+2011,thousand people,passengers transported by air,Turkistan,KZYUZ,86.0
+2011,thousand people,passengers transported by air,Ulytau,KZULU,11.4
+2011,thousand people,passengers transported by air,Shygys Kazakhstan,KZVOS,23.7
+2011,thousand people,passengers transported by air,Astana city,KZNS,1057.9
+2011,thousand people,passengers transported by air,Almaty city,KZALA,1821.4
+2011,thousand people,passengers transported by air,Shymkent city,KZSHY,237.3
 2011,millions tonnes,performance indicators of pipeline transport,,,214.1
-2011,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,68.1
-2011,millions tonnes,performance indicators of pipeline transport,Pavlodar,KZPAV,26.3
+2011,millions tonnes,performance indicators of pipeline transport,Abai,KZABY,2.6
+2011,millions tonnes,performance indicators of pipeline transport,Aktobe,KZAKT,11.6
+2011,millions tonnes,performance indicators of pipeline transport,Almaty,KZALM,13.7
+2011,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,56.0
+2011,millions tonnes,performance indicators of pipeline transport,Batys Kazakhstan,KZZAP,20.8
+2011,millions tonnes,performance indicators of pipeline transport,Zhambyl,KZZHA,15.3
+2011,millions tonnes,performance indicators of pipeline transport,Zhetisu,KZZHS,6.4
+2011,millions tonnes,performance indicators of pipeline transport,Karagandy,KZKAR,8.2
+2011,millions tonnes,performance indicators of pipeline transport,Kostanay,KZKUS,1.2
+2011,millions tonnes,performance indicators of pipeline transport,Kyzylorda,KZKZY,7.3
+2011,millions tonnes,performance indicators of pipeline transport,Mangistau,KZMAN,22.5
+2011,millions tonnes,performance indicators of pipeline transport,Pavlodar,KZPAV,8.4
+2011,millions tonnes,performance indicators of pipeline transport,Soltustik Kazakhstan,KZSEV,1.0
+2011,millions tonnes,performance indicators of pipeline transport,Turkistan,KZYUZ,19.2
+2011,millions tonnes,performance indicators of pipeline transport,Ulytau,KZULU,11.7
+2011,millions tonnes,performance indicators of pipeline transport,Astana city,KZNS,6.2
+2011,millions tonnes,performance indicators of pipeline transport,Almaty city,KZALA,1.3
+2011,millions tonnes,performance indicators of pipeline transport,Shymkent city,KZSHY,0.6
 2011,millions tonnes,freight carried by sea transport,,,4.6
 2011,millions tonnes,freight carried by sea transport,Mangistau,KZMAN,4.6
-2012,millions tonnes,Cargo transported by all means of transport,,,3231.8
+2012,millions tonnes,Cargo transported by all means of transport,,,585.2
 2012,millions tonnes,Pipeline,,,213.2
 2012,millions tonnes,Railway,,,294.8
-2012,millions tonnes,Automobile,,,2718.4
-2012,millions tonnes,Air,,,0.2
+2012,millions tonnes,Automobile,,,71.8
+2012,millions tonnes,Air,,,0.02
 2012,millions tonnes,Inland water еransport,,,1.3
 2012,millions tonnes,nautical,,,4.0
-2012,millions tonnes,,Akmola,KZAKM,112.6
-2012,millions tonnes,,Aktobe,KZAKT,58.1
-2012,millions tonnes,,Almaty,KZALM,158.1
-2012,millions tonnes,,Atyrau,KZATY,140.6
-2012,millions tonnes,,Batys Kazakhstan,KZZAP,35.8
-2012,millions tonnes,,Zhambyl,KZZHA,80.4
-2012,millions tonnes,,Karagandy,KZKAR,619.7
-2012,millions tonnes,,Kostanay,KZKUS,275.6
-2012,millions tonnes,,Kyzylorda,KZKZY,98.4
-2012,millions tonnes,,Mangistau,KZMAN,207.7
-2012,millions tonnes,,Ontustik Kazakhstan,KZONT,123.8
-2012,millions tonnes,,Pavlodar,KZPAV,103.0
-2012,millions tonnes,,Soltustik Kazakhstan,KZSEV,46.2
-2012,millions tonnes,,Shygys Kazakhstan,KZVOS,476.9
-2012,millions tonnes,,Astana city,KZNS,112.6
-2012,millions tonnes,,Almaty city,KZALA,168.3
-2012,mln.people,Passengers transported by all means of transport,,,18484.6
+2012,millions tonnes,,Abai,KZABY,18.1
+2012,millions tonnes,,Akmola,KZAKM,27.4
+2012,millions tonnes,,Aktobe,KZAKT,43.1
+2012,millions tonnes,,Almaty,KZALM,29.2
+2012,millions tonnes,,Atyrau,KZATY,67.4
+2012,millions tonnes,,Batys Kazakhstan,KZZAP,25.9
+2012,millions tonnes,,Zhambyl,KZZHA,39.6
+2012,millions tonnes,,Zhetisu,KZZHS,14.0
+2012,millions tonnes,,Karagandy,KZKAR,45.3
+2012,millions tonnes,,Kostanay,KZKUS,25.1
+2012,millions tonnes,,Kyzylorda,KZKZY,28.6
+2012,millions tonnes,,Mangistau,KZMAN,41.7
+2012,millions tonnes,,Pavlodar,KZPAV,34.6
+2012,millions tonnes,,Soltustik Kazakhstan,KZSEV,10.3
+2012,millions tonnes,,Turkistan,KZYUZ,29.1
+2012,millions tonnes,,Ulytau,KZULU,23.4
+2012,millions tonnes,,Shygys Kazakhstan,KZVOS,27.3
+2012,millions tonnes,,Astana city,KZNS,29.2
+2012,millions tonnes,,Almaty city,KZALA,11.9
+2012,millions tonnes,,Shymkent city,KZSHY,13.9
+2012,mln.people,Passengers transported by all means of transport,,,1543.3
 2012,mln.people,Railway transport,,,24.4
-2012,mln.people,Automobile,,,18380.2
+2012,mln.people,Automobile,,,1444.7
 2012,mln.people,Inland water еransport,,,0.1
 2012,mln.people,Air,,,4.5
 2012,mln.people,City electric transport,,,69.6
-2012,mln.people,,Akmola,KZAKM,1482.1
-2012,mln.people,,Aktobe,KZAKT,220.1
-2012,mln.people,,Almaty,KZALM,597.2
-2012,mln.people,,Atyrau,KZATY,155.4
-2012,mln.people,,Batys Kazakhstan,KZZAP,402.3
-2012,mln.people,,Zhambyl,KZZHA,802.8
-2012,mln.people,,Karagandy,KZKAR,2111.4
-2012,mln.people,,Kostanay,KZKUS,1575.5
-2012,mln.people,,Kyzylorda,KZKZY,232.4
-2012,mln.people,,Mangistau,KZMAN,81.5
-2012,mln.people,,Ontustik Kazakhstan,KZONT,2149.9
-2012,mln.people,,Pavlodar,KZPAV,1166.3
-2012,mln.people,,Soltustik Kazakhstan,KZSEV,470.7
-2012,mln.people,,Shygys Kazakhstan,KZVOS,1459.9
-2012,mln.people,,Astana city,KZNS,1750.1
-2012,mln.people,,Almaty city,KZALA,3802.8
-2012,millions tonnes,freight carried by road and urban electric transport,,,2718.4
-2012,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,112.6
-2012,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,58.1
-2012,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,158.1
-2012,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,72.4
-2012,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,35.7
-2012,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,80.4
-2012,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,619.7
-2012,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,275.6
-2012,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,98.4
-2012,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,203.7
-2012,millions tonnes,freight carried by road and urban electric transport,Ontustik Kazakhstan,KZONT,123.8
-2012,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,76.6
-2012,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,46.1
-2012,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,476.6
-2012,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,112.6
-2012,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,168.3
-2012,mln.people,Passengers transported by all means of transport,,,18455.7
-2012,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1482.1
-2012,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,220.1
-2012,mln.people,Passengers transported by all means of transport,Almaty,KZALM,597.2
-2012,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,155.4
-2012,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,402.2
-2012,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,802.8
-2012,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,2111.4
-2012,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,1575.5
-2012,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,2323.7
-2012,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,81.5
-2012,mln.people,Passengers transported by all means of transport,Ontustik Kazakhstan,KZONT,2148.8
-2012,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1166.3
-2012,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,4706.9
-2012,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1459.9
-2012,mln.people,Passengers transported by all means of transport,Astana city,KZNS,1750.0
-2012,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,3799.5
+2012,mln.people,,Abai,KZABY,49.1
+2012,mln.people,,Akmola,KZAKM,31.4
+2012,mln.people,,Aktobe,KZAKT,44.4
+2012,mln.people,,Almaty,KZALM,16.4
+2012,mln.people,,Atyrau,KZATY,26.8
+2012,mln.people,,Batys Kazakhstan,KZZAP,67.5
+2012,mln.people,,Zhambyl,KZZHA,105.3
+2012,mln.people,,Zhetisu,KZZHS,31.7
+2012,mln.people,,Karagandy,KZKAR,175.8
+2012,mln.people,,Kostanay,KZKUS,38.2
+2012,mln.people,,Kyzylorda,KZKZY,19.2
+2012,mln.people,,Mangistau,KZMAN,19.5
+2012,mln.people,,Pavlodar,KZPAV,125.4
+2012,mln.people,,Soltustik Kazakhstan,KZSEV,23.6
+2012,mln.people,,Turkistan,KZYUZ,22.3
+2012,mln.people,,Ulytau,KZULU,26.4
+2012,mln.people,,Shygys Kazakhstan,KZVOS,104.3
+2012,mln.people,,Astana city,KZNS,337.5
+2012,mln.people,,Almaty city,KZALA,227.7
+2012,mln.people,,Shymkent city,KZSHY,51.1
+2012,millions tonnes,freight carried by road and urban electric transport,,,71.8
+2012,millions tonnes,freight carried by road and urban electric transport,Abai,KZABY,1.5
+2012,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,2.4
+2012,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,3.8
+2012,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,2.2
+2012,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,1.3
+2012,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,1.4
+2012,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,0.9
+2012,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,12.3
+2012,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,3.2
+2012,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,5.9
+2012,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,1.5
+2012,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,4.5
+2012,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,1.4
+2012,millions tonnes,freight carried by road and urban electric transport,Turkistan,KZYUZ,1.1
+2012,millions tonnes,freight carried by road and urban electric transport,Ulytau,KZULU,0.7
+2012,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,19.3
+2012,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,2.3
+2012,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,2.4
+2012,millions tonnes,freight carried by road and urban electric transport,Shymkent city,KZSHY,3.0
+2012,mln.people,Passengers transported by all means of transport,,,1514.3
+2012,mln.people,Passengers transported by all means of transport,Abai,KZABY,47.9
+2012,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,29.4
+2012,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,42.0
+2012,mln.people,Passengers transported by all means of transport,Almaty,KZALM,15.6
+2012,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,25.0
+2012,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,66.8
+2012,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,103.8
+2012,mln.people,Passengers transported by all means of transport,Zhetisu,KZZHS,31.1
+2012,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,173.7
+2012,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,36.4
+2012,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,17.7
+2012,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,18.1
+2012,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,123.7
+2012,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,22.9
+2012,mln.people,Passengers transported by all means of transport,Turkistan,KZYUZ,21.8
+2012,mln.people,Passengers transported by all means of transport,Ulytau,KZULU,25.6
+2012,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,103.7
+2012,mln.people,Passengers transported by all means of transport,Astana city,KZNS,334.6
+2012,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,224.7
+2012,mln.people,Passengers transported by all means of transport,Shymkent city,KZSHY,50.0
 2012,tons,transported by air,,,21954.2
+2012,tons,transported by air,Abai,KZABY,5.8
 2012,tons,transported by air,Batys Kazakhstan,KZZAP,183.0
-2012,tons,transported by air,Ontustik Kazakhstan,KZONT,768.0
-2012,tons,transported by air,Shygys Kazakhstan,KZVOS,5.8
 2012,tons,transported by air,Almaty city,KZALA,20997.4
+2012,tons,transported by air,Shymkent city,KZSHY,768.0
 2012,thousand people,passengers transported by air,,,4512.0
-2012,thousand people,passengers transported by air,Almaty,KZALM,30.0
-2012,thousand people,passengers transported by air,Atyrau,KZATY,0.4
-2012,thousand people,passengers transported by air,Karagandy,KZKAR,59.7
-2012,thousand people,passengers transported by air,Batys Kazakhstan,KZZAP,7.2
-2012,thousand people,passengers transported by air,Ontustik Kazakhstan,KZONT,1095.8
-2012,thousand people,passengers transported by air,Astana city,KZNS,5.1
-2012,thousand people,passengers transported by air,Almaty city,KZALA,5.5
-2012,thousand people,passengers transported by air,Shymkent city,KZSHY,3308.3
+2012,thousand people,passengers transported by air,Abai,KZABY,26.5
+2012,thousand people,passengers transported by air,Akmola,KZAKM,2.9
+2012,thousand people,passengers transported by air,Almaty,KZALM,2.1
+2012,thousand people,passengers transported by air,Atyrau,KZATY,441.8
+2012,thousand people,passengers transported by air,Karagandy,KZKAR,99.0
+2012,thousand people,passengers transported by air,Kostanay,KZKUS,8.4
+2012,thousand people,passengers transported by air,Kyzylorda,KZKZY,28.9
+2012,thousand people,passengers transported by air,Batys Kazakhstan,KZZAP,17.7
+2012,thousand people,passengers transported by air,Zhambyl,KZZHA,21.3
+2012,thousand people,passengers transported by air,Zhetisu,KZZHS,24.3
+2012,thousand people,passengers transported by air,Mangistau,KZMAN,227.2
+2012,thousand people,passengers transported by air,Pavlodar,KZPAV,12.8
+2012,thousand people,passengers transported by air,Soltustik Kazakhstan,KZSEV,7.3
+2012,thousand people,passengers transported by air,Turkistan,KZYUZ,91.4
+2012,thousand people,passengers transported by air,Ulytau,KZULU,7.2
+2012,thousand people,passengers transported by air,Shygys Kazakhstan,KZVOS,26.9
+2012,thousand people,passengers transported by air,Astana city,KZNS,1131.1
+2012,thousand people,passengers transported by air,Almaty city,KZALA,1967.7
+2012,thousand people,passengers transported by air,Shymkent city,KZSHY,274.8
 2012,millions tonnes,performance indicators of pipeline transport,,,213.2
-2012,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,68.2
-2012,millions tonnes,performance indicators of pipeline transport,Pavlodar,KZPAV,25.7
+2012,millions tonnes,performance indicators of pipeline transport,Abai,KZABY,2.1
+2012,millions tonnes,performance indicators of pipeline transport,Aktobe,KZAKT,11.4
+2012,millions tonnes,performance indicators of pipeline transport,Almaty,KZALM,16.6
+2012,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,49.1
+2012,millions tonnes,performance indicators of pipeline transport,Batys Kazakhstan,KZZAP,17.9
+2012,millions tonnes,performance indicators of pipeline transport,Zhambyl,KZZHA,19.6
+2012,millions tonnes,performance indicators of pipeline transport,Zhetisu,KZZHS,6.3
+2012,millions tonnes,performance indicators of pipeline transport,Karagandy,KZKAR,7.9
+2012,millions tonnes,performance indicators of pipeline transport,Kostanay,KZKUS,1.0
+2012,millions tonnes,performance indicators of pipeline transport,Kyzylorda,KZKZY,6.1
+2012,millions tonnes,performance indicators of pipeline transport,Mangistau,KZMAN,21.9
+2012,millions tonnes,performance indicators of pipeline transport,Pavlodar,KZPAV,8.8
+2012,millions tonnes,performance indicators of pipeline transport,Soltustik Kazakhstan,KZSEV,0.7
+2012,millions tonnes,performance indicators of pipeline transport,Turkistan,KZYUZ,23.8
+2012,millions tonnes,performance indicators of pipeline transport,Ulytau,KZULU,13.1
+2012,millions tonnes,performance indicators of pipeline transport,Astana city,KZNS,5.0
+2012,millions tonnes,performance indicators of pipeline transport,Almaty city,KZALA,1.1
+2012,millions tonnes,performance indicators of pipeline transport,Shymkent city,KZSHY,0.9
 2012,millions tonnes,freight carried by sea transport,,,4.0
 2012,millions tonnes,freight carried by sea transport,Mangistau,KZMAN,4.0
-2013,millions tonnes,Cargo transported by all means of transport,,,3508.0
+2013,millions tonnes,Cargo transported by all means of transport,,,623.7
 2013,millions tonnes,Pipeline,,,225.9
 2013,millions tonnes,Railway,,,293.7
-2013,millions tonnes,Automobile,,,2983.4
-2013,millions tonnes,Air,,,0.2
+2013,millions tonnes,Automobile,,,99.0
+2013,millions tonnes,Air,,,0.02
 2013,millions tonnes,Inland water еransport,,,1.1
 2013,millions tonnes,nautical,,,4.0
-2013,millions tonnes,,Akmola,KZAKM,121.5
-2013,millions tonnes,,Aktobe,KZAKT,62.2
-2013,millions tonnes,,Almaty,KZALM,159.0
-2013,millions tonnes,,Atyrau,KZATY,151.3
-2013,millions tonnes,,Batys Kazakhstan,KZZAP,38.9
-2013,millions tonnes,,Zhambyl,KZZHA,88.4
-2013,millions tonnes,,Karagandy,KZKAR,676.7
-2013,millions tonnes,,Kostanay,KZKUS,299.7
-2013,millions tonnes,,Kyzylorda,KZKZY,106.1
-2013,millions tonnes,,Mangistau,KZMAN,215.1
-2013,millions tonnes,,Ontustik Kazakhstan,KZONT,133.0
-2013,millions tonnes,,Pavlodar,KZPAV,116.5
-2013,millions tonnes,,Soltustik Kazakhstan,KZSEV,49.3
-2013,millions tonnes,,Shygys Kazakhstan,KZVOS,553.7
-2013,millions tonnes,,Astana city,KZNS,124.1
-2013,millions tonnes,,Almaty city,KZALA,194.4
-2013,mln.people,Passengers transported by all means of transport,,,20004.3
+2013,millions tonnes,,Abai,KZABY,17.9
+2013,millions tonnes,,Akmola,KZAKM,26.4
+2013,millions tonnes,,Aktobe,KZAKT,44.9
+2013,millions tonnes,,Almaty,KZALM,32.2
+2013,millions tonnes,,Atyrau,KZATY,70.6
+2013,millions tonnes,,Batys Kazakhstan,KZZAP,23.7
+2013,millions tonnes,,Zhambyl,KZZHA,41.4
+2013,millions tonnes,,Zhetisu,KZZHS,13.4
+2013,millions tonnes,,Karagandy,KZKAR,52.6
+2013,millions tonnes,,Kostanay,KZKUS,26.0
+2013,millions tonnes,,Kyzylorda,KZKZY,29.3
+2013,millions tonnes,,Mangistau,KZMAN,42.3
+2013,millions tonnes,,Pavlodar,KZPAV,49.9
+2013,millions tonnes,,Soltustik Kazakhstan,KZSEV,8.8
+2013,millions tonnes,,Turkistan,KZYUZ,28.7
+2013,millions tonnes,,Ulytau,KZULU,25.1
+2013,millions tonnes,,Shygys Kazakhstan,KZVOS,27.8
+2013,millions tonnes,,Astana city,KZNS,34.3
+2013,millions tonnes,,Almaty city,KZALA,14.1
+2013,millions tonnes,,Shymkent city,KZSHY,14.3
+2013,mln.people,Passengers transported by all means of transport,,,1554.2
 2013,mln.people,Railway transport,,,28.6
-2013,mln.people,Automobile,,,19905.3
+2013,mln.people,Automobile,,,1455.2
 2013,mln.people,Inland water еransport,,,0.1
 2013,mln.people,Air,,,5.0
-2013,mln.people,City electric transport,,,65.3
-2013,mln.people,,Akmola,KZAKM,1604.5
-2013,mln.people,,Aktobe,KZAKT,238.4
-2013,mln.people,,Almaty,KZALM,629.0
-2013,mln.people,,Atyrau,KZATY,167.9
-2013,mln.people,,Batys Kazakhstan,KZZAP,425.8
-2013,mln.people,,Zhambyl,KZZHA,864.6
-2013,mln.people,,Karagandy,KZKAR,2299.9
-2013,mln.people,,Kostanay,KZKUS,1657.4
-2013,mln.people,,Kyzylorda,KZKZY,251.3
-2013,mln.people,,Mangistau,KZMAN,85.5
-2013,mln.people,,Ontustik Kazakhstan,KZONT,2257.6
-2013,mln.people,,Pavlodar,KZPAV,1194.6
-2013,mln.people,,Soltustik Kazakhstan,KZSEV,492.8
-2013,mln.people,,Shygys Kazakhstan,KZVOS,1606.7
-2013,mln.people,,Astana city,KZNS,1961.0
-2013,mln.people,,Almaty city,KZALA,4238.8
-2013,millions tonnes,freight carried by road and urban electric transport,,,2983.4
-2013,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,121.5
-2013,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,62.2
-2013,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,159.0
-2013,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,82.6
-2013,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,38.9
-2013,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,88.4
-2013,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,676.7
-2013,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,299.7
-2013,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,106.1
-2013,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,211.1
-2013,millions tonnes,freight carried by road and urban electric transport,Ontustik Kazakhstan,KZONT,133.0
-2013,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,83.3
-2013,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,49.3
-2013,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,553.3
-2013,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,124.1
-2013,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,194.4
-2013,mln.people,Passengers transported by all means of transport,,,19970.6
-2013,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1604.5
-2013,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,238.4
-2013,mln.people,Passengers transported by all means of transport,Almaty,KZALM,628.9
-2013,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,167.9
-2013,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,425.6
-2013,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,864.6
-2013,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,2299.9
-2013,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,1657.4
-2013,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,251.3
-2013,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,85.5
-2013,mln.people,Passengers transported by all means of transport,Ontustik Kazakhstan,KZONT,2256.5
-2013,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1194.6
-2013,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,492.8
-2013,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1606.7
-2013,mln.people,Passengers transported by all means of transport,Astana city,KZNS,1961.0
-2013,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,4235.1
+2013,mln.people,City electric transport,,,65.4
+2013,mln.people,,Akmola,KZAKM,45.7
+2013,mln.people,,Akmola,KZAKM,32.4
+2013,mln.people,,Aktobe,KZAKT,49.1
+2013,mln.people,,Almaty,KZALM,17.0
+2013,mln.people,,Atyrau,KZATY,24.5
+2013,mln.people,,Batys Kazakhstan,KZZAP,73.5
+2013,mln.people,,Zhambyl,KZZHA,100.8
+2013,mln.people,,Zhetisu,KZZHS,35.8
+2013,mln.people,,Karagandy,KZKAR,170.7
+2013,mln.people,,Kostanay,KZKUS,38.3
+2013,mln.people,,Kyzylorda,KZKZY,20.8
+2013,mln.people,,Mangistau,KZMAN,21.3
+2013,mln.people,,Pavlodar,KZPAV,103.1
+2013,mln.people,,Soltustik Kazakhstan,KZSEV,20.2
+2013,mln.people,,Turkistan,KZYUZ,19.3
+2013,mln.people,,Ulytau,KZULU,26.1
+2013,mln.people,,Shygys Kazakhstan,KZVOS,101.2
+2013,mln.people,,Astana city,KZNS,365.0
+2013,mln.people,,Almaty city,KZALA,239.1
+2013,mln.people,,Shymkent city,KZSHY,50.7
+2013,millions tonnes,freight carried by road and urban electric transport,,,99.0
+2013,millions tonnes,freight carried by road and urban electric transport,Abai,KZABY,1.3
+2013,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,2.1
+2013,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,5.1
+2013,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,2.9
+2013,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,2.6
+2013,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,1.1
+2013,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,0.6
+2013,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,18.4
+2013,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,4.8
+2013,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,5.6
+2013,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,1.9
+2013,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,18.5
+2013,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,0.9
+2013,millions tonnes,freight carried by road and urban electric transport,Turkistan,KZYUZ,0.8
+2013,millions tonnes,freight carried by road and urban electric transport,Ulytau,KZULU,1.5
+2013,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,19.8
+2013,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,4.3
+2013,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,3.4
+2013,millions tonnes,freight carried by road and urban electric transport,Shymkent city,KZSHY,2.5
+2013,mln.people,Passengers transported by all means of transport,,,1520.6
+2013,mln.people,Passengers transported by all means of transport,Abai,KZABY,44.3
+2013,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,30.1
+2013,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,46.3
+2013,mln.people,Passengers transported by all means of transport,Almaty,KZALM,16.0
+2013,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,22.4
+2013,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,72.6
+2013,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,99.0
+2013,mln.people,Passengers transported by all means of transport,Zhetisu,KZZHS,35.2
+2013,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,168.0
+2013,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,36.3
+2013,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,19.0
+2013,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,19.7
+2013,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,101.1
+2013,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,19.5
+2013,mln.people,Passengers transported by all means of transport,Turkistan,KZYUZ,18.8
+2013,mln.people,Passengers transported by all means of transport,Ulytau,KZULU,25.2
+2013,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,100.4
+2013,mln.people,Passengers transported by all means of transport,Astana city,KZNS,361.4
+2013,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,235.7
+2013,mln.people,Passengers transported by all means of transport,Shymkent city,KZSHY,49.4
 2013,tons,transported by air,,,23873.5
 2013,tons,transported by air,Batys Kazakhstan,KZZAP,227.2
-2013,tons,transported by air,Shygys Kazakhstan,KZVOS,1062.0
 2013,tons,transported by air,Almaty city,KZALA,22584.3
+2013,tons,transported by air,Shymkent city,KZSHY,1062.0
 2013,thousand people,passengers transported by air,,,4985.6
-2013,thousand people,passengers transported by air,Almaty,KZALM,25.5
-2013,thousand people,passengers transported by air,Karagandy,KZKAR,10.0
-2013,thousand people,passengers transported by air,Batys Kazakhstan,KZZAP,140.1
-2013,thousand people,passengers transported by air,Ontustik Kazakhstan,KZONT,1109.6
-2013,thousand people,passengers transported by air,Almaty city,KZALA,1.3
-2013,thousand people,passengers transported by air,Shymkent city,KZSHY,3699.1
+2013,thousand people,passengers transported by air,Abai,KZABY,23.9
+2013,thousand people,passengers transported by air,Akmola,KZAKM,3.0
+2013,thousand people,passengers transported by air,Aktobe,KZAKT,97.0
+2013,thousand people,passengers transported by air,Almaty,KZALM,2.6
+2013,thousand people,passengers transported by air,Atyrau,KZATY,468.2
+2013,thousand people,passengers transported by air,Karagandy,KZKAR,184.1
+2013,thousand people,passengers transported by air,Kostanay,KZKUS,8.6
+2013,thousand people,passengers transported by air,Kyzylorda,KZKZY,23.9
+2013,thousand people,passengers transported by air,Batys Kazakhstan,KZZAP,19.7
+2013,thousand people,passengers transported by air,Zhambyl,KZZHA,23.8
+2013,thousand people,passengers transported by air,Zhetisu,KZZHS,27.2
+2013,thousand people,passengers transported by air,Mangistau,KZMAN,250.1
+2013,thousand people,passengers transported by air,Pavlodar,KZPAV,14.3
+2013,thousand people,passengers transported by air,Soltustik Kazakhstan,KZSEV,7.4
+2013,thousand people,passengers transported by air,Turkistan,KZYUZ,101.9
+2013,thousand people,passengers transported by air,Ulytau,KZULU,10.0
+2013,thousand people,passengers transported by air,Shygys Kazakhstan,KZVOS,28.6
+2013,thousand people,passengers transported by air,Astana city,KZNS,1234.6
+2013,thousand people,passengers transported by air,Almaty city,KZALA,2168.5
+2013,thousand people,passengers transported by air,Shymkent city,KZSHY,288.2
 2013,millions tonnes,performance indicators of pipeline transport,,,225.9
-2013,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,68.7
-2013,millions tonnes,performance indicators of pipeline transport,Pavlodar,KZPAV,32.5
+2013,millions tonnes,performance indicators of pipeline transport,Abai,KZABY,2.4
+2013,millions tonnes,performance indicators of pipeline transport,Aktobe,KZAKT,12.2
+2013,millions tonnes,performance indicators of pipeline transport,Almaty,KZALM,18.8
+2013,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,50.8
+2013,millions tonnes,performance indicators of pipeline transport,Batys Kazakhstan,KZZAP,16.2
+2013,millions tonnes,performance indicators of pipeline transport,Zhambyl,KZZHA,22.2
+2013,millions tonnes,performance indicators of pipeline transport,Zhetisu,KZZHS,7.0
+2013,millions tonnes,performance indicators of pipeline transport,Karagandy,KZKAR,8.9
+2013,millions tonnes,performance indicators of pipeline transport,Kostanay,KZKUS,0.9
+2013,millions tonnes,performance indicators of pipeline transport,Kyzylorda,KZKZY,6.8
+2013,millions tonnes,performance indicators of pipeline transport,Mangistau,KZMAN,22.6
+2013,millions tonnes,performance indicators of pipeline transport,Pavlodar,KZPAV,10.8
+2013,millions tonnes,performance indicators of pipeline transport,Soltustik Kazakhstan,KZSEV,0.7
+2013,millions tonnes,performance indicators of pipeline transport,Turkistan,KZYUZ,24.5
+2013,millions tonnes,performance indicators of pipeline transport,Ulytau,KZULU,14.7
+2013,millions tonnes,performance indicators of pipeline transport,Astana city,KZNS,5.5
+2013,millions tonnes,performance indicators of pipeline transport,Almaty city,KZALA,1.3
+2013,millions tonnes,performance indicators of pipeline transport,Shymkent city,KZSHY,0.6
 2013,millions tonnes,freight carried by sea transport,,,4.0
 2013,millions tonnes,freight carried by sea transport,Mangistau,KZMAN,4.0
-2014,millions tonnes,Cargo transported by all means of transport,,,3749.8
+2014,millions tonnes,Cargo transported by all means of transport,,,728.8
 2014,millions tonnes,Pipeline,,,225.0
 2014,millions tonnes,Railway,,,390.7
-2014,millions tonnes,Automobile,,,3129.1
-2014,millions tonnes,Air,,,0.2
+2014,millions tonnes,Automobile,,,108.1
+2014,millions tonnes,Air,,,0.02
 2014,millions tonnes,Inland water еransport,,,1.3
 2014,millions tonnes,nautical,,,3.6
-2014,millions tonnes,,Akmola,KZAKM,121.3
-2014,millions tonnes,,Aktobe,KZAKT,63.6
-2014,millions tonnes,,Almaty,KZALM,159.9
-2014,millions tonnes,,Atyrau,KZATY,151.2
-2014,millions tonnes,,Batys Kazakhstan,KZZAP,40.0
-2014,millions tonnes,,Zhambyl,KZZHA,88.9
-2014,millions tonnes,,Karagandy,KZKAR,719.2
-2014,millions tonnes,,Kostanay,KZKUS,297.3
-2014,millions tonnes,,Kyzylorda,KZKZY,107.2
-2014,millions tonnes,,Mangistau,KZMAN,217.6
-2014,millions tonnes,,Ontustik Kazakhstan,KZONT,145.4
-2014,millions tonnes,,Pavlodar,KZPAV,128.1
-2014,millions tonnes,,Soltustik Kazakhstan,KZSEV,49.9
-2014,millions tonnes,,Shygys Kazakhstan,KZVOS,595.5
-2014,millions tonnes,,Astana city,KZNS,136.7
-2014,millions tonnes,,Almaty city,KZALA,216.8
-2014,mln.people,Passengers transported by all means of transport,,,21281.2
+2014,millions tonnes,,Abai,KZABY,22.2
+2014,millions tonnes,,Akmola,KZAKM,35.4
+2014,millions tonnes,,Aktobe,KZAKT,53.5
+2014,millions tonnes,,Almaty,KZALM,35.5
+2014,millions tonnes,,Atyrau,KZATY,74.9
+2014,millions tonnes,,Batys Kazakhstan,KZZAP,25.1
+2014,millions tonnes,,Zhambyl,KZZHA,50.1
+2014,millions tonnes,,Zhetisu,KZZHS,16.2
+2014,millions tonnes,,Karagandy,KZKAR,62.0
+2014,millions tonnes,,Kostanay,KZKUS,31.7
+2014,millions tonnes,,Kyzylorda,KZKZY,30.0
+2014,millions tonnes,,Mangistau,KZMAN,46.3
+2014,millions tonnes,,Pavlodar,KZPAV,59.2
+2014,millions tonnes,,Soltustik Kazakhstan,KZSEV,15.2
+2014,millions tonnes,,Turkistan,KZYUZ,32.9
+2014,millions tonnes,,Ulytau,KZULU,28.0
+2014,millions tonnes,,Shygys Kazakhstan,KZVOS,29.4
+2014,millions tonnes,,Astana city,KZNS,45.3
+2014,millions tonnes,,Almaty city,KZALA,19.5
+2014,millions tonnes,,Almaty city,KZALA,16.3
+2014,mln.people,Passengers transported by all means of transport,,,1669.7
 2014,mln.people,Railway transport,,,23.2
-2014,mln.people,Automobile,,,21189.9
+2014,mln.people,Automobile,,,1578.4
 2014,mln.people,Inland water еransport,,,0.1
 2014,mln.people,Air,,,5.4
-2014,mln.people,City electric transport,,,62.5
-2014,mln.people,,Akmola,KZAKM,1723.9
-2014,mln.people,,Aktobe,KZAKT,251.0
-2014,mln.people,,Almaty,KZALM,654.3
-2014,mln.people,,Atyrau,KZATY,172.1
-2014,mln.people,,Batys Kazakhstan,KZZAP,428.3
-2014,mln.people,,Zhambyl,KZZHA,882.5
-2014,mln.people,,Karagandy,KZKAR,2428.7
-2014,mln.people,,Kostanay,KZKUS,1752.0
-2014,mln.people,,Kyzylorda,KZKZY,282.1
-2014,mln.people,,Mangistau,KZMAN,85.5
-2014,mln.people,,Ontustik Kazakhstan,KZONT,2262.5
-2014,mln.people,,Pavlodar,KZPAV,1195.6
-2014,mln.people,,Soltustik Kazakhstan,KZSEV,496.1
-2014,mln.people,,Shygys Kazakhstan,KZVOS,1654.2
-2014,mln.people,,Astana city,KZNS,2180.3
-2014,mln.people,,Almaty city,KZALA,4808.6
-2014,millions tonnes,freight carried by road and urban electric transport,,,3129.1
-2014,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,121.3
-2014,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,63.6
-2014,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,159.9
-2014,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,82.1
-2014,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,39.9
-2014,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,88.9
-2014,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,719.2
-2014,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,297.3
-2014,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,107.2
-2014,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,214.0
-2014,millions tonnes,freight carried by road and urban electric transport,Ontustik Kazakhstan,KZONT,145.4
-2014,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,91.8
-2014,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,49.9
-2014,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,595.1
-2014,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,136.7
-2014,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,216.8
-2014,mln.people,Passengers transported by all means of transport,,,21252.4
-2014,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1723.9
-2014,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,251.0
-2014,mln.people,Passengers transported by all means of transport,Almaty,KZALM,654.3
-2014,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,172.1
-2014,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,427.9
-2014,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,882.5
-2014,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,2428.7
-2014,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,1752.0
-2014,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,282.1
-2014,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,85.5
-2014,mln.people,Passengers transported by all means of transport,Ontustik Kazakhstan,KZONT,2261.3
-2014,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1195.6
-2014,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,496.1
-2014,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1654.2
-2014,mln.people,Passengers transported by all means of transport,Astana city,KZNS,2180.3
-2014,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,4804.8
+2014,mln.people,City electric transport,,,62.6
+2014,mln.people,,Abai,KZABY,42.9
+2014,mln.people,,Akmola,KZAKM,32.7
+2014,mln.people,,Aktobe,KZAKT,51.4
+2014,mln.people,,Almaty,KZALM,15.3
+2014,mln.people,,Atyrau,KZATY,23.3
+2014,mln.people,,Batys Kazakhstan,KZZAP,73.0
+2014,mln.people,,Zhambyl,KZZHA,94.0
+2014,mln.people,,Zhetisu,KZZHS,34.7
+2014,mln.people,,Karagandy,KZKAR,166.5
+2014,mln.people,,Kostanay,KZKUS,38.1
+2014,mln.people,,Kyzylorda,KZKZY,24.5
+2014,mln.people,,Mangistau,KZMAN,20.0
+2014,mln.people,,Pavlodar,KZPAV,100.6
+2014,mln.people,,Soltustik Kazakhstan,KZSEV,19.3
+2014,mln.people,,Turkistan,KZYUZ,18.8
+2014,mln.people,,Ulytau,KZULU,25.0
+2014,mln.people,,Shygys Kazakhstan,KZVOS,95.1
+2014,mln.people,,Astana city,KZNS,467.5
+2014,mln.people,,Almaty city,KZALA,279.9
+2014,mln.people,,Shymkent city,KZSHY,47.0
+2014,millions tonnes,freight carried by road and urban electric transport,,,108.1
+2014,millions tonnes,freight carried by road and urban electric transport,Abai,KZABY,1.4
+2014,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,2.2
+2014,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,6.0
+2014,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,1.8
+2014,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,4.4
+2014,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,1.3
+2014,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,0.6
+2014,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,21.2
+2014,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,3.8
+2014,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,4.1
+2014,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,2.1
+2014,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,20.8
+2014,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,1.0
+2014,millions tonnes,freight carried by road and urban electric transport,Turkistan,KZYUZ,0.7
+2014,millions tonnes,freight carried by road and urban electric transport,Ulytau,KZULU,0.7
+2014,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,18.7
+2014,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,9.0
+2014,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,4.5
+2014,millions tonnes,freight carried by road and urban electric transport,Shymkent city,KZSHY,3.1
+2014,mln.people,Passengers transported by all means of transport,,,1640.9
+2014,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,41.7
+2014,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,30.8
+2014,mln.people,Passengers transported by all means of transport,Almaty,KZALM,49.1
+2014,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,14.6
+2014,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,72.1
+2014,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,92.5
+2014,mln.people,Passengers transported by all means of transport,Zhetisu,KZZHS,34.1
+2014,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,164.5
+2014,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,36.5
+2014,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,23.0
+2014,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,18.7
+2014,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,99.0
+2014,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,18.7
+2014,mln.people,Passengers transported by all means of transport,Turkistan,KZYUZ,18.4
+2014,mln.people,Passengers transported by all means of transport,Ulytau,KZULU,24.2
+2014,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,94.4
+2014,mln.people,Passengers transported by all means of transport,Astana city,KZNS,464.5
+2014,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,276.6
+2014,mln.people,Passengers transported by all means of transport,Shymkent city,KZSHY,46.0
 2014,tons,transported by air,,,19082.4
 2014,tons,transported by air,Batys Kazakhstan,KZZAP,239.4
-2014,tons,transported by air,Shygys Kazakhstan,KZVOS,978.0
 2014,tons,transported by air,Almaty city,KZALA,17865.0
+2014,tons,transported by air,Shymkent city,KZSHY,978.0
 2014,thousand people,passengers transported by air,,,5434.6
-2014,thousand people,passengers transported by air,Almaty,KZALM,28.5
-2014,thousand people,passengers transported by air,Karagandy,KZKAR,8.5
-2014,thousand people,passengers transported by air,Batys Kazakhstan,KZZAP,354.7
-2014,thousand people,passengers transported by air,Ontustik Kazakhstan,KZONT,1254.7
-2014,thousand people,passengers transported by air,Almaty city,KZALA,1.4
-2014,thousand people,passengers transported by air,Shymkent city,KZSHY,3786.8
+2014,thousand people,passengers transported by air,Abai,KZABY,24.5
+2014,thousand people,passengers transported by air,Akmola,KZAKM,3.4
+2014,thousand people,passengers transported by air,Aktobe,KZAKT,106.0
+2014,thousand people,passengers transported by air,Almaty,KZALM,1.8
+2014,thousand people,passengers transported by air,Atyrau,KZATY,505.4
+2014,thousand people,passengers transported by air,Karagandy,KZKAR,399.7
+2014,thousand people,passengers transported by air,Kostanay,KZKUS,9.6
+2014,thousand people,passengers transported by air,Kyzylorda,KZKZY,27.7
+2014,thousand people,passengers transported by air,Batys Kazakhstan,KZZAP,20.3
+2014,thousand people,passengers transported by air,Zhambyl,KZZHA,24.4
+2014,thousand people,passengers transported by air,Zhetisu,KZZHS,27.8
+2014,thousand people,passengers transported by air,Mangistau,KZMAN,260.0
+2014,thousand people,passengers transported by air,Pavlodar,KZPAV,14.6
+2014,thousand people,passengers transported by air,Soltustik Kazakhstan,KZSEV,8.4
+2014,thousand people,passengers transported by air,Turkistan,KZYUZ,104.6
+2014,thousand people,passengers transported by air,Ulytau,KZULU,8.6
+2014,thousand people,passengers transported by air,Shygys Kazakhstan,KZVOS,30.8
+2014,thousand people,passengers transported by air,Astana city,KZNS,1289.9
+2014,thousand people,passengers transported by air,Almaty city,KZALA,2252.5
+2014,thousand people,passengers transported by air,Shymkent city,KZSHY,314.6
 2014,millions tonnes,performance indicators of pipeline transport,,,225.0
-2014,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,69.0
-2014,millions tonnes,performance indicators of pipeline transport,Pavlodar,KZPAV,35.4
+2014,millions tonnes,performance indicators of pipeline transport,Abai,KZABY,1.4
+2014,millions tonnes,performance indicators of pipeline transport,Aktobe,KZAKT,10.4
+2014,millions tonnes,performance indicators of pipeline transport,Almaty,KZALM,21.1
+2014,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,49.9
+2014,millions tonnes,performance indicators of pipeline transport,Batys Kazakhstan,KZZAP,15.1
+2014,millions tonnes,performance indicators of pipeline transport,Zhambyl,KZZHA,23.5
+2014,millions tonnes,performance indicators of pipeline transport,Zhetisu,KZZHS,5.7
+2014,millions tonnes,performance indicators of pipeline transport,Karagandy,KZKAR,7.1
+2014,millions tonnes,performance indicators of pipeline transport,Kostanay,KZKUS,0.9
+2014,millions tonnes,performance indicators of pipeline transport,Kyzylorda,KZKZY,4.1
+2014,millions tonnes,performance indicators of pipeline transport,Mangistau,KZMAN,22.1
+2014,millions tonnes,performance indicators of pipeline transport,Pavlodar,KZPAV,10.2
+2014,millions tonnes,performance indicators of pipeline transport,Soltustik Kazakhstan,KZSEV,3.0
+2014,millions tonnes,performance indicators of pipeline transport,Turkistan,KZYUZ,26.2
+2014,millions tonnes,performance indicators of pipeline transport,Ulytau,KZULU,14.1
+2014,millions tonnes,performance indicators of pipeline transport,Astana city,KZNS,7.6
+2014,millions tonnes,performance indicators of pipeline transport,Almaty city,KZALA,1.8
+2014,millions tonnes,performance indicators of pipeline transport,Shymkent city,KZSHY,1.0
 2014,millions tonnes,freight carried by sea transport,,,3.6
 2014,millions tonnes,freight carried by sea transport,Mangistau,KZMAN,3.6
-2015,millions tonnes,Cargo transported by all means of transport,,,3733.8
+2015,millions tonnes,Cargo transported by all means of transport,,,662.2
 2015,millions tonnes,Pipeline,,,214.6
 2015,millions tonnes,Railway,,,341.4
-2015,millions tonnes,Automobile,,,3174.0
-2015,millions tonnes,Air,,,0.2
+2015,millions tonnes,Automobile,,,102.5
+2015,millions tonnes,Air,,,0.02
 2015,millions tonnes,Inland water еransport,,,1.2
 2015,millions tonnes,nautical,,,2.5
-2015,millions tonnes,,Akmola,KZAKM,120.3
-2015,millions tonnes,,Aktobe,KZAKT,70.1
-2015,millions tonnes,,Almaty,KZALM,167.2
-2015,millions tonnes,,Atyrau,KZATY,144.4
-2015,millions tonnes,,Batys Kazakhstan,KZZAP,39.5
-2015,millions tonnes,,Zhambyl,KZZHA,91.3
-2015,millions tonnes,,Karagandy,KZKAR,709.9
-2015,millions tonnes,,Kostanay,KZKUS,294.9
-2015,millions tonnes,,Kyzylorda,KZKZY,108.7
-2015,millions tonnes,,Mangistau,KZMAN,227.8
-2015,millions tonnes,,Ontustik Kazakhstan,KZONT,155.0
-2015,millions tonnes,,Pavlodar,KZPAV,127.9
-2015,millions tonnes,,Soltustik Kazakhstan,KZSEV,49.7
-2015,millions tonnes,,Shygys Kazakhstan,KZVOS,598.8
-2015,millions tonnes,,Astana city,KZNS,142.5
-2015,millions tonnes,,Almaty city,KZALA,232.1
-2015,mln.people,Passengers transported by all means of transport,,,21839.1
+2015,millions tonnes,,Abai,KZABY,19.3
+2015,millions tonnes,,Akmola,KZAKM,30.9
+2015,millions tonnes,,Aktobe,KZAKT,50.3
+2015,millions tonnes,,Almaty,KZALM,34.9
+2015,millions tonnes,,Atyrau,KZATY,71.2
+2015,millions tonnes,,Batys Kazakhstan,KZZAP,23.2
+2015,millions tonnes,,Zhambyl,KZZHA,47.5
+2015,millions tonnes,,Zhetisu,KZZHS,14.3
+2015,millions tonnes,,Karagandy,KZKAR,48.8
+2015,millions tonnes,,Kostanay,KZKUS,28.0
+2015,millions tonnes,,Kyzylorda,KZKZY,26.5
+2015,millions tonnes,,Mangistau,KZMAN,34.7
+2015,millions tonnes,,Pavlodar,KZPAV,56.3
+2015,millions tonnes,,Soltustik Kazakhstan,KZSEV,13.3
+2015,millions tonnes,,Turkistan,KZYUZ,30.7
+2015,millions tonnes,,Ulytau,KZULU,28.6
+2015,millions tonnes,,Shygys Kazakhstan,KZVOS,26.9
+2015,millions tonnes,,Astana city,KZNS,42.3
+2015,millions tonnes,,Almaty city,KZALA,18.1
+2015,millions tonnes,,Shymkent city,KZSHY,16.4
+2015,mln.people,Passengers transported by all means of transport,,,1703.8
 2015,mln.people,Railway transport,,,22.5
-2015,mln.people,Automobile,,,21744.7
+2015,mln.people,Automobile,,,1609.3
 2015,mln.people,Inland water еransport,,,0.0
 2015,mln.people,Air,,,5.9
-2015,mln.people,City electric transport,,,65.9
-2015,mln.people,,Akmola,KZAKM,1729.5
-2015,mln.people,,Aktobe,KZAKT,264.7
-2015,mln.people,,Almaty,KZALM,706.7
-2015,mln.people,,Atyrau,KZATY,172.0
-2015,mln.people,,Batys Kazakhstan,KZZAP,436.3
-2015,mln.people,,Zhambyl,KZZHA,929.5
-2015,mln.people,,Karagandy,KZKAR,2421.2
-2015,mln.people,,Kostanay,KZKUS,1745.2
-2015,mln.people,,Kyzylorda,KZKZY,298.1
-2015,mln.people,,Mangistau,KZMAN,85.3
-2015,mln.people,,Ontustik Kazakhstan,KZONT,2347.4
-2015,mln.people,,Pavlodar,KZPAV,1240.8
-2015,mln.people,,Soltustik Kazakhstan,KZSEV,495.2
-2015,mln.people,,Shygys Kazakhstan,KZVOS,1681.0
-2015,mln.people,,Astana city,KZNS,2279.0
-2015,mln.people,,Almaty city,KZALA,4984.8
-2015,millions tonnes,freight carried by road and urban electric transport,,,3174.0
-2015,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,120.3
-2015,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,70.1
-2015,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,167.2
-2015,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,75.7
-2015,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,39.5
-2015,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,91.3
-2015,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,709.9
-2015,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,294.9
-2015,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,108.7
-2015,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,225.3
-2015,millions tonnes,freight carried by road and urban electric transport,Ontustik Kazakhstan,KZONT,155.0
-2015,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,93.6
-2015,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,49.7
-2015,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,598.3
-2015,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,142.5
-2015,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,232.1
-2015,mln.people,Passengers transported by all means of transport,,,21810.7
-2015,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1729.5
-2015,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,264.7
-2015,mln.people,Passengers transported by all means of transport,Almaty,KZALM,706.7
-2015,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,172.0
-2015,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,436.0
-2015,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,929.5
-2015,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,2421.2
-2015,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,1745.2
-2015,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,298.1
-2015,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,85.3
-2015,mln.people,Passengers transported by all means of transport,Ontustik Kazakhstan,KZONT,2346.1
-2015,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1240.8
-2015,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,495.2
-2015,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1681.0
-2015,mln.people,Passengers transported by all means of transport,Astana city,KZNS,2279.0
-2015,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,4980.4
+2015,mln.people,City electric transport,,,66.0
+2015,mln.people,,Abai,KZABY,44.4
+2015,mln.people,,Akmola,KZAKM,30.3
+2015,mln.people,,Aktobe,KZAKT,60.7
+2015,mln.people,,Almaty,KZALM,14.4
+2015,mln.people,,Atyrau,KZATY,19.5
+2015,mln.people,,Batys Kazakhstan,KZZAP,70.3
+2015,mln.people,,Zhambyl,KZZHA,120.6
+2015,mln.people,,Zhetisu,KZZHS,42.5
+2015,mln.people,,Karagandy,KZKAR,159.0
+2015,mln.people,,Kostanay,KZKUS,37.3
+2015,mln.people,,Kyzylorda,KZKZY,28.2
+2015,mln.people,,Mangistau,KZMAN,19.6
+2015,mln.people,,Pavlodar,KZPAV,102.5
+2015,mln.people,,Soltustik Kazakhstan,KZSEV,18.5
+2015,mln.people,,Turkistan,KZYUZ,22.9
+2015,mln.people,,Ulytau,KZULU,16.8
+2015,mln.people,,Shygys Kazakhstan,KZVOS,89.3
+2015,mln.people,,Astana city,KZNS,485.3
+2015,mln.people,,Almaty city,KZALA,269.1
+2015,mln.people,,Shymkent city,KZSHY,52.7
+2015,millions tonnes,freight carried by road and urban electric transport,,,102.5
+2015,millions tonnes,freight carried by road and urban electric transport,Abai,KZABY,1.3
+2015,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,2.5
+2015,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,8.5
+2015,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,2.4
+2015,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,2.0
+2015,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,1.3
+2015,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,0.7
+2015,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,11.8
+2015,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,3.8
+2015,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,4.2
+2015,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,2.5
+2015,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,20.4
+2015,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,1.1
+2015,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,2.1
+2015,millions tonnes,freight carried by road and urban electric transport,Ulytau,KZULU,0.5
+2015,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,17.5
+2015,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,4.7
+2015,millions tonnes,freight carried by road and urban electric transport,Shymkent city,KZSHY,4.4
+2015,mln.people,Passengers transported by all means of transport,,,1675.4
+2015,mln.people,Passengers transported by all means of transport,Abai,KZABY,43.3
+2015,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,28.4
+2015,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,58.5
+2015,mln.people,Passengers transported by all means of transport,Almaty,KZALM,13.7
+2015,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,17.8
+2015,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,69.4
+2015,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,119.1
+2015,mln.people,Passengers transported by all means of transport,Zhetisu,KZZHS,41.9
+2015,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,157.1
+2015,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,35.8
+2015,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,26.7
+2015,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,18.3
+2015,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,100.9
+2015,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,17.9
+2015,mln.people,Passengers transported by all means of transport,Turkistan,KZYUZ,22.4
+2015,mln.people,Passengers transported by all means of transport,Ulytau,KZULU,16.0
+2015,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,88.7
+2015,mln.people,Passengers transported by all means of transport,Astana city,KZNS,482.2
+2015,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,265.8
+2015,mln.people,Passengers transported by all means of transport,Shymkent city,KZSHY,51.7
 2015,tons,transported by air,,,17178.2
 2015,tons,transported by air,Batys Kazakhstan,KZZAP,131.0
 2015,tons,transported by air,Almaty city,KZALA,15956.2
+2015,tons,transported by air,Shymkent city,KZSHY,1091.0
 2015,thousand people,passengers transported by air,,,5922.8
-2015,thousand people,passengers transported by air,Almaty,KZALM,25.2
-2015,thousand people,passengers transported by air,Atyrau,KZATY,4.3
-2015,thousand people,passengers transported by air,Batys Kazakhstan,KZZAP,332.4
-2015,thousand people,passengers transported by air,Ontustik Kazakhstan,KZONT,1224.7
-2015,thousand people,passengers transported by air,Almaty city,KZALA,5.2
-2015,thousand people,passengers transported by air,Shymkent city,KZSHY,4324.4
+2015,thousand people,passengers transported by air,Abai,KZABY,27.9
+2015,thousand people,passengers transported by air,Akmola,KZAKM,3.3
+2015,thousand people,passengers transported by air,Aktobe,KZAKT,109.8
+2015,thousand people,passengers transported by air,Almaty,KZALM,2.0
+2015,thousand people,passengers transported by air,Atyrau,KZATY,535.7
+2015,thousand people,passengers transported by air,Karagandy,KZKAR,384.0
+2015,thousand people,passengers transported by air,Kostanay,KZKUS,9.5
+2015,thousand people,passengers transported by air,Kyzylorda,KZKZY,24.6
+2015,thousand people,passengers transported by air,Batys Kazakhstan,KZZAP,23.2
+2015,thousand people,passengers transported by air,Zhambyl,KZZHA,28.0
+2015,thousand people,passengers transported by air,Zhetisu,KZZHS,31.8
+2015,thousand people,passengers transported by air,Mangistau,KZMAN,290.1
+2015,thousand people,passengers transported by air,Pavlodar,KZPAV,16.7
+2015,thousand people,passengers transported by air,Soltustik Kazakhstan,KZSEV,8.2
+2015,thousand people,passengers transported by air,Turkistan,KZYUZ,119.2
+2015,thousand people,passengers transported by air,Ulytau,KZULU,7.0
+2015,thousand people,passengers transported by air,Shygys Kazakhstan,KZVOS,32.7
+2015,thousand people,passengers transported by air,Astana city,KZNS,1428.1
+2015,thousand people,passengers transported by air,Almaty city,KZALA,2515.7
+2015,thousand people,passengers transported by air,Shymkent city,KZSHY,325.4
 2015,millions tonnes,performance indicators of pipeline transport,,,214.6
-2015,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,68.6
+2015,millions tonnes,performance indicators of pipeline transport,Abai,KZABY,1.1
+2015,millions tonnes,performance indicators of pipeline transport,Aktobe,KZAKT,9.4
+2015,millions tonnes,performance indicators of pipeline transport,Almaty,KZALM,21.4
+2015,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,51.2
+2015,millions tonnes,performance indicators of pipeline transport,Batys Kazakhstan,KZZAP,14.4
+2015,millions tonnes,performance indicators of pipeline transport,Zhambyl,KZZHA,24.0
+2015,millions tonnes,performance indicators of pipeline transport,Zhetisu,KZZHS,5.2
+2015,millions tonnes,performance indicators of pipeline transport,Karagandy,KZKAR,7.4
+2015,millions tonnes,performance indicators of pipeline transport,Kostanay,KZKUS,0.7
+2015,millions tonnes,performance indicators of pipeline transport,Kyzylorda,KZKZY,3.2
+2015,millions tonnes,performance indicators of pipeline transport,Mangistau,KZMAN,13.7
+2015,millions tonnes,performance indicators of pipeline transport,Pavlodar,KZPAV,11.1
+2015,millions tonnes,performance indicators of pipeline transport,Soltustik Kazakhstan,KZSEV,2.6
+2015,millions tonnes,performance indicators of pipeline transport,Turkistan,KZYUZ,23.5
+2015,millions tonnes,performance indicators of pipeline transport,Ulytau,KZULU,16.7
+2015,millions tonnes,performance indicators of pipeline transport,Astana city,KZNS,6.2
+2015,millions tonnes,performance indicators of pipeline transport,Almaty city,KZALA,1.7
+2015,millions tonnes,performance indicators of pipeline transport,Shymkent city,KZSHY,1.1
 2015,millions tonnes,freight carried by sea transport,,,2.5
 2015,millions tonnes,freight carried by sea transport,Mangistau,KZMAN,2.5
-2016,millions tonnes,Cargo transported by all means of transport,,,3729.2
+2016,millions tonnes,Cargo transported by all means of transport,,,657.9
 2016,millions tonnes,Pipeline,,,205.8
 2016,millions tonnes,Railway,,,338.9
-2016,millions tonnes,Automobile,,,3180.7
-2016,millions tonnes,Air,,,0.2
+2016,millions tonnes,Automobile,,,109.4
+2016,millions tonnes,Air,,,0.02
 2016,millions tonnes,Inland water еransport,,,1.2
 2016,millions tonnes,nautical,,,2.6
-2016,millions tonnes,,Akmola,KZAKM,113.1
-2016,millions tonnes,,Aktobe,KZAKT,76.3
-2016,millions tonnes,,Almaty,KZALM,179.0
-2016,millions tonnes,,Atyrau,KZATY,145.1
-2016,millions tonnes,,Batys Kazakhstan,KZZAP,39.4
-2016,millions tonnes,,Zhambyl,KZZHA,91.3
-2016,millions tonnes,,Karagandy,KZKAR,727.5
-2016,millions tonnes,,Kostanay,KZKUS,277.3
-2016,millions tonnes,,Kyzylorda,KZKZY,104.3
-2016,millions tonnes,,Mangistau,KZMAN,218.9
-2016,millions tonnes,,Ontustik Kazakhstan,KZONT,158.7
-2016,millions tonnes,,Pavlodar,KZPAV,131.5
-2016,millions tonnes,,Soltustik Kazakhstan,KZSEV,48.2
-2016,millions tonnes,,Shygys Kazakhstan,KZVOS,582.4
-2016,millions tonnes,,Astana city,KZNS,142.6
-2016,millions tonnes,,Almaty city,KZALA,252.3
-2016,mln.people,Passengers transported by all means of transport,,,22332.8
+2016,millions tonnes,,Abai,KZABY,18.3
+2016,millions tonnes,,Akmola,KZAKM,32.5
+2016,millions tonnes,,Aktobe,KZAKT,49.0
+2016,millions tonnes,,Almaty,KZALM,36.4
+2016,millions tonnes,,Atyrau,KZATY,71.3
+2016,millions tonnes,,Batys Kazakhstan,KZZAP,20.2
+2016,millions tonnes,,Zhambyl,KZZHA,45.5
+2016,millions tonnes,,Zhetisu,KZZHS,17.2
+2016,millions tonnes,,Karagandy,KZKAR,61.4
+2016,millions tonnes,,Kostanay,KZKUS,29.2
+2016,millions tonnes,,Kyzylorda,KZKZY,24.3
+2016,millions tonnes,,Mangistau,KZMAN,33.1
+2016,millions tonnes,,Pavlodar,KZPAV,55.5
+2016,millions tonnes,,Soltustik Kazakhstan,KZSEV,17.4
+2016,millions tonnes,,Turkistan,KZYUZ,33.0
+2016,millions tonnes,,Ulytau,KZULU,24.6
+2016,millions tonnes,,Shygys Kazakhstan,KZVOS,23.2
+2016,millions tonnes,,Astana city,KZNS,34.4
+2016,millions tonnes,,Almaty city,KZALA,16.5
+2016,millions tonnes,,Shymkent city,KZSHY,14.9
+2016,mln.people,Passengers transported by all means of transport,,,1640.1
 2016,mln.people,Railway transport,,,23.1
-2016,mln.people,Automobile,,,22239.4
+2016,mln.people,Automobile,,,1546.2
 2016,mln.people,Inland water еransport,,,0.1
 2016,mln.people,Air,,,6.0
-2016,mln.people,City electric transport,,,64.2
-2016,mln.people,,Akmola,KZAKM,1700.1
-2016,mln.people,,Aktobe,KZAKT,278.4
-2016,mln.people,,Almaty,KZALM,808.3
-2016,mln.people,,Atyrau,KZATY,181.0
-2016,mln.people,,Batys Kazakhstan,KZZAP,434.3
-2016,mln.people,,Zhambyl,KZZHA,957.3
-2016,mln.people,,Karagandy,KZKAR,2418.1
-2016,mln.people,,Kostanay,KZKUS,1751.7
-2016,mln.people,,Kyzylorda,KZKZY,335.5
-2016,mln.people,,Mangistau,KZMAN,84.8
-2016,mln.people,,Ontustik Kazakhstan,KZONT,2478.5
-2016,mln.people,,Pavlodar,KZPAV,1244.5
-2016,mln.people,,Soltustik Kazakhstan,KZSEV,506.8
-2016,mln.people,,Shygys Kazakhstan,KZVOS,1705.2
-2016,mln.people,,Astana city,KZNS,2441.1
-2016,mln.people,,Almaty city,KZALA,4984.2
-2016,millions tonnes,freight carried by road and urban electric transport,,,3180.7
-2016,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,113.1
-2016,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,76.3
-2016,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,179.0
-2016,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,75.0
-2016,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,39.4
-2016,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,91.3
-2016,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,727.5
-2016,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,277.3
-2016,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,104.3
-2016,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,216.4
-2016,millions tonnes,freight carried by road and urban electric transport,Ontustik Kazakhstan,KZONT,158.7
-2016,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,97.7
-2016,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,48.2
-2016,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,581.9
-2016,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,142.6
-2016,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,252.2
-2016,mln.people,Passengers transported by all means of transport,,,22303.6
-2016,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,1700.1
-2016,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,278.4
-2016,mln.people,Passengers transported by all means of transport,Almaty,KZALM,808.3
-2016,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,181.0
-2016,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,433.6
-2016,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,957.3
-2016,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,2418.1
-2016,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,1751.7
-2016,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,335.5
-2016,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,84.8
-2016,mln.people,Passengers transported by all means of transport,Ontustik Kazakhstan,KZONT,2477.2
-2016,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,1244.4
-2016,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,506.8
-2016,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,1705.1
-2016,mln.people,Passengers transported by all means of transport,Astana city,KZNS,2441.0
-2016,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,4980.3
+2016,mln.people,City electric transport,,,64.7
+2016,mln.people,,Abai,KZABY,46.2
+2016,mln.people,,Akmola,KZAKM,29.1
+2016,mln.people,,Aktobe,KZAKT,58.8
+2016,mln.people,,Almaty,KZALM,15.2
+2016,mln.people,,Atyrau,KZATY,22.1
+2016,mln.people,,Batys Kazakhstan,KZZAP,66.1
+2016,mln.people,,Zhambyl,KZZHA,116.8
+2016,mln.people,,Zhetisu,KZZHS,55.0
+2016,mln.people,,Karagandy,KZKAR,148.7
+2016,mln.people,,Kostanay,KZKUS,37.8
+2016,mln.people,,Kyzylorda,KZKZY,34.6
+2016,mln.people,,Mangistau,KZMAN,20.9
+2016,mln.people,,Pavlodar,KZPAV,93.5
+2016,mln.people,,Soltustik Kazakhstan,KZSEV,16.1
+2016,mln.people,,Turkistan,KZYUZ,22.8
+2016,mln.people,,Ulytau,KZULU,16.0
+2016,mln.people,,Shygys Kazakhstan,KZVOS,88.6
+2016,mln.people,,Astana city,KZNS,508.2
+2016,mln.people,,Almaty city,KZALA,190.1
+2016,mln.people,,Shymkent city,KZSHY,53.4
+2016,millions tonnes,freight carried by road and urban electric transport,,,109.4
+2016,millions tonnes,freight carried by road and urban electric transport,Abai,KZABY,1.2
+2016,millions tonnes,freight carried by road and urban electric transport,Akmola,KZAKM,1.8
+2016,millions tonnes,freight carried by road and urban electric transport,Aktobe,KZAKT,10.5
+2016,millions tonnes,freight carried by road and urban electric transport,Almaty,KZALM,3.8
+2016,millions tonnes,freight carried by road and urban electric transport,Atyrau,KZATY,2.7
+2016,millions tonnes,freight carried by road and urban electric transport,Batys Kazakhstan,KZZAP,1.2
+2016,millions tonnes,freight carried by road and urban electric transport,Zhambyl,KZZHA,0.6
+2016,millions tonnes,freight carried by road and urban electric transport,Zhetisu,KZZHS,1.0
+2016,millions tonnes,freight carried by road and urban electric transport,Karagandy,KZKAR,16.4
+2016,millions tonnes,freight carried by road and urban electric transport,Kostanay,KZKUS,3.5
+2016,millions tonnes,freight carried by road and urban electric transport,Kyzylorda,KZKZY,3.4
+2016,millions tonnes,freight carried by road and urban electric transport,Mangistau,KZMAN,2.4
+2016,millions tonnes,freight carried by road and urban electric transport,Pavlodar,KZPAV,23.6
+2016,millions tonnes,freight carried by road and urban electric transport,Soltustik Kazakhstan,KZSEV,1.0
+2016,millions tonnes,freight carried by road and urban electric transport,Turkistan,KZYUZ,1.1
+2016,millions tonnes,freight carried by road and urban electric transport,Ulytau,KZULU,0.6
+2016,millions tonnes,freight carried by road and urban electric transport,Shygys Kazakhstan,KZVOS,13.8
+2016,millions tonnes,freight carried by road and urban electric transport,Astana city,KZNS,9.1
+2016,millions tonnes,freight carried by road and urban electric transport,Almaty city,KZALA,5.9
+2016,millions tonnes,freight carried by road and urban electric transport,Shymkent city,KZSHY,5.9
+2016,mln.people,Passengers transported by all means of transport,,,1610.9
+2016,mln.people,Passengers transported by all means of transport,Abai,KZABY,45.0
+2016,mln.people,Passengers transported by all means of transport,Akmola,KZAKM,27.0
+2016,mln.people,Passengers transported by all means of transport,Aktobe,KZAKT,56.7
+2016,mln.people,Passengers transported by all means of transport,Almaty,KZALM,14.5
+2016,mln.people,Passengers transported by all means of transport,Atyrau,KZATY,20.5
+2016,mln.people,Passengers transported by all means of transport,Batys Kazakhstan,KZZAP,64.9
+2016,mln.people,Passengers transported by all means of transport,Zhambyl,KZZHA,115.3
+2016,mln.people,Passengers transported by all means of transport,Zhetisu,KZZHS,54.2
+2016,mln.people,Passengers transported by all means of transport,Karagandy,KZKAR,146.3
+2016,mln.people,Passengers transported by all means of transport,Kostanay,KZKUS,36.1
+2016,mln.people,Passengers transported by all means of transport,Kyzylorda,KZKZY,33.1
+2016,mln.people,Passengers transported by all means of transport,Mangistau,KZMAN,19.5
+2016,mln.people,Passengers transported by all means of transport,Pavlodar,KZPAV,92.1
+2016,mln.people,Passengers transported by all means of transport,Soltustik Kazakhstan,KZSEV,15.2
+2016,mln.people,Passengers transported by all means of transport,Turkistan,KZYUZ,22.3
+2016,mln.people,Passengers transported by all means of transport,Ulytau,KZULU,15.1
+2016,mln.people,Passengers transported by all means of transport,Shygys Kazakhstan,KZVOS,88.0
+2016,mln.people,Passengers transported by all means of transport,Astana city,KZNS,505.6
+2016,mln.people,Passengers transported by all means of transport,Almaty city,KZALA,187.0
+2016,mln.people,Passengers transported by all means of transport,Shymkent city,KZSHY,52.6
 2016,tons,transported by air,,,18015.9
+2016,tons,transported by air,Batys Kazakhstan,KZZAP,171.0
 2016,tons,transported by air,Almaty city,KZALA,16810.9
+2016,tons,transported by air,Shymkent city,KZSHY,1034.0
 2016,thousand people,passengers transported by air,,,6021.7
-2016,thousand people,passengers transported by air,Almaty,KZALM,16.2
-2016,thousand people,passengers transported by air,Atyrau,KZATY,0.1
-2016,thousand people,passengers transported by air,Ontustik Kazakhstan,KZONT,1288.9
-2016,thousand people,passengers transported by air,Almaty city,KZALA,34.6
-2016,thousand people,passengers transported by air,Shymkent city,KZSHY,3945.5
+2016,thousand people,passengers transported by air,Abai,KZABY,25.5
+2016,thousand people,passengers transported by air,Akmola,KZAKM,3.5
+2016,thousand people,passengers transported by air,Aktobe,KZAKT,113.2
+2016,thousand people,passengers transported by air,Almaty,KZALM,2.6
+2016,thousand people,passengers transported by air,Atyrau,KZATY,522.6
+2016,thousand people,passengers transported by air,Karagandy,KZKAR,777.6
+2016,thousand people,passengers transported by air,Kostanay,KZKUS,9.9
+2016,thousand people,passengers transported by air,Kyzylorda,KZKZY,16.1
+2016,thousand people,passengers transported by air,Batys Kazakhstan,KZZAP,22.6
+2016,thousand people,passengers transported by air,Zhambyl,KZZHA,26.6
+2016,thousand people,passengers transported by air,Zhetisu,KZZHS,29.2
+2016,thousand people,passengers transported by air,Mangistau,KZMAN,271.3
+2016,thousand people,passengers transported by air,Pavlodar,KZPAV,15.4
+2016,thousand people,passengers transported by air,Soltustik Kazakhstan,KZSEV,8.6
+2016,thousand people,passengers transported by air,Turkistan,KZYUZ,110.5
+2016,thousand people,passengers transported by air,Ulytau,KZULU,9.6
+2016,thousand people,passengers transported by air,Shygys Kazakhstan,KZVOS,32.7
+2016,thousand people,passengers transported by air,Astana city,KZNS,1352.4
+2016,thousand people,passengers transported by air,Almaty city,KZALA,2344.8
+2016,thousand people,passengers transported by air,Shymkent city,KZSHY,327.2
 2016,millions tonnes,performance indicators of pipeline transport,,,205.8
-2016,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,70.1
+2016,millions tonnes,performance indicators of pipeline transport,Abai,KZABY,0.7
+2016,millions tonnes,performance indicators of pipeline transport,Aktobe,KZAKT,8.0
+2016,millions tonnes,performance indicators of pipeline transport,Almaty,KZALM,22.3
+2016,millions tonnes,performance indicators of pipeline transport,Atyrau,KZATY,51.3
+2016,millions tonnes,performance indicators of pipeline transport,Batys Kazakhstan,KZZAP,12.1
+2016,millions tonnes,performance indicators of pipeline transport,Zhambyl,KZZHA,23.5
+2016,millions tonnes,performance indicators of pipeline transport,Zhetisu,KZZHS,4.5
+2016,millions tonnes,performance indicators of pipeline transport,Karagandy,KZKAR,9.8
+2016,millions tonnes,performance indicators of pipeline transport,Kostanay,KZKUS,0.6
+2016,millions tonnes,performance indicators of pipeline transport,Kyzylorda,KZKZY,2.1
+2016,millions tonnes,performance indicators of pipeline transport,Mangistau,KZMAN,11.6
+2016,millions tonnes,performance indicators of pipeline transport,Pavlodar,KZPAV,11.0
+2016,millions tonnes,performance indicators of pipeline transport,Soltustik Kazakhstan,KZSEV,2.5
+2016,millions tonnes,performance indicators of pipeline transport,Turkistan,KZYUZ,24.7
+2016,millions tonnes,performance indicators of pipeline transport,Ulytau,KZULU,10.7
+2016,millions tonnes,performance indicators of pipeline transport,Astana city,KZNS,6.8
+2016,millions tonnes,performance indicators of pipeline transport,Almaty city,KZALA,1.2
+2016,millions tonnes,performance indicators of pipeline transport,Shymkent city,KZSHY,1.9
 2016,millions tonnes,freight carried by sea transport,,,2.6
 2016,millions tonnes,freight carried by sea transport,Mangistau,KZMAN,2.6
 2017,millions tonnes,Cargo transported by all means of transport,,,3946.1

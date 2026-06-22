@@ -6,7 +6,7 @@ kg_CO2,кг СО2-экв/межд.доллар,кг СО2-экв / халықа�
 KMSQ,кв.км,шаршы километр,square kilometres,5,1
 LTPUREAL,в литрах чистого спирта,литр таза алкогольде,litres pure alcohol,3,1
 M_METER3,млн.м3,млн.метр куб,M_METER3,18,1
-M_T,млн.тонн,млн.тонна,millions tonnes,73,1
+M_T,млн.тонн,млн.тонна,millions tonnes,71,1
 M_TNG,млн.тенге,млн.теңге,million tenge,1,1
 M_USD,млн.долл.США,млн АҚШ доллары,million US dollars,38,9
 MG_CUB_METER,мг/метр куб,мг/метр куб,mg per cube meters,91,1
@@ -26,7 +26,7 @@ PT_IN_2010_PRICE,"процент, в ценах 2010 года",2010 жылғы �
 PT_PREV_Y,в процентах к предыдущему году,өткен жылға пайызбен,as a percentage to the previous year,49,4
 SCORE,балл,балл,score,2,1
 SQ_METER,кв.метр,шаршы метр,square meter,60,1
-T,тонн,тонна,tons,16,2
+T,тонн,тонна,tons,14,2
 T_CO2,тонн СО2-экв/душу населения,СО2-экв / халықтың жан басына шаққандағы тонна,tons of CO2-eq/capita,1,1
 T_PERCAP,тонн на душу населения,халықтың жан басына шаққандағы тонна,tons per capita,1,1
 TH_HA,тыс.гектар,мың.гектар,thousands hectares,103,5
