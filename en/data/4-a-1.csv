@@ -939,3 +939,148 @@ Year,UNIT_MEASURE,SERIES,Area,Regions,GeoCode,Value
 2024,Percent,availability of only warm toilets,,Astana city,KZNS,99.0
 2024,Percent,availability of only warm toilets,,Almaty city,KZALA,98.4
 2024,Percent,availability of only warm toilets,,Shymkent city,KZSHY,94.6
+2025,Percent,access to the internet for education purposes,,,,99.1
+2025,Percent,access to the internet for education purposes,,Abai,KZABY,98.8
+2025,Percent,access to the internet for education purposes,,Akmola,KZAKM,100.0
+2025,Percent,access to the internet for education purposes,,Aktobe,KZAKT,99.8
+2025,Percent,access to the internet for education purposes,,Almaty,KZALM,98.8
+2025,Percent,access to the internet for education purposes,,Atyrau,KZATY,97.0
+2025,Percent,access to the internet for education purposes,,Batys Kazakhstan,KZZAP,100.0
+2025,Percent,access to the internet for education purposes,,Zhambyl,KZZHA,99.6
+2025,Percent,access to the internet for education purposes,,Zhetisu,KZZHS,100.0
+2025,Percent,access to the internet for education purposes,,Karagandy,KZKAR,98.8
+2025,Percent,access to the internet for education purposes,,Kostanay,KZKUS,99.8
+2025,Percent,access to the internet for education purposes,,Kyzylorda,KZKZY,100.0
+2025,Percent,access to the internet for education purposes,,Mangistau,KZMAN,96.0
+2025,Percent,access to the internet for education purposes,,Pavlodar,KZPAV,99.2
+2025,Percent,access to the internet for education purposes,,Soltustik Kazakhstan,KZSEV,99.8
+2025,Percent,access to the internet for education purposes,,Turkistan,KZYUZ,98.6
+2025,Percent,access to the internet for education purposes,,Ulytau,KZULU,100.0
+2025,Percent,access to the internet for education purposes,,Shygys Kazakhstan,KZVOS,99.2
+2025,Percent,access to the internet for education purposes,,Astana city,KZNS,98.1
+2025,Percent,access to the internet for education purposes,,Almaty city,KZALA,98.7
+2025,Percent,access to the internet for education purposes,,Shymkent city,KZSHY,97.7
+2025,Percent,access to the internet for education purposes,urban,,,98.4
+2025,Percent,access to the internet for education purposes,urban,Abai,KZABY,97.8
+2025,Percent,access to the internet for education purposes,urban,Akmola,KZAKM,100.0
+2025,Percent,access to the internet for education purposes,urban,Aktobe,KZAKT,99.4
+2025,Percent,access to the internet for education purposes,urban,Almaty,KZALM,96.3
+2025,Percent,access to the internet for education purposes,urban,Atyrau,KZATY,95.2
+2025,Percent,access to the internet for education purposes,urban,Batys Kazakhstan,KZZAP,100.0
+2025,Percent,access to the internet for education purposes,urban,Zhambyl,KZZHA,100.0
+2025,Percent,access to the internet for education purposes,urban,Zhetisu,KZZHS,100.0
+2025,Percent,access to the internet for education purposes,urban,Karagandy,KZKAR,98.5
+2025,Percent,access to the internet for education purposes,urban,Kostanay,KZKUS,99.1
+2025,Percent,access to the internet for education purposes,urban,Kyzylorda,KZKZY,100.0
+2025,Percent,access to the internet for education purposes,urban,Mangistau,KZMAN,95.8
+2025,Percent,access to the internet for education purposes,urban,Pavlodar,KZPAV,97.0
+2025,Percent,access to the internet for education purposes,urban,Soltustik Kazakhstan,KZSEV,98.5
+2025,Percent,access to the internet for education purposes,urban,Turkistan,KZYUZ,98.1
+2025,Percent,access to the internet for education purposes,urban,Ulytau,KZULU,100.0
+2025,Percent,access to the internet for education purposes,urban,Shygys Kazakhstan,KZVOS,98.2
+2025,Percent,access to the internet for education purposes,urban,Astana city,KZNS,98.1
+2025,Percent,access to the internet for education purposes,urban,Almaty city,KZALA,98.7
+2025,Percent,access to the internet for education purposes,urban,Shymkent city,KZSHY,97.7
+2025,Percent,access to the internet for education purposes,rural,,,99.4
+2025,Percent,access to the internet for education purposes,rural,ABY,ABY,99.1
+2025,Percent,access to the internet for education purposes,rural,Akmola,KZAKM,1000.0
+2025,Percent,access to the internet for education purposes,rural,Aktobe,KZAKT,100.0
+2025,Percent,access to the internet for education purposes,rural,Almaty,KZALM,99.3
+2025,Percent,access to the internet for education purposes,rural,Atyrau,KZATY,98.5
+2025,Percent,access to the internet for education purposes,rural,Batys Kazakhstan,KZZAP,100.0
+2025,Percent,access to the internet for education purposes,rural,Zhambyl,KZZHA,99.5
+2025,Percent,access to the internet for education purposes,rural,Zhetisu,KZZHS,100.0
+2025,Percent,access to the internet for education purposes,rural,Karagandy,KZKAR,99.1
+2025,Percent,access to the internet for education purposes,rural,Kostanay,KZKUS,100.0
+2025,Percent,access to the internet for education purposes,rural,Kyzylorda,KZKZY,100.0
+2025,Percent,access to the internet for education purposes,rural,Mangistau,KZMAN,96.2
+2025,Percent,access to the internet for education purposes,rural,Pavlodar,KZPAV,100.0
+2025,Percent,access to the internet for education purposes,rural,Soltustik Kazakhstan,KZSEV,100.0
+2025,Percent,access to the internet for education purposes,rural,Turkistan,KZYUZ,98.7
+2025,Percent,access to the internet for education purposes,rural,Ulytau,KZULU,100.0
+2025,Percent,access to the internet for education purposes,rural,Shygys Kazakhstan,KZVOS,99.6
+2025,Percent,sources of drinking water,,,,99.9
+2025,Percent,separate restrooms which meet minimum standards,,,,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Abai,KZABY,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Akmola,KZAKM,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Aktobe,KZAKT,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Almaty,KZALM,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Atyrau,KZATY,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Batys Kazakhstan,KZZAP,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Zhambyl,KZZHA,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Zhetisu,KZZHS,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Karagandy,KZKAR,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Kostanay,KZKUS,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Kyzylorda,KZKZY,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Mangistau,KZMAN,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Pavlodar,KZPAV,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Soltustik Kazakhstan,KZSEV,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Turkistan,KZYUZ,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Ulytau,KZULU,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Shygys Kazakhstan,KZVOS,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Astana city,KZNS,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Almaty city,KZALA,100.0
+2025,Percent,separate restrooms which meet minimum standards,,Shymkent city,KZSHY,100.0
+2025,Percent,availability of warm and outdoor toilets,,,,13.4
+2025,Percent,availability of warm and outdoor toilets,,Abai,KZABY,3.1
+2025,Percent,availability of warm and outdoor toilets,,Akmola,KZAKM,0.2
+2025,Percent,availability of warm and outdoor toilets,,Aktobe,KZAKT,15.3
+2025,Percent,availability of warm and outdoor toilets,,Almaty,KZALM,42.0
+2025,Percent,availability of warm and outdoor toilets,,Atyrau,KZATY,4.3
+2025,Percent,availability of warm and outdoor toilets,,Batys Kazakhstan,KZZAP,54.9
+2025,Percent,availability of warm and outdoor toilets,,Zhambyl,KZZHA,7.7
+2025,Percent,availability of warm and outdoor toilets,,Zhetisu,KZZHS,19.9
+2025,Percent,availability of warm and outdoor toilets,,Karagandy,KZKAR,0.2
+2025,Percent,availability of warm and outdoor toilets,,Kostanay,KZKUS,2.0
+2025,Percent,availability of warm and outdoor toilets,,Kyzylorda,KZKZY,2.0
+2025,Percent,availability of warm and outdoor toilets,,Mangistau,KZMAN,1.3
+2025,Percent,availability of warm and outdoor toilets,,Pavlodar,KZPAV,0.0
+2025,Percent,availability of warm and outdoor toilets,,Soltustik Kazakhstan,KZSEV,0.5
+2025,Percent,availability of warm and outdoor toilets,,Turkistan,KZYUZ,36.3
+2025,Percent,availability of warm and outdoor toilets,,Ulytau,KZULU,3.4
+2025,Percent,availability of warm and outdoor toilets,,Shygys Kazakhstan,KZVOS,1.1
+2025,Percent,availability of warm and outdoor toilets,,Astana city,KZNS,0.5
+2025,Percent,availability of warm and outdoor toilets,,Almaty city,KZALA,1.3
+2025,Percent,availability of warm and outdoor toilets,,Shymkent city,KZSHY,5.2
+2025,Percent,availability outdoor toilets only,,,,0.0
+2025,Percent,availability outdoor toilets only,,Abai,KZABY,0.0
+2025,Percent,availability outdoor toilets only,,Akmola,KZAKM,0.0
+2025,Percent,availability outdoor toilets only,,Aktobe,KZAKT,0.0
+2025,Percent,availability outdoor toilets only,,Almaty,KZALM,0.0
+2025,Percent,availability outdoor toilets only,,Atyrau,KZATY,0.0
+2025,Percent,availability outdoor toilets only,,Batys Kazakhstan,KZZAP,0.0
+2025,Percent,availability outdoor toilets only,,Zhambyl,KZZHA,0.0
+2025,Percent,availability outdoor toilets only,,Zhetisu,KZZHS,0.0
+2025,Percent,availability outdoor toilets only,,Karagandy,KZKAR,0.0
+2025,Percent,availability outdoor toilets only,,Kostanay,KZKUS,0.0
+2025,Percent,availability outdoor toilets only,,Kyzylorda,KZKZY,0.0
+2025,Percent,availability outdoor toilets only,,Mangistau,KZMAN,0.0
+2025,Percent,availability outdoor toilets only,,Pavlodar,KZPAV,0.0
+2025,Percent,availability outdoor toilets only,,Soltustik Kazakhstan,KZSEV,0.0
+2025,Percent,availability outdoor toilets only,,Turkistan,KZYUZ,0.1
+2025,Percent,availability outdoor toilets only,,Ulytau,KZULU,0.0
+2025,Percent,availability outdoor toilets only,,Shygys Kazakhstan,KZVOS,0.0
+2025,Percent,availability outdoor toilets only,,Astana city,KZNS,0.0
+2025,Percent,availability outdoor toilets only,,Almaty city,KZALA,0.0
+2025,Percent,availability outdoor toilets only,,Shymkent city,KZSHY,0.0
+2025,Percent,availability of only warm toilets,,,,86.6
+2025,Percent,availability of only warm toilets,,Abai,KZABY,96.9
+2025,Percent,availability of only warm toilets,,Akmola,KZAKM,99.8
+2025,Percent,availability of only warm toilets,,Aktobe,KZAKT,84.7
+2025,Percent,availability of only warm toilets,,Almaty,KZALM,58.0
+2025,Percent,availability of only warm toilets,,Atyrau,KZATY,95.7
+2025,Percent,availability of only warm toilets,,Batys Kazakhstan,KZZAP,45.1
+2025,Percent,availability of only warm toilets,,Zhambyl,KZZHA,92.3
+2025,Percent,availability of only warm toilets,,Zhetisu,KZZHS,80.1
+2025,Percent,availability of only warm toilets,,Karagandy,KZKAR,99.8
+2025,Percent,availability of only warm toilets,,Kostanay,KZKUS,98.0
+2025,Percent,availability of only warm toilets,,Kyzylorda,KZKZY,98.0
+2025,Percent,availability of only warm toilets,,Mangistau,KZMAN,98.7
+2025,Percent,availability of only warm toilets,,Pavlodar,KZPAV,100.0
+2025,Percent,availability of only warm toilets,,Soltustik Kazakhstan,KZSEV,99.5
+2025,Percent,availability of only warm toilets,,Turkistan,KZYUZ,63.6
+2025,Percent,availability of only warm toilets,,Ulytau,KZULU,96.6
+2025,Percent,availability of only warm toilets,,Shygys Kazakhstan,KZVOS,98.9
+2025,Percent,availability of only warm toilets,,Astana city,KZNS,99.5
+2025,Percent,availability of only warm toilets,,Almaty city,KZALA,98.7
+2025,Percent,availability of only warm toilets,,Shymkent city,KZSHY,94.8
