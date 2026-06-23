@@ -13,7 +13,7 @@ MG_CUB_METER,мг/метр куб,мг/метр куб,mg per cube meters,91,1
 MW,Мвт,Мвт,Megawatts,21,1
 NUM_ATM_PER_100000_ADL,число банкоматов на 100 000 взрослых,100 000 ересекке шаққандағы банкоматтар саны,number of ATMs per 100 000 adults,1,1
 NUM_CBBR_PER_100000_ADL,число филиалов коммерческих банков на 100 000 взрослых,100 000 ересекке шаққандағы коммерциялық банктер саны,the number of branches of commercial banks per 100 000 adults,1,1
-PER_1000000_POP,млн.человек,млн.адам,mln.people,49,1
+PER_1000000_POP,млн.человек,млн.адам,mln.people,47,1
 PER_100000_POP,на 100 000 населения,100 000 халыққа,per 100000 population,820,8
 PER_1000_employees,на 1000 работников,1000 қызметкерлерге,per 1000 workers,2,1
 PER_1000_LIVE_BIRTHS,на 1000 родившихся,1000 туылғанға,per 1000 births,363,2
@@ -30,7 +30,7 @@ T,тонн,тонна,tons,14,2
 T_CO2,тонн СО2-экв/душу населения,СО2-экв / халықтың жан басына шаққандағы тонна,tons of CO2-eq/capita,1,1
 T_PERCAP,тонн на душу населения,халықтың жан басына шаққандағы тонна,tons per capita,1,1
 TH_HA,тыс.гектар,мың.гектар,thousands hectares,103,5
-TH_PEOPLE,тыс.человек,мың.адам,thousand people,44,2
+TH_PEOPLE,тыс.человек,мың.адам,thousand people,43,2
 TH_TNG,тыс.тенге,мың теңге,thousand of tenge,64,2
 TH_UNITS,тыс.единиц,мың бірлік,thousands,66,1
 UNITS,единиц,бірлік,units,8,7
