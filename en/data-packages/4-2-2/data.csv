@@ -553,7 +553,70 @@ Year,UNIT_MEASURE,Sex,Regions,GeoCode,Value
 2024,Percent,Female,Shygys Kazakhstan,KZVOS,100.0
 2024,Percent,Male,Astana city,KZNS,100.0
 2024,Percent,Female,Astana city,KZNS,100.0
-2024,Percent,Male,Almaty city,KZALA,100.0
-2024,Percent,Female,Almaty city,KZALA,100.0
+2024,Percent,Male,Almaty city,KZALA,99.0
+2024,Percent,Female,Almaty city,KZALA,99.0
 2024,Percent,Male,Shymkent city,KZSHY,100.0
 2024,Percent,Female,Shymkent city,KZSHY,100.0
+2025,Percent,,,,99.9
+2025,Percent,Male,,,99.9
+2025,Percent,Female,,,99.9
+2025,Percent,,Abai,KZABY,100.0
+2025,Percent,,Akmola,KZAKM,100.0
+2025,Percent,,Aktobe,KZAKT,100.0
+2025,Percent,,Almaty,KZALM,100.0
+2025,Percent,,Atyrau,KZATY,100.0
+2025,Percent,,Batys Kazakhstan,KZZAP,100.0
+2025,Percent,,Zhambyl,KZZHA,100.0
+2025,Percent,,Zhetisu,KZZHS,100.0
+2025,Percent,,Karagandy,KZKAR,100.0
+2025,Percent,,Kostanay,KZKUS,100.0
+2025,Percent,,Kyzylorda,KZKZY,100.0
+2025,Percent,,Mangistau,KZMAN,100.0
+2025,Percent,,Pavlodar,KZPAV,100.0
+2025,Percent,,Soltustik Kazakhstan,KZSEV,100.0
+2025,Percent,,Turkistan,KZYUZ,100.0
+2025,Percent,,Ulytau,KZULU,100.0
+2025,Percent,,Shygys Kazakhstan,KZVOS,100.0
+2025,Percent,,Astana city,KZNS,100.0
+2025,Percent,,Almaty city,KZALA,99.8
+2025,Percent,,Shymkent city,KZSHY,100.0
+2025,Percent,Male,Abai,KZABY,100.0
+2025,Percent,Female,Abai,KZABY,100.0
+2025,Percent,Male,Akmola,KZAKM,100.0
+2025,Percent,Female,Akmola,KZAKM,100.0
+2025,Percent,Male,Aktobe,KZAKT,100.0
+2025,Percent,Female,Aktobe,KZAKT,100.0
+2025,Percent,Male,Almaty,KZALM,100.0
+2025,Percent,Female,Almaty,KZALM,100.0
+2025,Percent,Male,Atyrau,KZATY,100.0
+2025,Percent,Female,Atyrau,KZATY,100.0
+2025,Percent,Male,Batys Kazakhstan,KZZAP,100.0
+2025,Percent,Female,Batys Kazakhstan,KZZAP,100.0
+2025,Percent,Male,Zhambyl,KZZHA,100.0
+2025,Percent,Female,Zhambyl,KZZHA,100.0
+2025,Percent,Male,Zhetisu,KZZHS,100.0
+2025,Percent,Female,Zhetisu,KZZHS,100.0
+2025,Percent,Male,Karagandy,KZKAR,100.0
+2025,Percent,Female,Karagandy,KZKAR,100.0
+2025,Percent,Male,Kostanay,KZKUS,100.0
+2025,Percent,Female,Kostanay,KZKUS,100.0
+2025,Percent,Male,Kyzylorda,KZKZY,100.0
+2025,Percent,Female,Kyzylorda,KZKZY,100.0
+2025,Percent,Male,Mangistau,KZMAN,100.0
+2025,Percent,Female,Mangistau,KZMAN,100.0
+2025,Percent,Male,Pavlodar,KZPAV,100.0
+2025,Percent,Female,Pavlodar,KZPAV,100.0
+2025,Percent,Male,Soltustik Kazakhstan,KZSEV,100.0
+2025,Percent,Female,Soltustik Kazakhstan,KZSEV,100.0
+2025,Percent,Male,Turkistan,KZYUZ,100.0
+2025,Percent,Female,Turkistan,KZYUZ,100.0
+2025,Percent,Male,Ulytau,KZULU,100.0
+2025,Percent,Female,Ulytau,KZULU,100.0
+2025,Percent,Male,Shygys Kazakhstan,KZVOS,100.0
+2025,Percent,Female,Shygys Kazakhstan,KZVOS,100.0
+2025,Percent,Male,Astana city,KZNS,100.0
+2025,Percent,Female,Astana city,KZNS,100.0
+2025,Percent,Male,Almaty city,KZALA,99.8
+2025,Percent,Female,Almaty city,KZALA,99.8
+2025,Percent,Male,Shymkent city,KZSHY,100.0
+2025,Percent,Female,Shymkent city,KZSHY,100.0
