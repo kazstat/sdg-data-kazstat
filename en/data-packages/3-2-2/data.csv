@@ -2698,3 +2698,183 @@ Year,UNIT_MEASURE,Sex,Regions,Area,GeoCode,Value
 2024,per 1000 births,Female,Turkistan,rural,KZYUZ,3.2
 2024,per 1000 births,Female,Ulytau,rural,KZULU,2.25
 2024,per 1000 births,Female,Shygys Kazakhstan,rural,KZVOS,3.04
+2025,per 1000 births,Boys and Girls,,,,3.04
+2025,per 1000 births,Boys and Girls,Abai,,KZABY,2.68
+2025,per 1000 births,Boys and Girls,Akmola,,KZAKM,1.42
+2025,per 1000 births,Boys and Girls,Aktobe,,KZAKT,3.0
+2025,per 1000 births,Boys and Girls,Almaty,,KZALM,3.36
+2025,per 1000 births,Boys and Girls,Atyrau,,KZATY,4.02
+2025,per 1000 births,Boys and Girls,Batys Kazakhstan,,KZZAP,3.53
+2025,per 1000 births,Boys and Girls,Zhambyl,,KZZHA,3.52
+2025,per 1000 births,Boys and Girls,Zhetisu,,KZZHS,4.31
+2025,per 1000 births,Boys and Girls,Karagandy,,KZKAR,2.88
+2025,per 1000 births,Boys and Girls,Kostanay,,KZKUS,3.27
+2025,per 1000 births,Boys and Girls,Kyzylorda,,KZKZY,4.21
+2025,per 1000 births,Boys and Girls,Mangistau,,KZMAN,2.82
+2025,per 1000 births,Boys and Girls,Pavlodar,,KZPAV,3.19
+2025,per 1000 births,Boys and Girls,Soltustik Kazakhstan,,KZSEV,3.01
+2025,per 1000 births,Boys and Girls,Turkistan,,KZYUZ,3.07
+2025,per 1000 births,Boys and Girls,Ulytau,,KZULU,3.93
+2025,per 1000 births,Boys and Girls,Shygys Kazakhstan,,KZVOS,3.03
+2025,per 1000 births,Boys and Girls,Astana city,,KZNS,2.19
+2025,per 1000 births,Boys and Girls,Almaty city,,KZALA,2.85
+2025,per 1000 births,Boys and Girls,Shymkent city,,KZSHY,2.13
+2025,per 1000 births,Boys and Girls,,urban,,2.87
+2025,per 1000 births,Boys and Girls,Abai,urban,KZABY,2.4
+2025,per 1000 births,Boys and Girls,Akmola,urban,KZAKM,1.1
+2025,per 1000 births,Boys and Girls,Aktobe,urban,KZAKT,3.43
+2025,per 1000 births,Boys and Girls,Almaty,urban,KZALM,2.47
+2025,per 1000 births,Boys and Girls,Atyrau,urban,KZATY,3.38
+2025,per 1000 births,Boys and Girls,Batys Kazakhstan,urban,KZZAP,2.67
+2025,per 1000 births,Boys and Girls,Zhambyl,urban,KZZHA,4.09
+2025,per 1000 births,Boys and Girls,Zhetisu,urban,KZZHS,3.5
+2025,per 1000 births,Boys and Girls,Karagandy,urban,KZKAR,2.94
+2025,per 1000 births,Boys and Girls,Kostanay,urban,KZKUS,3.59
+2025,per 1000 births,Boys and Girls,Kyzylorda,urban,KZKZY,4.51
+2025,per 1000 births,Boys and Girls,Mangistau,urban,KZMAN,3.26
+2025,per 1000 births,Boys and Girls,Pavlodar,urban,KZPAV,3.55
+2025,per 1000 births,Boys and Girls,Soltustik Kazakhstan,urban,KZSEV,3.08
+2025,per 1000 births,Boys and Girls,Turkistan,urban,KZYUZ,2.72
+2025,per 1000 births,Boys and Girls,Ulytau,urban,KZULU,4.65
+2025,per 1000 births,Boys and Girls,Shygys Kazakhstan,urban,KZVOS,2.95
+2025,per 1000 births,Boys and Girls,Astana city,urban,KZNS,2.19
+2025,per 1000 births,Boys and Girls,Almaty city,urban,KZALA,2.85
+2025,per 1000 births,Boys and Girls,Shymkent city,urban,KZSHY,2.13
+2025,per 1000 births,Boys and Girls,,rural,,3.31
+2025,per 1000 births,Boys and Girls,Abai,rural,KZABY,3.21
+2025,per 1000 births,Boys and Girls,Akmola,rural,KZAKM,1.88
+2025,per 1000 births,Boys and Girls,Aktobe,rural,KZAKT,1.58
+2025,per 1000 births,Boys and Girls,Almaty,rural,KZALM,3.55
+2025,per 1000 births,Boys and Girls,Atyrau,rural,KZATY,4.75
+2025,per 1000 births,Boys and Girls,Batys Kazakhstan,rural,KZZAP,4.74
+2025,per 1000 births,Boys and Girls,Zhambyl,rural,KZZHA,3.03
+2025,per 1000 births,Boys and Girls,Zhetisu,rural,KZZHS,5.04
+2025,per 1000 births,Boys and Girls,Karagandy,rural,KZKAR,2.63
+2025,per 1000 births,Boys and Girls,Kostanay,rural,KZKUS,2.71
+2025,per 1000 births,Boys and Girls,Kyzylorda,rural,KZKZY,3.95
+2025,per 1000 births,Boys and Girls,Mangistau,rural,KZMAN,2.47
+2025,per 1000 births,Boys and Girls,Pavlodar,rural,KZPAV,2.35
+2025,per 1000 births,Boys and Girls,Soltustik Kazakhstan,rural,KZSEV,2.94
+2025,per 1000 births,Boys and Girls,Turkistan,rural,KZYUZ,3.2
+2025,per 1000 births,Boys and Girls,Ulytau,rural,KZULU,1.31
+2025,per 1000 births,Boys and Girls,Shygys Kazakhstan,rural,KZVOS,3.2
+2025,per 1000 births,Male,,,,3.29
+2025,per 1000 births,Male,Abai,,KZABY,2.83
+2025,per 1000 births,Male,Akmola,,KZAKM,1.48
+2025,per 1000 births,Male,Aktobe,,KZAKT,3.23
+2025,per 1000 births,Male,Almaty,,KZALM,3.54
+2025,per 1000 births,Male,Atyrau,,KZATY,4.19
+2025,per 1000 births,Male,Batys Kazakhstan,,KZZAP,4.2
+2025,per 1000 births,Male,Zhambyl,,KZZHA,3.51
+2025,per 1000 births,Male,Zhetisu,,KZZHS,4.11
+2025,per 1000 births,Male,Karagandy,,KZKAR,3.22
+2025,per 1000 births,Male,Kostanay,,KZKUS,3.27
+2025,per 1000 births,Male,Kyzylorda,,KZKZY,4.18
+2025,per 1000 births,Male,Mangistau,,KZMAN,2.69
+2025,per 1000 births,Male,Pavlodar,,KZPAV,3.22
+2025,per 1000 births,Male,Soltustik Kazakhstan,,KZSEV,2.87
+2025,per 1000 births,Male,Turkistan,,KZYUZ,3.66
+2025,per 1000 births,Male,Ulytau,,KZULU,6.11
+2025,per 1000 births,Male,Shygys Kazakhstan,,KZVOS,3.57
+2025,per 1000 births,Male,Astana city,,KZNS,2.64
+2025,per 1000 births,Male,Almaty city,,KZALA,3.18
+2025,per 1000 births,Male,Shymkent city,,KZSHY,2.24
+2025,per 1000 births,Male,,urban,,3.16
+2025,per 1000 births,Male,Abai,urban,KZABY,2.87
+2025,per 1000 births,Male,Akmola,urban,KZAKM,1.08
+2025,per 1000 births,Male,Aktobe,urban,KZAKT,3.91
+2025,per 1000 births,Male,Almaty,urban,KZALM,2.4
+2025,per 1000 births,Male,Atyrau,urban,KZATY,3.96
+2025,per 1000 births,Male,Batys Kazakhstan,urban,KZZAP,4.23
+2025,per 1000 births,Male,Zhambyl,urban,KZZHA,3.94
+2025,per 1000 births,Male,Zhetisu,urban,KZZHS,2.65
+2025,per 1000 births,Male,Karagandy,urban,KZKAR,2.93
+2025,per 1000 births,Male,Kostanay,urban,KZKUS,3.26
+2025,per 1000 births,Male,Kyzylorda,urban,KZKZY,4.12
+2025,per 1000 births,Male,Mangistau,urban,KZMAN,3.08
+2025,per 1000 births,Male,Pavlodar,urban,KZPAV,4.3
+2025,per 1000 births,Male,Soltustik Kazakhstan,urban,KZSEV,3.34
+2025,per 1000 births,Male,Turkistan,urban,KZYUZ,3.4
+2025,per 1000 births,Male,Ulytau,urban,KZULU,7.16
+2025,per 1000 births,Male,Shygys Kazakhstan,urban,KZVOS,3.4
+2025,per 1000 births,Male,Astana city,urban,KZNS,2.64
+2025,per 1000 births,Male,Almaty city,urban,KZALA,3.18
+2025,per 1000 births,Male,Shymkent city,urban,KZSHY,2.24
+2025,per 1000 births,Male,,rural,,3.51
+2025,per 1000 births,Male,Abai,rural,KZABY,2.74
+2025,per 1000 births,Male,Akmola,rural,KZAKM,2.05
+2025,per 1000 births,Male,Aktobe,rural,KZAKT,1.02
+2025,per 1000 births,Male,Almaty,rural,KZALM,3.77
+2025,per 1000 births,Male,Atyrau,rural,KZATY,4.46
+2025,per 1000 births,Male,Batys Kazakhstan,rural,KZZAP,4.16
+2025,per 1000 births,Male,Zhambyl,rural,KZZHA,3.13
+2025,per 1000 births,Male,Zhetisu,rural,KZZHS,5.41
+2025,per 1000 births,Male,Karagandy,rural,KZKAR,4.42
+2025,per 1000 births,Male,Kostanay,rural,KZKUS,3.28
+2025,per 1000 births,Male,Kyzylorda,rural,KZKZY,4.23
+2025,per 1000 births,Male,Mangistau,rural,KZMAN,2.38
+2025,per 1000 births,Male,Pavlodar,rural,KZPAV,0.75
+2025,per 1000 births,Male,Soltustik Kazakhstan,rural,KZSEV,2.42
+2025,per 1000 births,Male,Turkistan,rural,KZYUZ,3.75
+2025,per 1000 births,Male,Ulytau,rural,KZULU,2.48
+2025,per 1000 births,Male,Shygys Kazakhstan,rural,KZVOS,3.91
+2025,per 1000 births,Female,,,,2.77
+2025,per 1000 births,Female,Abai,,KZABY,2.52
+2025,per 1000 births,Female,Akmola,,KZAKM,1.35
+2025,per 1000 births,Female,Aktobe,,KZAKT,2.74
+2025,per 1000 births,Female,Almaty,,KZALM,3.18
+2025,per 1000 births,Female,Atyrau,,KZATY,3.84
+2025,per 1000 births,Female,Batys Kazakhstan,,KZZAP,2.82
+2025,per 1000 births,Female,Zhambyl,,KZZHA,3.53
+2025,per 1000 births,Female,Zhetisu,,KZZHS,3.28
+2025,per 1000 births,Female,Karagandy,,KZKAR,2.53
+2025,per 1000 births,Female,Kostanay,,KZKUS,3.28
+2025,per 1000 births,Female,Kyzylorda,,KZKZY,4.25
+2025,per 1000 births,Female,Mangistau,,KZMAN,2.95
+2025,per 1000 births,Female,Pavlodar,,KZPAV,3.16
+2025,per 1000 births,Female,Soltustik Kazakhstan,,KZSEV,3.16
+2025,per 1000 births,Female,Turkistan,,KZYUZ,2.46
+2025,per 1000 births,Female,Ulytau,,KZULU,1.7
+2025,per 1000 births,Female,Shygys Kazakhstan,,KZVOS,2.45
+2025,per 1000 births,Female,Astana city,,KZNS,1.72
+2025,per 1000 births,Female,Almaty city,,KZALA,2.5
+2025,per 1000 births,Female,Shymkent city,,KZSHY,2.0
+2025,per 1000 births,Female,,urban,,2.57
+2025,per 1000 births,Female,Abai,urban,KZABY,1.91
+2025,per 1000 births,Female,Akmola,urban,KZAKM,1.12
+2025,per 1000 births,Female,Aktobe,urban,KZAKT,2.91
+2025,per 1000 births,Female,Almaty,urban,KZALM,2.55
+2025,per 1000 births,Female,Atyrau,urban,KZATY,2.78
+2025,per 1000 births,Female,Batys Kazakhstan,urban,KZZAP,1.03
+2025,per 1000 births,Female,Zhambyl,urban,KZZHA,4.25
+2025,per 1000 births,Female,Zhetisu,urban,KZZHS,4.39
+2025,per 1000 births,Female,Karagandy,urban,KZKAR,2.95
+2025,per 1000 births,Female,Kostanay,urban,KZKUS,3.94
+2025,per 1000 births,Female,Kyzylorda,urban,KZKZY,4.92
+2025,per 1000 births,Female,Mangistau,urban,KZMAN,3.45
+2025,per 1000 births,Female,Pavlodar,urban,KZPAV,2.76
+2025,per 1000 births,Female,Soltustik Kazakhstan,urban,KZSEV,2.79
+2025,per 1000 births,Female,Turkistan,urban,KZYUZ,1.99
+2025,per 1000 births,Female,Ulytau,urban,KZULU,2.14
+2025,per 1000 births,Female,Shygys Kazakhstan,urban,KZVOS,2.46
+2025,per 1000 births,Female,Astana city,urban,KZNS,1.72
+2025,per 1000 births,Female,Almaty city,urban,KZALA,2.5
+2025,per 1000 births,Female,Shymkent city,urban,KZSHY,2.0
+2025,per 1000 births,Female,,rural,,3.1
+2025,per 1000 births,Female,Abai,rural,KZABY,3.72
+2025,per 1000 births,Female,Akmola,rural,KZAKM,1.7
+2025,per 1000 births,Female,Aktobe,rural,KZAKT,2.19
+2025,per 1000 births,Female,Almaty,rural,KZALM,3.31
+2025,per 1000 births,Female,Atyrau,rural,KZATY,5.05
+2025,per 1000 births,Female,Batys Kazakhstan,rural,KZZAP,5.34
+2025,per 1000 births,Female,Zhambyl,rural,KZZHA,2.92
+2025,per 1000 births,Female,Zhetisu,rural,KZZHS,4.65
+2025,per 1000 births,Female,Karagandy,rural,KZKAR,0.77
+2025,per 1000 births,Female,Kostanay,rural,KZKUS,2.11
+2025,per 1000 births,Female,Kyzylorda,rural,KZKZY,3.66
+2025,per 1000 births,Female,Mangistau,rural,KZMAN,2.55
+2025,per 1000 births,Female,Pavlodar,rural,KZPAV,4.1
+2025,per 1000 births,Female,Soltustik Kazakhstan,rural,KZSEV,3.51
+2025,per 1000 births,Female,Turkistan,rural,KZYUZ,2.62
+2025,per 1000 births,Female,Ulytau,rural,KZULU,0.0
+2025,per 1000 births,Female,Shygys Kazakhstan,rural,KZVOS,2.45
