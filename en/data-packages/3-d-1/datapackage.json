@@ -16,15 +16,9 @@
             "title": "Year"
           },
           {
-            "name": "UNIT",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
-            "title": "UNIT"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

@@ -9037,14 +9037,8 @@
             "type": "integer"
           },
           {
-            "name": "UNIT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

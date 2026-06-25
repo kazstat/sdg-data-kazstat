@@ -16,15 +16,9 @@
             "title": "Жыл"
           },
           {
-            "name": "UNIT",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
-            "title": "UNIT"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
