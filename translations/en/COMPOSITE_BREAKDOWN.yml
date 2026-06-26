@@ -50,6 +50,15 @@ _L_PRSP_ONGR: Onager (latin Equus hemionus)
 _L_PRSP_SFBR: Species from Betpakdalinsk region
 _L_PRSP_TA: Type of animals
 _L_PRSP_TP: Type of plants
+_L_TRST_AVG: average
+_L_TRST_HIGH: high
+_L_TRST_LOW: low
+_L_TRST_NEV: never encountered this structure
+_L_TRST_NO: don't trust
+_L_TRST_PARTAGG: partially agree
+_L_TRST_PARTDIS: partially disagree
+_L_TRST_STRAGG: totally agree
+_L_TRST_STRDIS: totally disagree
 _L_TVL_ANYT_SEXVL: any type of sexual violence
 _L_TVL_PHSVL: Physical violence
 _L_TVL_PHSVL_SEXHARSS: Physical violence/sexual harassment
