@@ -55,15 +55,15 @@ _L_TRST_HIGH,высокая,_L_TRST_HIGH,_L_TRST_HIGH,5,1
 _L_TRST_LOW,низкая,_L_TRST_LOW,_L_TRST_LOW,5,1
 _L_TRST_NEV,никогда не сталкивались с данной структурой,_L_TRST_NEV,_L_TRST_NEV,9,1
 _L_TRST_NO,не доверяют,_L_TRST_NO,_L_TRST_NO,5,1
-_L_TRST_NO_,_L_TRST_NO_,_L_TRST_NO_,_L_TRST_NO_,6,1
+_L_TRST_NO_,не доверяю,сенбеймін,_L_TRST_NO_,6,1
 _L_TRST_PARTAGG,частично согласен/согласна,_L_TRST_PARTAGG,_L_TRST_PARTAGG,4,1
-_L_TRST_PARTAGG_,_L_TRST_PARTAGG_,_L_TRST_PARTAGG_,_L_TRST_PARTAGG_,6,1
+_L_TRST_PARTAGG_,доверяю,сенемін,_L_TRST_PARTAGG_,6,1
 _L_TRST_PARTDIS,частично не согласен/согласна,_L_TRST_PARTDIS,_L_TRST_PARTDIS,4,1
-_L_TRST_PARTDIS_,_L_TRST_PARTDIS_,_L_TRST_PARTDIS_,_L_TRST_PARTDIS_,6,1
+_L_TRST_PARTDIS_,частично доверяю,ішінара сенемін,_L_TRST_PARTDIS_,6,1
 _L_TRST_STRAGG,полностью согласен/согласна,_L_TRST_STRAGG,_L_TRST_STRAGG,4,1
-_L_TRST_STRAGG_,_L_TRST_STRAGG_,_L_TRST_STRAGG_,_L_TRST_STRAGG_,6,1
+_L_TRST_STRAGG_,скорее доверяю,сенбейтін сияктымын,_L_TRST_STRAGG_,6,1
 _L_TRST_STRDIS,полностью не согласен/согласна,_L_TRST_STRDIS,_L_TRST_STRDIS,4,1
-_L_TRST_STRDIS_,_L_TRST_STRDIS_,_L_TRST_STRDIS_,_L_TRST_STRDIS_,6,1
+_L_TRST_STRDIS_,затрудняюсь ответить,жауап беруге қиналамын,_L_TRST_STRDIS_,6,1
 _L_TVL_ANYT_SEXVL,любое сексуальное насилие,кез келген сексуалдық зорлық-зомбылық,any type of sexual violence,1,1
 _L_TVL_PHSVL,физическое насилие,физикалық қатыгездік,Physical violence,5,2
 _L_TVL_PHSVL_SEXHARSS,физическое насилие и/или сексуальное насилие,физикалық зорлық-зомбылық және / немесе сексуалдық зомбылық,Physical violence/sexual harassment,4,1
