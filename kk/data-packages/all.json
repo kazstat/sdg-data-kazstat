@@ -1016,6 +1016,22 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "алма",
+                "тауық еті",
+                "шұжық өнімдері",
+                "ірімшік және сүзбе",
+                "қант",
+                "балық",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -21,6 +21,22 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "яблоки",
+                "мясо птицы",
+                "колбасные изделия",
+                "сыры и творог",
+                "сахар",
+                "рыба",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

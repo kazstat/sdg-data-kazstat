@@ -926,6 +926,21 @@
             "type": "string"
           },
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR_APPLE",
+                "AGR_CHICKEN",
+                "AGR_SAUSAGES",
+                "AGR_CHEESE",
+                "AGR_SUGAR",
+                "AGR_FISH",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
