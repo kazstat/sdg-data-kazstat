@@ -27,71 +27,71 @@ Year,UNIT_MEASURE,Sex,Age,Value
 2016,cases,Female,,235.0
 2016,cases,Male,,613.0
 2016,cases,,under 18 years old,29.0
-2016,cases,,Y11,21.0
-2016,cases,,Y12T13,0.0
-2016,cases,,Y14T15,2.0
-2016,cases,,Y16T17,3.0
-2016,cases,,Y18T20,38.0
-2016,cases,,Y21T29,227.0
-2016,cases,,30 to 39 years old,259.0
-2016,cases,,40 to 49 years old,259.0
-2016,cases,,50 to 59 years old,146.0
+2016,cases,,under 11 years old,21.0
+2016,cases,,from 12 to 13 years old,0.0
+2016,cases,,from 14 to 15 years old,2.0
+2016,cases,,from 16 to 17 years old,3.0
+2016,cases,,from 18 to 20 years old,38.0
+2016,cases,,from 21 to 29 years old,227.0
+2016,cases,,from 30 to 39 years old,259.0
+2016,cases,,from 40 to 49 years old,259.0
+2016,cases,,from 50 to 59 years old,146.0
 2016,cases,,60+,96.0
 2017,cases,,,915.0
 2017,cases,Female,,221.0
 2017,cases,Male,,694.0
 2017,cases,,under 18 years old,40.0
-2017,cases,,Y11,19.0
-2017,cases,,Y12T13,2.0
-2017,cases,,Y14T15,5.0
-2017,cases,,Y16T17,14.0
-2017,cases,,Y18T20,29.0
-2017,cases,,Y21T29,184.0
-2017,cases,,30 to 39 years old,248.0
-2017,cases,,40 to 49 years old,232.0
-2017,cases,,50 to 59 years old,133.0
+2017,cases,,under 11 years old,19.0
+2017,cases,,from 12 to 13 years old,2.0
+2017,cases,,from 14 to 15 years old,5.0
+2017,cases,,from 16 to 17 years old,14.0
+2017,cases,,from 18 to 20 years old,29.0
+2017,cases,,from 21 to 29 years old,184.0
+2017,cases,,from 30 to 39 years old,248.0
+2017,cases,,from 40 to 49 years old,232.0
+2017,cases,,from 50 to 59 years old,133.0
 2017,cases,,60+,104.0
 2018,cases,,,802.0
 2018,cases,Female,,230.0
 2018,cases,Male,,572.0
 2018,cases,,under 18 years old,33.0
-2018,cases,,Y11,16.0
-2018,cases,,Y12T13,2.0
-2018,cases,,Y14T15,4.0
-2018,cases,,Y16T17,11.0
-2018,cases,,Y18T20,13.0
-2018,cases,,Y21T29,126.0
-2018,cases,,30 to 39 years old,233.0
-2018,cases,,40 to 49 years old,201.0
-2018,cases,,50 to 59 years old,131.0
+2018,cases,,under 11 years old,16.0
+2018,cases,,from 12 to 13 years old,2.0
+2018,cases,,from 14 to 15 years old,4.0
+2018,cases,,from 16 to 17 years old,11.0
+2018,cases,,from 18 to 20 years old,13.0
+2018,cases,,from 21 to 29 years old,126.0
+2018,cases,,from 30 to 39 years old,233.0
+2018,cases,,from 40 to 49 years old,201.0
+2018,cases,,from 50 to 59 years old,131.0
 2018,cases,,60+,102.0
 2019,cases,,,718.0
 2019,cases,Female,,172.0
 2019,cases,Male,,546.0
 2019,cases,,under 18 years old,17.0
-2019,cases,,Y11,8.0
-2019,cases,,Y12T13,0.0
-2019,cases,,Y14T15,4.0
-2019,cases,,Y16T17,5.0
-2019,cases,,Y18T20,25.0
-2019,cases,,Y21T29,133.0
-2019,cases,,30 to 39 years old,212.0
-2019,cases,,40 to 49 years old,163.0
-2019,cases,,50 to 59 years old,115.0
+2019,cases,,under 11 years old,8.0
+2019,cases,,from 12 to 13 years old,0.0
+2019,cases,,from 14 to 15 years old,4.0
+2019,cases,,from 16 to 17 years old,5.0
+2019,cases,,from 18 to 20 years old,25.0
+2019,cases,,from 21 to 29 years old,133.0
+2019,cases,,from 30 to 39 years old,212.0
+2019,cases,,from 40 to 49 years old,163.0
+2019,cases,,from 50 to 59 years old,115.0
 2019,cases,,60+,98.0
 2020,cases,,,606.0
 2020,cases,Female,,150.0
 2020,cases,Male,,456.0
 2020,cases,,under 18 years old,20.0
-2020,cases,,Y11,9.0
-2020,cases,,Y12T13,1.0
-2020,cases,,Y14T15,3.0
-2020,cases,,Y16T17,7.0
-2020,cases,,Y18T20,10.0
-2020,cases,,Y21T29,85.0
-2020,cases,,30 to 39 years old,155.0
-2020,cases,,40 to 49 years old,178.0
-2020,cases,,50 to 59 years old,108.0
+2020,cases,,under 11 years old,9.0
+2020,cases,,from 12 to 13 years old,1.0
+2020,cases,,from 14 to 15 years old,3.0
+2020,cases,,from 16 to 17 years old,7.0
+2020,cases,,from 18 to 20 years old,10.0
+2020,cases,,from 21 to 29 years old,85.0
+2020,cases,,from 30 to 39 years old,155.0
+2020,cases,,from 40 to 49 years old,178.0
+2020,cases,,from 50 to 59 years old,108.0
 2020,cases,,18 to 24 years old,37.0
 2020,cases,,25 to 54 years old,438.0
 2020,cases,,55-59,131.0
@@ -100,15 +100,15 @@ Year,UNIT_MEASURE,Sex,Age,Value
 2021,cases,Female,,140.0
 2021,cases,Male,,422.0
 2021,cases,,under 18 years old,9.0
-2021,cases,,Y11,4.0
-2021,cases,,Y12T13,1.0
-2021,cases,,Y14T15,1.0
-2021,cases,,Y16T17,3.0
-2021,cases,,Y18T20,9.0
-2021,cases,,Y21T29,68.0
-2021,cases,,30 to 39 years old,182.0
-2021,cases,,40 to 49 years old,167.0
-2021,cases,,50 to 59 years old,91.0
+2021,cases,,under 11 years old,4.0
+2021,cases,,from 12 to 13 years old,1.0
+2021,cases,,from 14 to 15 years old,1.0
+2021,cases,,from 16 to 17 years old,3.0
+2021,cases,,from 18 to 20 years old,9.0
+2021,cases,,from 21 to 29 years old,68.0
+2021,cases,,from 30 to 39 years old,182.0
+2021,cases,,from 40 to 49 years old,167.0
+2021,cases,,from 50 to 59 years old,91.0
 2021,cases,,18 to 24 years old,33.0
 2021,cases,,25 to 54 years old,457.0
 2021,cases,,55-59,51.0
@@ -117,15 +117,15 @@ Year,UNIT_MEASURE,Sex,Age,Value
 2022,cases,Female,,145.0
 2022,cases,Male,,366.0
 2022,cases,,under 18 years old,18.0
-2022,cases,,Y11,7.0
-2022,cases,,Y12T13,2.0
-2022,cases,,Y14T15,4.0
-2022,cases,,Y16T17,5.0
-2022,cases,,Y18T20,9.0
-2022,cases,,Y21T29,81.0
-2022,cases,,30 to 39 years old,129.0
-2022,cases,,40 to 49 years old,165.0
-2022,cases,,50 to 59 years old,102.0
+2022,cases,,under 11 years old,7.0
+2022,cases,,from 12 to 13 years old,2.0
+2022,cases,,from 14 to 15 years old,4.0
+2022,cases,,from 16 to 17 years old,5.0
+2022,cases,,from 18 to 20 years old,9.0
+2022,cases,,from 21 to 29 years old,81.0
+2022,cases,,from 30 to 39 years old,129.0
+2022,cases,,from 40 to 49 years old,165.0
+2022,cases,,from 50 to 59 years old,102.0
 2022,cases,,18 to 24 years old,34.0
 2022,cases,,25 to 54 years old,416.0
 2022,cases,,55-59,47.0
@@ -134,15 +134,15 @@ Year,UNIT_MEASURE,Sex,Age,Value
 2023,cases,Female,,144.0
 2023,cases,Male,,313.0
 2023,cases,,under 18 years old,27.0
-2023,cases,,Y11,16.0
-2023,cases,,Y12T13,4.0
-2023,cases,,Y14T15,1.0
-2023,cases,,Y16T17,6.0
-2023,cases,,Y18T20,10.0
-2023,cases,,Y21T29,48.0
-2023,cases,,30 to 39 years old,117.0
-2023,cases,,40 to 49 years old,145.0
-2023,cases,,50 to 59 years old,95.0
+2023,cases,,under 11 years old,16.0
+2023,cases,,from 12 to 13 years old,4.0
+2023,cases,,from 14 to 15 years old,1.0
+2023,cases,,from 16 to 17 years old,6.0
+2023,cases,,from 18 to 20 years old,10.0
+2023,cases,,from 21 to 29 years old,48.0
+2023,cases,,from 30 to 39 years old,117.0
+2023,cases,,from 40 to 49 years old,145.0
+2023,cases,,from 50 to 59 years old,95.0
 2023,cases,,18 to 24 years old,25.0
 2023,cases,,25 to 54 years old,340.0
 2023,cases,,55-59,50.0
@@ -151,15 +151,15 @@ Year,UNIT_MEASURE,Sex,Age,Value
 2024,cases,Female,,134.0
 2024,cases,Male,,349.0
 2024,cases,,under 18 years old,24.0
-2024,cases,,Y11,12.0
-2024,cases,,Y12T13,2.0
-2024,cases,,Y14T15,4.0
-2024,cases,,Y16T17,6.0
-2024,cases,,Y18T20,12.0
-2024,cases,,Y21T29,45.0
-2024,cases,,30 to 39 years old,114.0
-2024,cases,,40 to 49 years old,104.0
-2024,cases,,50 to 59 years old,111.0
+2024,cases,,under 11 years old,12.0
+2024,cases,,from 12 to 13 years old,2.0
+2024,cases,,from 14 to 15 years old,4.0
+2024,cases,,from 16 to 17 years old,6.0
+2024,cases,,from 18 to 20 years old,12.0
+2024,cases,,from 21 to 29 years old,45.0
+2024,cases,,from 30 to 39 years old,114.0
+2024,cases,,from 40 to 49 years old,104.0
+2024,cases,,from 50 to 59 years old,111.0
 2024,cases,,18 to 24 years old,25.0
 2024,cases,,25 to 54 years old,314.0
 2024,cases,,55-59,47.0
@@ -168,28 +168,28 @@ Year,UNIT_MEASURE,Sex,Age,Value
 2025,cases,Female,,126.0
 2025,cases,Male,,306.0
 2025,cases,,under 18 years old,21.0
-2025,cases,,Y11,9.0
-2025,cases,,Y12T13,0.0
-2025,cases,,Y14T15,3.0
-2025,cases,,Y16T17,9.0
-2025,cases,,Y18T20,8.0
-2025,cases,,Y21T29,38.0
-2025,cases,,30 to 39 years old,88.0
-2025,cases,,40 to 49 years old,111.0
-2025,cases,,50 to 59 years old,82.0
+2025,cases,,under 11 years old,9.0
+2025,cases,,from 12 to 13 years old,0.0
+2025,cases,,from 14 to 15 years old,3.0
+2025,cases,,from 16 to 17 years old,9.0
+2025,cases,,from 18 to 20 years old,8.0
+2025,cases,,from 21 to 29 years old,38.0
+2025,cases,,from 30 to 39 years old,88.0
+2025,cases,,from 40 to 49 years old,111.0
+2025,cases,,from 50 to 59 years old,82.0
 2025,cases,,18 to 24 years old,20.0
 2025,cases,,25 to 54 years old,272.0
 2025,cases,,55-59,35.0
 2025,cases,,60+,84.0
-2015,cases,,Y11,24.0
-2015,cases,,Y12T13,1.0
-2015,cases,,Y14T15,4.0
-2015,cases,,Y16T17,17.0
-2015,cases,,Y18T20,31.0
-2015,cases,,Y21T29,185.0
-2015,cases,,30 to 39 years old,222.0
-2015,cases,,40 to 49 years old,201.0
-2015,cases,,50 to 59 years old,139.0
+2015,cases,,under 11 years old,24.0
+2015,cases,,from 12 to 13 years old,1.0
+2015,cases,,from 14 to 15 years old,4.0
+2015,cases,,from 16 to 17 years old,17.0
+2015,cases,,from 18 to 20 years old,31.0
+2015,cases,,from 21 to 29 years old,185.0
+2015,cases,,from 30 to 39 years old,222.0
+2015,cases,,from 40 to 49 years old,201.0
+2015,cases,,from 50 to 59 years old,139.0
 2015,cases,,60+,91.0
 2015,per 100000 population,,,4.9
 2015,per 100000 population,Male,,7.2
