@@ -1,4 +1,20 @@
 Year,Value,UNIT_MEASURE
+2010,1387.0,cases
+2011,1420.0,cases
+2012,1266.0,cases
+2013,1120.0,cases
+2014,904.0,cases
+2015,853.0,cases
+2016,848.0,cases
+2017,915.0,cases
+2018,802.0,cases
+2019,718.0,cases
+2020,606.0,cases
+2021,562.0,cases
+2022,511.0,cases
+2023,457.0,cases
+2024,483.0,cases
+2025,432.0,cases
 2015,4.9,per 100000 population
 2016,4.8,per 100000 population
 2017,5.1,per 100000 population
@@ -9,4 +25,4 @@ Year,Value,UNIT_MEASURE
 2022,2.6,per 100000 population
 2023,2.3,per 100000 population
 2024,2.4,per 100000 population
-2025,2.3,per 100000 population
+2025,2.1,per 100000 population

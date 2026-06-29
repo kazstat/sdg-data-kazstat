@@ -25,8 +25,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             },
@@ -38,10 +38,19 @@
             "constraints": {
               "enum": [
                 "under 18 years old",
+                "Y11",
+                "Y12T13",
+                "Y14T15",
+                "Y16T17",
+                "Y18T20",
+                "Y21T29",
+                "30 to 39 years old",
+                "40 to 49 years old",
+                "50 to 59 years old",
+                "60+",
                 "18 to 24 years old",
                 "25 to 54 years old",
                 "55-59",
-                "60+",
                 ""
               ]
             },
