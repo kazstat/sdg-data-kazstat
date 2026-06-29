@@ -111,3 +111,9 @@ _L_TRST_PARTDIS_: частично доверяю
 _L_TRST_STRAGG_: скорее не доверяю
 _L_TRST_NO_: не доверяю
 _L_TRST_STRDIS_: затрудняюсь ответить
+AGR_APPLE: яблоки 
+AGR_CHICKEN: мясо птицы
+AGR_SAUSAGES: колбасные изделия
+AGR_CHEESE: сыры и творог
+AGR_SUGAR: сахар 
+AGR_FISH: рыба
