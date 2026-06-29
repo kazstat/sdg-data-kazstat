@@ -82,3 +82,9 @@ _L_TRST_PARTDIS_: partially trust
 _L_TRST_STRAGG_: rather don't trust
 _L_TRST_NO_: don't trust
 _L_TRST_STRDIS_: find it difficult to answer
+AGR_APPLE: apple
+AGR_CHICKEN: chicken
+AGR_SAUSAGES: sausages
+AGR_CHEESE: cheese and curd
+AGR_SUGAR: sugar
+AGR_FISH: fish
