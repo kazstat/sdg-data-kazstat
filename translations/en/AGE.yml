@@ -28,3 +28,12 @@ Y30T40: from 30 to 40 years old
 Y40T50: from 40 to 50 years old
 Y_GE50: 50 years old and older
 M25T34: 25-34
+Y11: under 11 years old
+Y12T13: from 12 to 13 years old
+Y14T15: from 14 to 15 years old
+Y16T17: from 16 to 17 years old
+Y18T20: from 18 to 20 years old
+Y21T29: from 21 to 29 years old
+Y30T39: from 30 to 39 years old
+Y40T49: from 40 to 49 years old
+Y50T59: from 50 to 59 years old
