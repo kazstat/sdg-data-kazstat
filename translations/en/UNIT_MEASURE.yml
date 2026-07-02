@@ -5,6 +5,7 @@ M_USD: million US dollars
 NUM_ATM_PER_100000_ADL: number of ATMs per 100 000 adults
 NUM_CBBR_PER_100000_ADL: the number of branches of commercial banks per 100 000 adults
 PERSONS: persons
+PERSONS_100000: per 100 000 persons
 PER_1000000_POP: mln.people
 PER_100000_LIVE_BIRTHS: per 100000 live births
 PER_100000_POP: per 100000 population
