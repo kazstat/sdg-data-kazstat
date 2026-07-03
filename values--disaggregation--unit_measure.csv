@@ -21,7 +21,7 @@ PER_1000_POP,на 1000 населения,1000 халыққа,per 1000 populatio
 PER_1000_UNINFECTED_POP,на 1000 неинфицированных,1000 жұқтырмағандарға,per 1000 non immunized,1,1
 PERSONS,человек,адам,persons,28,4
 PERSONS_100000,на 100 000 человек,100 000 адамға,per 100 000 persons,1,1
-PT,процент,пайыз,Percent,4058,135
+PT,процент,пайыз,Percent,4054,134
 PT_BY_2005,в процентах к 2005 году,2005 жылға пайызбен,as a percentage to 2005,17,1
 PT_IN_2010_PRICE,"процент, в ценах 2010 года",2010 жылғы бағаларда пайызбен,"percent, base year 2010",18,1
 PT_PREV_Y,в процентах к предыдущему году,өткен жылға пайызбен,as a percentage to the previous year,49,4
@@ -34,6 +34,6 @@ TH_HA,тыс.гектар,мың.гектар,thousands hectares,103,5
 TH_PEOPLE,тыс.человек,мың.адам,thousand people,43,2
 TH_TNG,тыс.тенге,мың теңге,thousand of tenge,64,2
 TH_UNITS,тыс.единиц,мың бірлік,thousands,66,1
-UNITS,единиц,бірлік,units,8,7
+UNITS,единиц,бірлік,units,12,8
 USD_IN_2010_PRICE,"в долларах США, в ценах 2010 года","2010 жылғы бағаларда, АҚШ доллар",tenge per US dollars in 2010 prices,17,1
 VC_PRS_UNSNT,задержано человек,қамауда ұсталған адам саны,detainees,1,1
