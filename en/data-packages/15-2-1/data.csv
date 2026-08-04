@@ -1100,6 +1100,24 @@ Year,UNIT_MEASURE,SERIES,Regions,GeoCode,Value
 2025,thousands hectares,Land area covered by forest,Abai,KZABY,440.3
 2025,thousands hectares,Land area covered by forest,Zhetisu,KZZHS,451.3
 2025,thousands hectares,Land area covered by forest,Ulytau,KZULU,14.3
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],,,463.2
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Akmola,KZAKM,52.2
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Aktobe,KZAKT,1.4
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Almaty,KZALM,36.9
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Atyrau,KZATY,0.4
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Batys Kazakhstan,KZZAP,9.0
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhambyl,KZZHA,5.0
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Karagandy,KZKAR,7.2
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kostanay,KZKUS,17.9
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Kyzylorda,KZKZY,11.8
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Mangistau,KZMAN,0.1
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Pavlodar,KZPAV,31.8
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Soltustik Kazakhstan,KZSEV,50.1
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Turkistan,KZYUZ,3.8
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Shygys Kazakhstan,KZVOS,167.5
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Abai,KZABY,48.2
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Zhetisu,KZZHS,16.5
+2025,M_METER3,Above-ground biomass in forest (tonnes) [15.2.1],Ulytau,KZULU,0.4
 2025,thousands hectares,Net forest area change,,,134.4
 2025,thousands hectares,Net forest area change,Akmola,KZAKM,0.2
 2025,thousands hectares,Net forest area change,Aktobe,KZAKT,0.4
