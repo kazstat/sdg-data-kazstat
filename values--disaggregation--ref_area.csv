@@ -5,7 +5,7 @@ Value,ru,kk,en,Disaggregation combinations using this value,Number of indicators
 68.5,68.5,68.5,68.5,1,1
 ABY,ABY,ABY,ABY,1,1
 KZ YUZ,KZ YUZ,KZ YUZ,KZ YUZ,1,1
-KZABY,Абай,Абай,Abai,242,68
+KZABY,Абай,Абай,Abai,243,69
 KZABY1036,Аягозский район,Аягөз ауданы,Ayagoz district,1,1
 KZABY1042,Жарминский район,Жарма ауданы,Zharma district,1,1
 KZABY1044,Кокпектинский район,Көкпекті ауданы,Kokpekti district,1,1
@@ -30,7 +30,7 @@ KZAKT1556,Темирский район,Темір ауданы,Temir district,1
 KZAKT1564,Шалкарский район,Шалқар ауданы,Shalkar district,1,1
 KZAKT1568,Иргизский район,Ырғыз ауданы,Irgiz district,1,1
 KZAKY,п.Акай,Ақай кенті,village Akay,1,1
-KZALA,г_Алматы,Алматы қаласы,Almaty city,208,69
+KZALA,г_Алматы,Алматы қаласы,Almaty city,209,70
 KZALM,Алматинская,Алматы,Almaty,266,76
 KZALM1910,Қонаев г.а.,Қонаев қ.ә.,Konaev city admin.,1,1
 KZALM1940,Енбекшиказахский район,Еңбекшіқазақ ауданы,Enbekshikazakh district,1,1
@@ -67,7 +67,7 @@ KZKZL,г.Кызылорда,Қызылорда,city Kyzylorda,2,1
 KZKZY,Кызылординская,Қызылорда,Kyzylorda,260,73
 KZLIS,г_Лисаковск,KZLIS,KZLIS,2,1
 KZMAN,Мангистауская,Маңғыстау,Mangistau,262,73
-KZNS,г_Астана,Астана қаласы,Astana city,209,68
+KZNS,г_Астана,Астана қаласы,Astana city,210,69
 KZONT,Южно-Казахстанская,Оңтүстік Қазақстан,Ontustik Kazakhstan,154,51
 KZPAV,Павлодарская,Павлодар,Pavlodar,265,75
 KZPVL,г.Павлодар,Павлодар,city Pavlodar,2,1
@@ -78,7 +78,7 @@ KZSEM1010,Семей г.а.,Семей қ.ә.,Semey city admin.,1,1
 KZSEV,Северо-Казахстанская,Солтүстік Қазақстан,Soltustik Kazakhstan,264,75
 KZSHB,ЩБКЗ,ЩБКЗ,SHBKZ,2,1
 KZSHU,г.Чу,Шу,Shu city,2,1
-KZSHY,г_Шымкент,Шымкент қаласы,Shymkent city,208,67
+KZSHY,г_Шымкент,Шымкент қаласы,Shymkent city,209,68
 KZSRB,п.Сарыбулак,Сарыбұлақ кенті,village Sarıbulak,2,1
 KZSRN,г.Сарань,Саран,city Saran,2,1
 KZSTG,г.Степногорск,Степногорск,City Stepnogorsk,2,1
