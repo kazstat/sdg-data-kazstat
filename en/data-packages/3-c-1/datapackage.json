@@ -25,10 +25,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_HLTH_NUM_DOC",
-                "_L_HLTH_PRV_MEDW",
-                "_L_HLTH_PRV_DENT",
-                "_L_HLTH_PRV_PHMT",
+                "Number of physicians per 1,000 population (excluding dentists)",
+                "Number of paramedical personnel per 1000 population",
+                "Number of dentists per 1000 population (including dental technicians)",
+                "Number of pharmaceutical personnel per 1000 population (including pharmacists)",
                 ""
               ]
             },
