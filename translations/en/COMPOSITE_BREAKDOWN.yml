@@ -88,3 +88,9 @@ AGR_SAUSAGES: sausages
 AGR_CHEESE: cheese and curd
 AGR_SUGAR: sugar
 AGR_FISH: fish
+_L_HLTH_NUM_DOC: Number of physicians per 1,000 population (excluding dentists)
+_L_HLTH_PRV_DENT: Number of dentists per 1000 population (including dental
+  technicians)
+_L_HLTH_PRV_MEDW: Number of paramedical personnel per 1000 population
+_L_HLTH_PRV_PHMT: Number of pharmaceutical personnel per 1000 population
+  (including pharmacists)
