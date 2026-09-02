@@ -3139,19 +3139,6 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "оба пола",
-                "мужчины",
-                "женщины",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

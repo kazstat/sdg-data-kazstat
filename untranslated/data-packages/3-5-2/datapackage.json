@@ -19,18 +19,6 @@
             "type": "string"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BOTHSEX",
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

@@ -3139,19 +3139,6 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "екі жыныс",
-                "ерлер",
-                "әйелдер",
-                ""
-              ]
-            },
-            "title": "Жынысы"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
