@@ -241,6 +241,7 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2023,thousands hectares,Almaty city,KZALA,0.1
 2023,thousands hectares,Shymkent city,KZSHY,23.2
 2024,thousands hectares,,,29.9
+2024,thousands hectares,Abai,KZABY,841.5
 2024,thousands hectares,Akmola,KZAKM,577.2
 2024,thousands hectares,Aktobe,KZAKT,2676.2
 2024,thousands hectares,Almaty,KZALM,2663.2
@@ -259,3 +260,23 @@ Year,UNIT_MEASURE,Regions,GeoCode,Value
 2024,thousands hectares,Shygys Kazakhstan,KZVOS,466.6
 2024,thousands hectares,Almaty city,KZALA,0.1
 2024,thousands hectares,Shymkent city,KZSHY,23.2
+2025,thousands hectares,,,2754.1
+2025,thousands hectares,Abai,KZABY,56.0
+2025,thousands hectares,Akmola,KZAKM,93.9
+2025,thousands hectares,Aktobe,KZAKT,87.5
+2025,thousands hectares,Almaty,KZALM,16.7
+2025,thousands hectares,Atyrau,KZATY,1025.2
+2025,thousands hectares,Batys Kazakhstan,KZZAP,0.0
+2025,thousands hectares,Zhambyl,KZZHA,23.7
+2025,thousands hectares,Zhetisu,KZZHS,0.0
+2025,thousands hectares,Karagandy,KZKAR,120.9
+2025,thousands hectares,Kostanay,KZKUS,709.8
+2025,thousands hectares,Kyzylorda,KZKZY,21.4
+2025,thousands hectares,Mangistau,KZMAN,47.7
+2025,thousands hectares,Pavlodar,KZPAV,214.2
+2025,thousands hectares,Soltustik Kazakhstan,KZSEV,0.0
+2025,thousands hectares,Turkistan,KZYUZ,71.5
+2025,thousands hectares,Ulytau,KZULU,0.0
+2025,thousands hectares,Shygys Kazakhstan,KZVOS,38.5
+2025,thousands hectares,Almaty city,KZALA,227.1
+2025,thousands hectares,Shymkent city,KZSHY,0.0
