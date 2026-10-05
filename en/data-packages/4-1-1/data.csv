@@ -203,3 +203,69 @@ Year,UNIT_MEASURE,SERIES,Sex,Regions,GeoCode,Value
 2022,Percent,math skills (based on gender and PISA),,Astana city,KZNS,61.1
 2022,Percent,math skills (based on gender and PISA),,Almaty city,KZALA,62.6
 2022,Percent,math skills (based on gender and PISA),,Shymkent city,KZSHY,40.4
+2025,Percent,i) literacy (based on gender),,,,36.0
+2025,Percent,i) literacy (based on gender),Male,,,30.2
+2025,Percent,i) literacy (based on gender),Female,,,41.9
+2025,Percent,i) literacy (based on gender),,Abai,KZABY,35.6
+2025,Percent,i) literacy (based on gender),Male,Abai,KZABY,29.8
+2025,Percent,i) literacy (based on gender),Female,Abai,KZABY,42.5
+2025,Percent,i) literacy (based on gender),,Akmola,KZAKM,44.6
+2025,Percent,i) literacy (based on gender),Male,Akmola,KZAKM,37.5
+2025,Percent,i) literacy (based on gender),Female,Akmola,KZAKM,53.1
+2025,Percent,i) literacy (based on gender),,Aktobe,KZAKT,29.4
+2025,Percent,i) literacy (based on gender),Male,Aktobe,KZAKT,23.3
+2025,Percent,i) literacy (based on gender),Female,Aktobe,KZAKT,37.2
+2025,Percent,i) literacy (based on gender),,Almaty,KZALM,29.5
+2025,Percent,i) literacy (based on gender),Male,Almaty,KZALM,24.7
+2025,Percent,i) literacy (based on gender),Female,Almaty,KZALM,33.7
+2025,Percent,i) literacy (based on gender),,Atyrau,KZATY,29.0
+2025,Percent,i) literacy (based on gender),Male,Atyrau,KZATY,21.6
+2025,Percent,i) literacy (based on gender),Female,Atyrau,KZATY,36.4
+2025,Percent,i) literacy (based on gender),,Batys Kazakhstan,KZZAP,35.3
+2025,Percent,i) literacy (based on gender),Male,Batys Kazakhstan,KZZAP,27.7
+2025,Percent,i) literacy (based on gender),Female,Batys Kazakhstan,KZZAP,44.1
+2025,Percent,i) literacy (based on gender),,Zhambyl,KZZHA,31.5
+2025,Percent,i) literacy (based on gender),Male,Zhambyl,KZZHA,28.2
+2025,Percent,i) literacy (based on gender),Female,Zhambyl,KZZHA,34.9
+2025,Percent,i) literacy (based on gender),,Zhetisu,KZZHS,30.0
+2025,Percent,i) literacy (based on gender),Male,Zhetisu,KZZHS,23.9
+2025,Percent,i) literacy (based on gender),Female,Zhetisu,KZZHS,36.5
+2025,Percent,i) literacy (based on gender),,Karagandy,KZKAR,47.0
+2025,Percent,i) literacy (based on gender),Male,Karagandy,KZKAR,40.0
+2025,Percent,i) literacy (based on gender),Female,Karagandy,KZKAR,55.4
+2025,Percent,i) literacy (based on gender),,Kostanay,KZKUS,55.5
+2025,Percent,i) literacy (based on gender),Male,Kostanay,KZKUS,51.1
+2025,Percent,i) literacy (based on gender),Female,Kostanay,KZKUS,60.4
+2025,Percent,i) literacy (based on gender),,Kyzylorda,KZKZY,17.3
+2025,Percent,i) literacy (based on gender),Male,Kyzylorda,KZKZY,9.9
+2025,Percent,i) literacy (based on gender),Female,Kyzylorda,KZKZY,25.2
+2025,Percent,i) literacy (based on gender),,Mangistau,KZMAN,27.5
+2025,Percent,i) literacy (based on gender),Male,Mangistau,KZMAN,23.0
+2025,Percent,i) literacy (based on gender),Female,Mangistau,KZMAN,31.9
+2025,Percent,i) literacy (based on gender),,Ontustik Kazakhstan,KZONT,0.0
+2025,Percent,i) literacy (based on gender),Male,Ontustik Kazakhstan,KZONT,0.0
+2025,Percent,i) literacy (based on gender),Female,Ontustik Kazakhstan,KZONT,0.0
+2025,Percent,i) literacy (based on gender),,Pavlodar,KZPAV,46.3
+2025,Percent,i) literacy (based on gender),Male,Pavlodar,KZPAV,40.9
+2025,Percent,i) literacy (based on gender),Female,Pavlodar,KZPAV,52.4
+2025,Percent,i) literacy (based on gender),,Soltustik Kazakhstan,KZSEV,52.8
+2025,Percent,i) literacy (based on gender),Male,Soltustik Kazakhstan,KZSEV,48.9
+2025,Percent,i) literacy (based on gender),Female,Soltustik Kazakhstan,KZSEV,57.0
+2025,Percent,i) literacy (based on gender),,Ulytau,KZULU,25.5
+2025,Percent,i) literacy (based on gender),Male,Ulytau,KZULU,21.6
+2025,Percent,i) literacy (based on gender),Female,Ulytau,KZULU,29.1
+2025,Percent,i) literacy (based on gender),,Shygys Kazakhstan,KZVOS,49.8
+2025,Percent,i) literacy (based on gender),Male,Shygys Kazakhstan,KZVOS,42.5
+2025,Percent,i) literacy (based on gender),Female,Shygys Kazakhstan,KZVOS,57.3
+2025,Percent,i) literacy (based on gender),,Turkistan,KZYUZ,20.7
+2025,Percent,i) literacy (based on gender),Male,Turkistan,KZYUZ,14.7
+2025,Percent,i) literacy (based on gender),Female,Turkistan,KZYUZ,26.8
+2025,Percent,i) literacy (based on gender),,Astana city,KZNS,55.7
+2025,Percent,i) literacy (based on gender),Male,Astana city,KZNS,50.5
+2025,Percent,i) literacy (based on gender),Female,Astana city,KZNS,60.7
+2025,Percent,i) literacy (based on gender),,Almaty city,KZALA,50.4
+2025,Percent,i) literacy (based on gender),Male,Almaty city,KZALA,44.1
+2025,Percent,i) literacy (based on gender),Female,Almaty city,KZALA,56.2
+2025,Percent,i) literacy (based on gender),,Shymkent city,KZSHY,25.5
+2025,Percent,i) literacy (based on gender),Male,Shymkent city,KZSHY,20.8
+2025,Percent,i) literacy (based on gender),Female,Shymkent city,KZSHY,30.2
