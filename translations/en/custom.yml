@@ -35,16 +35,16 @@ frontpage_intro_description: >-
   by placing them on the internet-resource of the state statistical offices and on the Internet-portal of open data 
   of the web-resource of «e-government».</p>
 
-  <p class="lead-copy">Users have the right to:
-  1) simultaneous and equal access to official statistical information according to the schedule of dissemination of official statistical information;
-  2) conditions for the use of official statistical information. Users without conclusion of the contract with the Bureau of National Statistics 
-  of the Agency on Strategic Planning and Reforms of the Republic of Kazakhstan can use official statistical information (including repeatedly) freely, 
-  free of charge, indefinitely and without limitation of the territory of use, including copy, publish, distribute with reference to the source, modify 
-  and combine with other information, as well as use for the purpose of creation of program products and applications.</p>
-  
+  <h3 class="frontpage-license-heading">Conditions for the use of official statistical information</h3>
+
+  <p class="lead-copy">Users may use official statistical information for any purposes (including reusing it in full)
+  freely, free of charge, perpetually, and without territorial restrictions, including copying, publishing,
+  distributing with a reference to the source, modifying, combining it with other information, as well as using
+  it for the creation of software products and applications.</p>
+
 frontpage_intro_sidebar: >-
   <p>
-    <a href='https://eri.kz/en/Celi_ustojchivogo_razvitija/About_TSUR/' class='btn btn-primary btn-download'>
+    <a href='https://eri.kz/en/Celi_ustojchivogo_razvitija/About_TSUR/' target="_blank" rel="noopener noreferrer" class='btn btn-primary btn-download'>
       About implementation of the Sustainable Development Goals in Kazakhstan
     </a>
   </p>
